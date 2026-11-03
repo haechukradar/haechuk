@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T22:14:00.658Z",
+ "updatedAt": "2026-11-03T22:59:06.088Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "saliba-injury",
   "atletico-bayern-2026-11-03",
-  "villarreal-psg-2026-11-03"
+  "feyenoord-inter-2026-11-03",
+  "saliba-injury"
  ],
  "days": [
   "2026-10-18",
@@ -27,20 +27,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 73,
+   "items": 72,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 3,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 11,
    "authorRate": 0
   },
   "espn": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -63,7 +63,7 @@
   },
   "as": {
    "ok": true,
-   "items": 49,
+   "items": 50,
    "added": 9,
    "authorRate": 100
   },
@@ -76,14 +76,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 74
+   "added": 6,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -106,7 +106,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 83
   },
   "waz": {
@@ -130,13 +130,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -148,7 +148,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -159,8 +159,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 18,
-   "added": 5,
+   "items": 20,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -172,7 +172,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
@@ -245,7 +245,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 114,
+  "recentIssues": 116,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -254,15 +254,19 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 36
+    "count": 47
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 17
+    "count": 22
+   },
+   {
+    "slug": "villarreal-psg-2026-11-03",
+    "count": 18
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 15
+    "count": 17
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -418,6 +422,20 @@
    ]
   },
   {
+   "en": "Eberl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에벌",
+     "count": 2
+    },
+    {
+     "ko": "에베를",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blessin",
    "dictionary": null,
    "variants": [
@@ -505,20 +523,6 @@
     },
     {
      "ko": "루이 보르게스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Eberl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에베를",
-     "count": 1
-    },
-    {
-     "ko": "에벌",
      "count": 1
     }
    ]
@@ -636,6 +640,20 @@
    ]
   },
   {
+   "en": "Fabian Ruiz",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파비안 루이스",
+     "count": 1
+    },
+    {
+     "ko": "파비앙 루이스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
@@ -659,6 +677,20 @@
     },
     {
      "ko": "가크포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Undav",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "운다브",
+     "count": 1
+    },
+    {
+     "ko": "운데이",
      "count": 1
     }
    ]
@@ -690,6 +722,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Gabby Logan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "개비 로건",
+     "count": 1
+    },
+    {
+     "ko": "가비 로건",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -714,8 +760,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 416,
-   "llm": 416
+   "collected": 474,
+   "llm": 474
   }
  }
 }
