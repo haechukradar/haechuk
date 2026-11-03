@@ -1,34 +1,139 @@
 [
  {
-  "slug": "gravenberch-injury",
+  "slug": "burgess-injury",
   "mode": "llm",
-  "titleKo": "그라벤베르흐 부상, 리버풀 전력 공백",
-  "createdAt": "2026-11-03T11:35:04.000Z",
-  "updatedAt": "2026-11-03T14:42:05.000Z",
+  "titleKo": "버게스 발목 부상 검사 일정",
+  "createdAt": "2026-11-02T10:26:48.000Z",
+  "updatedAt": "2026-11-03T16:47:00.000Z",
   "category": "injury",
   "stage": null,
-  "clubs": [
-   "liverpool"
-  ],
+  "clubs": [],
   "players": [
-   "라이언 그라벤베르흐",
-   "그라벤베르흐"
+   "크리스티안 버게스",
+   "버게스"
   ],
   "sig": [
-   "fenerbahce",
-   "ryan",
-   "gravenberch"
+   "gent",
+   "mri",
+   "christian",
+   "burgess"
   ],
   "articles": [
    {
-    "id": "a1f14eb6888c",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "title": "Liverpool latest: Gravenberch out of Fenerbahce trip",
-    "ko": "그라벤베르흐, 페네르바체 원정 명단 제외",
-    "source": "sky",
-    "publishedAt": "2026-11-03T10:15:00.000Z",
+    "id": "4a809102fc65",
+    "url": "https://www.hln.be/jupiler-pro-league/burgess-zakte-plots-door-zn-enkel-hoe-verliezend-aa-gent-een-echt-halloweenweekend-beleefde-en-de-grootste-klap-nog-kan-komen~a3ebe930/",
+    "title": "“Burgess zakte plots door z’n enkel”: hoe verliezend AA Gent een écht Halloweenweekend beleefde (en de grootste klap nog kan komen)",
+    "ko": "버게스 발목 부상 소식에 헨트 할로윈 주말 악몽",
+    "source": "hln",
+    "publishedAt": "2026-11-02T07:08:00.000Z",
     "credited": null,
     "category": "injury",
+    "stage": null,
+    "players": [
+     "버게스"
+    ],
+    "playerTags": [],
+    "author": "Jordi De Koninck",
+    "transfer": null
+   },
+   {
+    "id": "44638d5f52d3",
+    "url": "https://www.hln.be/aa-gent/aa-gent-moet-nog-wat-langer-bang-afwachten-mri-scan-van-enkel-christian-burgess-staat-pas-dinsdagavond-gepland~aebbb0e4/",
+    "title": "AA Gent moet nog wat langer bang afwachten: MRI-scan van enkel Christian Burgess staat pas dinsdagavond gepland",
+    "ko": "크리스티안 버게스 발목 MRI 검사, 화요일 저녁 예정",
+    "source": "hln",
+    "publishedAt": "2026-11-02T10:26:48.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "크리스티안 버게스"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "7b423db57d2d",
+    "url": "https://www.hln.be/aa-gent/een-fikse-domper-voor-aa-gent-sterkhouder-christian-burgess-2-tot-3-maanden-buiten-strijd~aebbb0e4/",
+    "title": "Een fikse domper voor AA Gent: sterkhouder Christian Burgess 2 tot 3 maanden buiten strijd",
+    "ko": "크리스티안 버게스, 2~3개월 결장 소식으로 AA 헨트에 악재",
+    "source": "hln",
+    "publishedAt": "2026-11-03T16:47:00.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "크리스티안 버게스"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.19,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-02T07:08:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Een fikse domper voor AA Gent: sterkhouder Christian Burgess 2 tot 3 maanden buiten strijd"
+ },
+ {
+  "slug": "man-utd-roma-2026-11-03",
+  "mode": "llm",
+  "titleKo": "맨유 대 로마 챔피언스리그 경기",
+  "createdAt": "2026-11-03T13:40:08.000Z",
+  "updatedAt": "2026-11-03T16:41:17.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "roma"
+  ],
+  "players": [
+   "리산드로 마르티네스",
+   "마커스 래시포드",
+   "마르티네스"
+  ],
+  "sig": [
+   "u19s",
+   "uefa",
+   "youth"
+  ],
+  "articles": [
+   {
+    "id": "ff1356b8f0e1",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34848272",
+    "title": "Every word Michael Carrick said in press conference ahead of Manchester United vs Roma",
+    "ko": "캐릭, 맨유 대 로마 경기 전 기자회견 전문",
+    "source": "men",
+    "publishedAt": "2026-11-02T14:41:20.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston, Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "7e1ece2e4fae",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+    "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+    "ko": "캐릭, 로마전 앞두고 \"미친 일\" 말하지만 기대감 표명",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T16:00:07.000Z",
+    "credited": null,
+    "category": "manager",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -36,66 +141,271 @@
     "transfer": null
    },
    {
-    "id": "faf883812e45",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/12-players-could-miss-fenerbahce-34854892",
-    "title": "12 players could miss Fenerbahce vs Liverpool after Ryan Gravenberch injury blow",
-    "ko": "페네르바체 대 리버풀 앞두고 그라벤베르흐 부상, 12명 결장 가능성",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T11:35:04.000Z",
+    "id": "eb23908d8a5b",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34851081",
+    "title": "Manchester United line-up vs Roma predicted as Carrick faced with Martinez conundrum",
+    "ko": "캐릭, 로마전 마르티네스 딜레마 속 맨유 선발 예상",
+    "source": "men",
+    "publishedAt": "2026-11-03T06:00:00.000Z",
     "credited": null,
-    "category": "injury",
+    "category": "match",
     "stage": null,
     "players": [
-     "라이언 그라벤베르흐"
+     "리산드로 마르티네스"
     ],
     "playerTags": [],
-    "author": "Theo Squires",
+    "author": "Jack Flintham",
     "transfer": null
    },
    {
-    "id": "0024bf07f052",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/iraola-liverpool-press-conference-live-34856465",
-    "title": "Andoni Iraola Liverpool press conference LIVE - Ryan Gravenberch injury, team news, Fenerbahce tie",
-    "ko": "슬롯 아닌 이라올라, 리버풀 기자회견서 그라벤베르흐 부상 언급",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T14:42:05.000Z",
+    "id": "afc15e7e5f91",
+    "url": "https://www.thesun.co.uk/sport/40884800/man-utd-roma-bet-builder-free-bets-paddy-power/",
+    "title": "Man Utd vs Roma: Our 8/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+    "ko": "맨유 대 로마 경기 배팅 팁과 무료 베팅 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-03T06:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "6175ac215215",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-latest-roma-34853445",
+    "title": "Nine players set to miss Man United vs Roma after Marcus Rashford injury update",
+    "ko": "래시포드 부상 업데이트 속 맨유, 로마전 9명 결장 예상",
+    "source": "men",
+    "publishedAt": "2026-11-03T06:21:00.000Z",
     "credited": null,
     "category": "injury",
     "stage": null,
     "players": [
-     "그라벤베르흐"
+     "마커스 래시포드"
     ],
+    "playerTags": [
+     "marcus-rashford"
+    ],
+    "author": "Mark Wakefield",
+    "transfer": null
+   },
+   {
+    "id": "8930c7893239",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34848284",
+    "title": "How Manchester United should line up vs Roma in Champions League",
+    "ko": "맨유는 로마전에서 어떤 라인업을 짜야 하나",
+    "source": "men",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
     "playerTags": [],
-    "author": "Paul Gorst, Mark Jones",
+    "author": "Tyrone Marshall, Steven Railston, Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "0a729d89981c",
+    "url": "https://www.thesun.co.uk/sport/40882008/michael-carrick-man-utd-roma-predictions/",
+    "title": "Man Utd vs Roma | Champions League predictions, preview and free bets in must-win game for Michael Carrick",
+    "ko": "맨유 대 로마, 캐릭 감독에게 필승이 요구되는 챔피언스리그 경기 예상",
+    "source": "sun",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "5036dc7e62d2",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-u19s-vs-roma-34851435",
+    "title": "Manchester United U19s vs Roma LIVE updates and team news from UEFA Youth League fixture",
+    "ko": "맨유 U19, 유스 챔피언스리그서 로마와 격돌 실시간",
+    "source": "men",
+    "publishedAt": "2026-11-03T13:40:08.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "a60e15e1acbf",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roma-tv-channel-37835883",
+    "title": "How to watch Man Utd vs Roma - TV channel, live stream, kick-off time",
+    "ko": "맨유 대 로마 경기 중계 채널과 킥오프 시간",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T16:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Bayliss",
+    "transfer": null
+   },
+   {
+    "id": "ef85b294540a",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-tv-channel-34853839",
+    "title": "Is Man United vs Roma on TV? Channel, live stream and kick-off time",
+    "ko": "맨유 대 로마 경기 방송 채널과 생중계 및 킥오프 시간 안내",
+    "source": "men",
+    "publishedAt": "2026-11-03T16:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Abbie Meehan",
+    "transfer": null
+   },
+   {
+    "id": "1938fd7ebf84",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-roma-live-34857835",
+    "title": "Manchester United vs Roma LIVE: Early team news and how to watch crucial Champions League clash",
+    "ko": "맨유 대 로마 챔피언스리그 경기, 초반 선수 소식과 중계 정보",
+    "source": "men",
+    "publishedAt": "2026-11-03T16:41:17.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Steven Railston, Ross Jackson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 0.79,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "marcus-rashford"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-02T14:41:20.000Z",
+   "viaQuote": false
+  },
+  "headline": "Carrick says it's 'crazy' but he's looking forward to Roma game"
+ },
+ {
+  "slug": "arsenal-slavia-praha-2026-11-03",
+  "mode": "llm",
+  "titleKo": "아스널 대 슬라비아 프라하 챔피언스리그 경기",
+  "createdAt": "2026-11-03T16:30:00.000Z",
+  "updatedAt": "2026-11-03T16:30:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "다우먼",
+   "외데고르",
+   "요케레스"
+  ],
+  "sig": [
+   "odegaard",
+   "gyokeres",
+   "slavia",
+   "praha"
+  ],
+  "articles": [
+   {
+    "id": "3709b363fb8d",
+    "url": "https://www.thesun.co.uk/sport/40895754/slavia-prague-arsenal-champions-league-paddy-power/",
+    "title": "Slavia Prague vs Arsenal: Get 50/1 for a goal to be scored in Champions League tie with Paddy Power",
+    "ko": "슬라비아 프라하 대 아스널 챔피언스리그 득점 배당",
+    "source": "sun",
+    "publishedAt": "2026-11-03T16:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "2a2a6fc66e3d",
+    "url": "https://www.thesun.co.uk/sport/40897097/mikel-arteta-arsenal-yaya-sanogo-champions-league/",
+    "title": "Mikel Arteta shares heartfelt moment with former Arsenal team-mate as Gunners prepare for Slavia Prague clash",
+    "ko": "아르테타, 전 동료와 감동적인 순간 공유하며 슬라비아 프라하전 준비",
+    "source": "sun",
+    "publishedAt": "2026-11-03T16:04:39.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Charlie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "26ea12eb4754",
+    "url": "https://www.football.london/arsenal-fc/fixtures-results/dowman-odegaard-start-gyokeres-call-34857536",
+    "title": "Dowman and Odegaard start, Gyokeres call amid seven changes - Arsenal line-ups vs Slavia Praha",
+    "ko": "아스널, 슬라비아 프라하전 선발 명단 공개 (다우먼·외데고르 선발)",
+    "source": "fblondon",
+    "publishedAt": "2026-11-03T16:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "다우먼",
+     "외데고르",
+     "요케레스"
+    ],
+    "playerTags": [
+     "martin-odegaard",
+     "viktor-gyokeres"
+    ],
+    "author": "Tom Canton, Ryan Taylor",
     "transfer": null
    }
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.57,
-  "topTier": 2,
+  "score": 1.65,
+  "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [],
+  "playerTags": [
+   "martin-odegaard",
+   "viktor-gyokeres"
+  ],
   "transfer": null,
   "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-03T10:15:00.000Z",
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-03T16:00:00.000Z",
    "viaQuote": false
   },
-  "headline": "Liverpool latest: Gravenberch out of Fenerbahce trip"
+  "headline": "Dowman and Odegaard start, Gyokeres call amid seven changes - Arsenal line-ups vs Slavia Praha"
  },
  {
   "slug": "de-miguel-incident",
   "mode": "llm",
   "titleKo": "데 미겔 사망 사고, 스페인축구협회 경기 연기",
   "createdAt": "2026-11-03T09:39:19.000Z",
-  "updatedAt": "2026-11-03T14:38:54.000Z",
+  "updatedAt": "2026-11-03T16:23:53.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
-   "real-madrid"
+   "real-madrid",
+   "arsenal"
   ],
   "players": [
    "헤수스 데 미겔",
@@ -109,7 +419,11 @@
    "음바페",
    "데 헤아",
    "호세스 데 미겔",
-   "킬리안 음바페"
+   "킬리안 음바페",
+   "미셸 오워노",
+   "케빈 카스트로",
+   "마크비앙 포에",
+   "안토니오 푸에르타"
   ],
   "sig": [
    "gerard",
@@ -961,11 +1275,144 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "d3254421b683",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-police-nationale-espagnole-ouvre-une-enquete-apres-la-mort-de-jesus-de-miguel-a-la-suite-d-un-choc-sur-le-terrain/1740813#at_medium=RSS_feeds",
+    "title": "La police nationale espagnole ouvre une enquête après la mort de Jesus de Miguel à la suite d'un choc sur le terrain",
+    "ko": "스페인 경찰, 데 미겔 사망 사고 수사 착수",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T14:39:39.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "09873789e89c",
+    "url": "https://www.lequipe.fr/Football/Video/Mort-de-jesus-de-miguel-la-minute-de-silence-des-joueurs-du-real-madrid-et-d-arsenal/20244767#at_medium=RSS_feeds",
+    "title": "La minute de silence du Real Madrid et d'Arsenal",
+    "ko": "레알 마드리드와 아스널, 데 미겔 추모 묵념",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T14:55:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8ae5f27ca5cd",
+    "url": "https://as.com/futbol/segunda/el-emotivo-recuerdo-de-jesus-de-miguel-lo-recordare-toda-mi-vida-f202611-n/",
+    "title": "El emotivo recuerdo de Jesús de Miguel: “Lo recordaré toda mi vida”",
+    "ko": "헤수스 데 미겔 회고, 평생 잊지 못할 기억",
+    "source": "as",
+    "publishedAt": "2026-11-03T14:56:54.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Olmo Cerdeira,Xavi Sidro,Mario de la Riva",
+    "transfer": null
+   },
+   {
+    "id": "055b23ee8448",
+    "url": "https://www.lequipe.fr/Football/Actualites/Quevin-castro-marc-vivien-foe-antonio-puerta-comme-jesus-de-miguel-ils-sont-morts-apres-un-accident-survenu-sur-un-terrain-de-football/1740821#at_medium=RSS_feeds",
+    "title": "Quevin Castro, Marc-Vivien Foé, Antonio Puerta... Comme Jesus de Miguel, ils sont morts après un accident survenu sur un terrain de football",
+    "ko": "데 미겔 등 축구장 사고로 숨진 선수들 사례 회고",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T15:09:10.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔",
+     "케빈 카스트로",
+     "마크비앙 포에",
+     "안토니오 푸에르타"
+    ],
+    "playerTags": [],
+    "author": "Vincent Villa",
+    "transfer": null
+   },
+   {
+    "id": "92431479747d",
+    "url": "https://www.lequipe.fr/Football/Actualites/Michel-owono-homonyme-du-gardien-a-l-origine-du-choc-fatal-a-jesus-de-miguel-denonce-le-harcelement-en-ligne-qui-le-vise/1740826#at_medium=RSS_feeds",
+    "title": "Michel Owono, homonyme du gardien à l'origine du choc fatal à Jesus de Miguel, dénonce le harcèlement en ligne qui le vise",
+    "ko": "데 미겔 사고 원인 골키퍼와 동명이인, 온라인 괴롭힘 고발",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T15:40:13.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "미셸 오워노"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "c54de4ac90ce",
+    "url": "https://www.marca.com/futbol/valencia/2026/11/03/valencia-guarda-minuto-silencio-sesion-mestalla-foto-oficial-comida-equipo-recibir-madrid.html",
+    "title": "El Valencia guarda un minuto de silencio en una sesión en Mestalla, con foto oficial y comida de equipo antes de recibir al Madrid",
+    "ko": "발렌시아, 메스타야 훈련 세션에서 묵념 진행",
+    "source": "marca",
+    "publishedAt": "2026-11-03T15:44:42.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "FERNANDO ÁLVAREZ",
+    "transfer": null
+   },
+   {
+    "id": "e07569735456",
+    "url": "https://www.dailystar.co.uk/sport/football/jesus-de-miguel-death-manslaughter-37839328",
+    "title": "Police launch manslaughter probe into Tenerife footballer Jesus de Miguel's tragic death",
+    "ko": "테네리페 선수 데 미겔 사망 사건, 경찰 과실치사 수사 착수",
+    "source": "star",
+    "publishedAt": "2026-11-03T16:14:34.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Mathew Davies, Cameron Winstanley",
+    "transfer": null
+   },
+   {
+    "id": "a9b7ecc41eb7",
+    "url": "https://www.mirror.co.uk/sport/football/news/police-manslaughter-jesus-de-miguel-37839316",
+    "title": "Spanish police launch involuntary manslaughter investigation after Jesus de Miguel death",
+    "ko": "스페인 경찰, 헤수스 데 미겔 사망 관련 과실치사 수사 착수",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T16:23:53.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null
    }
   ],
-  "recentSources": 14,
-  "sourceCount": 14,
-  "score": 9.63,
+  "recentSources": 15,
+  "sourceCount": 15,
+  "score": 8.53,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -985,18 +1432,1052 @@
   ]
  },
  {
+  "slug": "shakhtar-sporting-2026-11-03",
+  "mode": "llm",
+  "titleKo": "샤흐타르 대 스포르팅 챔피언스리그 경기",
+  "createdAt": "2026-11-03T13:39:00.000Z",
+  "updatedAt": "2026-11-03T16:20:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "이오아니디스"
+  ],
+  "sig": [
+   "sporting"
+  ],
+  "articles": [
+   {
+    "id": "0176833ea321",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/ioannidis-aponta-ao-onze-do-sporting-frente-ao-shakhtar",
+    "title": "Ioannidis aponta ao onze do Sporting frente ao Shakhtar",
+    "ko": "이오아니디스, 샤흐타르전 스포르팅 선발 후보 거론",
+    "source": "record",
+    "publishedAt": "2026-11-03T13:09:10.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "이오아니디스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "94fede85579f",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-jovem-da-uefa/detalhe/shakthar-sporting-em-direto",
+    "title": "Shakhtar-Sporting, 0-3 (2.ª parte)",
+    "ko": "샤흐타르 대 스포르팅, 후반 0-3 진행",
+    "source": "record",
+    "publishedAt": "2026-11-03T13:39:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cb96cd59f5cb",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/shakhtar-sporting-em-direto",
+    "title": "Shakhtar-Sporting, em direto",
+    "ko": "샤흐타르 대 스포르팅 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-03T16:15:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d26c87e9a0a6",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/o-onze-do-sporting-para-o-jogo-com-o-shakhtar-donetsk",
+    "title": "O onze do Sporting para o jogo com o Shakhtar Donetsk",
+    "ko": "스포르팅, 샤흐타르전 선발 11명 공개",
+    "source": "record",
+    "publishedAt": "2026-11-03T16:20:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.05,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-03T13:09:10.000Z",
+   "viaQuote": false
+  },
+  "headline": "O onze do Sporting para o jogo com o Shakhtar Donetsk"
+ },
+ {
+  "slug": "brackelmann-injury",
+  "mode": "llm",
+  "titleKo": "브라케만 뇌진탕 복귀 과정",
+  "createdAt": "2026-11-01T04:50:44.000Z",
+  "updatedAt": "2026-11-03T16:19:03.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "augsburg",
+   "leipzig"
+  ],
+  "players": [
+   "브라케만"
+  ],
+  "sig": [
+   "gehirnerschütterung",
+   "jahr",
+   "fca",
+   "profi",
+   "calvin",
+   "brackelmann"
+  ],
+  "articles": [
+   {
+    "id": "71f3b9523a3a",
+    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/gehirnerschuetterung-so-laeuft-die-rueckkehr-von-calvin-brackelmann-beim-fc-augsburg-1-115602807",
+    "title": "Nach seiner zweiten Gehirnerschütterung in diesem Jahr: So kehrt FCA-Profi Calvin Brackelmann zurück",
+    "ko": "아우크스부르크 브라케만, 올해 두 번째 뇌진탕 후 복귀",
+    "source": "augsburger",
+    "publishedAt": "2026-11-01T04:50:44.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "브라케만"
+    ],
+    "playerTags": [],
+    "author": "Robert Götz",
+    "transfer": null
+   },
+   {
+    "id": "66b75465f7a6",
+    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/fc-augsburg-weiter-ohne-calvin-brackelmann-spiel-bei-rb-lepizig-kommt-zu-frueh-115623173",
+    "title": "FCA: Calvin Brackelmann wird in Leipzig noch fehlen",
+    "ko": "아우크스부르크, 브라케만 라이프치히전 결장 예정",
+    "source": "augsburger",
+    "publishedAt": "2026-11-03T16:19:03.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "브라케만"
+    ],
+    "playerTags": [],
+    "author": "Marco Scheinhof",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.09,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "아우크스부르거 알게마이네",
+   "source": "augsburger",
+   "at": "2026-11-01T04:50:44.000Z",
+   "viaQuote": false
+  },
+  "headline": "FCA: Calvin Brackelmann wird in Leipzig noch fehlen"
+ },
+ {
+  "slug": "grealish-discipline",
+  "mode": "llm",
+  "titleKo": "그릴리시 에버턴 징계 후 복귀 여부",
+  "createdAt": "2026-11-03T05:59:05.000Z",
+  "updatedAt": "2026-11-03T16:00:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "everton",
+   "newcastle"
+  ],
+  "players": [
+   "잭 그리시",
+   "그릴리시",
+   "잭 그릴리시"
+  ],
+  "sig": [
+   "grealish"
+  ],
+  "articles": [
+   {
+    "id": "8ce8ece0453e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-jack-grealish-everton-newcastle-34852979",
+    "title": "Why Jack Grealish is absent for Everton against Newcastle again after breach of discipline",
+    "ko": "그릴리시, 규율 위반으로 에버턴-뉴캐슬전 또 결장",
+    "source": "lecho",
+    "publishedAt": "2026-11-02T19:12:57.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "a43fe3a147d8",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+    "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
+    "ko": "그릴리시 관련 질문에 모예스 \"선수 이용 불가\"라며 입 닫아",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T22:54:52.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1abc081a2c67",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
+    "title": "Grealish can still have Everton future - Moyes",
+    "ko": "모예스, 그릴리시의 에버턴 미래 여지 남겨",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T23:14:27.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e704d888855e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-issues-jack-grealish-34853220",
+    "title": "David Moyes offers way back to Jack Grealish after Everton beat Newcastle - 'Of course there is'",
+    "ko": "모예스, 에버턴 승리 후 그릴리시 복귀 가능성 언급",
+    "source": "lecho",
+    "publishedAt": "2026-11-02T23:36:48.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null
+   },
+   {
+    "id": "00d51df371a8",
+    "url": "https://www.nytimes.com/athletic/7749174/2026/11/03/jack-grealish-everton-discipline-moyes/",
+    "title": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-03T05:59:05.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3adbbb013eff",
+    "url": "https://www.mirror.co.uk/sport/football/news/moyes-everton-jack-grealish-future-37836783",
+    "title": "David Moyes bluntly shuts down Jack Grealish questions as Everton snub continues",
+    "ko": "모예스, 에버턴의 그릴리시 관련 질문에 선 긋기",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T08:07:44.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null
+   },
+   {
+    "id": "d26f596083a3",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-everton-newcastle-absence-34853506",
+    "title": "National media react as Jack Grealish sent blunt Everton warning after Newcastle United victory",
+    "ko": "그릴리시, 뉴캐슬 승리 후 에버턴에 경고 메시지 던져",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T10:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "49edb055bd50",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-better-without-jack-grealish-34855163",
+    "title": "Are Everton better off without Jack Grealish after back-to-back wins over Newcastle United?",
+    "ko": "그릴리시 없이 에버턴 뉴캐슬 연승, 에버턴 더 나아졌나",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T12:44:12.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null
+   },
+   {
+    "id": "efc4a291c931",
+    "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
+    "title": "There is a way back for Jack Grealish after another Everton omission - David Moyes",
+    "ko": "그릴리시, 에버턴 제외 후에도 복귀 길 있다는 모이스 발언",
+    "source": "espn",
+    "publishedAt": "2026-11-03T13:08:15.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "ESPN News Services",
+    "transfer": null
+   },
+   {
+    "id": "b06020d33180",
+    "url": "https://www.footballinsider247.com/everton/forget-jack-grealish-everton-stars-absence-has-unlocked-a-new-demon-player",
+    "title": "Forget Jack Grealish, Everton star's absence has unlocked a new demon player",
+    "ko": "그릴리시 대신 떠오른 에버턴 선수, 결장이 새 기회 열어",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T16:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 5,
+  "sourceCount": 6,
+  "score": 2.37,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-02T19:12:57.000Z",
+   "viaQuote": false
+  },
+  "headline": "Grealish can still have Everton future - Moyes"
+ },
+ {
+  "slug": "west-ham-manager-future",
+  "mode": "llm",
+  "titleKo": "웨스트햄 감독 거취 논란",
+  "createdAt": "2026-11-03T12:58:03.000Z",
+  "updatedAt": "2026-11-03T16:00:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "west-ham"
+  ],
+  "players": [],
+  "sig": [
+   "jordan"
+  ],
+  "articles": [
+   {
+    "id": "0c29f6157c93",
+    "url": "https://www.theguardian.com/football/2026/nov/02/nuno-espirito-santo-west-ham-under-threat-poor-season-start-championship",
+    "title": "Nuno Espírito Santo under threat at West Ham after poor start to the season",
+    "ko": "누노 에스피리투 산토, 웨스트햄 부진 속 경질 위기",
+    "source": "guardian",
+    "publishedAt": "2026-11-02T12:01:16.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jacob Steinberg",
+    "transfer": null
+   },
+   {
+    "id": "d7f7f5c04d5e",
+    "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
+    "title": "West Ham latest: Your views as Parker lined up to replace Nuno",
+    "ko": "웨스트햄 감독 교체 소식, 파커 후보 부상에 팬 반응",
+    "source": "sky",
+    "publishedAt": "2026-11-03T08:50:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b2489191d02b",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-nuno-espirito-santo-sacked-37836988",
+    "title": "West Ham sack Nuno Espirito Santo as ex-Premier League side slip down table",
+    "ko": "웨스트햄, 누노 에스피리투 산투 경질하고 챔피언십 하락세 구단 중 하나",
+    "source": "star",
+    "publishedAt": "2026-11-03T08:52:51.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield, Cameron Winstanley",
+    "transfer": null
+   },
+   {
+    "id": "313454fdec93",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-entraineur-de-west-ham-nuno-espirito-santo-limoge-par-le-club-de-championship/1740739#at_medium=RSS_feeds",
+    "title": "L'entraîneur de West Ham, Nuno Espirito Santo, limogé par le club de Championship",
+    "ko": "웨스트햄 감독 누노 에스피리투 산투, 챔피언십 구단에 의해 경질",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T09:19:54.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Julie Vimond",
+    "transfer": null
+   },
+   {
+    "id": "e44f2f4855d4",
+    "url": "https://www.thesun.co.uk/sport/40892537/edson-alvarez-likes-west-ham-post-nuno-sacked/",
+    "title": "West Ham outcast ‘likes’ club post about Nuno Espirito Santo sacking after being left out in the cold under axed boss",
+    "ko": "웨스트햄 아웃사이더, 누노 에스피리투 산투 경질 게시물에 좋아요",
+    "source": "sun",
+    "publishedAt": "2026-11-03T11:13:37.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Danny Rust",
+    "transfer": null
+   },
+   {
+    "id": "a748c46be574",
+    "url": "https://www.footballinsider247.com/west-ham-united/simon-jordan-has-lost-the-plot-with-catastrophic-on-air-west-ham-manager-verdict",
+    "title": "Simon Jordan has lost the plot with 'catastrophic' on-air West Ham manager verdict",
+    "ko": "사이먼 조던, 웨스트햄 감독 평가 방송 발언 논란",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T12:58:03.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "52eff46d2819",
+    "url": "https://www.thesun.co.uk/sport/40894289/nuno-espirito-santo-west-ham-bust-ups-training-issue/",
+    "title": "How it all unravelled for Nuno Espirito Santo in 13 months at West Ham from bust-ups to training issue",
+    "ko": "누노 산투 웨스트햄 13개월 실패 과정 돌아봐",
+    "source": "sun",
+    "publishedAt": "2026-11-03T13:03:13.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Rosser",
+    "transfer": null
+   },
+   {
+    "id": "4c5fa05b332d",
+    "url": "https://www.thesun.co.uk/sport/40896507/west-ham-stars-sacked-nuno-alphonse-areola-marrion/",
+    "title": "West Ham star’s Wag and former Hammers players aim thinly-veiled parting shot at Nuno Espirito Santo after he’s sacked",
+    "ko": "웨스트햄 스타 아내와 전 선수들, 해고된 누노 에스피리투 산투 향해 은근한 작별 메시지",
+    "source": "sun",
+    "publishedAt": "2026-11-03T15:34:37.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "James Graham",
+    "transfer": null
+   },
+   {
+    "id": "5acde7a0d281",
+    "url": "https://www.footballinsider247.com/west-ham-united/next-manager/west-ham-big-sign-from-discontented-players-triggered-nuno-sack-expert",
+    "title": "West Ham 'big sign' from 'discontented' players triggered Nuno sack - expert",
+    "ko": "웨스트햄, 불만 선수들 영입 노린 대형 보강이 누노 경질 촉발했다는 분석",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T16:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 5,
+  "sourceCount": 6,
+  "score": 1.73,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Guardian",
+   "source": "guardian",
+   "at": "2026-11-02T12:01:16.000Z",
+   "viaQuote": false
+  },
+  "headline": "L'entraîneur de West Ham, Nuno Espirito Santo, limogé par le club de Championship"
+ },
+ {
+  "slug": "atletico-bayern-2026-11-03",
+  "mode": "llm",
+  "titleKo": "아틀레티코 대 바이에른 챔피언스리그 경기",
+  "createdAt": "2026-11-03T13:40:01.000Z",
+  "updatedAt": "2026-11-03T15:26:50.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "atletico",
+   "bayern",
+   "real-madrid"
+  ],
+  "players": [],
+  "sig": [
+   "bayerns",
+   "kracher",
+   "omen"
+  ],
+  "articles": [
+   {
+    "id": "9cced5b39cd8",
+    "url": "https://www.tz.de/sport/fc-bayern/an-der-grenze-des-erlaubten-atletico-kommt-fuer-den-fc-bayern-zur-unzeit-94570483.html",
+    "title": "An der Grenze des Erlaubten: Atletico kommt für den FC Bayern zur Unzeit",
+    "ko": "아틀레티코, 바이에른 상대로 한계선 위 플레이 논란",
+    "source": "tz",
+    "publishedAt": "2026-11-02T15:25:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   },
+   {
+    "id": "9eb7f0cf8986",
+    "url": "https://www.tz.de/sport/fc-bayern/atletico-trainer-simeone-mit-ueberraschendem-gestaendnis-vor-bayern-duell-94570613.html",
+    "title": "Atletico-Trainer Simeone mit überraschendem Geständnis vor Bayern-Duell",
+    "ko": "시메오네, 바이에른전 앞두고 깜짝 고백",
+    "source": "tz",
+    "publishedAt": "2026-11-02T16:06:13.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   },
+   {
+    "id": "f02abd5a0f99",
+    "url": "https://www.thesun.co.uk/sport/40880481/atletico-bayern-munich-free-bets-tips/",
+    "title": "Atletico vs Bayern Munich: Get £50 in free bets, plus our 12/1 Bet Builder tips | Sky Bet",
+    "ko": "아틀레티코 대 바이에른, 베팅 예상과 무료 베팅 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "466e07b4e7b6",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-bayern-munich/1740579#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Atlético Madrid-Bayern Munich",
+    "ko": "아틀레티코 마드리드 대 바이에른 뮌헨 경기 중계 시간·채널 안내",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T07:40:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "79cc6fc21cb7",
+    "url": "https://www.tz.de/sport/fc-bayern/schiedsrichter-letixier-leitet-cl-kracher-zwischen-atletico-und-bayern-zr-94571485.html",
+    "title": "Schiedsrichter für Bayerns CL-Kracher bei Atletico verspricht schlechtes Omen",
+    "ko": "바이에른 챔피언스리그 아틀레티코전 심판 배정, 불길한 징조 우려",
+    "source": "tz",
+    "publishedAt": "2026-11-03T09:41:36.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Adrian Rehling",
+    "transfer": null
+   },
+   {
+    "id": "e70550681a54",
+    "url": "https://www.tz.de/sport/fc-bayern/ungleiches-trainer-duell-in-madrid-feuer-und-eis-treffen-aufeinander-94572042.html",
+    "title": "Ungleiches Trainer-Duell in Madrid: englische Coolness vs. argentinischer Vulkan",
+    "ko": "마드리드 감독 대결, 영국식 침착함 대 아르헨티나식 열정",
+    "source": "tz",
+    "publishedAt": "2026-11-03T13:30:54.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dfab1009bc27",
+    "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
+    "ko": "아틀레티코 대 바이에른, 챔피언스리그 4라운드 실시간",
+    "source": "as",
+    "publishedAt": "2026-11-03T13:40:01.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alejandro Soto",
+    "transfer": null
+   },
+   {
+    "id": "d603c4b63963",
+    "url": "https://www.tz.de/sport/fc-bayern/atletico-madrid-gegen-fc-bayern-im-liveticker-rumpf-fcb-vor-mammutaufgabe-zr-94572388.html",
+    "title": "Atletico gegen den FC Bayern: Münchner Rumpftruppe vor größter CL-Herausforderung",
+    "ko": "바이에른 원정 앞둔 아틀레티코, 뮌헨 측 전력 부족 속 최대 시험대",
+    "source": "tz",
+    "publishedAt": "2026-11-03T15:26:50.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Maximilian Bohne",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 2.02,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-02T15:25:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo"
+ },
+ {
+  "slug": "smith-injury",
+  "mode": "llm",
+  "titleKo": "렉섬 스미스 부상 타격",
+  "createdAt": "2026-11-03T15:20:23.000Z",
+  "updatedAt": "2026-11-03T15:20:23.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "스미스"
+  ],
+  "sig": [
+   "smith"
+  ],
+  "articles": [
+   {
+    "id": "dbd505d0c1dd",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
+    "title": "Wrexham suffer 'significant' Smith injury blow",
+    "ko": "렉섬, 스미스 부상으로 타격 우려",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T15:20:23.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "스미스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.31,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-03T15:20:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wrexham suffer 'significant' Smith injury blow"
+ },
+ {
+  "slug": "muller-atletico-transfer",
+  "mode": "llm",
+  "titleKo": "아틀레티코 뮐러 영입 희망",
+  "createdAt": "2026-11-03T15:15:36.000Z",
+  "updatedAt": "2026-11-03T15:15:36.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "atletico",
+   "bayern"
+  ],
+  "players": [
+   "토마스 뮐러"
+  ],
+  "sig": [
+   "präsident",
+   "kracher",
+   "thomas",
+   "müller"
+  ],
+  "articles": [
+   {
+    "id": "a50a38e6bf91",
+    "url": "https://www.tz.de/sport/fc-bayern/wunschtransfer-fuer-atletico-boss-schwaermt-von-thomas-mueller-94572364.html",
+    "title": "Wunschtransfer für Atletico: Präsident schwärmt vor Bayern-Kracher von Thomas Müller",
+    "ko": "아틀레티코 회장, 바이에른전 앞두고 토마스 뮐러 영입 희망 밝혀",
+    "source": "tz",
+    "publishedAt": "2026-11-03T15:15:36.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "토마스 뮐러"
+    ],
+    "playerTags": [],
+    "author": "Florian Puth",
+    "transfer": {
+     "player": "토마스 뮐러",
+     "from": null,
+     "to": "아틀레티코"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.91,
+  "topTier": 3,
+  "stageHistory": [
+   {
+    "id": "a50a38e6bf91",
+    "at": "2026-11-03T15:15:36.000Z",
+    "source": "tz",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "토마스 뮐러",
+   "from": null,
+   "to": "아틀레티코"
+  },
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-03T15:15:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wunschtransfer für Atletico: Präsident schwärmt vor Bayern-Kracher von Thomas Müller"
+ },
+ {
+  "slug": "ait-nouri-man-utd-transfer",
+  "mode": "llm",
+  "titleKo": "맨유 아이트누리 1월 영입 추진",
+  "createdAt": "2026-11-03T15:14:53.000Z",
+  "updatedAt": "2026-11-03T15:14:53.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "man-utd",
+   "man-city"
+  ],
+  "players": [
+   "아이트누리"
+  ],
+  "sig": [
+   "rayan",
+   "ait",
+   "nouri"
+  ],
+  "articles": [
+   {
+    "id": "a719fd77c380",
+    "url": "https://www.thesun.co.uk/sport/40896505/man-utd-rayan-ait-nouri-man-city-transfer-news/",
+    "title": "Man Utd ‘want to sign Man City left-back Rayan Ait-Nouri in January’ after rejecting chance to take him on deadline day",
+    "ko": "맨유, 1월 아이트누리 영입 추진 보도",
+    "source": "sun",
+    "publishedAt": "2026-11-03T15:14:53.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "아이트누리"
+    ],
+    "playerTags": [],
+    "author": "Charlie Gordon",
+    "transfer": {
+     "player": "아이트누리",
+     "from": "맨시티",
+     "to": "맨유"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.45,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "a719fd77c380",
+    "at": "2026-11-03T15:14:53.000Z",
+    "source": "sun",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "아이트누리",
+   "from": "맨시티",
+   "to": "맨유"
+  },
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-03T15:14:53.000Z",
+   "viaQuote": false
+  },
+  "headline": "Man Utd ‘want to sign Man City left-back Rayan Ait-Nouri in January’ after rejecting chance to take him on deadline day"
+ },
+ {
+  "slug": "saliba-injury",
+  "mode": "llm",
+  "titleKo": "살리바 부상 회복 소식, 아스널 챔피언스리그 전력 보강",
+  "createdAt": "2026-11-03T11:58:58.000Z",
+  "updatedAt": "2026-11-03T15:07:49.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "사리바",
+   "윌리엄 살리바",
+   "살리바"
+  ],
+  "sig": [
+   "william",
+   "saliba",
+   "tomorrow"
+  ],
+  "articles": [
+   {
+    "id": "559f63bf86c3",
+    "url": "https://www.thesun.co.uk/sport/40892821/arsenal-injury-boost-william-saliba-returns-training/",
+    "title": "Arsenal handed major injury boost as William Saliba returns to training and could play in Champions League TOMORROW",
+    "ko": "살리바 훈련 복귀…아스널, 내일 챔피언스리그 출전 가능성",
+    "source": "sun",
+    "publishedAt": "2026-11-03T11:58:58.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "윌리엄 살리바"
+    ],
+    "playerTags": [
+     "william-saliba"
+    ],
+    "author": "Joshua Hall",
+    "transfer": null
+   },
+   {
+    "id": "6efc10f01331",
+    "url": "https://www.football.london/arsenal-fc/news/william-saliba-returns-arsenal-training-34854572",
+    "title": "William Saliba returns to Arsenal training as Mikel Arteta missing one player before Prague trip",
+    "ko": "살리바, 아스널 훈련 복귀…프라하 원정 앞두고 한 명 결장",
+    "source": "fblondon",
+    "publishedAt": "2026-11-03T12:01:44.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "윌리엄 살리바"
+    ],
+    "playerTags": [
+     "william-saliba"
+    ],
+    "author": "Tom Canton",
+    "transfer": null
+   },
+   {
+    "id": "8563d14c6717",
+    "url": "https://www.mirror.co.uk/sport/football/news/william-saliba-arsenal-injury-arteta-37837794",
+    "title": "Mikel Arteta handed huge William Saliba injury boost before Arsenal Champions League clash",
+    "ko": "아르테타, 살리바 부상 회복 소식에 챔피언스리그 전력 기대",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T12:06:33.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "윌리엄 살리바"
+    ],
+    "playerTags": [
+     "william-saliba"
+    ],
+    "author": "Kieran Horn",
+    "transfer": null
+   },
+   {
+    "id": "039ccb7171af",
+    "url": "https://www.lequipe.fr/Football/Actualites/Absent-depuis-la-coupe-du-monde-william-saliba-de-retour-a-l-entrainement-avec-arsenal/1740784#at_medium=RSS_feeds",
+    "title": "Absent depuis la Coupe du monde, William Saliba de retour à l'entraînement avec Arsenal",
+    "ko": "월드컵 이후 결장한 살리바, 아스널 훈련 복귀",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T12:51:40.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "윌리엄 살리바"
+    ],
+    "playerTags": [
+     "william-saliba"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "f19aed367500",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l3pd9jy7o?at_medium=RSS&at_campaign=rss",
+    "title": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?",
+    "ko": "살리바 복귀, 아르테타의 수비 딜레마 해법은",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T15:07:49.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "살리바"
+    ],
+    "playerTags": [
+     "william-saliba"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 5,
+  "sourceCount": 5,
+  "score": 4.27,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "william-saliba"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-03T11:58:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Saliba's back for Arsenal - how does Arteta solve his defensive dilemma?"
+ },
+ {
   "slug": "liverpool-affairs-var-diaz",
   "mode": "llm",
   "titleKo": "리버풀 VAR 오심 논란, 디아스 골 불인정",
   "createdAt": "2026-11-03T14:34:12.000Z",
-  "updatedAt": "2026-11-03T14:34:12.000Z",
+  "updatedAt": "2026-11-03T15:00:00.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
-   "liverpool"
+   "liverpool",
+   "arsenal"
   ],
   "players": [
-   "루이스 디아스"
+   "루이스 디아스",
+   "가크포"
   ],
   "sig": [
    "luis",
@@ -1022,11 +2503,28 @@
     ],
     "author": "Mark Whiley",
     "transfer": null
+   },
+   {
+    "id": "241b91ddb686",
+    "url": "https://www.footballinsider247.com/arsenal/ex-pgmol-chief-proref-in-a-mess-as-cody-gakpo-footage-re-analysed-from-liverpool-vs-arsenal",
+    "title": "Ex-PGMOL chief: ProRef 'in a mess' as Cody Gakpo footage re-analysed from Liverpool vs Arsenal",
+    "ko": "전 PGMOL 회장, 리버풀-아스널전 가크포 장면 재분석 후 프로레프 혼란 지적",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T15:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "가크포"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.13,
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.24,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -1041,6 +2539,260 @@
    "viaQuote": false
   },
   "headline": "Referee responsible for not giving Luis Diaz goal breaks silence on Liverpool VAR blunder"
+ },
+ {
+  "slug": "mateta-discipline",
+  "mode": "llm",
+  "titleKo": "마테타 퇴장 징계 항소",
+  "createdAt": "2026-11-03T14:54:55.000Z",
+  "updatedAt": "2026-11-03T14:54:55.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "crystal-palace"
+  ],
+  "players": [
+   "마테타"
+  ],
+  "sig": [
+   "mateta"
+  ],
+  "articles": [
+   {
+    "id": "7a49280309c5",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gelp4em2o?at_medium=RSS&at_campaign=rss",
+    "title": "Palace launch Mateta red card appeal",
+    "ko": "팰리스, 마테타 퇴장에 항소 나서",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T14:54:55.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "마테타"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.15,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-03T14:54:55.000Z",
+   "viaQuote": false
+  },
+  "headline": "Palace launch Mateta red card appeal"
+ },
+ {
+  "slug": "gravenberch-injury",
+  "mode": "llm",
+  "titleKo": "그라벤베르흐 부상, 리버풀 전력 공백",
+  "createdAt": "2026-11-03T11:35:04.000Z",
+  "updatedAt": "2026-11-03T14:42:05.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [
+   "라이언 그라벤베르흐",
+   "그라벤베르흐"
+  ],
+  "sig": [
+   "fenerbahce",
+   "ryan",
+   "gravenberch"
+  ],
+  "articles": [
+   {
+    "id": "a1f14eb6888c",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "title": "Liverpool latest: Gravenberch out of Fenerbahce trip",
+    "ko": "그라벤베르흐, 페네르바체 원정 명단 제외",
+    "source": "sky",
+    "publishedAt": "2026-11-03T10:15:00.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "faf883812e45",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/12-players-could-miss-fenerbahce-34854892",
+    "title": "12 players could miss Fenerbahce vs Liverpool after Ryan Gravenberch injury blow",
+    "ko": "페네르바체 대 리버풀 앞두고 그라벤베르흐 부상, 12명 결장 가능성",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T11:35:04.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "라이언 그라벤베르흐"
+    ],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "0024bf07f052",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/iraola-liverpool-press-conference-live-34856465",
+    "title": "Andoni Iraola Liverpool press conference LIVE - Ryan Gravenberch injury, team news, Fenerbahce tie",
+    "ko": "슬롯 아닌 이라올라, 리버풀 기자회견서 그라벤베르흐 부상 언급",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T14:42:05.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "그라벤베르흐"
+    ],
+    "playerTags": [],
+    "author": "Paul Gorst, Mark Jones",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.12,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-03T10:15:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Liverpool latest: Gravenberch out of Fenerbahce trip"
+ },
+ {
+  "slug": "bayern-dortmund-2026-11-03",
+  "mode": "llm",
+  "titleKo": "바이에른 대 도르트문트 클라시커 관련 발언",
+  "createdAt": "2026-11-01T06:00:00.000Z",
+  "updatedAt": "2026-11-03T14:32:10.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "bayern",
+   "dortmund"
+  ],
+  "players": [
+   "슈바인슈타이거"
+  ],
+  "sig": [
+   "telefonat",
+   "kompany",
+   "klassiker"
+  ],
+  "articles": [
+   {
+    "id": "59c2a48f19ad",
+    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-gegen-dortmund-77-prozent-tippen-auf-bayern-sieg-94567800.html",
+    "title": "Fans sind sich vor dem „Klassiker“ über Sieger einig",
+    "ko": "클라시커 앞두고 팬들, 승자 예측 의견 일치",
+    "source": "tz",
+    "publishedAt": "2026-10-31T15:22:29.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5c8697b0a4ab",
+    "url": "https://www.tz.de/sport/fc-bayern/ausgerechnet-die-60-schweinsteiger-warnt-bayern-vor-bvb-94567828.html",
+    "title": "Ausgerechnet die 60: Schweinsteiger warnt Bayern vor BVB",
+    "ko": "슈바인슈타이거, 도르트문트전 앞두고 바이에른에 경고",
+    "source": "tz",
+    "publishedAt": "2026-10-31T16:19:27.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "슈바인슈타이거"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bb7486c56813",
+    "url": "https://www.tz.de/sport/fc-bayern/zwei-drei-die-einzelkritik-zum-bayern-remis-gegen-dortmund-zr-94567925.html",
+    "title": "Zweimal 2, dreimal 4: Die Einzelkritik zum Bayern-Remis gegen Dortmund",
+    "ko": "바이에른, 도르트문트와 1-1 무승부 선수 평점",
+    "source": "tz",
+    "publishedAt": "2026-10-31T20:07:10.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   },
+   {
+    "id": "fd3cdaa727bd",
+    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-eberl-telefoniert-vor-bvb-spiel-mit-kompany-94567929.html",
+    "title": "Eberl enthüllt Telefonat mit krankem Kompany vor dem Klassiker",
+    "ko": "에벌, 아픈 콤파니와 클라시커 앞두고 통화 공개",
+    "source": "tz",
+    "publishedAt": "2026-11-01T06:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0756fb59a641",
+    "url": "https://www.kicker.de/dortmund-muss-sich-anstrengen-nicht-nur-hinterherzulaufen-1268149/video#omrss",
+    "title": "\"Dortmund muss sich anstrengen, nicht nur hinterherzulaufen\"",
+    "ko": "도르트문트, 뒤쫓기만 하지 말고 더 노력해야",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T14:32:10.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.34,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-10-31T15:22:29.000Z",
+   "viaQuote": false
+  },
+  "headline": "\"Dortmund muss sich anstrengen, nicht nur hinterherzulaufen\""
  },
  {
   "slug": "villarreal-psg-2026-11-03",
@@ -1131,7 +2883,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1259,7 +3011,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 2.81,
+  "score": 2.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1272,381 +3024,6 @@
    "viaQuote": false
   },
   "headline": "Barcelona - Aston Villa hoy, en directo: jornada 4 de fase liga, Champions League en vivo"
- },
- {
-  "slug": "man-utd-roma-2026-11-03",
-  "mode": "llm",
-  "titleKo": "맨유 대 로마 챔피언스리그 경기",
-  "createdAt": "2026-11-03T13:40:08.000Z",
-  "updatedAt": "2026-11-03T13:40:08.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "roma"
-  ],
-  "players": [
-   "리산드로 마르티네스",
-   "마커스 래시포드",
-   "마르티네스"
-  ],
-  "sig": [
-   "u19s",
-   "uefa",
-   "youth"
-  ],
-  "articles": [
-   {
-    "id": "ff1356b8f0e1",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34848272",
-    "title": "Every word Michael Carrick said in press conference ahead of Manchester United vs Roma",
-    "ko": "캐릭, 맨유 대 로마 경기 전 기자회견 전문",
-    "source": "men",
-    "publishedAt": "2026-11-02T14:41:20.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston, Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "7e1ece2e4fae",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
-    "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
-    "ko": "캐릭, 로마전 앞두고 \"미친 일\" 말하지만 기대감 표명",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T16:00:07.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "eb23908d8a5b",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34851081",
-    "title": "Manchester United line-up vs Roma predicted as Carrick faced with Martinez conundrum",
-    "ko": "캐릭, 로마전 마르티네스 딜레마 속 맨유 선발 예상",
-    "source": "men",
-    "publishedAt": "2026-11-03T06:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리산드로 마르티네스"
-    ],
-    "playerTags": [],
-    "author": "Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "afc15e7e5f91",
-    "url": "https://www.thesun.co.uk/sport/40884800/man-utd-roma-bet-builder-free-bets-paddy-power/",
-    "title": "Man Utd vs Roma: Our 8/1 bet builder tip, plus get £50 in free bets | Paddy Power",
-    "ko": "맨유 대 로마 경기 배팅 팁과 무료 베팅 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-03T06:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "6175ac215215",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-latest-roma-34853445",
-    "title": "Nine players set to miss Man United vs Roma after Marcus Rashford injury update",
-    "ko": "래시포드 부상 업데이트 속 맨유, 로마전 9명 결장 예상",
-    "source": "men",
-    "publishedAt": "2026-11-03T06:21:00.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마커스 래시포드"
-    ],
-    "playerTags": [
-     "marcus-rashford"
-    ],
-    "author": "Mark Wakefield",
-    "transfer": null
-   },
-   {
-    "id": "8930c7893239",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34848284",
-    "title": "How Manchester United should line up vs Roma in Champions League",
-    "ko": "맨유는 로마전에서 어떤 라인업을 짜야 하나",
-    "source": "men",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall, Steven Railston, Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "0a729d89981c",
-    "url": "https://www.thesun.co.uk/sport/40882008/michael-carrick-man-utd-roma-predictions/",
-    "title": "Man Utd vs Roma | Champions League predictions, preview and free bets in must-win game for Michael Carrick",
-    "ko": "맨유 대 로마, 캐릭 감독에게 필승이 요구되는 챔피언스리그 경기 예상",
-    "source": "sun",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "5036dc7e62d2",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-u19s-vs-roma-34851435",
-    "title": "Manchester United U19s vs Roma LIVE updates and team news from UEFA Youth League fixture",
-    "ko": "맨유 U19, 유스 챔피언스리그서 로마와 격돌 실시간",
-    "source": "men",
-    "publishedAt": "2026-11-03T13:40:08.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 0.38,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "marcus-rashford"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-02T14:41:20.000Z",
-   "viaQuote": false
-  },
-  "headline": "Carrick says it's 'crazy' but he's looking forward to Roma game"
- },
- {
-  "slug": "atletico-bayern-2026-11-03",
-  "mode": "llm",
-  "titleKo": "아틀레티코 대 바이에른 챔피언스리그 경기",
-  "createdAt": "2026-11-03T13:40:01.000Z",
-  "updatedAt": "2026-11-03T13:40:01.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "atletico",
-   "bayern",
-   "real-madrid"
-  ],
-  "players": [],
-  "sig": [
-   "bayerns",
-   "kracher",
-   "omen"
-  ],
-  "articles": [
-   {
-    "id": "9cced5b39cd8",
-    "url": "https://www.tz.de/sport/fc-bayern/an-der-grenze-des-erlaubten-atletico-kommt-fuer-den-fc-bayern-zur-unzeit-94570483.html",
-    "title": "An der Grenze des Erlaubten: Atletico kommt für den FC Bayern zur Unzeit",
-    "ko": "아틀레티코, 바이에른 상대로 한계선 위 플레이 논란",
-    "source": "tz",
-    "publishedAt": "2026-11-02T15:25:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vinzent Tschirpke",
-    "transfer": null
-   },
-   {
-    "id": "9eb7f0cf8986",
-    "url": "https://www.tz.de/sport/fc-bayern/atletico-trainer-simeone-mit-ueberraschendem-gestaendnis-vor-bayern-duell-94570613.html",
-    "title": "Atletico-Trainer Simeone mit überraschendem Geständnis vor Bayern-Duell",
-    "ko": "시메오네, 바이에른전 앞두고 깜짝 고백",
-    "source": "tz",
-    "publishedAt": "2026-11-02T16:06:13.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vinzent Tschirpke",
-    "transfer": null
-   },
-   {
-    "id": "f02abd5a0f99",
-    "url": "https://www.thesun.co.uk/sport/40880481/atletico-bayern-munich-free-bets-tips/",
-    "title": "Atletico vs Bayern Munich: Get £50 in free bets, plus our 12/1 Bet Builder tips | Sky Bet",
-    "ko": "아틀레티코 대 바이에른, 베팅 예상과 무료 베팅 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "466e07b4e7b6",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-bayern-munich/1740579#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Atlético Madrid-Bayern Munich",
-    "ko": "아틀레티코 마드리드 대 바이에른 뮌헨 경기 중계 시간·채널 안내",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T07:40:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "79cc6fc21cb7",
-    "url": "https://www.tz.de/sport/fc-bayern/schiedsrichter-letixier-leitet-cl-kracher-zwischen-atletico-und-bayern-zr-94571485.html",
-    "title": "Schiedsrichter für Bayerns CL-Kracher bei Atletico verspricht schlechtes Omen",
-    "ko": "바이에른 챔피언스리그 아틀레티코전 심판 배정, 불길한 징조 우려",
-    "source": "tz",
-    "publishedAt": "2026-11-03T09:41:36.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Adrian Rehling",
-    "transfer": null
-   },
-   {
-    "id": "e70550681a54",
-    "url": "https://www.tz.de/sport/fc-bayern/ungleiches-trainer-duell-in-madrid-feuer-und-eis-treffen-aufeinander-94572042.html",
-    "title": "Ungleiches Trainer-Duell in Madrid: englische Coolness vs. argentinischer Vulkan",
-    "ko": "마드리드 감독 대결, 영국식 침착함 대 아르헨티나식 열정",
-    "source": "tz",
-    "publishedAt": "2026-11-03T13:30:54.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dfab1009bc27",
-    "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
-    "ko": "아틀레티코 대 바이에른, 챔피언스리그 4라운드 실시간",
-    "source": "as",
-    "publishedAt": "2026-11-03T13:40:01.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alejandro Soto",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 2.82,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-02T15:25:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo"
- },
- {
-  "slug": "shakhtar-sporting-2026-11-03",
-  "mode": "llm",
-  "titleKo": "샤흐타르 대 스포르팅 경기",
-  "createdAt": "2026-11-03T13:39:00.000Z",
-  "updatedAt": "2026-11-03T13:39:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "이오아니디스"
-  ],
-  "sig": [
-   "sporting"
-  ],
-  "articles": [
-   {
-    "id": "0176833ea321",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/ioannidis-aponta-ao-onze-do-sporting-frente-ao-shakhtar",
-    "title": "Ioannidis aponta ao onze do Sporting frente ao Shakhtar",
-    "ko": "이오아니디스, 샤흐타르전 스포르팅 선발 후보 거론",
-    "source": "record",
-    "publishedAt": "2026-11-03T13:09:10.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "이오아니디스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "94fede85579f",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-jovem-da-uefa/detalhe/shakthar-sporting-em-direto",
-    "title": "Shakhtar-Sporting, 0-3 (2.ª parte)",
-    "ko": "샤흐타르 대 스포르팅, 후반 0-3 진행",
-    "source": "record",
-    "publishedAt": "2026-11-03T13:39:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.48,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-03T13:09:10.000Z",
-   "viaQuote": false
-  },
-  "headline": "Shakhtar-Sporting, 0-3 (2.ª parte)"
  },
  {
   "slug": "alexander-arnold-liverpool-relationship",
@@ -1693,7 +3070,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.66,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -1864,7 +3241,7 @@
   ],
   "recentSources": 7,
   "sourceCount": 7,
-  "score": 5.76,
+  "score": 4.11,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1922,7 +3299,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.47,
+  "score": 1.05,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2003,7 +3380,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.71,
+  "score": 1.22,
   "topTier": 2,
   "stageHistory": [
    {
@@ -2032,195 +3409,130 @@
   "headline": "Carrick: 'No concerns' over Martínez's Utd commitment"
  },
  {
-  "slug": "grealish-discipline",
+  "slug": "kane-contract",
   "mode": "llm",
-  "titleKo": "그릴리시 에버턴 징계 후 복귀 여부",
-  "createdAt": "2026-11-03T05:59:05.000Z",
+  "titleKo": "케인 바이에른 재계약 임박",
+  "createdAt": "2026-11-03T06:31:00.000Z",
   "updatedAt": "2026-11-03T13:08:15.000Z",
-  "category": "other",
-  "stage": null,
+  "category": "transfer",
+  "stage": "agreement",
   "clubs": [
-   "everton",
-   "newcastle"
+   "bayern"
   ],
   "players": [
-   "잭 그리시",
-   "그릴리시",
-   "잭 그릴리시"
+   "해리 케인",
+   "케인"
   ],
   "sig": [
-   "grealish"
+   "harry",
+   "kane",
+   "ballon",
+   "vincent",
+   "kompany"
   ],
   "articles": [
    {
-    "id": "8ce8ece0453e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-jack-grealish-everton-newcastle-34852979",
-    "title": "Why Jack Grealish is absent for Everton against Newcastle again after breach of discipline",
-    "ko": "그릴리시, 규율 위반으로 에버턴-뉴캐슬전 또 결장",
-    "source": "lecho",
-    "publishedAt": "2026-11-02T19:12:57.000Z",
+    "id": "56ff7c9fc424",
+    "url": "https://www.lequipe.fr/Football/Video/Bundesliga-kane-a-deux-doigts-de-signer-un-nouveau-contrat-avec-son-club/20244737#at_medium=RSS_feeds",
+    "title": "Kane «à deux doigts» de signer un nouveau contrat avec son club",
+    "ko": "케인, 바이에른과 새 계약 체결 직전",
+    "source": "lequipe",
+    "publishedAt": "2026-11-02T23:33:00.000Z",
     "credited": null,
-    "category": "other",
-    "stage": null,
+    "category": "transfer",
+    "stage": "agreement",
     "players": [
-     "그릴리시"
+     "해리 케인"
     ],
-    "playerTags": [],
-    "author": "Connor O'Neill",
-    "transfer": null
-   },
-   {
-    "id": "a43fe3a147d8",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-    "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-    "ko": "그릴리시 관련 질문에 모예스 \"선수 이용 불가\"라며 입 닫아",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T22:54:52.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
+    "playerTags": [
+     "harry-kane"
     ],
-    "playerTags": [],
     "author": null,
-    "transfer": null
+    "transfer": {
+     "player": "해리 케인",
+     "from": "바이에른",
+     "to": "바이에른"
+    }
    },
    {
-    "id": "1abc081a2c67",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
-    "title": "Grealish can still have Everton future - Moyes",
-    "ko": "모예스, 그릴리시의 에버턴 미래 여지 남겨",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T23:14:27.000Z",
+    "id": "812ae2dff2ad",
+    "url": "https://www.hln.be/champions-league/het-was-een-emotionele-rollercoaster-harry-kane-staat-dicht-bij-nieuw-contract-en-spreekt-over-speciale-periode-met-ballon-dor-en-uitvallen-vincent-kompany~a3425e1e/",
+    "title": "“Het was een emotionele rollercoaster”: Harry Kane staat dicht bij nieuw contract en spreekt over speciale periode met Ballon d’Or en uitvallen Vincent Kompany",
+    "ko": "케인, 바이에른과 새 계약 임박…콤파니 부상 시기 회고",
+    "source": "hln",
+    "publishedAt": "2026-11-03T06:31:00.000Z",
     "credited": null,
-    "category": "other",
-    "stage": null,
+    "category": "transfer",
+    "stage": "negotiation",
     "players": [
-     "그릴리시"
+     "해리 케인"
     ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Redactie",
+    "transfer": {
+     "player": "해리 케인",
+     "from": null,
+     "to": "바이에른"
+    }
    },
    {
-    "id": "e704d888855e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-issues-jack-grealish-34853220",
-    "title": "David Moyes offers way back to Jack Grealish after Everton beat Newcastle - 'Of course there is'",
-    "ko": "모예스, 에버턴 승리 후 그릴리시 복귀 가능성 언급",
-    "source": "lecho",
-    "publishedAt": "2026-11-02T23:36:48.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null
-   },
-   {
-    "id": "00d51df371a8",
-    "url": "https://www.nytimes.com/athletic/7749174/2026/11/03/jack-grealish-everton-discipline-moyes/",
-    "title": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-03T05:59:05.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3adbbb013eff",
-    "url": "https://www.mirror.co.uk/sport/football/news/moyes-everton-jack-grealish-future-37836783",
-    "title": "David Moyes bluntly shuts down Jack Grealish questions as Everton snub continues",
-    "ko": "모예스, 에버턴의 그릴리시 관련 질문에 선 긋기",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T08:07:44.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Samuel Meade",
-    "transfer": null
-   },
-   {
-    "id": "d26f596083a3",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-everton-newcastle-absence-34853506",
-    "title": "National media react as Jack Grealish sent blunt Everton warning after Newcastle United victory",
-    "ko": "그릴리시, 뉴캐슬 승리 후 에버턴에 경고 메시지 던져",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T10:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Connor O'Neill",
-    "transfer": null
-   },
-   {
-    "id": "49edb055bd50",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-better-without-jack-grealish-34855163",
-    "title": "Are Everton better off without Jack Grealish after back-to-back wins over Newcastle United?",
-    "ko": "그릴리시 없이 에버턴 뉴캐슬 연승, 에버턴 더 나아졌나",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T12:44:12.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null
-   },
-   {
-    "id": "efc4a291c931",
-    "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
-    "title": "There is a way back for Jack Grealish after another Everton omission - David Moyes",
-    "ko": "그릴리시, 에버턴 제외 후에도 복귀 길 있다는 모이스 발언",
+    "id": "2938999a2d57",
+    "url": "https://www.espn.com/soccer/story/_/id/50360295/harry-kane-hopes-bayern-munich-pass-tough-champions-league-test-madrid",
+    "title": "Kane says new Bayern deal 'extremely close,' will happen in coming days",
+    "ko": "케인, 바이에른과 재계약 \"매우 근접\", 며칠 내 성사",
     "source": "espn",
     "publishedAt": "2026-11-03T13:08:15.000Z",
     "credited": null,
-    "category": "other",
-    "stage": null,
+    "category": "transfer",
+    "stage": "agreement",
     "players": [
-     "그릴리시"
+     "케인"
     ],
-    "playerTags": [],
+    "playerTags": [
+     "harry-kane"
+    ],
     "author": "ESPN News Services",
-    "transfer": null
+    "transfer": {
+     "player": "케인",
+     "from": null,
+     "to": "바이에른"
+    }
    }
   ],
-  "recentSources": 4,
-  "sourceCount": 5,
-  "score": 2.6,
-  "topTier": 1,
-  "stageHistory": [],
+  "recentSources": 2,
+  "sourceCount": 3,
+  "score": 1.25,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "56ff7c9fc424",
+    "at": "2026-11-02T23:33:00.000Z",
+    "source": "lequipe",
+    "from": null,
+    "to": "agreement"
+   }
+  ],
   "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
+  "playerTags": [
+   "harry-kane"
+  ],
+  "transfer": {
+   "player": "해리 케인",
+   "from": "바이에른",
+   "to": "바이에른"
+  },
   "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-02T19:12:57.000Z",
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-02T23:33:00.000Z",
    "viaQuote": false
   },
-  "headline": "Grealish can still have Everton future - Moyes"
+  "headline": "Kane says new Bayern deal 'extremely close,' will happen in coming days",
+  "aliases": [
+   "kane-bayern-contract"
+  ]
  },
  {
   "slug": "man-utd-affairs-ownership",
@@ -2277,7 +3589,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -2290,144 +3602,6 @@
    "viaQuote": false
   },
   "headline": "David Beckham backed to become next Man Utd owner as Sir Jim told 'it hasn't worked'"
- },
- {
-  "slug": "west-ham-manager-future",
-  "mode": "llm",
-  "titleKo": "웨스트햄 감독 거취 논란",
-  "createdAt": "2026-11-03T12:58:03.000Z",
-  "updatedAt": "2026-11-03T13:03:13.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "west-ham"
-  ],
-  "players": [],
-  "sig": [
-   "jordan"
-  ],
-  "articles": [
-   {
-    "id": "0c29f6157c93",
-    "url": "https://www.theguardian.com/football/2026/nov/02/nuno-espirito-santo-west-ham-under-threat-poor-season-start-championship",
-    "title": "Nuno Espírito Santo under threat at West Ham after poor start to the season",
-    "ko": "누노 에스피리투 산토, 웨스트햄 부진 속 경질 위기",
-    "source": "guardian",
-    "publishedAt": "2026-11-02T12:01:16.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jacob Steinberg",
-    "transfer": null
-   },
-   {
-    "id": "d7f7f5c04d5e",
-    "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-    "title": "West Ham latest: Your views as Parker lined up to replace Nuno",
-    "ko": "웨스트햄 감독 교체 소식, 파커 후보 부상에 팬 반응",
-    "source": "sky",
-    "publishedAt": "2026-11-03T08:50:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b2489191d02b",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-nuno-espirito-santo-sacked-37836988",
-    "title": "West Ham sack Nuno Espirito Santo as ex-Premier League side slip down table",
-    "ko": "웨스트햄, 누노 에스피리투 산투 경질하고 챔피언십 하락세 구단 중 하나",
-    "source": "star",
-    "publishedAt": "2026-11-03T08:52:51.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield, Cameron Winstanley",
-    "transfer": null
-   },
-   {
-    "id": "313454fdec93",
-    "url": "https://www.lequipe.fr/Football/Actualites/L-entraineur-de-west-ham-nuno-espirito-santo-limoge-par-le-club-de-championship/1740739#at_medium=RSS_feeds",
-    "title": "L'entraîneur de West Ham, Nuno Espirito Santo, limogé par le club de Championship",
-    "ko": "웨스트햄 감독 누노 에스피리투 산투, 챔피언십 구단에 의해 경질",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T09:19:54.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Julie Vimond",
-    "transfer": null
-   },
-   {
-    "id": "e44f2f4855d4",
-    "url": "https://www.thesun.co.uk/sport/40892537/edson-alvarez-likes-west-ham-post-nuno-sacked/",
-    "title": "West Ham outcast ‘likes’ club post about Nuno Espirito Santo sacking after being left out in the cold under axed boss",
-    "ko": "웨스트햄 아웃사이더, 누노 에스피리투 산투 경질 게시물에 좋아요",
-    "source": "sun",
-    "publishedAt": "2026-11-03T11:13:37.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Danny Rust",
-    "transfer": null
-   },
-   {
-    "id": "a748c46be574",
-    "url": "https://www.footballinsider247.com/west-ham-united/simon-jordan-has-lost-the-plot-with-catastrophic-on-air-west-ham-manager-verdict",
-    "title": "Simon Jordan has lost the plot with 'catastrophic' on-air West Ham manager verdict",
-    "ko": "사이먼 조던, 웨스트햄 감독 평가 방송 발언 논란",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T12:58:03.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "52eff46d2819",
-    "url": "https://www.thesun.co.uk/sport/40894289/nuno-espirito-santo-west-ham-bust-ups-training-issue/",
-    "title": "How it all unravelled for Nuno Espirito Santo in 13 months at West Ham from bust-ups to training issue",
-    "ko": "누노 산투 웨스트햄 13개월 실패 과정 돌아봐",
-    "source": "sun",
-    "publishedAt": "2026-11-03T13:03:13.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jack Rosser",
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 6,
-  "score": 2.42,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Guardian",
-   "source": "guardian",
-   "at": "2026-11-02T12:01:16.000Z",
-   "viaQuote": false
-  },
-  "headline": "L'entraîneur de West Ham, Nuno Espirito Santo, limogé par le club de Championship"
  },
  {
   "slug": "ait-nouri-man-city-transfer",
@@ -2474,7 +3648,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -2556,7 +3730,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.62,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -2619,7 +3793,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.44,
+  "score": 1.03,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2676,7 +3850,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -2736,7 +3910,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.42,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2749,122 +3923,6 @@
    "viaQuote": false
   },
   "headline": "El Valencia maneja más de 52.000 abonados para el traslado al Nou Mestalla"
- },
- {
-  "slug": "saliba-injury",
-  "mode": "llm",
-  "titleKo": "살리바 부상 회복 소식, 아스널 챔피언스리그 전력 보강",
-  "createdAt": "2026-11-03T11:58:58.000Z",
-  "updatedAt": "2026-11-03T12:51:40.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "사리바",
-   "윌리엄 살리바"
-  ],
-  "sig": [
-   "william",
-   "saliba",
-   "tomorrow"
-  ],
-  "articles": [
-   {
-    "id": "559f63bf86c3",
-    "url": "https://www.thesun.co.uk/sport/40892821/arsenal-injury-boost-william-saliba-returns-training/",
-    "title": "Arsenal handed major injury boost as William Saliba returns to training and could play in Champions League TOMORROW",
-    "ko": "살리바 훈련 복귀…아스널, 내일 챔피언스리그 출전 가능성",
-    "source": "sun",
-    "publishedAt": "2026-11-03T11:58:58.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "윌리엄 살리바"
-    ],
-    "playerTags": [
-     "william-saliba"
-    ],
-    "author": "Joshua Hall",
-    "transfer": null
-   },
-   {
-    "id": "6efc10f01331",
-    "url": "https://www.football.london/arsenal-fc/news/william-saliba-returns-arsenal-training-34854572",
-    "title": "William Saliba returns to Arsenal training as Mikel Arteta missing one player before Prague trip",
-    "ko": "살리바, 아스널 훈련 복귀…프라하 원정 앞두고 한 명 결장",
-    "source": "fblondon",
-    "publishedAt": "2026-11-03T12:01:44.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "윌리엄 살리바"
-    ],
-    "playerTags": [
-     "william-saliba"
-    ],
-    "author": "Tom Canton",
-    "transfer": null
-   },
-   {
-    "id": "8563d14c6717",
-    "url": "https://www.mirror.co.uk/sport/football/news/william-saliba-arsenal-injury-arteta-37837794",
-    "title": "Mikel Arteta handed huge William Saliba injury boost before Arsenal Champions League clash",
-    "ko": "아르테타, 살리바 부상 회복 소식에 챔피언스리그 전력 기대",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T12:06:33.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "윌리엄 살리바"
-    ],
-    "playerTags": [
-     "william-saliba"
-    ],
-    "author": "Kieran Horn",
-    "transfer": null
-   },
-   {
-    "id": "039ccb7171af",
-    "url": "https://www.lequipe.fr/Football/Actualites/Absent-depuis-la-coupe-du-monde-william-saliba-de-retour-a-l-entrainement-avec-arsenal/1740784#at_medium=RSS_feeds",
-    "title": "Absent depuis la Coupe du monde, William Saliba de retour à l'entraînement avec Arsenal",
-    "ko": "월드컵 이후 결장한 살리바, 아스널 훈련 복귀",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T12:51:40.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "윌리엄 살리바"
-    ],
-    "playerTags": [
-     "william-saliba"
-    ],
-    "author": "Rédaction",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 2.86,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "william-saliba"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-03T11:58:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Absent depuis la Coupe du monde, William Saliba de retour à l'entraînement avec Arsenal"
  },
  {
   "slug": "man-utd-affairs-transfer-policy",
@@ -2900,7 +3958,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.8,
+  "score": 0.57,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -2958,7 +4016,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.28,
   "topTier": 4,
   "stageHistory": [
    {
@@ -3031,7 +4089,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.28,
   "topTier": 4,
   "stageHistory": [
    {
@@ -3103,7 +4161,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.25,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3198,7 +4256,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.45,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3277,7 +4335,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.75,
+  "score": 0.53,
   "topTier": 2,
   "stageHistory": [
    {
@@ -3336,7 +4394,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.53,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -3438,7 +4496,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.93,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3532,7 +4590,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.35,
+  "score": 0.25,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3588,7 +4646,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.49,
   "topTier": 3,
   "stageHistory": [
    {
@@ -3681,7 +4739,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.61,
+  "score": 1.87,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3744,7 +4802,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.11,
+  "score": 1.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3804,7 +4862,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.67,
+  "score": 0.48,
   "topTier": 3,
   "stageHistory": [
    {
@@ -4082,7 +5140,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 1.29,
+  "score": 0.92,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4199,7 +5257,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 0.56,
+  "score": 0.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4253,7 +5311,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.04,
+  "score": 0.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4316,7 +5374,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.31,
+  "score": 0.22,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -4392,7 +5450,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.48,
+  "score": 0.34,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -4451,7 +5509,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.97,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4527,7 +5585,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.22,
+  "score": 0.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4586,7 +5644,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4881,7 +5939,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 8,
-  "score": 0.41,
+  "score": 0.29,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4942,7 +6000,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0.18,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5002,7 +6060,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.37,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5061,7 +6119,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.35,
   "topTier": 3,
   "stageHistory": [
    {
@@ -5138,7 +6196,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.72,
+  "score": 0.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5195,7 +6253,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5257,7 +6315,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.66,
   "topTier": 1,
   "stageHistory": [
    {
@@ -5375,7 +6433,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.35,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5498,7 +6556,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.3,
+  "score": 0.22,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5544,7 +6602,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.17,
+  "score": 0.12,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5639,7 +6697,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.23,
+  "score": 0.16,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5652,132 +6710,6 @@
    "viaQuote": false
   },
   "headline": "Italiano'dan Orkun Kökçü kararı! Celtic maçında forma giyecek mi?"
- },
- {
-  "slug": "kane-contract",
-  "mode": "llm",
-  "titleKo": "케인 바이에른 재계약 임박",
-  "createdAt": "2026-11-03T06:31:00.000Z",
-  "updatedAt": "2026-11-03T13:08:15.000Z",
-  "category": "transfer",
-  "stage": "agreement",
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "해리 케인",
-   "케인"
-  ],
-  "sig": [
-   "harry",
-   "kane",
-   "ballon",
-   "vincent",
-   "kompany"
-  ],
-  "articles": [
-   {
-    "id": "56ff7c9fc424",
-    "url": "https://www.lequipe.fr/Football/Video/Bundesliga-kane-a-deux-doigts-de-signer-un-nouveau-contrat-avec-son-club/20244737#at_medium=RSS_feeds",
-    "title": "Kane «à deux doigts» de signer un nouveau contrat avec son club",
-    "ko": "케인, 바이에른과 새 계약 체결 직전",
-    "source": "lequipe",
-    "publishedAt": "2026-11-02T23:33:00.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "해리 케인",
-     "from": "바이에른",
-     "to": "바이에른"
-    }
-   },
-   {
-    "id": "812ae2dff2ad",
-    "url": "https://www.hln.be/champions-league/het-was-een-emotionele-rollercoaster-harry-kane-staat-dicht-bij-nieuw-contract-en-spreekt-over-speciale-periode-met-ballon-dor-en-uitvallen-vincent-kompany~a3425e1e/",
-    "title": "“Het was een emotionele rollercoaster”: Harry Kane staat dicht bij nieuw contract en spreekt over speciale periode met Ballon d’Or en uitvallen Vincent Kompany",
-    "ko": "케인, 바이에른과 새 계약 임박…콤파니 부상 시기 회고",
-    "source": "hln",
-    "publishedAt": "2026-11-03T06:31:00.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Redactie",
-    "transfer": {
-     "player": "해리 케인",
-     "from": null,
-     "to": "바이에른"
-    }
-   },
-   {
-    "id": "2938999a2d57",
-    "url": "https://www.espn.com/soccer/story/_/id/50360295/harry-kane-hopes-bayern-munich-pass-tough-champions-league-test-madrid",
-    "title": "Kane says new Bayern deal 'extremely close,' will happen in coming days",
-    "ko": "케인, 바이에른과 재계약 \"매우 근접\", 며칠 내 성사",
-    "source": "espn",
-    "publishedAt": "2026-11-03T13:08:15.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "ESPN News Services",
-    "transfer": {
-     "player": "케인",
-     "from": null,
-     "to": "바이에른"
-    }
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 1.75,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "56ff7c9fc424",
-    "at": "2026-11-02T23:33:00.000Z",
-    "source": "lequipe",
-    "from": null,
-    "to": "agreement"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "harry-kane"
-  ],
-  "transfer": {
-   "player": "해리 케인",
-   "from": "바이에른",
-   "to": "바이에른"
-  },
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-02T23:33:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Kane says new Bayern deal 'extremely close,' will happen in coming days",
-  "aliases": [
-   "kane-bayern-contract"
-  ]
  },
  {
   "slug": "ronald-araujo-barcelona-transfer",
@@ -5852,7 +6784,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0.18,
   "topTier": 3,
   "stageHistory": [
    {
@@ -5929,9 +6861,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5984,9 +6916,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7033,77 +7965,6 @@
   "headline": "Villa drop legal action threat against Carragher"
  },
  {
-  "slug": "burgess-injury",
-  "mode": "llm",
-  "titleKo": "버게스 발목 부상 검사 일정",
-  "createdAt": "2026-11-02T10:26:48.000Z",
-  "updatedAt": "2026-11-02T10:26:48.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "크리스티안 버게스",
-   "버게스"
-  ],
-  "sig": [
-   "gent",
-   "mri",
-   "christian",
-   "burgess"
-  ],
-  "articles": [
-   {
-    "id": "4a809102fc65",
-    "url": "https://www.hln.be/jupiler-pro-league/burgess-zakte-plots-door-zn-enkel-hoe-verliezend-aa-gent-een-echt-halloweenweekend-beleefde-en-de-grootste-klap-nog-kan-komen~a3ebe930/",
-    "title": "“Burgess zakte plots door z’n enkel”: hoe verliezend AA Gent een écht Halloweenweekend beleefde (en de grootste klap nog kan komen)",
-    "ko": "버게스 발목 부상 소식에 헨트 할로윈 주말 악몽",
-    "source": "hln",
-    "publishedAt": "2026-11-02T07:08:00.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "버게스"
-    ],
-    "playerTags": [],
-    "author": "Jordi De Koninck",
-    "transfer": null
-   },
-   {
-    "id": "44638d5f52d3",
-    "url": "https://www.hln.be/aa-gent/aa-gent-moet-nog-wat-langer-bang-afwachten-mri-scan-van-enkel-christian-burgess-staat-pas-dinsdagavond-gepland~aebbb0e4/",
-    "title": "AA Gent moet nog wat langer bang afwachten: MRI-scan van enkel Christian Burgess staat pas dinsdagavond gepland",
-    "ko": "크리스티안 버게스 발목 MRI 검사, 화요일 저녁 예정",
-    "source": "hln",
-    "publishedAt": "2026-11-02T10:26:48.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "크리스티안 버게스"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-02T07:08:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "AA Gent moet nog wat langer bang afwachten: MRI-scan van enkel Christian Burgess staat pas dinsdagavond gepland"
- },
- {
   "slug": "real-sociedad-affairs-var-referee",
   "mode": "llm",
   "titleKo": "라 레알, 심판 판정 공식 비판",
@@ -7619,106 +8480,6 @@
   "headline": "Ruben Amorim seeking to make AC Milan's fairy tale a grim reality for Inter's champions"
  },
  {
-  "slug": "bayern-dortmund-2026-11-03",
-  "mode": "llm",
-  "titleKo": "바이에른 대 도르트문트 클라시커 관련 발언",
-  "createdAt": "2026-11-01T06:00:00.000Z",
-  "updatedAt": "2026-11-01T06:00:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "bayern",
-   "dortmund"
-  ],
-  "players": [
-   "슈바인슈타이거"
-  ],
-  "sig": [
-   "telefonat",
-   "kompany",
-   "klassiker"
-  ],
-  "articles": [
-   {
-    "id": "59c2a48f19ad",
-    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-gegen-dortmund-77-prozent-tippen-auf-bayern-sieg-94567800.html",
-    "title": "Fans sind sich vor dem „Klassiker“ über Sieger einig",
-    "ko": "클라시커 앞두고 팬들, 승자 예측 의견 일치",
-    "source": "tz",
-    "publishedAt": "2026-10-31T15:22:29.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5c8697b0a4ab",
-    "url": "https://www.tz.de/sport/fc-bayern/ausgerechnet-die-60-schweinsteiger-warnt-bayern-vor-bvb-94567828.html",
-    "title": "Ausgerechnet die 60: Schweinsteiger warnt Bayern vor BVB",
-    "ko": "슈바인슈타이거, 도르트문트전 앞두고 바이에른에 경고",
-    "source": "tz",
-    "publishedAt": "2026-10-31T16:19:27.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "슈바인슈타이거"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bb7486c56813",
-    "url": "https://www.tz.de/sport/fc-bayern/zwei-drei-die-einzelkritik-zum-bayern-remis-gegen-dortmund-zr-94567925.html",
-    "title": "Zweimal 2, dreimal 4: Die Einzelkritik zum Bayern-Remis gegen Dortmund",
-    "ko": "바이에른, 도르트문트와 1-1 무승부 선수 평점",
-    "source": "tz",
-    "publishedAt": "2026-10-31T20:07:10.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vinzent Tschirpke",
-    "transfer": null
-   },
-   {
-    "id": "fd3cdaa727bd",
-    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-eberl-telefoniert-vor-bvb-spiel-mit-kompany-94567929.html",
-    "title": "Eberl enthüllt Telefonat mit krankem Kompany vor dem Klassiker",
-    "ko": "에벌, 아픈 콤파니와 클라시커 앞두고 통화 공개",
-    "source": "tz",
-    "publishedAt": "2026-11-01T06:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-10-31T15:22:29.000Z",
-   "viaQuote": false
-  },
-  "headline": "Eberl enthüllt Telefonat mit krankem Kompany vor dem Klassiker"
- },
- {
   "slug": "kasimpasa-besiktas-2026-11-03",
   "mode": "llm",
   "titleKo": "카스믹파샤 대 베식타스 경기 일정",
@@ -7763,63 +8524,6 @@
    "viaQuote": false
   },
   "headline": "Kasımpaşa-Beşiktaş maçı saat kaçta, hangi kanalda?"
- },
- {
-  "slug": "brackelmann-injury",
-  "mode": "llm",
-  "titleKo": "브라케만 뇌진탕 복귀 과정",
-  "createdAt": "2026-11-01T04:50:44.000Z",
-  "updatedAt": "2026-11-01T04:50:44.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "augsburg"
-  ],
-  "players": [
-   "브라케만"
-  ],
-  "sig": [
-   "gehirnerschütterung",
-   "jahr",
-   "fca",
-   "profi",
-   "calvin",
-   "brackelmann"
-  ],
-  "articles": [
-   {
-    "id": "71f3b9523a3a",
-    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/gehirnerschuetterung-so-laeuft-die-rueckkehr-von-calvin-brackelmann-beim-fc-augsburg-1-115602807",
-    "title": "Nach seiner zweiten Gehirnerschütterung in diesem Jahr: So kehrt FCA-Profi Calvin Brackelmann zurück",
-    "ko": "아우크스부르크 브라케만, 올해 두 번째 뇌진탕 후 복귀",
-    "source": "augsburger",
-    "publishedAt": "2026-11-01T04:50:44.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "브라케만"
-    ],
-    "playerTags": [],
-    "author": "Robert Götz",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "아우크스부르거 알게마이네",
-   "source": "augsburger",
-   "at": "2026-11-01T04:50:44.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nach seiner zweiten Gehirnerschütterung in diesem Jahr: So kehrt FCA-Profi Calvin Brackelmann zurück"
  },
  {
   "slug": "willock-besiktas-transfer",

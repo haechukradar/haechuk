@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T14:51:53.447Z",
+ "updatedAt": "2026-11-03T16:50:53.393Z",
  "hot": [
   "de-miguel-incident",
-  "parker-west-ham-appointment",
   "saliba-injury",
-  "atletico-bayern-2026-11-03",
-  "barcelona-aston-villa-2026-11-03"
+  "parker-west-ham-appointment",
+  "grealish-discipline",
+  "atletico-bayern-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -21,32 +21,33 @@
   "2026-10-31",
   "2026-11-01",
   "2026-11-02",
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 84,
-   "added": 0,
+   "items": 86,
+   "added": 6,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 0,
+   "items": 57,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 22,
+   "items": 0,
    "added": 0,
-   "authorRate": 86
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -57,13 +58,13 @@
   "marca": {
    "ok": true,
    "items": 47,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -75,37 +76,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 90
+   "added": 8,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 80
   },
   "waz": {
@@ -117,7 +118,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -129,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
@@ -141,7 +142,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -153,13 +154,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 11,
    "authorRate": 100
   },
   "star": {
@@ -171,20 +172,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 0,
+   "items": 12,
+   "added": 7,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 28
+   "count": 36
   },
   {
    "name": "리산드로 마르티네스",
@@ -199,11 +200,15 @@
    "count": 4
   },
   {
-   "name": "제수스 데 미겔",
+   "name": "잭 그릴리시",
+   "count": 4
+  },
+  {
+   "name": "토마스 뮐러",
    "count": 3
   },
   {
-   "name": "잭 그릴리시",
+   "name": "이오아니디스",
    "count": 3
   },
   {
@@ -212,16 +217,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 90,
-  "singleArticleRate": 50,
+  "recentIssues": 91,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 30
-   },
-   {
-    "slug": "de-miguel-discipline",
-    "count": 21
+    "count": 59
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -232,11 +233,11 @@
  "nameReport": [
   {
    "en": "Jesús de Miguel",
-   "dictionary": null,
+   "dictionary": "헤수스 데 미겔",
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 29
+     "count": 35
     },
     {
      "ko": "제수스 데 미겔",
@@ -270,6 +271,10 @@
     },
     {
      "ko": "누노 산투",
+     "count": 1
+    },
+    {
+     "ko": "누노 에스피리토 산투",
      "count": 1
     }
    ]
@@ -319,6 +324,24 @@
    ]
   },
   {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데이비드 모예스",
+     "count": 2
+    },
+    {
+     "ko": "모예스",
+     "count": 2
+    },
+    {
+     "ko": "모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blessin",
    "dictionary": null,
    "variants": [
@@ -328,24 +351,6 @@
     },
     {
      "ko": "블레싱",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 2
-    },
-    {
-     "ko": "모이스",
-     "count": 1
-    },
-    {
-     "ko": "데이비드 모예스",
      "count": 1
     }
    ]
@@ -481,6 +486,20 @@
    ]
   },
   {
+   "en": "Alan Shearer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앨런 셔러",
+     "count": 1
+    },
+    {
+     "ko": "앨런 시어러",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Trey Nyoni",
    "dictionary": null,
    "variants": [
@@ -490,6 +509,20 @@
     },
     {
      "ko": "트레이 뇨니",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "폰세카",
+     "count": 1
+    },
+    {
+     "ko": "퐁세카",
      "count": 1
     }
    ]
@@ -515,6 +548,10 @@
   "2026-11-03": {
    "collected": 703,
    "llm": 2064
+  },
+  "2026-11-04": {
+   "collected": 88,
+   "llm": 88
   }
  }
 }
