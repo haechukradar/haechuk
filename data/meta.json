@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T22:59:06.088Z",
+ "updatedAt": "2026-11-03T23:37:52.777Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
   "atletico-bayern-2026-11-03",
-  "feyenoord-inter-2026-11-03",
-  "saliba-injury"
+  "ait-nouri-man-utd-transfer",
+  "feyenoord-inter-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -27,20 +27,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 72,
+   "items": 73,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -64,7 +64,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,14 +76,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 76
+   "added": 8,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -94,7 +94,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -107,7 +107,7 @@
    "ok": true,
    "items": 40,
    "added": 1,
-   "authorRate": 83
+   "authorRate": 80
   },
   "waz": {
    "ok": true,
@@ -130,13 +130,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -148,7 +148,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -159,25 +159,25 @@
   },
   "sun": {
    "ok": true,
-   "items": 20,
-   "added": 3,
+   "items": 21,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -196,11 +196,11 @@
    "count": 7
   },
   {
-   "name": "토마스 뮐러",
-   "count": 5
+   "name": "아이트누리",
+   "count": 6
   },
   {
-   "name": "아이트누리",
+   "name": "토마스 뮐러",
    "count": 5
   },
   {
@@ -245,24 +245,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 116,
-  "singleArticleRate": 44,
+  "recentIssues": 117,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 78
+    "count": 79
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 47
+    "count": 49
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 22
+    "count": 23
    },
    {
     "slug": "villarreal-psg-2026-11-03",
-    "count": 18
+    "count": 21
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
@@ -281,7 +281,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 49
+     "count": 50
     },
     {
      "ko": "제수스 데 미겔",
@@ -514,6 +514,24 @@
    ]
   },
   {
+   "en": "Fabian Ruiz",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파비앙 루이스",
+     "count": 1
+    },
+    {
+     "ko": "파비안 루이스",
+     "count": 1
+    },
+    {
+     "ko": "파비앵 루이즈",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rui Borges",
    "dictionary": null,
    "variants": [
@@ -523,6 +541,20 @@
     },
     {
      "ko": "루이 보르게스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "칼",
+     "count": 1
+    },
+    {
+     "ko": "카를",
      "count": 1
     }
    ]
@@ -640,15 +672,29 @@
    ]
   },
   {
-   "en": "Fabian Ruiz",
+   "en": "Undav",
    "dictionary": null,
    "variants": [
     {
-     "ko": "파비안 루이스",
+     "ko": "운데이",
      "count": 1
     },
     {
-     "ko": "파비앙 루이스",
+     "ko": "운다브",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gabby Logan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "가비 로건",
+     "count": 1
+    },
+    {
+     "ko": "개비 로건",
      "count": 1
     }
    ]
@@ -682,20 +728,6 @@
    ]
   },
   {
-   "en": "Undav",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "운다브",
-     "count": 1
-    },
-    {
-     "ko": "운데이",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Prince William",
    "dictionary": null,
    "variants": [
@@ -719,20 +751,6 @@
     },
     {
      "ko": "오바마",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gabby Logan",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "개비 로건",
-     "count": 1
-    },
-    {
-     "ko": "가비 로건",
      "count": 1
     }
    ]
@@ -760,8 +778,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 474,
-   "llm": 474
+   "collected": 509,
+   "llm": 509
   }
  }
 }
