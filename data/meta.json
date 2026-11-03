@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T16:50:53.393Z",
+ "updatedAt": "2026-11-03T17:23:48.810Z",
  "hot": [
   "de-miguel-incident",
   "saliba-injury",
   "parker-west-ham-appointment",
-  "grealish-discipline",
-  "atletico-bayern-2026-11-03"
+  "shakhtar-sporting-2026-11-03",
+  "grealish-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -27,20 +27,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 86,
-   "added": 6,
+   "items": 87,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -58,13 +58,13 @@
   "marca": {
    "ok": true,
    "items": 47,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 10,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,37 +76,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 3,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 1,
    "authorRate": 80
   },
   "waz": {
@@ -118,7 +118,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 18,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,7 +142,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -154,31 +154,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 11,
+   "items": 28,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -196,16 +196,16 @@
    "count": 6
   },
   {
-   "name": "제수스 오워노",
-   "count": 4
-  },
-  {
    "name": "잭 그릴리시",
-   "count": 4
+   "count": 5
   },
   {
    "name": "토마스 뮐러",
-   "count": 3
+   "count": 4
+  },
+  {
+   "name": "제수스 오워노",
+   "count": 4
   },
   {
    "name": "이오아니디스",
@@ -217,8 +217,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 91,
-  "singleArticleRate": 47,
+  "recentIssues": 99,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -232,7 +232,7 @@
  },
  "nameReport": [
   {
-   "en": "Jesús de Miguel",
+   "en": "Jesus de Miguel",
    "dictionary": "헤수스 데 미겔",
    "variants": [
     {
@@ -328,11 +328,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "데이비드 모예스",
-     "count": 2
+     "ko": "모예스",
+     "count": 3
     },
     {
-     "ko": "모예스",
+     "ko": "데이비드 모예스",
      "count": 2
     },
     {
@@ -526,6 +526,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Obama",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오바마",
+     "count": 1
+    },
+    {
+     "ko": "오바모",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -550,8 +564,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 88,
-   "llm": 88
+   "collected": 122,
+   "llm": 122
   }
  }
 }
