@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T18:13:25.826Z",
+ "updatedAt": "2026-11-03T19:10:08.685Z",
  "hot": [
+  "man-utd-roma-2026-11-03",
   "de-miguel-incident",
-  "saliba-injury",
+  "barcelona-aston-villa-2026-11-03",
   "atletico-bayern-2026-11-03",
-  "parker-west-ham-appointment",
-  "spain-affairs-afe-suspension"
+  "villarreal-psg-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -27,20 +27,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 88,
-   "added": 0,
+   "items": 87,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
-   "added": 0,
+   "items": 58,
+   "added": 3,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -64,7 +64,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,32 +82,32 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 86
+   "added": 3,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 80
+   "added": 1,
+   "authorRate": 83
   },
   "waz": {
    "ok": true,
@@ -124,13 +124,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,13 +142,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -159,9 +159,9 @@
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 6,
-   "authorRate": 100
+   "items": 27,
+   "added": 7,
+   "authorRate": 96
   },
   "star": {
    "ok": true,
@@ -172,13 +172,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -189,7 +189,7 @@
   },
   {
    "name": "리산드로 마르티네스",
-   "count": 7
+   "count": 9
   },
   {
    "name": "그릴리시",
@@ -212,6 +212,10 @@
    "count": 4
   },
   {
+   "name": "그라벤베르흐",
+   "count": 3
+  },
+  {
    "name": "이오아니디스",
    "count": 3
   },
@@ -221,12 +225,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 104,
-  "singleArticleRate": 47,
+  "recentIssues": 110,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 63
+    "count": 67
+   },
+   {
+    "slug": "man-utd-roma-2026-11-03",
+    "count": 17
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -241,7 +249,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 37
+     "count": 41
     },
     {
      "ko": "제수스 데 미겔",
@@ -346,15 +354,15 @@
    ]
   },
   {
-   "en": "Blessin",
+   "en": "Mourinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "블레신",
-     "count": 3
+     "ko": "무리뉴",
+     "count": 4
     },
     {
-     "ko": "블레싱",
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -373,6 +381,20 @@
     },
     {
      "ko": "오워노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Blessin",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "블레신",
+     "count": 2
+    },
+    {
+     "ko": "블레싱",
      "count": 1
     }
    ]
@@ -550,6 +572,20 @@
    ]
   },
   {
+   "en": "Prince William",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄 왕자",
+     "count": 1
+    },
+    {
+     "ko": "윌리엄 왕세자",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Obama",
    "dictionary": null,
    "variants": [
@@ -559,20 +595,6 @@
     },
     {
      "ko": "오바마",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Prince William",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄 왕세자",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄 왕자",
      "count": 1
     }
    ]
@@ -600,8 +622,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 170,
-   "llm": 170
+   "collected": 228,
+   "llm": 228
   }
  }
 }
