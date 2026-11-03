@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T17:23:48.810Z",
+ "updatedAt": "2026-11-03T18:13:25.826Z",
  "hot": [
   "de-miguel-incident",
   "saliba-injury",
+  "atletico-bayern-2026-11-03",
   "parker-west-ham-appointment",
-  "shakhtar-sporting-2026-11-03",
-  "grealish-discipline"
+  "spain-affairs-afe-suspension"
  ],
  "days": [
   "2026-10-18",
@@ -27,8 +27,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 87,
-   "added": 2,
+   "items": 88,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -40,7 +40,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -64,7 +64,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 10,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,25 +76,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 5,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -106,7 +106,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 80
   },
   "waz": {
@@ -124,13 +124,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,25 +142,25 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 2,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
@@ -172,20 +172,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 0,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 36
+   "count": 37
   },
   {
    "name": "리산드로 마르티네스",
@@ -208,6 +208,10 @@
    "count": 4
   },
   {
+   "name": "아이트누리",
+   "count": 4
+  },
+  {
    "name": "이오아니디스",
    "count": 3
   },
@@ -217,12 +221,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 99,
-  "singleArticleRate": 48,
+  "recentIssues": 104,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 59
+    "count": 63
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -237,19 +241,19 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 35
+     "count": 37
     },
     {
      "ko": "제수스 데 미겔",
      "count": 6
     },
     {
-     "ko": "헤수스 데 미구엘",
+     "ko": "데 미겔",
      "count": 3
     },
     {
-     "ko": "데 미겔",
-     "count": 2
+     "ko": "헤수스 데 미구엘",
+     "count": 3
     },
     {
      "ko": "호세스 데 미겔",
@@ -356,6 +360,24 @@
    ]
   },
   {
+   "en": "Jesus Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스 오워노",
+     "count": 2
+    },
+    {
+     "ko": "호아킨 오워노",
+     "count": 1
+    },
+    {
+     "ko": "오워노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
@@ -369,20 +391,6 @@
     },
     {
      "ko": "제이미 캐러거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "호아킨 오워노",
      "count": 1
     }
    ]
@@ -425,6 +433,20 @@
     },
     {
      "ko": "아라스파테",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Granit Xhaka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "작실 샤카",
+     "count": 1
+    },
+    {
+     "ko": "그라니트 자카",
      "count": 1
     }
    ]
@@ -532,11 +554,25 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "오바마",
+     "ko": "오바모",
      "count": 1
     },
     {
-     "ko": "오바모",
+     "ko": "오바마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Prince William",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄 왕세자",
+     "count": 1
+    },
+    {
+     "ko": "윌리엄 왕자",
      "count": 1
     }
    ]
@@ -564,8 +600,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 122,
-   "llm": 122
+   "collected": 170,
+   "llm": 170
   }
  }
 }
