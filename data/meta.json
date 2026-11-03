@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T19:10:08.685Z",
+ "updatedAt": "2026-11-03T19:59:09.979Z",
  "hot": [
   "man-utd-roma-2026-11-03",
-  "de-miguel-incident",
   "barcelona-aston-villa-2026-11-03",
-  "atletico-bayern-2026-11-03",
-  "villarreal-psg-2026-11-03"
+  "de-miguel-incident",
+  "villarreal-psg-2026-11-03",
+  "atletico-bayern-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -28,19 +28,19 @@
   "bbc": {
    "ok": true,
    "items": 87,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -82,31 +82,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 82
+   "added": 6,
+   "authorRate": 74
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,7 +142,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -154,30 +154,30 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 27,
-   "added": 7,
-   "authorRate": 96
+   "items": 12,
+   "added": 5,
+   "authorRate": 92
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 12,
    "added": 3,
    "authorRate": 0
   }
@@ -193,7 +193,7 @@
   },
   {
    "name": "그릴리시",
-   "count": 6
+   "count": 7
   },
   {
    "name": "잭 그릴리시",
@@ -220,21 +220,29 @@
    "count": 3
   },
   {
+   "name": "토니 브로뇨",
+   "count": 3
+  },
+  {
+   "name": "한스 바나켄",
+   "count": 3
+  },
+  {
    "name": "티에른 바리",
    "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 110,
-  "singleArticleRate": 45,
+  "recentIssues": 112,
+  "singleArticleRate": 46,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 67
+    "count": 70
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 17
+    "count": 20
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -249,7 +257,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 41
+     "count": 45
     },
     {
      "ko": "제수스 데 미겔",
@@ -275,7 +283,7 @@
    "variants": [
     {
      "ko": "누노 에스피리투 산투",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "누노 에스피리투 산토",
@@ -314,6 +322,24 @@
    ]
   },
   {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데이비드 모예스",
+     "count": 3
+    },
+    {
+     "ko": "모예스",
+     "count": 3
+    },
+    {
+     "ko": "모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -336,19 +362,23 @@
    ]
   },
   {
-   "en": "David Moyes",
+   "en": "Jesus Owono",
    "dictionary": null,
    "variants": [
     {
-     "ko": "모예스",
-     "count": 3
-    },
-    {
-     "ko": "데이비드 모예스",
+     "ko": "제수스 오워노",
      "count": 2
     },
     {
-     "ko": "모이스",
+     "ko": "호아킨 오워노",
+     "count": 1
+    },
+    {
+     "ko": "오워노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오워노",
      "count": 1
     }
    ]
@@ -363,24 +393,6 @@
     },
     {
      "ko": "모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "호아킨 오워노",
-     "count": 1
-    },
-    {
-     "ko": "오워노",
      "count": 1
     }
    ]
@@ -544,6 +556,20 @@
    ]
   },
   {
+   "en": "Doumbia",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "더움비아",
+     "count": 1
+    },
+    {
+     "ko": "두움비아",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Trey Nyoni",
    "dictionary": null,
    "variants": [
@@ -598,6 +624,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르게스",
+     "count": 1
+    },
+    {
+     "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Cody Gakpo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "가크포",
+     "count": 1
+    },
+    {
+     "ko": "코디 학포",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -622,8 +676,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 228,
-   "llm": 228
+   "collected": 276,
+   "llm": 276
   }
  }
 }
