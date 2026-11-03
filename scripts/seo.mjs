@@ -50,10 +50,7 @@ writeFileSync(
   `User-agent: *\nAllow: /\n` + (SITE.searchIndexing ? `\nSitemap: ${base}/sitemap.xml\n` : ''),
 );
 
-// HTML 외 파일(RSS, JSON)까지 막기 위한 응답 헤더. *.pages.dev 미리보기 주소는 항상 검색 제외
-const headers = [];
-if (!SITE.searchIndexing) headers.push('/*', '  X-Robots-Tag: noindex, nofollow', '');
-if (SITE.cloudflareProject) headers.push(`https://:sub.${SITE.cloudflareProject}.pages.dev/*`, '  X-Robots-Tag: noindex', '', `https://${SITE.cloudflareProject}.pages.dev/*`, '  X-Robots-Tag: noindex', '');
-writeFileSync(join(DIST, '_headers'), headers.join('\n'));
+// HTML 외 파일(RSS, JSON)까지 막기 위한 응답 헤더 (Cloudflare 기본 주소는 wrangler.jsonc 에서 꺼 둠)
+writeFileSync(join(DIST, '_headers'), SITE.searchIndexing ? '' : '/*\n  X-Robots-Tag: noindex, nofollow\n');
 
 console.log(`검색 노출: ${SITE.searchIndexing ? '허용' : '차단'} · 사이트맵 ${urls.length}개 페이지`);

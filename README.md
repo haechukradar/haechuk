@@ -38,12 +38,12 @@ npm run build && npm run preview
 
 `ANTHROPIC_API_KEY`가 없으면 규칙 기반으로 동작합니다(한국어 요약 없이 원문 제목 노출, 키워드 기반 태깅·묶기). 키가 있으면 Claude Haiku(`claude-haiku-5-5`)로 요약·엔티티 태깅·이적 단계 분류·이슈 키를 부여하고, 규칙 기반으로 처리된 최근 24시간 기사도 다음 실행에서 다시 가공합니다.
 
-## 배포 (GitHub Actions에서 빌드 → Cloudflare Pages 업로드)
+## 배포 (GitHub Actions에서 빌드 → Cloudflare 업로드)
 
 Cloudflare가 직접 빌드하면 무료 플랜이 월 500회라 15분 주기(월 약 2,900회)를 못 따라가므로, 빌드는 GitHub Actions에서 하고 결과(`dist`)만 올립니다.
 
-1. Cloudflare Pages에서 **직접 업로드** 방식으로 프로젝트 `haechuk` 생성, 사용자 지정 도메인 `haechuk.net` 연결 (Git 연결은 하지 않음)
-2. GitHub 저장소(공개 권장) Settings → Secrets에 `ANTHROPIC_API_KEY`, `CLOUDFLARE_API_TOKEN`(권한: Cloudflare Pages 편집), `CLOUDFLARE_ACCOUNT_ID` 등록. 선택: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`
+1. Cloudflare Workers & Pages에서 정적 파일 업로드로 Worker 생성(`dawn-sky-ef34`), 도메인 `haechuk.net` 연결. 배포 설정은 `wrangler.jsonc`
+2. GitHub 저장소(공개 권장) Settings → Secrets에 `ANTHROPIC_API_KEY`, `CLOUDFLARE_API_TOKEN`(권한: Workers Scripts 편집), `CLOUDFLARE_ACCOUNT_ID` 등록. 선택: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`
 3. 워크플로
    - `collect.yml`: 15분마다 수집 → `data/` 커밋 → 배포
    - `outbox.yml`: KST 08·20시 발행 문구·주간 퀴즈 → 커밋 → 배포
@@ -53,7 +53,7 @@ Cloudflare가 직접 빌드하면 무료 플랜이 월 500회라 15분 주기(�
 
 - `config/site.mjs`의 `searchIndexing` 하나로 켜고 끕니다. `false`(기본, 비공개 점검 기간)면 모든 페이지에 noindex 표시와 `X-Robots-Tag` 헤더가 붙습니다
 - 빌드 후 `scripts/seo.mjs`가 `robots.txt`, `sitemap.xml`, `_headers`를 만듭니다. `/me`, `/outbox`, `/ops`는 사이트맵에서 빠지고 항상 noindex
-- `*.pages.dev` 주소는 항상 검색 제외 (haechuk.net과 중복 색인 방지)
+- Cloudflare 기본 주소(`*.workers.dev`)는 `wrangler.jsonc`에서 꺼 둠 (haechuk.net과 중복 색인 방지)
 - 네이버 서치어드바이저·구글 서치콘솔의 소유 확인 코드는 `SITE.verification`에 넣습니다
 
 ## 오픈 전 확인 (기획서 4·7장)

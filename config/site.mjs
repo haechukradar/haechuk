@@ -7,7 +7,6 @@ export const SITE = {
   searchIndexing: false,
   // 검색엔진 소유 확인 코드 (서치어드바이저·서치콘솔이 주는 content 값만)
   verification: { naver: '', google: '' },
-  cloudflareProject: 'haechuk', // Cloudflare Pages 프로젝트 이름 (*.pages.dev 미리보기 주소는 항상 검색 제외)
   spochatUrl: '', // SPOCHAT 블로그 주소 (있으면 푸터에 링크)
   ga4Id: '', // Google Analytics 4 측정 ID (예: G-XXXXXXX). 비어 있으면 스크립트 미삽입
   // 신문법 등록 대상 판정 시 기입 (최상위 화면 표시 의무)

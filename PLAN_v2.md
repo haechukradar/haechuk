@@ -112,7 +112,7 @@ RSS 수집(15분) → Claude 요약·태깅 → 이슈 묶기·병합 → 점수
 | 데이터 | 저장소 안 JSON 파일 (수 MB를 넘으면 Cloudflare D1 검토) |
 | 요약 | Claude Haiku (`claude-haiku-5-5`) |
 | 사이트 | Astro 정적 생성 |
-| 호스팅·도메인·메일 | Cloudflare Pages, Cloudflare 도메인, Cloudflare 이메일 라우팅 |
+| 호스팅·도메인·메일 | Cloudflare Workers(정적 사이트), Cloudflare 도메인, Cloudflare 이메일 라우팅 |
 | 측정 | GA4 |
 
 ### 5-2. 비용
@@ -150,7 +150,7 @@ RSS 수집(15분) → Claude 요약·태깅 → 이슈 묶기·병합 → 점수
 - [ ] Cloudflare 이메일 라우팅: report@haechuk.net → 개인 메일
 - [ ] GitHub 가입, 공개 저장소 생성
 - [ ] GitHub Secrets 등록: `ANTHROPIC_API_KEY`, `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (선택: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL_ID`)
-- [ ] Cloudflare Pages 프로젝트 생성 (이름 `haechuk`), 도메인 연결
+- [x] Cloudflare Workers 프로젝트 생성(대시보드 업로드, 이름 `dawn-sky-ef34`), haechuk.net 연결
 - [ ] 매체별 RSS 이용약관 확인
 - [ ] 경기도청 신문법 담당 부서 문의
 - [ ] "로마노"·"Here we go" 문구 사용 여부 결정

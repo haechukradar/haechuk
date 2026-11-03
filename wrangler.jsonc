@@ -1,0 +1,8 @@
+// Cloudflare Workers 정적 사이트 설정 (GitHub Actions deploy.yml 이 dist 를 올린다)
+{
+  "name": "dawn-sky-ef34", // 대시보드에서 만든 Worker 이름 (haechuk.net 연결됨)
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist" },
+  "workers_dev": false, // *.workers.dev 기본 주소 끔 (haechuk.net 과 중복 색인 방지)
+  "preview_urls": false
+}
