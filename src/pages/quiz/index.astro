@@ -1,0 +1,73 @@
+---
+// 이번 주 퀴즈 + 지난 퀴즈 목록
+import Layout from '../../layouts/Layout.astro';
+import QuizPlayer from '../../components/QuizPlayer.astro';
+import { loadQuizzes } from '../../lib/data.mjs';
+import { GAME } from '../../../config/game.mjs';
+
+const quizzes = loadQuizzes();
+const latest = quizzes[0];
+---
+
+<Layout title="주간 해외축구 퀴즈" description="최근 일주일 해외 축구 뉴스로 만든 주간 퀴즈. 풀수록 등급이 올라갑니다.">
+  <h1 class="page-title">
+    주간 퀴즈 <small>매주 월요일 새 문제</small>
+  </h1>
+  <div class="grade-strip" id="grade-strip" hidden>
+    <span class="grade-badge" id="grade-name"></span>
+    <span id="grade-meta" class="muted small"></span>
+    <a href="/me" class="small">내 기록 →</a>
+  </div>
+
+  {latest ? (
+    <section>
+      <h2 class="sec">{latest.title}</h2>
+      <QuizPlayer quiz={latest} />
+    </section>
+  ) : (
+    <p class="empty">아직 출제된 퀴즈가 없습니다.</p>
+  )}
+
+  <section>
+    <h2 class="sec">등급 기준</h2>
+    <ul class="grade-table">
+      {GAME.grades.map((g) => (
+        <li>
+          <span class="grade-badge">{g.name}</span> {g.min.toLocaleString()}점 이상{g.minAcc && ` · 최근 ${GAME.recentQuizzes}회 퀴즈 정답률 ${Math.round(g.minAcc * 100)}% 이상`}
+        </li>
+      ))}
+    </ul>
+    <p class="muted small">
+      정답 +{GAME.points.correct}점 · 완주 +{GAME.points.complete}점 · 연속 참여 주마다 +{GAME.points.streakStep}점(최대 {GAME.points.streakMax}점) · 이적 예측 적중 +{GAME.points.predictHit}점.
+      기록은 이 브라우저에만 저장됩니다.
+    </p>
+  </section>
+
+  {
+    quizzes.length > 1 && (
+      <section>
+        <h2 class="sec">지난 퀴즈</h2>
+        <ul class="quiz-archive">
+          {quizzes.slice(1).map((q: any) => (
+            <li>
+              <a href={`/quiz/${q.id}`}>{q.title}</a> <span class="muted small">{q.questions.length}문제</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</Layout>
+
+<script is:inline>
+  function renderGradeStrip() {
+    if (!window.GAME) return;
+    var g = window.GAME.compute();
+    if (!g.points && !g.quizzes.length) return;
+    document.getElementById('grade-strip').hidden = false;
+    document.getElementById('grade-name').textContent = g.grade.name;
+    document.getElementById('grade-meta').textContent = '누적 ' + g.points + '점' + (g.next ? ' · ' + g.next.name + '까지 ' + Math.max(0, g.next.min - g.points) + '점' : '');
+  }
+  document.addEventListener('DOMContentLoaded', renderGradeStrip);
+  document.addEventListener('game-change', renderGradeStrip);
+</script>

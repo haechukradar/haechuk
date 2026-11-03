@@ -1,0 +1,49 @@
+# 매일 KST 08:00·20:00 핫 트렌드 Top 3 발행 문구 생성 + 주간 퀴즈 생성(주 1회) → data/outbox 커밋 (+ 텔레그램 설정 시 자동 발송)
+name: outbox
+
+on:
+  schedule:
+    - cron: '0 23 * * *' # KST 08:00
+    - cron: '0 11 * * *' # KST 20:00
+  workflow_dispatch:
+
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  outbox:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run outbox
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+      - run: npm run quiz # 이번 주(월요일 시작) 퀴즈가 없으면 생성
+      - name: Commit outbox
+        run: |
+          git config user.name "collector-bot"
+          git config user.email "collector-bot@users.noreply.github.com"
+          git add data/outbox data/quiz
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "outbox: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi
+
+  deploy:
+    needs: outbox
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

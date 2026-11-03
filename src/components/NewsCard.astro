@@ -1,0 +1,44 @@
+---
+// 뉴스 카드 1개 = 한국어 요약 1줄 + 매체명 + 티어 + 경과 시간 + 원문 링크 (+ 원문 제목 병기)
+import { SITE, PIPELINE } from '../../config/site.mjs';
+import { loadData, sourceOf } from '../lib/data.mjs';
+import { STAGE_LABEL } from '../lib/labels.mjs';
+import { PLAYER_BY_SLUG } from '../../config/players.mjs';
+
+interface Props {
+  a: any;
+  showIssueLink?: boolean;
+}
+const { a, showIssueLink = true } = Astro.props;
+const src = sourceOf(a.source);
+const issue = a.issue ? loadData().issueBySlug.get(a.issue) : null;
+const hot = !!issue && issue.recentSources >= PIPELINE.hotMinSources;
+const headline = a.ko || a.title;
+const tags: string[] = a.playerTags ?? a.koreans ?? [];
+const players = tags.map((k) => PLAYER_BY_SLUG[k]).filter(Boolean).slice(0, 3);
+const report = `mailto:${SITE.reportEmail}?subject=${encodeURIComponent('[요약 오류 신고]')}&body=${encodeURIComponent(`원문: ${a.url}\n요약: ${a.ko ?? ''}\n\n오류 내용:`)}`;
+---
+
+<article
+  class="card"
+  data-league={a.league ?? 'other'}
+  data-clubs={(a.clubs ?? []).join(' ')}
+  data-players={tags.join(' ')}
+  data-tier={src.tier}
+  data-hot={hot ? '1' : '0'}
+>
+  <a class="card-title" href={a.url} target="_blank" rel="noopener nofollow" data-out data-src-name={src.name} data-tier={src.tier}>
+    {a.stage && <span class={`stage stage-${a.stage}`}>{STAGE_LABEL[a.stage]}</span>}
+    {headline}
+  </a>
+  {a.ko && <p class="orig" lang={src.lang}>{a.title}</p>}
+  <div class="meta">
+    <span class="src">{src.name}</span>
+    <span class={`tier tier-${src.tier}`} title={`신뢰도 ${src.tier}티어`}>T{src.tier}</span>
+    {src.paywall && <span class="lock" title="유료 매체">🔒</span>}
+    <time data-ts={a.publishedAt} datetime={a.publishedAt}></time>
+    {players.map((p: any) => <a class="kr" href={`/player/${p.slug}`}>{p.korean && '🇰🇷 '}{p.ko}</a>)}
+    {showIssueLink && issue && <a class="issue-link" href={`/issue/${issue.slug}`}>묶음 {issue.sourceCount}개 매체 →</a>}
+    {a.ko && <a class="report" href={report} data-article={a.url} title="요약 오류 신고">신고</a>}
+  </div>
+</article>

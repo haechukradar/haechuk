@@ -1,0 +1,162 @@
+---
+// 전체 이적 현황 보드: 전 클럽 이적 이슈를 단계별 칸반으로 (모바일은 단계별 접이식 목록)
+import Layout from '../layouts/Layout.astro';
+import FeedFilter from '../components/FeedFilter.astro';
+import FilterEmpty from '../components/FilterEmpty.astro';
+import { loadData, sourceOf } from '../lib/data.mjs';
+import { STAGES, stageChangeInfo } from '../lib/labels.mjs';
+import { CLUB_BY_SLUG, CLUBS, LEAGUES } from '../../config/clubs.mjs';
+import { PIPELINE, TRANSFERS } from '../../config/site.mjs';
+
+const { issues, issueBySlug } = loadData();
+const now = Date.now();
+const D = 24 * 3600_000;
+const closed = new Set(['done', 'collapsed']);
+const lastMove = (i: any) => i.stageChange?.at ?? i.updatedAt;
+// 종료된 이슈(확정·결렬·추론 결렬)는 판정 결과 칸에 놓는다
+const boardStage = (i: any) => (i.resolution && i.resolution.result !== 'expired' ? i.resolution.result : i.stage);
+// 확정·결렬 칸은 종료 판정이 났거나 2개 이상 매체가 보도한 건만 (회고 기사 1건이 '확정'으로 보이는 것 방지)
+const trusted = (i: any) => !closed.has(boardStage(i)) || !!i.resolution || i.sourceCount >= 2;
+
+const cards = issues
+  .filter((i: any) => i.category === 'transfer' && i.stage && i.resolution?.result !== 'expired' && trusted(i))
+  .filter((i: any) => {
+    const st = boardStage(i);
+    const age = now - Date.parse(closed.has(st) ? i.resolution?.at ?? lastMove(i) : i.updatedAt);
+    return age < (closed.has(st) ? TRANSFERS.closedDays : TRANSFERS.activeDays) * D;
+  })
+  .map((i: any) => {
+    const best = sourceOf([...new Set(i.articles.map((a: any) => a.source))].map((s) => sourceOf(s as string)).sort((x, y) => x.tier - y.tier)[0].id);
+    const page = issueBySlug.has(i.slug);
+    const latest = i.articles.at(-1);
+    return {
+      slug: i.slug,
+      stage: boardStage(i),
+      player: i.transfer?.player ?? null,
+      title: i.titleKo || i.headline,
+      from: i.transfer?.from ?? null,
+      to: i.transfer?.to ?? null,
+      sourceCount: i.sourceCount,
+      topTier: i.topTier,
+      best,
+      hot: i.recentSources >= PIPELINE.hotMinSources,
+      moveAt: lastMove(i),
+      change: i.stageChange ? stageChangeInfo(i.stageChange) : null,
+      clubs: i.clubs,
+      leagues: [...new Set(i.clubs.map((c: string) => CLUB_BY_SLUG[c]?.league).filter(Boolean))],
+      href: page ? `/issue/${i.slug}` : latest.url,
+      external: !page,
+    };
+  })
+  .sort((a: any, b: any) => Date.parse(b.moveAt) - Date.parse(a.moveAt));
+
+const columns = STAGES.map(([key, label]) => ({ key, label, items: cards.filter((c: any) => c.stage === key) }));
+const clubOptions = CLUBS.filter((c) => cards.some((x: any) => x.clubs.includes(c.slug))).sort((a, b) => a.ko.localeCompare(b.ko, 'ko'));
+const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any) => x.leagues.includes(k)));
+---
+
+<Layout title="이적 현황 보드" description="해외축구 이적 루머·협상·확정 현황을 매체 신뢰도와 함께 한눈에 보는 이적 상황판" wide>
+  <h1 class="page-title">이적 현황 <small>관심 → 협상 → 합의 → 확정 / 결렬</small></h1>
+  <p class="muted small">
+    진행 중 이적설은 최근 {TRANSFERS.activeDays}일, 확정·결렬은 최근 {TRANSFERS.closedDays}일 기준입니다. 이적시장이 닫힌 기간에는 카드가 적을 수 있고, 1월 겨울
+    이적시장에 본격적으로 채워집니다.
+  </p>
+
+  <div class="filters">
+    <label>클럽
+      <select id="t-club">
+        <option value="">전체</option>
+        {clubOptions.map((c) => <option value={c.slug}>{c.ko}</option>)}
+      </select>
+    </label>
+    <label>리그
+      <select id="t-league">
+        <option value="">전체</option>
+        {leagueOptions.map(([k, v]) => <option value={k}>{v}</option>)}
+      </select>
+    </label>
+  </div>
+  <FeedFilter target="board" />
+
+  <div class="tboard" id="board" data-filterable>
+    {
+      columns.map((col) => (
+        <details class="tcol" open data-stage={col.key}>
+          <summary class={`stage stage-${col.key}`}>
+            {col.label} <span class="tcount">{col.items.length}</span>
+          </summary>
+          <div class="tcol-body">
+            {col.items.map((c: any) => (
+              <a
+                class="bcard"
+                href={c.href}
+                {...(c.external ? { target: '_blank', rel: 'noopener nofollow', 'data-out': '', 'data-src-name': c.best.name, 'data-tier': c.best.tier } : {})}
+                data-tier={c.topTier}
+                data-hot={c.hot ? '1' : '0'}
+                data-clubs={c.clubs.join(' ')}
+                data-leagues={c.leagues.join(' ')}
+              >
+                <strong>{c.player ?? c.title}</strong>
+                {(c.from || c.to) && <span class="route">{c.from ?? '?'} → {c.to ?? '?'}</span>}
+                {c.player && <span class="btitle">{c.title}</span>}
+                <span class="meta">
+                  <span>{c.sourceCount}개 매체</span>
+                  <span class={`tier tier-${c.topTier}`}>최고 T{c.topTier}</span>
+                  {c.change && <span>{c.change.icon}</span>}
+                  <time data-ts={c.moveAt} datetime={c.moveAt}></time>
+                </span>
+              </a>
+            ))}
+            <p class="muted col-empty" hidden={col.items.length > 0}>해당 단계 이적설이 없습니다</p>
+          </div>
+        </details>
+      ))
+    }
+  </div>
+  <FilterEmpty target="board" />
+</Layout>
+
+<script is:inline>
+  (function () {
+    var board = document.getElementById('board');
+    var club = document.getElementById('t-club');
+    var league = document.getElementById('t-league');
+    function apply() {
+      var c = club.value, l = league.value;
+      board.querySelectorAll('.bcard').forEach(function (el) {
+        var okC = !c || (el.getAttribute('data-clubs') || '').split(' ').indexOf(c) >= 0;
+        var okL = !l || (el.getAttribute('data-leagues') || '').split(' ').indexOf(l) >= 0;
+        el.hidden = !(okC && okL);
+      });
+      if (window.__applyFeedFilters) window.__applyFeedFilters();
+    }
+    // 단계별 표시 건수 갱신
+    board.addEventListener('filter-applied', function () {
+      board.querySelectorAll('.tcol').forEach(function (col) {
+        var n = 0;
+        col.querySelectorAll('.bcard').forEach(function (el) {
+          if (!el.hidden && !el.classList.contains('f-tier-hide')) n++;
+        });
+        col.querySelector('.tcount').textContent = n;
+        col.querySelector('.col-empty').hidden = n > 0;
+      });
+    });
+    // 즐겨찾기 클럽을 클럽 목록 맨 위로
+    function sortClubs() {
+      var favs = window.FAV ? window.FAV.get('clubs') : [];
+      var opts = Array.prototype.slice.call(club.options, 1);
+      opts.sort(function (a, b) {
+        var fa = favs.indexOf(a.value) >= 0 ? 0 : 1, fb = favs.indexOf(b.value) >= 0 ? 0 : 1;
+        return fa - fb || a.text.localeCompare(b.text, 'ko');
+      });
+      opts.forEach(function (o) {
+        o.text = (favs.indexOf(o.value) >= 0 ? '★ ' : '') + o.text.replace(/^★ /, '');
+        club.appendChild(o);
+      });
+    }
+    club.addEventListener('change', apply);
+    league.addEventListener('change', apply);
+    document.addEventListener('feed-filter-reset', function () { club.value = ''; league.value = ''; apply(); });
+    document.addEventListener('DOMContentLoaded', function () { sortClubs(); apply(); });
+  })();
+</script>

@@ -1,0 +1,77 @@
+---
+// 선수 목록: 리그별 그룹 + 이름 검색 + 즐겨찾기
+import Layout from '../layouts/Layout.astro';
+import { PLAYERS } from '../../config/players.mjs';
+import { CLUB_BY_SLUG, LEAGUES } from '../../config/clubs.mjs';
+import { recentArticles } from '../lib/data.mjs';
+
+const recent = recentArticles(3);
+const count = (slug: string) => recent.filter((a: any) => (a.playerTags ?? []).includes(slug)).length;
+const groupOf = (p: any) => (p.korean ? 'korean' : CLUB_BY_SLUG[p.club]?.league ?? 'other');
+const GROUPS: [string, string][] = [['korean', '🇰🇷 코리안리거'], ...Object.entries(LEAGUES)];
+const withCount = PLAYERS.map((p) => ({ ...p, n: count(p.slug) }));
+const trending = withCount.filter((p) => p.n > 0).sort((a, b) => b.n - a.n).slice(0, 8);
+const groups = [
+  { key: 'trending', label: '🔥 지금 많이 언급된 선수', players: trending },
+  ...GROUPS.map(([key, label]) => ({
+    key,
+    label,
+    players: withCount.filter((p) => groupOf(p) === key).sort((a, b) => b.n - a.n),
+  })),
+].filter((g) => g.players.length);
+---
+
+<Layout title="선수별 뉴스" description="음바페·홀란·손흥민 등 주요 선수별 해외 원 소스 뉴스 모아보기" wide>
+  <h1 class="page-title">선수별 뉴스</h1>
+  <p class="muted">☆를 누르면 메인 화면 맨 위에 그 선수 소식이 먼저 표시됩니다.</p>
+  <div class="filters">
+    <label class="grow">선수 검색
+      <input id="player-q" type="search" placeholder="예: 음바페, Haaland, 레알" />
+    </label>
+  </div>
+
+  {
+    groups.map((g) => (
+      <section class="player-group">
+        <h2 class="sec">
+          {g.label}
+          {g.key === 'korean' && <small><a href="/korean">코리안리거 피드 →</a></small>}
+        </h2>
+        <div class="player-grid">
+          {g.players.map((p) => (
+            <div class="player-tile" data-search={[p.ko, p.team, ...p.full, ...p.short].join(' ').toLowerCase()}>
+              <a href={`/player/${p.slug}`}>
+                <strong>{p.ko}</strong>
+                <span class="muted">{p.team}</span>
+                <span class:list={['count', { zero: p.n === 0 }]}>최근 3일 {p.n}건</span>
+              </a>
+              <button class="fav-btn small" type="button" data-fav-toggle={p.slug} data-fav-kind="players" data-fav-name={p.ko} data-label-off="☆" data-label-on="★" aria-pressed="false" aria-label={`${p.ko} 즐겨찾기`}>☆</button>
+            </div>
+          ))}
+        </div>
+      </section>
+    ))
+  }
+  <p class="empty" id="player-empty" hidden>검색 결과가 없습니다. 명단에 없는 선수는 <a href="/archive">아카이브</a>에서 키워드로 찾아보세요.</p>
+</Layout>
+
+<script is:inline>
+  (function () {
+    var q = document.getElementById('player-q');
+    q.addEventListener('input', function () {
+      var v = q.value.trim().toLowerCase();
+      var total = 0;
+      document.querySelectorAll('.player-group').forEach(function (g) {
+        var shown = 0;
+        g.querySelectorAll('.player-tile').forEach(function (t) {
+          var ok = !v || t.getAttribute('data-search').indexOf(v) >= 0;
+          t.hidden = !ok;
+          if (ok) shown++;
+        });
+        g.hidden = shown === 0;
+        total += shown;
+      });
+      document.getElementById('player-empty').hidden = total > 0;
+    });
+  })();
+</script>

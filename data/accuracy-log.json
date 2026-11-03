@@ -1,0 +1,142 @@
+[
+ {
+  "slug": "alvarez-barcelona-transfer",
+  "title": "알바레스 이적 관련 바르셀로나 벌금",
+  "players": [
+   "julian-alvarez"
+  ],
+  "transfer": {
+   "player": "훌리안 알바레스",
+   "from": "아틀레티코 마드리드",
+   "to": "바르셀로나"
+  },
+  "result": "collapsed",
+  "inferred": false,
+  "manual": false,
+  "note": null,
+  "resolvedAt": "2026-10-28T14:01:13.000Z",
+  "firstReportAt": "2026-10-28T12:01:27.000Z",
+  "durationDays": 0.1,
+  "scoredAt": "2026-10-28T14:06:04.720Z",
+  "revision": 0,
+  "scores": [
+   {
+    "source": "kicker",
+    "tier": 2,
+    "lastStage": "collapsed",
+    "author": null,
+    "prediction": "fail",
+    "hit": true,
+    "firstSignalAt": "2026-10-28T12:01:27.000Z",
+    "leadHours": 2
+   },
+   {
+    "source": "espn",
+    "tier": 2,
+    "lastStage": "collapsed",
+    "author": "Sam Marsden",
+    "prediction": "fail",
+    "hit": true,
+    "firstSignalAt": "2026-10-28T14:01:13.000Z",
+    "leadHours": 0
+   }
+  ],
+  "summary": {
+   "scored": 2,
+   "hits": 2,
+   "excluded": 0,
+   "firstCorrect": {
+    "source": "kicker",
+    "leadHours": 2
+   }
+  }
+ },
+ {
+  "slug": "jacquet-liverpool-transfer",
+  "title": "리버풀, 자케 영입 성공적",
+  "players": [],
+  "transfer": {
+   "player": "제레미 자케",
+   "from": null,
+   "to": "리버풀"
+  },
+  "result": "done",
+  "inferred": false,
+  "manual": false,
+  "note": null,
+  "resolvedAt": "2026-10-28T08:36:34.000Z",
+  "firstReportAt": "2026-10-28T08:36:34.000Z",
+  "durationDays": 0,
+  "scoredAt": "2026-10-28T14:06:04.720Z",
+  "revision": 0,
+  "scores": [
+   {
+    "source": "bbc",
+    "tier": 1,
+    "lastStage": "done",
+    "author": null,
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-10-28T08:36:34.000Z",
+    "leadHours": 0
+   }
+  ],
+  "summary": {
+   "scored": 1,
+   "hits": 1,
+   "excluded": 0,
+   "firstCorrect": {
+    "source": "bbc",
+    "leadHours": 0
+   }
+  }
+ },
+ {
+  "slug": "jacquet-liverpool-transfer",
+  "title": "리버풀, 자케 영입 성공적",
+  "players": [],
+  "transfer": {
+   "player": "자케",
+   "from": null,
+   "to": "리버풀"
+  },
+  "result": "void",
+  "inferred": false,
+  "manual": false,
+  "note": "판정 규칙 변경(앞선 이적설 없음)으로 무효",
+  "resolvedAt": "2026-10-28T08:36:34.000Z",
+  "firstReportAt": "2026-10-28T08:36:34.000Z",
+  "durationDays": 0,
+  "scoredAt": "2026-11-03T13:43:51.087Z",
+  "revision": 1,
+  "previousResult": "done",
+  "changeReason": "closure-rule",
+  "scores": [],
+  "summary": null
+ },
+ {
+  "slug": "alvarez-barcelona-transfer",
+  "title": "알바레스 이적 관련 바르셀로나 벌금",
+  "players": [
+   "julian-alvarez"
+  ],
+  "transfer": {
+   "player": "훌리안 알바레스",
+   "from": "아틀레티코 마드리드",
+   "to": "바르셀로나"
+  },
+  "result": "void",
+  "inferred": false,
+  "manual": true,
+  "note": "이적 결렬이 아니라 바르셀로나의 부당 접근 벌금(행정 처분) 기사들이 묶임 — 2026-11-03 운영자 판정",
+  "resolvedAt": "2026-10-28T14:01:13.000Z",
+  "firstReportAt": "2026-10-27T19:42:00.000Z",
+  "durationDays": 0.8,
+  "scoredAt": "2026-11-03T13:44:12.311Z",
+  "revision": 1,
+  "previousResult": "collapsed",
+  "changeReason": "manual-resolution",
+  "scores": [],
+  "summary": null
+ }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "football-news",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node --env-file-if-exists=.env scripts/collect.mjs",
+    "dev": "astro dev",
+    "build": "astro build && node scripts/seo.mjs",
+    "preview": "astro preview",
+    "outbox": "node scripts/outbox.mjs",
+    "quiz": "node scripts/quiz.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.137.0",
+    "astro": "^7.4.1",
+    "fast-xml-parser": "^5.11.2",
+    "zod": "^4.6.7"
+  }
+}

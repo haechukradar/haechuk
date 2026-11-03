@@ -1,0 +1,70 @@
+---
+// 기사배열 기본방침 (신문법 시행령 제8조 대응: 알고리즘 자동 배열 명시) + 운영 원칙
+import Layout from '../layouts/Layout.astro';
+import { SOURCES, TIER_LABEL, TIER_WEIGHT } from '../../config/sources.mjs';
+import { PIPELINE, SITE } from '../../config/site.mjs';
+
+const byTier = [1, 2, 3, 4].map((t) => ({ t, label: TIER_LABEL[t], weight: TIER_WEIGHT[t], list: SOURCES.filter((s) => s.tier === t) }));
+---
+
+<Layout title="기사배열 기본방침" description="기사 수집·배열 기준과 운영 원칙">
+  <h1 class="page-title">기사배열 기본방침 및 운영 원칙</h1>
+
+  <section class="prose">
+    <h2 class="sec">1. 자동 배열</h2>
+    <p>
+      {SITE.name}의 모든 기사 배열은 아래 기준에 따라 프로그램이 자동으로 수행하며, 운영자는 개별 기사의 노출 여부·순서에 관여하지 않습니다.
+    </p>
+    <ul>
+      <li><b>최신 뉴스</b>: 각 매체가 공개한 발행 시각 역순으로 배열합니다.</li>
+      <li>
+        <b>핫 트렌드</b>: 최근 {PIPELINE.hotWindowHours}시간 동안 같은 이슈를 보도한 매체별로 <i>티어 가중치 × 시간 감쇠</i>를 합산한 점수 순입니다. 시간
+        감쇠는 보도 후 {PIPELINE.decayHalfLifeHours}시간마다 절반이 되며, {PIPELINE.hotMinSources}개 이상 매체가 다룬 이슈 중 상위 {PIPELINE.hotCount}개를 🔥로 표시합니다.
+      </li>
+      <li><b>이슈 묶기</b>: 같은 선수·같은 이적 건 등 동일 사건을 다룬 기사를 자동으로 하나의 이슈로 묶고, 가장 먼저 보도한 매체(또는 기사에서 인용한 원 출처)를 최초 보도로 표시합니다.</li>
+      <li><b>클럽별 페이지</b>: 기사 제목에서 자동 인식된 클럽 태그로 구성합니다.</li>
+    </ul>
+
+    <h2 class="sec">2. 매체 신뢰도 티어</h2>
+    <p>티어는 운영 중 보도 적중률 데이터를 바탕으로 분기별로 재조정합니다.</p>
+    <table class="tbl">
+      <thead><tr><th>티어</th><th>기준</th><th>가중치</th><th>매체</th></tr></thead>
+      <tbody>
+        {byTier.map((r) => (
+          <tr>
+            <td><span class={`tier tier-${r.t}`}>T{r.t}</span></td>
+            <td>{r.label}</td>
+            <td>{r.weight}</td>
+            <td>{r.list.map((s) => s.name + (s.paywall ? ' 🔒' : '')).join(', ')}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+
+    <h2 class="sec">3. 이적 단계 분류</h2>
+    <p>관심 → 협상 → 합의 → 확정(Here we go) / 결렬. 기사 제목에 드러난 표현을 기준으로 AI가 분류하며, 1~2티어 매체의 확정·결렬 보도를 우선합니다.</p>
+
+    <h2 class="sec">4. 저작권 및 운영 원칙</h2>
+    <ul>
+      <li>기사 본문과 이미지(썸네일·엠블럼 포함)를 수집·게재하지 않습니다. 제목·링크·발행 시각·매체명만 저장합니다.</li>
+      <li>한국어 요약은 기사 제목에 드러난 정보 범위로 한정하며, 요약 아래 원문 제목을 함께 표기합니다.</li>
+      <li>유료 매체(🔒) 기사는 제목과 링크만 제공하고 요약하지 않습니다.</li>
+      <li>모든 뉴스에 매체명과 원문 링크를 표기하며, 원문은 새 창에서 열립니다.</li>
+      <li>
+        언론사의 삭제 요청이나 요약 오류 신고는 <a href={`mailto:${SITE.reportEmail}`}>{SITE.reportEmail}</a>로 받으며, 확인 즉시 처리합니다.
+      </li>
+    </ul>
+
+    {
+      (SITE.arrangementManager || SITE.youthProtectionManager) && (
+        <>
+          <h2 class="sec">5. 책임자</h2>
+          <ul>
+            {SITE.arrangementManager && <li>기사배열책임자: {SITE.arrangementManager}</li>}
+            {SITE.youthProtectionManager && <li>청소년보호책임자: {SITE.youthProtectionManager}</li>}
+          </ul>
+        </>
+      )
+    }
+  </section>
+</Layout>

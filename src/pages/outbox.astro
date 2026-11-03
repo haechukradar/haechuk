@@ -1,0 +1,57 @@
+---
+// 운영자용 발행 문구 페이지 (검색 제외). 휴대폰에서 글별로 복사해 X 스레드로 게시
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
+import path from 'node:path';
+import Layout from '../layouts/Layout.astro';
+import { weightedLength } from '../../scripts/lib/xlen.mjs';
+import { OUTBOX } from '../../config/site.mjs';
+
+const dir = path.resolve('data/outbox');
+const files = existsSync(dir) ? readdirSync(dir).filter((f) => f.endsWith('.txt')).sort().reverse().slice(0, 2) : [];
+const batches = files.map((f) => ({
+  name: f.replace('.txt', '').replace(/-am$/, ' 아침').replace(/-pm$/, ' 저녁'),
+  posts: readFileSync(path.join(dir, f), 'utf8').trim().split('\n\n---\n\n'),
+}));
+---
+
+<Layout title="발행 문구" noindex>
+  <h1 class="page-title">발행 문구 <small>X 스레드 · 글별 복사</small></h1>
+  <p class="muted small">매일 08:00·20:00(KST) 자동 생성됩니다. 1번 글부터 순서대로 스레드로 게시하세요. 글자 수는 X 가중 기준(한글 2자, URL 23자)입니다.</p>
+  {batches.length === 0 && <p class="empty">아직 생성된 발행 문구가 없습니다.</p>}
+  {
+    batches.map((b) => (
+      <section>
+        <h2 class="sec">{b.name}</h2>
+        <ol class="outbox">
+          {b.posts.map((t) => (
+            <li>
+              <pre>{t}</pre>
+              <div class="outbox-meta">
+                <span class:list={{ warn: weightedLength(t) > OUTBOX.maxWeighted }}>{weightedLength(t)}/{OUTBOX.maxWeighted}자</span>
+                <button type="button" class="copy-btn" data-copy={t}>복사</button>
+              </div>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+</Layout>
+
+<script is:inline>
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest && e.target.closest('.copy-btn');
+    if (!b) return;
+    var text = b.getAttribute('data-copy');
+    var ok = function () { b.textContent = '복사됨 ✓'; setTimeout(function () { b.textContent = '복사'; }, 1500); };
+    if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(ok);
+    else {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      try { document.execCommand('copy'); ok(); } catch (err) {}
+      document.body.removeChild(ta);
+    }
+  });
+</script>

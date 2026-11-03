@@ -1,0 +1,278 @@
+---
+// 이슈 상세: 동일 이슈 기사 묶음, 최초 보도, 매체 티어, 이적 단계, 시간순 보도 흐름
+import Layout from '../../layouts/Layout.astro';
+import { loadData, sourceOf } from '../../lib/data.mjs';
+import { STAGES, STAGE_LABEL, CATEGORY_LABEL, fmtKst, stageChangeInfo } from '../../lib/labels.mjs';
+import { PLAYER_BY_SLUG } from '../../../config/players.mjs';
+import { CLUB_BY_SLUG } from '../../../config/clubs.mjs';
+import { TIER_LABEL } from '../../../config/sources.mjs';
+import { SITE } from '../../../config/site.mjs';
+import { commentaryFor } from '../../../config/commentary.mjs';
+import { sagaOf, shareTextOf } from '../../lib/saga.mjs';
+import { GAME } from '../../../config/game.mjs';
+
+export function getStaticPaths() {
+  return loadData().pageIssues.map((issue: any) => ({ params: { slug: issue.slug }, props: { issue } }));
+}
+
+const { issue } = Astro.props;
+const title = issue.titleKo || issue.headline;
+const timeline = [...issue.articles].sort((a: any, b: any) => Date.parse(a.publishedAt) - Date.parse(b.publishedAt));
+const sources = [...new Set(timeline.map((a: any) => a.source))].map((s) => sourceOf(s as string)).sort((x, y) => x.tier - y.tier);
+const progress = STAGES.filter(([k]) => k !== 'collapsed');
+const stageIdx = progress.findIndex(([k]) => k === issue.stage);
+const firstSrc = issue.firstReport.source ? sourceOf(issue.firstReport.source) : null;
+const clubs = issue.clubs.map((c: string) => CLUB_BY_SLUG[c]).filter(Boolean);
+const players = (issue.playerTags ?? issue.koreans ?? []).map((k: string) => PLAYER_BY_SLUG[k]).filter(Boolean);
+// 단계 변화 이력: 기사 id → 변화, 단계 → 처음 도달한 시각
+const history = issue.stageHistory ?? [];
+const changeById = new Map(history.map((h: any) => [h.id, h]));
+const reachedAt: Record<string, string> = {};
+for (const h of history) reachedAt[h.to] ??= h.at;
+const saga = sagaOf(issue);
+const share = shareTextOf(issue);
+const commentary = commentaryFor(issue.slug);
+// 이적 예측: 진행 중인 이적 이슈만 예측 가능, 종료된 이슈는 판정 결과로 내 예측을 채점
+const predictable = issue.category === 'transfer' && !issue.resolution;
+const verdict = issue.resolution && issue.resolution.result !== 'expired' ? issue.resolution : null;
+const desc = `${title} — ${issue.sourceCount}개 해외 매체 보도 흐름, 최초 보도 ${issue.firstReport.name}, 최고 신뢰도 ${issue.topTier}티어.`;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description: desc,
+  dateModified: issue.updatedAt,
+  hasPart: timeline.map((a: any) => ({ '@type': 'NewsArticle', headline: a.title, url: a.url, datePublished: a.publishedAt, publisher: sourceOf(a.source).name })),
+};
+---
+
+<Layout title={title} description={desc}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <p class="crumbs">
+    <a href="/">홈</a> ›
+    {clubs.map((c: any) => <><a href={`/club/${c.slug}`}>{c.ko}</a> › </>)}
+    {CATEGORY_LABEL[issue.category] ?? '이슈'}
+  </p>
+  <h1 class="page-title">{title}</h1>
+  {issue.titleKo && <p class="orig big">{issue.headline}</p>}
+  <div class="issue-actions">
+    <button type="button" class="share-btn" data-share={share} data-change-at={issue.stageChange?.at ?? ''} data-issue={issue.slug}>📋 공유용 복사</button>
+    {commentary && <a class="commentary-badge" href={commentary.url} target="_blank" rel="noopener">📝 심층 해설 (SPOCHAT) →</a>}
+  </div>
+  {players.length > 0 && <p class="player-links">{players.map((p: any) => <a class="kr" href={`/player/${p.slug}`}>{p.korean && '🇰🇷 '}{p.ko}</a>)}</p>}
+
+  {
+    issue.category === 'transfer' && (
+      <section class="saga" aria-label="사가 요약">
+        {saga.status === 'resolved' ? (
+          <>
+            <p class="saga-head">
+              <span class={`stage stage-${saga.result}`}>{saga.result === 'done' ? '확정' : '결렬'}</span>
+              {saga.inferred && <><strong>{saga.resultText}</strong> · </>}
+              <strong>{saga.durationText}</strong>
+              {saga.manual && <small> (운영자 판정)</small>}
+            </p>
+            <ul>
+              {saga.transfer?.player && <li>대상: {saga.transfer.player}{saga.transfer.from || saga.transfer.to ? ` (${saga.transfer.from ?? '?'} → ${saga.transfer.to ?? '?'})` : ''}</li>}
+              <li>가장 먼저 맞힌 매체: {saga.firstCorrect ? <><b>{saga.firstCorrect.name}</b> <span class={`tier tier-${saga.firstCorrect.tier}`}>T{saga.firstCorrect.tier}</span> · 종료 {saga.firstCorrect.lead} 전</> : '없음'}</li>
+              <li>채점 매체 {saga.scored}곳 중 {saga.hits}곳 적중{saga.excluded > 0 && ` · 관심 단계 보도 ${saga.excluded}곳은 채점 제외`}</li>
+            </ul>
+          </>
+        ) : (
+          <>
+            <p class="saga-head">
+              <strong>{saga.status === 'expired' ? '보도 중단으로 종료 (판정 없음)' : `진행 중 · ${saga.day}일째`}</strong>
+            </p>
+            <ul>
+              {saga.transfer?.player && <li>대상: {saga.transfer.player}{saga.transfer.from || saga.transfer.to ? ` (${saga.transfer.from ?? '?'} → ${saga.transfer.to ?? '?'})` : ''}</li>}
+              <li>최초 보도: {saga.first.name}{saga.first.tier && <> <span class={`tier tier-${saga.first.tier}`}>T{saga.first.tier}</span></>}</li>
+              <li>현재 최고 티어: {saga.best.name} <span class={`tier tier-${saga.best.tier}`}>T{saga.best.tier}</span></li>
+              <li>
+                보도 매체 {saga.sourceCount}곳 · 성사 쪽 {saga.direction.success} · 결렬 쪽 {saga.direction.fail} · 관심 {saga.direction.interest}
+                <small class="muted"> (매체별 마지막 보도 기준)</small>
+              </li>
+              <li>
+                마지막 단계 변화:{' '}
+                {saga.change ? <>{saga.change.info.icon} {saga.change.info.text} · <time data-ts={saga.change.at} datetime={saga.change.at}></time></> : '없음'}
+              </li>
+            </ul>
+          </>
+        )}
+      </section>
+    )
+  }
+
+  {
+    (predictable || verdict) && (
+      <section class="predict" data-slug={issue.slug} data-title={title} data-result={verdict?.result ?? ''} data-at={verdict?.at ?? ''} aria-label="이적 예측">
+        <p class="predict-head">
+          🔮 <strong>{GAME.predict.title}</strong> <span class="muted small">{GAME.predict.tagline}</span>
+        </p>
+        {predictable ? (
+          <>
+            <p class="small muted predict-ask">이 이적, 최종적으로 어떻게 될까요? 이슈가 확정·결렬로 종료되면 자동으로 채점돼요 (한 번만 선택).</p>
+            <div class="predict-btns">
+              <button type="button" class="fav-btn" data-pick="done">{GAME.predict.pickDone}</button>
+              <button type="button" class="fav-btn" data-pick="collapsed">{GAME.predict.pickCollapsed}</button>
+            </div>
+          </>
+        ) : (
+          <p class="small">판정: <span class={`stage stage-${verdict.result}`}>{verdict.result === 'done' ? '확정' : '결렬'}</span> 종료된 이적이라 예측을 받지 않아요.</p>
+        )}
+        <p class="predict-mine small" hidden></p>
+      </section>
+    )
+  }
+
+  <dl class="facts">
+    <div><dt>보도 매체</dt><dd>{issue.sourceCount}곳</dd></div>
+    <div>
+      <dt>최초 보도</dt>
+      <dd>
+        {issue.firstReport.name}{firstSrc?.paywall ? ' 🔒' : ''}
+        <small>{fmtKst(issue.firstReport.at)}</small>
+      </dd>
+    </div>
+    <div><dt>최고 신뢰도</dt><dd><span class={`tier tier-${issue.topTier}`}>T{issue.topTier}</span> {TIER_LABEL[issue.topTier]}</dd></div>
+    <div><dt>최근 갱신</dt><dd><time data-ts={issue.updatedAt} datetime={issue.updatedAt}></time></dd></div>
+  </dl>
+
+  {
+    issue.stage && (
+      <section>
+        <h2 class="sec">이적 단계</h2>
+        {issue.stage === 'collapsed' ? (
+          <p class="stage stage-collapsed big">결렬</p>
+        ) : (
+          <ol class="stepper">
+            {progress.map(([k, label], n) => (
+              <li class:list={{ done: n <= stageIdx, now: n === stageIdx }}>
+                {label}
+                {reachedAt[k] && n <= stageIdx && <small>{fmtKst(reachedAt[k])}</small>}
+              </li>
+            ))}
+          </ol>
+        )}
+      </section>
+    )
+  }
+
+  <section>
+    <h2 class="sec">보도 흐름 <small>시간순 · KST</small></h2>
+    <ol class="timeline">
+      {
+        timeline.map((a: any) => {
+          const s = sourceOf(a.source);
+          const h: any = changeById.get(a.id);
+          const info = h?.from ? stageChangeInfo(h) : null;
+          return (
+            <li class:list={{ milestone: !!h }}>
+              {info && <p class={`change change-${info.kind}`}>{info.icon} 단계 {info.kind === 'up' ? '진전' : '변화'}: {info.text}</p>}
+              {h && !h.from && <p class="change change-start">📌 이적설 첫 보도: {STAGE_LABEL[h.to]}</p>}
+              <div class="tl-time">{fmtKst(a.publishedAt)}</div>
+              <div class="tl-body">
+                <a class="card-title" href={a.url} target="_blank" rel="noopener nofollow" data-out data-src-name={s.name} data-tier={s.tier}>
+                  {a.stage && <span class={`stage stage-${a.stage}`}>{STAGE_LABEL[a.stage]}</span>}
+                  {a.ko || a.title}
+                </a>
+                {a.ko && <p class="orig">{a.title}</p>}
+                <div class="meta">
+                  <span class="src">{s.name}</span>
+                  <span class={`tier tier-${s.tier}`}>T{s.tier}</span>
+                  {s.paywall && <span class="lock">🔒</span>}
+                  {a.credited && <span>출처 인용: {a.credited}</span>}
+                </div>
+              </div>
+            </li>
+          );
+        })
+      }
+    </ol>
+  </section>
+
+  <section>
+    <h2 class="sec">참여 매체</h2>
+    <ul class="src-list">
+      {sources.map((s) => <li><span class={`tier tier-${s.tier}`}>T{s.tier}</span> {s.name}{s.paywall && ' 🔒'}</li>)}
+    </ul>
+  </section>
+
+  <p class="muted small">
+    요약은 기사 제목만을 바탕으로 AI가 작성했습니다. 원문을 반드시 확인하세요. 오류는 <a class="report" data-article={issue.slug} href={`mailto:${SITE.reportEmail}?subject=${encodeURIComponent(`[요약 오류 신고] ${issue.slug}`)}`}>여기로 신고</a>해 주세요.
+  </p>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden>복사됐어요</div>
+</Layout>
+
+<script is:inline define:vars={{ predictCfg: GAME.predict }}>
+  // 이적 예측
+  document.addEventListener('DOMContentLoaded', function () {
+    var box = document.querySelector('.predict');
+    if (!box || !window.GAME) return;
+    var slug = box.getAttribute('data-slug');
+    var result = box.getAttribute('data-result');
+    var at = box.getAttribute('data-at');
+    var label = { done: '성사', collapsed: '무산' };
+    function render() {
+      var p = window.GAME.prediction(slug);
+      var mine = box.querySelector('.predict-mine');
+      var btns = box.querySelector('.predict-btns');
+      if (!p) { mine.hidden = true; return; }
+      if (btns) btns.hidden = true;
+      var ask = box.querySelector('.predict-ask');
+      if (ask) ask.hidden = true;
+      mine.hidden = false;
+      var d = new Date(p.at);
+      var base = '내 예측: <b>' + label[p.pick] + '</b> (' + (d.getMonth() + 1) + '/' + d.getDate() + ')';
+      if (!result) mine.innerHTML = base + ' · 판정을 기다리는 중';
+      else if (Date.parse(p.at) >= Date.parse(at)) mine.innerHTML = base + ' · 종료 이후 예측이라 판정 없음';
+      else if (p.pick === result) mine.innerHTML = base + ' · <span class="change-up">' + predictCfg.hitText + '</span>';
+      else mine.innerHTML = base + ' · <span class="change-down">' + predictCfg.missText + '</span>';
+    }
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-pick]');
+      if (!b) return;
+      window.GAME.predict(slug, b.getAttribute('data-pick'), box.getAttribute('data-title'));
+      render();
+    });
+    render();
+  });
+</script>
+
+<script is:inline>
+  (function () {
+    var btn = document.querySelector('.share-btn');
+    if (!btn) return;
+    function fallbackCopy(text) {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      var ok = false;
+      try { ok = document.execCommand('copy'); } catch (e) {}
+      document.body.removeChild(ta);
+      return ok;
+    }
+    function toast(msg) {
+      var t = document.getElementById('toast');
+      t.textContent = msg;
+      t.hidden = false;
+      clearTimeout(window.__toastT);
+      window.__toastT = setTimeout(function () { t.hidden = true; }, 1800);
+    }
+    btn.addEventListener('click', function () {
+      var at = btn.getAttribute('data-change-at');
+      var text = btn.getAttribute('data-share').replace('{{AGO}}', at && window.__ago ? window.__ago(Date.parse(at)) : '');
+      var done = function () {
+        toast('복사됐어요');
+        window.track('share_copy', { issue_key: btn.getAttribute('data-issue') });
+      };
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(text).then(done, function () { fallbackCopy(text) ? done() : toast('복사에 실패했어요'); });
+      } else if (fallbackCopy(text)) done();
+      else toast('복사에 실패했어요');
+    });
+  })();
+</script>

@@ -1,0 +1,123 @@
+---
+// 주간 퀴즈 풀이. 답은 문제마다 한 번만, 기록은 브라우저에만 저장 (public/game.js)
+import { SITE } from '../../config/site.mjs';
+
+interface Props {
+  quiz: any;
+}
+const { quiz } = Astro.props;
+const shareUrl = `${SITE.url.replace(/\/$/, '')}/quiz/${quiz.id}?utm_source=share&utm_medium=community&utm_campaign=quiz-${quiz.id}`;
+---
+
+<div class="quiz" data-quiz-id={quiz.id} data-quiz-title={quiz.title} data-total={quiz.questions.length} data-share-url={shareUrl}>
+  <p class="muted small">{quiz.basis} · {quiz.questions.length}문제 · 문제마다 한 번만 답할 수 있어요</p>
+  <ol class="qlist">
+    {
+      quiz.questions.map((q: any, n: number) => (
+        <li class="qitem" data-q={n} data-answer={q.answer}>
+          <p class="qtext">
+            <span class="qnum">Q{n + 1}</span>
+            {q.q}
+          </p>
+          <div class="qopts">
+            {q.options.map((o: string, k: number) => (
+              <button type="button" class="qopt" data-choice={k}>
+                {o}
+              </button>
+            ))}
+          </div>
+          <p class="qexplain" hidden>
+            {q.explain} {q.link && <a href={q.link}>자세히 →</a>}
+          </p>
+        </li>
+      ))
+    }
+  </ol>
+
+  <div class="qresult" hidden>
+    <p class="qscore"></p>
+    <p class="qgrade muted"></p>
+    <div class="issue-actions">
+      <button type="button" class="share-btn qshare">📋 결과 공유용 복사</button>
+      <a class="fav-btn" href="/me">내 기록 보기 →</a>
+    </div>
+  </div>
+  <div class="toast" id="quiz-toast" role="status" aria-live="polite" hidden>복사됐어요</div>
+</div>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', function () {
+    var box = document.querySelector('.quiz');
+    if (!box || !window.GAME) return;
+    var id = box.getAttribute('data-quiz-id');
+    var title = box.getAttribute('data-quiz-title');
+    var total = Number(box.getAttribute('data-total'));
+
+    function mark(li, choice) {
+      var ans = Number(li.getAttribute('data-answer'));
+      li.querySelectorAll('.qopt').forEach(function (b) {
+        var k = Number(b.getAttribute('data-choice'));
+        b.disabled = true;
+        b.classList.toggle('right', k === ans);
+        b.classList.toggle('wrong', k === choice && k !== ans);
+        b.classList.toggle('picked', k === choice);
+      });
+      li.classList.add(choice === ans ? 'is-right' : 'is-wrong');
+      li.querySelector('.qexplain').hidden = false;
+    }
+
+    function showResult() {
+      var rec = window.GAME.quizRecord(id);
+      if (!rec || !rec.done) return;
+      var g = window.GAME.compute();
+      var earned = rec.correct * window.GAME.cfg.points.correct + window.GAME.cfg.points.complete;
+      box.querySelector('.qresult').hidden = false;
+      box.querySelector('.qscore').textContent = total + '문제 중 ' + rec.correct + '개 정답 · +' + earned + '점';
+      box.querySelector('.qgrade').textContent =
+        '현재 등급 ' + g.grade.name + ' · 누적 ' + g.points + '점' + (g.next ? ' · ' + g.next.name + '까지 ' + Math.max(0, g.next.min - g.points) + '점' : '') + (g.streak > 1 ? ' · ' + g.streak + '주 연속 참여' : '');
+    }
+
+    // 이전 기록 복원
+    var rec = window.GAME.quizRecord(id);
+    if (rec) {
+      Object.keys(rec.answers).forEach(function (n) {
+        var li = box.querySelector('.qitem[data-q="' + n + '"]');
+        if (li) mark(li, rec.answers[n]);
+      });
+      showResult();
+    }
+
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest('.qopt');
+      if (b && !b.disabled) {
+        var li = b.closest('.qitem');
+        var choice = Number(b.getAttribute('data-choice'));
+        var n = Number(li.getAttribute('data-q'));
+        window.GAME.answer(id, title, n, choice, choice === Number(li.getAttribute('data-answer')), total);
+        mark(li, choice);
+        showResult();
+        return;
+      }
+      if (e.target.closest('.qshare')) {
+        var r = window.GAME.quizRecord(id);
+        var g = window.GAME.compute();
+        var text = '[' + title + ']\n' + total + '문제 중 ' + r.correct + '개 정답 · 내 등급: ' + g.grade.name + '\n나도 풀어보기: ' + box.getAttribute('data-share-url');
+        var done = function () {
+          var t = document.getElementById('quiz-toast');
+          t.hidden = false;
+          setTimeout(function () { t.hidden = true; }, 1800);
+          if (window.track) window.track('share_copy', { issue_key: 'quiz-' + id });
+        };
+        if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(done);
+        else {
+          var ta = document.createElement('textarea');
+          ta.value = text;
+          document.body.appendChild(ta);
+          ta.select();
+          try { document.execCommand('copy'); done(); } catch (err) {}
+          document.body.removeChild(ta);
+        }
+      }
+    });
+  });
+</script>

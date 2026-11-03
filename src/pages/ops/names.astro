@@ -1,0 +1,41 @@
+---
+// 운영자용 인명 표기 점검 (검색 제외). 수집할 때마다 meta.json 의 nameReport 로 갱신
+import Layout from '../../layouts/Layout.astro';
+import { loadData } from '../../lib/data.mjs';
+import { NAMES } from '../../../config/names.mjs';
+
+const { meta } = loadData();
+const report = meta.nameReport ?? [];
+---
+
+<Layout title="인명 표기 점검" noindex>
+  <h1 class="page-title">인명 표기 점검 <small>최근 3일 · 운영자용</small></h1>
+  <p class="muted small">
+    같은 원문 이름이 여러 한글 표기로 쓰였거나, 표기 사전과 다르게 쓰인 경우입니다. 맞는 표기를 정해 <code>config/names.mjs</code> 에 추가하면(정답은
+    <code>ko</code>, 틀린 표기는 <code>wrong</code>) 다음 수집부터 자동으로 교정됩니다. 현재 사전 {NAMES.length}명 + 선수 사전.
+  </p>
+  {
+    report.length === 0 ? (
+      <p class="empty">흔들리는 표기가 없습니다.</p>
+    ) : (
+      <table class="tbl">
+        <thead>
+          <tr>
+            <th>원문</th>
+            <th>사전 표기</th>
+            <th>실제 쓰인 표기 (횟수)</th>
+          </tr>
+        </thead>
+        <tbody>
+          {report.map((r: any) => (
+            <tr>
+              <td>{r.en}</td>
+              <td>{r.dictionary ?? <span class="muted">없음</span>}</td>
+              <td>{r.variants.map((v: any) => `${v.ko} (${v.count})`).join(' · ')}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    )
+  }
+</Layout>

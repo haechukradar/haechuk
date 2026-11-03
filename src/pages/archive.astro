@@ -1,0 +1,100 @@
+---
+// 아카이브: 날짜별·클럽별·선수별 과거 뉴스 검색
+import Layout from '../layouts/Layout.astro';
+import { loadData } from '../lib/data.mjs';
+import { CLUBS } from '../../config/clubs.mjs';
+import { SOURCES } from '../../config/sources.mjs';
+import { STAGE_LABEL } from '../lib/labels.mjs';
+import { PLAYERS } from '../../config/players.mjs';
+
+const { days } = loadData();
+const clientData = {
+  sources: Object.fromEntries(SOURCES.map((s) => [s.id, { n: s.name, t: s.tier, p: !!s.paywall }])),
+  clubs: Object.fromEntries(CLUBS.map((c) => [c.slug, c.ko])),
+  stages: STAGE_LABEL,
+  pl: Object.fromEntries(PLAYERS.map((p) => [p.slug, (p.korean ? '🇰🇷 ' : '') + p.ko])),
+};
+const sortedClubs = [...CLUBS].sort((a, b) => a.ko.localeCompare(b.ko, 'ko'));
+---
+
+<Layout title="뉴스 아카이브" description="날짜·클럽·선수별 해외축구 뉴스 아카이브 검색">
+  <h1 class="page-title">아카이브</h1>
+  <form class="filters" id="filters" onsubmit="return false">
+    <label>날짜
+      <select id="day">
+        {days.map((d: string) => <option value={d}>{d}</option>)}
+      </select>
+    </label>
+    <label>클럽
+      <select id="club">
+        <option value="">전체</option>
+        {sortedClubs.map((c) => <option value={c.slug}>{c.ko}</option>)}
+      </select>
+    </label>
+    <label class="grow">선수·키워드
+      <input id="q" type="search" placeholder="예: 손흥민, Kane, 부상" />
+    </label>
+  </form>
+  <p class="muted" id="status"></p>
+  <div class="feed" id="results"></div>
+</Layout>
+
+<script is:inline define:vars={{ clientData }}>
+  (function () {
+    var $ = function (id) { return document.getElementById(id); };
+    var cache = {};
+    var esc = function (s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+      });
+    };
+    function card(a) {
+      var s = clientData.sources[a.s] || { n: a.s, t: 4 };
+      var head = a.k || a.t;
+      return (
+        '<article class="card"><a class="card-title" href="' + esc(a.u) + '" target="_blank" rel="noopener nofollow">' +
+        (a.st ? '<span class="stage stage-' + a.st + '">' + clientData.stages[a.st] + '</span>' : '') + esc(head) + '</a>' +
+        (a.k ? '<p class="orig">' + esc(a.t) + '</p>' : '') +
+        '<div class="meta"><span class="src">' + esc(s.n) + '</span><span class="tier tier-' + s.t + '">T' + s.t + '</span>' +
+        (s.p ? '<span class="lock">🔒</span>' : '') +
+        '<time data-ts="' + a.p + '" datetime="' + a.p + '"></time>' +
+        (a.pt || []).filter(function (k) { return clientData.pl[k]; }).slice(0, 3).map(function (k) { return '<a class="kr" href="/player/' + k + '">' + esc(clientData.pl[k]) + '</a>'; }).join('') +
+        (a.i ? '<a class="issue-link" href="/issue/' + encodeURIComponent(a.i) + '">이슈 묶음 →</a>' : '') +
+        '</div></article>'
+      );
+    }
+    async function load(day) {
+      if (!cache[day]) {
+        var res = await fetch('/data/' + day + '.json');
+        cache[day] = res.ok ? await res.json() : [];
+      }
+      return cache[day];
+    }
+    async function run() {
+      var day = $('day').value;
+      if (!day) { $('status').textContent = '아직 수집된 기사가 없습니다.'; return; }
+      $('status').textContent = '불러오는 중…';
+      var rows = await load(day);
+      var club = $('club').value;
+      var q = $('q').value.trim().toLowerCase();
+      var hits = rows.filter(function (a) {
+        if (club && !(a.c || []).includes(club)) return false;
+        if (!q) return true;
+        var hay = [a.t, a.k, (a.pl || []).join(' '), (a.pt || []).map(function (k) { return clientData.pl[k] || ''; }).join(' '), (a.c || []).map(function (c) { return clientData.clubs[c]; }).join(' ')].join(' ').toLowerCase();
+        return hay.includes(q);
+      });
+      $('status').textContent = day + ' · ' + hits.length + '건';
+      $('results').innerHTML = hits.slice(0, 500).map(card).join('');
+      if (window.__tickAgo) window.__tickAgo();
+    }
+    var params = new URLSearchParams(location.search);
+    if (params.get('day')) $('day').value = params.get('day');
+    if (params.get('club')) $('club').value = params.get('club');
+    if (params.get('q')) $('q').value = params.get('q');
+    $('day').addEventListener('change', run);
+    $('club').addEventListener('change', run);
+    var t;
+    $('q').addEventListener('input', function () { clearTimeout(t); t = setTimeout(run, 200); });
+    run();
+  })();
+</script>

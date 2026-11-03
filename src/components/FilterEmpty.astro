@@ -1,0 +1,10 @@
+---
+interface Props {
+  target: string;
+}
+const { target } = Astro.props;
+---
+
+<p class="empty filter-empty" data-for={target} hidden>
+  조건에 맞는 보도가 없습니다 · <button type="button" class="linkish" data-filter-reset>전체 보기</button>
+</p>

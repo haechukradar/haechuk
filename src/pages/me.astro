@@ -1,0 +1,124 @@
+---
+// 내 기록: 등급·점수·연속 참여·퀴즈 이력·이적 예측 (브라우저 저장 기록으로 화면에서 계산)
+import Layout from '../layouts/Layout.astro';
+import { loadResolutions } from '../lib/data.mjs';
+import { GAME } from '../../config/game.mjs';
+import { existsSync, readFileSync } from 'node:fs';
+import path from 'node:path';
+import { ACCURACY } from '../../config/site.mjs';
+
+const resolutions = loadResolutions();
+// 매체 적중률: 표본이 충분한(displayable) 매체만 비교에 사용
+const accFile = path.resolve('data/accuracy.json');
+const acc = existsSync(accFile) ? JSON.parse(readFileSync(accFile, 'utf8')) : { sources: {} };
+const media = Object.values(acc.sources ?? {})
+  .filter((s: any) => s.displayable && s.all.rate !== null)
+  .map((s: any) => ({ name: s.name, rate: s.all.rate, scored: s.all.scored }))
+  .sort((a: any, b: any) => b.rate - a.rate);
+---
+
+<Layout title="내 기록" description="퀴즈 등급과 이적 예측 기록" noindex>
+  <h1 class="page-title">내 기록 <small>이 브라우저에만 저장됩니다</small></h1>
+
+  <section class="me-card" id="me-card">
+    <p class="muted small">현재 등급</p>
+    <p class="me-grade"><span class="grade-badge big" id="me-grade">유스</span> <span id="me-points">0점</span></p>
+    <div class="progress" aria-hidden="true"><span id="me-bar"></span></div>
+    <p class="muted small" id="me-next"></p>
+    <dl class="facts">
+      <div><dt>연속 참여</dt><dd id="me-streak">0주</dd></div>
+      <div><dt>최근 퀴즈 정답률</dt><dd id="me-acc">-</dd></div>
+      <div><dt>이적 예측 적중률</dt><dd id="me-pred">-</dd></div>
+      <div><dt>점수 구성</dt><dd id="me-break" class="small">-</dd></div>
+    </dl>
+    <div class="issue-actions">
+      <button type="button" class="share-btn" id="me-share">📋 내 등급 공유용 복사</button>
+      <a class="fav-btn" href="/quiz">이번 주 퀴즈 풀기</a>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">🔮 {GAME.predict.title} <small>{GAME.predict.tagline}</small></h2>
+    <p class="muted small" id="pred-cmp"></p>
+    <ul class="me-list" id="pred-list"></ul>
+    <p class="empty" id="pred-empty" hidden>아직 예측한 이적설이 없어요. <a href="/transfers">이적 현황</a>에서 진행 중인 이적설을 골라 성사·무산을 찍어 보세요.</p>
+  </section>
+
+  <section>
+    <h2 class="sec">퀴즈 기록</h2>
+    <ul class="me-list" id="quiz-list"></ul>
+    <p class="empty" id="quiz-empty" hidden>아직 푼 퀴즈가 없어요. <a href="/quiz">이번 주 퀴즈</a>부터 시작해 보세요.</p>
+  </section>
+
+  <p class="small"><button type="button" class="linkish" id="me-reset">기록 초기화</button></p>
+  <div class="toast" id="me-toast" role="status" aria-live="polite" hidden>복사됐어요</div>
+</Layout>
+
+<script is:inline define:vars={{ resolutions, media, predictCfg: GAME.predict, minSample: ACCURACY.minSampleForDisplay }}>
+  (function () {
+    var $ = function (id) { return document.getElementById(id); };
+    var esc = function (s) {
+      return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+      });
+    };
+    var pickLabel = { done: '성사', collapsed: '무산' };
+    var statusLabel = { pending: '진행 중', hit: '적중', miss: '빗나감', void: '판정 없음' };
+
+    function render() {
+      if (!window.GAME) return;
+      var g = window.GAME.compute(resolutions);
+      $('me-grade').textContent = g.grade.name;
+      $('me-points').textContent = g.points.toLocaleString() + '점';
+      var lo = g.grade.min, hi = g.next ? g.next.min : g.grade.min;
+      $('me-bar').style.width = (g.next ? Math.min(100, ((g.points - lo) / Math.max(1, hi - lo)) * 100) : 100) + '%';
+      $('me-next').textContent = g.blocked
+        ? g.blocked.name + ' 등급은 최근 퀴즈 정답률 ' + Math.round(g.blocked.minAcc * 100) + '% 이상이 필요해요 (현재 ' + Math.round(g.accuracy * 100) + '%)'
+        : g.next ? g.next.name + '까지 ' + Math.max(0, g.next.min - g.points) + '점 남았어요' : '최고 등급이에요';
+      $('me-streak').textContent = g.streak + '주' + (g.bestStreak > g.streak ? ' (최고 ' + g.bestStreak + '주)' : '');
+      $('me-acc').textContent = g.quizzes.length ? Math.round(g.accuracy * 100) + '%' : '-';
+      var p = g.predictions;
+      $('me-pred').textContent = p.rate === null ? (p.pending ? '판정 대기 ' + p.pending + '건' : '-') : Math.round(p.rate * 100) + '% (' + p.hits + '/' + (p.hits + p.misses) + ')';
+      $('me-break').textContent = '퀴즈 ' + g.breakdown.quiz + ' · 연속 ' + g.breakdown.streak + ' · 예측 ' + g.breakdown.predict;
+
+      // 매체 적중률과 비교 (매체 표본이 충분할 때만)
+      if (p.rate !== null && media.length) {
+        var mine = Math.round(p.rate * 100);
+        var beat = media.filter(function (m) { return m.rate < mine; }).map(function (m) { return m.name; });
+        $('pred-cmp').textContent = '내 적중률 ' + mine + '% — ' + (beat.length ? beat.slice(0, 3).join(', ') + (beat.length > 3 ? ' 등 ' + beat.length + '곳' : '') + '보다 높아요' : '아직 매체들보다 낮아요');
+      } else {
+        $('pred-cmp').textContent = media.length ? '' : '매체별 적중률은 판정 표본이 ' + minSample + '건 이상 쌓이면 비교해 드려요.';
+      }
+
+      $('pred-empty').hidden = p.list.length > 0;
+      $('pred-list').innerHTML = p.list
+        .map(function (x) {
+          return '<li><a href="/issue/' + encodeURIComponent(x.slug) + '">' + esc(x.title || x.slug) + '</a><span class="me-tags"><span class="cat">내 예측 ' + pickLabel[x.pick] + '</span><span class="pstat pstat-' + x.status + '">' + statusLabel[x.status] + '</span></span></li>';
+        })
+        .join('');
+
+      $('quiz-empty').hidden = g.quizzes.length > 0;
+      $('quiz-list').innerHTML = g.quizzes
+        .map(function (q) {
+          return '<li><a href="/quiz/' + q.id + '">' + esc(q.title || q.id) + '</a><span class="me-tags"><span class="cat">' + (q.done ? q.correct + '/' + q.total + ' 정답' : '진행 중 ' + q.correct + '/' + q.total) + '</span></span></li>';
+        })
+        .join('');
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+      render();
+      $('me-share').addEventListener('click', function () {
+        var g = window.GAME.compute(resolutions);
+        var p = g.predictions;
+        var text = '[해외축구 퀴즈 내 등급] ' + g.grade.name + ' · ' + g.points + '점' + (g.streak > 1 ? ' · ' + g.streak + '주 연속' : '') + (p.rate !== null ? '\n이적 예측 적중률 ' + Math.round(p.rate * 100) + '% (' + p.hits + '/' + (p.hits + p.misses) + ')' : '') + '\n' + location.origin + '/quiz?utm_source=share&utm_medium=community&utm_campaign=grade';
+        var done = function () { var t = $('me-toast'); t.hidden = false; setTimeout(function () { t.hidden = true; }, 1800); if (window.track) window.track('share_copy', { issue_key: 'grade' }); };
+        if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(done);
+        else { var ta = document.createElement('textarea'); ta.value = text; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); done(); } catch (e) {} document.body.removeChild(ta); }
+      });
+      $('me-reset').addEventListener('click', function () {
+        if (confirm('퀴즈·예측 기록을 모두 지울까요? 되돌릴 수 없어요.')) window.GAME.reset();
+      });
+    });
+    document.addEventListener('game-change', render);
+  })();
+</script>

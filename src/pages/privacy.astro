@@ -1,0 +1,29 @@
+---
+// 개인정보 처리방침 (GA4 쿠키 사용 고지)
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../../config/site.mjs';
+---
+
+<Layout title="개인정보 처리방침" description={`${SITE.name} 개인정보 처리방침`}>
+  <h1 class="page-title">개인정보 처리방침</h1>
+  <section class="prose">
+    <h2 class="sec">1. 수집하는 정보</h2>
+    <p>
+      {SITE.name}는 회원가입·로그인 기능이 없으며, 이름·연락처 등 개인을 직접 식별하는 정보를 수집하지 않습니다.
+    </p>
+    <h2 class="sec">2. 방문 통계 (Google Analytics 4)</h2>
+    <ul>
+      <li>서비스 개선을 위해 Google Analytics 4로 방문 통계를 수집합니다. 이 과정에서 쿠키가 사용됩니다.</li>
+      <li>수집 항목: 방문 페이지, 유입 경로, 기기·브라우저 종류, 대략적인 지역, 재방문 여부, 사이트 내 이용 기록(원문 링크 클릭, 즐겨찾기·필터 사용, 공유 복사, 오류 신고 클릭)</li>
+      <li>수집된 정보는 Google LLC가 처리하며, 개인을 식별하지 않는 통계 형태로만 확인합니다.</li>
+      <li>
+        브라우저 설정에서 쿠키를 차단하거나 <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google 애널리틱스 차단 부가기능</a>을 설치하면 수집을 거부할 수
+        있습니다. 거부해도 사이트 이용에는 제한이 없습니다.
+      </li>
+    </ul>
+    <h2 class="sec">3. 브라우저에 저장되는 정보</h2>
+    <p>내 클럽·선수 즐겨찾기, 리그·공신력 필터 선택, 퀴즈 기록·등급, 이적 예측 기록은 이용자 브라우저(localStorage)에만 저장되며 서버로 전송되지 않습니다. 브라우저 데이터를 지우거나 <a href="/me">내 기록</a>에서 초기화하면 삭제됩니다. 퀴즈 완료·예측·등급 상승 같은 이용 기록은 방문 통계(2항)로 집계될 수 있습니다.</p>
+    <h2 class="sec">4. 문의</h2>
+    <p>개인정보 관련 문의는 <a href={`mailto:${SITE.reportEmail}`}>{SITE.reportEmail}</a>로 보내 주세요.</p>
+  </section>
+</Layout>

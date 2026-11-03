@@ -1,0 +1,13 @@
+---
+// 공신력 필터 세그먼트 버튼. 동작은 Layout의 공용 스크립트가 처리 (선택값은 브라우저에 저장되어 모든 피드에 공통 적용)
+interface Props {
+  target: string; // 필터를 적용할 피드 컨테이너 id
+}
+const { target } = Astro.props;
+---
+
+<div class="seg" data-tier-filter={target} role="group" aria-label="공신력 필터">
+  <button type="button" data-value="all" class="on" aria-pressed="true">전체</button>
+  <button type="button" data-value="t12" aria-pressed="false">🛡️ T1·T2만</button>
+  <button type="button" data-value="hot" aria-pressed="false">🔥 핫이슈만</button>
+</div>

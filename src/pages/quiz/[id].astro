@@ -1,0 +1,17 @@
+---
+// 지난 주간 퀴즈 (같은 퀴즈는 한 번만 점수 반영)
+import Layout from '../../layouts/Layout.astro';
+import QuizPlayer from '../../components/QuizPlayer.astro';
+import { loadQuizzes } from '../../lib/data.mjs';
+
+export function getStaticPaths() {
+  return loadQuizzes().map((quiz: any) => ({ params: { id: quiz.id }, props: { quiz } }));
+}
+const { quiz } = Astro.props;
+---
+
+<Layout title={quiz.title} description={`${quiz.title} — 해외 축구 뉴스 기록으로 만든 ${quiz.questions.length}문제`}>
+  <p class="crumbs"><a href="/quiz">주간 퀴즈</a> ›</p>
+  <h1 class="page-title">{quiz.title}</h1>
+  <QuizPlayer quiz={quiz} />
+</Layout>

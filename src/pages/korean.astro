@@ -1,0 +1,48 @@
+---
+// 코리안리거 허브: 한국인 선수가 언급된 해외 보도 모음
+import Layout from '../layouts/Layout.astro';
+import NewsCard from '../components/NewsCard.astro';
+import IssueCard from '../components/IssueCard.astro';
+import { KOREAN_PLAYERS, isKorean } from '../../config/players.mjs';
+import { loadData, recentArticles } from '../lib/data.mjs';
+
+const { pageIssues } = loadData();
+const feed = recentArticles(7).filter((a: any) => (a.playerTags ?? a.koreans ?? []).some(isKorean));
+const count = (slug: string) => feed.filter((a: any) => (a.playerTags ?? a.koreans).includes(slug)).length;
+const players = [...KOREAN_PLAYERS].sort((a, b) => count(b.slug) - count(a.slug));
+const issues = pageIssues
+  .filter((i: any) => (i.playerTags ?? []).some(isKorean) && Date.now() - Date.parse(i.updatedAt) < 7 * 24 * 3600_000)
+  .sort((a: any, b: any) => Date.parse(b.updatedAt) - Date.parse(a.updatedAt))
+  .slice(0, 10);
+---
+
+<Layout title="코리안리거 해외 뉴스" description="손흥민·이강인·김민재 등 한국인 해외파 선수가 언급된 해외 원 소스 뉴스 모음" wide>
+  <p class="crumbs"><a href="/players">선수</a> ›</p>
+  <h1 class="page-title">🇰🇷 코리안리거 <small>해외 매체가 다룬 한국인 선수 소식 · 최근 7일</small></h1>
+
+  <div class="player-grid">
+    {
+      players.map((p) => (
+        <a class="player-tile" href={`/player/${p.slug}`}>
+          <strong>{p.ko}</strong>
+          <span class="muted">{p.team}</span>
+          <span class:list={['count', { zero: count(p.slug) === 0 }]}>{count(p.slug)}건</span>
+        </a>
+      ))
+    }
+  </div>
+
+  {
+    issues.length > 0 && (
+      <section>
+        <h2 class="sec">관련 이슈</h2>
+        <div class="issues">{issues.map((i: any) => <IssueCard issue={i} hot={i.recentSources >= 2} />)}</div>
+      </section>
+    )
+  }
+
+  <section>
+    <h2 class="sec">최신 보도</h2>
+    {feed.length ? <div class="feed">{feed.slice(0, 150).map((a: any) => <NewsCard a={a} />)}</div> : <p class="empty">최근 7일간 해외 매체 제목에 한국인 선수가 언급된 기사가 없습니다.</p>}
+  </section>
+</Layout>

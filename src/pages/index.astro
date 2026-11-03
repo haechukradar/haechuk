@@ -1,0 +1,128 @@
+---
+import Layout from '../layouts/Layout.astro';
+import NewsCard from '../components/NewsCard.astro';
+import IssueCard from '../components/IssueCard.astro';
+import FeedFilter from '../components/FeedFilter.astro';
+import FilterEmpty from '../components/FilterEmpty.astro';
+import { loadData, recentArticles } from '../lib/data.mjs';
+import { LEAGUES, CLUBS } from '../../config/clubs.mjs';
+import { PLAYERS, isKorean } from '../../config/players.mjs';
+
+const { meta, issueBySlug } = loadData();
+const hot = meta.hot.map((s: string) => issueBySlug.get(s)).filter(Boolean);
+const feed = recentArticles(3).slice(0, 300);
+const koreanFeed = recentArticles(3).filter((a: any) => (a.playerTags ?? a.koreans ?? []).some(isKorean)).slice(0, 3);
+const clubNames = Object.fromEntries(CLUBS.map((c) => [c.slug, c.ko]));
+const playerNames = Object.fromEntries(PLAYERS.map((p) => [p.slug, p.ko]));
+---
+
+<Layout wide>
+<div class="home">
+ <div class="home-mine">
+  <section id="my-clubs" hidden>
+    <h2 class="sec">⭐ 내 클럽·선수 소식 <small id="my-clubs-names"></small></h2>
+    <div class="feed" id="my-feed"></div>
+    <p class="empty" id="my-empty" hidden>최근 3일간 내 클럽·선수 소식이 없습니다.</p>
+  </section>
+  <p class="hint" id="my-hint" hidden>
+    <a href="/clubs">☆ 클럽</a>이나 <a href="/players">☆ 선수</a>를 즐겨찾기하면 이 자리에 그 소식이 먼저 표시됩니다.
+  </p>
+ </div>
+
+ <div class="home-side">
+
+  <section>
+    <h2 class="sec">🔥 지금 뜨는 이슈 <small>최근 12시간 다매체 동시 보도 기준</small></h2>
+    {hot.length ? <div class="issues">{hot.map((i: any, n: number) => <IssueCard issue={i} rank={n + 1} hot hero={n === 0} />)}</div> : <p class="empty">아직 집계된 핫 트렌드가 없습니다.</p>}
+  </section>
+
+  {
+    koreanFeed.length > 0 && (
+      <section>
+        <h2 class="sec">
+          🇰🇷 코리안리거 <small><a href="/korean">전체 보기 →</a></small>
+        </h2>
+        <div class="feed">{koreanFeed.map((a: any) => <NewsCard a={a} />)}</div>
+      </section>
+    )
+  }
+
+ </div>
+
+ <div class="home-latest">
+  <section>
+    <h2 class="sec">최신 뉴스 <small>해외 원 소스 실시간</small></h2>
+    <FeedFilter target="feed" />
+    <div class="chips" id="league-filter">
+      <button class="chip on" data-league="all">전체</button>
+      {Object.entries(LEAGUES).map(([k, v]) => <button class="chip" data-league={k}>{v}</button>)}
+    </div>
+    <div class="feed" id="feed" data-filterable>
+      {feed.map((a: any) => <NewsCard a={a} />)}
+    </div>
+    <FilterEmpty target="feed" />
+  </section>
+ </div>
+</div>
+</Layout>
+
+<script is:inline define:vars={{ clubNames, playerNames }}>
+  (function () {
+    // 리그 필터 (공신력 필터와 함께 적용 — 빈 결과 안내는 공용 필터 스크립트가 처리)
+    var chips = document.querySelectorAll('#league-filter .chip');
+    var cards = document.querySelectorAll('#feed .card');
+    function apply(league) {
+      cards.forEach(function (c) {
+        c.hidden = !(league === 'all' || c.getAttribute('data-league') === league);
+      });
+      chips.forEach(function (ch) {
+        ch.classList.toggle('on', ch.getAttribute('data-league') === league);
+      });
+      try { localStorage.setItem('league', league); } catch (e) {}
+      if (window.__applyFeedFilters) window.__applyFeedFilters();
+    }
+    document.addEventListener('feed-filter-reset', function () { apply('all'); });
+    chips.forEach(function (ch) {
+      ch.addEventListener('click', function () { apply(ch.getAttribute('data-league')); });
+    });
+    var saved = null;
+    try { saved = localStorage.getItem('league'); } catch (e) {}
+    if (saved && document.querySelector('#league-filter .chip[data-league="' + saved + '"]')) apply(saved);
+
+    // 내 클럽 소식: 최신 피드에서 내 클럽 태그가 붙은 카드를 복제해 상단에 표시
+    function renderMine() {
+      var favs = window.FAV ? window.FAV.get('clubs') : [];
+      var favP = window.FAV ? window.FAV.get('players') : [];
+      var section = document.getElementById('my-clubs');
+      var any = favs.length + favP.length > 0;
+      document.getElementById('my-hint').hidden = any;
+      section.hidden = !any;
+      if (!any) return;
+      document.getElementById('my-clubs-names').innerHTML = favs
+        .filter(function (s) { return clubNames[s]; })
+        .map(function (s) { return '<a href="/club/' + s + '">' + clubNames[s] + '</a>'; })
+        .concat(favP.filter(function (s) { return playerNames[s]; }).map(function (s) { return '<a href="/player/' + s + '">' + playerNames[s] + '</a>'; }))
+        .join(' · ');
+      var box = document.getElementById('my-feed');
+      box.innerHTML = '';
+      var n = 0;
+      cards.forEach(function (c) {
+        if (n >= 8) return;
+        var clubs = (c.getAttribute('data-clubs') || '').split(' ');
+        var players = (c.getAttribute('data-players') || '').split(' ');
+        var hit = favs.some(function (f) { return clubs.indexOf(f) >= 0; }) || favP.some(function (f) { return players.indexOf(f) >= 0; });
+        if (!hit) return;
+        var clone = c.cloneNode(true);
+        clone.hidden = false;
+        clone.classList.remove('f-tier-hide');
+        clone.removeAttribute('data-tier'); // 내 클럽·선수 소식은 공신력 필터 대상이 아님
+        box.appendChild(clone);
+        n++;
+      });
+      document.getElementById('my-empty').hidden = n > 0;
+      if (window.__tickAgo) window.__tickAgo();
+    }
+    document.addEventListener('DOMContentLoaded', renderMine);
+    document.addEventListener('fav-change', renderMine);
+  })();
+</script>

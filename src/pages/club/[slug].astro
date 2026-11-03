@@ -1,0 +1,88 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import IssueCard from '../../components/IssueCard.astro';
+import FeedFilter from '../../components/FeedFilter.astro';
+import FilterEmpty from '../../components/FilterEmpty.astro';
+import { PAGE_CLUBS, LEAGUES } from '../../../config/clubs.mjs';
+import { loadData, recentArticles } from '../../lib/data.mjs';
+import { STAGES } from '../../lib/labels.mjs';
+
+export function getStaticPaths() {
+  return PAGE_CLUBS.map((club) => ({ params: { slug: club.slug }, props: { club } }));
+}
+
+const { club } = Astro.props;
+const { pageIssues } = loadData();
+const now = Date.now();
+const H = 3600_000;
+const clubIssues = pageIssues.filter((i: any) => i.clubs.includes(club.slug));
+
+// 해당 클럽 핫 이슈: 최근 72시간 내 갱신, 점수순
+const hotIssues = clubIssues
+  .filter((i: any) => now - Date.parse(i.updatedAt) < 72 * H)
+  .sort((a: any, b: any) => b.score - a.score || Date.parse(b.updatedAt) - Date.parse(a.updatedAt))
+  .slice(0, 5);
+
+// 이적 루머 현황판: 최근 30일 이적 이슈를 단계별로
+const rumors = clubIssues.filter((i: any) => i.category === 'transfer' && i.stage && now - Date.parse(i.updatedAt) < 30 * 24 * H);
+const board = STAGES.map(([key, label]) => ({ key, label, items: rumors.filter((i: any) => i.stage === key) }));
+
+const feed = recentArticles(7).filter((a: any) => a.clubs?.includes(club.slug)).slice(0, 150);
+---
+
+<Layout title={`${club.ko} 해외 뉴스`} description={`${club.ko} 관련 해외 원 소스 뉴스와 이적 루머를 한국어로 실시간 정리합니다.`} wide>
+  <h1 class="page-title">
+    {club.ko} <small>{LEAGUES[club.league]}{club.korean && ` · ${club.korean} 소속`}</small>
+  </h1>
+  <button class="fav-btn" type="button" data-fav-toggle={club.slug} data-fav-name={club.ko} aria-pressed="false">☆ 내 클럽 추가</button>
+
+  <section>
+    <h2 class="sec">핫 이슈</h2>
+    {hotIssues.length ? <div class="issues">{hotIssues.map((i: any) => <IssueCard issue={i} hot={i.recentSources >= 2} />)}</div> : <p class="empty">최근 72시간 내 묶인 이슈가 없습니다.</p>}
+  </section>
+
+  <section>
+    <h2 class="sec">이적 루머 현황판 <small>최근 30일</small></h2>
+    <div class="board">
+      {
+        board.map((col) => (
+          <div class="col">
+            <h3 class={`stage stage-${col.key}`}>
+              {col.label} <span>{col.items.length}</span>
+            </h3>
+            {col.items.length ? (
+              <ul>
+                {col.items.map((i: any) => (
+                  <li>
+                    <a href={`/issue/${i.slug}`}>{i.titleKo || i.headline}</a>
+                    <span class={`tier tier-${i.topTier}`}>T{i.topTier}</span>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="muted">-</p>
+            )}
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  <section>
+    <h2 class="sec">{club.ko} 피드 <small>최근 7일</small></h2>
+    {
+      feed.length ? (
+        <>
+          <FeedFilter target="club-feed" />
+          <div class="feed" id="club-feed" data-filterable>
+            {feed.map((a: any) => <NewsCard a={a} />)}
+          </div>
+          <FilterEmpty target="club-feed" />
+        </>
+      ) : (
+        <p class="empty">최근 뉴스가 없습니다.</p>
+      )
+    }
+  </section>
+</Layout>

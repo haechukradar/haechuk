@@ -1,0 +1,49 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import IssueCard from '../../components/IssueCard.astro';
+import FeedFilter from '../../components/FeedFilter.astro';
+import FilterEmpty from '../../components/FilterEmpty.astro';
+import { PLAYERS } from '../../../config/players.mjs';
+import { CLUB_BY_SLUG } from '../../../config/clubs.mjs';
+import { loadData, recentArticles } from '../../lib/data.mjs';
+
+export function getStaticPaths() {
+  return PLAYERS.map((player) => ({ params: { slug: player.slug }, props: { player } }));
+}
+
+const { player } = Astro.props;
+const club = player.club ? CLUB_BY_SLUG[player.club] : null;
+const has = (x: any) => (x.playerTags ?? x.koreans ?? []).includes(player.slug);
+const issues = loadData()
+  .pageIssues.filter(has)
+  .sort((a: any, b: any) => Date.parse(b.updatedAt) - Date.parse(a.updatedAt))
+  .slice(0, 20);
+const feed = recentArticles(14).filter(has);
+const enName = player.full[0];
+---
+
+<Layout title={`${player.ko} 해외 뉴스`} description={`${player.ko}(${enName}) 관련 해외 매체 보도와 이적·부상 소식을 한국어로 실시간 정리합니다.`}>
+  <p class="crumbs">
+    <a href="/players">선수</a> ›
+    {player.korean && <><a href="/korean">🇰🇷 코리안리거</a> ›</>}
+  </p>
+  <h1 class="page-title">
+    {player.ko} <small>{enName} · {club ? <a href={`/club/${club.slug}`}>{player.team}</a> : player.team}</small>
+  </h1>
+  <button class="fav-btn" type="button" data-fav-toggle={player.slug} data-fav-kind="players" data-fav-name={player.ko} aria-pressed="false">☆ 내 선수 추가</button>
+
+  {
+    issues.length > 0 && (
+      <section>
+        <h2 class="sec">관련 이슈</h2>
+        <div class="issues">{issues.map((i: any) => <IssueCard issue={i} hot={i.recentSources >= 2} />)}</div>
+      </section>
+    )
+  }
+
+  <section>
+    <h2 class="sec">해외 보도 <small>최근 14일</small></h2>
+    {feed.length ? <><FeedFilter target="player-feed" /><div class="feed" id="player-feed" data-filterable>{feed.map((a: any) => <NewsCard a={a} />)}</div><FilterEmpty target="player-feed" /></> : <p class="empty">최근 14일간 해외 매체 제목에 {player.ko} 선수가 언급된 기사가 없습니다.</p>}
+  </section>
+</Layout>

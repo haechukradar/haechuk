@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { PAGE_CLUBS, LEAGUES } from '../../config/clubs.mjs';
+import { recentArticles } from '../lib/data.mjs';
+
+const recent = recentArticles(1);
+const count = (slug: string) => recent.filter((a: any) => a.clubs?.includes(slug)).length;
+---
+
+<Layout title="클럽별 뉴스" description="EPL 빅6와 한국인 선수 소속 클럽의 해외 뉴스 피드" wide>
+  <h1 class="page-title">클럽별 뉴스</h1>
+  <p class="muted">☆를 누르면 메인 화면 맨 위에 내 클럽 소식이 먼저 표시됩니다.</p>
+  <div class="club-grid">
+    {
+      PAGE_CLUBS.map((c) => (
+        <div class="club-tile">
+          <a href={`/club/${c.slug}`}>
+            <strong>{c.ko}</strong>
+            <span class="muted">
+              {LEAGUES[c.league]}
+              {c.korean && ` · ${c.korean}`}
+            </span>
+            <span class="count">오늘 {count(c.slug)}건</span>
+          </a>
+          <button class="fav-btn small" type="button" data-fav-toggle={c.slug} data-fav-name={c.ko} data-label-off="☆" data-label-on="★" aria-pressed="false" aria-label={`${c.ko} 내 클럽 추가`}>☆</button>
+        </div>
+      ))
+    }
+  </div>
+</Layout>
