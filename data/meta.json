@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T20:44:42.446Z",
+ "updatedAt": "2026-11-03T21:26:07.148Z",
  "hot": [
   "man-utd-roma-2026-11-03",
+  "saliba-injury",
   "villarreal-psg-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "de-miguel-incident",
-  "saliba-injury"
+  "ait-nouri-man-utd-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -28,26 +28,26 @@
   "bbc": {
    "ok": true,
    "items": 87,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 2,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 23,
+   "added": 7,
+   "authorRate": 87
   },
   "athletic": {
    "ok": true,
@@ -63,8 +63,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 1,
+   "items": 50,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,37 +76,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 6,
    "authorRate": 74
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,31 +154,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 14,
-   "added": 6,
-   "authorRate": 93
+   "added": 4,
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -189,7 +189,7 @@
   },
   {
    "name": "리산드로 마르티네스",
-   "count": 9
+   "count": 10
   },
   {
    "name": "그릴리시",
@@ -200,15 +200,15 @@
    "count": 5
   },
   {
+   "name": "아이트누리",
+   "count": 5
+  },
+  {
    "name": "잭 그릴리시",
    "count": 5
   },
   {
    "name": "제수스 오워노",
-   "count": 4
-  },
-  {
-   "name": "아이트누리",
    "count": 4
   },
   {
@@ -232,21 +232,29 @@
    "count": 3
   },
   {
+   "name": "맥스 다우먼",
+   "count": 3
+  },
+  {
    "name": "루이스 수아레스",
+   "count": 3
+  },
+  {
+   "name": "카마빙가",
    "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 113,
+  "recentIssues": 115,
   "singleArticleRate": 46,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 73
+    "count": 78
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 25
+    "count": 29
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -261,7 +269,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 47
+     "count": 49
     },
     {
      "ko": "제수스 데 미겔",
@@ -456,11 +464,11 @@
      "count": 1
     },
     {
-     "ko": "두움비아",
+     "ko": "도움비아",
      "count": 1
     },
     {
-     "ko": "도움비아",
+     "ko": "두움비아",
      "count": 1
     }
    ]
@@ -620,6 +628,20 @@
    ]
   },
   {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세네 람메스",
+     "count": 1
+    },
+    {
+     "ko": "세네 라멘스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Cody Gakpo",
    "dictionary": null,
    "variants": [
@@ -629,20 +651,6 @@
     },
     {
      "ko": "가크포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세네 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "세네 람메스",
      "count": 1
     }
    ]
@@ -698,8 +706,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 325,
-   "llm": 325
+   "collected": 373,
+   "llm": 373
   }
  }
 }
