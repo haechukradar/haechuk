@@ -1,2087 +1,443 @@
 [
  {
-  "slug": "carrick-cunha-relationship",
+  "slug": "barcelona-aston-villa-2026-11-03",
   "mode": "llm",
-  "titleKo": "쿠냐, 캐릭과 경기 중 언쟁 논란",
-  "createdAt": "2026-11-03T22:08:28.000Z",
-  "updatedAt": "2026-11-03T23:27:00.000Z",
+  "titleKo": "바르셀로나 대 애스턴 빌라 챔피언스리그 경기",
+  "createdAt": "2026-11-03T13:30:00.000Z",
+  "updatedAt": "2026-11-03T23:58:22.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "barcelona",
+   "aston-villa"
+  ],
+  "players": [
+   "라민 야말",
+   "하피냐",
+   "조앙 칸셀루"
+  ],
+  "sig": [
+   "get",
+   "paddy",
+   "power"
+  ],
+  "articles": [
+   {
+    "id": "50190637d8a6",
+    "url": "https://www.marca.com/futbol/barcelona/2026/11/02/barcelona-levanta-castigo-grada-animacion-aston-villa.html",
+    "title": "El Barcelona levanta el castigo a la grada de animación ante el Aston Villa",
+    "ko": "바르셀로나, 애스턴 빌라전 앞두고 응원단 징계 해제",
+    "source": "marca",
+    "publishedAt": "2026-11-02T21:02:24.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "REDACCIÓN MARCA",
+    "transfer": null
+   },
+   {
+    "id": "1e1ab5d9483c",
+    "url": "https://www.thesun.co.uk/sport/40880728/barcelona-aston-villa-champions-league-predictions/",
+    "title": "Barcelona vs Aston Villa | Champions League predictions, preview and free bets",
+    "ko": "바르셀로나 대 애스턴 빌라, 챔피언스리그 예상과 무료 베팅 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "ab744f071fcd",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-barcelone-aston-villa-en-ligue-des-champions/1740574#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir FC Barcelone-Aston Villa en Ligue des champions ?",
+    "ko": "바르셀로나 대 애스턴 빌라 챔피언스리그 중계 시간·채널 안내",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T07:20:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "70be30dc7e17",
+    "url": "https://www.theguardian.com/football/2026/nov/03/unai-emery-aston-villa-barcelona-camp-nou-champions-league",
+    "title": "Don’t call it a remontada: Emery’s Camp Nou comeback focuses European blur",
+    "ko": "레몬타다 아닌 에메리의 캄프 누 복귀전, 유럽 무대 평가 초점",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T07:30:41.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Barney Ronay",
+    "transfer": null
+   },
+   {
+    "id": "5f9ebfcdc8d5",
+    "url": "https://as.com/futbol/champions/barcelona-aston-villa-hoy-en-directo-jornada-4-de-fase-liga-champions-league-en-vivo-f202611-d/",
+    "title": "Barcelona - Aston Villa hoy, en directo: jornada 4 de fase liga, Champions League en vivo",
+    "ko": "바르셀로나 대 애스턴 빌라, 챔피언스리그 4라운드 실시간",
+    "source": "as",
+    "publishedAt": "2026-11-03T13:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López",
+    "transfer": null
+   },
+   {
+    "id": "b623845f3cc5",
+    "url": "https://www.thesun.co.uk/sport/40895508/barcelona-aston-villa-champions-league-paddy-power-odds/",
+    "title": "Barcelona vs Aston Villa: Get 50/1 for a goal to be scored in Champions League tie with Paddy Power",
+    "ko": "바르셀로나 대 애스턴 빌라, 챔피언스리그 득점 베팅 소개",
+    "source": "sun",
+    "publishedAt": "2026-11-03T13:50:04.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "d78d45d58373",
+    "url": "https://www.thesun.co.uk/sport/40898501/prince-william-george-aston-villa-barcelona/",
+    "title": "Prince William and George will attend Barcelona to watch Aston Villa’s Champions League game at Camp Nou",
+    "ko": "윌리엄 왕자와 조지 왕자, 캄프 누서 애스턴 빌라 경기 관전 예정",
+    "source": "sun",
+    "publishedAt": "2026-11-03T17:51:56.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Bruno Brown",
+    "transfer": null
+   },
+   {
+    "id": "b3ba9e8285bf",
+    "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652",
+    "title": "Lamine Yamal starts for Barcelona vs Aston Villa LIVE!",
+    "ko": "라민 야말, 애스턴 빌라전 선발 출전 (라이브)",
+    "source": "sky",
+    "publishedAt": "2026-11-03T18:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라민 야말"
+    ],
+    "playerTags": [
+     "lamine-yamal"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dc29ba9a75a4",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/barcelona-aston-villa-em-direto",
+    "title": "Barcelona-Aston Villa, em direto",
+    "ko": "바르셀로나 대 애스턴 빌라, 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-03T18:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c9c8601a273f",
+    "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
+    "title": "Barcelona v Aston Villa: Champions League – live",
+    "ko": "바르셀로나 대 애스턴 빌라 챔피언스리그 생중계",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T19:02:09.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Luke McLaughlin",
+    "transfer": null
+   },
+   {
+    "id": "15c98222f57d",
+    "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
+    "title": "Raphinha double sees Barca power past Villa",
+    "ko": "하피냐 멀티골, 바르셀로나 애스턴 빌라 격파",
+    "source": "sky",
+    "publishedAt": "2026-11-03T21:45:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f47ed194a2ae",
+    "url": "https://www.thesun.co.uk/sport/40904465/lamine-yamal-raphinha-ruin-unai-emery-birthday/",
+    "title": "Barcelona 3 Aston Villa 0: Lamine Yamal and Raphinha ruin Unai Emery’s birthday as 100% record comes to an end",
+    "ko": "바르셀로나 3-0 애스턴 빌라, 야말·하피냐 골로 에메리 생일 망쳐",
+    "source": "sun",
+    "publishedAt": "2026-11-03T21:54:13.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라민 야말",
+     "하피냐"
+    ],
+    "playerTags": [
+     "lamine-yamal",
+     "raphinha"
+    ],
+    "author": "Charlie Wyett",
+    "transfer": null
+   },
+   {
+    "id": "fd0f3dcca350",
+    "url": "https://www.lequipe.fr/Football/Actualites/Grace-a-des-eclairs-de-lamine-yamal-et-raphinha-barcelone-surclasse-aston-villa/1740946#at_medium=RSS_feeds",
+    "title": "Grâce à des éclairs de Lamine Yamal et Raphinha, Barcelone surclasse Aston Villa",
+    "ko": "야말과 하피냐 번뜩임, 바르사 애스턴 빌라 압도",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T21:57:08.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라민 야말",
+     "하피냐"
+    ],
+    "playerTags": [
+     "lamine-yamal",
+     "raphinha"
+    ],
+    "author": "Pierre-Étienne Minonzio",
+    "transfer": null
+   },
+   {
+    "id": "5eeba20a2a80",
+    "url": "https://as.com/futbol/fotorrelato/los-goles-del-barcelona-aston-villa-f202611-f/",
+    "title": "Los goles del Barcelona-Aston Villa",
+    "ko": "바르셀로나 대 애스턴 빌라 득점 장면",
+    "source": "as",
+    "publishedAt": "2026-11-03T21:57:15.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
+    "id": "29859005fa4e",
+    "url": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
+    "title": "Raphinha underlines Barcelona’s class to give Aston Villa a reality check",
+    "ko": "하피냐 활약, 바르사 저력으로 애스턴 빌라 제압",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T22:00:11.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Barney Ronay at the Camp Nou",
+    "transfer": null
+   },
+   {
+    "id": "d76f2d5bae5d",
+    "url": "https://as.com/futbol/champions/emery-hemos-demostrado-en-momentos-estar-al-nivel-del-barca-f202611-n/",
+    "title": "Emery: “Hemos demostrado en momentos estar al nivel del Barça”",
+    "ko": "에메리 \"순간순간 바르셀로나 수준임을 보여줬다\"",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:26:42.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Juan Jiménez",
+    "transfer": null
+   },
+   {
+    "id": "07e7daffd94e",
+    "url": "https://www.kicker.de/lamine-yamal-eingeladen-joao-cancelo-zaubert-barca-schlaegt-aston-villa-souveraen-1268281/video#omrss",
+    "title": "Lamine Yamal eingeladen, Joao Cancelo zaubert: Barca schlägt Aston Villa souverän",
+    "ko": "바르셀로나, 애스턴 빌라전 승리 속 라민 야말 등 활약",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T22:28:44.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라민 야말",
+     "조앙 칸셀루"
+    ],
+    "playerTags": [
+     "lamine-yamal"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a2e3c648d3aa",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko?at_medium=RSS&at_campaign=rss",
+    "title": "Emery takes positives - but Villa 'have work to do' to reach Barca level",
+    "ko": "에메리 긍정 평가했지만 빌라, 바르셀로나 수준까지 할 일 많아",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T23:58:22.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 8,
+  "sourceCount": 9,
+  "score": 8.29,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "lamine-yamal",
+   "raphinha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "마르카",
+   "source": "marca",
+   "at": "2026-11-02T21:02:24.000Z",
+   "viaQuote": false
+  },
+  "headline": "Emery takes positives - but Villa 'have work to do' to reach Barca level"
+ },
+ {
+  "slug": "man-utd-affairs-transfer-policy",
+  "mode": "llm",
+  "titleKo": "맨유 이적 정책 실패 논란",
+  "createdAt": "2026-11-03T12:33:38.000Z",
+  "updatedAt": "2026-11-03T23:57:56.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
    "man-utd"
   ],
   "players": [
-   "마테우스 쿠냐",
-   "쿠냐"
+   "코비 마이누"
   ],
   "sig": [
-   "matheus",
-   "cunha",
-   "michael",
-   "carrick"
+   "europa"
   ],
   "articles": [
    {
-    "id": "61e94926bae5",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-carrick-cunha-34859044",
-    "title": "Man United hero Matheus Cunha fumes after exchanging words with Michael Carrick on pitch",
-    "ko": "커닝햄, 캐릭과 그라운드에서 말다툼 후 분노",
-    "source": "men",
-    "publishedAt": "2026-11-03T22:08:28.000Z",
+    "id": "081042f78483",
+    "url": "https://www.hln.be/premier-league/405-miljoen-euro-verdampt-op-vijf-jaar-tijd-manchester-united-heeft-het-slechtste-transferbeleid-van-europa~a4f5b3ad/",
+    "title": "405 miljoen euro verdampt op vijf jaar tijd: Manchester United heeft het slechtste transferbeleid van Europa",
+    "ko": "맨유, 5년간 4억 500만 유로 낭비한 유럽 최악의 이적 정책 지적",
+    "source": "hln",
+    "publishedAt": "2026-11-03T12:33:38.000Z",
     "credited": null,
-    "category": "manager",
+    "category": "other",
     "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "Patrick Austen-Hardy",
+    "players": [],
+    "playerTags": [],
+    "author": "Stephan Keygnaert",
     "transfer": null
    },
    {
-    "id": "9b808bd285a2",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/matheus-cunha-man-utd-roma-34859093",
-    "title": "Matheus Cunha faces extra Champions League ban for breaking rules straight after Man United win",
-    "ko": "쿠냐, 맨유 승리 직후 규정 위반으로 챔피언스리그 추가 출장정지 가능성",
-    "source": "men",
-    "publishedAt": "2026-11-03T23:04:23.000Z",
+    "id": "22d037afdf45",
+    "url": "https://www.theguardian.com/football/2026/nov/03/michael-carrick-manchester-united-roma-old-trafford-champions-league",
+    "title": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames",
+    "ko": "마이누와 레이시가 분위기 살렸지만 맨유는 체계적 변화 필요",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T23:57:56.000Z",
     "credited": null,
     "category": "other",
     "stage": null,
     "players": [
-     "쿠냐"
+     "코비 마이누"
     ],
     "playerTags": [
-     "matheus-cunha"
+     "kobbie-mainoo"
     ],
-    "author": "Mark Wakefield",
-    "transfer": null
-   },
-   {
-    "id": "2f9aa411e60f",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/matheus-cunha-furioso-avancado-do-man-united-queria-festejar-mas-carrick-mandou-o-para-o-balneario",
-    "title": "Matheus Cunha furioso: avançado do Man. United queria festejar mas Carrick mandou-o para o balneário",
-    "ko": "쿠냐, 경기 후 세리머니 중 캐릭에게 제지당해 라커룸으로 보내져",
-    "source": "record",
-    "publishedAt": "2026-11-03T23:27:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": null,
+    "author": "Nick Ames at Old Trafford",
     "transfer": null
    }
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.87,
+  "score": 2.04,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
-   "matheus-cunha"
+   "kobbie-mainoo"
   ],
   "transfer": null,
   "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-03T22:08:28.000Z",
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-03T12:33:38.000Z",
    "viaQuote": false
   },
-  "headline": "Matheus Cunha furioso: avançado do Man. United queria festejar mas Carrick mandou-o para o balneário"
+  "headline": "Mainoo and Lacey raise the spirits but systemic change still required at Manchester United | Nick Ames"
  },
  {
-  "slug": "man-utd-roma-2026-11-03",
+  "slug": "napoli-porto-2026-11-03",
   "mode": "llm",
-  "titleKo": "맨유 대 로마 챔피언스리그 경기",
-  "createdAt": "2026-11-03T13:40:08.000Z",
-  "updatedAt": "2026-11-03T23:25:20.000Z",
+  "titleKo": "포르투 대 나폴리 챔피언스리그 경기 분석",
+  "createdAt": "2026-11-03T18:32:00.000Z",
+  "updatedAt": "2026-11-03T23:48:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
-   "man-utd",
-   "roma",
-   "barcelona",
-   "aston-villa",
-   "chelsea"
+   "porto",
+   "napoli"
   ],
-  "players": [
-   "리산드로 마르티네스",
-   "마커스 래시포드",
-   "마르티네스",
-   "유리 틸레망스",
-   "세네 라멘스",
-   "세네 람메스",
-   "브루노 페르난데스",
-   "음뵈모",
-   "디오고 달롯",
-   "마테우스 쿠냐",
-   "셰이 레이시",
-   "쿠냐"
-  ],
-  "sig": [
-   "u19s",
-   "uefa",
-   "youth"
-  ],
-  "articles": [
-   {
-    "id": "ff1356b8f0e1",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34848272",
-    "title": "Every word Michael Carrick said in press conference ahead of Manchester United vs Roma",
-    "ko": "캐릭, 맨유 대 로마 경기 전 기자회견 전문",
-    "source": "men",
-    "publishedAt": "2026-11-02T14:41:20.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston, Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "7e1ece2e4fae",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
-    "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
-    "ko": "캐릭, 로마전 앞두고 \"미친 일\" 말하지만 기대감 표명",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T16:00:07.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "eb23908d8a5b",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34851081",
-    "title": "Manchester United line-up vs Roma predicted as Carrick faced with Martinez conundrum",
-    "ko": "캐릭, 로마전 마르티네스 딜레마 속 맨유 선발 예상",
-    "source": "men",
-    "publishedAt": "2026-11-03T06:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리산드로 마르티네스"
-    ],
-    "playerTags": [],
-    "author": "Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "afc15e7e5f91",
-    "url": "https://www.thesun.co.uk/sport/40884800/man-utd-roma-bet-builder-free-bets-paddy-power/",
-    "title": "Man Utd vs Roma: Our 8/1 bet builder tip, plus get £50 in free bets | Paddy Power",
-    "ko": "맨유 대 로마 경기 배팅 팁과 무료 베팅 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-03T06:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "6175ac215215",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-latest-roma-34853445",
-    "title": "Nine players set to miss Man United vs Roma after Marcus Rashford injury update",
-    "ko": "래시포드 부상 업데이트 속 맨유, 로마전 9명 결장 예상",
-    "source": "men",
-    "publishedAt": "2026-11-03T06:21:00.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마커스 래시포드"
-    ],
-    "playerTags": [
-     "marcus-rashford"
-    ],
-    "author": "Mark Wakefield",
-    "transfer": null
-   },
-   {
-    "id": "8930c7893239",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34848284",
-    "title": "How Manchester United should line up vs Roma in Champions League",
-    "ko": "맨유는 로마전에서 어떤 라인업을 짜야 하나",
-    "source": "men",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall, Steven Railston, Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "0a729d89981c",
-    "url": "https://www.thesun.co.uk/sport/40882008/michael-carrick-man-utd-roma-predictions/",
-    "title": "Man Utd vs Roma | Champions League predictions, preview and free bets in must-win game for Michael Carrick",
-    "ko": "맨유 대 로마, 캐릭 감독에게 필승이 요구되는 챔피언스리그 경기 예상",
-    "source": "sun",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "5036dc7e62d2",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-u19s-vs-roma-34851435",
-    "title": "Manchester United U19s vs Roma LIVE updates and team news from UEFA Youth League fixture",
-    "ko": "맨유 U19, 유스 챔피언스리그서 로마와 격돌 실시간",
-    "source": "men",
-    "publishedAt": "2026-11-03T13:40:08.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston",
-    "transfer": null
-   },
-   {
-    "id": "a60e15e1acbf",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roma-tv-channel-37835883",
-    "title": "How to watch Man Utd vs Roma - TV channel, live stream, kick-off time",
-    "ko": "맨유 대 로마 경기 중계 채널과 킥오프 시간",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T16:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Bayliss",
-    "transfer": null
-   },
-   {
-    "id": "ef85b294540a",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-tv-channel-34853839",
-    "title": "Is Man United vs Roma on TV? Channel, live stream and kick-off time",
-    "ko": "맨유 대 로마 경기 방송 채널과 생중계 및 킥오프 시간 안내",
-    "source": "men",
-    "publishedAt": "2026-11-03T16:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Abbie Meehan",
-    "transfer": null
-   },
-   {
-    "id": "1938fd7ebf84",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-roma-live-34857835",
-    "title": "Manchester United vs Roma LIVE: Early team news and how to watch crucial Champions League clash",
-    "ko": "맨유 대 로마 챔피언스리그 경기, 초반 선수 소식과 중계 정보",
-    "source": "men",
-    "publishedAt": "2026-11-03T16:41:17.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall, Steven Railston, Ross Jackson",
-    "transfer": null
-   },
-   {
-    "id": "b4f79d018e20",
-    "url": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
-    "title": "Man Utd bench Martinez after red card vs Roma LIVE!",
-    "ko": "맨유, 로마전 퇴장 후 마르티네스 벤치行 (라이브)",
-    "source": "sky",
-    "publishedAt": "2026-11-03T18:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리산드로 마르티네스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2301195c256c",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/20261103-143201-manchester-united-roma-em-direto",
-    "title": "Manchester United-Roma, em direto",
-    "ko": "맨유 대 로마, 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-03T18:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "4dbfb50472e3",
-    "url": "https://www.thesun.co.uk/sport/40879746/man-utd-vs-roma-live-stream-free-how-to-watch/",
-    "title": "Man Utd vs Roma live stream FREE: How to watch crunch Champions League clash without paying a penny",
-    "ko": "맨유 대 로마 챔피언스리그 무료 시청 방법",
-    "source": "sun",
-    "publishedAt": "2026-11-03T18:50:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Connor Greaves",
-    "transfer": null
-   },
-   {
-    "id": "91699b8147ab",
-    "url": "https://www.hln.be/champions-league/live-21u-youri-tielemans-valt-opnieuw-naast-de-ploeg-bij-manchester-united-senne-lammens-start-wel~ae5b93d5/",
-    "title": "LIVE (21u). Youri Tielemans valt opnieuw naast de ploeg bij Manchester United, Senne Lammens start wél",
-    "ko": "튈레망스, 맨유 벤치행 낙점... 람멘스 선발 출전",
-    "source": "hln",
-    "publishedAt": "2026-11-03T18:51:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "유리 틸레망스",
-     "세네 라멘스"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "5dc020d7693f",
-    "url": "https://www.kicker.de/live-manunited-gegen-die-roma-unter-druck-barcelona-erwartet-aston-villa-1267884/artikel#omrss",
-    "title": "LIVE! ManUnited gegen die Roma unter Druck - Barcelona erwartet Aston Villa",
-    "ko": "맨유 대 로마 긴장 고조, 바르셀로나는 애스턴 빌라 맞이",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T19:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8184cd500ec0",
-    "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
-    "title": "Manchester United v Roma: Champions League – live",
-    "ko": "맨유 대 로마 챔피언스리그 생중계",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T19:02:23.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Unwin",
-    "transfer": null
-   },
-   {
-    "id": "b5016257308c",
-    "url": "https://www.thesun.co.uk/sport/40897411/why-man-utd-black-armbands-roma-champions-league/",
-    "title": "Why are Man Utd players wearing black armbands against Roma in Champions League?",
-    "ko": "맨유 선수들, 챔피언스리그 로마전에 검은 완장 착용 이유",
-    "source": "sun",
-    "publishedAt": "2026-11-03T19:44:44.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alex Smith",
-    "transfer": null
-   },
-   {
-    "id": "89fc842b95e8",
-    "url": "https://www.thesun.co.uk/sport/40899926/why-man-utd-fans-green-gold-balloons-roma-protest/",
-    "title": "Why are Man Utd fans releasing green and gold balloons before Roma clash?",
-    "ko": "맨유 팬들, 로마전 앞두고 초록·금색 풍선 날리는 이유",
-    "source": "sun",
-    "publishedAt": "2026-11-03T19:48:44.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Connor Greaves",
-    "transfer": null
-   },
-   {
-    "id": "8ab8c2dcb0b7",
-    "url": "https://as.com/futbol/champions/manchester-united-roma-en-directo-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Manchester United - Roma, en directo: Champions League, hoy en vivo",
-    "ko": "맨유 대 로마 챔피언스리그 경기 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-03T19:56:29.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Eduardo Burgos Rodríguez",
-    "transfer": null
-   },
-   {
-    "id": "243d1a414b6c",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roma-glazers-protest-37839991",
-    "title": "Man Utd vs Roma Champions League game HALTED as fans stage protest against Glazers",
-    "ko": "맨유-로마 챔피언스리그 경기, 글레이저 구단주 반대 시위로 중단",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T20:02:21.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Scott Trotter",
-    "transfer": null
-   },
-   {
-    "id": "7e56008c328f",
-    "url": "https://www.hln.be/champions-league/live-in-de-hoek-waar-de-klappen-vallen-as-roma-heeft-dubbele-bonus-beet-tegen-senne-lammens-en-manchester-united~ae5b93d5/",
-    "title": "LIVE. In de hoek waar de klappen vallen: AS Roma heeft dubbele bonus beet tegen Senne Lammens en Manchester United",
-    "ko": "로마, 맨유 상대로 더블 보너스 챙긴다",
-    "source": "hln",
-    "publishedAt": "2026-11-03T20:20:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "세네 람메스"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "12bd1659a4fd",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-champions-league-34858797",
-    "title": "Man United get unanimous penalty verdict as players blasted as 'embarrassing' vs Roma",
-    "ko": "맨유, 로마전 만장일치 페널티 판정 속 선수단 혹평",
-    "source": "men",
-    "publishedAt": "2026-11-03T20:29:21.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Patrick Austen-Hardy",
-    "transfer": null
-   },
-   {
-    "id": "6a2d5bcd4b8e",
-    "url": "https://www.thesun.co.uk/sport/40901988/alan-shearer-slams-man-utd-roma-champions-league/",
-    "title": "Alan Shearer launches scathing rant against Man Utd as Old Trafford stunned into silence by disastrous start vs Roma",
-    "ko": "슈이어러, 맨유 로마전 부진에 날선 비판",
-    "source": "sun",
-    "publishedAt": "2026-11-03T20:30:37.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "eab5c41f182b",
-    "url": "https://www.thesun.co.uk/sport/40901028/old-trafford-leaks-champions-league-roma-man-utd/",
-    "title": "Old Trafford starts leaking before Champions League clash with Roma as Man Utd fans laugh at perfect metaphor",
-    "ko": "올드트래퍼드, 로마전 앞두고 조짐 불안",
-    "source": "sun",
-    "publishedAt": "2026-11-03T20:44:15.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kostas Lianos",
-    "transfer": null
-   },
-   {
-    "id": "63777c9a99c8",
-    "url": "https://www.thesun.co.uk/sport/40902697/diogo-dalot-man-utd-roma-error-champions-league/",
-    "title": "‘Generational stinker’ – Man Utd fans blast Diogo Dalot during Roma horror show and as Old Trafford ‘turns toxic’",
-    "ko": "맨유 팬들, 로마전 달롯 맹비난 — 올드트래퍼드 분위기 악화",
-    "source": "sun",
-    "publishedAt": "2026-11-03T20:44:45.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "디오고 달롯"
-    ],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null
-   },
-   {
-    "id": "7d0de079a5e5",
-    "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
-    "title": "Champions League live updates: Roma strike twice past Man United, Barça lead Villa",
-    "ko": "로마, 챔피언스리그서 맨유에 두 골 앞서 — 바르사는 애스턴 빌라에 리드",
-    "source": "espn",
-    "publishedAt": "2026-11-03T21:03:33.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b626cafecf8a",
-    "url": "https://www.espn.com/soccer/story/_/id/50371059/lisandro-martinez-man-united-roma-dropped-red-card",
-    "title": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea",
-    "ko": "마르티네스, 첼시 부진 뒤 로마전 맨유 벤치행",
-    "source": "espn",
-    "publishedAt": "2026-11-03T21:11:17.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리산드로 마르티네스"
-    ],
-    "playerTags": [],
-    "author": "Rob Dawson",
-    "transfer": null
-   },
-   {
-    "id": "6b017b9926d9",
-    "url": "https://www.hln.be/champions-league/live-dat-kan-er-nog-wel-bij-voor-manchester-united-meteen-na-aansluitingstreffer-fernandes-raakt-mbeumo-beide-palen~ae5b93d5/",
-    "title": "LIVE. Dat kan er nog wel bij voor Manchester United: meteen na aansluitingstreffer Fernandes raakt Mbeumo beide palen",
-    "ko": "맨유 페르난데스 동점골 직후 음뵈모 골대 두 번 강타",
-    "source": "hln",
-    "publishedAt": "2026-11-03T21:19:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 페르난데스",
-     "음뵈모"
-    ],
-    "playerTags": [
-     "bruno-fernandes",
-     "bryan-mbeumo"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "eb4c35ae5443",
-    "url": "https://www.kicker.de/matheus-cunha-laesst-old-trafford-beben-united-dreht-spiel-gegen-roma-1268265/video#omrss",
-    "title": "Matheus Cunha lässt Old Trafford beben: United dreht Spiel gegen Roma",
-    "ko": "마테우스 쿠냐 원더골 속 맨유, 로마전 역전승",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T21:52:11.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "09c81047f12d",
-    "url": "https://www.thesun.co.uk/sport/40904886/man-utd-roma-champions-league-carrick-mateus-cunha/",
-    "title": "Man Utd 3 Roma 2: Matheus Cunha inspires stunning comeback from 2-0 down that might just save Michael Carrick’s job",
-    "ko": "카메라 맨유, 로마에 2-0 뒤지다 쿠냐 활약으로 역전승",
-    "source": "sun",
-    "publishedAt": "2026-11-03T21:55:27.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "dafd6751bb89",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34858407",
-    "title": "Manchester United player ratings vs Roma as Matheus Cunha brilliant and Shea Lacey good",
-    "ko": "맨유 로마전 평점, 쿠냐 활약과 레이시 선전",
-    "source": "men",
-    "publishedAt": "2026-11-03T21:55:50.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐",
-     "셰이 레이시"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "Tyrone Marshall",
-    "transfer": null
-   },
-   {
-    "id": "7f6785154348",
-    "url": "https://www.hln.be/champions-league/van-0-2-naar-3-2-manchester-united-wendt-crisis-even-af-met-sensationele-comeback~ae5b93d5/",
-    "title": "Van 0-2 naar 3-2: Manchester United wendt crisis (even) af met sensationele comeback",
-    "ko": "0-2에서 3-2로, 맨유 위기 속 극적인 역전승",
-    "source": "hln",
-    "publishedAt": "2026-11-03T21:57:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "328136798a49",
-    "url": "https://www.hln.be/champions-league/we-moesten-niemands-job-redden-manchester-united-wendt-crisis-even-af-met-sensationele-comeback-kapitein-bruno-fernandes-bijt-van-zich-af~ae5b93d5/",
-    "title": "“We moesten niemands job redden”: Manchester United wendt crisis (even) af met sensationele comeback, kapitein Bruno Fernandes bijt van zich af",
-    "ko": "맨유, 극적 역전승으로 위기 탈출…브루노 페르난데스 항변",
-    "source": "hln",
-    "publishedAt": "2026-11-03T21:57:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "bb54c2a5d809",
-    "url": "https://www.hln.be/champions-league/er-zijn-veel-leugens-verspreid-spelers-van-manchester-united-bijten-van-zich-af-na-sensationele-comeback-tegen-as-roma-crisis-even-afgewend~ae5b93d5/",
-    "title": "“Er zijn veel leugens verspreid”: spelers van Manchester United bijten van zich af na sensationele comeback tegen AS Roma, crisis even afgewend",
-    "ko": "맨유 선수들, 로마전 역전승 후 루머 반박",
-    "source": "hln",
-    "publishedAt": "2026-11-03T21:57:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "ba51a49d5aaa",
-    "url": "https://www.nytimes.com/athletic/7741817/2026/11/03/man-utd-roma-carrick-dalot/",
-    "title": "Matheus Cunha with two late goals and red as Man United secure miraculous comeback win over Roma",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-03T21:57:19.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "33989b94d0d6",
-    "url": "https://www.thesun.co.uk/sport/40905903/matheus-cunha-red-card-man-utd-roma-champions-league/",
-    "title": "Matheus Cunha sent off and denied standing ovation minutes after last-gasp double inspires Man Utd turnaround vs Roma",
-    "ko": "쿠냐 퇴장 후 기립박수 거부, 맨유 로마전 역전 견인",
-    "source": "sun",
-    "publishedAt": "2026-11-03T21:58:33.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "Henry Tomlinson",
-    "transfer": null
-   },
-   {
-    "id": "8738ac2904d7",
-    "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
-    "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
-    "ko": "쿠냐, 로마 상대 두 골 뒤진 맨유 극적 역전승 이끌어",
-    "source": "sky",
-    "publishedAt": "2026-11-03T22:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7268a94f40a8",
-    "url": "https://www.thesun.co.uk/sport/40901086/man-utd-ratings-roma-cunha-carrick/",
-    "title": "Man Utd ratings: Diogo Dalot has another rotten outing but Matheus Cunha puts on attacking masterclass despite red card",
-    "ko": "맨유 평점: 쿠냐 퇴장에도 공격 장인 활약",
-    "source": "sun",
-    "publishedAt": "2026-11-03T22:03:56.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐",
-     "디오고 달롯"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "Katherine Walsh",
-    "transfer": null
-   },
-   {
-    "id": "ef229814022a",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-miracle-de-manchester-mene-de-deux-buts-par-la-roma-united-renverse-tout-et-se-donne-de-l-air/1740950#at_medium=RSS_feeds",
-    "title": "Le miracle de Manchester : mené de deux buts par la Roma, United renverse tout et se donne de l'air",
-    "ko": "맨유, 로마에 두 골 뒤지다 극적 역전",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T22:05:43.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "ee7ba89d8590",
-    "url": "https://www.theguardian.com/football/2026/nov/03/manchester-united-roma-champions-league-match-report",
-    "title": "Manchester United produce comeback for the ages as Cunha double floors Roma",
-    "ko": "맨유, 쿠냐 멀티골로 로마 상대 역대급 역전극",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T22:11:04.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "David Hytner at Old Trafford",
-    "transfer": null
-   },
-   {
-    "id": "1d25801e5282",
-    "url": "https://as.com/futbol/internacional/cunha-obra-el-milagro-f202611-n/",
-    "title": "Cunha obra el milagro",
-    "ko": "쿠냐, 로마 상대 더블로 기적 같은 역전 이끌어",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:22:28.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": "Xavi Heras",
-    "transfer": null
-   },
-   {
-    "id": "b5ebcf3c5e05",
-    "url": "https://www.thesun.co.uk/sport/40906320/bruno-fernandes-swears-man-utd-gabby-logan-apologises-roma/",
-    "title": "Gabby Logan forced to apologise as Bruno Fernandes swears on live TV after Man Utd’s epic comeback win over Roma",
-    "ko": "브루노 페르난데스, 로마전 극적 역전승 후 생중계서 욕설 논란",
-    "source": "sun",
-    "publishedAt": "2026-11-03T22:26:22.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "877430594a77",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carricks-full-time-reaction-34858404",
-    "title": "Michael Carrick's full-time reaction showed he was the only one thinking clearly amid Man United chaos vs Roma",
-    "ko": "캐릭, 맨유 로마전 혼란 속 경기 후 반응이 가장 차분했다는 평가",
-    "source": "men",
-    "publishedAt": "2026-11-03T22:30:23.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall",
-    "transfer": null
-   },
-   {
-    "id": "a054296b154d",
-    "url": "https://www.kicker.de/aus-0-2-mach-3-2-doppelpacker-matheus-cunha-laesst-united-jubeln-1268283/video#omrss",
-    "title": "Aus 0:2 mach 3:2: Doppelpacker Matheus Cunha lässt United jubeln",
-    "ko": "쿠냐 2골, 맨유 0-2 열세서 3-2 역전승 견인",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T22:38:34.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마테우스 쿠냐"
-    ],
-    "playerTags": [
-     "matheus-cunha"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "548c02ad4043",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-manchester-united-turned-corner-34859051",
-    "title": "Poll: Have Manchester United turned a corner under Michael Carrick after special Roma comeback?",
-    "ko": "캐릭 체제의 맨유, 로마전 극적 역전으로 전환점 맞았나 여론조사",
-    "source": "men",
-    "publishedAt": "2026-11-03T22:40:53.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Jackson",
-    "transfer": null
-   },
-   {
-    "id": "123b6c909313",
-    "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-manchester-united-roma-37840293",
-    "title": "Bruno Fernandes slams 'lies' in foul-mouthed rant after Man Utd's dramatic Roma comeback",
-    "ko": "브루노 페르난데스, 로마전 역전 후 욕설 섞인 발언으로 '거짓말' 비판",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T22:46:51.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": "Nathan Ridley",
-    "transfer": null
-   },
-   {
-    "id": "7164ee026d13",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-manchester-uniteds-vs-roma-jornada-4-de-la-champions-league-26-27-f202611-v/",
-    "title": "Resumen y goles del Manchester United vs Roma, jornada 4 de la Champions League 26-27",
-    "ko": "맨유, 로마전 경기 요약 및 득점 장면",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:52:01.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Movistar +",
-    "transfer": null
-   },
-   {
-    "id": "3a8010ccf524",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
-    "title": "Man Utd beat Roma - the other great Champions League comebacks",
-    "ko": "맨유, 로마 꺾은 챔피언스리그 명승부 되짚어",
-    "source": "bbc",
-    "publishedAt": "2026-11-03T23:25:20.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 13,
-  "sourceCount": 13,
-  "score": 12.86,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "marcus-rashford",
-   "bruno-fernandes",
-   "bryan-mbeumo",
-   "matheus-cunha"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-02T14:41:20.000Z",
-   "viaQuote": false
-  },
-  "headline": "Man Utd beat Roma - the other great Champions League comebacks"
- },
- {
-  "slug": "villarreal-psg-2026-11-03",
-  "mode": "llm",
-  "titleKo": "빌라레알 대 PSG 챔피언스리그 경기",
-  "createdAt": "2026-11-02T21:28:05.000Z",
-  "updatedAt": "2026-11-03T23:23:40.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "psg",
-   "real-madrid"
-  ],
-  "players": [
-   "나탕 살리바",
-   "나단 살리바",
-   "게오르그 미카우타제",
-   "루카스 에르난데스",
-   "파비앙 루이스",
-   "파비앵 루이즈",
-   "에르난데스"
-  ],
-  "sig": [
-   "villarreal",
-   "ligue"
-  ],
-  "articles": [
-   {
-    "id": "d8629b11671a",
-    "url": "https://www.lequipe.fr/Football/Actualites/Incertain-nathan-saliba-devrait-debuter-avec-villarreal-contre-le-psg-tout-comme-georges-mikautadze/1740690#at_medium=RSS_feeds",
-    "title": "Incertain, Nathan Saliba devrait débuter avec Villarreal contre le PSG, tout comme Georges Mikautadze",
-    "ko": "나단 살리바, 부상 우려 속 비야레알 선발 출전 예정",
-    "source": "lequipe",
-    "publishedAt": "2026-11-02T21:10:35.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "나단 살리바",
-     "게오르그 미카우타제"
-    ],
-    "playerTags": [
-     "william-saliba"
-    ],
-    "author": "Régis Dupont",
-    "transfer": null
-   },
-   {
-    "id": "26080b66be3c",
-    "url": "https://www.lequipe.fr/Football/Actualites/Deux-incertitudes-majeures-dans-le-onze-du-psg-pour-le-deplacement-a-villarreal-en-ligue-des-champions/1740694#at_medium=RSS_feeds",
-    "title": "Deux incertitudes majeures dans le onze du PSG pour le déplacement à Villarreal en Ligue des champions",
-    "ko": "PSG 비야레알 원정 선발 라인업 불확실성 두 가지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-02T21:28:05.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Régis Dupont",
-    "transfer": null
-   },
-   {
-    "id": "3983ccb7564d",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-villarreal-psg-en-ligue-des-champions/1740504#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Villarreal-PSG en Ligue des champions ?",
-    "ko": "비야레알 대 PSG, 챔피언스리그 중계 시간·채널 안내",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "efef42504536",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-sechement-battu-a-villarreal-pour-la-4e-journee-de-youth-league/1740805#at_medium=RSS_feeds",
-    "title": "Le PSG sèchement battu à Villarreal pour la 4e journée de Youth League",
-    "ko": "PSG, 유스리그 빌라레알 원정서 완패",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T14:22:37.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "José Barroso",
-    "transfer": null
-   },
-   {
-    "id": "65209551cd50",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/villarreal-psg-em-direto",
-    "title": "Villarreal-PSG, em direto",
-    "ko": "비야레알 대 PSG, 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-03T18:25:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a90f58592af1",
-    "url": "https://www.lequipe.fr/Football/Actualites/Senny-mayulu-en-pointe-lucas-hernandez-dans-le-couloir-gauche-la-composition-du-psg-contre-villarreal-en-ligue-des-champions/1740888#at_medium=RSS_feeds",
-    "title": "Senny Mayulu en pointe, Lucas Hernandez dans le couloir gauche : la composition du PSG contre Villarreal en Ligue des champions",
-    "ko": "PSG, 비야레알전 선발 라인업 공개",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T18:55:06.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "루카스 에르난데스"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "eec1468dbb8c",
-    "url": "https://as.com/futbol/champions/villarreal-psg-en-directo-uefa-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Villarreal - PSG en directo: UEFA Champions League hoy, en vivo",
-    "ko": "비야레알 대 PSG 챔피언스리그 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-03T19:05:03.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Marcos Verdasco",
-    "transfer": null
-   },
-   {
-    "id": "4b8149fdcbc6",
-    "url": "https://www.lequipe.fr/Football/Actualites/Villarreal-psg-dans-un-contexte-particulier-apres-la-mort-de-jesus-de-miguel-et-la-catastrophe-ferroviaire-en-espagne/1740895#at_medium=RSS_feeds",
-    "title": "Villarreal-PSG dans un contexte particulier après la mort de Jesus de Miguel et la catastrophe ferroviaire en Espagne",
-    "ko": "데 미겔 사망과 스페인 철도 참사 속 비야레알-PSG전",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T19:10:03.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Régis Dupont",
-    "transfer": null
-   },
-   {
-    "id": "23f3b324169e",
-    "url": "https://www.kicker.de/0-4-nach-17-minuten-villarreal-fans-winken-mit-dem-taschentuch-1268229/video#omrss",
-    "title": "0:4 nach 17 Minuten: Villarreal-Fans winken mit dem Taschentuch",
-    "ko": "빌라리얼 팬들, 전반 17분 0-4 상황에 손수건 흔들어",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T20:23:46.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "45681e670c5b",
-    "url": "https://www.lequipe.fr/Football/Actualites/Quatre-buts-en-huit-minutes-l-incroyable-entame-du-psg-contre-villarreal-en-video/1740919#at_medium=RSS_feeds",
-    "title": "Quatre buts en huit minutes : l'incroyable entame du PSG contre Villarreal en vidéo",
-    "ko": "PSG, 비야레알전 전반 8분 만에 4골 폭발",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T20:36:04.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "1632eb43505a",
-    "url": "https://www.lequipe.fr/Football/Actualites/Les-chiffres-de-la-folle-entame-du-paris-saint-germain-contre-villarreal-en-ligue-des-champions/1740920#at_medium=RSS_feeds",
-    "title": "Les chiffres de la folle entame du Paris Saint-Germain contre Villarreal en Ligue des champions",
-    "ko": "PSG, 비야레알 상대 미친 시작의 기록 정리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T20:40:38.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "2b188e7cd594",
-    "url": "https://www.kicker.de/real-rekord-geknackt-psg-schreibt-champions-league-geschichte-1268234/artikel#omrss",
-    "title": "Real-Rekord geknackt: PSG schreibt Champions-League-Geschichte",
-    "ko": "PSG, 챔피언스리그 역사 새로 써 — 레알 기록 경신",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T20:57:09.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b57139517435",
-    "url": "https://www.lequipe.fr/Football/Actualites/En-demonstration-sur-la-pelouse-de-villarreal-le-psg-realise-un-festival-offensif-et-conserve-la-tete-de-la-phase-de-ligue-de-la-ligue-des-champions/1740943#at_medium=RSS_feeds",
-    "title": "En démonstration sur la pelouse de Villarreal, le PSG réalise un festival offensif et conserve la tête de la phase de ligue de la Ligue des champions",
-    "ko": "PSG, 비야레알 원정서 대승하며 리그 페이즈 선두 유지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T21:53:55.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "ded1f7db51b0",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-villarreal-vs-psg-jornada-4-de-la-champions-league-26-27-f202611-v/",
-    "title": "Resumen y goles del Villarreal vs PSG, jornada 4 de la Champions League 26-27",
-    "ko": "빌라레알 대 PSG 챔피언스리그 경기 결과와 득점 정리",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:09:57.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Movistar +",
-    "transfer": null
-   },
-   {
-    "id": "06359cfad5c5",
-    "url": "https://www.lequipe.fr/Football/Actualites/Fabian-ruiz-apres-la-large-victoire-du-psg-sur-la-pelouse-de-villarreal-je-ne-dirais-pas-que-nous-sommes-plus-forts-que-l-an-dernier/1740958#at_medium=RSS_feeds",
-    "title": "Fabian Ruiz, après la large victoire du PSG sur la pelouse de Villarreal : « Je ne dirais pas que nous sommes plus forts que l'an dernier »",
-    "ko": "파비앙 루이스, 지난해보다 강해졌다는 말은 아껴",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T22:22:52.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "파비앙 루이스"
-    ],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "d1f35a08ec2c",
-    "url": "https://www.kicker.de/historischer-start-psg-schraubt-das-gelbe-u-boot-auseinander-1268276/video#omrss",
-    "title": "Historischer Start: PSG schraubt das Gelbe U-Boot auseinander",
-    "ko": "PSG, 비야레알 대파하며 역사적 출발",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T22:23:32.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "45f572124510",
-    "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-apres-le-carton-du-psg-sur-la-pelouse-de-villarreal-nous-ne-sommes-pas-encore-champions-ni-en-finale-a-madrid/1740959#at_medium=RSS_feeds",
-    "title": "Luis Enrique, après le carton du PSG sur la pelouse de Villarreal : « Nous ne sommes pas encore champions, ni en finale à Madrid »",
-    "ko": "루이스 엔리케, PSG 빌라레알 대승 후 '아직 우승 아니다' 신중",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T22:32:31.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Loïc Tanzi",
-    "transfer": null
-   },
-   {
-    "id": "d298db1eeaaa",
-    "url": "https://www.record.pt/futebol/selecoes/detalhe/jorge-jesus-esteve-em-villarreal-a-ver-a-goleada-do-paris-sg",
-    "title": "Jorge Jesus esteve em Villarreal a ver a goleada do Paris SG",
-    "ko": "조르즈 제수스, 빌라레알 대 PSG 경기 현장 관전",
-    "source": "record",
-    "publishedAt": "2026-11-03T22:41:56.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "16ec9f86210a",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-villarreal-psg-fabian-ruiz-frole-l-excellence-akliouche-prend-de-l-epaisseur/1740965#at_medium=RSS_feeds",
-    "title": "Les notes de Villarreal-PSG",
-    "ko": "빌라레알-PSG 선수 평점",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T22:58:09.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Régis Dupont",
-    "transfer": null
-   },
-   {
-    "id": "6702a289d417",
-    "url": "https://www.lequipe.fr/Football/Actualites/Fabian-ruiz-apres-la-large-victoire-du-psg-sur-la-pelouse-de-villarreal-en-ligue-des-champions-on-a-toujours-cette-envie-de-gagner/1740972#at_medium=RSS_feeds",
-    "title": "Fabian Ruiz après la large victoire du PSG sur la pelouse de Villarreal en Ligue des champions : « On a toujours cette envie de gagner »",
-    "ko": "파비앵 루이즈, 빌라레알전 대승 후 \"여전히 이기고 싶은 마음\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T23:18:11.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "파비앵 루이즈"
-    ],
-    "playerTags": [],
-    "author": "Loïc Tanzi",
-    "transfer": null
-   },
-   {
-    "id": "b04d561fefb5",
-    "url": "https://www.lequipe.fr/Football/Actualites/Lucas-hernandez-repond-a-une-question-sur-la-concurrence-avec-nuno-mendes-apres-villarreal-psg-nuno-c-est-nuno/1740975#at_medium=RSS_feeds",
-    "title": "Lucas Hernandez répond à une question sur la concurrence avec Nuno Mendes après Villarreal-PSG : « Nuno, c'est Nuno... »",
-    "ko": "에르난데스, 빌라레알전 후 누노 멘데스와의 경쟁 질문에 답변",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T23:23:40.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에르난데스"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 3.26,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "william-saliba"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-02T21:10:35.000Z",
-   "viaQuote": false
-  },
-  "headline": "Lucas Hernandez répond à une question sur la concurrence avec Nuno Mendes après Villarreal-PSG : « Nuno, c'est Nuno... »"
- },
- {
-  "slug": "atletico-bayern-2026-11-03",
-  "mode": "llm",
-  "titleKo": "아틀레티코 대 바이에른 챔피언스리그 경기",
-  "createdAt": "2026-11-03T13:40:01.000Z",
-  "updatedAt": "2026-11-03T23:21:45.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "atletico",
-   "bayern",
-   "real-madrid"
-  ],
-  "players": [
-   "마이클 올리세",
-   "마누엘 노이어",
-   "해리 케인"
-  ],
-  "sig": [
-   "bayerns",
-   "kracher",
-   "omen"
-  ],
-  "articles": [
-   {
-    "id": "9cced5b39cd8",
-    "url": "https://www.tz.de/sport/fc-bayern/an-der-grenze-des-erlaubten-atletico-kommt-fuer-den-fc-bayern-zur-unzeit-94570483.html",
-    "title": "An der Grenze des Erlaubten: Atletico kommt für den FC Bayern zur Unzeit",
-    "ko": "아틀레티코, 바이에른 상대로 한계선 위 플레이 논란",
-    "source": "tz",
-    "publishedAt": "2026-11-02T15:25:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vinzent Tschirpke",
-    "transfer": null
-   },
-   {
-    "id": "9eb7f0cf8986",
-    "url": "https://www.tz.de/sport/fc-bayern/atletico-trainer-simeone-mit-ueberraschendem-gestaendnis-vor-bayern-duell-94570613.html",
-    "title": "Atletico-Trainer Simeone mit überraschendem Geständnis vor Bayern-Duell",
-    "ko": "시메오네, 바이에른전 앞두고 깜짝 고백",
-    "source": "tz",
-    "publishedAt": "2026-11-02T16:06:13.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vinzent Tschirpke",
-    "transfer": null
-   },
-   {
-    "id": "f02abd5a0f99",
-    "url": "https://www.thesun.co.uk/sport/40880481/atletico-bayern-munich-free-bets-tips/",
-    "title": "Atletico vs Bayern Munich: Get £50 in free bets, plus our 12/1 Bet Builder tips | Sky Bet",
-    "ko": "아틀레티코 대 바이에른, 베팅 예상과 무료 베팅 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "466e07b4e7b6",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-bayern-munich/1740579#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Atlético Madrid-Bayern Munich",
-    "ko": "아틀레티코 마드리드 대 바이에른 뮌헨 경기 중계 시간·채널 안내",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T07:40:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "79cc6fc21cb7",
-    "url": "https://www.tz.de/sport/fc-bayern/schiedsrichter-letixier-leitet-cl-kracher-zwischen-atletico-und-bayern-zr-94571485.html",
-    "title": "Schiedsrichter für Bayerns CL-Kracher bei Atletico verspricht schlechtes Omen",
-    "ko": "바이에른 챔피언스리그 아틀레티코전 심판 배정, 불길한 징조 우려",
-    "source": "tz",
-    "publishedAt": "2026-11-03T09:41:36.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Adrian Rehling",
-    "transfer": null
-   },
-   {
-    "id": "e70550681a54",
-    "url": "https://www.tz.de/sport/fc-bayern/ungleiches-trainer-duell-in-madrid-feuer-und-eis-treffen-aufeinander-94572042.html",
-    "title": "Ungleiches Trainer-Duell in Madrid: englische Coolness vs. argentinischer Vulkan",
-    "ko": "마드리드 감독 대결, 영국식 침착함 대 아르헨티나식 열정",
-    "source": "tz",
-    "publishedAt": "2026-11-03T13:30:54.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dfab1009bc27",
-    "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
-    "ko": "아틀레티코 대 바이에른, 챔피언스리그 4라운드 실시간",
-    "source": "as",
-    "publishedAt": "2026-11-03T13:40:01.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alejandro Soto",
-    "transfer": null
-   },
-   {
-    "id": "d603c4b63963",
-    "url": "https://www.tz.de/sport/fc-bayern/atletico-madrid-gegen-fc-bayern-im-liveticker-rumpf-fcb-vor-mammutaufgabe-zr-94572388.html",
-    "title": "Atletico gegen den FC Bayern: Münchner Rumpftruppe vor größter CL-Herausforderung",
-    "ko": "바이에른 원정 앞둔 아틀레티코, 뮌헨 측 전력 부족 속 최대 시험대",
-    "source": "tz",
-    "publishedAt": "2026-11-03T15:26:50.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Maximilian Bohne",
-    "transfer": null
-   },
-   {
-    "id": "014f58a61522",
-    "url": "https://www.kicker.de/brown-karl-oder-beide-was-in-madrid-fuer-welchen-bayern-profi-spricht-1268026/artikel#omrss",
-    "title": "Brown, Karl oder beide? Was in Madrid für welchen Bayern-Profi spricht",
-    "ko": "바이에른, 브라운과 카를 중 누구를 기용할지 마드리드 경기 관련 논의",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T17:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d24a0f8ea78d",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/atletico-madrid-bayern-em-direto",
-    "title": "Atlético Madrid-Bayern, em direto",
-    "ko": "아틀레티코 대 바이에른, 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-03T18:40:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "32438e7f7ae1",
-    "url": "https://www.kicker.de/live-fc-bayern-gastiert-mit-karl-olise-und-rueckkehrer-neuer-bei-atletico-1267395/artikel#omrss",
-    "title": "LIVE! FC Bayern gastiert mit Karl, Olise und Rückkehrer Neuer bei Atletico",
-    "ko": "바이에른, 아틀레티코 원정에 카를·올리세·노이어 동행",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T18:50:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마이클 올리세",
-     "마누엘 노이어"
-    ],
-    "playerTags": [
-     "michael-olise"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "53c9931ce4b8",
-    "url": "https://www.kicker.de/live-atletico-agiert-sehr-unsauber-kane-laesst-naechste-moeglichkeit-liegen-1267395/artikel#omrss",
-    "title": "LIVE! Atletico agiert sehr unsauber - Kane lässt nächste Möglichkeit liegen",
-    "ko": "아틀레티코 부정확한 플레이, 케인 찬스 또 무산",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T20:37:17.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "4c5f355a2c50",
-    "url": "https://www.kicker.de/live-ballklau-tor-und-deutlicher-jubel-von-karl-wie-reagiert-atletico-auf-den-rueckstand-1267395/artikel#omrss",
-    "title": "LIVE! Ballklau, Tor und deutlicher Jubel von Karl - Wie reagiert Atletico auf den Rückstand?",
-    "ko": "아틀레티코, 실점 이후 반응은? 경기 라이브",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T21:22:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b2d5b9ef5932",
-    "url": "https://www.hln.be/champions-league/bayern-munchen-te-sterk-voor-atletico-madrid-feyenoord-fans-schieten-vuurpijlen-van-buiten-stadion~a3425e1e/",
-    "title": "Bayern München te sterk voor Atlético Madrid - Feyenoord-fans schieten vuurpijlen van buiten stadion",
-    "ko": "바이에른, 아틀레티코 꺾어…페예노르트 팬 경기장 밖 폭죽",
-    "source": "hln",
-    "publishedAt": "2026-11-03T21:50:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "66d557373c1e",
-    "url": "https://as.com/futbol/champions/1x1-del-atletico-mucho-bayern-y-muy-poca-respuesta-f202611-n/",
-    "title": "1x1 del Atlético: mucho Bayern y muy poca respuesta",
-    "ko": "아틀레티코 선수 평점, 바이에른에 밀린 반응 부족",
-    "source": "as",
-    "publishedAt": "2026-11-03T21:53:38.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jesús Colino",
-    "transfer": null
-   },
-   {
-    "id": "bcbc99bcb092",
-    "url": "https://www.kicker.de/karl-tor-und-laimer-knaller-fc-bayern-gewinnt-bei-atletico-1267395/artikel#omrss",
-    "title": "Karl-Tor und Laimer-Knaller: FC Bayern gewinnt bei Atletico",
-    "ko": "바이에른, 라이머 활약 앞세워 아틀레티코 원정 승리",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T21:55:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8a4260402a9a",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-bayern-munich-l-emporte-logiquement-sur-le-terrain-de-l-atletico-de-madrid-harry-kane-passeur-decisif/1740945#at_medium=RSS_feeds",
-    "title": "Le Bayern Munich l'emporte logiquement sur le terrain de l'Atlético de Madrid, Harry Kane passeur décisif",
-    "ko": "바이에른, 아틀레티코 원정서 승리, 케인 결정적 도움",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T21:56:38.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Thomas Doucet",
-    "transfer": null
-   },
-   {
-    "id": "9cbc63db3558",
-    "url": "https://as.com/opinion/el-bayern-baja-al-atletico-a-la-tierra-f202611-n/",
-    "title": "El Bayern baja al Atlético a la tierra",
-    "ko": "바이에른, 아틀레티코를 상대로 격차 과시",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:00:21.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "F.J. Díaz",
-    "transfer": null
-   },
-   {
-    "id": "318cd00a5bd7",
-    "url": "https://as.com/futbol/champions/un-equipazo-toma-el-metropolitano-f202611-n/",
-    "title": "Un equipazo toma el Metropolitano",
-    "ko": "메트로폴리타노를 채운 멋진 팀",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:13:19.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Patricia Cazón",
-    "transfer": null
-   },
-   {
-    "id": "edaf9b8248bf",
-    "url": "https://as.com/futbol/champions/simeone-el-futbol-esta-basado-en-errores-depende-de-nosotros-f202611-n/",
-    "title": "Simeone: “El fútbol está basado en errores, depende de nosotros”",
-    "ko": "시메오네 \"축구는 실수에 기반한다, 우리에게 달렸다\"",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:22:22.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jesús Colino",
-    "transfer": null
-   },
-   {
-    "id": "eef1e082febd",
-    "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
-    "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
-    "ko": "렌나르트 칼, 아틀레티코 뒷공간 파고들며 바이에른 승리 이끌어",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T22:28:08.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sid Lowe at the Estadio Metropolitano",
-    "transfer": null
-   },
-   {
-    "id": "7466048de970",
-    "url": "https://www.tz.de/sport/fc-bayern/bayern-schlaegt-atletico-karl-trifft-laimer-glaenzt-neuer-mit-rekord-zr-94572890.html",
-    "title": "Bayern-Duo mit der Bestnote, Kane fällt etwas ab: Einzelkritik zum Sieg bei Atlético",
-    "ko": "바이에른, 아틀레티코 원정 승리 선수 평점 정리, 케인은 다소 부진",
-    "source": "tz",
-    "publishedAt": "2026-11-03T22:30:34.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Vinzent Tschirpke",
-    "transfer": null
-   },
-   {
-    "id": "c3ed4449e9b8",
-    "url": "https://www.kicker.de/eine-absolute-meisterleistung-des-fc-bayern-1268291/video#omrss",
-    "title": "\"Eine absolute Meisterleistung des FC Bayern\"",
-    "ko": "\"바이에른의 절대적인 명승부\"라고 평가",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:45.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 7,
-  "sourceCount": 8,
-  "score": 6.11,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "michael-olise",
-   "harry-kane"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-02T15:25:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "\"Eine absolute Meisterleistung des FC Bayern\""
- },
- {
-  "slug": "neuer-injury",
-  "mode": "llm",
-  "titleKo": "노이어 통증 고백",
-  "createdAt": "2026-11-03T23:21:27.000Z",
-  "updatedAt": "2026-11-03T23:21:27.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "노이어"
-  ],
-  "sig": [
-   "habe",
-   "morgen",
-   "schmerzen",
-   "gehen"
-  ],
-  "articles": [
-   {
-    "id": "c55ca8f3a10c",
-    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
-    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
-    "ko": "노이어, 부상 공백기 솔직한 고백",
-    "source": "tz",
-    "publishedAt": "2026-11-03T22:59:23.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d264c16c5f1c",
-    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
-    "ko": "노이어, 오늘 아침에도 걸을 때 통증 있었다고 털어놔",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 2.98,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-03T22:59:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\""
- },
- {
-  "slug": "losc-bodo-glimt-2026-11-03",
-  "mode": "llm",
-  "titleKo": "릴 대 보되/글림트 챔피언스리그 경기",
-  "createdAt": "2026-11-03T12:11:49.000Z",
-  "updatedAt": "2026-11-03T23:17:40.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "lafc"
-  ],
-  "players": [
-   "잔루카 다비드",
-   "벤자맹 앙드레",
-   "외제르",
-   "무카우"
-  ],
-  "sig": [
-   "bodö",
-   "glimt",
-   "u19",
-   "losc",
-   "youth"
-  ],
-  "articles": [
-   {
-    "id": "88189dc2efbc",
-    "url": "https://www.lequipe.fr/Football/Article/Pres-de-20-heures-de-trajet-aller-retour-comment-les-supporters-de-lille-se-sont-organises-pour-se-rendre-a-bodo-au-nord-du-cercle-polaire-arctique/1740617#at_medium=RSS_feeds",
-    "title": "20 heures de trajet aller-retour, le périple des supporters lillois à Bodö",
-    "ko": "릴 서포터즈, 보되 원정 왕복 20시간 여정",
-    "source": "lequipe",
-    "publishedAt": "2026-11-02T21:12:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Gourdol",
-    "transfer": null
-   },
-   {
-    "id": "c26ab1a6fa5a",
-    "url": "https://www.lequipe.fr/Football/Article/Aucun-point-marque-en-trois-journees-un-deplacement-complique-a-bodo-lille-est-deja-dos-au-mur-en-ligue-des-champions/1740662#at_medium=RSS_feeds",
-    "title": "Aucun point marqué en trois journées, un déplacement compliqué à Bodö : Lille est déjà dos au mur en Ligue des champions",
-    "ko": "릴, 3경기 무득점…보되/글림트 원정 앞두고 벼랑 끝",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T06:18:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Gourdol",
-    "transfer": null
-   },
-   {
-    "id": "151ceb6418fc",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-bodo-glimt-lille-en-ligue-des-champions/1740509#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Bodö/Glimt-Lille en Ligue des champions ?",
-    "ko": "보되/글림트 대 릴, 챔피언스리그 중계 시간·채널 안내",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T07:10:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "24a28eb57d25",
-    "url": "https://www.lequipe.fr/Football/Actualites/Rapidement-pieges-sur-le-synthetique-de-bodo-glimt-les-u19-du-losc-concedent-leur-premiere-defaite-en-youth-league/1740775#at_medium=RSS_feeds",
-    "title": "Rapidement piégés sur le synthétique de Bodö/Glimt, les U19 du LOSC concèdent leur première défaite en Youth League",
-    "ko": "릴 U19, 보되/글림트 유스 대회서 첫 패배",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T12:11:49.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Gourdol",
-    "transfer": null
-   },
-   {
-    "id": "c931679cb40b",
-    "url": "https://www.lequipe.fr/Football/Actualites/L-entraineur-du-losc-davide-ancelotti-modifie-sa-defense-sur-la-pelouse-de-bodo-glimt-en-ligue-des-champions/1740889#at_medium=RSS_feeds",
-    "title": "L'entraîneur du LOSC Davide Ancelotti modifie sa défense sur la pelouse de Bodö/Glimt en Ligue des champions",
-    "ko": "데이비드 안첼로티, 릴 수비 변경 예고 보도",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T18:59:04.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Gourdol",
-    "transfer": null
-   },
-   {
-    "id": "1ec08cd0ef8c",
-    "url": "https://as.com/futbol/champions/bodo-glimt-lille-en-directo-champions-league-en-vivo-hoy-f202611-d/",
-    "title": "Bodo Glimt - Lille, en directo: Champions League, en vivo hoy",
-    "ko": "보되/글림트 대 릴 챔피언스리그 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-03T19:03:28.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Raúl Castro",
-    "transfer": null
-   },
-   {
-    "id": "5a807ee975cb",
-    "url": "https://www.lequipe.fr/Football/Actualites/Lille-marque-son-premier-point-face-a-bodo-glimt-mais-continue-de-pietiner-en-ligue-des-champions/1740942#at_medium=RSS_feeds",
-    "title": "Lille marque son premier point face à Bodö/Glimt mais continue de piétiner en Ligue des champions",
-    "ko": "릴, 보되/글림트전 첫 승점 획득하나 챔피언스리그 부진 지속",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T21:50:43.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Marius Veillerot",
-    "transfer": null
-   },
-   {
-    "id": "60a1affd0473",
-    "url": "https://as.com/futbol/champions/davide-resiste-en-el-infierno-noruego-f202611-n/",
-    "title": "Davide resiste en el infierno noruego",
-    "ko": "다비드, 노르웨이 지옥에서 버텨내",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:08:39.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "잔루카 다비드"
-    ],
-    "playerTags": [],
-    "author": "Andrés Onrubia",
-    "transfer": null
-   },
-   {
-    "id": "367c8199b683",
-    "url": "https://www.kicker.de/regenkampf-in-norwegen-bodoe-glimt-und-lille-schenken-sich-nichts-1268273/video#omrss",
-    "title": "Regenkampf in Norwegen: Bodö/Glimt und Lille schenken sich nichts",
-    "ko": "노르웨이 빗속 격돌, 보되/글림트와 릴 승점 나눠 가져",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T22:14:22.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2c4ee36e91fc",
-    "url": "https://www.lequipe.fr/Football/Actualites/Benjamin-andre-apres-le-nul-de-lille-a-bodo-glimt-on-va-avoir-des-matches-a-notre-portee-il-faudra-faire-carton-plein/1740955#at_medium=RSS_feeds",
-    "title": "Benjamin André après le nul de Lille à Bodö/Glimt : « On va avoir des matches à notre portée, il faudra faire carton plein »",
-    "ko": "벤자맹 앙드레, 보되/글림트 무승부 후 \"남은 경기 전승해야\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T22:19:39.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "벤자맹 앙드레"
-    ],
-    "playerTags": [],
-    "author": "Marius Veillerot",
-    "transfer": null
-   },
-   {
-    "id": "c8d2f313ae3f",
-    "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-apres-le-nul-de-lille-a-bodo-glimt-on-n-est-pas-condamnes/1740961#at_medium=RSS_feeds",
-    "title": "Davide Ancelotti, après le nul de Lille à Bodö/Glimt : « On n'est pas condamnés »",
-    "ko": "다비데 안첼로티, 릴의 보되/글림트전 무승부 후 '우리는 끝나지 않았다' 강조",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T22:39:58.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Marius Veillerot",
-    "transfer": null
-   },
-   {
-    "id": "898a9ad30904",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-bodo-glimt-lille-ozer-sur-ses-gardes-mukau-au-combat/1740968#at_medium=RSS_feeds",
-    "title": "Les notes de Bodö/Glimt-Lille : Özer sur ses gardes, Mukau au combat",
-    "ko": "보되/글림트-릴 평점: 외제르 신중, 무카우 분투",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T23:01:57.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "외제르",
-     "무카우"
-    ],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "8af0677de153",
-    "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-apres-le-nul-du-losc-a-bodo-en-ligue-des-champions-les-regrets-ne-sont-pas-aujourd-hui/1740971#at_medium=RSS_feeds",
-    "title": "Davide Ancelotti après le nul du LOSC à Bodö en Ligue des champions : «Les regrets ne sont pas aujourd'hui»",
-    "ko": "안첼로티 LOSC 감독, 보되/글림트 무승부 후 \"후회는 오늘이 아니다\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T23:17:40.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Gourdol",
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.75,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-02T21:12:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Davide Ancelotti après le nul du LOSC à Bodö en Ligue des champions : «Les regrets ne sont pas aujourd'hui»"
- },
- {
-  "slug": "sporting-qarabag-2026-11-03",
-  "mode": "llm",
-  "titleKo": "스포르팅 바쿠 원정 승리, 챔피언스리그 2라운드 근접",
-  "createdAt": "2026-11-03T16:44:00.000Z",
-  "updatedAt": "2026-11-03T23:14:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
   "players": [],
   "sig": [
-   "baku"
+   "rui",
+   "malheiro",
+   "nápoles"
   ],
   "articles": [
    {
-    "id": "50f25f0e4fc0",
-    "url": "https://www.record.pt/modalidades/voleibol/detalhe/sporting-vence-em-baku-e-fica-com-um-pe-na-2-ronda-da-champions",
-    "title": "Sporting vence em Baku e fica com um pé na 2.ª ronda da Champions",
-    "ko": "스포르팅, 바쿠 원정 승리로 챔피언스리그 2라운드 진출에 근접",
+    "id": "8eebe332126c",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-jovem-da-uefa/detalhe/jovens-do-fc-porto-preparados-para-muitas-transicoes-no-duelo-com-o-napoles",
+    "title": "Jovens do FC Porto preparados para muitas transições no duelo com o Nápoles",
+    "ko": "포르투 유망주들, 나폴리전 많은 전환 대비",
     "source": "record",
-    "publishedAt": "2026-11-03T16:44:00.000Z",
+    "publishedAt": "2026-11-03T18:15:52.000Z",
     "credited": null,
     "category": "match",
     "stage": null,
@@ -2091,14 +447,29 @@
     "transfer": null
    },
    {
-    "id": "1fa42e6139a6",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/sporting-com-95-3-de-chances-de-avancar-para-o-playoff-da-champions",
-    "title": "Sporting com 95.3% de chances de avançar para o playoff da Champions",
-    "ko": "스포르팅, 챔피언스리그 플레이오프 진출 가능성 95.3%",
+    "id": "26b150ec370c",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/analise-de-rui-malheiro-ao-napoles-o-guia-completo-para-conhecer-o-adversario-do-fc-porto",
+    "title": "Análise de Rui Malheiro ao Nápoles: o guia completo para conhecer o adversário do FC Porto",
+    "ko": "루이 말헤이루의 나폴리 분석, FC 포르투 상대 가이드",
     "source": "record",
-    "publishedAt": "2026-11-03T23:14:00.000Z",
-    "credited": null,
+    "publishedAt": "2026-11-03T18:32:00.000Z",
+    "credited": "루이 말헤이루",
     "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e1a6b8a29763",
+    "url": "https://www.record.pt/internacional/paises/italia/napoles/detalhe/psp-trava-tensao-entre-ultras-do-napoles-e-manifestantes-da-acampada-do-porto",
+    "title": "PSP trava tensão entre ultras do Nápoles e manifestantes da Acampada do Porto",
+    "ko": "포르투 경찰, 나폴리 울트라스와 포르투 시위대 간 긴장 관리",
+    "source": "record",
+    "publishedAt": "2026-11-03T23:48:00.000Z",
+    "credited": null,
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -2108,26 +479,25 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-03T16:44:00.000Z",
-   "viaQuote": false
+   "name": "루이 말헤이루",
+   "at": "2026-11-03T18:15:52.000Z",
+   "viaQuote": true
   },
-  "headline": "Sporting com 95.3% de chances de avançar para o playoff da Champions"
+  "headline": "PSP trava tensão entre ultras do Nápoles e manifestantes da Acampada do Porto"
  },
  {
   "slug": "de-miguel-incident",
   "mode": "llm",
   "titleKo": "데 미겔 사망 사고, 스페인축구협회 경기 연기",
   "createdAt": "2026-11-03T09:39:19.000Z",
-  "updatedAt": "2026-11-03T23:13:19.000Z",
+  "updatedAt": "2026-11-03T23:37:12.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3463,11 +1833,28 @@
     "playerTags": [],
     "author": "Kostas Lianos",
     "transfer": null
+   },
+   {
+    "id": "485a73a7c0c5",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+    "title": "Football world mourns Tenerife striker De Miguel",
+    "ko": "테네리페 스트라이커 데 미겔 사망에 축구계 애도",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T23:37:12.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데 미겔"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
-  "recentSources": 11,
+  "recentSources": 12,
   "sourceCount": 15,
-  "score": 3.13,
+  "score": 5.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3482,10 +1869,2163 @@
    "at": "2026-11-02T18:03:56.000Z",
    "viaQuote": false
   },
-  "headline": "Tenerife striker De Miguel dies after on-field collision",
+  "headline": "Football world mourns Tenerife striker De Miguel",
   "aliases": [
    "de-miguel-discipline"
   ]
+ },
+ {
+  "slug": "man-utd-roma-2026-11-03",
+  "mode": "llm",
+  "titleKo": "맨유 대 로마 챔피언스리그 경기",
+  "createdAt": "2026-11-03T13:40:08.000Z",
+  "updatedAt": "2026-11-03T23:34:52.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "roma",
+   "barcelona",
+   "aston-villa",
+   "chelsea"
+  ],
+  "players": [
+   "리산드로 마르티네스",
+   "마커스 래시포드",
+   "마르티네스",
+   "유리 틸레망스",
+   "세네 라멘스",
+   "세네 람메스",
+   "브루노 페르난데스",
+   "음뵈모",
+   "디오고 달롯",
+   "마테우스 쿠냐",
+   "셰이 레이시",
+   "쿠냐"
+  ],
+  "sig": [
+   "u19s",
+   "uefa",
+   "youth"
+  ],
+  "articles": [
+   {
+    "id": "ff1356b8f0e1",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34848272",
+    "title": "Every word Michael Carrick said in press conference ahead of Manchester United vs Roma",
+    "ko": "캐릭, 맨유 대 로마 경기 전 기자회견 전문",
+    "source": "men",
+    "publishedAt": "2026-11-02T14:41:20.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston, Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "7e1ece2e4fae",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss",
+    "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+    "ko": "캐릭, 로마전 앞두고 \"미친 일\" 말하지만 기대감 표명",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T16:00:07.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "eb23908d8a5b",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34851081",
+    "title": "Manchester United line-up vs Roma predicted as Carrick faced with Martinez conundrum",
+    "ko": "캐릭, 로마전 마르티네스 딜레마 속 맨유 선발 예상",
+    "source": "men",
+    "publishedAt": "2026-11-03T06:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "리산드로 마르티네스"
+    ],
+    "playerTags": [],
+    "author": "Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "afc15e7e5f91",
+    "url": "https://www.thesun.co.uk/sport/40884800/man-utd-roma-bet-builder-free-bets-paddy-power/",
+    "title": "Man Utd vs Roma: Our 8/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+    "ko": "맨유 대 로마 경기 배팅 팁과 무료 베팅 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-03T06:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "6175ac215215",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-latest-roma-34853445",
+    "title": "Nine players set to miss Man United vs Roma after Marcus Rashford injury update",
+    "ko": "래시포드 부상 업데이트 속 맨유, 로마전 9명 결장 예상",
+    "source": "men",
+    "publishedAt": "2026-11-03T06:21:00.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마커스 래시포드"
+    ],
+    "playerTags": [
+     "marcus-rashford"
+    ],
+    "author": "Mark Wakefield",
+    "transfer": null
+   },
+   {
+    "id": "8930c7893239",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34848284",
+    "title": "How Manchester United should line up vs Roma in Champions League",
+    "ko": "맨유는 로마전에서 어떤 라인업을 짜야 하나",
+    "source": "men",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Steven Railston, Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "0a729d89981c",
+    "url": "https://www.thesun.co.uk/sport/40882008/michael-carrick-man-utd-roma-predictions/",
+    "title": "Man Utd vs Roma | Champions League predictions, preview and free bets in must-win game for Michael Carrick",
+    "ko": "맨유 대 로마, 캐릭 감독에게 필승이 요구되는 챔피언스리그 경기 예상",
+    "source": "sun",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "5036dc7e62d2",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-u19s-vs-roma-34851435",
+    "title": "Manchester United U19s vs Roma LIVE updates and team news from UEFA Youth League fixture",
+    "ko": "맨유 U19, 유스 챔피언스리그서 로마와 격돌 실시간",
+    "source": "men",
+    "publishedAt": "2026-11-03T13:40:08.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "a60e15e1acbf",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roma-tv-channel-37835883",
+    "title": "How to watch Man Utd vs Roma - TV channel, live stream, kick-off time",
+    "ko": "맨유 대 로마 경기 중계 채널과 킥오프 시간",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T16:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Bayliss",
+    "transfer": null
+   },
+   {
+    "id": "ef85b294540a",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-tv-channel-34853839",
+    "title": "Is Man United vs Roma on TV? Channel, live stream and kick-off time",
+    "ko": "맨유 대 로마 경기 방송 채널과 생중계 및 킥오프 시간 안내",
+    "source": "men",
+    "publishedAt": "2026-11-03T16:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Abbie Meehan",
+    "transfer": null
+   },
+   {
+    "id": "1938fd7ebf84",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-roma-live-34857835",
+    "title": "Manchester United vs Roma LIVE: Early team news and how to watch crucial Champions League clash",
+    "ko": "맨유 대 로마 챔피언스리그 경기, 초반 선수 소식과 중계 정보",
+    "source": "men",
+    "publishedAt": "2026-11-03T16:41:17.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Steven Railston, Ross Jackson",
+    "transfer": null
+   },
+   {
+    "id": "b4f79d018e20",
+    "url": "https://www.skysports.com/football/manchester-united-vs-roma/live/577657",
+    "title": "Man Utd bench Martinez after red card vs Roma LIVE!",
+    "ko": "맨유, 로마전 퇴장 후 마르티네스 벤치行 (라이브)",
+    "source": "sky",
+    "publishedAt": "2026-11-03T18:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "리산드로 마르티네스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2301195c256c",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/20261103-143201-manchester-united-roma-em-direto",
+    "title": "Manchester United-Roma, em direto",
+    "ko": "맨유 대 로마, 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-03T18:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4dbfb50472e3",
+    "url": "https://www.thesun.co.uk/sport/40879746/man-utd-vs-roma-live-stream-free-how-to-watch/",
+    "title": "Man Utd vs Roma live stream FREE: How to watch crunch Champions League clash without paying a penny",
+    "ko": "맨유 대 로마 챔피언스리그 무료 시청 방법",
+    "source": "sun",
+    "publishedAt": "2026-11-03T18:50:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Connor Greaves",
+    "transfer": null
+   },
+   {
+    "id": "91699b8147ab",
+    "url": "https://www.hln.be/champions-league/live-21u-youri-tielemans-valt-opnieuw-naast-de-ploeg-bij-manchester-united-senne-lammens-start-wel~ae5b93d5/",
+    "title": "LIVE (21u). Youri Tielemans valt opnieuw naast de ploeg bij Manchester United, Senne Lammens start wél",
+    "ko": "튈레망스, 맨유 벤치행 낙점... 람멘스 선발 출전",
+    "source": "hln",
+    "publishedAt": "2026-11-03T18:51:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "유리 틸레망스",
+     "세네 라멘스"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "5dc020d7693f",
+    "url": "https://www.kicker.de/live-manunited-gegen-die-roma-unter-druck-barcelona-erwartet-aston-villa-1267884/artikel#omrss",
+    "title": "LIVE! ManUnited gegen die Roma unter Druck - Barcelona erwartet Aston Villa",
+    "ko": "맨유 대 로마 긴장 고조, 바르셀로나는 애스턴 빌라 맞이",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T19:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8184cd500ec0",
+    "url": "https://www.theguardian.com/football/live/2026/nov/03/manchester-united-v-roma-champions-league-live",
+    "title": "Manchester United v Roma: Champions League – live",
+    "ko": "맨유 대 로마 챔피언스리그 생중계",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T19:02:23.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Unwin",
+    "transfer": null
+   },
+   {
+    "id": "b5016257308c",
+    "url": "https://www.thesun.co.uk/sport/40897411/why-man-utd-black-armbands-roma-champions-league/",
+    "title": "Why are Man Utd players wearing black armbands against Roma in Champions League?",
+    "ko": "맨유 선수들, 챔피언스리그 로마전에 검은 완장 착용 이유",
+    "source": "sun",
+    "publishedAt": "2026-11-03T19:44:44.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alex Smith",
+    "transfer": null
+   },
+   {
+    "id": "89fc842b95e8",
+    "url": "https://www.thesun.co.uk/sport/40899926/why-man-utd-fans-green-gold-balloons-roma-protest/",
+    "title": "Why are Man Utd fans releasing green and gold balloons before Roma clash?",
+    "ko": "맨유 팬들, 로마전 앞두고 초록·금색 풍선 날리는 이유",
+    "source": "sun",
+    "publishedAt": "2026-11-03T19:48:44.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Connor Greaves",
+    "transfer": null
+   },
+   {
+    "id": "8ab8c2dcb0b7",
+    "url": "https://as.com/futbol/champions/manchester-united-roma-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Manchester United - Roma, en directo: Champions League, hoy en vivo",
+    "ko": "맨유 대 로마 챔피언스리그 경기 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-03T19:56:29.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Eduardo Burgos Rodríguez",
+    "transfer": null
+   },
+   {
+    "id": "243d1a414b6c",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-roma-glazers-protest-37839991",
+    "title": "Man Utd vs Roma Champions League game HALTED as fans stage protest against Glazers",
+    "ko": "맨유-로마 챔피언스리그 경기, 글레이저 구단주 반대 시위로 중단",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T20:02:21.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Scott Trotter",
+    "transfer": null
+   },
+   {
+    "id": "7e56008c328f",
+    "url": "https://www.hln.be/champions-league/live-in-de-hoek-waar-de-klappen-vallen-as-roma-heeft-dubbele-bonus-beet-tegen-senne-lammens-en-manchester-united~ae5b93d5/",
+    "title": "LIVE. In de hoek waar de klappen vallen: AS Roma heeft dubbele bonus beet tegen Senne Lammens en Manchester United",
+    "ko": "로마, 맨유 상대로 더블 보너스 챙긴다",
+    "source": "hln",
+    "publishedAt": "2026-11-03T20:20:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "세네 람메스"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "12bd1659a4fd",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-champions-league-34858797",
+    "title": "Man United get unanimous penalty verdict as players blasted as 'embarrassing' vs Roma",
+    "ko": "맨유, 로마전 만장일치 페널티 판정 속 선수단 혹평",
+    "source": "men",
+    "publishedAt": "2026-11-03T20:29:21.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Patrick Austen-Hardy",
+    "transfer": null
+   },
+   {
+    "id": "6a2d5bcd4b8e",
+    "url": "https://www.thesun.co.uk/sport/40901988/alan-shearer-slams-man-utd-roma-champions-league/",
+    "title": "Alan Shearer launches scathing rant against Man Utd as Old Trafford stunned into silence by disastrous start vs Roma",
+    "ko": "슈이어러, 맨유 로마전 부진에 날선 비판",
+    "source": "sun",
+    "publishedAt": "2026-11-03T20:30:37.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "eab5c41f182b",
+    "url": "https://www.thesun.co.uk/sport/40901028/old-trafford-leaks-champions-league-roma-man-utd/",
+    "title": "Old Trafford starts leaking before Champions League clash with Roma as Man Utd fans laugh at perfect metaphor",
+    "ko": "올드트래퍼드, 로마전 앞두고 조짐 불안",
+    "source": "sun",
+    "publishedAt": "2026-11-03T20:44:15.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kostas Lianos",
+    "transfer": null
+   },
+   {
+    "id": "63777c9a99c8",
+    "url": "https://www.thesun.co.uk/sport/40902697/diogo-dalot-man-utd-roma-error-champions-league/",
+    "title": "‘Generational stinker’ – Man Utd fans blast Diogo Dalot during Roma horror show and as Old Trafford ‘turns toxic’",
+    "ko": "맨유 팬들, 로마전 달롯 맹비난 — 올드트래퍼드 분위기 악화",
+    "source": "sun",
+    "publishedAt": "2026-11-03T20:44:45.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "디오고 달롯"
+    ],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   },
+   {
+    "id": "7d0de079a5e5",
+    "url": "https://www.espn.com/soccer/story/_/id/50329034/uefa-champions-league-live-updates-atletico-madrid-bayern-munich-manchester-united-roma-barcelona-aston-villa",
+    "title": "Champions League live updates: Roma strike twice past Man United, Barça lead Villa",
+    "ko": "로마, 챔피언스리그서 맨유에 두 골 앞서 — 바르사는 애스턴 빌라에 리드",
+    "source": "espn",
+    "publishedAt": "2026-11-03T21:03:33.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b626cafecf8a",
+    "url": "https://www.espn.com/soccer/story/_/id/50371059/lisandro-martinez-man-united-roma-dropped-red-card",
+    "title": "Martínez drops to Man United bench for Roma clash after struggles at Chelsea",
+    "ko": "마르티네스, 첼시 부진 뒤 로마전 맨유 벤치행",
+    "source": "espn",
+    "publishedAt": "2026-11-03T21:11:17.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "리산드로 마르티네스"
+    ],
+    "playerTags": [],
+    "author": "Rob Dawson",
+    "transfer": null
+   },
+   {
+    "id": "6b017b9926d9",
+    "url": "https://www.hln.be/champions-league/live-dat-kan-er-nog-wel-bij-voor-manchester-united-meteen-na-aansluitingstreffer-fernandes-raakt-mbeumo-beide-palen~ae5b93d5/",
+    "title": "LIVE. Dat kan er nog wel bij voor Manchester United: meteen na aansluitingstreffer Fernandes raakt Mbeumo beide palen",
+    "ko": "맨유 페르난데스 동점골 직후 음뵈모 골대 두 번 강타",
+    "source": "hln",
+    "publishedAt": "2026-11-03T21:19:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스",
+     "음뵈모"
+    ],
+    "playerTags": [
+     "bruno-fernandes",
+     "bryan-mbeumo"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "eb4c35ae5443",
+    "url": "https://www.kicker.de/matheus-cunha-laesst-old-trafford-beben-united-dreht-spiel-gegen-roma-1268265/video#omrss",
+    "title": "Matheus Cunha lässt Old Trafford beben: United dreht Spiel gegen Roma",
+    "ko": "마테우스 쿠냐 원더골 속 맨유, 로마전 역전승",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T21:52:11.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "09c81047f12d",
+    "url": "https://www.thesun.co.uk/sport/40904886/man-utd-roma-champions-league-carrick-mateus-cunha/",
+    "title": "Man Utd 3 Roma 2: Matheus Cunha inspires stunning comeback from 2-0 down that might just save Michael Carrick’s job",
+    "ko": "카메라 맨유, 로마에 2-0 뒤지다 쿠냐 활약으로 역전승",
+    "source": "sun",
+    "publishedAt": "2026-11-03T21:55:27.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "dafd6751bb89",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34858407",
+    "title": "Manchester United player ratings vs Roma as Matheus Cunha brilliant and Shea Lacey good",
+    "ko": "맨유 로마전 평점, 쿠냐 활약과 레이시 선전",
+    "source": "men",
+    "publishedAt": "2026-11-03T21:55:50.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐",
+     "셰이 레이시"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "7f6785154348",
+    "url": "https://www.hln.be/champions-league/van-0-2-naar-3-2-manchester-united-wendt-crisis-even-af-met-sensationele-comeback~ae5b93d5/",
+    "title": "Van 0-2 naar 3-2: Manchester United wendt crisis (even) af met sensationele comeback",
+    "ko": "0-2에서 3-2로, 맨유 위기 속 극적인 역전승",
+    "source": "hln",
+    "publishedAt": "2026-11-03T21:57:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "328136798a49",
+    "url": "https://www.hln.be/champions-league/we-moesten-niemands-job-redden-manchester-united-wendt-crisis-even-af-met-sensationele-comeback-kapitein-bruno-fernandes-bijt-van-zich-af~ae5b93d5/",
+    "title": "“We moesten niemands job redden”: Manchester United wendt crisis (even) af met sensationele comeback, kapitein Bruno Fernandes bijt van zich af",
+    "ko": "맨유, 극적 역전승으로 위기 탈출…브루노 페르난데스 항변",
+    "source": "hln",
+    "publishedAt": "2026-11-03T21:57:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "bb54c2a5d809",
+    "url": "https://www.hln.be/champions-league/er-zijn-veel-leugens-verspreid-spelers-van-manchester-united-bijten-van-zich-af-na-sensationele-comeback-tegen-as-roma-crisis-even-afgewend~ae5b93d5/",
+    "title": "“Er zijn veel leugens verspreid”: spelers van Manchester United bijten van zich af na sensationele comeback tegen AS Roma, crisis even afgewend",
+    "ko": "맨유 선수들, 로마전 역전승 후 루머 반박",
+    "source": "hln",
+    "publishedAt": "2026-11-03T21:57:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "ba51a49d5aaa",
+    "url": "https://www.nytimes.com/athletic/7741817/2026/11/03/man-utd-roma-carrick-dalot/",
+    "title": "Matheus Cunha with two late goals and red as Man United secure miraculous comeback win over Roma",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-03T21:57:19.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "33989b94d0d6",
+    "url": "https://www.thesun.co.uk/sport/40905903/matheus-cunha-red-card-man-utd-roma-champions-league/",
+    "title": "Matheus Cunha sent off and denied standing ovation minutes after last-gasp double inspires Man Utd turnaround vs Roma",
+    "ko": "쿠냐 퇴장 후 기립박수 거부, 맨유 로마전 역전 견인",
+    "source": "sun",
+    "publishedAt": "2026-11-03T21:58:33.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   },
+   {
+    "id": "8738ac2904d7",
+    "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657",
+    "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
+    "ko": "쿠냐, 로마 상대 두 골 뒤진 맨유 극적 역전승 이끌어",
+    "source": "sky",
+    "publishedAt": "2026-11-03T22:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7268a94f40a8",
+    "url": "https://www.thesun.co.uk/sport/40901086/man-utd-ratings-roma-cunha-carrick/",
+    "title": "Man Utd ratings: Diogo Dalot has another rotten outing but Matheus Cunha puts on attacking masterclass despite red card",
+    "ko": "맨유 평점: 쿠냐 퇴장에도 공격 장인 활약",
+    "source": "sun",
+    "publishedAt": "2026-11-03T22:03:56.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐",
+     "디오고 달롯"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Katherine Walsh",
+    "transfer": null
+   },
+   {
+    "id": "ef229814022a",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-miracle-de-manchester-mene-de-deux-buts-par-la-roma-united-renverse-tout-et-se-donne-de-l-air/1740950#at_medium=RSS_feeds",
+    "title": "Le miracle de Manchester : mené de deux buts par la Roma, United renverse tout et se donne de l'air",
+    "ko": "맨유, 로마에 두 골 뒤지다 극적 역전",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T22:05:43.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "ee7ba89d8590",
+    "url": "https://www.theguardian.com/football/2026/nov/03/manchester-united-roma-champions-league-match-report",
+    "title": "Manchester United produce comeback for the ages as Cunha double floors Roma",
+    "ko": "맨유, 쿠냐 멀티골로 로마 상대 역대급 역전극",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T22:11:04.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "David Hytner at Old Trafford",
+    "transfer": null
+   },
+   {
+    "id": "1d25801e5282",
+    "url": "https://as.com/futbol/internacional/cunha-obra-el-milagro-f202611-n/",
+    "title": "Cunha obra el milagro",
+    "ko": "쿠냐, 로마 상대 더블로 기적 같은 역전 이끌어",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:22:28.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Xavi Heras",
+    "transfer": null
+   },
+   {
+    "id": "b5ebcf3c5e05",
+    "url": "https://www.thesun.co.uk/sport/40906320/bruno-fernandes-swears-man-utd-gabby-logan-apologises-roma/",
+    "title": "Gabby Logan forced to apologise as Bruno Fernandes swears on live TV after Man Utd’s epic comeback win over Roma",
+    "ko": "브루노 페르난데스, 로마전 극적 역전승 후 생중계서 욕설 논란",
+    "source": "sun",
+    "publishedAt": "2026-11-03T22:26:22.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "877430594a77",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carricks-full-time-reaction-34858404",
+    "title": "Michael Carrick's full-time reaction showed he was the only one thinking clearly amid Man United chaos vs Roma",
+    "ko": "캐릭, 맨유 로마전 혼란 속 경기 후 반응이 가장 차분했다는 평가",
+    "source": "men",
+    "publishedAt": "2026-11-03T22:30:23.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "a054296b154d",
+    "url": "https://www.kicker.de/aus-0-2-mach-3-2-doppelpacker-matheus-cunha-laesst-united-jubeln-1268283/video#omrss",
+    "title": "Aus 0:2 mach 3:2: Doppelpacker Matheus Cunha lässt United jubeln",
+    "ko": "쿠냐 2골, 맨유 0-2 열세서 3-2 역전승 견인",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T22:38:34.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "548c02ad4043",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-manchester-united-turned-corner-34859051",
+    "title": "Poll: Have Manchester United turned a corner under Michael Carrick after special Roma comeback?",
+    "ko": "캐릭 체제의 맨유, 로마전 극적 역전으로 전환점 맞았나 여론조사",
+    "source": "men",
+    "publishedAt": "2026-11-03T22:40:53.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Jackson",
+    "transfer": null
+   },
+   {
+    "id": "123b6c909313",
+    "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-manchester-united-roma-37840293",
+    "title": "Bruno Fernandes slams 'lies' in foul-mouthed rant after Man Utd's dramatic Roma comeback",
+    "ko": "브루노 페르난데스, 로마전 역전 후 욕설 섞인 발언으로 '거짓말' 비판",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T22:46:51.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Nathan Ridley",
+    "transfer": null
+   },
+   {
+    "id": "7164ee026d13",
+    "url": "https://as.com/futbol/videos/resumen-y-goles-del-manchester-uniteds-vs-roma-jornada-4-de-la-champions-league-26-27-f202611-v/",
+    "title": "Resumen y goles del Manchester United vs Roma, jornada 4 de la Champions League 26-27",
+    "ko": "맨유, 로마전 경기 요약 및 득점 장면",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:52:01.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Movistar +",
+    "transfer": null
+   },
+   {
+    "id": "1045695f9b7c",
+    "url": "https://www.skysports.com/watch/video/13607712/manchester-united-3-2-roma-michael-carrick-proud-of-players-after-champions-league-comeback",
+    "title": "'An important win for us' - Carrick 'proud' of players after CL comeback",
+    "ko": "캐릭 \"우리에게 중요한 승리\"…챔피언스리그 역전 후 선수들에 자부심",
+    "source": "sky",
+    "publishedAt": "2026-11-03T23:09:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3a8010ccf524",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
+    "title": "Man Utd beat Roma - the other great Champions League comebacks",
+    "ko": "맨유, 로마 꺾은 챔피언스리그 명승부 되짚어",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T23:25:20.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fe7dbbaf0f3e",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-thinking-after-34859062",
+    "title": "What Michael Carrick was thinking after Manchester United's Champions League comeback vs Roma",
+    "ko": "캐릭, 맨유의 로마 상대 챔피언스리그 역전승 후 심경",
+    "source": "men",
+    "publishedAt": "2026-11-03T23:34:52.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   }
+  ],
+  "recentSources": 13,
+  "sourceCount": 13,
+  "score": 11.44,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "marcus-rashford",
+   "bruno-fernandes",
+   "bryan-mbeumo",
+   "matheus-cunha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-02T14:41:20.000Z",
+   "viaQuote": false
+  },
+  "headline": "Man Utd beat Roma - the other great Champions League comebacks"
+ },
+ {
+  "slug": "carrick-cunha-relationship",
+  "mode": "llm",
+  "titleKo": "쿠냐, 캐릭과 경기 중 언쟁 논란",
+  "createdAt": "2026-11-03T22:08:28.000Z",
+  "updatedAt": "2026-11-03T23:27:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "마테우스 쿠냐",
+   "쿠냐"
+  ],
+  "sig": [
+   "matheus",
+   "cunha",
+   "michael",
+   "carrick"
+  ],
+  "articles": [
+   {
+    "id": "61e94926bae5",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roma-carrick-cunha-34859044",
+    "title": "Man United hero Matheus Cunha fumes after exchanging words with Michael Carrick on pitch",
+    "ko": "커닝햄, 캐릭과 그라운드에서 말다툼 후 분노",
+    "source": "men",
+    "publishedAt": "2026-11-03T22:08:28.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "마테우스 쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Patrick Austen-Hardy",
+    "transfer": null
+   },
+   {
+    "id": "9b808bd285a2",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/matheus-cunha-man-utd-roma-34859093",
+    "title": "Matheus Cunha faces extra Champions League ban for breaking rules straight after Man United win",
+    "ko": "쿠냐, 맨유 승리 직후 규정 위반으로 챔피언스리그 추가 출장정지 가능성",
+    "source": "men",
+    "publishedAt": "2026-11-03T23:04:23.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": "Mark Wakefield",
+    "transfer": null
+   },
+   {
+    "id": "2f9aa411e60f",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/matheus-cunha-furioso-avancado-do-man-united-queria-festejar-mas-carrick-mandou-o-para-o-balneario",
+    "title": "Matheus Cunha furioso: avançado do Man. United queria festejar mas Carrick mandou-o para o balneário",
+    "ko": "쿠냐, 경기 후 세리머니 중 캐릭에게 제지당해 라커룸으로 보내져",
+    "source": "record",
+    "publishedAt": "2026-11-03T23:27:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "쿠냐"
+    ],
+    "playerTags": [
+     "matheus-cunha"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.55,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "matheus-cunha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-03T22:08:28.000Z",
+   "viaQuote": false
+  },
+  "headline": "Matheus Cunha furioso: avançado do Man. United queria festejar mas Carrick mandou-o para o balneário"
+ },
+ {
+  "slug": "villarreal-psg-2026-11-03",
+  "mode": "llm",
+  "titleKo": "빌라레알 대 PSG 챔피언스리그 경기",
+  "createdAt": "2026-11-02T21:28:05.000Z",
+  "updatedAt": "2026-11-03T23:23:40.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "psg",
+   "real-madrid"
+  ],
+  "players": [
+   "나탕 살리바",
+   "나단 살리바",
+   "게오르그 미카우타제",
+   "루카스 에르난데스",
+   "파비앙 루이스",
+   "파비앵 루이즈",
+   "에르난데스"
+  ],
+  "sig": [
+   "villarreal",
+   "ligue"
+  ],
+  "articles": [
+   {
+    "id": "d8629b11671a",
+    "url": "https://www.lequipe.fr/Football/Actualites/Incertain-nathan-saliba-devrait-debuter-avec-villarreal-contre-le-psg-tout-comme-georges-mikautadze/1740690#at_medium=RSS_feeds",
+    "title": "Incertain, Nathan Saliba devrait débuter avec Villarreal contre le PSG, tout comme Georges Mikautadze",
+    "ko": "나단 살리바, 부상 우려 속 비야레알 선발 출전 예정",
+    "source": "lequipe",
+    "publishedAt": "2026-11-02T21:10:35.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "나단 살리바",
+     "게오르그 미카우타제"
+    ],
+    "playerTags": [
+     "william-saliba"
+    ],
+    "author": "Régis Dupont",
+    "transfer": null
+   },
+   {
+    "id": "26080b66be3c",
+    "url": "https://www.lequipe.fr/Football/Actualites/Deux-incertitudes-majeures-dans-le-onze-du-psg-pour-le-deplacement-a-villarreal-en-ligue-des-champions/1740694#at_medium=RSS_feeds",
+    "title": "Deux incertitudes majeures dans le onze du PSG pour le déplacement à Villarreal en Ligue des champions",
+    "ko": "PSG 비야레알 원정 선발 라인업 불확실성 두 가지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-02T21:28:05.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Dupont",
+    "transfer": null
+   },
+   {
+    "id": "3983ccb7564d",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-villarreal-psg-en-ligue-des-champions/1740504#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Villarreal-PSG en Ligue des champions ?",
+    "ko": "비야레알 대 PSG, 챔피언스리그 중계 시간·채널 안내",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "efef42504536",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-sechement-battu-a-villarreal-pour-la-4e-journee-de-youth-league/1740805#at_medium=RSS_feeds",
+    "title": "Le PSG sèchement battu à Villarreal pour la 4e journée de Youth League",
+    "ko": "PSG, 유스리그 빌라레알 원정서 완패",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T14:22:37.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José Barroso",
+    "transfer": null
+   },
+   {
+    "id": "65209551cd50",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/villarreal-psg-em-direto",
+    "title": "Villarreal-PSG, em direto",
+    "ko": "비야레알 대 PSG, 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-03T18:25:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a90f58592af1",
+    "url": "https://www.lequipe.fr/Football/Actualites/Senny-mayulu-en-pointe-lucas-hernandez-dans-le-couloir-gauche-la-composition-du-psg-contre-villarreal-en-ligue-des-champions/1740888#at_medium=RSS_feeds",
+    "title": "Senny Mayulu en pointe, Lucas Hernandez dans le couloir gauche : la composition du PSG contre Villarreal en Ligue des champions",
+    "ko": "PSG, 비야레알전 선발 라인업 공개",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T18:55:06.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "루카스 에르난데스"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "eec1468dbb8c",
+    "url": "https://as.com/futbol/champions/villarreal-psg-en-directo-uefa-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Villarreal - PSG en directo: UEFA Champions League hoy, en vivo",
+    "ko": "비야레알 대 PSG 챔피언스리그 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-03T19:05:03.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Marcos Verdasco",
+    "transfer": null
+   },
+   {
+    "id": "4b8149fdcbc6",
+    "url": "https://www.lequipe.fr/Football/Actualites/Villarreal-psg-dans-un-contexte-particulier-apres-la-mort-de-jesus-de-miguel-et-la-catastrophe-ferroviaire-en-espagne/1740895#at_medium=RSS_feeds",
+    "title": "Villarreal-PSG dans un contexte particulier après la mort de Jesus de Miguel et la catastrophe ferroviaire en Espagne",
+    "ko": "데 미겔 사망과 스페인 철도 참사 속 비야레알-PSG전",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T19:10:03.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Dupont",
+    "transfer": null
+   },
+   {
+    "id": "23f3b324169e",
+    "url": "https://www.kicker.de/0-4-nach-17-minuten-villarreal-fans-winken-mit-dem-taschentuch-1268229/video#omrss",
+    "title": "0:4 nach 17 Minuten: Villarreal-Fans winken mit dem Taschentuch",
+    "ko": "빌라리얼 팬들, 전반 17분 0-4 상황에 손수건 흔들어",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T20:23:46.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "45681e670c5b",
+    "url": "https://www.lequipe.fr/Football/Actualites/Quatre-buts-en-huit-minutes-l-incroyable-entame-du-psg-contre-villarreal-en-video/1740919#at_medium=RSS_feeds",
+    "title": "Quatre buts en huit minutes : l'incroyable entame du PSG contre Villarreal en vidéo",
+    "ko": "PSG, 비야레알전 전반 8분 만에 4골 폭발",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T20:36:04.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "1632eb43505a",
+    "url": "https://www.lequipe.fr/Football/Actualites/Les-chiffres-de-la-folle-entame-du-paris-saint-germain-contre-villarreal-en-ligue-des-champions/1740920#at_medium=RSS_feeds",
+    "title": "Les chiffres de la folle entame du Paris Saint-Germain contre Villarreal en Ligue des champions",
+    "ko": "PSG, 비야레알 상대 미친 시작의 기록 정리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T20:40:38.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "2b188e7cd594",
+    "url": "https://www.kicker.de/real-rekord-geknackt-psg-schreibt-champions-league-geschichte-1268234/artikel#omrss",
+    "title": "Real-Rekord geknackt: PSG schreibt Champions-League-Geschichte",
+    "ko": "PSG, 챔피언스리그 역사 새로 써 — 레알 기록 경신",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T20:57:09.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b57139517435",
+    "url": "https://www.lequipe.fr/Football/Actualites/En-demonstration-sur-la-pelouse-de-villarreal-le-psg-realise-un-festival-offensif-et-conserve-la-tete-de-la-phase-de-ligue-de-la-ligue-des-champions/1740943#at_medium=RSS_feeds",
+    "title": "En démonstration sur la pelouse de Villarreal, le PSG réalise un festival offensif et conserve la tête de la phase de ligue de la Ligue des champions",
+    "ko": "PSG, 비야레알 원정서 대승하며 리그 페이즈 선두 유지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T21:53:55.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "ded1f7db51b0",
+    "url": "https://as.com/futbol/videos/resumen-y-goles-del-villarreal-vs-psg-jornada-4-de-la-champions-league-26-27-f202611-v/",
+    "title": "Resumen y goles del Villarreal vs PSG, jornada 4 de la Champions League 26-27",
+    "ko": "빌라레알 대 PSG 챔피언스리그 경기 결과와 득점 정리",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:09:57.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Movistar +",
+    "transfer": null
+   },
+   {
+    "id": "06359cfad5c5",
+    "url": "https://www.lequipe.fr/Football/Actualites/Fabian-ruiz-apres-la-large-victoire-du-psg-sur-la-pelouse-de-villarreal-je-ne-dirais-pas-que-nous-sommes-plus-forts-que-l-an-dernier/1740958#at_medium=RSS_feeds",
+    "title": "Fabian Ruiz, après la large victoire du PSG sur la pelouse de Villarreal : « Je ne dirais pas que nous sommes plus forts que l'an dernier »",
+    "ko": "파비앙 루이스, 지난해보다 강해졌다는 말은 아껴",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T22:22:52.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "파비앙 루이스"
+    ],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "d1f35a08ec2c",
+    "url": "https://www.kicker.de/historischer-start-psg-schraubt-das-gelbe-u-boot-auseinander-1268276/video#omrss",
+    "title": "Historischer Start: PSG schraubt das Gelbe U-Boot auseinander",
+    "ko": "PSG, 비야레알 대파하며 역사적 출발",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T22:23:32.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "45f572124510",
+    "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-apres-le-carton-du-psg-sur-la-pelouse-de-villarreal-nous-ne-sommes-pas-encore-champions-ni-en-finale-a-madrid/1740959#at_medium=RSS_feeds",
+    "title": "Luis Enrique, après le carton du PSG sur la pelouse de Villarreal : « Nous ne sommes pas encore champions, ni en finale à Madrid »",
+    "ko": "루이스 엔리케, PSG 빌라레알 대승 후 '아직 우승 아니다' 신중",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T22:32:31.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Loïc Tanzi",
+    "transfer": null
+   },
+   {
+    "id": "d298db1eeaaa",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/jorge-jesus-esteve-em-villarreal-a-ver-a-goleada-do-paris-sg",
+    "title": "Jorge Jesus esteve em Villarreal a ver a goleada do Paris SG",
+    "ko": "조르즈 제수스, 빌라레알 대 PSG 경기 현장 관전",
+    "source": "record",
+    "publishedAt": "2026-11-03T22:41:56.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "16ec9f86210a",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-villarreal-psg-fabian-ruiz-frole-l-excellence-akliouche-prend-de-l-epaisseur/1740965#at_medium=RSS_feeds",
+    "title": "Les notes de Villarreal-PSG",
+    "ko": "빌라레알-PSG 선수 평점",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T22:58:09.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Dupont",
+    "transfer": null
+   },
+   {
+    "id": "6702a289d417",
+    "url": "https://www.lequipe.fr/Football/Actualites/Fabian-ruiz-apres-la-large-victoire-du-psg-sur-la-pelouse-de-villarreal-en-ligue-des-champions-on-a-toujours-cette-envie-de-gagner/1740972#at_medium=RSS_feeds",
+    "title": "Fabian Ruiz après la large victoire du PSG sur la pelouse de Villarreal en Ligue des champions : « On a toujours cette envie de gagner »",
+    "ko": "파비앵 루이즈, 빌라레알전 대승 후 \"여전히 이기고 싶은 마음\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T23:18:11.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "파비앵 루이즈"
+    ],
+    "playerTags": [],
+    "author": "Loïc Tanzi",
+    "transfer": null
+   },
+   {
+    "id": "b04d561fefb5",
+    "url": "https://www.lequipe.fr/Football/Actualites/Lucas-hernandez-repond-a-une-question-sur-la-concurrence-avec-nuno-mendes-apres-villarreal-psg-nuno-c-est-nuno/1740975#at_medium=RSS_feeds",
+    "title": "Lucas Hernandez répond à une question sur la concurrence avec Nuno Mendes après Villarreal-PSG : « Nuno, c'est Nuno... »",
+    "ko": "에르난데스, 빌라레알전 후 누노 멘데스와의 경쟁 질문에 답변",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T23:23:40.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에르난데스"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 2.9,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "william-saliba"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-02T21:10:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Lucas Hernandez répond à une question sur la concurrence avec Nuno Mendes après Villarreal-PSG : « Nuno, c'est Nuno... »"
+ },
+ {
+  "slug": "atletico-bayern-2026-11-03",
+  "mode": "llm",
+  "titleKo": "아틀레티코 대 바이에른 챔피언스리그 경기",
+  "createdAt": "2026-11-03T13:40:01.000Z",
+  "updatedAt": "2026-11-03T23:21:45.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "atletico",
+   "bayern",
+   "real-madrid"
+  ],
+  "players": [
+   "마이클 올리세",
+   "마누엘 노이어",
+   "해리 케인"
+  ],
+  "sig": [
+   "bayerns",
+   "kracher",
+   "omen"
+  ],
+  "articles": [
+   {
+    "id": "9cced5b39cd8",
+    "url": "https://www.tz.de/sport/fc-bayern/an-der-grenze-des-erlaubten-atletico-kommt-fuer-den-fc-bayern-zur-unzeit-94570483.html",
+    "title": "An der Grenze des Erlaubten: Atletico kommt für den FC Bayern zur Unzeit",
+    "ko": "아틀레티코, 바이에른 상대로 한계선 위 플레이 논란",
+    "source": "tz",
+    "publishedAt": "2026-11-02T15:25:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   },
+   {
+    "id": "9eb7f0cf8986",
+    "url": "https://www.tz.de/sport/fc-bayern/atletico-trainer-simeone-mit-ueberraschendem-gestaendnis-vor-bayern-duell-94570613.html",
+    "title": "Atletico-Trainer Simeone mit überraschendem Geständnis vor Bayern-Duell",
+    "ko": "시메오네, 바이에른전 앞두고 깜짝 고백",
+    "source": "tz",
+    "publishedAt": "2026-11-02T16:06:13.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   },
+   {
+    "id": "f02abd5a0f99",
+    "url": "https://www.thesun.co.uk/sport/40880481/atletico-bayern-munich-free-bets-tips/",
+    "title": "Atletico vs Bayern Munich: Get £50 in free bets, plus our 12/1 Bet Builder tips | Sky Bet",
+    "ko": "아틀레티코 대 바이에른, 베팅 예상과 무료 베팅 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-03T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "466e07b4e7b6",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-bayern-munich/1740579#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Atlético Madrid-Bayern Munich",
+    "ko": "아틀레티코 마드리드 대 바이에른 뮌헨 경기 중계 시간·채널 안내",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T07:40:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "79cc6fc21cb7",
+    "url": "https://www.tz.de/sport/fc-bayern/schiedsrichter-letixier-leitet-cl-kracher-zwischen-atletico-und-bayern-zr-94571485.html",
+    "title": "Schiedsrichter für Bayerns CL-Kracher bei Atletico verspricht schlechtes Omen",
+    "ko": "바이에른 챔피언스리그 아틀레티코전 심판 배정, 불길한 징조 우려",
+    "source": "tz",
+    "publishedAt": "2026-11-03T09:41:36.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Adrian Rehling",
+    "transfer": null
+   },
+   {
+    "id": "e70550681a54",
+    "url": "https://www.tz.de/sport/fc-bayern/ungleiches-trainer-duell-in-madrid-feuer-und-eis-treffen-aufeinander-94572042.html",
+    "title": "Ungleiches Trainer-Duell in Madrid: englische Coolness vs. argentinischer Vulkan",
+    "ko": "마드리드 감독 대결, 영국식 침착함 대 아르헨티나식 열정",
+    "source": "tz",
+    "publishedAt": "2026-11-03T13:30:54.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dfab1009bc27",
+    "url": "https://as.com/futbol/champions/atletico-bayern-en-directo-jornada-4-de-fase-liga-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Atlético - Bayern, en directo: jornada 4 de fase liga, Champions League, hoy, en vivo",
+    "ko": "아틀레티코 대 바이에른, 챔피언스리그 4라운드 실시간",
+    "source": "as",
+    "publishedAt": "2026-11-03T13:40:01.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alejandro Soto",
+    "transfer": null
+   },
+   {
+    "id": "d603c4b63963",
+    "url": "https://www.tz.de/sport/fc-bayern/atletico-madrid-gegen-fc-bayern-im-liveticker-rumpf-fcb-vor-mammutaufgabe-zr-94572388.html",
+    "title": "Atletico gegen den FC Bayern: Münchner Rumpftruppe vor größter CL-Herausforderung",
+    "ko": "바이에른 원정 앞둔 아틀레티코, 뮌헨 측 전력 부족 속 최대 시험대",
+    "source": "tz",
+    "publishedAt": "2026-11-03T15:26:50.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Maximilian Bohne",
+    "transfer": null
+   },
+   {
+    "id": "014f58a61522",
+    "url": "https://www.kicker.de/brown-karl-oder-beide-was-in-madrid-fuer-welchen-bayern-profi-spricht-1268026/artikel#omrss",
+    "title": "Brown, Karl oder beide? Was in Madrid für welchen Bayern-Profi spricht",
+    "ko": "바이에른, 브라운과 카를 중 누구를 기용할지 마드리드 경기 관련 논의",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T17:30:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d24a0f8ea78d",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/atletico-madrid-bayern-em-direto",
+    "title": "Atlético Madrid-Bayern, em direto",
+    "ko": "아틀레티코 대 바이에른, 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-03T18:40:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "32438e7f7ae1",
+    "url": "https://www.kicker.de/live-fc-bayern-gastiert-mit-karl-olise-und-rueckkehrer-neuer-bei-atletico-1267395/artikel#omrss",
+    "title": "LIVE! FC Bayern gastiert mit Karl, Olise und Rückkehrer Neuer bei Atletico",
+    "ko": "바이에른, 아틀레티코 원정에 카를·올리세·노이어 동행",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T18:50:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마이클 올리세",
+     "마누엘 노이어"
+    ],
+    "playerTags": [
+     "michael-olise"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "53c9931ce4b8",
+    "url": "https://www.kicker.de/live-atletico-agiert-sehr-unsauber-kane-laesst-naechste-moeglichkeit-liegen-1267395/artikel#omrss",
+    "title": "LIVE! Atletico agiert sehr unsauber - Kane lässt nächste Möglichkeit liegen",
+    "ko": "아틀레티코 부정확한 플레이, 케인 찬스 또 무산",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T20:37:17.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4c5f355a2c50",
+    "url": "https://www.kicker.de/live-ballklau-tor-und-deutlicher-jubel-von-karl-wie-reagiert-atletico-auf-den-rueckstand-1267395/artikel#omrss",
+    "title": "LIVE! Ballklau, Tor und deutlicher Jubel von Karl - Wie reagiert Atletico auf den Rückstand?",
+    "ko": "아틀레티코, 실점 이후 반응은? 경기 라이브",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T21:22:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b2d5b9ef5932",
+    "url": "https://www.hln.be/champions-league/bayern-munchen-te-sterk-voor-atletico-madrid-feyenoord-fans-schieten-vuurpijlen-van-buiten-stadion~a3425e1e/",
+    "title": "Bayern München te sterk voor Atlético Madrid - Feyenoord-fans schieten vuurpijlen van buiten stadion",
+    "ko": "바이에른, 아틀레티코 꺾어…페예노르트 팬 경기장 밖 폭죽",
+    "source": "hln",
+    "publishedAt": "2026-11-03T21:50:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "66d557373c1e",
+    "url": "https://as.com/futbol/champions/1x1-del-atletico-mucho-bayern-y-muy-poca-respuesta-f202611-n/",
+    "title": "1x1 del Atlético: mucho Bayern y muy poca respuesta",
+    "ko": "아틀레티코 선수 평점, 바이에른에 밀린 반응 부족",
+    "source": "as",
+    "publishedAt": "2026-11-03T21:53:38.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jesús Colino",
+    "transfer": null
+   },
+   {
+    "id": "bcbc99bcb092",
+    "url": "https://www.kicker.de/karl-tor-und-laimer-knaller-fc-bayern-gewinnt-bei-atletico-1267395/artikel#omrss",
+    "title": "Karl-Tor und Laimer-Knaller: FC Bayern gewinnt bei Atletico",
+    "ko": "바이에른, 라이머 활약 앞세워 아틀레티코 원정 승리",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T21:55:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8a4260402a9a",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-bayern-munich-l-emporte-logiquement-sur-le-terrain-de-l-atletico-de-madrid-harry-kane-passeur-decisif/1740945#at_medium=RSS_feeds",
+    "title": "Le Bayern Munich l'emporte logiquement sur le terrain de l'Atlético de Madrid, Harry Kane passeur décisif",
+    "ko": "바이에른, 아틀레티코 원정서 승리, 케인 결정적 도움",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T21:56:38.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Thomas Doucet",
+    "transfer": null
+   },
+   {
+    "id": "9cbc63db3558",
+    "url": "https://as.com/opinion/el-bayern-baja-al-atletico-a-la-tierra-f202611-n/",
+    "title": "El Bayern baja al Atlético a la tierra",
+    "ko": "바이에른, 아틀레티코를 상대로 격차 과시",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:00:21.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "F.J. Díaz",
+    "transfer": null
+   },
+   {
+    "id": "318cd00a5bd7",
+    "url": "https://as.com/futbol/champions/un-equipazo-toma-el-metropolitano-f202611-n/",
+    "title": "Un equipazo toma el Metropolitano",
+    "ko": "메트로폴리타노를 채운 멋진 팀",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:13:19.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Patricia Cazón",
+    "transfer": null
+   },
+   {
+    "id": "edaf9b8248bf",
+    "url": "https://as.com/futbol/champions/simeone-el-futbol-esta-basado-en-errores-depende-de-nosotros-f202611-n/",
+    "title": "Simeone: “El fútbol está basado en errores, depende de nosotros”",
+    "ko": "시메오네 \"축구는 실수에 기반한다, 우리에게 달렸다\"",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:22:22.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jesús Colino",
+    "transfer": null
+   },
+   {
+    "id": "eef1e082febd",
+    "url": "https://www.theguardian.com/football/2026/nov/03/atletico-madrid-bayern-munich-champions-league-match-report",
+    "title": "Lennart Karl steals in behind Atlético Madrid to inspire Bayern Munich win",
+    "ko": "렌나르트 칼, 아틀레티코 뒷공간 파고들며 바이에른 승리 이끌어",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T22:28:08.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sid Lowe at the Estadio Metropolitano",
+    "transfer": null
+   },
+   {
+    "id": "7466048de970",
+    "url": "https://www.tz.de/sport/fc-bayern/bayern-schlaegt-atletico-karl-trifft-laimer-glaenzt-neuer-mit-rekord-zr-94572890.html",
+    "title": "Bayern-Duo mit der Bestnote, Kane fällt etwas ab: Einzelkritik zum Sieg bei Atlético",
+    "ko": "바이에른, 아틀레티코 원정 승리 선수 평점 정리, 케인은 다소 부진",
+    "source": "tz",
+    "publishedAt": "2026-11-03T22:30:34.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   },
+   {
+    "id": "c3ed4449e9b8",
+    "url": "https://www.kicker.de/eine-absolute-meisterleistung-des-fc-bayern-1268291/video#omrss",
+    "title": "\"Eine absolute Meisterleistung des FC Bayern\"",
+    "ko": "\"바이에른의 절대적인 명승부\"라고 평가",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:45.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 7,
+  "sourceCount": 8,
+  "score": 5.44,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "michael-olise",
+   "harry-kane"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-02T15:25:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "\"Eine absolute Meisterleistung des FC Bayern\""
+ },
+ {
+  "slug": "neuer-injury",
+  "mode": "llm",
+  "titleKo": "노이어 통증 고백",
+  "createdAt": "2026-11-03T23:21:27.000Z",
+  "updatedAt": "2026-11-03T23:21:27.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "노이어"
+  ],
+  "sig": [
+   "habe",
+   "morgen",
+   "schmerzen",
+   "gehen"
+  ],
+  "articles": [
+   {
+    "id": "c55ca8f3a10c",
+    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
+    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
+    "ko": "노이어, 부상 공백기 솔직한 고백",
+    "source": "tz",
+    "publishedAt": "2026-11-03T22:59:23.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d264c16c5f1c",
+    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
+    "ko": "노이어, 오늘 아침에도 걸을 때 통증 있었다고 털어놔",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.65,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-03T22:59:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\""
+ },
+ {
+  "slug": "losc-bodo-glimt-2026-11-03",
+  "mode": "llm",
+  "titleKo": "릴 대 보되/글림트 챔피언스리그 경기",
+  "createdAt": "2026-11-03T12:11:49.000Z",
+  "updatedAt": "2026-11-03T23:17:40.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "lafc"
+  ],
+  "players": [
+   "잔루카 다비드",
+   "벤자맹 앙드레",
+   "외제르",
+   "무카우"
+  ],
+  "sig": [
+   "bodö",
+   "glimt",
+   "u19",
+   "losc",
+   "youth"
+  ],
+  "articles": [
+   {
+    "id": "88189dc2efbc",
+    "url": "https://www.lequipe.fr/Football/Article/Pres-de-20-heures-de-trajet-aller-retour-comment-les-supporters-de-lille-se-sont-organises-pour-se-rendre-a-bodo-au-nord-du-cercle-polaire-arctique/1740617#at_medium=RSS_feeds",
+    "title": "20 heures de trajet aller-retour, le périple des supporters lillois à Bodö",
+    "ko": "릴 서포터즈, 보되 원정 왕복 20시간 여정",
+    "source": "lequipe",
+    "publishedAt": "2026-11-02T21:12:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Gourdol",
+    "transfer": null
+   },
+   {
+    "id": "c26ab1a6fa5a",
+    "url": "https://www.lequipe.fr/Football/Article/Aucun-point-marque-en-trois-journees-un-deplacement-complique-a-bodo-lille-est-deja-dos-au-mur-en-ligue-des-champions/1740662#at_medium=RSS_feeds",
+    "title": "Aucun point marqué en trois journées, un déplacement compliqué à Bodö : Lille est déjà dos au mur en Ligue des champions",
+    "ko": "릴, 3경기 무득점…보되/글림트 원정 앞두고 벼랑 끝",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T06:18:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Gourdol",
+    "transfer": null
+   },
+   {
+    "id": "151ceb6418fc",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-bodo-glimt-lille-en-ligue-des-champions/1740509#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Bodö/Glimt-Lille en Ligue des champions ?",
+    "ko": "보되/글림트 대 릴, 챔피언스리그 중계 시간·채널 안내",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T07:10:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "24a28eb57d25",
+    "url": "https://www.lequipe.fr/Football/Actualites/Rapidement-pieges-sur-le-synthetique-de-bodo-glimt-les-u19-du-losc-concedent-leur-premiere-defaite-en-youth-league/1740775#at_medium=RSS_feeds",
+    "title": "Rapidement piégés sur le synthétique de Bodö/Glimt, les U19 du LOSC concèdent leur première défaite en Youth League",
+    "ko": "릴 U19, 보되/글림트 유스 대회서 첫 패배",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T12:11:49.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Gourdol",
+    "transfer": null
+   },
+   {
+    "id": "c931679cb40b",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-entraineur-du-losc-davide-ancelotti-modifie-sa-defense-sur-la-pelouse-de-bodo-glimt-en-ligue-des-champions/1740889#at_medium=RSS_feeds",
+    "title": "L'entraîneur du LOSC Davide Ancelotti modifie sa défense sur la pelouse de Bodö/Glimt en Ligue des champions",
+    "ko": "데이비드 안첼로티, 릴 수비 변경 예고 보도",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T18:59:04.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Gourdol",
+    "transfer": null
+   },
+   {
+    "id": "1ec08cd0ef8c",
+    "url": "https://as.com/futbol/champions/bodo-glimt-lille-en-directo-champions-league-en-vivo-hoy-f202611-d/",
+    "title": "Bodo Glimt - Lille, en directo: Champions League, en vivo hoy",
+    "ko": "보되/글림트 대 릴 챔피언스리그 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-03T19:03:28.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Raúl Castro",
+    "transfer": null
+   },
+   {
+    "id": "5a807ee975cb",
+    "url": "https://www.lequipe.fr/Football/Actualites/Lille-marque-son-premier-point-face-a-bodo-glimt-mais-continue-de-pietiner-en-ligue-des-champions/1740942#at_medium=RSS_feeds",
+    "title": "Lille marque son premier point face à Bodö/Glimt mais continue de piétiner en Ligue des champions",
+    "ko": "릴, 보되/글림트전 첫 승점 획득하나 챔피언스리그 부진 지속",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T21:50:43.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Marius Veillerot",
+    "transfer": null
+   },
+   {
+    "id": "60a1affd0473",
+    "url": "https://as.com/futbol/champions/davide-resiste-en-el-infierno-noruego-f202611-n/",
+    "title": "Davide resiste en el infierno noruego",
+    "ko": "다비드, 노르웨이 지옥에서 버텨내",
+    "source": "as",
+    "publishedAt": "2026-11-03T22:08:39.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "잔루카 다비드"
+    ],
+    "playerTags": [],
+    "author": "Andrés Onrubia",
+    "transfer": null
+   },
+   {
+    "id": "367c8199b683",
+    "url": "https://www.kicker.de/regenkampf-in-norwegen-bodoe-glimt-und-lille-schenken-sich-nichts-1268273/video#omrss",
+    "title": "Regenkampf in Norwegen: Bodö/Glimt und Lille schenken sich nichts",
+    "ko": "노르웨이 빗속 격돌, 보되/글림트와 릴 승점 나눠 가져",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T22:14:22.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2c4ee36e91fc",
+    "url": "https://www.lequipe.fr/Football/Actualites/Benjamin-andre-apres-le-nul-de-lille-a-bodo-glimt-on-va-avoir-des-matches-a-notre-portee-il-faudra-faire-carton-plein/1740955#at_medium=RSS_feeds",
+    "title": "Benjamin André après le nul de Lille à Bodö/Glimt : « On va avoir des matches à notre portée, il faudra faire carton plein »",
+    "ko": "벤자맹 앙드레, 보되/글림트 무승부 후 \"남은 경기 전승해야\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T22:19:39.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "벤자맹 앙드레"
+    ],
+    "playerTags": [],
+    "author": "Marius Veillerot",
+    "transfer": null
+   },
+   {
+    "id": "c8d2f313ae3f",
+    "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-apres-le-nul-de-lille-a-bodo-glimt-on-n-est-pas-condamnes/1740961#at_medium=RSS_feeds",
+    "title": "Davide Ancelotti, après le nul de Lille à Bodö/Glimt : « On n'est pas condamnés »",
+    "ko": "다비데 안첼로티, 릴의 보되/글림트전 무승부 후 '우리는 끝나지 않았다' 강조",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T22:39:58.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Marius Veillerot",
+    "transfer": null
+   },
+   {
+    "id": "898a9ad30904",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-bodo-glimt-lille-ozer-sur-ses-gardes-mukau-au-combat/1740968#at_medium=RSS_feeds",
+    "title": "Les notes de Bodö/Glimt-Lille : Özer sur ses gardes, Mukau au combat",
+    "ko": "보되/글림트-릴 평점: 외제르 신중, 무카우 분투",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T23:01:57.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "외제르",
+     "무카우"
+    ],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "8af0677de153",
+    "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-apres-le-nul-du-losc-a-bodo-en-ligue-des-champions-les-regrets-ne-sont-pas-aujourd-hui/1740971#at_medium=RSS_feeds",
+    "title": "Davide Ancelotti après le nul du LOSC à Bodö en Ligue des champions : «Les regrets ne sont pas aujourd'hui»",
+    "ko": "안첼로티 LOSC 감독, 보되/글림트 무승부 후 \"후회는 오늘이 아니다\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T23:17:40.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Gourdol",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 3,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-02T21:12:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Davide Ancelotti après le nul du LOSC à Bodö en Ligue des champions : «Les regrets ne sont pas aujourd'hui»"
+ },
+ {
+  "slug": "sporting-qarabag-2026-11-03",
+  "mode": "llm",
+  "titleKo": "스포르팅 바쿠 원정 승리, 챔피언스리그 2라운드 근접",
+  "createdAt": "2026-11-03T16:44:00.000Z",
+  "updatedAt": "2026-11-03T23:14:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "baku"
+  ],
+  "articles": [
+   {
+    "id": "50f25f0e4fc0",
+    "url": "https://www.record.pt/modalidades/voleibol/detalhe/sporting-vence-em-baku-e-fica-com-um-pe-na-2-ronda-da-champions",
+    "title": "Sporting vence em Baku e fica com um pé na 2.ª ronda da Champions",
+    "ko": "스포르팅, 바쿠 원정 승리로 챔피언스리그 2라운드 진출에 근접",
+    "source": "record",
+    "publishedAt": "2026-11-03T16:44:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1fa42e6139a6",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/sporting-com-95-3-de-chances-de-avancar-para-o-playoff-da-champions",
+    "title": "Sporting com 95.3% de chances de avançar para o playoff da Champions",
+    "ko": "스포르팅, 챔피언스리그 플레이오프 진출 가능성 95.3%",
+    "source": "record",
+    "publishedAt": "2026-11-03T23:14:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.54,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-03T16:44:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sporting com 95.3% de chances de avançar para o playoff da Champions"
  },
  {
   "slug": "ait-nouri-man-utd-transfer",
@@ -3595,7 +4135,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 4.68,
+  "score": 4.17,
   "topTier": 1,
   "stageHistory": [
    {
@@ -3743,7 +4283,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.5,
+  "score": 0.45,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3804,7 +4344,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.5,
+  "score": 0.45,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -3858,7 +4398,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3871,333 +4411,6 @@
    "viaQuote": false
   },
   "headline": "Eberl über Upamecano: \"Gott sei Dank haben wir mit ihm verlängert\""
- },
- {
-  "slug": "barcelona-aston-villa-2026-11-03",
-  "mode": "llm",
-  "titleKo": "바르셀로나 대 애스턴 빌라 챔피언스리그 경기",
-  "createdAt": "2026-11-03T13:30:00.000Z",
-  "updatedAt": "2026-11-03T22:28:44.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "barcelona",
-   "aston-villa"
-  ],
-  "players": [
-   "라민 야말",
-   "하피냐",
-   "조앙 칸셀루"
-  ],
-  "sig": [
-   "get",
-   "paddy",
-   "power"
-  ],
-  "articles": [
-   {
-    "id": "50190637d8a6",
-    "url": "https://www.marca.com/futbol/barcelona/2026/11/02/barcelona-levanta-castigo-grada-animacion-aston-villa.html",
-    "title": "El Barcelona levanta el castigo a la grada de animación ante el Aston Villa",
-    "ko": "바르셀로나, 애스턴 빌라전 앞두고 응원단 징계 해제",
-    "source": "marca",
-    "publishedAt": "2026-11-02T21:02:24.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "REDACCIÓN MARCA",
-    "transfer": null
-   },
-   {
-    "id": "1e1ab5d9483c",
-    "url": "https://www.thesun.co.uk/sport/40880728/barcelona-aston-villa-champions-league-predictions/",
-    "title": "Barcelona vs Aston Villa | Champions League predictions, preview and free bets",
-    "ko": "바르셀로나 대 애스턴 빌라, 챔피언스리그 예상과 무료 베팅 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-03T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "ab744f071fcd",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-barcelone-aston-villa-en-ligue-des-champions/1740574#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir FC Barcelone-Aston Villa en Ligue des champions ?",
-    "ko": "바르셀로나 대 애스턴 빌라 챔피언스리그 중계 시간·채널 안내",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T07:20:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "70be30dc7e17",
-    "url": "https://www.theguardian.com/football/2026/nov/03/unai-emery-aston-villa-barcelona-camp-nou-champions-league",
-    "title": "Don’t call it a remontada: Emery’s Camp Nou comeback focuses European blur",
-    "ko": "레몬타다 아닌 에메리의 캄프 누 복귀전, 유럽 무대 평가 초점",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T07:30:41.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Barney Ronay",
-    "transfer": null
-   },
-   {
-    "id": "5f9ebfcdc8d5",
-    "url": "https://as.com/futbol/champions/barcelona-aston-villa-hoy-en-directo-jornada-4-de-fase-liga-champions-league-en-vivo-f202611-d/",
-    "title": "Barcelona - Aston Villa hoy, en directo: jornada 4 de fase liga, Champions League en vivo",
-    "ko": "바르셀로나 대 애스턴 빌라, 챔피언스리그 4라운드 실시간",
-    "source": "as",
-    "publishedAt": "2026-11-03T13:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López",
-    "transfer": null
-   },
-   {
-    "id": "b623845f3cc5",
-    "url": "https://www.thesun.co.uk/sport/40895508/barcelona-aston-villa-champions-league-paddy-power-odds/",
-    "title": "Barcelona vs Aston Villa: Get 50/1 for a goal to be scored in Champions League tie with Paddy Power",
-    "ko": "바르셀로나 대 애스턴 빌라, 챔피언스리그 득점 베팅 소개",
-    "source": "sun",
-    "publishedAt": "2026-11-03T13:50:04.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "d78d45d58373",
-    "url": "https://www.thesun.co.uk/sport/40898501/prince-william-george-aston-villa-barcelona/",
-    "title": "Prince William and George will attend Barcelona to watch Aston Villa’s Champions League game at Camp Nou",
-    "ko": "윌리엄 왕자와 조지 왕자, 캄프 누서 애스턴 빌라 경기 관전 예정",
-    "source": "sun",
-    "publishedAt": "2026-11-03T17:51:56.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bruno Brown",
-    "transfer": null
-   },
-   {
-    "id": "b3ba9e8285bf",
-    "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652",
-    "title": "Lamine Yamal starts for Barcelona vs Aston Villa LIVE!",
-    "ko": "라민 야말, 애스턴 빌라전 선발 출전 (라이브)",
-    "source": "sky",
-    "publishedAt": "2026-11-03T18:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라민 야말"
-    ],
-    "playerTags": [
-     "lamine-yamal"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dc29ba9a75a4",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/barcelona-aston-villa-em-direto",
-    "title": "Barcelona-Aston Villa, em direto",
-    "ko": "바르셀로나 대 애스턴 빌라, 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-03T18:30:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c9c8601a273f",
-    "url": "https://www.theguardian.com/football/live/2026/nov/03/barcelona-v-aston-villa-champions-league-live",
-    "title": "Barcelona v Aston Villa: Champions League – live",
-    "ko": "바르셀로나 대 애스턴 빌라 챔피언스리그 생중계",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T19:02:09.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Luke McLaughlin",
-    "transfer": null
-   },
-   {
-    "id": "15c98222f57d",
-    "url": "https://www.skysports.com/football/barcelona-vs-aston-villa/report/577652",
-    "title": "Raphinha double sees Barca power past Villa",
-    "ko": "하피냐 멀티골, 바르셀로나 애스턴 빌라 격파",
-    "source": "sky",
-    "publishedAt": "2026-11-03T21:45:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f47ed194a2ae",
-    "url": "https://www.thesun.co.uk/sport/40904465/lamine-yamal-raphinha-ruin-unai-emery-birthday/",
-    "title": "Barcelona 3 Aston Villa 0: Lamine Yamal and Raphinha ruin Unai Emery’s birthday as 100% record comes to an end",
-    "ko": "바르셀로나 3-0 애스턴 빌라, 야말·하피냐 골로 에메리 생일 망쳐",
-    "source": "sun",
-    "publishedAt": "2026-11-03T21:54:13.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라민 야말",
-     "하피냐"
-    ],
-    "playerTags": [
-     "lamine-yamal",
-     "raphinha"
-    ],
-    "author": "Charlie Wyett",
-    "transfer": null
-   },
-   {
-    "id": "fd0f3dcca350",
-    "url": "https://www.lequipe.fr/Football/Actualites/Grace-a-des-eclairs-de-lamine-yamal-et-raphinha-barcelone-surclasse-aston-villa/1740946#at_medium=RSS_feeds",
-    "title": "Grâce à des éclairs de Lamine Yamal et Raphinha, Barcelone surclasse Aston Villa",
-    "ko": "야말과 하피냐 번뜩임, 바르사 애스턴 빌라 압도",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T21:57:08.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라민 야말",
-     "하피냐"
-    ],
-    "playerTags": [
-     "lamine-yamal",
-     "raphinha"
-    ],
-    "author": "Pierre-Étienne Minonzio",
-    "transfer": null
-   },
-   {
-    "id": "5eeba20a2a80",
-    "url": "https://as.com/futbol/fotorrelato/los-goles-del-barcelona-aston-villa-f202611-f/",
-    "title": "Los goles del Barcelona-Aston Villa",
-    "ko": "바르셀로나 대 애스턴 빌라 득점 장면",
-    "source": "as",
-    "publishedAt": "2026-11-03T21:57:15.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AS Fotografía",
-    "transfer": null
-   },
-   {
-    "id": "29859005fa4e",
-    "url": "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report",
-    "title": "Raphinha underlines Barcelona’s class to give Aston Villa a reality check",
-    "ko": "하피냐 활약, 바르사 저력으로 애스턴 빌라 제압",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T22:00:11.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": "Barney Ronay at the Camp Nou",
-    "transfer": null
-   },
-   {
-    "id": "d76f2d5bae5d",
-    "url": "https://as.com/futbol/champions/emery-hemos-demostrado-en-momentos-estar-al-nivel-del-barca-f202611-n/",
-    "title": "Emery: “Hemos demostrado en momentos estar al nivel del Barça”",
-    "ko": "에메리 \"순간순간 바르셀로나 수준임을 보여줬다\"",
-    "source": "as",
-    "publishedAt": "2026-11-03T22:26:42.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Juan Jiménez",
-    "transfer": null
-   },
-   {
-    "id": "07e7daffd94e",
-    "url": "https://www.kicker.de/lamine-yamal-eingeladen-joao-cancelo-zaubert-barca-schlaegt-aston-villa-souveraen-1268281/video#omrss",
-    "title": "Lamine Yamal eingeladen, Joao Cancelo zaubert: Barca schlägt Aston Villa souverän",
-    "ko": "바르셀로나, 애스턴 빌라전 승리 속 라민 야말 등 활약",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T22:28:44.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라민 야말",
-     "조앙 칸셀루"
-    ],
-    "playerTags": [
-     "lamine-yamal"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 7,
-  "sourceCount": 8,
-  "score": 6.13,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "lamine-yamal",
-   "raphinha"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "마르카",
-   "source": "marca",
-   "at": "2026-11-02T21:02:24.000Z",
-   "viaQuote": false
-  },
-  "headline": "Lamine Yamal eingeladen, Joao Cancelo zaubert: Barca schlägt Aston Villa souverän"
  },
  {
   "slug": "dimarco-inter-contract",
@@ -4264,7 +4477,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.63,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4425,7 +4638,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 4.11,
+  "score": 3.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4505,7 +4718,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.54,
+  "score": 2.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4665,7 +4878,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.83,
+  "score": 1.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4908,7 +5121,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.06,
+  "score": 1.84,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4975,7 +5188,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.76,
+  "score": 2.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5045,7 +5258,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.19,
+  "score": 1.06,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5234,9 +5447,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 5,
   "sourceCount": 7,
-  "score": 3.8,
+  "score": 3.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5375,7 +5588,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 1.22,
+  "score": 1.09,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5464,7 +5677,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.55,
+  "score": 0.49,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5595,7 +5808,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 1.32,
+  "score": 1.18,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5653,7 +5866,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.16,
+  "score": 1.03,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5741,7 +5954,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.17,
+  "score": 1.93,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5818,7 +6031,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.25,
   "topTier": 3,
   "stageHistory": [
    {
@@ -5939,7 +6152,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 0.56,
+  "score": 0.5,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -6185,7 +6398,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 6,
-  "score": 0.86,
+  "score": 0.76,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6283,9 +6496,9 @@
     }
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.1,
+  "score": 0.83,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6359,7 +6572,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.55,
+  "score": 0.49,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -6415,7 +6628,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.9,
+  "score": 0.8,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6484,7 +6697,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.24,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6619,7 +6832,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.26,
+  "score": 0.23,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6714,7 +6927,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.24,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6795,7 +7008,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.75,
+  "score": 0.66,
   "topTier": 3,
   "stageHistory": [
    {
@@ -6953,7 +7166,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.51,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6968,70 +7181,6 @@
    "viaQuote": false
   },
   "headline": "Liverpool latest: Gravenberch out of Fenerbahce trip"
- },
- {
-  "slug": "napoli-porto-2026-11-03",
-  "mode": "llm",
-  "titleKo": "포르투 대 나폴리 챔피언스리그 경기 분석",
-  "createdAt": "2026-11-03T18:32:00.000Z",
-  "updatedAt": "2026-11-03T18:32:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [],
-  "sig": [
-   "rui",
-   "malheiro",
-   "nápoles"
-  ],
-  "articles": [
-   {
-    "id": "8eebe332126c",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-jovem-da-uefa/detalhe/jovens-do-fc-porto-preparados-para-muitas-transicoes-no-duelo-com-o-napoles",
-    "title": "Jovens do FC Porto preparados para muitas transições no duelo com o Nápoles",
-    "ko": "포르투 유망주들, 나폴리전 많은 전환 대비",
-    "source": "record",
-    "publishedAt": "2026-11-03T18:15:52.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "26b150ec370c",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/analise-de-rui-malheiro-ao-napoles-o-guia-completo-para-conhecer-o-adversario-do-fc-porto",
-    "title": "Análise de Rui Malheiro ao Nápoles: o guia completo para conhecer o adversário do FC Porto",
-    "ko": "루이 말헤이루의 나폴리 분석, FC 포르투 상대 가이드",
-    "source": "record",
-    "publishedAt": "2026-11-03T18:32:00.000Z",
-    "credited": "루이 말헤이루",
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.79,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "루이 말헤이루",
-   "at": "2026-11-03T18:15:52.000Z",
-   "viaQuote": true
-  },
-  "headline": "Análise de Rui Malheiro ao Nápoles: o guia completo para conhecer o adversário do FC Porto"
  },
  {
   "slug": "gateshead-affairs-winding-up",
@@ -7078,7 +7227,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.44,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -7156,7 +7305,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.54,
+  "score": 1.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7249,7 +7398,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.65,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7363,7 +7512,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.51,
+  "score": 0.45,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -7420,7 +7569,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.23,
+  "score": 0.2,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7467,7 +7616,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.7,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7521,7 +7670,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.62,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7585,7 +7734,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.21,
+  "score": 0.18,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7665,7 +7814,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.77,
+  "score": 0.69,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7743,7 +7892,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.67,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7800,7 +7949,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.35,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -7857,7 +8006,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.64,
+  "score": 0.57,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7915,7 +8064,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7984,7 +8133,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.63,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8036,7 +8185,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8114,7 +8263,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8298,7 +8447,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 7,
-  "score": 0.95,
+  "score": 0.85,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8386,7 +8535,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.33,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -8436,7 +8585,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.18,
+  "score": 0.16,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8503,7 +8652,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.87,
+  "score": 0.77,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8578,7 +8727,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.3,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -8746,7 +8895,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.19,
+  "score": 0.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8796,7 +8945,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.71,
+  "score": 0.63,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8871,7 +9020,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.38,
+  "score": 0.34,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -8925,7 +9074,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9040,7 +9189,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.41,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9099,7 +9248,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.18,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -9159,7 +9308,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9240,7 +9389,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.32,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9363,7 +9512,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.32,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9437,7 +9586,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9497,7 +9646,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9510,54 +9659,6 @@
    "viaQuote": false
   },
   "headline": "El Valencia maneja más de 52.000 abonados para el traslado al Nou Mestalla"
- },
- {
-  "slug": "man-utd-affairs-transfer-policy",
-  "mode": "llm",
-  "titleKo": "맨유 이적 정책 실패 논란",
-  "createdAt": "2026-11-03T12:33:38.000Z",
-  "updatedAt": "2026-11-03T12:33:38.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [],
-  "sig": [
-   "europa"
-  ],
-  "articles": [
-   {
-    "id": "081042f78483",
-    "url": "https://www.hln.be/premier-league/405-miljoen-euro-verdampt-op-vijf-jaar-tijd-manchester-united-heeft-het-slechtste-transferbeleid-van-europa~a4f5b3ad/",
-    "title": "405 miljoen euro verdampt op vijf jaar tijd: Manchester United heeft het slechtste transferbeleid van Europa",
-    "ko": "맨유, 5년간 4억 500만 유로 낭비한 유럽 최악의 이적 정책 지적",
-    "source": "hln",
-    "publishedAt": "2026-11-03T12:33:38.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephan Keygnaert",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.18,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-03T12:33:38.000Z",
-   "viaQuote": false
-  },
-  "headline": "405 miljoen euro verdampt op vijf jaar tijd: Manchester United heeft het slechtste transferbeleid van Europa"
  },
  {
   "slug": "bergvall-tottenham-transfer",
@@ -9603,7 +9704,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9676,7 +9777,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9735,9 +9836,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.16,
+  "score": 0,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -9837,9 +9938,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9931,9 +10032,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.08,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9987,9 +10088,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0,
   "topTier": 3,
   "stageHistory": [
    {

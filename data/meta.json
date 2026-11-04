@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T23:37:52.777Z",
+ "updatedAt": "2026-11-04T00:18:15.921Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
+  "de-miguel-incident",
   "atletico-bayern-2026-11-03",
-  "ait-nouri-man-utd-transfer",
-  "feyenoord-inter-2026-11-03"
+  "ait-nouri-man-utd-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -28,19 +28,19 @@
   "bbc": {
    "ok": true,
    "items": 73,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 0,
+   "items": 59,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -76,13 +76,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 2,
    "authorRate": 80
   },
   "fblondon": {
@@ -106,7 +106,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 80
   },
   "waz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,13 +142,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 25,
-   "added": 1,
+   "items": 24,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -160,7 +160,7 @@
   "sun": {
    "ok": true,
    "items": 21,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -177,7 +177,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -220,6 +220,10 @@
    "count": 3
   },
   {
+   "name": "데 미겔",
+   "count": 3
+  },
+  {
    "name": "토니 브로뇨",
    "count": 3
   },
@@ -236,6 +240,10 @@
    "count": 3
   },
   {
+   "name": "노이어",
+   "count": 3
+  },
+  {
    "name": "카마빙가",
    "count": 3
   },
@@ -246,15 +254,15 @@
  ],
  "issueHealth": {
   "recentIssues": 117,
-  "singleArticleRate": 41,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 79
+    "count": 80
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 49
+    "count": 51
    },
    {
     "slug": "atletico-bayern-2026-11-03",
@@ -266,7 +274,7 @@
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 17
+    "count": 18
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -436,6 +444,20 @@
    ]
   },
   {
+   "en": "Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를",
+     "count": 2
+    },
+    {
+     "ko": "칼",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blessin",
    "dictionary": null,
    "variants": [
@@ -518,15 +540,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "파비앵 루이즈",
+     "count": 1
+    },
+    {
      "ko": "파비앙 루이스",
      "count": 1
     },
     {
      "ko": "파비안 루이스",
-     "count": 1
-    },
-    {
-     "ko": "파비앵 루이즈",
      "count": 1
     }
    ]
@@ -541,20 +563,6 @@
     },
     {
      "ko": "루이 보르게스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Karl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "칼",
-     "count": 1
-    },
-    {
-     "ko": "카를",
      "count": 1
     }
    ]
@@ -778,8 +786,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 509,
-   "llm": 509
+   "collected": 527,
+   "llm": 527
   }
  }
 }
