@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T16:46:32.321Z",
+ "updatedAt": "2026-11-04T17:45:40.853Z",
  "hot": [
   "de-miguel-incident",
   "man-utd-roma-2026-11-03",
   "gabriel-real-madrid-transfer",
-  "rodri-injury",
-  "parker-west-ham-appointment"
+  "fenerbahce-liverpool-2026-11-03",
+  "rodri-injury"
  ],
  "days": [
   "2026-10-18",
@@ -29,19 +29,19 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 2,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -53,7 +53,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -64,8 +64,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 2,
+   "items": 50,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,32 +83,32 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 10,
    "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 78
+   "added": 1,
+   "authorRate": 75
   },
   "waz": {
    "ok": true,
@@ -125,25 +125,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 17,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -160,37 +160,37 @@
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 4,
-   "authorRate": 97
+   "items": 28,
+   "added": 6,
+   "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
-   "authorRate": 100
+   "added": 4,
+   "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 4,
+   "items": 8,
+   "added": 1,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 48
+   "count": 49
   },
   {
    "name": "오워노",
-   "count": 19
+   "count": 21
   },
   {
    "name": "데 미겔",
@@ -209,15 +209,19 @@
    "count": 7
   },
   {
+   "name": "헤수스 오워노",
+   "count": 7
+  },
+  {
    "name": "JJ 가브리엘",
    "count": 7
   },
   {
-   "name": "헤수스 오워노",
+   "name": "J.J. 가브리엘",
    "count": 6
   },
   {
-   "name": "J.J. 가브리엘",
+   "name": "카마빙가",
    "count": 6
   },
   {
@@ -233,12 +237,12 @@
    "count": 5
   },
   {
-   "name": "카마빙가",
+   "name": "달롯",
    "count": 5
   },
   {
-   "name": "달롯",
-   "count": 5
+   "name": "뮐러",
+   "count": 4
   },
   {
    "name": "웨인 루니",
@@ -266,10 +270,6 @@
   },
   {
    "name": "콘사",
-   "count": 3
-  },
-  {
-   "name": "뮐러",
    "count": 3
   },
   {
@@ -306,12 +306,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 169,
-  "singleArticleRate": 45,
+  "recentIssues": 170,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 100
+    "count": 104
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -587,6 +587,20 @@
    ]
   },
   {
+   "en": "Rio Ferdinand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리오 퍼디낸드",
+     "count": 2
+    },
+    {
+     "ko": "리오 퍼디난드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Doumbia",
    "dictionary": null,
    "variants": [
@@ -809,20 +823,6 @@
    ]
   },
   {
-   "en": "Rio Ferdinand",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리오 퍼디난드",
-     "count": 1
-    },
-    {
-     "ko": "리오 퍼디낸드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gerard Piqué",
    "dictionary": null,
    "variants": [
@@ -846,6 +846,20 @@
     },
     {
      "ko": "얀 파울 판 헤커",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kaminski",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카미니스키",
+     "count": 1
+    },
+    {
+     "ko": "카미스키",
      "count": 1
     }
    ]
@@ -989,8 +1003,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 84,
-   "llm": 84
+   "collected": 149,
+   "llm": 149
   }
  },
  "llmErrors": []
