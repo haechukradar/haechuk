@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T19:49:54.254Z",
+ "updatedAt": "2026-11-04T20:43:48.328Z",
  "hot": [
   "de-miguel-incident",
-  "slavia-praha-arsenal-2026-11-03",
   "fenerbahce-liverpool-2026-11-03",
-  "liverpool-fenerbahce-2026-11-03",
-  "real-madrid-aek-athens-2026-11-03"
+  "real-madrid-aek-athens-2026-11-03",
+  "leipzig-man-city-2026-11-04",
+  "slavia-praha-arsenal-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -28,14 +28,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 2,
+   "items": 75,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
@@ -53,19 +53,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 14,
+   "items": 49,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,19 +77,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 11,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 7,
-   "authorRate": 78
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -101,7 +101,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -131,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 18,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -143,7 +143,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -155,31 +155,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 19,
-   "added": 7,
-   "authorRate": 95
+   "added": 8,
+   "authorRate": 89
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -217,6 +217,10 @@
    "count": 7
   },
   {
+   "name": "조엘 페레이라",
+   "count": 7
+  },
+  {
    "name": "J.J. 가브리엘",
    "count": 6
   },
@@ -226,10 +230,6 @@
   },
   {
    "name": "노이어",
-   "count": 6
-  },
-  {
-   "name": "조엘 페레이라",
    "count": 6
   },
   {
@@ -273,6 +273,10 @@
    "count": 4
   },
   {
+   "name": "트레이 뇨니",
+   "count": 4
+  },
+  {
    "name": "발로군",
    "count": 4
   },
@@ -299,14 +303,10 @@
   {
    "name": "쾨크주",
    "count": 3
-  },
-  {
-   "name": "트레이 뇨니",
-   "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 184,
+  "recentIssues": 187,
   "singleArticleRate": 46,
   "broad": [
    {
@@ -315,7 +315,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 67
+    "count": 68
    },
    {
     "slug": "parker-west-ham-appointment",
@@ -326,12 +326,16 @@
     "count": 24
    },
    {
+    "slug": "fonseca-sporting-appointment",
+    "count": 21
+   },
+   {
     "slug": "atletico-bayern-2026-11-03",
     "count": 21
    },
    {
-    "slug": "fonseca-sporting-appointment",
-    "count": 19
+    "slug": "liverpool-fenerbahce-2026-11-03",
+    "count": 18
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
@@ -339,15 +343,15 @@
    },
    {
     "slug": "man-utd-affairs-ownership",
+    "count": 17
+   },
+   {
+    "slug": "real-madrid-aek-athens-2026-11-03",
     "count": 16
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
     "count": 16
-   },
-   {
-    "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 15
    }
   ]
  },
@@ -389,6 +393,20 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 12
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
@@ -399,20 +417,6 @@
     {
      "ko": "JJ 가브리엘",
      "count": 6
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 11
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
     }
    ]
   },
@@ -604,6 +608,20 @@
     },
     {
      "ko": "이오아니디스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 포브스",
+     "count": 2
+    },
+    {
+     "ko": "카를로스 포르브스",
      "count": 1
     }
    ]
@@ -873,6 +891,20 @@
    ]
   },
   {
+   "en": "Kind",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키트",
+     "count": 1
+    },
+    {
+     "ko": "킨트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gerard Piqué",
    "dictionary": null,
    "variants": [
@@ -896,6 +928,20 @@
     },
     {
      "ko": "얀 파울 판 헤커",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vincent Mannaert",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "빈센트 만네르트",
+     "count": 1
+    },
+    {
+     "ko": "빈센트 마나에르트",
      "count": 1
     }
    ]
@@ -999,6 +1045,20 @@
    ]
   },
   {
+   "en": "Bradley Barcola",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바르셀라",
+     "count": 1
+    },
+    {
+     "ko": "바르콜라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Cody Gakpo",
    "dictionary": null,
    "variants": [
@@ -1027,15 +1087,15 @@
    ]
   },
   {
-   "en": "Niclas Fullkrug",
+   "en": "Hlozek",
    "dictionary": null,
    "variants": [
     {
-     "ko": "풀크루크",
+     "ko": "흘로제크",
      "count": 1
     },
     {
-     "ko": "퓔크루크",
+     "ko": "홀로첵",
      "count": 1
     }
    ]
@@ -1067,8 +1127,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 272,
-   "llm": 272
+   "collected": 322,
+   "llm": 322
   }
  },
  "llmErrors": []
