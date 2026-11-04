@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-04T11:54:49.961Z",
+ "updatedAt": "2026-11-04T12:48:00.325Z",
  "hot": [
   "parker-west-ham-appointment",
   "de-miguel-incident",
-  "gabriel-real-madrid-transfer",
   "man-utd-roma-2026-11-03",
+  "gabriel-real-madrid-transfer",
   "fonseca-sporting-appointment"
  ],
  "days": [
@@ -27,20 +27,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 2,
+   "items": 75,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -58,13 +58,13 @@
   "marca": {
    "ok": true,
    "items": 48,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,31 +76,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 5,
    "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -124,25 +124,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -154,13 +154,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 7,
+   "added": 4,
    "authorRate": 97
   },
   "star": {
@@ -172,13 +172,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -204,6 +204,10 @@
    "count": 6
   },
   {
+   "name": "디오고 달롯",
+   "count": 6
+  },
+  {
    "name": "토마스 뮐러",
    "count": 5
   },
@@ -213,6 +217,10 @@
   },
   {
    "name": "제수스 오워노",
+   "count": 4
+  },
+  {
+   "name": "오워노",
    "count": 4
   },
   {
@@ -244,10 +252,6 @@
    "count": 3
   },
   {
-   "name": "오워노",
-   "count": 3
-  },
-  {
    "name": "티에르노 배리",
    "count": 3
   },
@@ -268,21 +272,25 @@
    "count": 3
   },
   {
+   "name": "프레스티아니",
+   "count": 3
+  },
+  {
    "name": "루이스 수아레스",
    "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 130,
+  "recentIssues": 133,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 95
+    "count": 97
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 65
+    "count": 70
    },
    {
     "slug": "atletico-bayern-2026-11-03",
@@ -293,12 +301,12 @@
     "count": 23
    },
    {
-    "slug": "barcelona-aston-villa-2026-11-03",
+    "slug": "parker-west-ham-appointment",
     "count": 20
    },
    {
-    "slug": "parker-west-ham-appointment",
-    "count": 19
+    "slug": "barcelona-aston-villa-2026-11-03",
+    "count": 20
    },
    {
     "slug": "shakhtar-sporting-2026-11-03",
@@ -325,7 +333,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 62
+     "count": 63
     },
     {
      "ko": "제수스 데 미겔",
@@ -351,7 +359,7 @@
    "variants": [
     {
      "ko": "누노 에스피리투 산투",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "누노 에스피리투 산토",
@@ -390,6 +398,32 @@
    ]
   },
   {
+   "en": "Jesus Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스 오워노",
+     "count": 2
+    },
+    {
+     "ko": "헤수스 오워노",
+     "count": 2
+    },
+    {
+     "ko": "오워노",
+     "count": 2
+    },
+    {
+     "ko": "호아킨 오워노",
+     "count": 1
+    },
+    {
+     "ko": "오웨노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -407,32 +441,6 @@
     },
     {
      "ko": "테리에르노 바리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "헤수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "호아킨 오워노",
-     "count": 1
-    },
-    {
-     "ko": "오웨노",
-     "count": 1
-    },
-    {
-     "ko": "오워노",
      "count": 1
     }
    ]
@@ -502,11 +510,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "루이 보르헤스",
+     "ko": "루이 보르게스",
      "count": 3
     },
     {
-     "ko": "루이 보르게스",
+     "ko": "루이 보르헤스",
      "count": 3
     }
    ]
@@ -600,6 +608,20 @@
    ]
   },
   {
+   "en": "Trey Nyoni",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "트레이 뇨니",
+     "count": 2
+    },
+    {
+     "ko": "트레이 니오니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Barry",
    "dictionary": null,
    "variants": [
@@ -622,11 +644,29 @@
      "count": 1
     },
     {
-     "ko": "퐁세카",
+     "ko": "포나세카",
      "count": 1
     },
     {
-     "ko": "포나세카",
+     "ko": "퐁세카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰아 레이시",
+     "count": 1
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 1
+    },
+    {
+     "ko": "쉐이 레이시",
      "count": 1
     }
    ]
@@ -677,20 +717,6 @@
     },
     {
      "ko": "에벌",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Arrasate",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아라사테",
-     "count": 1
-    },
-    {
-     "ko": "아라스파테",
      "count": 1
     }
    ]
@@ -794,20 +820,6 @@
    ]
   },
   {
-   "en": "Trey Nyoni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트레이 니오니",
-     "count": 1
-    },
-    {
-     "ko": "트레이 뇨니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kiernan Dewsbury-Hall",
    "dictionary": null,
    "variants": [
@@ -845,20 +857,6 @@
     },
     {
      "ko": "토헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰아 레이시",
-     "count": 1
-    },
-    {
-     "ko": "셰이 레이시",
      "count": 1
     }
    ]
@@ -956,8 +954,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 823,
-   "llm": 823
+   "collected": 866,
+   "llm": 866
   }
  }
 }
