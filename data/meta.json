@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T22:28:17.309Z",
+ "updatedAt": "2026-11-04T23:15:19.917Z",
  "hot": [
-  "leipzig-man-city-2026-11-04",
   "arsenal-slavia-praha-2026-11-03",
+  "fenerbahce-liverpool-2026-11-03",
+  "leipzig-man-city-2026-11-04",
   "de-miguel-incident",
-  "real-madrid-aek-athens-2026-11-03",
-  "fenerbahce-liverpool-2026-11-03"
+  "lens-como-2026-11-04"
  ],
  "days": [
   "2026-10-18",
@@ -28,20 +28,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 70,
-   "added": 10,
+   "items": 69,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -53,19 +53,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 12,
+   "items": 51,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,31 +77,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 14,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 6,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -131,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,25 +160,25 @@
   },
   "sun": {
    "ok": true,
-   "items": 19,
-   "added": 3,
-   "authorRate": 89
+   "items": 20,
+   "added": 5,
+   "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
+   "items": 5,
    "added": 0,
    "authorRate": 0
   }
@@ -253,6 +253,14 @@
    "count": 5
   },
   {
+   "name": "마두에케",
+   "count": 4
+  },
+  {
+   "name": "콘사",
+   "count": 4
+  },
+  {
    "name": "뮐러",
    "count": 4
   },
@@ -281,8 +289,8 @@
    "count": 4
   },
   {
-   "name": "마두에케",
-   "count": 3
+   "name": "트레솔디",
+   "count": 4
   },
   {
    "name": "브로비",
@@ -293,15 +301,7 @@
    "count": 3
   },
   {
-   "name": "콘사",
-   "count": 3
-  },
-  {
    "name": "키케 살라스",
-   "count": 3
-  },
-  {
-   "name": "카를로스 포브스",
    "count": 3
   }
  ],
@@ -315,15 +315,15 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 69
+    "count": 70
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 27
+    "count": 28
    },
    {
     "slug": "parker-west-ham-appointment",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -338,6 +338,10 @@
     "count": 21
    },
    {
+    "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 19
+   },
+   {
     "slug": "real-madrid-aek-athens-2026-11-03",
     "count": 19
    },
@@ -346,12 +350,8 @@
     "count": 19
    },
    {
-    "slug": "arsenal-slavia-praha-2026-11-03",
-    "count": 17
-   },
-   {
     "slug": "man-utd-affairs-ownership",
-    "count": 17
+    "count": 18
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
@@ -434,10 +434,28 @@
    "variants": [
     {
      "ko": "루이 보르게스",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Haaland",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "홀란",
+     "count": 5
+    },
+    {
+     "ko": "엘링 홀란",
+     "count": 2
+    },
+    {
+     "ko": "홀란드",
      "count": 1
     }
    ]
@@ -479,6 +497,20 @@
    ]
   },
   {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 4
+    },
+    {
+     "ko": "파리오리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Carlos Forbs",
    "dictionary": null,
    "variants": [
@@ -487,11 +519,11 @@
      "count": 3
     },
     {
-     "ko": "카를로스 포르브스",
+     "ko": "포브스",
      "count": 1
     },
     {
-     "ko": "포브스",
+     "ko": "카를로스 포르브스",
      "count": 1
     }
    ]
@@ -573,20 +605,6 @@
    ]
   },
   {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 3
-    },
-    {
-     "ko": "파리오리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Toni Brogno",
    "dictionary": null,
    "variants": [
@@ -625,6 +643,20 @@
     {
      "ko": "주앙 모리뉴",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Karetsas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카레타스",
+     "count": 2
+    },
+    {
+     "ko": "카레차스",
+     "count": 2
     }
    ]
   },
@@ -767,6 +799,24 @@
    ]
   },
   {
+   "en": "Vincent Mannaert",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "빈센트 만네르트",
+     "count": 1
+    },
+    {
+     "ko": "빈센트 마나에르트",
+     "count": 1
+    },
+    {
+     "ko": "만나르트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Prince William",
    "dictionary": null,
    "variants": [
@@ -846,6 +896,24 @@
     },
     {
      "ko": "키스 와이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thorgan Hazard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토르간 하자드",
+     "count": 1
+    },
+    {
+     "ko": "타종 하자드",
+     "count": 1
+    },
+    {
+     "ko": "토르간 아자르",
      "count": 1
     }
    ]
@@ -944,20 +1012,6 @@
     },
     {
      "ko": "얀 파울 판 헤커",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vincent Mannaert",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "빈센트 만네르트",
-     "count": 1
-    },
-    {
-     "ko": "빈센트 마나에르트",
      "count": 1
     }
    ]
@@ -1073,48 +1127,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Cody Gakpo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "각포",
-     "count": 1
-    },
-    {
-     "ko": "코디 학포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dirk Kuyt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "커이트",
-     "count": 1
-    },
-    {
-     "ko": "커크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Obama",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오바모",
-     "count": 1
-    },
-    {
-     "ko": "오바마",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1143,8 +1155,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 422,
-   "llm": 422
+   "collected": 480,
+   "llm": 480
   }
  },
  "llmErrors": []
