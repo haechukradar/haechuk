@@ -5,6 +5,7 @@ import FeedFilter from '../components/FeedFilter.astro';
 import FilterEmpty from '../components/FilterEmpty.astro';
 import { loadData } from '../lib/data.mjs';
 import { bestReport } from '../../config/tiers.mjs';
+import { isKorean } from '../../config/players.mjs';
 import { STAGES, stageChangeInfo } from '../lib/labels.mjs';
 import { CLUB_BY_SLUG, CLUBS, LEAGUES } from '../../config/clubs.mjs';
 import { PIPELINE, TRANSFERS } from '../../config/site.mjs';
@@ -18,6 +19,15 @@ const lastMove = (i: any) => i.stageChange?.at ?? i.updatedAt;
 const boardStage = (i: any) => (i.resolution && i.resolution.result !== 'expired' ? i.resolution.result : i.stage);
 // 확정·결렬 칸은 종료 판정이 났거나 2개 이상 매체가 보도한 건만 (회고 기사 1건이 '확정'으로 보이는 것 방지)
 const trusted = (i: any) => !closed.has(boardStage(i)) || !!i.resolution || i.sourceCount >= 2;
+
+// 주목도: 최근 다매체 보도 점수(핫 트렌드와 같은 계산) + 최근 단계 변화 + 보도 매체 수 + 최고 신뢰도 + 코리안리거
+function attentionOf(i: any) {
+  const changedRecently = i.stageChange && now - Date.parse(i.stageChange.at) < 2 * D;
+  const tierBonus = i.topTier === 1 ? 1.5 : i.topTier === 2 ? 0.8 : 0;
+  const korean = (i.playerTags ?? []).some(isKorean) ? 1 : 0;
+  return (i.score ?? 0) + (changedRecently ? 2 : 0) + Math.min(i.sourceCount, 6) * 0.4 + tierBonus + korean;
+}
+const SHOW = 8; // 칸마다 처음 보여줄 카드 수 (나머지는 더 보기)
 
 const cards = issues
   .filter((i: any) => i.category === 'transfer' && i.stage && i.resolution?.result !== 'expired' && trusted(i))
@@ -43,11 +53,14 @@ const cards = issues
       moveAt: lastMove(i),
       change: i.stageChange ? stageChangeInfo(i.stageChange) : null,
       clubs: i.clubs,
+      players: i.playerTags ?? [],
+      attention: attentionOf(i),
       leagues: [...new Set(i.clubs.map((c: string) => CLUB_BY_SLUG[c]?.league).filter(Boolean))],
       href: `/issue/${i.slug}`,
     };
   })
-  .sort((a: any, b: any) => Date.parse(b.moveAt) - Date.parse(a.moveAt));
+  // 칸 안 순서: 주목도 높은 순 (같으면 최근 단계 변화 순)
+  .sort((a: any, b: any) => b.attention - a.attention || Date.parse(b.moveAt) - Date.parse(a.moveAt));
 
 const columns = STAGES.map(([key, label]) => ({ key, label, items: cards.filter((c: any) => c.stage === key) }));
 const clubOptions = CLUBS.filter((c) => cards.some((x: any) => x.clubs.includes(c.slug))).sort((a, b) => a.ko.localeCompare(b.ko, 'ko'));
@@ -76,6 +89,7 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
     </label>
   </div>
   <FeedFilter target="board" />
+  <p class="small muted board-note">칸마다 주목도 순(최근 여러 매체 보도·단계 변화·신뢰도)으로 {SHOW}개씩 보여주며, 즐겨찾기한 클럽·선수와 내가 예측한 이적설이 맨 위에 옵니다. <a href="/me#pred" id="my-pred-link" hidden></a></p>
 
   <div class="tboard" id="board" data-filterable>
     {
@@ -92,6 +106,8 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
                 data-tier={c.topTier}
                 data-hot={c.hot ? '1' : '0'}
                 data-clubs={c.clubs.join(' ')}
+                data-players={c.players.join(' ')}
+                data-slug={c.slug}
                 data-leagues={c.leagues.join(' ')}
               >
                 <strong>{c.player ?? c.title}</strong>
@@ -106,6 +122,7 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
               </a>
             ))}
             <p class="muted col-empty" hidden={col.items.length > 0}>해당 단계 이적설이 없습니다</p>
+            <button type="button" class="linkish col-more" hidden>더 보기</button>
           </div>
         </details>
       ))
@@ -114,7 +131,7 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
   <FilterEmpty target="board" />
 </Layout>
 
-<script is:inline>
+<script is:inline define:vars={{ SHOW, pickLabels: { done: '성사', collapsed: '무산' } }}>
   (function () {
     var board = document.getElementById('board');
     var club = document.getElementById('t-club');
@@ -128,16 +145,55 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
       });
       if (window.__applyFeedFilters) window.__applyFeedFilters();
     }
-    // 단계별 표시 건수 갱신
+    // 즐겨찾기 클럽·선수 이적설을 칸 맨 위로 + 내가 예측한 이적설 표시
+    function personalize() {
+      var favC = window.FAV ? window.FAV.get('clubs') : [];
+      var favP = window.FAV ? window.FAV.get('players') : [];
+      board.querySelectorAll('.tcol-body').forEach(function (body) {
+        var cards = Array.prototype.slice.call(body.querySelectorAll('.bcard'));
+        var fav = function (el) {
+          var c = (el.getAttribute('data-clubs') || '').split(' '), p = (el.getAttribute('data-players') || '').split(' ');
+          var predicted = window.GAME && window.GAME.prediction && window.GAME.prediction(el.getAttribute('data-slug'));
+          return !!predicted || c.some(function (x) { return favC.indexOf(x) >= 0; }) || p.some(function (x) { return favP.indexOf(x) >= 0; });
+        };
+        var pinned = cards.filter(fav);
+        pinned.slice().reverse().forEach(function (el) { el.classList.add('is-fav'); body.insertBefore(el, body.firstChild); });
+      });
+      var n = 0;
+      board.querySelectorAll('.bcard').forEach(function (el) {
+        var p = window.GAME && window.GAME.prediction ? window.GAME.prediction(el.getAttribute('data-slug')) : null;
+        if (!p) return;
+        n++;
+        var tag = document.createElement('span');
+        tag.className = 'my-pred';
+        tag.textContent = '🔮 내 예측: ' + (pickLabels[p.pick] || p.pick);
+        el.appendChild(tag);
+      });
+      var link = document.getElementById('my-pred-link');
+      if (n) { link.textContent = '🔮 내가 예측한 이적설 ' + n + '건 모아 보기 →'; link.hidden = false; }
+    }
+    // 단계별 표시 건수 갱신 + 칸마다 SHOW개 넘으면 접기
     board.addEventListener('filter-applied', function () {
       board.querySelectorAll('.tcol').forEach(function (col) {
         var n = 0;
+        var open = col.classList.contains('expanded');
         col.querySelectorAll('.bcard').forEach(function (el) {
-          if (!el.hidden && !el.classList.contains('f-tier-hide')) n++;
+          var visible = !el.hidden && !el.classList.contains('f-tier-hide');
+          if (visible) n++;
+          el.classList.toggle('more-hide', visible && !open && n > SHOW);
         });
         col.querySelector('.tcount').textContent = n;
         col.querySelector('.col-empty').hidden = n > 0;
+        var more = col.querySelector('.col-more');
+        more.hidden = n <= SHOW;
+        more.textContent = open ? '접기' : '더 보기 (' + (n - SHOW) + ')';
       });
+    });
+    board.addEventListener('click', function (e) {
+      var b = e.target.closest && e.target.closest('.col-more');
+      if (!b) return;
+      b.closest('.tcol').classList.toggle('expanded');
+      apply();
     });
     // 즐겨찾기 클럽을 클럽 목록 맨 위로
     function sortClubs() {
@@ -155,6 +211,6 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
     club.addEventListener('change', apply);
     league.addEventListener('change', apply);
     document.addEventListener('feed-filter-reset', function () { club.value = ''; league.value = ''; apply(); });
-    document.addEventListener('DOMContentLoaded', function () { sortClubs(); apply(); });
+    document.addEventListener('DOMContentLoaded', function () { sortClubs(); personalize(); apply(); });
   })();
 </script>

@@ -1,13 +1,20 @@
 ---
 // 내 기록: 등급·점수·연속 참여·퀴즈 이력·이적 예측 (브라우저 저장 기록으로 화면에서 계산)
 import Layout from '../layouts/Layout.astro';
-import { loadResolutions } from '../lib/data.mjs';
+import { loadResolutions, loadData } from '../lib/data.mjs';
+import { STAGE_LABEL } from '../lib/labels.mjs';
 import { GAME } from '../../config/game.mjs';
 import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { ACCURACY } from '../../config/site.mjs';
 
 const resolutions = loadResolutions();
+// 예측한 이적설의 현재 상태 (제목·단계) — 예측 목록에 표시
+const issueInfo = Object.fromEntries(
+  loadData()
+    .issues.filter((i: any) => i.category === 'transfer')
+    .map((i: any) => [i.slug, { t: i.titleKo || i.headline, s: i.resolution && i.resolution.result !== 'expired' ? i.resolution.result : i.stage }]),
+);
 // 매체 적중률: 표본이 충분한(displayable) 매체만 비교에 사용
 const accFile = path.resolve('data/accuracy.json');
 const acc = existsSync(accFile) ? JSON.parse(readFileSync(accFile, 'utf8')) : { sources: {} };
@@ -37,7 +44,7 @@ const media = Object.values(acc.sources ?? {})
     </div>
   </section>
 
-  <section>
+  <section id="pred">
     <h2 class="sec">🔮 {GAME.predict.title} <small>{GAME.predict.tagline}</small></h2>
     <p class="muted small" id="pred-cmp"></p>
     <ul class="me-list" id="pred-list"></ul>
@@ -54,7 +61,7 @@ const media = Object.values(acc.sources ?? {})
   <div class="toast" id="me-toast" role="status" aria-live="polite" hidden>복사됐어요</div>
 </Layout>
 
-<script is:inline define:vars={{ resolutions, media, predictCfg: GAME.predict, minSample: ACCURACY.minSampleForDisplay }}>
+<script is:inline define:vars={{ resolutions, issueInfo, stageLabel: STAGE_LABEL, media, predictCfg: GAME.predict, minSample: ACCURACY.minSampleForDisplay }}>
   (function () {
     var $ = function (id) { return document.getElementById(id); };
     var esc = function (s) {
@@ -93,7 +100,9 @@ const media = Object.values(acc.sources ?? {})
       $('pred-empty').hidden = p.list.length > 0;
       $('pred-list').innerHTML = p.list
         .map(function (x) {
-          return '<li><a href="/issue/' + encodeURIComponent(x.slug) + '">' + esc(x.title || x.slug) + '</a><span class="me-tags"><span class="cat">내 예측 ' + pickLabel[x.pick] + '</span><span class="pstat pstat-' + x.status + '">' + statusLabel[x.status] + '</span></span></li>';
+          var info = issueInfo[x.slug];
+          var now = info && info.s ? '<span class="stage stage-' + info.s + '">현재 ' + esc(stageLabel[info.s] || info.s) + '</span>' : '';
+          return '<li><a href="/issue/' + encodeURIComponent(x.slug) + '">' + esc((info && info.t) || x.title || x.slug) + '</a><span class="me-tags">' + now + '<span class="cat">내 예측 ' + pickLabel[x.pick] + '</span><span class="pstat pstat-' + x.status + '">' + statusLabel[x.status] + '</span></span></li>';
         })
         .join('');
 

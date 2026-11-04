@@ -290,6 +290,12 @@ a.player-tile { flex-direction: column; justify-content: flex-start; }
 .bcard .route { color: var(--navy-text); font-size: 13px; line-height: 18px; font-weight: 600; }
 .bcard .btitle { color: var(--text-2); font-size: 12px; line-height: 18px; }
 .bcard .meta { margin-top: 4px; }
+.bcard.more-hide { display: none; }
+.bcard.is-fav { border-color: var(--line-strong); }
+.bcard.is-fav strong::before { content: '★ '; color: var(--blue); }
+.bcard .my-pred { margin-top: 4px; font-size: 12px; font-weight: 600; color: var(--navy-text); }
+.col-more { margin-top: 4px; align-self: center; font-size: 13px; }
+.board-note { margin: 4px 0 12px; }
 .col-empty { font-size: 12px; margin: 4px; }
 
 /* ── 아카이브·검색 입력 (검색창: neutral-50 면, 8px) ── */
