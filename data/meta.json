@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T06:26:28.478Z",
+ "updatedAt": "2026-11-04T07:45:54.311Z",
  "hot": [
   "man-utd-roma-2026-11-03",
+  "de-miguel-incident",
+  "real-madrid-aek-athens-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "man-city-leipzig-2026-11-03",
-  "atletico-bayern-2026-11-03",
-  "saliba-injury"
+  "man-city-leipzig-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -28,7 +28,7 @@
   "bbc": {
    "ok": true,
    "items": 74,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -64,7 +64,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,13 +76,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 11,
    "authorRate": 82
   },
   "fblondon": {
@@ -94,19 +94,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 80
   },
   "waz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,31 +142,31 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 22,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -177,30 +177,30 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 7,
+   "added": 7,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 37
+   "count": 38
   },
   {
    "name": "리산드로 마르티네스",
-   "count": 10
+   "count": 11
   },
   {
    "name": "그릴리시",
    "count": 7
   },
   {
-   "name": "아이트누리",
-   "count": 6
+   "name": "잭 그릴리시",
+   "count": 7
   },
   {
-   "name": "잭 그릴리시",
+   "name": "아이트누리",
    "count": 6
   },
   {
@@ -213,6 +213,10 @@
   },
   {
    "name": "노이어",
+   "count": 4
+  },
+  {
+   "name": "카마빙가",
    "count": 4
   },
   {
@@ -248,25 +252,21 @@
    "count": 3
   },
   {
-   "name": "카마빙가",
-   "count": 3
-  },
-  {
    "name": "루이스 수아레스",
    "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 122,
+  "recentIssues": 126,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 80
+    "count": 83
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 54
+    "count": 57
    },
    {
     "slug": "atletico-bayern-2026-11-03",
@@ -274,11 +274,19 @@
    },
    {
     "slug": "villarreal-psg-2026-11-03",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
     "count": 18
+   },
+   {
+    "slug": "shakhtar-sporting-2026-11-03",
+    "count": 15
+   },
+   {
+    "slug": "losc-bodo-glimt-2026-11-03",
+    "count": 15
    },
    {
     "slug": "newcastle-everton-2026-11-03",
@@ -297,7 +305,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 50
+     "count": 53
     },
     {
      "ko": "제수스 데 미겔",
@@ -349,7 +357,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "재이슬레",
@@ -410,11 +418,11 @@
      "count": 2
     },
     {
-     "ko": "호아킨 오워노",
-     "count": 1
+     "ko": "헤수스 오워노",
+     "count": 2
     },
     {
-     "ko": "헤수스 오워노",
+     "ko": "호아킨 오워노",
      "count": 1
     },
     {
@@ -429,7 +437,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 4
+     "count": 5
     },
     {
      "ko": "모리뉴",
@@ -539,6 +547,24 @@
     },
     {
      "ko": "파비안 루이스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Undav",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "운데이",
+     "count": 1
+    },
+    {
+     "ko": "운다브",
+     "count": 1
+    },
+    {
+     "ko": "운다프",
      "count": 1
     }
    ]
@@ -740,20 +766,6 @@
    ]
   },
   {
-   "en": "Undav",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "운데이",
-     "count": 1
-    },
-    {
-     "ko": "운다브",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gabby Logan",
    "dictionary": null,
    "variants": [
@@ -846,8 +858,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 592,
-   "llm": 592
+   "collected": 638,
+   "llm": 638
   }
  }
 }
