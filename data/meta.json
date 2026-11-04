@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T09:51:13.283Z",
+ "updatedAt": "2026-11-04T10:59:26.643Z",
  "hot": [
   "parker-west-ham-appointment",
   "de-miguel-incident",
-  "man-utd-roma-2026-11-03",
   "gabriel-real-madrid-transfer",
-  "barcelona-aston-villa-2026-11-03"
+  "man-utd-roma-2026-11-03",
+  "fonseca-sporting-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -28,19 +28,19 @@
   "bbc": {
    "ok": true,
    "items": 75,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 1,
+   "items": 59,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -52,19 +52,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 48,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 1,
+   "items": 51,
+   "added": 18,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,31 +76,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 8,
    "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,7 +142,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
@@ -154,31 +154,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 11,
+   "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 3,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -254,35 +254,43 @@
   {
    "name": "루이스 수아레스",
    "count": 3
+  },
+  {
+   "name": "웨인 루니",
+   "count": 3
+  },
+  {
+   "name": "JJ 가브리엘",
+   "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 127,
+  "recentIssues": 129,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 84
+    "count": 92
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 62
+    "count": 64
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 25
+    "count": 26
    },
    {
     "slug": "villarreal-psg-2026-11-03",
-    "count": 22
+    "count": 23
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 19
+    "count": 20
    },
    {
     "slug": "parker-west-ham-appointment",
-    "count": 15
+    "count": 19
    },
    {
     "slug": "shakhtar-sporting-2026-11-03",
@@ -309,7 +317,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 54
+     "count": 60
     },
     {
      "ko": "제수스 데 미겔",
@@ -356,11 +364,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "야이슬레",
-     "count": 4
+     "ko": "마티아스 야이슬레",
+     "count": 5
     },
     {
-     "ko": "마티아스 야이슬레",
+     "ko": "야이슬레",
      "count": 4
     },
     {
@@ -396,24 +404,6 @@
    ]
   },
   {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데이비드 모예스",
-     "count": 3
-    },
-    {
-     "ko": "모예스",
-     "count": 3
-    },
-    {
-     "ko": "모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jesus Owono",
    "dictionary": null,
    "variants": [
@@ -432,6 +422,28 @@
     {
      "ko": "오워노",
      "count": 1
+    },
+    {
+     "ko": "오웨노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데이비드 모예스",
+     "count": 3
+    },
+    {
+     "ko": "모예스",
+     "count": 3
+    },
+    {
+     "ko": "모이스",
+     "count": 1
     }
    ]
   },
@@ -441,10 +453,38 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오워노",
+     "count": 5
+    },
+    {
+     "ko": "오웨노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 3
+    },
+    {
+     "ko": "J.J. 가브리엘",
      "count": 1
     }
    ]
@@ -473,6 +513,20 @@
     },
     {
      "ko": "칼",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제이미 캐러거",
+     "count": 2
+    },
+    {
+     "ko": "카라거",
      "count": 1
     }
    ]
@@ -686,20 +740,6 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카라거",
-     "count": 1
-    },
-    {
-     "ko": "제이미 캐러거",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -770,6 +810,20 @@
    ]
   },
   {
+   "en": "Íñigo Pérez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이녜스 페레스",
+     "count": 1
+    },
+    {
+     "ko": "이니고 페레스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Shea Lacey",
    "dictionary": null,
    "variants": [
@@ -826,6 +880,20 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토헬",
+     "count": 1
+    },
+    {
+     "ko": "투헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Prince William",
    "dictionary": null,
    "variants": [
@@ -876,8 +944,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 697,
-   "llm": 697
+   "collected": 772,
+   "llm": 772
   }
  }
 }
