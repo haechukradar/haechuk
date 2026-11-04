@@ -1,10 +1,125 @@
 [
  {
+  "slug": "raphinha-contract",
+  "mode": "llm",
+  "titleKo": "하피냐 2030년까지 재계약",
+  "createdAt": "2026-11-04T15:34:38.000Z",
+  "updatedAt": "2026-11-04T15:34:38.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "barcelona"
+  ],
+  "players": [
+   "하피냐"
+  ],
+  "sig": [],
+  "articles": [
+   {
+    "id": "5e61093ab09b",
+    "url": "https://as.com/futbol/primera/raphinha-hasta-2030-f202611-n/",
+    "title": "Raphinha, hasta 2030",
+    "ko": "하피냐, 2030년까지 재계약",
+    "source": "as",
+    "publishedAt": "2026-11-04T15:34:38.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Sergi de Juan",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.9,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "5e61093ab09b",
+    "at": "2026-11-04T15:34:38.000Z",
+    "source": "as",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "raphinha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-04T15:34:38.000Z",
+   "viaQuote": false
+  },
+  "headline": "Raphinha, hasta 2030"
+ },
+ {
+  "slug": "lens-como-2026-11-04",
+  "mode": "llm",
+  "titleKo": "렌스 대 콤 유스리그 경기",
+  "createdAt": "2026-11-04T15:30:18.000Z",
+  "updatedAt": "2026-11-04T15:30:18.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "u19",
+   "lens",
+   "côme",
+   "youth"
+  ],
+  "articles": [
+   {
+    "id": "53168f9e2e24",
+    "url": "https://www.lequipe.fr/Football/Actualites/Sur-leur-terrain-les-u19-de-lens-s-imposent-face-a-come-en-youth-league/1741097#at_medium=RSS_feeds",
+    "title": "Sur leur terrain, les U19 de Lens s'imposent face à Côme en Youth League",
+    "ko": "렌스 U19, 홈에서 콤 꺾고 유스리그 승리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T15:30:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.87,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-04T15:30:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sur leur terrain, les U19 de Lens s'imposent face à Côme en Youth League"
+ },
+ {
   "slug": "gabriel-real-madrid-transfer",
   "mode": "llm",
   "titleKo": "레알 마드리드 J.J. 가브리엘 영입 합의 보도",
   "createdAt": "2026-11-04T09:15:15.000Z",
-  "updatedAt": "2026-11-04T14:48:17.000Z",
+  "updatedAt": "2026-11-04T15:25:53.000Z",
   "category": "transfer",
   "stage": "agreement",
   "clubs": [
@@ -264,11 +379,36 @@
      "from": "맨유",
      "to": "레알 마드리드"
     }
+   },
+   {
+    "id": "28167bdc164f",
+    "url": "https://www.footballinsider247.com/manchester-united/transfers/man-uniteds-jj-gabriel-compensation-revealed-after-he-agrees-to-join-real-madrid",
+    "title": "Man United's JJ Gabriel compensation revealed after he agrees to join Real Madrid",
+    "ko": "JJ 가브리엘, 레알 마드리드 이적 합의 후 맨유 보상금 공개",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T15:25:53.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
    }
   ],
-  "recentSources": 9,
-  "sourceCount": 9,
-  "score": 7.46,
+  "recentSources": 10,
+  "sourceCount": 10,
+  "score": 6.94,
   "topTier": 1,
   "stageHistory": [
    {
@@ -307,86 +447,222 @@
   "headline": "Real Madrid confident of signing Man Utd's Gabriel"
  },
  {
-  "slug": "dortmund-injury",
+  "slug": "liverpool-fenerbahce-2026-11-03",
   "mode": "llm",
-  "titleKo": "도르트문트 케심·쥐네 출전 여부 불투명",
-  "createdAt": "2026-11-04T11:51:08.000Z",
-  "updatedAt": "2026-11-04T14:43:16.000Z",
-  "category": "injury",
+  "titleKo": "리버풀 대 페네르바체 챔피언스리그 경기",
+  "createdAt": "2026-11-03T09:59:00.000Z",
+  "updatedAt": "2026-11-04T15:00:00.000Z",
+  "category": "match",
   "stage": null,
   "clubs": [
-   "dortmund"
+   "liverpool"
   ],
   "players": [
-   "사비처"
+   "알렉산데르 이삭",
+   "도미니크 소보슬러이",
+   "트레이 뇨니"
   ],
   "sig": [
-   "kesim",
-   "süne",
-   "duell"
+   "fenerbahce"
   ],
   "articles": [
    {
-    "id": "94fd3bf47dc7",
-    "url": "https://www.kicker.de/oberhausen-kesim-und-suene-fuer-dortmund-duell-fraglich-1268418/artikel#omrss",
-    "title": "Oberhausen: Kesim und Süne für Dortmund-Duell fraglich",
-    "ko": "도르트문트, 케심·쥐네 출전 여부 불투명",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T11:51:08.000Z",
+    "id": "5fc7bcfbe876",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-major-midfielder-omitted-22-34854125",
+    "title": "Liverpool major midfielder omitted as 22-man Champions League squad named vs Fenerbahce",
+    "ko": "리버풀, 페네르바체전 챔피언스리그 22인 명단서 주요 미드필더 제외",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T09:59:00.000Z",
     "credited": null,
-    "category": "injury",
+    "category": "match",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": null,
+    "author": "Ian Doyle",
     "transfer": null,
     "clubs": [
-     "dortmund"
+     "liverpool"
     ]
    },
    {
-    "id": "6a44279f525d",
-    "url": "https://www.kicker.de/kurzfristig-ohne-sabitzer-wie-der-bvb-auflaufen-koennte-und-wo-die-entscheidenden-duelle-liegen-1268379/artikel#omrss",
-    "title": "Kurzfristig ohne Sabitzer: Wie der BVB auflaufen könnte - und wo die entscheidenden Duelle liegen",
-    "ko": "사비처 결장 가능성…BVB 출전 명단 전망",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T14:43:16.000Z",
+    "id": "1c9986857cd0",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dirk-kuyt-sends-liverpool-warning-34856696",
+    "title": "Dirk Kuyt sends Liverpool warning ahead of Fenerbahce clash - 'won't believe what they see'",
+    "ko": "커이트, 페네르바체전 앞둔 리버풀에 경고",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T17:06:04.000Z",
     "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null,
     "clubs": [
-     "dortmund"
-    ],
-    "category": "injury",
+     "liverpool"
+    ]
+   },
+   {
+    "id": "cf1767c116db",
+    "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
+    "title": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
+    "ko": "이라올라, 페네르바체전 앞두고 리버풀 공격 날카롭게 가다듬기 촉구",
+    "source": "guardian",
+    "publishedAt": "2026-11-03T18:42:11.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Andy Hunter in Istanbul",
+    "transfer": null,
+    "clubs": [
+     "liverpool"
+    ]
+   },
+   {
+    "id": "ad35e47e213d",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-admits-what-liverpool-34858486",
+    "title": "Andoni Iraola admits what Liverpool are missing ahead of Fenerbahce clash",
+    "ko": "이라올라, 리버풀의 페네르바체전 결핍 요소 인정",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T18:52:35.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Gorst",
+    "transfer": null,
+    "clubs": [
+     "liverpool"
+    ]
+   },
+   {
+    "id": "1bb2da27ca5f",
+    "url": "https://www.thesun.co.uk/sport/40894477/fenerbahce-liverpool-predictions-bets/",
+    "title": "Fenerbahce vs Liverpool | Champions League predictions, preview and free bets",
+    "ko": "페네르바체 대 리버풀 챔피언스리그 경기 예측과 무료 베팅",
+    "source": "sun",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null,
+    "clubs": [
+     "liverpool"
+    ]
+   },
+   {
+    "id": "2dd73974253b",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-line-ups-vs-fenerbahce-34859993",
+    "title": "Liverpool line-ups vs Fenerbahce decided as Trey Nyoni and Dominik Szoboszlai decisions made",
+    "ko": "리버풀, 페네르바체전 선발 라인업 확정…트레이 뇨니·소보슬라이 결정",
+    "source": "lecho",
+    "publishedAt": "2026-11-04T10:10:26.000Z",
+    "credited": null,
+    "category": "match",
     "stage": null,
     "players": [
-     "사비처"
+     "트레이 뇨니",
+     "도미니크 소보슬러이"
     ],
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Ian Doyle, Paul Gorst, Theo Squires, Richard Garnett",
+    "transfer": null,
+    "clubs": [
+     "liverpool"
+    ]
+   },
+   {
+    "id": "da3e5a6e121d",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/fenerbahce-vs-liverpool-u19-live-34860321",
+    "title": "Fenerbahce vs Liverpool U19 LIVE - UEFA Youth League updates from Istanbul",
+    "ko": "페네르바체 대 리버풀 U19, 유스리그 라이브 중계",
+    "source": "lecho",
+    "publishedAt": "2026-11-04T10:39:32.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
     "playerTags": [],
-    "author": null,
+    "author": "Ian Doyle, Paul Gorst",
+    "transfer": null,
+    "clubs": [
+     "liverpool"
+    ]
+   },
+   {
+    "id": "4ab1d392714d",
+    "url": "https://www.thesun.co.uk/sport/40910031/alexander-isak-fenerbahce-liverpool-betfred-boost/",
+    "title": "Fenerbahce vs Liverpool Turbo Boost: Get Evens on Alexander Isak to score or assist | Betfred",
+    "ko": "페네르바체 대 리버풀, 알렉산데르 이삭 득점·도움 배당 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-04T10:56:24.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "알렉산데르 이삭"
+    ],
+    "playerTags": [
+     "alexander-isak"
+    ],
+    "author": "Craig Mahood",
+    "transfer": null,
+    "clubs": [
+     "liverpool"
+    ]
+   },
+   {
+    "id": "332a49ecfb93",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-fenerbahce-champions-league-tv-34854195",
+    "title": "Is Fenerbahce vs Liverpool on TV? Channel, live streaming and kick-off time",
+    "ko": "페네르바체 대 리버풀 경기, TV 중계와 킥오프 시간 안내",
+    "source": "lecho",
+    "publishedAt": "2026-11-04T15:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Abbie Meehan",
     "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.16,
+  "recentSources": 2,
+  "sourceCount": 3,
+  "score": 0.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [],
+  "playerTags": [
+   "dominik-szoboszlai",
+   "alexander-isak"
+  ],
   "transfer": null,
   "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-04T11:51:08.000Z",
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-03T09:59:00.000Z",
    "viaQuote": false
   },
-  "headline": "Kurzfristig ohne Sabitzer: Wie der BVB auflaufen könnte - und wo die entscheidenden Duelle liegen"
+  "headline": "Is Fenerbahce vs Liverpool on TV? Channel, live streaming and kick-off time"
  },
  {
   "slug": "de-miguel-incident",
   "mode": "llm",
   "titleKo": "데 미겔 사망 사고, 스페인축구협회 경기 연기",
   "createdAt": "2026-11-03T09:39:19.000Z",
-  "updatedAt": "2026-11-04T14:38:00.000Z",
+  "updatedAt": "2026-11-04T14:58:00.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -2120,11 +2396,31 @@
     "playerTags": [],
     "author": "Stephan Keygnaert",
     "transfer": null
+   },
+   {
+    "id": "46fc0dfce234",
+    "url": "https://www.hln.be/buitenlands-voetbal/zelfs-een-spelersvrouw-van-real-madrid-roert-zich-hoe-spanje-steeds-luider-de-vraag-stelt-of-doelman-owono-schuldig-is-aan-de-dood-van-jesus-de-miguel~a3c2b406/",
+    "title": "Zelfs een spelersvrouw van Real Madrid roert zich: hoe Spanje steeds luider de vraag stelt of doelman Owono schuldig is aan de dood van Jesús de Miguel",
+    "ko": "레알 마드리드 골키퍼 오워노, 헤수스 데 미겔 사망 책임 논란 확산",
+    "source": "hln",
+    "publishedAt": "2026-11-04T14:58:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Stephan Keygnaert",
+    "transfer": null
    }
   ],
   "recentSources": 10,
   "sourceCount": 14,
-  "score": 7.64,
+  "score": 6.54,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2146,6 +2442,81 @@
   "aliases": [
    "de-miguel-discipline"
   ]
+ },
+ {
+  "slug": "dortmund-injury",
+  "mode": "llm",
+  "titleKo": "도르트문트 케심·쥐네 출전 여부 불투명",
+  "createdAt": "2026-11-04T11:51:08.000Z",
+  "updatedAt": "2026-11-04T14:43:16.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "dortmund"
+  ],
+  "players": [
+   "사비처"
+  ],
+  "sig": [
+   "kesim",
+   "süne",
+   "duell"
+  ],
+  "articles": [
+   {
+    "id": "94fd3bf47dc7",
+    "url": "https://www.kicker.de/oberhausen-kesim-und-suene-fuer-dortmund-duell-fraglich-1268418/artikel#omrss",
+    "title": "Oberhausen: Kesim und Süne für Dortmund-Duell fraglich",
+    "ko": "도르트문트, 케심·쥐네 출전 여부 불투명",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T11:51:08.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "dortmund"
+    ]
+   },
+   {
+    "id": "6a44279f525d",
+    "url": "https://www.kicker.de/kurzfristig-ohne-sabitzer-wie-der-bvb-auflaufen-koennte-und-wo-die-entscheidenden-duelle-liegen-1268379/artikel#omrss",
+    "title": "Kurzfristig ohne Sabitzer: Wie der BVB auflaufen könnte - und wo die entscheidenden Duelle liegen",
+    "ko": "사비처 결장 가능성…BVB 출전 명단 전망",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T14:43:16.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "사비처"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.99,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-04T11:51:08.000Z",
+   "viaQuote": false
+  },
+  "headline": "Kurzfristig ohne Sabitzer: Wie der BVB auflaufen könnte - und wo die entscheidenden Duelle liegen"
  },
  {
   "slug": "nottingham-forest-manager-future",
@@ -2299,7 +2670,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.75,
+  "score": 0.64,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2458,7 +2829,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 4,
-  "score": 2.5,
+  "score": 2.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2771,7 +3142,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.41,
+  "score": 2.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2825,7 +3196,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.79,
+  "score": 1.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2889,7 +3260,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.78,
+  "score": 1.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2937,7 +3308,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.75,
+  "score": 1.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2990,7 +3361,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.7,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3041,7 +3412,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -3119,7 +3490,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.45,
+  "score": 1.24,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -3263,7 +3634,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.5,
+  "score": 0.43,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -3412,7 +3783,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 3.94,
+  "score": 3.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3532,7 +3903,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.72,
+  "score": 0.62,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3591,7 +3962,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.5,
+  "score": 0.42,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -3638,7 +4009,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.41,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4975,7 +5346,7 @@
   ],
   "recentSources": 9,
   "sourceCount": 15,
-  "score": 4.46,
+  "score": 3.82,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5471,7 +5842,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 6,
-  "score": 1.95,
+  "score": 1.67,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5587,7 +5958,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 2.54,
+  "score": 2.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5640,7 +6011,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.54,
+  "score": 1.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5737,7 +6108,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.53,
+  "score": 1.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5842,7 +6213,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 4.93,
+  "score": 4.22,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5899,7 +6270,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.51,
+  "score": 1.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5999,7 +6370,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.58,
+  "score": 2.21,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6071,7 +6442,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.48,
+  "score": 1.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6200,7 +6571,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.88,
+  "score": 0.75,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -6248,7 +6619,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.24,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6279,6 +6650,22 @@
   ],
   "articles": [
    {
+    "id": "b9195e1980f6",
+    "url": "https://www.kicker.de/auf-sicht-in-dieser-liga-schwer-msv-weist-siebenstelligen-gewinn-aus-1268453/artikel#omrss",
+    "title": "\"Auf Sicht in dieser Liga schwer\": MSV weist siebenstelligen Gewinn aus",
+    "ko": "MSV 뒤스부르크, 7자리 흑자 발표…\"이 리그에서 수익 내기 어렵다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T12:18:12.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
     "id": "8f4a004b222e",
     "url": "https://www.kicker.de/wirtschaftlich-stabiles-fundament-ksc-verzeichnet-millionengewinn-1268475/artikel#omrss",
     "title": "\"Wirtschaftlich stabiles Fundament\": KSC verzeichnet Millionengewinn",
@@ -6297,7 +6684,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.43,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6306,7 +6693,7 @@
   "firstReport": {
    "name": "키커",
    "source": "kicker",
-   "at": "2026-11-04T13:03:52.000Z",
+   "at": "2026-11-04T12:18:12.000Z",
    "viaQuote": false
   },
   "headline": "\"Wirtschaftlich stabiles Fundament\": KSC verzeichnet Millionengewinn"
@@ -6354,7 +6741,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.42,
+  "score": 1.22,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6450,7 +6837,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6692,7 +7079,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 3.85,
+  "score": 3.29,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6767,7 +7154,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.37,
+  "score": 1.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6851,7 +7238,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.35,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6946,7 +7333,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.19,
+  "score": 1.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7057,7 +7444,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7140,7 +7527,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7590,7 +7977,7 @@
   ],
   "recentSources": 8,
   "sourceCount": 11,
-  "score": 6.09,
+  "score": 5.21,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7646,7 +8033,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7716,7 +8103,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7826,7 +8213,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7873,7 +8260,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7932,7 +8319,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.24,
+  "score": 1.06,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7995,7 +8382,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8048,7 +8435,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.16,
+  "score": 1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8330,7 +8717,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 8,
-  "score": 1.6,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8462,7 +8849,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.16,
+  "score": 0.99,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8609,7 +8996,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 2.17,
+  "score": 1.86,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8753,7 +9140,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8802,7 +9189,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.11,
+  "score": 0.95,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8849,7 +9236,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.08,
+  "score": 0.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8910,7 +9297,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.28,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9051,7 +9438,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.07,
+  "score": 0.91,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9460,7 +9847,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 1.04,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9710,7 +10097,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.5,
+  "score": 0.43,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9722,199 +10109,6 @@
    "viaQuote": true
   },
   "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
- },
- {
-  "slug": "liverpool-fenerbahce-2026-11-03",
-  "mode": "llm",
-  "titleKo": "리버풀 대 페네르바체 챔피언스리그 경기",
-  "createdAt": "2026-11-03T09:59:00.000Z",
-  "updatedAt": "2026-11-04T10:56:24.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "liverpool"
-  ],
-  "players": [
-   "알렉산데르 이삭",
-   "도미니크 소보슬러이",
-   "트레이 뇨니"
-  ],
-  "sig": [
-   "fenerbahce"
-  ],
-  "articles": [
-   {
-    "id": "5fc7bcfbe876",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-major-midfielder-omitted-22-34854125",
-    "title": "Liverpool major midfielder omitted as 22-man Champions League squad named vs Fenerbahce",
-    "ko": "리버풀, 페네르바체전 챔피언스리그 22인 명단서 주요 미드필더 제외",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T09:59:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "1c9986857cd0",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dirk-kuyt-sends-liverpool-warning-34856696",
-    "title": "Dirk Kuyt sends Liverpool warning ahead of Fenerbahce clash - 'won't believe what they see'",
-    "ko": "커이트, 페네르바체전 앞둔 리버풀에 경고",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T17:06:04.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "cf1767c116db",
-    "url": "https://www.theguardian.com/football/2026/nov/03/andoni-iraola-calls-on-liverpool-to-sharpen-up-in-attack-before-fenerbahce-test",
-    "title": "Andoni Iraola calls on Liverpool to sharpen up in attack before Fenerbahce test",
-    "ko": "이라올라, 페네르바체전 앞두고 리버풀 공격 날카롭게 가다듬기 촉구",
-    "source": "guardian",
-    "publishedAt": "2026-11-03T18:42:11.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Andy Hunter in Istanbul",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "ad35e47e213d",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-admits-what-liverpool-34858486",
-    "title": "Andoni Iraola admits what Liverpool are missing ahead of Fenerbahce clash",
-    "ko": "이라올라, 리버풀의 페네르바체전 결핍 요소 인정",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T18:52:35.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Gorst",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "1bb2da27ca5f",
-    "url": "https://www.thesun.co.uk/sport/40894477/fenerbahce-liverpool-predictions-bets/",
-    "title": "Fenerbahce vs Liverpool | Champions League predictions, preview and free bets",
-    "ko": "페네르바체 대 리버풀 챔피언스리그 경기 예측과 무료 베팅",
-    "source": "sun",
-    "publishedAt": "2026-11-04T07:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "2dd73974253b",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-line-ups-vs-fenerbahce-34859993",
-    "title": "Liverpool line-ups vs Fenerbahce decided as Trey Nyoni and Dominik Szoboszlai decisions made",
-    "ko": "리버풀, 페네르바체전 선발 라인업 확정…트레이 뇨니·소보슬라이 결정",
-    "source": "lecho",
-    "publishedAt": "2026-11-04T10:10:26.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "트레이 뇨니",
-     "도미니크 소보슬러이"
-    ],
-    "playerTags": [
-     "dominik-szoboszlai"
-    ],
-    "author": "Ian Doyle, Paul Gorst, Theo Squires, Richard Garnett",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "da3e5a6e121d",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/fenerbahce-vs-liverpool-u19-live-34860321",
-    "title": "Fenerbahce vs Liverpool U19 LIVE - UEFA Youth League updates from Istanbul",
-    "ko": "페네르바체 대 리버풀 U19, 유스리그 라이브 중계",
-    "source": "lecho",
-    "publishedAt": "2026-11-04T10:39:32.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle, Paul Gorst",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   },
-   {
-    "id": "4ab1d392714d",
-    "url": "https://www.thesun.co.uk/sport/40910031/alexander-isak-fenerbahce-liverpool-betfred-boost/",
-    "title": "Fenerbahce vs Liverpool Turbo Boost: Get Evens on Alexander Isak to score or assist | Betfred",
-    "ko": "페네르바체 대 리버풀, 알렉산데르 이삭 득점·도움 배당 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-04T10:56:24.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "알렉산데르 이삭"
-    ],
-    "playerTags": [
-     "alexander-isak"
-    ],
-    "author": "Craig Mahood",
-    "transfer": null,
-    "clubs": [
-     "liverpool"
-    ]
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 1.02,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "dominik-szoboszlai",
-   "alexander-isak"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-03T09:59:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Liverpool line-ups vs Fenerbahce decided as Trey Nyoni and Dominik Szoboszlai decisions made"
  },
  {
   "slug": "west-ham-manager-future",
@@ -10061,7 +10255,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.99,
+  "score": 0.85,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10323,7 +10517,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 1.49,
+  "score": 1.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10459,7 +10653,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.98,
+  "score": 0.84,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10927,7 +11121,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 8,
-  "score": 1.37,
+  "score": 1.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11075,7 +11269,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.15,
+  "score": 0.99,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11135,7 +11329,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.24,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11260,7 +11454,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11311,7 +11505,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11391,7 +11585,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11524,7 +11718,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.22,
+  "score": 1.04,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11615,7 +11809,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.64,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11866,7 +12060,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12010,7 +12204,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12065,7 +12259,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12206,7 +12400,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.56,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12480,7 +12674,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12546,7 +12740,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12634,7 +12828,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.16,
+  "score": 0.14,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12962,7 +13156,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.57,
+  "score": 0.49,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13025,7 +13219,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13345,7 +13539,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.32,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13414,7 +13608,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13782,7 +13976,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13846,7 +14040,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13964,7 +14158,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.23,
+  "score": 0.2,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14022,7 +14216,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.23,
+  "score": 0.19,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -14077,7 +14271,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.22,
+  "score": 0.19,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -14314,7 +14508,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.54,
+  "score": 0.46,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14376,7 +14570,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -14469,7 +14663,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14546,7 +14740,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14650,7 +14844,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14713,9 +14907,9 @@
     ]
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {

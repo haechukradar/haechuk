@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-11-04T14:59:07.787Z",
+ "updatedAt": "2026-11-04T15:53:01.034Z",
  "hot": [
-  "de-miguel-incident",
   "gabriel-real-madrid-transfer",
+  "de-miguel-incident",
   "parker-west-ham-appointment",
   "real-madrid-affairs-nadal-appointment",
   "man-utd-roma-2026-11-03"
@@ -22,7 +22,8 @@
   "2026-11-01",
   "2026-11-02",
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "feeds": {
   "bbc": {
@@ -40,7 +41,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -58,13 +59,13 @@
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 11,
+   "items": 51,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,19 +77,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 2,
    "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -100,14 +101,14 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 80
+   "added": 2,
+   "authorRate": 78
   },
   "waz": {
    "ok": true,
@@ -130,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,7 +143,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -154,31 +155,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 2,
+   "items": 8,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -189,7 +190,7 @@
   },
   {
    "name": "오워노",
-   "count": 14
+   "count": 15
   },
   {
    "name": "데 미겔",
@@ -212,6 +213,10 @@
    "count": 6
   },
   {
+   "name": "JJ 가브리엘",
+   "count": 6
+  },
+  {
    "name": "노이어",
    "count": 6
   },
@@ -228,15 +233,11 @@
    "count": 5
   },
   {
-   "name": "달롯",
-   "count": 5
-  },
-  {
-   "name": "JJ 가브리엘",
-   "count": 5
-  },
-  {
    "name": "카마빙가",
+   "count": 5
+  },
+  {
+   "name": "달롯",
    "count": 5
   },
   {
@@ -265,6 +266,10 @@
   },
   {
    "name": "콘사",
+   "count": 3
+  },
+  {
+   "name": "뮐러",
    "count": 3
   },
   {
@@ -297,12 +302,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 168,
+  "recentIssues": 169,
   "singleArticleRate": 45,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 94
+    "count": 95
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -376,6 +381,20 @@
    ]
   },
   {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 6
+    },
+    {
+     "ko": "JJ 가브리엘",
+     "count": 5
+    }
+   ]
+  },
+  {
    "en": "Mourinho",
    "dictionary": null,
    "variants": [
@@ -386,20 +405,6 @@
     {
      "ko": "모리뉴",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 6
-    },
-    {
-     "ko": "JJ 가브리엘",
-     "count": 4
     }
    ]
   },
@@ -421,24 +426,6 @@
     },
     {
      "ko": "베리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Orkun Kökçü",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쾨크주",
-     "count": 3
-    },
-    {
-     "ko": "오르쿤 쾨퀴",
-     "count": 1
-    },
-    {
-     "ko": "오르쿤 쾨크주",
      "count": 1
     }
    ]
@@ -618,11 +605,11 @@
      "count": 1
     },
     {
-     "ko": "키어넌 듀즈버리홀",
+     "ko": "키에런 듀즈버리홀",
      "count": 1
     },
     {
-     "ko": "키에런 듀즈버리홀",
+     "ko": "키어넌 듀즈버리홀",
      "count": 1
     }
    ]
@@ -637,6 +624,24 @@
     },
     {
      "ko": "바리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 1
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 1
+    },
+    {
+     "ko": "쉐아 레이시",
      "count": 1
     }
    ]
@@ -669,24 +674,6 @@
     },
     {
      "ko": "디오고 달로",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰이 레이시",
-     "count": 1
-    },
-    {
-     "ko": "쉐아 레이시",
-     "count": 1
-    },
-    {
-     "ko": "쉐이 레이시",
      "count": 1
     }
    ]
@@ -982,6 +969,10 @@
   "2026-11-04": {
    "collected": 975,
    "llm": 2479
+  },
+  "2026-11-05": {
+   "collected": 36,
+   "llm": 36
   }
  },
  "llmErrors": []
