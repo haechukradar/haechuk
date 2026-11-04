@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T12:48:00.325Z",
+ "updatedAt": "2026-11-04T13:33:09.469Z",
  "hot": [
-  "parker-west-ham-appointment",
   "de-miguel-incident",
-  "man-utd-roma-2026-11-03",
+  "parker-west-ham-appointment",
   "gabriel-real-madrid-transfer",
-  "fonseca-sporting-appointment"
+  "real-madrid-affairs-nadal-appointment",
+  "man-utd-roma-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -28,26 +28,26 @@
   "bbc": {
    "ok": true,
    "items": 75,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
+   "items": 20,
    "added": 0,
-   "authorRate": 0
+   "authorRate": 90
   },
   "athletic": {
    "ok": true,
@@ -57,14 +57,14 @@
   },
   "marca": {
    "ok": true,
-   "items": 48,
+   "items": 49,
    "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,31 +76,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 84
+   "added": 0,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -130,13 +130,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -160,55 +160,71 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 39
+   "count": 47
   },
   {
-   "name": "리산드로 마르티네스",
+   "name": "오워노",
+   "count": 12
+  },
+  {
+   "name": "데 미겔",
    "count": 11
   },
   {
    "name": "그릴리시",
+   "count": 11
+  },
+  {
+   "name": "리산드로 마르티네스",
+   "count": 10
+  },
+  {
+   "name": "그라벤베르흐",
    "count": 7
   },
   {
-   "name": "잭 그릴리시",
-   "count": 7
+   "name": "노이어",
+   "count": 6
+  },
+  {
+   "name": "크루피",
+   "count": 5
+  },
+  {
+   "name": "헤수스 오워노",
+   "count": 5
   },
   {
    "name": "아이트누리",
-   "count": 6
+   "count": 5
   },
   {
-   "name": "디오고 달롯",
-   "count": 6
-  },
-  {
-   "name": "토마스 뮐러",
+   "name": "달롯",
    "count": 5
   },
   {
@@ -216,15 +232,19 @@
    "count": 5
   },
   {
-   "name": "제수스 오워노",
-   "count": 4
-  },
-  {
-   "name": "오워노",
-   "count": 4
-  },
-  {
    "name": "웨인 루니",
+   "count": 4
+  },
+  {
+   "name": "맥스 다우먼",
+   "count": 4
+  },
+  {
+   "name": "티에르노 배리",
+   "count": 4
+  },
+  {
+   "name": "프레스티아니",
    "count": 4
   },
   {
@@ -232,145 +252,103 @@
    "count": 4
   },
   {
-   "name": "노이어",
-   "count": 4
-  },
-  {
-   "name": "그라벤베르흐",
+   "name": "브로비",
    "count": 3
   },
   {
-   "name": "이오아니디스",
+   "name": "버게스",
    "count": 3
   },
   {
-   "name": "데 미겔",
+   "name": "콘사",
    "count": 3
   },
   {
-   "name": "토니 브로뇨",
+   "name": "키케 살라스",
    "count": 3
   },
   {
-   "name": "티에르노 배리",
+   "name": "데이비드 베컴",
    "count": 3
   },
   {
-   "name": "오르쿤 쾨크주",
+   "name": "잭 그릴리시",
    "count": 3
   },
   {
-   "name": "한스 바나켄",
+   "name": "쾨크주",
    "count": 3
   },
   {
-   "name": "티에른 바리",
+   "name": "트레이 뇨니",
    "count": 3
   },
   {
-   "name": "맥스 다우먼",
+   "name": "J.J. 가브리엘",
    "count": 3
   },
   {
-   "name": "프레스티아니",
+   "name": "브레들로",
    "count": 3
   },
   {
-   "name": "루이스 수아레스",
+   "name": "토마스 뮐러",
    "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 133,
-  "singleArticleRate": 41,
+  "recentIssues": 159,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 97
+    "count": 93
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 70
+    "count": 65
    },
    {
-    "slug": "atletico-bayern-2026-11-03",
-    "count": 26
+    "slug": "parker-west-ham-appointment",
+    "count": 23
    },
    {
     "slug": "villarreal-psg-2026-11-03",
     "count": 23
    },
    {
-    "slug": "parker-west-ham-appointment",
-    "count": 20
+    "slug": "atletico-bayern-2026-11-03",
+    "count": 21
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 20
+    "count": 18
    },
    {
-    "slug": "shakhtar-sporting-2026-11-03",
-    "count": 15
+    "slug": "fonseca-sporting-appointment",
+    "count": 16
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
-    "count": 15
-   },
-   {
-    "slug": "newcastle-everton-2026-11-03",
-    "count": 15
+    "count": 16
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
-    "count": 15
+    "count": 16
    }
   ]
  },
  "nameReport": [
-  {
-   "en": "Jesus de Miguel",
-   "dictionary": "헤수스 데 미겔",
-   "variants": [
-    {
-     "ko": "헤수스 데 미겔",
-     "count": 63
-    },
-    {
-     "ko": "제수스 데 미겔",
-     "count": 6
-    },
-    {
-     "ko": "데 미겔",
-     "count": 3
-    },
-    {
-     "ko": "헤수스 데 미구엘",
-     "count": 3
-    },
-    {
-     "ko": "호세스 데 미겔",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Nuno Espírito Santo",
    "dictionary": null,
    "variants": [
     {
      "ko": "누노 에스피리투 산투",
-     "count": 11
+     "count": 14
     },
     {
-     "ko": "누노 에스피리투 산토",
-     "count": 1
-    },
-    {
-     "ko": "누노 산투",
-     "count": 1
-    },
-    {
-     "ko": "누노 에스피리토 산투",
+     "ko": "노이 산투",
      "count": 1
     }
    ]
@@ -381,44 +359,18 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 5
+     "count": 3
     },
     {
-     "ko": "재이슬레",
+     "ko": "자이슬레",
      "count": 1
     },
     {
-     "ko": "야일레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "헤수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "오워노",
-     "count": 2
-    },
-    {
-     "ko": "호아킨 오워노",
-     "count": 1
-    },
-    {
-     "ko": "오웨노",
+     "ko": "자이슬",
      "count": 1
     }
    ]
@@ -433,60 +385,14 @@
     },
     {
      "ko": "티에른 바리",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "티에르노 바리",
      "count": 1
     },
     {
-     "ko": "테리에르노 바리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오워노",
-     "count": 6
-    },
-    {
-     "ko": "오웨노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데이비드 모예스",
-     "count": 3
-    },
-    {
-     "ko": "모예스",
-     "count": 3
-    },
-    {
-     "ko": "모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 6
-    },
-    {
-     "ko": "모리뉴",
+     "ko": "베리",
      "count": 1
     }
    ]
@@ -497,10 +403,42 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 5
+     "count": 4
     },
     {
      "ko": "J.J. 가브리엘",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Orkun Kökçü",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쾨크주",
+     "count": 3
+    },
+    {
+     "ko": "오르쿤 쾨퀴",
+     "count": 1
+    },
+    {
+     "ko": "오르쿤 쾨크주",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 4
+    },
+    {
+     "ko": "도원만",
      "count": 1
     }
    ]
@@ -511,38 +449,74 @@
    "variants": [
     {
      "ko": "루이 보르게스",
-     "count": 3
-    },
-    {
-     "ko": "루이 보르헤스",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Jamie Carragher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이미 캐러거",
      "count": 4
     },
     {
-     "ko": "카라거",
+     "ko": "루이 보르헤스",
      "count": 1
     }
    ]
   },
   {
-   "en": "Karl",
+   "en": "Toni Brogno",
    "dictionary": null,
    "variants": [
     {
-     "ko": "카를",
-     "count": 2
+     "ko": "토니 브로뇨",
+     "count": 3
     },
     {
-     "ko": "칼",
+     "ko": "토니 브뇨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 바나컨",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 파나켄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 3
+    },
+    {
+     "ko": "자이슬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "João Moutinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주앙 무티뉴",
+     "count": 3
+    },
+    {
+     "ko": "주앙 모리뉴",
      "count": 1
     }
    ]
@@ -552,11 +526,15 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "스티어",
-     "count": 2
+     "ko": "션 스퇴르",
+     "count": 1
     },
     {
-     "ko": "션 스테이어",
+     "ko": "션 스테우르",
+     "count": 1
+    },
+    {
+     "ko": "숀 스튜어",
      "count": 1
     }
    ]
@@ -576,15 +554,29 @@
    ]
   },
   {
-   "en": "Alan Shearer",
+   "en": "Ioannidis",
    "dictionary": null,
    "variants": [
     {
-     "ko": "앨런 시어러",
+     "ko": "요아니디스",
      "count": 2
     },
     {
-     "ko": "앨런 셔러",
+     "ko": "이오아니디스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lucas Hernandez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "뤼카 에르난데스",
+     "count": 2
+    },
+    {
+     "ko": "루카스 에르난데스",
      "count": 1
     }
    ]
@@ -594,29 +586,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "더움비아",
-     "count": 1
-    },
-    {
      "ko": "도움비아",
-     "count": 1
-    },
-    {
-     "ko": "두움비아",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Trey Nyoni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트레이 뇨니",
      "count": 2
     },
     {
-     "ko": "트레이 니오니",
+     "ko": "더움비아",
      "count": 1
     }
    ]
@@ -636,37 +610,43 @@
    ]
   },
   {
-   "en": "Fonseca",
+   "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
     {
-     "ko": "폰세카",
-     "count": 1
+     "ko": "달롯",
+     "count": 2
     },
     {
-     "ko": "포나세카",
-     "count": 1
-    },
-    {
-     "ko": "퐁세카",
+     "ko": "디오고 달로",
      "count": 1
     }
    ]
   },
   {
-   "en": "Shea Lacey",
+   "en": "Prince William",
    "dictionary": null,
    "variants": [
     {
-     "ko": "셰아 레이시",
-     "count": 1
+     "ko": "윌리엄 왕자",
+     "count": 2
     },
     {
-     "ko": "셰이 레이시",
+     "ko": "윌리엄 왕세자",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "칼",
+     "count": 2
     },
     {
-     "ko": "쉐이 레이시",
+     "ko": "카를",
      "count": 1
     }
    ]
@@ -676,15 +656,25 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "파비앵 루이즈",
-     "count": 1
+     "ko": "파비안 루이스",
+     "count": 2
     },
     {
      "ko": "파비앙 루이스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Davide Ancelotti",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "다비데 안첼로티",
+     "count": 2
     },
     {
-     "ko": "파비안 루이스",
+     "ko": "다비드 안첼로티",
      "count": 1
     }
    ]
@@ -694,29 +684,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "운데이",
-     "count": 1
+     "ko": "운다브",
+     "count": 2
     },
     {
      "ko": "운다프",
-     "count": 1
-    },
-    {
-     "ko": "운다브",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Eberl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에베를",
-     "count": 1
-    },
-    {
-     "ko": "에벌",
      "count": 1
     }
    ]
@@ -726,53 +698,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "아게이레",
-     "count": 1
-    },
-    {
      "ko": "아과이레",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Granit Xhaka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "작실 샤카",
-     "count": 1
     },
     {
-     "ko": "그라니트 자카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Yoane Wissa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "와사",
-     "count": 1
-    },
-    {
-     "ko": "와이사",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kenmoe",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "켄모에",
-     "count": 1
-    },
-    {
-     "ko": "켄모",
+     "ko": "아기레",
      "count": 1
     }
    ]
@@ -792,29 +722,43 @@
    ]
   },
   {
-   "en": "Marco Silva",
+   "en": "James Trafford",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르코 시우바",
+     "ko": "제임스 트래퍼드",
      "count": 1
     },
     {
-     "ko": "마르코 실바",
+     "ko": "제임스 트라포드",
      "count": 1
     }
    ]
   },
   {
-   "en": "Lisandro Isei",
+   "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
     {
-     "ko": "리사드로 이세이",
+     "ko": "리오 퍼디난드",
      "count": 1
     },
     {
-     "ko": "리산드로 이세이",
+     "ko": "리오 퍼디낸드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gerard Piqué",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제라르 피케",
+     "count": 1
+    },
+    {
+     "ko": "제라드 피케",
      "count": 1
     }
    ]
@@ -824,11 +768,25 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "뎁스리 홀",
+     "ko": "키어런 듀스버리홀",
      "count": 1
     },
     {
-     "ko": "키어넌 듀스버리홀",
+     "ko": "키어넌 듀즈버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰이 레이시",
+     "count": 1
+    },
+    {
+     "ko": "쉐아 레이시",
      "count": 1
     }
    ]
@@ -838,25 +796,25 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "이니고 페레스",
+     "ko": "이녜스 페레스",
      "count": 1
     },
     {
-     "ko": "이녜스 페레스",
+     "ko": "이니고 페레스",
      "count": 1
     }
    ]
   },
   {
-   "en": "Thomas Tuchel",
+   "en": "Schjelderup",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
+     "ko": "쉘더럽",
      "count": 1
     },
     {
-     "ko": "토헬",
+     "ko": "슈옐데루프",
      "count": 1
     }
    ]
@@ -866,7 +824,7 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "가비 로건",
+     "ko": "게비 로건",
      "count": 1
     },
     {
@@ -876,15 +834,57 @@
    ]
   },
   {
+   "en": "Joao Cancelo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조앙 칸셀루",
+     "count": 1
+    },
+    {
+     "ko": "주앙 칸셀루",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lennart Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레나트 칼",
+     "count": 1
+    },
+    {
+     "ko": "렌나르트 카를",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Baleba",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바레바",
+     "count": 1
+    },
+    {
+     "ko": "발레바",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
     {
-     "ko": "세네 람메스",
+     "ko": "센네 라멘스",
      "count": 1
     },
     {
-     "ko": "세네 라멘스",
+     "ko": "센네 람멘스",
      "count": 1
     }
    ]
@@ -894,25 +894,11 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "각포",
+     "count": 1
+    },
+    {
      "ko": "코디 학포",
-     "count": 1
-    },
-    {
-     "ko": "가크포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Prince William",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄 왕자",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄 왕세자",
      "count": 1
     }
    ]
@@ -954,8 +940,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 866,
-   "llm": 866
+   "collected": 910,
+   "llm": 2414
   }
  }
 }

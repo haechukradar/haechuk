@@ -7,7 +7,7 @@
   "publishedAt": "2026-11-02T14:57:00.000Z",
   "author": "Tyrone Marshall",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "캐릭, 맨유 경질 가능성 인정",
+  "ko": "캐릭, 맨유 감독직 위기 인정…결정적 한 주 앞둬",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -25,11 +25,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Michael Carrick",
-    "마이클 캐릭"
+    "캐릭"
    ]
   ]
  },
@@ -46,22 +46,25 @@
   "stage": null,
   "clubs": [],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "라자 나잉골란"
+  ],
   "managers": [],
-  "league": "other",
+  "league": null,
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Radja Nainggolan",
-    "라자 나인골란"
+    "라자 나잉골란"
    ]
-  ]
+  ],
+  "offTopic": true
  },
  {
   "id": "113ae9ffb8b1",
@@ -71,7 +74,7 @@
   "publishedAt": "2026-11-02T14:53:12.000Z",
   "author": "Samuel Meade, Cameron Winstanley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "텐 하그, 맨유 강등 가능성 언급",
+  "ko": "텐 하흐, 맨유 강등 가능성 인정…전 사령탑 경고",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -80,7 +83,7 @@
   "otherClubs": [],
   "players": [],
   "managers": [
-   "텐 하그"
+   "텐 하흐"
   ],
   "league": "epl",
   "credited": null,
@@ -88,12 +91,12 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "man-utd-affairs-relegation-clause",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Erik ten Hag",
-    "에릭 텐 하그"
+    "텐 하흐"
    ]
   ]
  },
@@ -105,7 +108,7 @@
   "publishedAt": "2026-11-02T14:48:13.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "가장 아픈 연승 행진의 끝",
+  "ko": "좋은 흐름의 가장 고통스러운 끝",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -119,7 +122,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "c9c1ab66e1a2",
@@ -129,7 +132,7 @@
   "publishedAt": "2026-11-02T14:45:01.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "할머니를 기리는 환상적인 골",
+  "ko": "할머니를 추모하는 골 터뜨린 선수",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -143,7 +146,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "61f15b84d22b",
@@ -169,7 +172,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "9adfa2cb19a9",
@@ -179,7 +182,7 @@
   "publishedAt": "2026-11-02T14:42:21.000Z",
   "author": "Jake Stokes",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "데 제르비, 토트넘 선수 출장정지 위기 직면",
+  "ko": "데 제르비, 토트넘 선수 출전 정지 위기 직면",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -197,11 +200,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Roberto De Zerbi",
-    "로베르토 데 제르비"
+    "데 제르비"
    ]
   ]
  },
@@ -231,11 +234,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Michael Carrick",
-    "마이클 캐릭"
+    "캐릭"
    ]
   ]
  },
@@ -247,31 +250,31 @@
   "publishedAt": "2026-11-02T14:41:20.000Z",
   "author": "Steven Railston, Jack Flintham",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "캐릭, 맨유 대 로마 경기 전 기자회견 전문",
-  "category": "manager",
+  "ko": "캐릭, 맨유 대 로마전 앞둔 기자회견 발언 전문",
+  "category": "match",
   "stage": null,
   "clubs": [
    "man-utd"
   ],
   "otherClubs": [
-   "로마"
+   "AS 로마"
   ],
   "players": [],
   "managers": [
    "캐릭"
   ],
-  "league": "other",
+  "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": "man-utd-roma-2026-11-03",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Michael Carrick",
-    "마이클 캐릭"
+    "캐릭"
    ]
   ]
  },
@@ -283,13 +286,13 @@
   "publishedAt": "2026-11-02T14:34:55.000Z",
   "author": "Guardian Staff",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 안필드 징크스 깨고 맨유는 또 패배",
+  "ko": "아스널, 안필드 징크스 깨고 맨유는 다시 패배",
   "category": "match",
   "stage": null,
   "clubs": [
    "arsenal",
-   "man-utd",
-   "liverpool"
+   "liverpool",
+   "man-utd"
   ],
   "otherClubs": [],
   "players": [],
@@ -301,7 +304,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "liverpool-arsenal-2026-11-03",
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "54c011f0d767",
@@ -314,15 +317,17 @@
   "ko": null,
   "category": "other",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "newcastle"
+  ],
   "otherClubs": [],
   "players": [
    "앤서니 고든"
   ],
   "managers": [
-   "하비에르 아기레"
+   "아기레"
   ],
-  "league": "other",
+  "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
@@ -333,7 +338,7 @@
    "anthony-gordon": "fullname"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Anthony Gordon",
@@ -341,7 +346,7 @@
    ],
    [
     "Javier Aguirre",
-    "하비에르 아기레"
+    "아기레"
    ]
   ]
  },
@@ -353,7 +358,7 @@
   "publishedAt": "2026-11-02T14:29:00.000Z",
   "author": "Redactie",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "수리남서 65세 구단주 직접 출전해 득점",
+  "ko": "수리남에서 65세 구단주가 직접 출전해 득점",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -367,13 +372,14 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Ronnie Brunswijk",
     "로니 브룬스위크"
    ]
-  ]
+  ],
+  "offTopic": true
  },
  {
   "id": "de8fda308517",
@@ -383,7 +389,7 @@
   "publishedAt": "2026-11-02T14:28:00.000Z",
   "author": "Hannah Gobrecht, Thomas Grulke",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "묀헨글라트바흐, 안정적 한 주 평가와 골키퍼 문제 짚어",
+  "ko": "묀헨글라트바흐, 안정적이었지만 아쉬운 한 주 팟캐스트 분석",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -391,7 +397,9 @@
   ],
   "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "보너프"
+  ],
   "league": "bundesliga",
   "credited": null,
   "enrichedBy": "llm",
@@ -399,7 +407,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Bonhof",
@@ -415,7 +423,7 @@
   "publishedAt": "2026-11-02T14:27:08.000Z",
   "author": "Tom Canton",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아르테타, 새 기록 달성하며 아스널 우승 전망 호재",
+  "ko": "아르테타, 새 기록 달성하며 아스널 우승 기대감 상승",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -433,11 +441,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Mikel Arteta",
-    "미켈 아르테타"
+    "아르테타"
    ]
   ]
  },
@@ -449,12 +457,14 @@
   "publishedAt": "2026-11-02T14:27:04.000Z",
   "author": "Carlos Forjanes",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "디오만데, 입지 굳건해져",
-  "category": "other",
+  "ko": "디오만데, 주전 자리 굳히는 중",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "디오만데"
+  ],
   "managers": [],
   "league": "laliga",
   "credited": null,
@@ -463,7 +473,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Diomande",
@@ -479,7 +489,7 @@
   "publishedAt": "2026-11-02T14:20:55.000Z",
   "author": "Fasika Zelealem, Cameron Winstanley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "래트클리프, 글레이저 가문 향한 속내 공개 후 맨유 매각 약속 재조명",
+  "ko": "래트클리프, 글레이저 가문에 대한 속마음 공개 후 맨유 매각 약속 재조명",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -487,7 +497,9 @@
   ],
   "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "래트클리프"
+  ],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
@@ -495,11 +507,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "man-utd-affairs-ownership",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Jim Ratcliffe",
-    "짐 래트클리프"
+    "래트클리프"
    ]
   ]
  },
@@ -511,22 +523,32 @@
   "publishedAt": "2026-11-02T14:15:07.000Z",
   "author": "Scott Trotter",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "플레처 셰록, 리틀러 카드 거부 후 50만 파운드 넷플릭스 우승",
+  "ko": "팰런 셰록, 루크 리틀러 카드 거부 상황 언급 및 넷플릭스 상금 공개",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [],
   "managers": [],
-  "league": null,
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
-  "offTopic": true
+  "promptVersion": 7,
+  "offTopic": true,
+  "names": [
+   [
+    "Fallon Sherrock",
+    "팰런 셰록"
+   ],
+   [
+    "Luke Littler",
+    "루크 리틀러"
+   ]
+  ]
  },
  {
   "id": "b68f631e3932",
@@ -536,7 +558,7 @@
   "publishedAt": "2026-11-02T14:06:47.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "축구의 딜레마, 다이브를 할 것인가 말 것인가",
+  "ko": "다이빙이냐 아니냐, 축구계의 큰 딜레마",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -550,7 +572,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "d7d14ac98be1",
@@ -560,7 +582,7 @@
   "publishedAt": "2026-11-02T14:02:11.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "분석가 셋은 페널티라 보고 둘은 아니라 봐",
+  "ko": "분석가 세 명은 페널티로 봤지만 두 명은 아니라고 판단",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -574,7 +596,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "88fadd4aaea6",
@@ -584,11 +606,15 @@
   "publishedAt": "2026-11-02T14:01:22.000Z",
   "author": "Juanma Velasco",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "이냐키 윌리엄스 \"이제야 노력이 결실을 맺는다\"",
+  "ko": "이냐키 윌리엄스, 노력의 결실 맺을 때라며 소감",
   "category": "other",
   "stage": null,
-  "clubs": [],
-  "otherClubs": [],
+  "clubs": [
+   "atletico"
+  ],
+  "otherClubs": [
+   "아틀레틱 빌바오"
+  ],
   "players": [
    "이냐키 윌리엄스"
   ],
@@ -600,7 +626,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Iñaki Williams",
@@ -623,10 +649,10 @@
    "arsenal"
   ],
   "otherClubs": [
-   "liverpool"
+   "리버풀"
   ],
   "players": [
-   "데클란 라이스"
+   "라이스"
   ],
   "managers": [],
   "league": "epl",
@@ -640,11 +666,11 @@
    "declan-rice": "fullname"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Declan Rice",
-    "데클란 라이스"
+    "라이스"
    ]
   ]
  },
@@ -656,15 +682,14 @@
   "publishedAt": "2026-11-02T13:57:24.000Z",
   "author": "Bobby Vincent",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "첼시, 맨유전 승리 후 핵심 부상 소식 반가워, 알론소 솔직한 고백",
+  "ko": "첼시, 맨유전 승리 후 부상 복귀 소식 호재, 알론소 솔직한 평가",
   "category": "injury",
   "stage": null,
   "clubs": [
-   "chelsea"
-  ],
-  "otherClubs": [
+   "chelsea",
    "man-utd"
   ],
+  "otherClubs": [],
   "players": [],
   "managers": [
    "사비 알론소"
@@ -676,7 +701,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Xabi Alonso",
@@ -692,7 +717,7 @@
   "publishedAt": "2026-11-02T13:56:37.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "EFL 최악의 팀, 페널티 문제에 시달리는 구단",
+  "ko": "EFL 최악의 팀, 페널티 문제 있는 구단",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -706,7 +731,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "3c36e44d1c4b",
@@ -716,7 +741,7 @@
   "publishedAt": "2026-11-02T13:54:00.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "전 리버풀 수비수, 방출될까 두려워 발작 증세 숨겼다",
+  "ko": "전 리버풀 수비수, 발작 증상 숨긴 채 방출 두려움 고백",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -732,7 +757,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "3bd82560232b",
@@ -742,7 +767,7 @@
   "publishedAt": "2026-11-02T13:47:03.000Z",
   "author": "Nicky Bandini",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아모림의 AC밀란, 산 시로 반전으로 라이벌 긴장시켜",
+  "ko": "아모림의 AC 밀란, 산 시로 영광 재현…경쟁자들 긴장",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -760,7 +785,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Amorim",
@@ -776,7 +801,7 @@
   "publishedAt": "2026-11-02T13:36:46.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "헬버그, 훌륭한 랭크셔의 잉글랜드 대표팀 발탁 가능성엔 의문",
+  "ko": "헬버그, '훌륭한' 랭크셔의 잉글랜드 발탁 가능성 불확실 언급",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -790,7 +815,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "235abe605f9d",
@@ -800,23 +825,23 @@
   "publishedAt": "2026-11-02T13:30:00.000Z",
   "author": "Redactie",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "작년과 같은 논쟁, 안더레흐트 U17 월드컵 차출 재차 거부",
+  "ko": "앤더레흐트, 작년과 같은 논쟁…U17 월드컵 차출 또 거부 방침",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "anderlecht"
+   "앤더레흐트"
   ],
   "players": [],
   "managers": [],
-  "league": "other",
+  "league": null,
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "d19fa16ae324",
@@ -826,8 +851,8 @@
   "publishedAt": "2026-11-02T13:26:42.000Z",
   "author": "George Sessions, Press Association",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "데 제르비 결정에 토트넘 아치 그레이 실망",
-  "category": "other",
+  "ko": "데 제르비의 결정에 그레이 '속상'…토트넘 선수 기용 논란",
+  "category": "manager",
   "stage": null,
   "clubs": [
    "tottenham"
@@ -846,7 +871,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Roberto De Zerbi",
@@ -866,7 +891,7 @@
   "publishedAt": "2026-11-02T13:18:20.000Z",
   "author": "Tom Canton",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 유럽 엘리트 클럽 경쟁 가세로 크루피 영입 난관",
+  "ko": "아스널, 크루피 영입 난항…유럽 엘리트 클럽 경쟁 가세",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -874,25 +899,25 @@
   ],
   "otherClubs": [],
   "players": [
-   "엘리 주니어 크루피"
+   "크루피"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "엘리 주니어 크루피",
+   "player": "크루피",
    "from": null,
    "to": "아스널"
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "kroupi-arsenal-transfer",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Eli Junior Kroupi",
-    "엘리 주니어 크루피"
+    "크루피"
    ]
   ]
  },
@@ -904,7 +929,7 @@
   "publishedAt": "2026-11-02T13:10:06.000Z",
   "author": "Michel Guddat",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "바이에른 유망주 부상으로 이탈, 부상 악재 지속",
+  "ko": "바이에른 유망주 부상으로 전열 이탈",
   "category": "injury",
   "stage": null,
   "clubs": [
@@ -920,7 +945,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "ac3e9c207923",
@@ -930,11 +955,13 @@
   "publishedAt": "2026-11-02T13:00:40.000Z",
   "author": "Exclusive by Matt Hughes",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "DAZN, 2029 클럽 월드컵 글로벌 스트리밍 독점 계약 확보",
+  "ko": "DAZN, 2029 클럽 월드컵 글로벌 스트리밍 독점 계약 체결",
   "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "DAZN"
+  ],
   "players": [],
   "managers": [],
   "league": null,
@@ -944,7 +971,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "e52a736f08e9",
@@ -970,7 +997,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Pochettino",
@@ -990,7 +1017,9 @@
   "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "고담 FC"
+  ],
   "players": [],
   "managers": [],
   "league": null,
@@ -1000,8 +1029,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
-  "offTopic": true
+  "promptVersion": 7
  },
  {
   "id": "10b84683307d",
@@ -1011,8 +1039,8 @@
   "publishedAt": "2026-11-02T12:34:13.000Z",
   "author": "Bobby Vincent",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "알론소, 여름 이적 결정으로 첼시 약속 이행",
-  "category": "other",
+  "ko": "사비 알론소, 여름 대형 이적 결정 후 첼시 약속 이행",
+  "category": "manager",
   "stage": null,
   "clubs": [
    "chelsea"
@@ -1029,7 +1057,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Xabi Alonso",
@@ -1045,14 +1073,14 @@
   "publishedAt": "2026-11-02T12:25:26.000Z",
   "author": "Peter Smith",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "스토크 시티, 블랙번전 예상 선발 명단과 핵심 선수 결장",
+  "ko": "스토크 시티 블랙번전 예상 선발…핵심 선수 결장",
   "category": "match",
   "stage": null,
   "clubs": [
    "stoke"
   ],
   "otherClubs": [
-   "blackburn"
+   "블랙번 로버스"
   ],
   "players": [],
   "managers": [],
@@ -1063,7 +1091,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "925dace8d3ce",
@@ -1073,8 +1101,8 @@
   "publishedAt": "2026-11-02T12:24:26.000Z",
   "author": "Tom Canton",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "리버풀-아스널전 이삭 페널티 주장·마두에케 실수·놓친 퇴장 판정 재검토",
-  "category": "other",
+  "ko": "이삭 페널티 주장·마두에케 실수·놓친 레드카드…리버풀-아스널 심판 리뷰",
+  "category": "match",
   "stage": null,
   "clubs": [
    "liverpool",
@@ -1082,7 +1110,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "알렉산데르 이삭",
+   "이삭",
    "마두에케"
   ],
   "managers": [],
@@ -1096,12 +1124,12 @@
   "playerVia": {
    "alexander-isak": "short"
   },
-  "issue": "isak-liverpool-arsenal-relationship",
-  "promptVersion": 6,
+  "issue": "liverpool-arsenal-2026-11-03",
+  "promptVersion": 7,
   "names": [
    [
     "Isak",
-    "알렉산데르 이삭"
+    "이삭"
    ],
    [
     "Madueke",
@@ -1117,9 +1145,9 @@
   "publishedAt": "2026-11-02T12:20:12.000Z",
   "author": "Lee Ryder",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "뉴캐슬, 이적시장 외 깜짝 영입 시도…아프리카 스타 2명 기회 얻어",
+  "ko": "뉴캐슬, 이적시장 외 기간 두 건 영입…아프리카 스타 두 명에 기회",
   "category": "transfer",
-  "stage": "interest",
+  "stage": "done",
   "clubs": [
    "newcastle"
   ],
@@ -1133,7 +1161,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "3372c61118fd",
@@ -1144,11 +1172,11 @@
   "author": "JUANJE FERNÁNDEZ R.",
   "collectedAt": "2026-11-03T13:46:03.032Z",
   "ko": "말라가, 구단 역사상 두 번째로 나쁜 출발 기록",
-  "category": "other",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "Málaga"
+   "말라가"
   ],
   "players": [],
   "managers": [],
@@ -1159,7 +1187,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "cb871f48da9a",
@@ -1169,7 +1197,7 @@
   "publishedAt": "2026-11-02T12:15:00.000Z",
   "author": "Sven Van Londersele",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "팬, 음바페와 마주친 장면 화제",
+  "ko": "팬 영상 화제, 레알 마드리드 선수 발언과 음바페 지나가는 장면",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -1177,7 +1205,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "킬리안 음바페"
+   "음바페"
   ],
   "managers": [],
   "league": "laliga",
@@ -1191,11 +1219,11 @@
    "kylian-mbappe": "fullname"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Kylian Mbappé",
-    "킬리안 음바페"
+    "음바페"
    ]
   ]
  },
@@ -1211,8 +1239,12 @@
   "category": "injury",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
-  "players": [],
+  "otherClubs": [
+   "말라가"
+  ],
+  "players": [
+   "만티야"
+  ],
   "managers": [],
   "league": "laliga",
   "credited": null,
@@ -1221,7 +1253,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Mantilla",
+    "만티야"
+   ]
+  ]
  },
  {
   "id": "052c4393ea5e",
@@ -1231,12 +1269,12 @@
   "publishedAt": "2026-11-02T12:04:09.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "선덜랜드, 최하위에도 르 브리스 감독과 함께 간다",
+  "ko": "하위권 선덜랜드, 르 브리스 감독 체제 유지",
   "category": "manager",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "sunderland"
+   "선덜랜드"
   ],
   "players": [],
   "managers": [
@@ -1249,7 +1287,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "le-bris-sunderland-manager-future",
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Le Bris",
+    "르 브리스"
+   ]
+  ]
  },
  {
   "id": "378cbd867c31",
@@ -1259,7 +1303,7 @@
   "publishedAt": "2026-11-02T12:04:05.000Z",
   "author": "Andy Brassell",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "케인 발롱도르 파티 뒤 바이에른 불안한 후폭풍",
+  "ko": "케인 발롱도르 파티 뒤 바이에른 불안한 숙취",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -1280,8 +1324,8 @@
   "playerVia": {
    "harry-kane": "fullname"
   },
-  "issue": "kane-ballon-d-or-award",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Harry Kane",
@@ -1297,7 +1341,7 @@
   "publishedAt": "2026-11-02T12:01:16.000Z",
   "author": "Jacob Steinberg",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "누노 에스피리투 산토, 웨스트햄 부진 속 경질 위기",
+  "ko": "누노 에스피리투 산토, 웨스트햄 부진한 출발로 자리 위협",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -1306,7 +1350,7 @@
   "otherClubs": [],
   "players": [],
   "managers": [
-   "누노 에스피리투 산토"
+   "누노 에스피리투 산투"
   ],
   "league": "epl",
   "credited": null,
@@ -1315,11 +1359,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "west-ham-manager-future",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Nuno Espírito Santo",
-    "누노 에스피리투 산토"
+    "누노 에스피리투 산투"
    ]
   ]
  },
@@ -1336,8 +1380,8 @@
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "Coventry",
-   "sunderland"
+   "코번트리",
+   "선덜랜드"
   ],
   "players": [],
   "managers": [],
@@ -1348,7 +1392,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "b9e51d7bb351",
@@ -1358,7 +1402,7 @@
   "publishedAt": "2026-11-02T12:00:00.000Z",
   "author": "Katy Veasey",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "크리스마스 앞두고 3Retro 상품권 증정 이벤트",
+  "ko": "3Retro 크리스마스 상품권 이벤트 안내",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -1372,7 +1416,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "offTopic": true
  },
  {
@@ -1383,7 +1427,7 @@
   "publishedAt": "2026-11-02T11:50:40.000Z",
   "author": "Cameron Winstanley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "에바니 브리지스, 할로윈 의상 관련 발언 화제",
+  "ko": "에바니 브리지스, 할로윈 코스튬으로 장난기 예고",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -1397,7 +1441,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "offTopic": true
  },
  {
@@ -1408,7 +1452,7 @@
   "publishedAt": "2026-11-02T11:49:05.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "빌라, 캐러거 상대 법적 대응 방침 철회",
+  "ko": "빌라, 캐러거 상대 법적 대응 보류",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -1423,8 +1467,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "aston-villa-affairs-carragher-apology",
-  "promptVersion": 6,
+  "issue": "aston-villa-affairs-carragher-legal",
+  "promptVersion": 7,
   "names": [
    [
     "Carragher",
@@ -1440,7 +1484,7 @@
   "publishedAt": "2026-11-02T11:48:24.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "부심 눈 튀어나온 사고로 경기 중단",
+  "ko": "선심 눈 부상 사고로 경기 중단",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -1453,8 +1497,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6
+  "issue": "linesman-eye-incident",
+  "promptVersion": 7
  },
  {
   "id": "46c067daae76",
@@ -1464,7 +1508,7 @@
   "publishedAt": "2026-11-02T11:42:40.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "WSL 8라운드 전 골 모음",
+  "ko": "WSL 8라운드 전 경기 득점 정리",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -1478,7 +1522,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "85e3a7bd3610",
@@ -1488,14 +1532,11 @@
   "publishedAt": "2026-11-02T11:39:41.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "히버니언, 하츠 격파 후 컵 결승 앞두고 기세 이어갈지 관심",
+  "ko": "힙스, 하츠 꺾고 승리 자축…컵 결승 앞둬",
   "category": "match",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "Hibs",
-   "Hearts"
-  ],
+  "otherClubs": [],
   "players": [],
   "managers": [],
   "league": "other",
@@ -1505,7 +1546,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "202b1f0a8981",
@@ -1515,14 +1556,14 @@
   "publishedAt": "2026-11-02T11:29:49.000Z",
   "author": "Suzanne Wrack, Sophie Downey, Tom Garry, Emillia Hawkins and Marcus Christenson",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "WSL 쟁점: 캉 문제 가능성, 슬레허스 감독 버티기",
+  "ko": "WSL 쟁점: 캉 문제 가능성과 슬레거스 거취",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [],
   "managers": [
-   "슬레허스"
+   "슬레거스"
   ],
   "league": "other",
   "credited": null,
@@ -1531,11 +1572,15 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Slegers",
-    "슬레허스"
+    "슬레거스"
+   ],
+   [
+    "Kang",
+    "캉"
    ]
   ]
  },
@@ -1548,17 +1593,18 @@
   "author": "Peter Smith",
   "collectedAt": "2026-11-03T13:46:03.032Z",
   "ko": "모브레이, 스토크전 앞두고 블랙번에 경고",
-  "category": "manager",
+  "category": "match",
   "stage": null,
   "clubs": [
    "stoke"
   ],
   "otherClubs": [
-   "Blackburn Rovers"
+   "Blackburn Rovers",
+   "blackburn"
   ],
   "players": [],
   "managers": [
-   "토니 모브레이"
+   "모브레이"
   ],
   "league": "other",
   "credited": null,
@@ -1566,8 +1612,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6,
+  "issue": "stoke-blackburn-2026-11-03",
+  "promptVersion": 7,
   "names": [
    [
     "Tony Mowbray",
@@ -1583,21 +1629,23 @@
   "publishedAt": "2026-11-02T11:14:50.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "축구 스타 맞히기 퀴즈",
+  "ko": "축구 선수 맞히기 퀴즈",
   "category": "other",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "arsenal"
+  ],
   "otherClubs": [],
   "players": [],
   "managers": [],
-  "league": null,
+  "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "offTopic": true
  },
  {
@@ -1622,7 +1670,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "62860d032b9c",
@@ -1646,7 +1694,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "08902f173e01",
@@ -1672,7 +1720,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "da78a7ac6c78",
@@ -1687,7 +1735,7 @@
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "오클랜드 루츠"
+   "Oakland Roots"
   ],
   "players": [],
   "managers": [],
@@ -1698,8 +1746,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
-  "offTopic": true
+  "promptVersion": 7
  },
  {
   "id": "3a5fa9bf553b",
@@ -1709,7 +1756,7 @@
   "publishedAt": "2026-11-02T11:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "브로비, 선덜랜드와 장기 계약 체결",
+  "ko": "선덜랜드, 브로비 장기 계약 체결",
   "category": "transfer",
   "stage": "done",
   "clubs": [],
@@ -1730,8 +1777,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "issue": "brobbey-sunderland-transfer",
-  "promptVersion": 6
+  "issue": "brobbey-sunderland-contract",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Brobbey",
+    "브로비"
+   ]
+  ]
  },
  {
   "id": "ccad233c0897",
@@ -1741,7 +1794,7 @@
   "publishedAt": "2026-11-02T11:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "펜라이스, 스코틀랜드 대표팀 첫 발탁 맥토미니 복귀",
+  "ko": "페닉스, 스코틀랜드 대표팀 첫 호출…맥토미너이 복귀",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -1749,11 +1802,11 @@
    "스코틀랜드 대표팀"
   ],
   "players": [
-   "펜라이스",
-   "맥토미니"
+   "페닉스",
+   "맥토미너이"
   ],
   "managers": [],
-  "league": "other",
+  "league": null,
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
@@ -1764,11 +1817,11 @@
    "scott-mctominay": "short"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Penrice",
-    "펜라이스"
+    "페닉스"
    ],
    [
     "McTominay",
@@ -1784,8 +1837,8 @@
   "publishedAt": "2026-11-02T10:58:54.000Z",
   "author": "JUANCAR NAVACERRADA",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "에네스 위날, 역사를 노린다",
-  "category": "match",
+  "ko": "에네스 위날, 역사를 향한 질주",
+  "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
@@ -1793,14 +1846,14 @@
    "에네스 위날"
   ],
   "managers": [],
-  "league": "other",
+  "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Enes Ünal",
@@ -1816,7 +1869,7 @@
   "publishedAt": "2026-11-02T10:45:37.000Z",
   "author": "Peter Smith",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "스토크 시티 임대 선수 밀란 스미트, 환상적인 플릭 득점",
+  "ko": "스토크 임대 선수 밀란 스미트, 환상적인 플릭으로 득점",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -1834,7 +1887,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Milan Smit",
@@ -1850,7 +1903,7 @@
   "publishedAt": "2026-11-02T10:43:13.000Z",
   "author": "Sid Lowe",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "우나이 시몬, 또 한 번 놀라운 밤 연출",
+  "ko": "우나이 시몬, 또 한 번의 경이로운 밤",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -1859,14 +1912,14 @@
    "우나이 시몬"
   ],
   "managers": [],
-  "league": "laliga",
+  "league": null,
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Unai Simón",
@@ -1882,16 +1935,17 @@
   "publishedAt": "2026-11-02T10:40:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T16:50:53.393Z",
-  "ko": "바르콜라 \"사람들이 나를 점점 더 이해하기 시작\", 나는 살라가 아니야",
+  "ko": "바르콜라 \"사람들이 나를 더 이해하기 시작\"…살라는 아니라고 선 그어",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [
-   "바르콜라"
+   "바르콜라",
+   "살라"
   ],
   "managers": [],
-  "league": "other",
+  "league": null,
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
@@ -1901,7 +1955,7 @@
   "playerVia": {
    "mohamed-salah": "fullname"
   },
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Barcola",
@@ -1922,7 +1976,7 @@
   "publishedAt": "2026-11-02T10:30:24.000Z",
   "author": "Vinzent Tschirpke",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "키미히, 아버지 별세 후 감정 드러내",
+  "ko": "키미히, 부친 사망 후 감정 고백 \"늘 나를 믿어줬다\"",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -1944,7 +1998,7 @@
    "joshua-kimmich": "short"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Kimmich",
@@ -1960,15 +2014,15 @@
   "publishedAt": "2026-11-02T10:26:48.000Z",
   "author": "Redactie",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "크리스티안 버게스 발목 MRI 검사, 화요일 저녁 예정",
+  "ko": "버게스 발목 부상 검사, 화요일 저녁 MRI 예정",
   "category": "injury",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "헨트"
+   "AA Gent"
   ],
   "players": [
-   "크리스티안 버게스"
+   "버게스"
   ],
   "managers": [],
   "league": "other",
@@ -1978,11 +2032,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "burgess-injury",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Christian Burgess",
-    "크리스티안 버게스"
+    "버게스"
    ]
   ]
  },
@@ -1994,7 +2048,7 @@
   "publishedAt": "2026-11-02T10:20:57.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "전 프리미어리그 감독, 뇌졸중으로 긴급 수술",
+  "ko": "전 프리미어리그 감독, 뇌졸중 후 응급 수술",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -2008,7 +2062,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "b371b817a99a",
@@ -2018,14 +2072,14 @@
   "publishedAt": "2026-11-02T10:05:05.000Z",
   "author": "Peter Smith",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "프레스턴 감독, 스토크 시티전 패배 후 당연한 지적이라 인정",
+  "ko": "프레스턴 감독, 스토크 패배 후 '당연한 얘기' 인정",
   "category": "match",
   "stage": null,
   "clubs": [
    "stoke"
   ],
   "otherClubs": [
-   "프레스턴"
+   "Preston"
   ],
   "players": [],
   "managers": [],
@@ -2036,7 +2090,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "05cd13c0d41e",
@@ -2046,7 +2100,7 @@
   "publishedAt": "2026-11-02T10:01:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T18:13:25.826Z",
-  "ko": "레이드·맥길로이, 두바이 레이스 우승 경쟁",
+  "ko": "리드·매클로이, 두바이 레이스 우승 놓고 샤카라 추격",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -2059,9 +2113,23 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 6,
+  "promptVersion": 7,
   "offTopic": true,
-  "issue": null
+  "issue": null,
+  "names": [
+   [
+    "Reed",
+    "리드"
+   ],
+   [
+    "McIlroy",
+    "매클로이"
+   ],
+   [
+    "Chacarra",
+    "샤카라"
+   ]
+  ]
  },
  {
   "id": "7127ffb50307",
@@ -2078,7 +2146,7 @@
   "otherClubs": [],
   "players": [
    "이삭",
-   "리산드로 마르티네스"
+   "마르티네스"
   ],
   "managers": [],
   "league": "epl",
@@ -2086,13 +2154,15 @@
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [
-   "alexander-isak"
+   "alexander-isak",
+   "lautaro-martinez"
   ],
   "playerVia": {
-   "alexander-isak": "short"
+   "alexander-isak": "short",
+   "lautaro-martinez": "llm"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Graham Scott",
@@ -2116,7 +2186,7 @@
   "publishedAt": "2026-11-02T09:58:42.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "프리미어리그 옐로카드 누적으로 출장정지 위기 선수는?",
+  "ko": "프리미어리그 옐로카드 누적 출장정지 대상 선수는?",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -2130,7 +2200,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "9179464f652e",
@@ -2140,17 +2210,17 @@
   "publishedAt": "2026-11-02T09:55:57.000Z",
   "author": "Lee Ryder",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "뉴캐슬 야이슬레, 워르테마데에게 기회 부여",
+  "ko": "뉴캐슬 볼테마데, 유벤투스 상 수상 후 야이슬레에게 기회 얻어",
   "category": "other",
   "stage": null,
   "clubs": [
    "newcastle"
   ],
   "otherClubs": [
-   "유벤투스"
+   "Juventus"
   ],
   "players": [
-   "니크 볼테마데"
+   "볼테마데"
   ],
   "managers": [
    "야이슬레"
@@ -2162,11 +2232,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Nick Woltemade",
-    "니크 볼테마데"
+    "볼테마데"
    ],
    [
     "Matthias Jaissle",
@@ -2182,7 +2252,7 @@
   "publishedAt": "2026-11-02T09:10:08.000Z",
   "author": "DIEGO PICÓ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아게이레, 사디크 기용 승부수",
+  "ko": "아과이레, 혼돈의 사디크 기용으로 도박",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -2191,20 +2261,20 @@
    "사디크"
   ],
   "managers": [
-   "아게이레"
+   "아과이레"
   ],
-  "league": "laliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Aguirre",
-    "아게이레"
+    "아과이레"
    ],
    [
     "Sadiq",
@@ -2220,7 +2290,7 @@
   "publishedAt": "2026-11-02T09:00:00.000Z",
   "author": "Lee Ryder",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "야이슬레, 컵 대회 탈락 후 '이상한' 기분 토로",
+  "ko": "야이슬레, 뉴캐슬 컵 탈락 후 '이상한' 기분 토로",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -2238,7 +2308,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Matthias Jaissle",
@@ -2254,7 +2324,7 @@
   "publishedAt": "2026-11-02T08:34:11.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "패이지 스피라낙, 할로윈 의상 관련 논란",
+  "ko": "파이지 스피라낙, 핼러윈 의상에 '보호자 주의' 경고",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -2268,11 +2338,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Paige Spiranac",
-    "패이지 스피라낙"
+    "파이지 스피라낙"
    ]
   ],
   "offTopic": true
@@ -2285,15 +2355,17 @@
   "publishedAt": "2026-11-02T08:30:00.000Z",
   "author": "Clive Youlton",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "작실 샤카, 선덜랜드 부진에 비판 쏟아져 '가능성 없다' 발언",
+  "ko": "작사 선덜랜드 부진 비판에 '가능성 없다' 반박",
   "category": "other",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "newcastle"
+  ],
   "otherClubs": [
-   "선덜랜드"
+   "Sunderland"
   ],
   "players": [
-   "작실 샤카"
+   "자카"
   ],
   "managers": [],
   "league": "epl",
@@ -2303,11 +2375,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Granit Xhaka",
-    "작실 샤카"
+    "자카"
    ]
   ]
  },
@@ -2319,7 +2391,7 @@
   "publishedAt": "2026-11-02T08:28:00.000Z",
   "author": "Peter Robertson",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "스누커 챔피언 딸, 아버지 금발과 미소 물려받아",
+  "ko": "스누커 챔피언 딸, 당구 못 쳐도 아버지 닮은 외모 화제",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -2333,7 +2405,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "offTopic": true
  },
  {
@@ -2344,12 +2416,12 @@
   "publishedAt": "2026-11-02T08:22:20.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "팔커크 벽 베인, 스코틀랜드 대표팀 가능성 높여",
+  "ko": "팔커크 벽 베인, 스코틀랜드 월드컵 희망 키워",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "팔커크"
+   "Falkirk"
   ],
   "players": [
    "베인"
@@ -2362,7 +2434,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Bain",
@@ -2378,8 +2450,8 @@
   "publishedAt": "2026-11-02T08:00:35.000Z",
   "author": "Guardian sport",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "프리미어리그 주말 경기 10가지 주요 장면 정리",
-  "category": "other",
+  "ko": "프리미어리그 주말 경기 핵심 쟁점 10가지",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
@@ -2392,7 +2464,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "b2ebcaa6f1ed",
@@ -2402,12 +2474,12 @@
   "publishedAt": "2026-11-02T07:56:02.000Z",
   "author": "Clive Youlton",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "르 브리스, 자신의 거취 두고 선덜랜드 선수들에게 시선 돌려",
+  "ko": "르 브리스, 선덜랜드 선수들 향해 칼날…감독직 위기",
   "category": "manager",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "선덜랜드"
+   "Sunderland"
   ],
   "players": [],
   "managers": [
@@ -2420,7 +2492,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "le-bris-sunderland-manager-future",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Regis Le Bris",
@@ -2436,16 +2508,18 @@
   "publishedAt": "2026-11-02T07:56:00.000Z",
   "author": "Lee Ryder, Stuart Jamieson, Sean McCormick, Ross Gregory",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "뉴캐슬, 에버턴전 라인업 발표…와사·윌록 선발 제외",
+  "ko": "뉴캐슬 에버턴전 선발 발표, 위사 제외·윌록 탈락",
   "category": "match",
   "stage": null,
   "clubs": [
-   "newcastle"
+   "newcastle",
+   "everton"
   ],
-  "otherClubs": [
-   "에버턴"
+  "otherClubs": [],
+  "players": [
+   "위사",
+   "윌록"
   ],
-  "players": [],
   "managers": [],
   "league": "epl",
   "credited": null,
@@ -2454,11 +2528,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "newcastle-everton-2026-11-03",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Yoane Wissa",
-    "와사"
+    "위사"
    ],
    [
     "Joe Willock",
@@ -2474,12 +2548,12 @@
   "publishedAt": "2026-11-02T07:08:00.000Z",
   "author": "Jordi De Koninck",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "버게스 발목 부상 소식에 헨트 할로윈 주말 악몽",
+  "ko": "버게스 갑작스러운 발목 부상, 헹트 원정 패배 속 Gent 악재",
   "category": "injury",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "헨트"
+   "AA Gent"
   ],
   "players": [
    "버게스"
@@ -2492,10 +2566,10 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "burgess-injury",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
-    "Burgess",
+    "Christian Burgess",
     "버게스"
    ]
   ]
@@ -2508,7 +2582,7 @@
   "publishedAt": "2026-11-02T07:00:00.000Z",
   "author": "Sean McCormick",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "뉴캐슬, 중원 경쟁을 더해줄 숨은 자원 주목",
+  "ko": "뉴캐슬 중원 경쟁자 된 숨은 영웅은 누구?",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -2524,7 +2598,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "fb40f8161b39",
@@ -2534,7 +2608,7 @@
   "publishedAt": "2026-11-02T06:05:57.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "스코틀랜드 축구가 어린 재능을 키워내지 못하는 이유",
+  "ko": "스코틀랜드 축구가 어린 재능 배출에 고전하는 이유",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -2548,7 +2622,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "d22eb1944cfc",
@@ -2558,14 +2632,18 @@
   "publishedAt": "2026-11-02T06:00:00.000Z",
   "author": "Lee Ryder",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "번, 밤바와 스티어의 출전 기회 부족에 대해 입 열어",
+  "ko": "번 뉴캐슬 출전 시간 부족 이유 밝혀, 밤바와 스테르 언급",
   "category": "other",
   "stage": null,
   "clubs": [
    "newcastle"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "번",
+   "밤바",
+   "스테르"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
@@ -2574,7 +2652,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Dan Burn",
@@ -2582,11 +2660,11 @@
    ],
    [
     "Aladji Bamba",
-    "밤바"
+    "알라지 밤바"
    ],
    [
     "Sean Steur",
-    "스티어"
+    "션 스퇴르"
    ]
   ]
  },
@@ -2598,7 +2676,7 @@
   "publishedAt": "2026-11-02T05:30:27.000Z",
   "author": "Alfredo Relaño",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "작은 페널티 하나가 경기 흐름을 망쳤다",
+  "ko": "작은 페널티 한 번이 경기를 망쳤다",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -2612,7 +2690,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "a55d5343307c",
@@ -2623,7 +2701,7 @@
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
   "ko": null,
-  "category": "other",
+  "category": "match",
   "stage": null,
   "clubs": [
    "arsenal"
@@ -2638,7 +2716,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "733c648f634d",
@@ -2662,7 +2740,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "1a5a26404cda",
@@ -2675,15 +2753,15 @@
   "ko": null,
   "category": "manager",
   "stage": null,
-  "clubs": [],
-  "otherClubs": [
-   "노팅엄 포레스트"
+  "clubs": [
+   "nottingham-forest"
   ],
+  "otherClubs": [],
   "players": [
-   "기브스화이트"
+   "기브스-화이트"
   ],
   "managers": [
-   "비에이라"
+   "비토르 페레이라"
   ],
   "league": "epl",
   "credited": null,
@@ -2691,16 +2769,16 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6,
+  "issue": "nottingham-forest-manager-future",
+  "promptVersion": 7,
   "names": [
    [
     "Vitor Pereira",
-    "비에이라"
+    "비토르 페레이라"
    ],
    [
     "Gibbs-White",
-    "기브스화이트"
+    "기브스-화이트"
    ]
   ]
  },
@@ -2720,7 +2798,9 @@
    "dortmund"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "파블로비치"
+  ],
   "managers": [],
   "league": "bundesliga",
   "credited": null,
@@ -2728,8 +2808,14 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6
+  "issue": "bayern-dortmund-2026-11-03",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Pavlovic",
+    "파블로비치"
+   ]
+  ]
  },
  {
   "id": "f337f6a56d28",
@@ -2761,7 +2847,7 @@
    "morgan-rogers": "llm"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Rogers",
@@ -2802,7 +2888,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "0402277720e0",
@@ -2812,12 +2898,10 @@
   "publishedAt": "2026-11-02T05:00:00.000Z",
   "author": "Robert Götz",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "바움 감독, 당근과 채찍 접근법이 옳다고 강조",
+  "ko": "바움 분노 발언, 당근과 채찍 접근이 맞다",
   "category": "manager",
   "stage": null,
-  "clubs": [
-   "augsburg"
-  ],
+  "clubs": [],
   "otherClubs": [],
   "players": [],
   "managers": [
@@ -2830,7 +2914,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Baum",
@@ -2846,7 +2930,7 @@
   "publishedAt": "2026-11-02T05:00:00.000Z",
   "author": "Florian Eisele",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "과거의 강점이 이제는 문제로, 아우크스부르크의 접전 경기 고민",
+  "ko": "강점이던 접전 운영이 이제 아우크스부르크의 문제",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -2862,7 +2946,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "21cac85c3126",
@@ -2872,15 +2956,14 @@
   "publishedAt": "2026-11-02T05:00:00.000Z",
   "author": "Leah-Josefin Oldenburg",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "키아로디아, 파더보른전 퇴장 후 함부르크에서 또 한 번 기회",
+  "ko": "파더보른전 퇴장 후 키아로디아, 함부르크에서 다시 기회",
   "category": "other",
   "stage": null,
   "clubs": [
    "gladbach"
   ],
   "otherClubs": [
-   "함부르크",
-   "파더보른"
+   "함부르크"
   ],
   "players": [
    "키아로디아"
@@ -2893,7 +2976,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Chiarodia",
@@ -2909,10 +2992,12 @@
   "publishedAt": "2026-11-02T00:00:21.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "라이스는 완성형 미드필더지만 더 이기적일 필요 있다",
+  "ko": "라이스는 다재다능하지만 더 이기적일 필요 있다, 머피 평가",
   "category": "other",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "arsenal"
+  ],
   "otherClubs": [],
   "players": [
    "라이스"
@@ -2929,7 +3014,7 @@
    "declan-rice": "llm"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Rice",
@@ -2949,7 +3034,7 @@
   "publishedAt": "2026-11-02T00:00:11.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "콘사, 아스널에 자연스럽게 녹아들어 호평",
+  "ko": "콘사, 아스널에 매끄럽게 녹아들어 훌륭하다",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -2967,7 +3052,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Konsa",
@@ -2983,7 +3068,7 @@
   "publishedAt": "2026-11-02T00:00:03.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 리버풀 원정에서 페널티 허용을 면한 것은 행운이었나",
+  "ko": "아스널, 리버풀 원정서 페널티 허용 안 한 건 운이었나",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -2999,8 +3084,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6
+  "issue": "liverpool-arsenal-2026-11-03",
+  "promptVersion": 7
  },
  {
   "id": "9119ca8fc1e1",
@@ -3010,27 +3095,29 @@
   "publishedAt": "2026-11-01T23:31:14.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "라 레알, 헤르난데스 헤르난데스 심판 공식 비판",
-  "category": "other",
+  "ko": "레알 소시에다드, 에르난데스 에르난데스 심판 비판",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "Real Sociedad"
+   "레알 소시에다드"
   ],
   "players": [],
-  "managers": [],
+  "managers": [
+   "에르난데스 에르난데스"
+  ],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "real-sociedad-affairs-var-referee",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Hernández Hernández",
-    "헤르난데스 헤르난데스"
+    "에르난데스 에르난데스"
    ]
   ]
  },
@@ -3042,13 +3129,11 @@
   "publishedAt": "2026-11-01T23:13:07.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "오야르사발, 오흔미 볼 터치 판정에 의문 제기",
-  "category": "other",
+  "ko": "오야르사발, 헌장 판정 의문 제기",
+  "category": "match",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "Real Sociedad"
-  ],
+  "otherClubs": [],
   "players": [
    "오야르사발"
   ],
@@ -3059,8 +3144,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "real-sociedad-affairs-var-referee",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Oyarzabal",
@@ -3076,12 +3161,14 @@
   "publishedAt": "2026-11-01T23:01:50.000Z",
   "author": "Juanma Velasco",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "시몬은 평범함의 아버지라는 칼럼",
+  "ko": "시몬이 평범함의 아버지라는 칼럼",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "시몬"
+  ],
   "managers": [],
   "league": "laliga",
   "credited": null,
@@ -3090,7 +3177,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Simón",
@@ -3106,23 +3193,23 @@
   "publishedAt": "2026-11-01T22:59:17.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "마타라초, 페널티 아니라며 VAR 취소 안 한 이유 의문",
-  "category": "other",
+  "ko": "마타라초, 페널티 아니다 주장하며 VAR 판정 의문",
+  "category": "match",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "Real Sociedad"
-  ],
+  "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "마타라초"
+  ],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "real-sociedad-affairs-var-referee",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Matarazzo",
@@ -3138,25 +3225,27 @@
   "publishedAt": "2026-11-01T22:53:16.000Z",
   "author": "M.Á. RODRÍGUEZ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "헤르난데스 헤르난데스 심판, 명백한 페널티였다고 주장",
-  "category": "other",
+  "ko": "에르난데스 에르난데스 심판, 페널티 명백하다며 VAR 확인 주장",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "에르난데스 에르난데스"
+  ],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "real-sociedad-affairs-var-referee",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Hernández Hernández",
-    "헤르난데스 헤르난데스"
+    "에르난데스 에르난데스"
    ]
   ]
  },
@@ -3168,7 +3257,7 @@
   "publishedAt": "2026-11-01T22:50:05.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "라이스, 리버풀 원정 승리 뒤 우승 경쟁 긴장감 즐겨",
+  "ko": "라이스, 리버풀전 승리 후 우승 경쟁 긴장감 즐겨",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -3177,7 +3266,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "데클란 라이스"
+   "라이스"
   ],
   "managers": [],
   "league": "epl",
@@ -3191,7 +3280,7 @@
    "declan-rice": "llm"
   },
   "issue": "liverpool-arsenal-2026-11-03",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Rice",
@@ -3207,7 +3296,7 @@
   "publishedAt": "2026-11-01T22:45:46.000Z",
   "author": "Juanma Velasco",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "테르지치 감독 \"올바른 방향으로 가고 있다\"",
+  "ko": "테르지치 \"좋은 방향으로 가고 있다\"",
   "category": "manager",
   "stage": null,
   "clubs": [],
@@ -3223,7 +3312,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Terzic",
@@ -3239,13 +3328,11 @@
   "publishedAt": "2026-11-01T22:31:30.000Z",
   "author": "MIGUEL ANGEL LARA",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "디오만데, 엘 사르디네로에서 보여준 제스처로 팬 마음 얻어",
-  "category": "match",
+  "ko": "디오만데, 엘 사르디네로 팬들의 마음을 얻은 제스처",
+  "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "Racing Santander"
-  ],
+  "otherClubs": [],
   "players": [
    "디오만데"
   ],
@@ -3257,7 +3344,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Diomande",
@@ -3273,7 +3360,7 @@
   "publishedAt": "2026-11-01T22:28:05.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "캐릭 맨유 감독 거취, 최근 패배 후 새 시한 보도",
+  "ko": "캐릭 맨유 거취, 최신 패배 뒤 타임라인 공개 임박",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -3291,7 +3378,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "man-utd-manager-future-20261102",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Michael Carrick",
@@ -3307,13 +3394,11 @@
   "publishedAt": "2026-11-01T22:23:28.000Z",
   "author": "ÓSCAR BADALLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아람부루, 페널티 판정에 \"믿기 힘들다\"며 불만",
-  "category": "other",
+  "ko": "아람부루 \"페널티 휘슬은 믿기 어려워, 공을 건드렸다는데 니코도 아니라고 해\"",
+  "category": "match",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "Real Sociedad"
-  ],
+  "otherClubs": [],
   "players": [
    "아람부루"
   ],
@@ -3324,8 +3409,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "real-sociedad-affairs-var-referee",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Aramburu",
@@ -3341,7 +3426,7 @@
   "publishedAt": "2026-11-01T21:56:13.000Z",
   "author": "Mark Ogden",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨유, 첼시 원정 패배로 강등 싸움 위기 평가",
+  "ko": "맨유, 첼시전 붕괴…프리미어리그 강등 싸움 위기",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -3358,7 +3443,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "chelsea-man-utd-2026-11-03",
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "2dd119474174",
@@ -3368,7 +3453,7 @@
   "publishedAt": "2026-11-01T21:56:13.000Z",
   "author": "Mark Ogden",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨시티 팬들, 프리미어리그 '레드 카르텔' 견제설 옳은가",
+  "ko": "맨시티 팬들, 프리미어리그 '레드 카르텔' 견제설은 옳을까",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3384,7 +3469,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "c3c1113ba69b",
@@ -3394,7 +3479,7 @@
   "publishedAt": "2026-11-01T21:54:12.000Z",
   "author": "Andy Davies",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "호날두 982번째 득점은 자책골이어야 한다는 분석",
+  "ko": "호날두 골 리뷰, 통산 982번째 득점은 자책골이어야 할까",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -3403,7 +3488,7 @@
    "호날두"
   ],
   "managers": [],
-  "league": "other",
+  "league": null,
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
@@ -3414,7 +3499,7 @@
    "cristiano-ronaldo": "llm"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Ronaldo",
@@ -3430,10 +3515,12 @@
   "publishedAt": "2026-11-01T21:41:18.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "트렌디올 쉬페르 리그 10라운드 순위표 정리",
+  "ko": "트렌디올 쉬페르 리그 최신 순위 (10라운드)",
   "category": "other",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "besiktas"
+  ],
   "otherClubs": [],
   "players": [],
   "managers": [],
@@ -3444,7 +3531,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "a5028b4e839c",
@@ -3454,8 +3541,8 @@
   "publishedAt": "2026-11-01T21:40:14.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "무리요, 홈에서 얻은 결과를 원정에서도 이어가야 한다고 강조",
-  "category": "other",
+  "ko": "무리요 \"홈에서 얻은 결과, 원정에서도 가져와야\"",
+  "category": "match",
   "stage": null,
   "clubs": [
    "besiktas"
@@ -3472,7 +3559,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Amir Murillo",
@@ -3488,7 +3575,7 @@
   "publishedAt": "2026-11-01T21:39:40.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스, 첫 이적 마무리 단계, 1월 합류 예정",
+  "ko": "베식타스, 첫 이적 마무리 단계…1월 합류 예정 선수",
   "category": "transfer",
   "stage": "done",
   "clubs": [
@@ -3504,7 +3591,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "ac1b363a0905",
@@ -3514,7 +3601,7 @@
   "publishedAt": "2026-11-01T21:38:05.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스, 유럽 대항전 경기 관련 결정 발표",
+  "ko": "베식타스, 유럽 대회 경기 관련 결정 발표",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3530,7 +3617,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "04e0fd8ec71f",
@@ -3540,7 +3627,7 @@
   "publishedAt": "2026-11-01T21:31:28.000Z",
   "author": "Adrian Rehling",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "토마스 뮐러, 다음 대기록 목전",
+  "ko": "토마스 뮐러, 또 한 번의 큰 기록 목표 도달 임박",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3548,7 +3635,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "토마스 뮐러"
+   "뮐러"
   ],
   "managers": [],
   "league": "bundesliga",
@@ -3558,7 +3645,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Thomas Müller",
@@ -3574,15 +3661,13 @@
   "publishedAt": "2026-11-01T21:13:19.000Z",
   "author": "FERNANDO ÁLVAREZ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "펠펠루, 사디크는 \"상자 속 놀라움\" 같은 선수라고 극찬",
-  "category": "other",
+  "ko": "페펠루 \"사디크는 혼돈 그 자체, 넣은 골처럼 놀라움의 상자\"",
+  "category": "match",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "Real Sociedad"
-  ],
+  "otherClubs": [],
   "players": [
-   "펠펠루",
+   "페펠루",
    "사디크"
   ],
   "managers": [],
@@ -3593,11 +3678,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Pepelu",
-    "펠펠루"
+    "페펠루"
    ],
    [
     "Sadiq",
@@ -3613,7 +3698,7 @@
   "publishedAt": "2026-11-01T21:00:26.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "이라올라 감독 \"앞으로 선수들에게 다이빙하라고 말하겠다\"",
+  "ko": "이라올라 \"앞으로 선수들에게 다이빙하라고 가르치겠다\"",
   "category": "manager",
   "stage": null,
   "clubs": [],
@@ -3629,7 +3714,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Iraola",
@@ -3645,7 +3730,7 @@
   "publishedAt": "2026-11-01T21:00:00.000Z",
   "author": "Ross Gregory",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "뉴캐슬 잭 램지, 부진 속 포지션 문제 언급",
+  "ko": "제이콥 램지 \"늘 제 포지션이 아닌 곳에서 뛰었다\"…뉴캐슬 부진 속 입장",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3653,7 +3738,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "잭 램지"
+   "제이콥 램지"
   ],
   "managers": [],
   "league": "epl",
@@ -3663,11 +3748,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Jacob Ramsey",
-    "잭 램지"
+    "제이콥 램지"
    ]
   ]
  },
@@ -3679,15 +3764,16 @@
   "publishedAt": "2026-11-01T20:31:41.000Z",
   "author": "Archie Griggs, Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "반 다이크, 아스널전 패배 후 심판·VAR 비판",
-  "category": "other",
+  "ko": "반 다이크, 아스널전 패배 뒤 주심과 VAR 맹비난",
+  "category": "match",
   "stage": null,
   "clubs": [
-   "liverpool"
+   "liverpool",
+   "arsenal"
   ],
   "otherClubs": [],
   "players": [
-   "버질 반 다이크"
+   "반 다이크"
   ],
   "managers": [],
   "league": "epl",
@@ -3700,12 +3786,12 @@
   "playerVia": {
    "virgil-van-dijk": "fullname"
   },
-  "issue": "van-dijk-arsenal-discipline",
-  "promptVersion": 6,
+  "issue": "liverpool-arsenal-2026-11-03",
+  "promptVersion": 7,
   "names": [
    [
     "Virgil van Dijk",
-    "버질 반 다이크"
+    "반 다이크"
    ]
   ]
  },
@@ -3717,7 +3803,7 @@
   "publishedAt": "2026-11-01T20:22:12.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "프리미어리그 구단주 85세로 사망, 구단 추모",
+  "ko": "85세 프리미어리그 구단주 별세…구단 '중요한 인물' 추모",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -3731,7 +3817,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "9e3186f28ec2",
@@ -3741,13 +3827,11 @@
   "publishedAt": "2026-11-01T20:17:48.000Z",
   "author": "DIEGO PICÓ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "안셀미, 엘체 상대 골 결정력 강조",
+  "ko": "안셀미 \"상대는 마르티네스 바레로에 틀어박혀, 우리는 기회를 살려야\"",
   "category": "match",
   "stage": null,
   "clubs": [],
-  "otherClubs": [
-   "엘체"
-  ],
+  "otherClubs": [],
   "players": [
    "안셀미"
   ],
@@ -3759,7 +3843,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Anselmi",
+    "안셀미"
+   ]
+  ]
  },
  {
   "id": "f904f675d8a3",
@@ -3769,7 +3859,7 @@
   "publishedAt": "2026-11-01T20:11:55.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 관련 소식 (내용 불명확)",
+  "ko": "옛날 옛적에 (기사 본문 불명확)",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3785,7 +3875,8 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "offTopic": true
  },
  {
   "id": "3ad57ce509e3",
@@ -3795,7 +3886,7 @@
   "publishedAt": "2026-11-01T20:02:07.000Z",
   "author": "DIEGO PICÓ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "엘체, 홈 부진 이어가",
+  "ko": "엘체, 홈에서 부진 이어가…최악의 출발 연장",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -3811,7 +3902,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "6948c7b638b7",
@@ -3821,7 +3912,7 @@
   "publishedAt": "2026-11-01T20:00:18.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 안필드 원정 승리로 선두 독주",
+  "ko": "아스널, 안필드에서 귀한 승리…리그 선두 독주 채비",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -3838,7 +3929,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "liverpool-arsenal-2026-11-03",
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "99821b78d405",
@@ -3848,8 +3939,8 @@
   "publishedAt": "2026-11-01T20:00:17.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 아그바두 실수 지적 (내용 불명확)",
-  "category": "other",
+  "ko": "베식타스, 아그바두의 실수 지적받아",
+  "category": "match",
   "stage": null,
   "clubs": [
    "besiktas"
@@ -3866,7 +3957,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Agbadou",
+    "아그바두"
+   ]
+  ]
  },
  {
   "id": "414f0157c7f5",
@@ -3876,7 +3973,7 @@
   "publishedAt": "2026-11-01T19:59:28.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 무리요 두 번째 어시스트",
+  "ko": "베식타스, 무리뉴의 두 번째 도움 기록",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -3884,7 +3981,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "무리요"
+   "무리뉴"
   ],
   "managers": [],
   "league": "other",
@@ -3894,7 +3991,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Murillo",
+    "무리뉴"
+   ]
+  ]
  },
  {
   "id": "c11a99696626",
@@ -3904,7 +4007,7 @@
   "publishedAt": "2026-11-01T19:59:25.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 골로도 부족했다",
+  "ko": "베식타스, 골키퍼 활약에도 실점 아쉬움",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -3920,7 +4023,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "bb528aaf2cde",
@@ -3930,14 +4033,14 @@
   "publishedAt": "2026-11-01T19:59:09.000Z",
   "author": "FERNANDO ÁLVAREZ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아기레, 전반 종료 후 패스 강조",
+  "ko": "아기레, 전반 종료 후 '1부 팀답게 패스하자' 주문",
   "category": "manager",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [],
   "managers": [
-   "하비에르 아기레"
+   "아기레"
   ],
   "league": "laliga",
   "credited": null,
@@ -3946,11 +4049,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Javier Aguirre",
-    "하비에르 아기레"
+    "아기레"
    ]
   ]
  },
@@ -3962,7 +4065,7 @@
   "publishedAt": "2026-11-01T19:58:24.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 리드반의 꾸준한 기여",
+  "ko": "베식타스, 리드완이 또 한 번 공헌",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -3970,7 +4073,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "리드반"
+   "리드완"
   ],
   "managers": [],
   "league": "other",
@@ -3980,7 +4083,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Rıdvan",
+    "리드완"
+   ]
+  ]
  },
  {
   "id": "73adfc95f9df",
@@ -3990,7 +4099,7 @@
   "publishedAt": "2026-11-01T19:57:36.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 선수 침묵 깨고 발언",
+  "ko": "베식타스 선수, 침묵 깨고 입 열어",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -4006,7 +4115,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "d463deaba0b3",
@@ -4016,12 +4125,10 @@
   "publishedAt": "2026-11-01T19:56:31.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베식타스 뇌벨 선방 4회",
+  "ko": "뇌벨, 선방 4회로 팀 지켜",
   "category": "match",
   "stage": null,
-  "clubs": [
-   "besiktas"
-  ],
+  "clubs": [],
   "otherClubs": [],
   "players": [
    "뇌벨"
@@ -4034,7 +4141,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Nübel",
@@ -4050,7 +4157,7 @@
   "publishedAt": "2026-11-01T19:53:10.000Z",
   "author": "DIEGO PICÓ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "하비 게라, 마지막 장면 긴장했다고 고백",
+  "ko": "하비 게라, '마지막 장면에 너무 긴장했다' 고백",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -4066,7 +4173,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Javi Guerra",
@@ -4082,7 +4189,7 @@
   "publishedAt": "2026-11-01T19:44:40.000Z",
   "author": "Stephen Killen",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "뉴캐슬 컬트 히어로, 상대 자극 행위로 퇴장",
+  "ko": "뉴캐슬 전설적 팬 서비스, 상대 선수 향한 외설 제스처로 퇴장",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -4098,7 +4205,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "be8224513867",
@@ -4108,13 +4215,10 @@
   "publishedAt": "2026-11-01T19:37:44.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "이라올라, 이삭 페널티 판정 의문 제기",
+  "ko": "이라올라, 이삭 페널티 판정에 당황 '모두가 봤다'",
   "category": "match",
   "stage": null,
-  "clubs": [
-   "brighton",
-   "newcastle"
-  ],
+  "clubs": [],
   "otherClubs": [],
   "players": [
    "이삭"
@@ -4132,8 +4236,8 @@
   "playerVia": {
    "alexander-isak": "short"
   },
-  "issue": "isak-liverpool-arsenal-relationship",
-  "promptVersion": 6,
+  "issue": "liverpool-arsenal-2026-11-03",
+  "promptVersion": 7,
   "names": [
    [
     "Iraola",
@@ -4153,7 +4257,7 @@
   "publishedAt": "2026-11-01T19:23:00.000Z",
   "author": "Redactie",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "헹크 AA 헨트 첫 패배, 클럽 브뤼허 선두",
+  "ko": "헨트, 첫 리그 패배로 주춤…클럽 브뤼허 선두 등극",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -4171,7 +4275,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "8c7013cf28ab",
@@ -4181,15 +4285,17 @@
   "publishedAt": "2026-11-01T19:21:49.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아르테타, 플리트우드 패배가 안필드 승리 원동력",
-  "category": "manager",
+  "ko": "아르테타, 플리트우드 실점 덕에 안필드 승리 자극 받았다고 평가",
+  "category": "match",
   "stage": null,
   "clubs": [
    "arsenal",
    "liverpool"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "플리트우드"
+  ],
   "managers": [
    "아르테타"
   ],
@@ -4199,12 +4305,16 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6,
+  "issue": "liverpool-arsenal-2026-11-03",
+  "promptVersion": 7,
   "names": [
    [
     "Arteta",
     "아르테타"
+   ],
+   [
+    "Fleetwood",
+    "플리트우드"
    ]
   ]
  },
@@ -4216,7 +4326,7 @@
   "publishedAt": "2026-11-01T18:37:48.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "벨링엄·음바페 득점, 레알 마드리드 강력한 승리",
+  "ko": "벨링엄·음바페 득점…레알 마드리드, 강렬한 승리",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -4224,8 +4334,8 @@
   ],
   "otherClubs": [],
   "players": [
-   "주드 벨링엄",
-   "킬리안 음바페"
+   "벨링엄",
+   "음바페"
   ],
   "managers": [],
   "league": "laliga",
@@ -4241,15 +4351,15 @@
    "jude-bellingham": "llm"
   },
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Bellingham",
-    "주드 벨링엄"
+    "벨링엄"
    ],
    [
     "Mbappe",
-    "킬리안 음바페"
+    "음바페"
    ]
   ]
  },
@@ -4261,8 +4371,8 @@
   "publishedAt": "2026-11-01T18:33:24.000Z",
   "author": "Robert Götz",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아우크스부르크, 포칼 16강서 2부 리그 팀과 맞대결 전망",
-  "category": "other",
+  "ko": "아우크스부르크, 포칼에서 2부 리그 팀과 대결 확정",
+  "category": "match",
   "stage": null,
   "clubs": [
    "augsburg"
@@ -4270,14 +4380,14 @@
   "otherClubs": [],
   "players": [],
   "managers": [],
-  "league": "other",
+  "league": "bundesliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "8ab77db4e3c9",
@@ -4287,25 +4397,25 @@
   "publishedAt": "2026-11-01T18:29:20.000Z",
   "author": "Hannah Gobrecht",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "묀헨글라트바흐, 포칼 16강서 2부 다름슈타트와 맞붙어",
-  "category": "other",
+  "ko": "묀헨글라트바흐, DFB-포칼 16강에서 2부 다름슈타트와 격돌",
+  "category": "match",
   "stage": null,
   "clubs": [
    "gladbach"
   ],
   "otherClubs": [
-   "Darmstadt 98"
+   "다름슈타트"
   ],
   "players": [],
   "managers": [],
-  "league": "other",
+  "league": "bundesliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null,
-  "promptVersion": 6
+  "issue": "gladbach-darmstadt-2026-11-04",
+  "promptVersion": 7
  },
  {
   "id": "8c5e770f62a5",
@@ -4315,15 +4425,14 @@
   "publishedAt": "2026-11-01T18:27:18.000Z",
   "author": "Will Schofield",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "이라올라 실수에 리버풀 패배, 논란의 판정이 가려",
-  "category": "manager",
+  "ko": "이라올라 실수, 리버풀의 아스널전 패배가 논쟁적 판정에 가려져",
+  "category": "match",
   "stage": null,
   "clubs": [
-   "liverpool"
+   "liverpool",
+   "arsenal"
   ],
-  "otherClubs": [
-   "Arsenal"
-  ],
+  "otherClubs": [],
   "players": [],
   "managers": [
    "이라올라"
@@ -4335,7 +4444,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "liverpool-arsenal-2026-11-03",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Andoni Iraola",
@@ -4360,7 +4469,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "알렉산더 이삭"
+   "이삭"
   ],
   "managers": [],
   "league": "epl",
@@ -4374,7 +4483,7 @@
    "alexander-isak": "short"
   },
   "issue": "liverpool-arsenal-2026-11-03",
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Isak",
@@ -4390,13 +4499,13 @@
   "publishedAt": "2026-11-01T18:13:15.000Z",
   "author": "JUAN YORDI, MIGUEL ÁNGEL GARCÍA",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "데포르티보-오사수나 경기 전망, 승점 3점 필요",
+  "ko": "데포르티보-오사수나, 상처 치유 위한 승점 3점 필요…프리뷰·분석·예측",
   "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "Deportivo",
-   "Osasuna"
+   "데포르티보",
+   "오사수나"
   ],
   "players": [],
   "managers": [],
@@ -4406,8 +4515,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "deportivo-osasuna-2026-11-03",
-  "promptVersion": 6
+  "issue": null,
+  "promptVersion": 7
  },
  {
   "id": "0e18e3e2aa61",
@@ -4417,7 +4526,7 @@
   "publishedAt": "2026-11-01T18:00:30.000Z",
   "author": "Andrew Beasley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "프리미어리그 강등권 팀들, 감독 교체 압박 속 선택은?",
+  "ko": "프리미어리그 하위권 팀들, 감독 압박 속 버틸지 바꿀지 고민",
   "category": "manager",
   "stage": null,
   "clubs": [],
@@ -4431,7 +4540,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7,
+  "names": [
+   [
+    "Andrew Beasley",
+    "앤드루 비슬리"
+   ]
+  ]
  },
  {
   "id": "dedb7fb8c3d1",
@@ -4441,7 +4556,7 @@
   "publishedAt": "2026-11-01T17:54:43.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨시티 여자팀, 런던 시티 꺾고 WSL 접전 승리",
+  "ko": "맨시티, WSL 접전 끝 런던시티 제압",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -4459,7 +4574,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "e96eef0cc2b1",
@@ -4474,24 +4589,24 @@
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "Malaga"
+   "Málaga"
   ],
   "players": [
-   "파블로 포르날스"
+   "포르날스"
   ],
   "managers": [],
-  "league": "laliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Pablo Fornals",
-    "파블로 포르날스"
+    "포르날스"
    ]
   ]
  },
@@ -4503,7 +4618,7 @@
   "publishedAt": "2026-11-01T17:47:00.000Z",
   "author": "Luc Verweirder",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아킨솔라 멀티골, 클럽 브뤼허 첫 승 견인",
+  "ko": "아킨솔라 멀티골, 서클 브뤼허 첫 승 이끌어",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -4513,7 +4628,7 @@
    "Cercle Brugge"
   ],
   "players": [
-   "튼데 아킨솔라"
+   "아킨솔라"
   ],
   "managers": [],
   "league": "other",
@@ -4522,12 +4637,12 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "cercle-brugge-manager-appointment",
-  "promptVersion": 6,
+  "issue": null,
+  "promptVersion": 7,
   "names": [
    [
     "Tunde Akinsola",
-    "튼데 아킨솔라"
+    "아킨솔라"
    ]
   ]
  },
@@ -4539,15 +4654,17 @@
   "publishedAt": "2026-11-01T17:36:54.000Z",
   "author": "FERNANDO ÁLVAREZ",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "발렌시아 디렉터, 겨울 이적시장이 문제 해결하지 못한다 경고",
+  "ko": "발렌시아 스포츠 디렉터 \"겨울 이적시장이 이 문제 해결하진 못해\"",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [
-   "valencia"
+   "Valencia"
   ],
   "players": [],
-  "managers": [],
+  "managers": [
+   "브라울리오 바스케스"
+  ],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
@@ -4555,7 +4672,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Braulio Vázquez",
@@ -4571,7 +4688,7 @@
   "publishedAt": "2026-11-01T17:34:12.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "셀틱, 10경기 6패로 퇴보 우려",
+  "ko": "셀틱, 최근 10경기 6패…퇴보 우려 제기",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -4586,8 +4703,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "celtic-manager-future",
-  "promptVersion": 6
+  "issue": null,
+  "promptVersion": 7
  },
  {
   "id": "b7352870e42b",
@@ -4597,7 +4714,7 @@
   "publishedAt": "2026-11-01T17:10:45.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "첼시 여자팀, 찰턴 6골 대파하고 WSL 선두 등극",
+  "ko": "첼시, 찰턴 6골 대파하고 WSL 선두 올라",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -4615,7 +4732,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "9ded1ace4877",
@@ -4625,7 +4742,7 @@
   "publishedAt": "2026-11-01T16:37:54.000Z",
   "author": "JOSÉ GORDILLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "가르시아 플라자 감독, 경기 차이는 결정력이었다고 평가",
+  "ko": "가르시아 플라자 \"경기 차이는 결정력\"",
   "category": "manager",
   "stage": null,
   "clubs": [],
@@ -4641,7 +4758,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "García Plaza",
@@ -4657,13 +4774,13 @@
   "publishedAt": "2026-11-01T16:25:15.000Z",
   "author": "JOSÉ GORDILLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "킥 살라스, 부심 깃발 든 장면 명백한 파울이었다고 주장",
+  "ko": "키케 살라스 \"부심 깃발 들었고 명백한 파울이었다고 봐\"",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [
-   "킥 살라스"
+   "키케 살라스"
   ],
   "managers": [],
   "league": "laliga",
@@ -4673,7 +4790,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Kike Salas",
@@ -4699,7 +4816,7 @@
    "Bayern"
   ],
   "players": [
-   "조브 벨링엄"
+   "제이브 벨링엄"
   ],
   "managers": [],
   "league": "bundesliga",
@@ -4709,11 +4826,11 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Jobe Bellingham",
-    "조브 벨링엄"
+    "제이브 벨링엄"
    ]
   ]
  },
@@ -4725,7 +4842,7 @@
   "publishedAt": "2026-11-01T16:10:23.000Z",
   "author": "Tilmann Mehl",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아우크스부르크, 포칼 16강서 바이에른과 만날지 주목",
+  "ko": "아우크스부르크, 포칼 16강서 바이에른과 만날까",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -4742,7 +4859,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "20060eb13951",
@@ -4752,7 +4869,7 @@
   "publishedAt": "2026-11-01T16:06:10.000Z",
   "author": "JUANCAR NAVACERRADA",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "보르달라스 감독, 심판이 불지 않으면 멈추지 말라고 주장",
+  "ko": "보르달라스 \"심판이 안 불면 멈추지 마, 논쟁도 없다\"",
   "category": "manager",
   "stage": null,
   "clubs": [],
@@ -4768,7 +4885,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Bordalás",
@@ -4784,7 +4901,7 @@
   "publishedAt": "2026-11-01T15:51:31.000Z",
   "author": "JOSÉ GORDILLO",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "사트리아노, 감독 말이 맞았다고 밝혀",
+  "ko": "사트리아노 \"감독님 말이 맞았다\"",
   "category": "other",
   "stage": null,
   "clubs": [],
@@ -4800,7 +4917,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Satriano",
@@ -4816,7 +4933,7 @@
   "publishedAt": "2026-11-01T15:49:47.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "런던 시티, 패배했지만 유럽 진출 가능성은 여전",
+  "ko": "런던시티 패배…유럽 진출 현실성은",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -4832,7 +4949,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "63f83ebf9f8c",
@@ -4842,8 +4959,8 @@
   "publishedAt": "2026-11-01T15:38:00.000Z",
   "author": "Redactie",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "베니토 라만, 메헬렌 3연승에도 신중한 반응",
-  "category": "other",
+  "ko": "베니토 라만 \"하루아침에 좋아진 게 아니다\"…KV 메헬런 3연승 소감",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "otherClubs": [
@@ -4860,7 +4977,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Benito Raman",
@@ -4876,17 +4993,17 @@
   "publishedAt": "2026-11-01T15:34:18.000Z",
   "author": null,
   "collectedAt": "2026-11-03T22:59:06.088Z",
-  "ko": "쾨크주, 카스믹파샤전 결장 여부 관심",
+  "ko": "오르쿤 쾨퀴, 카스임파샤전 결장 이유는 부상",
   "category": "injury",
   "stage": null,
   "clubs": [
    "besiktas"
   ],
   "otherClubs": [
-   "Kasimpasa"
+   "Kasımpaşa"
   ],
   "players": [
-   "쾨크주"
+   "오르쿤 쾨퀴"
   ],
   "managers": [],
   "league": "other",
@@ -4895,14 +5012,14 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Orkun Kökçü",
-    "쾨크주"
+    "오르쿤 쾨퀴"
    ]
   ],
-  "issue": "kokcu-celtic-2026-11-03"
+  "issue": "orkun-kokcu-injury"
  },
  {
   "id": "ea07d5a5a0d0",
@@ -4912,7 +5029,7 @@
   "publishedAt": "2026-11-01T15:30:00.000Z",
   "author": "Thomas Grulke",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "묀헨글라트바흐, 분데스리가 DFB-포칼 16강 상대 추첨 예정",
+  "ko": "묀헨글라트바흐, DFB-포칼 16강 상대 추첨 일요일 저녁 진행",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -4928,7 +5045,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6
+  "promptVersion": 7
  },
  {
   "id": "8c191de1a413",
@@ -4938,12 +5055,14 @@
   "publishedAt": "2026-11-01T15:18:43.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "스펜스, WSL 출전 기록 경신 소식에 자부심 표해",
+  "ko": "스펜스, WSL 출전 기록 경신 \"매우 자랑스럽다\"",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "스펜스"
+  ],
   "managers": [],
   "league": "other",
   "credited": null,
@@ -4952,7 +5071,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Spence",
@@ -4968,8 +5087,8 @@
   "publishedAt": "2026-11-01T15:01:25.000Z",
   "author": "Robert Götz",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아우크스부르크, 후반 93분 실점 문제에 리더 리더 불만 토로",
-  "category": "other",
+  "ko": "아우크스부르크, 후반 93분 실점 문제 지적 나와",
+  "category": "match",
   "stage": null,
   "clubs": [
    "augsburg"
@@ -4986,7 +5105,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": null,
-  "promptVersion": 6,
+  "promptVersion": 7,
   "names": [
    [
     "Fabian Rieder",

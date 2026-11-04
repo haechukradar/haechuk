@@ -1,6 +1,6 @@
 // 기사 묶기(클러스터링) + 핫 트렌드 점수 산정
 import { SOURCE_BY_ID, TIER_WEIGHT } from '../../config/sources.mjs';
-import { PIPELINE } from '../../config/site.mjs';
+import { PIPELINE, ACCURACY } from '../../config/site.mjs';
 import { signature } from './rules.mjs';
 import { CLUBS } from '../../config/clubs.mjs';
 import { tagPlayers } from '../../config/players.mjs';
@@ -254,7 +254,23 @@ function stageOf(articles) {
             .filter((s) => s !== 'collapsed')
             .sort((x, y) => STAGE_ORDER.indexOf(y) - STAGE_ORDER.indexOf(x))[0] ?? stage;
   }
+  // 확정·결렬은 종료 판정과 같은 근거가 있을 때만 (T1 보도 또는 T1~T2 서로 다른 매체 2곳 이상)
+  // 근거가 부족하면 보도된 진행 단계(관심·협상·합의) 중 가장 진전된 단계로 표시
+  if ((stage === 'done' || stage === 'collapsed') && !confirmed(staged, stage)) {
+    stage =
+      staged
+        .map((a) => a.stage)
+        .filter((s) => s !== 'done' && s !== 'collapsed')
+        .sort((x, y) => STAGE_ORDER.indexOf(y) - STAGE_ORDER.indexOf(x))[0] ?? 'interest';
+  }
   return stage;
+}
+
+function confirmed(staged, stage) {
+  const hits = staged.filter((a) => a.stage === stage);
+  const t1 = hits.filter((a) => tierOf(a) === 1).length;
+  const t12Sources = new Set(hits.filter((a) => tierOf(a) <= 2).map((a) => a.source)).size;
+  return t1 >= ACCURACY.minT1Confirm || t12Sources >= ACCURACY.minT12Confirm;
 }
 
 export function pickHot(issues) {
