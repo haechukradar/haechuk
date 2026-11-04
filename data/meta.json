@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T15:53:01.034Z",
+ "updatedAt": "2026-11-04T16:46:32.321Z",
  "hot": [
-  "gabriel-real-madrid-transfer",
   "de-miguel-incident",
-  "parker-west-ham-appointment",
-  "real-madrid-affairs-nadal-appointment",
-  "man-utd-roma-2026-11-03"
+  "man-utd-roma-2026-11-03",
+  "gabriel-real-madrid-transfer",
+  "rodri-injury",
+  "parker-west-ham-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -28,14 +28,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 0,
+   "items": 76,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 1,
+   "items": 58,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
@@ -53,7 +53,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -65,7 +65,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,19 +77,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 2,
-   "authorRate": 78
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -101,13 +101,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 78
   },
   "waz": {
@@ -131,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
@@ -143,7 +143,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -155,13 +155,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 4,
    "authorRate": 97
   },
   "star": {
@@ -173,24 +173,24 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 1,
+   "items": 9,
+   "added": 4,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 47
+   "count": 48
   },
   {
    "name": "오워노",
-   "count": 15
+   "count": 19
   },
   {
    "name": "데 미겔",
@@ -202,18 +202,22 @@
   },
   {
    "name": "리산드로 마르티네스",
-   "count": 10
+   "count": 9
   },
   {
    "name": "그라벤베르흐",
    "count": 7
   },
   {
-   "name": "J.J. 가브리엘",
+   "name": "JJ 가브리엘",
+   "count": 7
+  },
+  {
+   "name": "헤수스 오워노",
    "count": 6
   },
   {
-   "name": "JJ 가브리엘",
+   "name": "J.J. 가브리엘",
    "count": 6
   },
   {
@@ -222,10 +226,6 @@
   },
   {
    "name": "크루피",
-   "count": 5
-  },
-  {
-   "name": "헤수스 오워노",
    "count": 5
   },
   {
@@ -297,6 +297,10 @@
    "count": 3
   },
   {
+   "name": "발로군",
+   "count": 3
+  },
+  {
    "name": "토마스 뮐러",
    "count": 3
   }
@@ -307,11 +311,11 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 95
+    "count": 100
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 66
+    "count": 67
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -326,12 +330,12 @@
     "count": 21
    },
    {
-    "slug": "barcelona-aston-villa-2026-11-03",
+    "slug": "fonseca-sporting-appointment",
     "count": 18
    },
    {
-    "slug": "fonseca-sporting-appointment",
-    "count": 17
+    "slug": "barcelona-aston-villa-2026-11-03",
+    "count": 18
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
@@ -368,7 +372,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "자이슬레",
@@ -390,7 +394,7 @@
     },
     {
      "ko": "JJ 가브리엘",
-     "count": 5
+     "count": 6
     }
    ]
   },
@@ -400,7 +404,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "모리뉴",
@@ -454,6 +458,24 @@
     },
     {
      "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 스테우르",
+     "count": 2
+    },
+    {
+     "ko": "션 스퇴르",
+     "count": 1
+    },
+    {
+     "ko": "숀 스튜어",
      "count": 1
     }
    ]
@@ -518,24 +540,6 @@
     },
     {
      "ko": "주앙 모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 스퇴르",
-     "count": 1
-    },
-    {
-     "ko": "션 스테우르",
-     "count": 1
-    },
-    {
-     "ko": "숀 스튜어",
      "count": 1
     }
    ]
@@ -744,6 +748,20 @@
     },
     {
      "ko": "운다프",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Penrice",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페닉스",
+     "count": 1
+    },
+    {
+     "ko": "페링스",
      "count": 1
     }
    ]
@@ -971,8 +989,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 36,
-   "llm": 36
+   "collected": 84,
+   "llm": 84
   }
  },
  "llmErrors": []
