@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-04T18:46:32.208Z",
+ "updatedAt": "2026-11-04T19:49:54.254Z",
  "hot": [
   "de-miguel-incident",
+  "slavia-praha-arsenal-2026-11-03",
+  "fenerbahce-liverpool-2026-11-03",
   "liverpool-fenerbahce-2026-11-03",
-  "gabriel-real-madrid-transfer",
-  "man-utd-roma-2026-11-03",
   "real-madrid-aek-athens-2026-11-03"
  ],
  "days": [
@@ -28,8 +28,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 1,
+   "items": 77,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -41,7 +41,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -53,7 +53,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -65,7 +65,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 14,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,25 +77,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 7,
-   "authorRate": 80
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -131,13 +131,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -155,31 +155,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 27,
-   "added": 3,
-   "authorRate": 96
+   "items": 19,
+   "added": 7,
+   "authorRate": 95
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 4,
+   "items": 12,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -229,6 +229,10 @@
    "count": 6
   },
   {
+   "name": "조엘 페레이라",
+   "count": 6
+  },
+  {
    "name": "크루피",
    "count": 5
   },
@@ -237,7 +241,15 @@
    "count": 5
   },
   {
+   "name": "맥스 다우먼",
+   "count": 5
+  },
+  {
    "name": "달롯",
+   "count": 5
+  },
+  {
+   "name": "프레스티아니",
    "count": 5
   },
   {
@@ -249,7 +261,7 @@
    "count": 4
   },
   {
-   "name": "맥스 다우먼",
+   "name": "데이비드 베컴",
    "count": 4
   },
   {
@@ -258,10 +270,6 @@
   },
   {
    "name": "티에르노 배리",
-   "count": 4
-  },
-  {
-   "name": "프레스티아니",
    "count": 4
   },
   {
@@ -285,7 +293,7 @@
    "count": 3
   },
   {
-   "name": "데이비드 베컴",
+   "name": "사라비아",
    "count": 3
   },
   {
@@ -295,23 +303,15 @@
   {
    "name": "트레이 뇨니",
    "count": 3
-  },
-  {
-   "name": "브레들로",
-   "count": 3
-  },
-  {
-   "name": "스미스",
-   "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 179,
+  "recentIssues": 184,
   "singleArticleRate": 46,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 105
+    "count": 107
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -319,7 +319,7 @@
    },
    {
     "slug": "parker-west-ham-appointment",
-    "count": 24
+    "count": 25
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -336,6 +336,10 @@
    {
     "slug": "barcelona-aston-villa-2026-11-03",
     "count": 18
+   },
+   {
+    "slug": "man-utd-affairs-ownership",
+    "count": 16
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
@@ -372,7 +376,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 4
+     "count": 5
     },
     {
      "ko": "자이슬레",
@@ -440,7 +444,7 @@
    "variants": [
     {
      "ko": "맥스 다우먼",
-     "count": 4
+     "count": 5
     },
     {
      "ko": "도원만",
@@ -513,6 +517,20 @@
    ]
   },
   {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 3
+    },
+    {
+     "ko": "파리오리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Toni Brogno",
    "dictionary": null,
    "variants": [
@@ -572,20 +590,6 @@
     },
     {
      "ko": "주앙 모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 2
-    },
-    {
-     "ko": "파리오리",
      "count": 1
     }
    ]
@@ -1023,15 +1027,15 @@
    ]
   },
   {
-   "en": "Niclas Füllkrug",
+   "en": "Niclas Fullkrug",
    "dictionary": null,
    "variants": [
     {
-     "ko": "퓔크루크",
+     "ko": "풀크루크",
      "count": 1
     },
     {
-     "ko": "풀크루크",
+     "ko": "퓔크루크",
      "count": 1
     }
    ]
@@ -1063,8 +1067,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 203,
-   "llm": 203
+   "collected": 272,
+   "llm": 272
   }
  },
  "llmErrors": []
