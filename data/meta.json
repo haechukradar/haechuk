@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T04:24:04.708Z",
+ "updatedAt": "2026-11-04T05:26:13.357Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
+  "saliba-injury",
   "atletico-bayern-2026-11-03",
-  "de-miguel-incident",
-  "ait-nouri-man-utd-transfer"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -76,37 +76,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 80
+   "added": 4,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 3,
    "authorRate": 80
   },
   "waz": {
@@ -136,19 +136,19 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 24,
-   "added": 0,
+   "items": 25,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -212,6 +212,10 @@
    "count": 4
   },
   {
+   "name": "노이어",
+   "count": 4
+  },
+  {
    "name": "그라벤베르흐",
    "count": 3
   },
@@ -228,6 +232,10 @@
    "count": 3
   },
   {
+   "name": "티에르노 배리",
+   "count": 3
+  },
+  {
    "name": "한스 바나켄",
    "count": 3
   },
@@ -240,10 +248,6 @@
    "count": 3
   },
   {
-   "name": "노이어",
-   "count": 3
-  },
-  {
    "name": "카마빙가",
    "count": 3
   },
@@ -253,7 +257,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 118,
+  "recentIssues": 120,
   "singleArticleRate": 39,
   "broad": [
    {
@@ -262,7 +266,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 52
+    "count": 53
    },
    {
     "slug": "atletico-bayern-2026-11-03",
@@ -354,6 +358,28 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 3
+    },
+    {
+     "ko": "티에른 바리",
+     "count": 3
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 1
+    },
+    {
+     "ko": "테리에르노 바리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -367,28 +393,6 @@
     },
     {
      "ko": "모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에른 바리",
-     "count": 3
-    },
-    {
-     "ko": "티에르노 배리",
-     "count": 2
-    },
-    {
-     "ko": "티에르노 바리",
-     "count": 1
-    },
-    {
-     "ko": "테리에르노 바리",
      "count": 1
     }
    ]
@@ -680,6 +684,20 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "뎁스리 홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Fonseca",
    "dictionary": null,
    "variants": [
@@ -717,6 +735,20 @@
     },
     {
      "ko": "개비 로건",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰이 레이시",
+     "count": 1
+    },
+    {
+     "ko": "셰아 레이시",
      "count": 1
     }
    ]
@@ -800,8 +832,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 545,
-   "llm": 545
+   "collected": 566,
+   "llm": 566
   }
  }
 }
