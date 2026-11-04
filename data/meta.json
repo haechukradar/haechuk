@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-04T00:18:15.921Z",
+ "updatedAt": "2026-11-04T01:34:49.119Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "de-miguel-incident",
   "atletico-bayern-2026-11-03",
+  "de-miguel-incident",
   "ait-nouri-man-utd-transfer"
  ],
  "days": [
@@ -27,20 +27,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 73,
-   "added": 2,
+   "items": 74,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -64,7 +64,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -76,13 +76,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 80
   },
   "fblondon": {
@@ -94,13 +94,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -177,7 +177,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 2,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -254,7 +254,7 @@
  ],
  "issueHealth": {
   "recentIssues": 117,
-  "singleArticleRate": 40,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -266,7 +266,7 @@
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 23
+    "count": 24
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -786,8 +786,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 527,
-   "llm": 527
+   "collected": 534,
+   "llm": 534
   }
  }
 }
