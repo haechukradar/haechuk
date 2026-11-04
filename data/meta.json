@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T14:00:47.213Z",
+ "updatedAt": "2026-11-04T14:12:05.658Z",
  "hot": [
   "de-miguel-incident",
   "parker-west-ham-appointment",
@@ -34,25 +34,25 @@
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 20,
+   "added": 2,
+   "authorRate": 95
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -76,7 +76,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
@@ -94,19 +94,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 80
   },
   "waz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 0,
    "authorRate": 93
   },
   "star": {
@@ -172,7 +172,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
@@ -221,6 +221,10 @@
   },
   {
    "name": "아이트누리",
+   "count": 5
+  },
+  {
+   "name": "J.J. 가브리엘",
    "count": 5
   },
   {
@@ -284,10 +288,6 @@
    "count": 3
   },
   {
-   "name": "J.J. 가브리엘",
-   "count": 3
-  },
-  {
    "name": "브레들로",
    "count": 3
   },
@@ -297,8 +297,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 159,
-  "singleArticleRate": 43,
+  "recentIssues": 162,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -306,14 +306,14 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 65
-   },
-   {
-    "slug": "parker-west-ham-appointment",
-    "count": 23
+    "count": 66
    },
    {
     "slug": "villarreal-psg-2026-11-03",
+    "count": 24
+   },
+   {
+    "slug": "parker-west-ham-appointment",
     "count": 23
    },
    {
@@ -376,6 +376,20 @@
    ]
   },
   {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 5
+    },
+    {
+     "ko": "JJ 가브리엘",
+     "count": 4
+    }
+   ]
+  },
+  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -394,20 +408,6 @@
     {
      "ko": "베리",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 4
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 3
     }
    ]
   },
@@ -605,6 +605,24 @@
     },
     {
      "ko": "바리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lennart Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "렌나르트 칼",
+     "count": 1
+    },
+    {
+     "ko": "레나트 칼",
+     "count": 1
+    },
+    {
+     "ko": "렌나르트 카를",
      "count": 1
     }
    ]
@@ -848,20 +866,6 @@
    ]
   },
   {
-   "en": "Lennart Karl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레나트 칼",
-     "count": 1
-    },
-    {
-     "ko": "렌나르트 카를",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Carlos Baleba",
    "dictionary": null,
    "variants": [
@@ -940,8 +944,9 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 927,
-   "llm": 2414
+   "collected": 934,
+   "llm": 2438
   }
- }
+ },
+ "llmErrors": []
 }

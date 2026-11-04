@@ -191,6 +191,8 @@ export const validIssueKey = (key) => typeof key === 'string' && ISSUE_KEY_RE.te
 export const PROMPT_VERSION = 7;
 
 let client;
+// 이번 실행의 API 오류 (meta.json 의 llmErrors 로 남겨 원인 확인)
+export const llmErrors = [];
 let disabled = false;
 
 export const llmAvailable = () => !disabled && process.env.NO_LLM !== '1';
@@ -218,7 +220,8 @@ export async function enrichBatch(articles, activeIssues) {
 const TRUNCATED = Symbol('truncated');
 
 async function requestBatch(articles, activeIssues) {
-  client ??= new Anthropic();
+  // 일시적 오류(과부하·속도 제한·네트워크)는 SDK가 지수 대기로 재시도
+  client ??= new Anthropic({ maxRetries: 5 });
   const lines = articles.map((a, i) => {
     const s = SOURCE_BY_ID[a.source];
     // RSS description은 보내지 않는다 (요약에 제목 밖 내용이 섞이는 문제 확인 — 선수 매칭에만 사용)
@@ -254,6 +257,7 @@ async function requestBatch(articles, activeIssues) {
     }
     return out;
   } catch (err) {
+    llmErrors.push({ at: new Date().toISOString(), status: err?.status ?? null, message: String(err?.message ?? err).slice(0, 200) });
     if (err instanceof Anthropic.AuthenticationError || err instanceof Anthropic.PermissionDeniedError) {
       console.warn('  Claude API 인증 실패 → 이번 실행은 규칙 기반으로 처리');
       disabled = true;

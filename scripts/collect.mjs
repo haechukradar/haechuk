@@ -9,7 +9,7 @@ import { ACCURACY, PIPELINE } from '../config/site.mjs';
 import { RESOLUTIONS } from '../config/resolutions.mjs';
 import { fetchFeed, normalizeUrl } from './lib/rss.mjs';
 import { classify, tagClubs } from './lib/rules.mjs';
-import { enrichBatch, llmAvailable, validIssueKey, PROMPT_VERSION } from './lib/enrich.mjs';
+import { enrichBatch, llmAvailable, validIssueKey, PROMPT_VERSION, llmErrors } from './lib/enrich.mjs';
 import { assignIssues, pickHot, scoreIssue, mergeDuplicateIssues } from './lib/issues.mjs';
 import { runAccuracy } from './lib/accuracy.mjs';
 
@@ -322,6 +322,8 @@ async function main() {
     issueHealth,
     nameReport: nameReport.slice(0, 50),
     daily: Object.fromEntries(Object.entries(daily).sort().slice(-60)), // KPI: 일 수집 기사 수
+    // 최근 Claude API 오류 (실행 기록을 보지 않고도 번역 누락 원인 확인)
+    llmErrors: [...llmErrors, ...(meta.llmErrors ?? [])].slice(0, 20),
   });
   console.log(`이슈 ${issueList.length}개, 핫 트렌드 ${hot.length}개 — ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 }

@@ -1,5 +1,61 @@
 [
  {
+  "id": "0db9b9be3239",
+  "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-premier-league-fixture-moved-34862106",
+  "title": "Everton Premier League fixture moved after Fleetwood Town Carabao Cup date confirmed",
+  "source": "lecho",
+  "publishedAt": "2026-11-04T14:02:42.000Z",
+  "author": "Chris Beesley",
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "에버턴 프리미어리그 일정 변경, 플리트우드 타운 컵 일정 확정 후",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "everton"
+  ],
+  "otherClubs": [
+   "Fleetwood Town"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "epl",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
+  "issue": "everton-fixture-change-2026-11-04"
+ },
+ {
+  "id": "ce3becd7f535",
+  "url": "https://www.mirror.co.uk/sport/football/news/fenerbahce-liverpool-tv-channel-iraola-37837020",
+  "title": "How to watch Fenerbahce vs Liverpool - TV channel, live stream, kick-off time",
+  "source": "mirror",
+  "publishedAt": "2026-11-04T14:00:00.000Z",
+  "author": "Abbie Meehan",
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "페네르바체 대 리버풀 중계 채널·라이브 스트림·킥오프 시간 안내",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "liverpool"
+  ],
+  "otherClubs": [
+   "Fenerbahce"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "other",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
+  "issue": "fenerbahce-liverpool-2026-11-03"
+ },
+ {
   "id": "ed126798214a",
   "url": "https://www.thesun.co.uk/sport/40912490/matheus-cunha-sat-with-man-utd-fan-red-card/",
   "title": "Matheus Cunha ‘unlocks infinite aura’ as Man Utd fans spot what he did immediately after red card against Roma",
@@ -7,19 +63,22 @@
   "publishedAt": "2026-11-04T13:54:40.000Z",
   "author": "Jo Aujla",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "카냐, 로마전 퇴장 직후 보인 행동으로 맨유 팬들 주목",
   "category": "other",
   "stage": null,
   "clubs": [
-   "man-utd",
-   "roma"
+   "man-utd"
   ],
-  "otherClubs": [],
-  "players": [],
+  "otherClubs": [
+   "AS Roma"
+  ],
+  "players": [
+   "마테우스 쿠냐"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [
    "matheus-cunha"
@@ -27,6 +86,132 @@
   "playerVia": {
    "matheus-cunha": "fullname"
   },
+  "issue": "cunha-discipline",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Matheus Cunha",
+    "마테우스 쿠냐"
+   ]
+  ]
+ },
+ {
+  "id": "72881a9428e9",
+  "url": "https://www.mirror.co.uk/sport/football/news/ineos-man-utd-lausanne-sport-37842741",
+  "title": "INEOS sack manager as Man Utd co-owners make brutal decision after 'lengthy talks'",
+  "source": "mirror",
+  "publishedAt": "2026-11-04T13:54:12.000Z",
+  "author": "Bruna Reis",
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "이네오스, 맨유 공동구단주 긴 협상 끝 감독 경질 결정 보도",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "otherClubs": [
+   "INEOS"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "epl",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
+  "issue": "man-utd-manager-future-20261102"
+ },
+ {
+  "id": "957180ebe4da",
+  "url": "https://www.espn.com/soccer/story/_/id/50378043/barcelona-rodri-ruled-atletico-madrid-clash-hamstring-injury",
+  "title": "Barça's Rodri (hamstring) out of Atlético clash",
+  "source": "espn",
+  "publishedAt": "2026-11-04T13:54:01.000Z",
+  "author": "Sam Marsden",
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "바르셀로나 로드리, 햄스트링 부상으로 아틀레티코전 결장",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [
+   "Barcelona",
+   "Atletico Madrid"
+  ],
+  "players": [
+   "로드리"
+  ],
+  "managers": [],
+  "league": "laliga",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [
+   "rodri"
+  ],
+  "playerVia": {
+   "rodri": "short"
+  },
+  "promptVersion": 7,
+  "names": [
+   [
+    "Rodri",
+    "로드리"
+   ]
+  ],
+  "issue": "rodri-injury"
+ },
+ {
+  "id": "df41e4d4dc56",
+  "url": "https://www.espn.com/soccer/story/_/id/50378091/man-united-fans-tennis-balls-soccer-history-supporter-protests",
+  "title": "👀 Man United fans throwing tennis balls part of soccer's rich history of supporter protests",
+  "source": "espn",
+  "publishedAt": "2026-11-04T13:54:01.000Z",
+  "author": "Chris Wright",
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "맨유 팬들의 테니스공 투척, 축구 서포터 항의의 역사",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "otherClubs": [],
+  "players": [],
+  "managers": [],
+  "league": "epl",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
+  "issue": null
+ },
+ {
+  "id": "85532be787d1",
+  "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/aursnes-e-schjelderup-nos-23-convocados-da-noruega-para-a-liga-das-nacoes",
+  "title": "Aursnes e Schjelderup nos 23 convocados da Noruega para a Liga das Nações",
+  "source": "record",
+  "publishedAt": "2026-11-04T13:53:00.000Z",
+  "author": null,
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "노르웨이 국가대표 명단, 아우르스네스·셰이더루프 포함 23명 발표",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [
+   "Norway"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "other",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
   "issue": null
  },
  {
@@ -37,22 +222,27 @@
   "publishedAt": "2026-11-04T13:52:41.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
-  "category": "other",
+  "ko": "라이브: 라이프치히 주니어, 시티 상대 첫 승 도전, 도르트문트는 나중에 베티스전",
+  "category": "match",
   "stage": null,
   "clubs": [
+   "leipzig",
+   "man-city",
    "dortmund"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Real Betis"
+  ],
   "players": [],
   "managers": [],
   "league": "bundesliga",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": "man-city-leipzig-2026-11-03",
+  "promptVersion": 7
  },
  {
   "id": "682838bd5a22",
@@ -62,22 +252,61 @@
   "publishedAt": "2026-11-04T13:52:08.000Z",
   "author": "Rahman Osman",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
-  "category": "injury",
+  "ko": "로메오 라비아, 15세 때 과르디올라 영입 대상에서 첼시 핵심으로 성장한 과정",
+  "category": "other",
   "stage": null,
   "clubs": [
-   "chelsea",
-   "man-city"
+   "chelsea"
   ],
   "otherClubs": [],
-  "players": [],
-  "managers": [],
+  "players": [
+   "로메오 라비아"
+  ],
+  "managers": [
+   "과르디올라"
+  ],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
+  "issue": null,
+  "promptVersion": 7,
+  "names": [
+   [
+    "Romeo Lavia",
+    "로메오 라비아"
+   ],
+   [
+    "Pep Guardiola",
+    "과르디올라"
+   ]
+  ]
+ },
+ {
+  "id": "c25c3bc17c86",
+  "url": "https://www.record.pt/multimedia/videos/detalhe/o-que-revelam-os-resultados-das-eleicoes-intercalares-nos-eua",
+  "title": "O que revelam os resultados das eleições intercalares nos EUA?",
+  "source": "record",
+  "publishedAt": "2026-11-04T13:51:43.000Z",
+  "author": null,
+  "collectedAt": "2026-11-04T14:12:05.658Z",
+  "ko": "미국 중간선거 결과가 무엇을 보여주는가",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [],
+  "players": [],
+  "managers": [],
+  "league": null,
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
+  "offTopic": true,
   "issue": null
  },
  {
@@ -88,23 +317,36 @@
   "publishedAt": "2026-11-04T13:49:49.000Z",
   "author": "Felix Keith",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
-  "category": "other",
-  "stage": null,
+  "ko": "맨유, 레알 마드리드와 갈등 속 J.J. 가브리엘 올드트래퍼드 이별 임박",
+  "category": "transfer",
+  "stage": "negotiation",
   "clubs": [
    "man-utd",
    "real-madrid"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "J.J. 가브리엘"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
-  "transfer": null,
+  "enrichedBy": "llm",
+  "transfer": {
+   "player": "J.J. 가브리엘",
+   "from": "맨유",
+   "to": "레알 마드리드"
+  },
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": "gabriel-real-madrid-transfer",
+  "promptVersion": 7,
+  "names": [
+   [
+    "JJ Gabriel",
+    "J.J. 가브리엘"
+   ]
+  ]
  },
  {
   "id": "14f22de0d1fd",
@@ -114,23 +356,32 @@
   "publishedAt": "2026-11-04T13:49:07.000Z",
   "author": "Simon Collings",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "수비멘디, 월드컵 우승 후 아스널에서 연이은 부상으로 불운, 레알 마드리드 이적설",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "arsenal",
    "real-madrid"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "마르틴 수비멘디"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "names": [
+   [
+    "Martin Zubimendi",
+    "마르틴 수비멘디"
+   ]
+  ]
  },
  {
   "id": "61d3f1a2ce76",
@@ -140,20 +391,31 @@
   "publishedAt": "2026-11-04T13:48:51.000Z",
   "author": "Alexander Kaindl",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "렌나르트 칼, 3.5% 기록으로 한 명만 능가하는 바이에른 유망주",
   "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
-  "players": [],
+  "otherClubs": [
+   "Bayern Munich"
+  ],
+  "players": [
+   "렌나르트 칼"
+  ],
   "managers": [],
   "league": "bundesliga",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "names": [
+   [
+    "Lennart Karl",
+    "렌나르트 칼"
+   ]
+  ]
  },
  {
   "id": "cfb696789f2c",
@@ -163,20 +425,31 @@
   "publishedAt": "2026-11-04T13:45:48.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
-  "category": "other",
+  "ko": "스포르팅 감독 평균 재임 기간, 루벤 아모림만 예외적",
+  "category": "manager",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "Sporting CP"
+  ],
   "players": [],
-  "managers": [],
-  "league": null,
+  "managers": [
+   "루벤 아모림"
+  ],
+  "league": "other",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "names": [
+   [
+    "Ruben Amorim",
+    "루벤 아모림"
+   ]
+  ]
  },
  {
   "id": "8af2e83ca611",
@@ -187,17 +460,20 @@
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
   "ko": null,
-  "category": "transfer",
-  "stage": "interest",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "real-madrid"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "J.J. 가브리엘",
+   "마르틴 외데고르"
+  ],
   "managers": [],
   "league": "laliga",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [
    "martin-odegaard"
@@ -205,7 +481,18 @@
   "playerVia": {
    "martin-odegaard": "fullname"
   },
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "names": [
+   [
+    "JJ Gabriel",
+    "J.J. 가브리엘"
+   ],
+   [
+    "Martin Odegaard",
+    "마르틴 외데고르"
+   ]
+  ]
  },
  {
   "id": "f184639bd208",
@@ -219,16 +506,20 @@
   "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "Football Australia"
+  ],
   "players": [],
   "managers": [],
   "league": null,
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "offTopic": true
  },
  {
   "id": "0d8ee7e0b887",
@@ -238,23 +529,33 @@
   "publishedAt": "2026-11-04T13:42:47.000Z",
   "author": "James Graham",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "맨유 로마 3-2 역전승, 캐릭에게 불길한 징조 될 수도",
   "category": "match",
   "stage": null,
   "clubs": [
-   "man-utd",
-   "roma"
+   "man-utd"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "AS Roma"
+  ],
   "players": [],
-  "managers": [],
+  "managers": [
+   "캐릭"
+  ],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": "man-utd-roma-2026-11-03",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Michael Carrick",
+    "캐릭"
+   ]
+  ]
  },
  {
   "id": "b2644c9d7fe5",
@@ -264,22 +565,25 @@
   "publishedAt": "2026-11-04T13:39:35.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "PSG, 비야레알 완파로 15년 만의 챔피언스리그 기록 경신, 10연승",
   "category": "match",
   "stage": null,
   "clubs": [
    "psg"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Villarreal"
+  ],
   "players": [],
   "managers": [],
   "league": "ligue1",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": "villarreal-psg-2026-11-03",
+  "promptVersion": 7
  },
  {
   "id": "e3ba574f4d30",
@@ -289,18 +593,20 @@
   "publishedAt": "2026-11-04T13:39:19.000Z",
   "author": "Tyrone Marshall",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "UEFA, 경기 후 규정 위반한 쿠냐 징계 결정",
   "category": "other",
   "stage": null,
-  "clubs": [
-   "man-utd"
+  "clubs": [],
+  "otherClubs": [
+   "UEFA"
   ],
-  "otherClubs": [],
-  "players": [],
+  "players": [
+   "마테우스 쿠냐"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [
    "matheus-cunha"
@@ -308,7 +614,14 @@
   "playerVia": {
    "matheus-cunha": "fullname"
   },
-  "issue": null
+  "issue": "cunha-discipline",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Matheus Cunha",
+    "마테우스 쿠냐"
+   ]
+  ]
  },
  {
   "id": "6f9020bf1f57",
@@ -318,7 +631,7 @@
   "publishedAt": "2026-11-04T13:34:48.000Z",
   "author": "Harry Brent",
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "폴 스콜스의 맨유 예언 재조명, 캐릭에게 불안한 징조",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -326,14 +639,27 @@
   ],
   "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "캐릭"
+  ],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "names": [
+   [
+    "Paul Scholes",
+    "폴 스콜스"
+   ],
+   [
+    "Michael Carrick",
+    "캐릭"
+   ]
+  ]
  },
  {
   "id": "3bf0f910a0af",
@@ -343,22 +669,31 @@
   "publishedAt": "2026-11-04T13:30:58.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
-  "category": "other",
+  "ko": "맨유 극적 역전승, 캐릭 감독 구할 수 있을까",
+  "category": "match",
   "stage": null,
   "clubs": [
    "man-utd"
   ],
   "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "캐릭"
+  ],
   "league": "epl",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": "man-utd-match-2026-11-03",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Michael Carrick",
+    "캐릭"
+   ]
+  ]
  },
  {
   "id": "8e07116bde78",
@@ -368,20 +703,24 @@
   "publishedAt": "2026-11-04T13:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "애서턴, 앤더슨 방출 과정 랭커셔 대응 비판 일축",
   "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "랭커셔 카운티 크리켓 클럽"
+  ],
   "players": [],
   "managers": [],
   "league": null,
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7,
+  "offTopic": true
  },
  {
   "id": "58b310de9025",
@@ -425,20 +764,29 @@
   "publishedAt": "2026-11-04T13:27:30.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "슈미트 \"더 밝은 미소로 일어설 수 있다\" 발언",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
   "players": [],
-  "managers": [],
+  "managers": [
+   "슈미트"
+  ],
   "league": "bundesliga",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": "heidenheim-manager-future",
+  "promptVersion": 7,
+  "names": [
+   [
+    "Schmied",
+    "슈미트"
+   ]
+  ]
  },
  {
   "id": "41adc8ae6612",
@@ -546,20 +894,23 @@
   "publishedAt": "2026-11-04T13:20:38.000Z",
   "author": null,
   "collectedAt": "2026-11-04T14:00:47.213Z",
-  "ko": null,
+  "ko": "쾰른, 가을 시즌 성공하려면 전방 득점이 필요하다",
   "category": "other",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "쾰른"
+  ],
   "players": [],
   "managers": [],
   "league": "bundesliga",
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 7
  },
  {
   "id": "36411541bbbc",
