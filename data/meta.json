@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T21:32:46.605Z",
+ "updatedAt": "2026-11-04T22:28:17.309Z",
  "hot": [
-  "fenerbahce-liverpool-2026-11-03",
+  "leipzig-man-city-2026-11-04",
+  "arsenal-slavia-praha-2026-11-03",
   "de-miguel-incident",
   "real-madrid-aek-athens-2026-11-03",
-  "lens-como-2026-11-04",
-  "leipzig-man-city-2026-11-04"
+  "fenerbahce-liverpool-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -28,20 +28,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 0,
+   "items": 70,
+   "added": 10,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -53,7 +53,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -64,8 +64,8 @@
   },
   "as": {
    "ok": true,
-   "items": 49,
-   "added": 0,
+   "items": 50,
+   "added": 12,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,31 +77,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 4,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -131,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,7 +161,7 @@
   "sun": {
    "ok": true,
    "items": 19,
-   "added": 2,
+   "added": 3,
    "authorRate": 89
   },
   "star": {
@@ -179,7 +179,7 @@
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -281,6 +281,10 @@
    "count": 4
   },
   {
+   "name": "마두에케",
+   "count": 3
+  },
+  {
    "name": "브로비",
    "count": 3
   },
@@ -299,31 +303,27 @@
   {
    "name": "카를로스 포브스",
    "count": 3
-  },
-  {
-   "name": "사라비아",
-   "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 187,
+  "recentIssues": 190,
   "singleArticleRate": 46,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 108
+    "count": 109
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 68
+    "count": 69
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 25
+    "count": 27
    },
    {
     "slug": "parker-west-ham-appointment",
-    "count": 25
+    "count": 26
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -331,19 +331,23 @@
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 20
+    "count": 21
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
-    "count": 18
+    "count": 19
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 18
+    "count": 19
+   },
+   {
+    "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 17
    },
    {
     "slug": "man-utd-affairs-ownership",
@@ -371,6 +375,24 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 12
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    },
+    {
+     "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -388,20 +410,6 @@
     },
     {
      "ko": "자이슬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 12
-    },
-    {
-     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -471,6 +479,50 @@
    ]
   },
   {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 포브스",
+     "count": 3
+    },
+    {
+     "ko": "카를로스 포르브스",
+     "count": 1
+    },
+    {
+     "ko": "포브스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 바나컨",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 파나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아케너",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jaissle",
    "dictionary": null,
    "variants": [
@@ -535,20 +587,6 @@
    ]
   },
   {
-   "en": "Carlos Forbs",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 포브스",
-     "count": 3
-    },
-    {
-     "ko": "카를로스 포르브스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Toni Brogno",
    "dictionary": null,
    "variants": [
@@ -558,28 +596,6 @@
     },
     {
      "ko": "토니 브뇨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 바나컨",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 바나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 파나켄",
      "count": 1
     }
    ]
@@ -1127,8 +1143,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 359,
-   "llm": 359
+   "collected": 422,
+   "llm": 422
   }
  },
  "llmErrors": []
