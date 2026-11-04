@@ -140,6 +140,13 @@ section { margin: 32px 0; }
 .orig.big { font-size: 15px; line-height: 22px; margin-bottom: 12px; }
 .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-top: 6px; font-size: 12px; line-height: 18px; font-weight: 500; color: var(--text-2); }
 .meta .src { color: var(--text-detail); font-weight: 600; }
+/* 매체 로고(파비콘) + 카드 왼쪽 배지 (클럽 약칭·코리안리거 성, 클럽 대표색) */
+.meta .src { display: inline-flex; align-items: center; gap: 4px; }
+.src-icon { width: 14px; height: 14px; border-radius: 2px; flex: none; }
+.card { display: grid; grid-template-columns: 36px minmax(0, 1fr); column-gap: 12px; align-items: start; }
+.badge { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-top: 2px; font-size: 10px; font-weight: 800; letter-spacing: -0.02em; line-height: 1; }
+.badge-kr { font-size: 15px; }
+.badge-plain { background: var(--line-strong); color: var(--text-2); }
 .meta .issue-link { color: var(--navy-text); font-weight: 600; text-decoration: none; }
 .meta .report { margin-left: auto; color: var(--text-3); text-decoration: none; }
 
@@ -386,6 +393,9 @@ a.player-tile { flex-direction: column; justify-content: flex-start; }
   .facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 767px) {
+  .card { grid-template-columns: 32px minmax(0, 1fr); column-gap: 10px; }
+  .badge { width: 32px; height: 32px; font-size: 9px; }
+  .badge-kr { font-size: 14px; }
   .wrap { padding: 0 16px; }
   .top-inner { height: 52px; }
   .logo { font-size: 18px; line-height: 22px; margin-right: 8px; }

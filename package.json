@@ -9,7 +9,8 @@
     "build": "astro build && node scripts/seo.mjs",
     "preview": "astro preview",
     "outbox": "node scripts/outbox.mjs",
-    "quiz": "node scripts/quiz.mjs"
+    "quiz": "node scripts/quiz.mjs",
+    "icons": "node scripts/icons.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.137.0",
