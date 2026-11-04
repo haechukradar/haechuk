@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T08:48:12.540Z",
+ "updatedAt": "2026-11-04T09:51:13.283Z",
  "hot": [
-  "man-utd-roma-2026-11-03",
+  "parker-west-ham-appointment",
   "de-miguel-incident",
-  "barcelona-aston-villa-2026-11-03",
-  "real-madrid-aek-athens-2026-11-03",
-  "lask-slovan-bratislava-2026-11-03"
+  "man-utd-roma-2026-11-03",
+  "gabriel-real-madrid-transfer",
+  "barcelona-aston-villa-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -27,14 +27,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 74,
-   "added": 2,
+   "items": 75,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 4,
+   "items": 58,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -76,25 +76,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -136,7 +136,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -154,38 +154,38 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 22,
-   "added": 4,
-   "authorRate": 100
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 2,
+   "items": 12,
+   "added": 3,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 38
+   "count": 39
   },
   {
    "name": "리산드로 마르티네스",
@@ -257,16 +257,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 124,
+  "recentIssues": 127,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 83
+    "count": 84
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 60
+    "count": 62
    },
    {
     "slug": "atletico-bayern-2026-11-03",
@@ -279,6 +279,10 @@
    {
     "slug": "barcelona-aston-villa-2026-11-03",
     "count": 19
+   },
+   {
+    "slug": "parker-west-ham-appointment",
+    "count": 15
    },
    {
     "slug": "shakhtar-sporting-2026-11-03",
@@ -305,7 +309,7 @@
    "variants": [
     {
      "ko": "헤수스 데 미겔",
-     "count": 53
+     "count": 54
     },
     {
      "ko": "제수스 데 미겔",
@@ -331,7 +335,7 @@
    "variants": [
     {
      "ko": "누노 에스피리투 산투",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "누노 에스피리투 산토",
@@ -446,6 +450,20 @@
    ]
   },
   {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르헤스",
+     "count": 3
+    },
+    {
+     "ko": "루이 보르게스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karl",
    "dictionary": null,
    "variants": [
@@ -551,20 +569,6 @@
     },
     {
      "ko": "운다브",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rui Borges",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 보르헤스",
-     "count": 2
-    },
-    {
-     "ko": "루이 보르게스",
      "count": 1
     }
    ]
@@ -872,8 +876,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 670,
-   "llm": 670
+   "collected": 697,
+   "llm": 697
   }
  }
 }
