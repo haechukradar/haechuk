@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T05:26:13.357Z",
+ "updatedAt": "2026-11-04T06:26:28.478Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "saliba-injury",
+  "man-city-leipzig-2026-11-03",
   "atletico-bayern-2026-11-03",
-  "de-miguel-incident"
+  "saliba-injury"
  ],
  "days": [
   "2026-10-18",
@@ -40,7 +40,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -52,7 +52,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -76,37 +76,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 3,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 3,
+   "added": 1,
    "authorRate": 80
   },
   "waz": {
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -142,25 +142,25 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 21,
-   "added": 0,
+   "items": 22,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -172,7 +172,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -200,11 +200,11 @@
    "count": 6
   },
   {
-   "name": "토마스 뮐러",
-   "count": 5
+   "name": "잭 그릴리시",
+   "count": 6
   },
   {
-   "name": "잭 그릴리시",
+   "name": "토마스 뮐러",
    "count": 5
   },
   {
@@ -257,8 +257,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 120,
-  "singleArticleRate": 39,
+  "recentIssues": 122,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -266,11 +266,11 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 53
+    "count": 54
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 24
+    "count": 25
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -279,6 +279,10 @@
    {
     "slug": "barcelona-aston-villa-2026-11-03",
     "count": 18
+   },
+   {
+    "slug": "newcastle-everton-2026-11-03",
+    "count": 15
    },
    {
     "slug": "liverpool-arsenal-2026-11-03",
@@ -434,20 +438,6 @@
    ]
   },
   {
-   "en": "Eberl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에벌",
-     "count": 2
-    },
-    {
-     "ko": "에베를",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Karl",
    "dictionary": null,
    "variants": [
@@ -476,19 +466,15 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
+   "en": "Farioli",
    "dictionary": null,
    "variants": [
     {
-     "ko": "캐러거",
-     "count": 1
+     "ko": "파리올리",
+     "count": 2
     },
     {
-     "ko": "카라거",
-     "count": 1
-    },
-    {
-     "ko": "제이미 캐러거",
+     "ko": "파리오리",
      "count": 1
     }
    ]
@@ -572,6 +558,20 @@
    ]
   },
   {
+   "en": "Eberl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에베를",
+     "count": 1
+    },
+    {
+     "ko": "에벌",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Arrasate",
    "dictionary": null,
    "variants": [
@@ -637,6 +637,20 @@
     },
     {
      "ko": "켄모",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카라거",
+     "count": 1
+    },
+    {
+     "ko": "제이미 캐러거",
      "count": 1
     }
    ]
@@ -712,6 +726,20 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰아 레이시",
+     "count": 1
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Undav",
    "dictionary": null,
    "variants": [
@@ -735,20 +763,6 @@
     },
     {
      "ko": "개비 로건",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰이 레이시",
-     "count": 1
-    },
-    {
-     "ko": "셰아 레이시",
      "count": 1
     }
    ]
@@ -832,8 +846,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 566,
-   "llm": 566
+   "collected": 592,
+   "llm": 592
   }
  }
 }
