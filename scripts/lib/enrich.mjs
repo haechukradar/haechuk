@@ -2,7 +2,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { z } from 'zod';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
-import { CLUBS } from '../../config/clubs.mjs';
+import { CLUBS, CLUB_BY_SLUG } from '../../config/clubs.mjs';
 import { SOURCE_BY_ID, isOwnSource } from '../../config/sources.mjs';
 import { PIPELINE } from '../../config/site.mjs';
 import { PLAYERS } from '../../config/players.mjs';
@@ -24,8 +24,22 @@ const dictName = (en) => (en ? DICT.get(nameKey(en)) ?? null : null);
 // 성만 쓴 표기는 같은 사람으로 봄 ("킬리안 음바페" ↔ "음바페")
 const sameName = (a, b) => a === b || a.endsWith(' ' + b) || b.endsWith(' ' + a);
 
-// 선수 사전의 한글 표기 (요청마다 같은 내용이라 이름 표기 통일용으로 전달)
-const PLAYER_NAMES = [PLAYERS.map((p) => `${p.full[0]}=${p.ko}`).join(', '), NAME_HINTS].join(', ');
+// 선수 사전의 한글 표기와 현재 소속 (요청마다 같은 내용 — 이름 표기 통일 + 이적 출발지·지난 이적 판단용)
+const PLAYER_NAMES = [PLAYERS.map((p) => `${p.full[0]}=${p.ko}(${CLUB_BY_SLUG[p.club]?.ko ?? p.team})`).join(', '), NAME_HINTS].join(', ');
+
+// 한글 이름(전체·성) → 선수 사전 항목
+const PLAYER_BY_KO = new Map();
+for (const p of PLAYERS) {
+  PLAYER_BY_KO.set(p.ko, p);
+  const last = p.ko.split(' ').at(-1);
+  if (last !== p.ko && !PLAYER_BY_KO.has(last)) PLAYER_BY_KO.set(last, p);
+}
+const squashKo = (s) => (s ?? '').replace(/\s+/g, '');
+// 클럽 한글명이 같은 클럽인지 (맨시티 ↔ 맨체스터 시티 같은 약칭은 앞부분 포함으로)
+const sameClubKo = (a, b) => {
+  const x = squashKo(a), y = squashKo(b);
+  return !!x && !!y && (x === y || x.startsWith(y) || y.startsWith(x));
+};
 
 const CLUB_SLUGS = CLUBS.map((c) => c.slug);
 
@@ -64,6 +78,11 @@ const SYSTEM = `너는 해외축구 뉴스 편집 보조다. 해외 매체 기�
 - 인명은 국내 축구 언론 통용 표기로 통일한다. 아래 "인명 표기" 목록에 있는 사람은 반드시 그 표기를 쓴다(성만 쓸 때도 그 표기의 성 부분). 감독 예: Carrick→캐릭, Arteta→아르테타, Maresca→마레스카, Slot→슬롯, Guardiola→과르디올라, Amorim→아모림, Howe→하우, Ratcliffe→래트클리프.
 
 각 기사에 대해:
+- 여러 소식을 이어 붙인 제목(예: "Liverpool latest: A tipped for return as transfer exit draws closer", "X news: ... as ...")은 절마다 주어를 따로 본다. 이적 단계·이적 대상은 그 이적 절이 가리키는 선수에게만 붙인다. 이적 절의 대상이 이름 없이 "star", "defender", "ace" 등으로만 나오면 transfer_player 는 null 이고, 다른 절에 이름이 나온 선수에게 그 이적을 붙이지 않는다. 요약(ko)에서도 두 소식을 섞지 않는다.
+  예: "Liverpool news: Trent Alexander-Arnold gets new green light as star's transfer 'expected'" → ko "알렉산더아놀드 복귀 청신호…리버풀 한 선수 이적 '예상'", 알렉산더아놀드는 이적 대상이 아니므로 transfer_player=null, 이 기사의 이적은 대상 미상.
+  예: "Liverpool latest: Trent Alexander-Arnold backed for Anfield return as transfer exit draws closer" → ko "알렉산더아놀드 안필드 복귀 지지…리버풀 한 선수 이적 임박", 이적 임박은 알렉산더아놀드가 아님.
+- 이미 끝난 이적을 배경으로 언급하는 제목(예: "after X completion", "following X's exit", "X 이후")은 X 의 이적 기사가 아니다. 그 뒤에 오는 다른 문제(구단의 다른 이적·전력 공백 등)가 기사의 주제다.
+- 인명 표기 목록의 괄호 안은 선수의 현재 소속이다. 이적의 transfer_from 은 현재 소속이다. 현재 소속 클럽으로 가는 이적은 이미 끝난 이적이므로 새 이적 기사가 아니다(친정 복귀설처럼 현재 소속을 떠나는 이적과 구별).
 - is_new_development: 이 기사가 "새로 일어난 일·새 진전"을 전하면 true. 이미 지난 일(지난 이적시장, 지난 시즌, 이미 끝난 이적)을 돌아보는 회고·평가·후일담·인터뷰 속 과거 이야기·해설가 의견이면 false. 예: "트로사르가 베식타스 이적 과정을 설명" → false, "퍼디난드가 맨유가 여름에 놓친 선수를 아쉬워함" → false, "첼시가 ○○와 개인 합의" → true.
 - is_football: 축구 기사면 true. F1·테니스·크리켓·럭비 등 다른 종목이나 축구와 무관한 기사면 false.
 - ko: 한국어 한 줄 요약. 45자 안팎, 뉴스 제목체. 인명·클럽명은 국내 통용 표기(예: Son Heung-min→손흥민, Man Utd→맨유, Tottenham→토트넘, Real Madrid→레알 마드리드).
@@ -118,6 +137,19 @@ function normalize(raw, sourceId) {
     item.transfer_player = item.transfer_from = item.transfer_to = null;
     if (/-transfer$/.test(String(item.issue_key ?? ''))) item.issue_key = item.issue_title_ko = null;
   }
+  // 선수 사전의 현재 소속으로 이적 방향 점검: 이미 그 클럽 소속이면 지난 이적, 출발지가 다르면 현재 소속으로 교정
+  const known = PLAYER_BY_KO.get(item.transfer_player);
+  const current = known && CLUB_BY_SLUG[known.club]?.ko;
+  if (item.category === 'transfer' && current) {
+    if (sameClubKo(item.transfer_to, current)) {
+      item.category = 'other';
+      item.stage = null;
+      item.transfer_player = item.transfer_from = item.transfer_to = null;
+      if (/-transfer$/.test(String(item.issue_key ?? ''))) item.issue_key = item.issue_title_ko = null;
+    } else if (item.transfer_from && !sameClubKo(item.transfer_from, current)) {
+      item.transfer_from = current;
+    }
+  }
   // 사전에 있는 사람이 다르게 표기됐으면 사전 표기로 바꿈 (예: 사리바 → 살리바)
   for (const n of item.name_map) {
     const right = dictName(n.en);
@@ -156,7 +188,7 @@ const ISSUE_KEY_RE = /^[a-z0-9]+(-[a-z0-9]+)*-(transfer|contract|manager-future|
 export const validIssueKey = (key) => typeof key === 'string' && ISSUE_KEY_RE.test(key.trim().toLowerCase());
 
 // 지시문 버전: 지시문을 고치면 올린다. --reenrich 는 이전 버전으로 가공된 기사만 다시 가공
-export const PROMPT_VERSION = 6;
+export const PROMPT_VERSION = 7;
 
 let client;
 let disabled = false;
