@@ -253,6 +253,11 @@ async function main() {
 
   // 4. 점수 산정 + 정리
   for (const [slug, issue] of issues) {
+    // 이슈에 담긴 기사 사본을 최신 가공 결과로 맞춤 (기사 단위 티어 계산에 클럽·인용 출처가 쓰임)
+    for (const x of issue.articles) {
+      const a = known.get(x.id);
+      if (a) Object.assign(x, { clubs: a.clubs ?? [], credited: a.credited ?? null });
+    }
     if (issue.articles.length === 0) {
       issues.delete(slug);
       continue;

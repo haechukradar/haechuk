@@ -18,8 +18,9 @@ export function loadData() {
   const days = existsSync(dir)
     ? readdirSync(dir).filter((f) => f.endsWith('.json')).map((f) => f.replace('.json', '')).sort().reverse()
     : [];
-  // 이슈 상세 페이지는 2개 이상 매체가 다룬 이슈만 생성 (얇은 페이지 방지)
-  const pageIssues = issues.filter((i) => i.sourceCount >= 2);
+  // 이슈 상세 페이지: 2개 이상 매체가 다룬 이슈 + 모든 이적 이슈 (이적 보드 카드는 전부 이슈 페이지로 연결)
+  // 매체 1곳짜리 이적 이슈 페이지는 검색 제외 (얇은 페이지 방지) — isIndexable
+  const pageIssues = issues.filter((i) => i.sourceCount >= 2 || (i.category === 'transfer' && i.stage));
   const issueBySlug = new Map(pageIssues.map((i) => [i.slug, i]));
   cache = { meta, issues, pageIssues, issueBySlug, days };
   return cache;
@@ -59,3 +60,6 @@ export function loadResolutions() {
   for (const e of read('accuracy-log.json', [])) latest[e.slug] = { result: e.result, at: e.resolvedAt, inferred: !!e.inferred, title: e.title };
   return latest;
 }
+
+/** 검색 노출 대상 이슈 페이지 (2개 이상 매체 보도) */
+export const isIndexable = (issue) => issue.sourceCount >= 2;

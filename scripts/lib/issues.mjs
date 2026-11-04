@@ -4,6 +4,7 @@ import { PIPELINE } from '../../config/site.mjs';
 import { signature } from './rules.mjs';
 import { CLUBS } from '../../config/clubs.mjs';
 import { tagPlayers } from '../../config/players.mjs';
+import { tierOf } from '../../config/tiers.mjs';
 
 const H = 3600_000;
 const STAGE_ORDER = ['interest', 'negotiation', 'agreement', 'done'];
@@ -41,6 +42,7 @@ function toIssueArticle(a) {
     source: a.source,
     publishedAt: a.publishedAt,
     credited: a.credited,
+    clubs: a.clubs ?? [],
     category: a.category,
     stage: a.stage,
     players: a.players ?? [],
@@ -169,11 +171,13 @@ export function scoreIssue(issue, now = Date.now()) {
     const t = ts(a.publishedAt);
     if (t < windowStart || t > now + H) continue;
     const prev = firstBySource.get(a.source);
-    if (prev === undefined || t < prev) firstBySource.set(a.source, t);
+    const tier = tierOf(a);
+    if (prev === undefined) firstBySource.set(a.source, { t, tier });
+    else firstBySource.set(a.source, { t: Math.min(t, prev.t), tier: Math.min(tier, prev.tier) });
   }
   let score = 0;
-  for (const [src, t] of firstBySource) {
-    const tier = SOURCE_BY_ID[src]?.tier ?? 4;
+  // 매체마다 한 번: 그 매체의 가장 이른 보도 시각 × 그 매체 보도 중 가장 높은 기사 티어
+  for (const { t, tier } of firstBySource.values()) {
     const ageH = Math.max(0, (now - t) / H);
     score += TIER_WEIGHT[tier] * Math.pow(0.5, ageH / PIPELINE.decayHalfLifeHours);
   }
@@ -181,7 +185,7 @@ export function scoreIssue(issue, now = Date.now()) {
   issue.recentSources = firstBySource.size;
   issue.sourceCount = allSources.length;
   issue.score = Math.round(score * 100) / 100;
-  issue.topTier = Math.min(...allSources.map((s) => SOURCE_BY_ID[s]?.tier ?? 4));
+  issue.topTier = Math.min(...issue.articles.map(tierOf));
 
   // 이슈 분류: 기사 분류 다수결
   const votes = {};
@@ -218,7 +222,7 @@ export function scoreIssue(issue, now = Date.now()) {
 
   // 대표 원문 제목: 최고 티어 매체의 가장 최근 기사
   const byTier = [...issue.articles].sort(
-    (x, y) => (SOURCE_BY_ID[x.source]?.tier ?? 4) - (SOURCE_BY_ID[y.source]?.tier ?? 4) || ts(y.publishedAt) - ts(x.publishedAt),
+    (x, y) => tierOf(x) - tierOf(y) || ts(y.publishedAt) - ts(x.publishedAt),
   );
   issue.headline = byTier[0].title;
   return issue;
@@ -239,7 +243,7 @@ function transferOf(issue) {
 // 이적 단계: 1~2티어 보도가 있으면 그중 가장 진전된 단계(최신 보도가 결렬이면 결렬), 없으면 최신 보도 기준
 function stageOf(articles) {
   const staged = articles.filter((a) => a.stage);
-  const credible = staged.filter((a) => (SOURCE_BY_ID[a.source]?.tier ?? 4) <= 2);
+  const credible = staged.filter((a) => tierOf(a) <= 2);
   let stage = staged.at(-1)?.stage ?? 'interest';
   if (credible.length) {
     stage =

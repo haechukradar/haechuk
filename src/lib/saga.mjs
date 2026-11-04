@@ -1,5 +1,6 @@
 // 이슈 상세 "사가 요약"과 공유 텍스트 — 수집된 보도 기록(매체·시각·단계)에서만 계산, LLM 서술 없음
 import { SOURCE_BY_ID } from '../../config/sources.mjs';
+import { tierOf, bestReport } from '../../config/tiers.mjs';
 import { SITE } from '../../config/site.mjs';
 import { STAGE_LABEL, CATEGORY_LABEL, stageChangeInfo } from './labels.mjs';
 
@@ -28,12 +29,11 @@ export function directionOf(issue) {
 }
 
 export function sagaOf(issue, now = Date.now()) {
-  const sources = [...new Set(issue.articles.map((a) => a.source))].map(src).sort((x, y) => x.tier - y.tier);
-  const firstSrc = issue.firstReport.source ? src(issue.firstReport.source) : null;
+  const first = issue.articles[0];
   const base = {
     transfer: issue.transfer ?? null,
-    first: { name: issue.firstReport.name, tier: firstSrc?.tier ?? null, at: issue.firstReport.at },
-    best: sources[0],
+    first: { name: issue.firstReport.name, tier: first ? tierOf(first) : null, at: issue.firstReport.at },
+    best: bestReport(issue.articles),
     sourceCount: issue.sourceCount,
   };
   const r = issue.resolution;
@@ -81,10 +81,10 @@ export function shareTextOf(issue) {
   } else {
     lines.push(`• 분류: ${CATEGORY_LABEL[issue.category] ?? '일반'}`);
   }
-  const first = issue.firstReport.source ? src(issue.firstReport.source) : null;
-  lines.push(`• 최초 보도: ${issue.firstReport.name}${first ? ` (T${first.tier})` : ''}`);
-  const sources = [...new Set(issue.articles.map((a) => a.source))].map(src).sort((x, y) => x.tier - y.tier);
-  lines.push(`• 보도 매체: ${sources[0].name}(T${sources[0].tier})${sources.length > 1 ? ` 외 ${sources.length - 1}곳` : ''}`);
+  const first = issue.articles[0];
+  lines.push(`• 최초 보도: ${issue.firstReport.name}${first ? ` (T${tierOf(first)})` : ''}`);
+  const best = bestReport(issue.articles);
+  lines.push(`• 보도 매체: ${best.name}(T${best.tier}${best.note ? `, ${best.note}` : ''})${issue.sourceCount > 1 ? ` 외 ${issue.sourceCount - 1}곳` : ''}`);
   const url = `${SITE.url.replace(/\/$/, '')}/issue/${issue.slug}?utm_source=share&utm_medium=community&utm_campaign=issue-${issue.slug}`;
   lines.push(`• 전체 흐름: ${url}`);
   return lines.join('\n');

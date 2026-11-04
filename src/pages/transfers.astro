@@ -3,12 +3,13 @@
 import Layout from '../layouts/Layout.astro';
 import FeedFilter from '../components/FeedFilter.astro';
 import FilterEmpty from '../components/FilterEmpty.astro';
-import { loadData, sourceOf } from '../lib/data.mjs';
+import { loadData } from '../lib/data.mjs';
+import { bestReport } from '../../config/tiers.mjs';
 import { STAGES, stageChangeInfo } from '../lib/labels.mjs';
 import { CLUB_BY_SLUG, CLUBS, LEAGUES } from '../../config/clubs.mjs';
 import { PIPELINE, TRANSFERS } from '../../config/site.mjs';
 
-const { issues, issueBySlug } = loadData();
+const { issues } = loadData();
 const now = Date.now();
 const D = 24 * 3600_000;
 const closed = new Set(['done', 'collapsed']);
@@ -26,9 +27,8 @@ const cards = issues
     return age < (closed.has(st) ? TRANSFERS.closedDays : TRANSFERS.activeDays) * D;
   })
   .map((i: any) => {
-    const best = sourceOf([...new Set(i.articles.map((a: any) => a.source))].map((s) => sourceOf(s as string)).sort((x, y) => x.tier - y.tier)[0].id);
-    const page = issueBySlug.has(i.slug);
-    const latest = i.articles.at(-1);
+    // 이적 이슈는 매체 1곳이어도 이슈 페이지가 있으므로 카드는 모두 이슈 페이지로 연결
+    const best = bestReport(i.articles);
     return {
       slug: i.slug,
       stage: boardStage(i),
@@ -44,8 +44,7 @@ const cards = issues
       change: i.stageChange ? stageChangeInfo(i.stageChange) : null,
       clubs: i.clubs,
       leagues: [...new Set(i.clubs.map((c: string) => CLUB_BY_SLUG[c]?.league).filter(Boolean))],
-      href: page ? `/issue/${i.slug}` : latest.url,
-      external: !page,
+      href: `/issue/${i.slug}`,
     };
   })
   .sort((a: any, b: any) => Date.parse(b.moveAt) - Date.parse(a.moveAt));
@@ -90,7 +89,6 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
               <a
                 class="bcard"
                 href={c.href}
-                {...(c.external ? { target: '_blank', rel: 'noopener nofollow', 'data-out': '', 'data-src-name': c.best.name, 'data-tier': c.best.tier } : {})}
                 data-tier={c.topTier}
                 data-hot={c.hot ? '1' : '0'}
                 data-clubs={c.clubs.join(' ')}
@@ -101,7 +99,7 @@ const leagueOptions = Object.entries(LEAGUES).filter(([k]) => cards.some((x: any
                 {c.player && <span class="btitle">{c.title}</span>}
                 <span class="meta">
                   <span>{c.sourceCount}개 매체</span>
-                  <span class={`tier tier-${c.topTier}`}>최고 T{c.topTier}</span>
+                  <span class={`tier tier-${c.topTier}`} title={c.best.note ? `${c.best.name} · ${c.best.note}` : c.best.name}>최고 T{c.topTier}</span>
                   {c.change && <span>{c.change.icon}</span>}
                   <time data-ts={c.moveAt} datetime={c.moveAt}></time>
                 </span>

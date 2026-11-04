@@ -1,5 +1,6 @@
 // 수집 대상 매체. tier: 1~4 (기획서 3장 신뢰도 티어), paywall: 유료 매체(🔒, 요약 미제공)
 // site: 매체 대표 도메인 (로고 아이콘 public/icons/src/{id}.png 받는 데 사용 — npm run icons)
+// home: 연고 클럽 (지역지가 이 클럽을 직접 보도하면 한 단계 높게 — config/tiers.mjs)
 // league: 매체 기본 리그(클럽 태그가 없을 때 리그 필터에 사용), lang: 제목 언어
 // 티어는 운영 중 적중률 데이터 기반으로 분기별 재조정한다.
 export const SOURCES = [
@@ -9,26 +10,26 @@ export const SOURCES = [
   { id: 'guardian', site: 'theguardian.com', name: 'Guardian', tier: 2, lang: 'en', url: 'https://www.theguardian.com/football/rss' },
   { id: 'sky', site: 'skysports.com', name: 'Sky Sports', tier: 2, lang: 'en', url: 'https://www.skysports.com/rss/12040' },
   { id: 'espn', site: 'espn.com', name: 'ESPN', tier: 2, lang: 'en', url: 'https://www.espn.com/espn/rss/soccer/news' },
-  { id: 'athletic', site: 'theathletic.com', name: '디 애슬레틱', tier: 2, lang: 'en', paywall: true, url: 'https://www.nytimes.com/athletic/rss/football/' },
+  { id: 'athletic', site: 'theathletic.com', name: '디 애슬레틱', tier: 1, lang: 'en', paywall: true, url: 'https://www.nytimes.com/athletic/rss/football/' },
   { id: 'marca', site: 'marca.com', name: '마르카', tier: 2, lang: 'es', league: 'laliga', url: 'https://e00-marca.uecdn.es/rss/futbol/primera-division.xml' },
   { id: 'as', site: 'as.com', name: 'AS', tier: 2, lang: 'es', league: 'laliga', url: 'https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/' },
   { id: 'gazzetta', site: 'gazzetta.it', name: '가제타', tier: 2, lang: 'it', league: 'seriea', url: 'https://www.gazzetta.it/rss/calcio.xml' },
   { id: 'kicker', site: 'kicker.de', name: '키커', tier: 2, lang: 'de', league: 'bundesliga', url: 'https://newsfeed.kicker.de/news/fussball' },
   { id: 'lequipe', site: 'lequipe.fr', name: '레퀴프', tier: 2, lang: 'fr', league: 'ligue1', url: 'https://dwh.lequipe.fr/api/edito/rss?path=/Football/' },
   // 3티어
-  { id: 'fblondon', site: 'football.london', name: 'Football.London', tier: 3, lang: 'en', league: 'epl', url: 'https://www.football.london/?service=rss' },
-  { id: 'men', site: 'manchestereveningnews.co.uk', name: 'Manchester Evening News', tier: 3, lang: 'en', league: 'epl', url: 'https://www.manchestereveningnews.co.uk/sport/football/?service=rss' },
-  { id: 'lecho', site: 'liverpoolecho.co.uk', name: 'Liverpool Echo', tier: 3, lang: 'en', league: 'epl', url: 'https://www.liverpoolecho.co.uk/sport/football/?service=rss' },
+  { id: 'fblondon', site: 'football.london', name: 'Football.London', tier: 3, lang: 'en', league: 'epl', home: ['arsenal', 'chelsea', 'tottenham'], url: 'https://www.football.london/?service=rss' },
+  { id: 'men', site: 'manchestereveningnews.co.uk', name: 'Manchester Evening News', tier: 3, lang: 'en', league: 'epl', home: ['man-utd', 'man-city'], url: 'https://www.manchestereveningnews.co.uk/sport/football/?service=rss' },
+  { id: 'lecho', site: 'liverpoolecho.co.uk', name: 'Liverpool Echo', tier: 3, lang: 'en', league: 'epl', home: ['liverpool', 'everton'], url: 'https://www.liverpoolecho.co.uk/sport/football/?service=rss' },
   // 한국인 선수 소속 클럽 현지 매체 (2026-10-23 추가 — 상업적 이용 약관 확인 필요)
-  { id: 'tz', site: 'tz.de', name: 'tz (바이에른)', tier: 3, lang: 'de', league: 'bundesliga', url: 'https://www.tz.de/sport/fc-bayern/rssfeed.rdf' },
-  { id: 'waz', site: 'waz.de', name: 'WAZ (샬케)', tier: 3, lang: 'de', url: 'https://www.waz.de/sport/fussball/s04/rss' },
-  { id: 'augsburger', site: 'augsburger-allgemeine.de', name: '아우크스부르거 알게마이네', tier: 3, lang: 'de', league: 'bundesliga', url: 'https://www.augsburger-allgemeine.de/sport/fc-augsburg/rss' },
-  { id: 'rp', site: 'rp-online.de', name: 'RP 온라인 (묀헨글라트바흐)', tier: 3, lang: 'de', league: 'bundesliga', url: 'https://rp-online.de/sport/fussball/borussia/feed.rss' },
+  { id: 'tz', site: 'tz.de', name: 'tz (바이에른)', tier: 3, lang: 'de', league: 'bundesliga', home: ['bayern'], url: 'https://www.tz.de/sport/fc-bayern/rssfeed.rdf' },
+  { id: 'waz', site: 'waz.de', name: 'WAZ (샬케)', tier: 3, lang: 'de', home: ['schalke'], url: 'https://www.waz.de/sport/fussball/s04/rss' },
+  { id: 'augsburger', site: 'augsburger-allgemeine.de', name: '아우크스부르거 알게마이네', tier: 3, lang: 'de', league: 'bundesliga', home: ['augsburg'], url: 'https://www.augsburger-allgemeine.de/sport/fc-augsburg/rss' },
+  { id: 'rp', site: 'rp-online.de', name: 'RP 온라인 (묀헨글라트바흐)', tier: 3, lang: 'de', league: 'bundesliga', home: ['gladbach'], url: 'https://rp-online.de/sport/fussball/borussia/feed.rss' },
   { id: 'record', site: 'record.pt', name: '헤코르드', tier: 2, lang: 'pt', url: 'https://www.record.pt/rss' },
-  { id: 'fotomac', site: 'fotomac.com.tr', name: '포토마치 (베식타스)', tier: 3, lang: 'tr', url: 'https://www.fotomac.com.tr/rss/besiktas.xml' },
+  { id: 'fotomac', site: 'fotomac.com.tr', name: '포토마치 (베식타스)', tier: 3, lang: 'tr', home: ['besiktas'], url: 'https://www.fotomac.com.tr/rss/besiktas.xml' },
   { id: 'hln', site: 'hln.be', name: 'HLN', tier: 3, lang: 'nl', url: 'https://www.hln.be/sport/voetbal/rss.xml' },
-  { id: 'stoke', site: 'stokesentinel.co.uk', name: 'Stoke Sentinel', tier: 3, lang: 'en', url: 'https://www.stokesentinel.co.uk/sport/football/?service=rss' },
-  { id: 'chronicle', site: 'chroniclelive.co.uk', name: 'Chronicle Live (뉴캐슬)', tier: 3, lang: 'en', league: 'epl', url: 'https://www.chroniclelive.co.uk/sport/football/?service=rss' },
+  { id: 'stoke', site: 'stokesentinel.co.uk', name: 'Stoke Sentinel', tier: 3, lang: 'en', home: ['stoke'], url: 'https://www.stokesentinel.co.uk/sport/football/?service=rss' },
+  { id: 'chronicle', site: 'chroniclelive.co.uk', name: 'Chronicle Live (뉴캐슬)', tier: 3, lang: 'en', league: 'epl', home: ['newcastle'], url: 'https://www.chroniclelive.co.uk/sport/football/?service=rss' },
   // 4티어
   { id: 'sun', site: 'thesun.co.uk', name: 'The Sun', tier: 4, lang: 'en', url: 'https://www.thesun.co.uk/sport/football/feed/' },
   { id: 'star', site: 'dailystar.co.uk', name: 'Daily Star', tier: 4, lang: 'en', url: 'https://www.dailystar.co.uk/sport/football/?service=rss' },
@@ -77,7 +78,7 @@ const SOURCE_ALIASES = {
   mirror: ['Mirror', 'Daily Mirror', '미러', '데일리 미러'],
   fbinsider: ['Football Insider', '풋볼 인사이더'],
 };
-const squash = (x) =>
+export const squash = (x) =>
   x
     .normalize('NFKC')
     .toLowerCase()

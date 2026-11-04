@@ -201,6 +201,7 @@ section { margin: 32px 0; }
 .change-start { color: var(--text-2); }
 
 /* 선수 태그 (독점 칩 계열: neutral-100 바탕 + grey550 글자) */
+.tier-note { color: var(--text-3); font-size: 11px; font-weight: 600; }
 .meta .kr { color: var(--text-detail); background: var(--line-strong); border-radius: 2px; padding: 0 5px; font-size: 11px; font-weight: 700; text-decoration: none; }
 .player-links { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px; }
 .player-links .kr { padding: 5px 12px; border: 1px solid var(--line-strong); border-radius: 99px; font-size: 13px; line-height: 18px; font-weight: 600; color: var(--text); text-decoration: none; }

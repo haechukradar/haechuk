@@ -1,7 +1,8 @@
 ---
 // 이슈 상세: 동일 이슈 기사 묶음, 최초 보도, 매체 티어, 이적 단계, 시간순 보도 흐름
 import Layout from '../../layouts/Layout.astro';
-import { loadData, sourceOf } from '../../lib/data.mjs';
+import { loadData, sourceOf, isIndexable } from '../../lib/data.mjs';
+import { articleTier, tierNote, bestReport } from '../../../config/tiers.mjs';
 import { STAGES, STAGE_LABEL, CATEGORY_LABEL, fmtKst, stageChangeInfo } from '../../lib/labels.mjs';
 import { PLAYER_BY_SLUG } from '../../../config/players.mjs';
 import { CLUB_BY_SLUG } from '../../../config/clubs.mjs';
@@ -46,7 +47,7 @@ const jsonLd = {
 };
 ---
 
-<Layout title={title} description={desc}>
+<Layout title={title} description={desc} noindex={!isIndexable(issue)}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <p class="crumbs">
     <a href="/">홈</a> ›
@@ -86,7 +87,7 @@ const jsonLd = {
             <ul>
               {saga.transfer?.player && <li>대상: {saga.transfer.player}{saga.transfer.from || saga.transfer.to ? ` (${saga.transfer.from ?? '?'} → ${saga.transfer.to ?? '?'})` : ''}</li>}
               <li>최초 보도: {saga.first.name}{saga.first.tier && <> <span class={`tier tier-${saga.first.tier}`}>T{saga.first.tier}</span></>}</li>
-              <li>현재 최고 티어: {saga.best.name} <span class={`tier tier-${saga.best.tier}`}>T{saga.best.tier}</span></li>
+              <li>현재 최고 티어: {saga.best.name} <span class={`tier tier-${saga.best.tier}`}>T{saga.best.tier}</span>{saga.best.note && <span class="tier-note">{saga.best.note}</span>}</li>
               <li>
                 보도 매체 {saga.sourceCount}곳 · 성사 쪽 {saga.direction.success} · 결렬 쪽 {saga.direction.fail} · 관심 {saga.direction.interest}
                 <small class="muted"> (매체별 마지막 보도 기준)</small>
@@ -163,6 +164,8 @@ const jsonLd = {
       {
         timeline.map((a: any) => {
           const s = sourceOf(a.source);
+          const at = articleTier(a);
+          const note = tierNote(at);
           const h: any = changeById.get(a.id);
           const info = h?.from ? stageChangeInfo(h) : null;
           return (
@@ -171,16 +174,16 @@ const jsonLd = {
               {h && !h.from && <p class="change change-start">📌 이적설 첫 보도: {STAGE_LABEL[h.to]}</p>}
               <div class="tl-time">{fmtKst(a.publishedAt)}</div>
               <div class="tl-body">
-                <a class="card-title" href={a.url} target="_blank" rel="noopener nofollow" data-out data-src-name={s.name} data-tier={s.tier}>
+                <a class="card-title" href={a.url} target="_blank" rel="noopener nofollow" data-out data-src-name={s.name} data-tier={at.tier}>
                   {a.stage && <span class={`stage stage-${a.stage}`}>{STAGE_LABEL[a.stage]}</span>}
                   {a.ko || a.title}
                 </a>
                 {a.ko && <p class="orig">{a.title}</p>}
                 <div class="meta">
                   <span class="src">{s.name}</span>
-                  <span class={`tier tier-${s.tier}`}>T{s.tier}</span>
+                  <span class={`tier tier-${at.tier}`} title={note ?? `매체 기본 ${at.base}티어`}>T{at.tier}</span>
+                  {note && <span class="tier-note">{note}</span>}
                   {s.paywall && <span class="lock">🔒</span>}
-                  {a.credited && <span>출처 인용: {a.credited}</span>}
                 </div>
               </div>
             </li>

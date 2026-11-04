@@ -32,7 +32,7 @@ const isPrivate = (p) => PRIVATE.some((x) => p === x || p.startsWith(x + '/'));
 const urls = htmlFiles(DIST)
   .map((f) => ({ f, path: toPath(f) }))
   .filter(({ path }) => path && !isPrivate(path))
-  .filter(({ f }) => !SITE.searchIndexing || !/<meta name="robots" content="noindex/.test(readFileSync(f, 'utf8')))
+  .filter(({ f }) => !/data-page-noindex/.test(readFileSync(f, 'utf8'))) // 페이지 자체 검색 제외(매체 1곳 이적 이슈 등)
   .map(({ path }) => path)
   .sort();
 

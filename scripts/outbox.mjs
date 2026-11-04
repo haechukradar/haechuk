@@ -2,7 +2,7 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { SITE, OUTBOX } from '../config/site.mjs';
-import { SOURCE_BY_ID } from '../config/sources.mjs';
+import { bestReport } from '../config/tiers.mjs';
 import { STAGE_LABEL, CATEGORY_LABEL, stageChangeInfo, isRecentChange } from '../src/lib/labels.mjs';
 import { weightedLength } from './lib/xlen.mjs';
 
@@ -23,7 +23,7 @@ const issueUrl = (slug, source) =>
   `${SITE.url.replace(/\/$/, '')}/issue/${slug}?utm_source=${source}&utm_medium=social${source === 'x' ? `&utm_campaign=${campaign}` : ''}`;
 
 function post(issue, rank, source) {
-  const best = [...new Set(issue.articles.map((a) => a.source))].map((s) => SOURCE_BY_ID[s] ?? { name: s, tier: 4 }).sort((x, y) => x.tier - y.tier)[0];
+  const best = bestReport(issue.articles);
   const change = isRecentChange(issue.stageChange, now) ? stageChangeInfo(issue.stageChange) : null;
   const status =
     issue.category === 'transfer' && issue.stage

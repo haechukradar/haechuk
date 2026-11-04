@@ -42,7 +42,7 @@ const path = Astro.url.pathname;
     <link rel="stylesheet" href="/style.css" />
     <meta name="theme-color" content="#ffffff" />
     <link rel="alternate" type="application/rss+xml" title={`${SITE.name} 핫 트렌드`} href="/feed.xml" />
-    {(noindex || !SITE.searchIndexing) && <meta name="robots" content="noindex, nofollow" />}
+    {noindex ? <meta name="robots" content="noindex, follow" data-page-noindex /> : !SITE.searchIndexing && <meta name="robots" content="noindex, nofollow" />}
     {SITE.verification.naver && <meta name="naver-site-verification" content={SITE.verification.naver} />}
     {SITE.verification.google && <meta name="google-site-verification" content={SITE.verification.google} />}
     {

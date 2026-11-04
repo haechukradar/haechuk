@@ -3,6 +3,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { SOURCE_BY_ID } from '../../config/sources.mjs';
 import { ACCURACY } from '../../config/site.mjs';
+import { tierOf as articleTierOf } from '../../config/tiers.mjs';
 
 const H = 3600_000;
 const ts = (iso) => Date.parse(iso);
@@ -25,7 +26,7 @@ export function detectClosure(issue, cfg = ACCURACY) {
     if (['interest', 'negotiation', 'agreement'].includes(a.stage)) rumored = true;
     const c = counts[a.stage];
     if (!c) continue;
-    const tier = tierOf(a.source);
+    const tier = articleTierOf(a); // 기사 단위 티어 (인용 출처·모음 기사·연고지 반영)
     if (tier === 1) c.t1++;
     if (tier <= 2) c.t12++;
     if (rumored && (c.t1 >= cfg.minT1Confirm || c.t12 >= cfg.minT12Confirm)) return { result: a.stage, at: a.publishedAt };
