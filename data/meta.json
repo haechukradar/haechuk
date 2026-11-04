@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T07:45:54.311Z",
+ "updatedAt": "2026-11-04T08:48:12.540Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "de-miguel-incident",
-  "real-madrid-aek-athens-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "man-city-leipzig-2026-11-03"
+  "real-madrid-aek-athens-2026-11-03",
+  "lask-slovan-bratislava-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -34,13 +34,13 @@
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 4,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -57,8 +57,8 @@
   },
   "marca": {
    "ok": true,
-   "items": 47,
-   "added": 0,
+   "items": 48,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
@@ -82,8 +82,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 11,
-   "authorRate": 82
+   "added": 3,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -94,7 +94,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -130,25 +130,25 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -160,25 +160,25 @@
   "sun": {
    "ok": true,
    "items": 22,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 7,
+   "items": 9,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -212,11 +212,11 @@
    "count": 4
   },
   {
-   "name": "노이어",
+   "name": "카마빙가",
    "count": 4
   },
   {
-   "name": "카마빙가",
+   "name": "노이어",
    "count": 4
   },
   {
@@ -257,7 +257,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 126,
+  "recentIssues": 124,
   "singleArticleRate": 40,
   "broad": [
    {
@@ -266,7 +266,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 57
+    "count": 60
    },
    {
     "slug": "atletico-bayern-2026-11-03",
@@ -278,7 +278,7 @@
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 18
+    "count": 19
    },
    {
     "slug": "shakhtar-sporting-2026-11-03",
@@ -460,20 +460,6 @@
    ]
   },
   {
-   "en": "Blessin",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "블레신",
-     "count": 2
-    },
-    {
-     "ko": "블레싱",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Farioli",
    "dictionary": null,
    "variants": [
@@ -560,11 +546,11 @@
      "count": 1
     },
     {
-     "ko": "운다브",
+     "ko": "운다프",
      "count": 1
     },
     {
-     "ko": "운다프",
+     "ko": "운다브",
      "count": 1
     }
    ]
@@ -607,6 +593,20 @@
     },
     {
      "ko": "아라스파테",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Aguirre",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아게이레",
+     "count": 1
+    },
+    {
+     "ko": "아과이레",
      "count": 1
     }
    ]
@@ -663,6 +663,20 @@
     },
     {
      "ko": "켄모",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Blessin",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "블레싱",
+     "count": 1
+    },
+    {
+     "ko": "블레신",
      "count": 1
     }
    ]
@@ -858,8 +872,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 638,
-   "llm": 638
+   "collected": 670,
+   "llm": 670
   }
  }
 }
