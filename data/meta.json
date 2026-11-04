@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-04T02:28:00.829Z",
+ "updatedAt": "2026-11-04T03:20:33.903Z",
  "hot": [
   "man-utd-roma-2026-11-03",
   "barcelona-aston-villa-2026-11-03",
-  "atletico-bayern-2026-11-03",
   "de-miguel-incident",
+  "atletico-bayern-2026-11-03",
   "ait-nouri-man-utd-transfer"
  ],
  "days": [
@@ -130,7 +130,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -253,8 +253,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 117,
-  "singleArticleRate": 39,
+  "recentIssues": 118,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -638,6 +638,20 @@
    ]
   },
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 시우바",
+     "count": 1
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Lisandro Isei",
    "dictionary": null,
    "variants": [
@@ -786,8 +800,8 @@
    "llm": 2064
   },
   "2026-11-04": {
-   "collected": 534,
-   "llm": 534
+   "collected": 535,
+   "llm": 535
   }
  }
 }
