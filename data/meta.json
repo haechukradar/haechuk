@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T23:15:19.917Z",
+ "updatedAt": "2026-11-05T00:02:31.673Z",
  "hot": [
   "arsenal-slavia-praha-2026-11-03",
   "fenerbahce-liverpool-2026-11-03",
@@ -28,20 +28,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 69,
-   "added": 3,
+   "items": 68,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -53,19 +53,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 5,
+   "items": 50,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,25 +77,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 8,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -131,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -143,7 +143,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -161,7 +161,7 @@
   "sun": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 90
   },
   "star": {
@@ -173,7 +173,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "fbinsider": {
@@ -289,6 +289,10 @@
    "count": 4
   },
   {
+   "name": "카레차스",
+   "count": 4
+  },
+  {
    "name": "트레솔디",
    "count": 4
   },
@@ -299,15 +303,11 @@
   {
    "name": "버게스",
    "count": 3
-  },
-  {
-   "name": "키케 살라스",
-   "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 190,
-  "singleArticleRate": 46,
+  "recentIssues": 191,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -354,8 +354,16 @@
     "count": 18
    },
    {
+    "slug": "leipzig-man-city-2026-11-04",
+    "count": 16
+   },
+   {
     "slug": "losc-bodo-glimt-2026-11-03",
     "count": 16
+   },
+   {
+    "slug": "porto-napoli-2026-11-03",
+    "count": 15
    }
   ]
  },
@@ -493,6 +501,20 @@
     {
      "ko": "베리",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Karetsas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카레차스",
+     "count": 4
+    },
+    {
+     "ko": "카레타스",
+     "count": 2
     }
    ]
   },
@@ -647,20 +669,6 @@
    ]
   },
   {
-   "en": "Karetsas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카레타스",
-     "count": 2
-    },
-    {
-     "ko": "카레차스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Ioannidis",
    "dictionary": null,
    "variants": [
@@ -807,11 +815,11 @@
      "count": 1
     },
     {
-     "ko": "빈센트 마나에르트",
+     "ko": "만나르트",
      "count": 1
     },
     {
-     "ko": "만나르트",
+     "ko": "빈센트 마나에르트",
      "count": 1
     }
    ]
@@ -909,11 +917,11 @@
      "count": 1
     },
     {
-     "ko": "타종 하자드",
+     "ko": "토르간 아자르",
      "count": 1
     },
     {
-     "ko": "토르간 아자르",
+     "ko": "타종 하자드",
      "count": 1
     }
    ]
@@ -956,6 +964,20 @@
     },
     {
      "ko": "블레신",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "André Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앙드레 실바",
+     "count": 1
+    },
+    {
+     "ko": "안드레 실바",
      "count": 1
     }
    ]
@@ -1113,20 +1135,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Bradley Barcola",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바르셀라",
-     "count": 1
-    },
-    {
-     "ko": "바르콜라",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1155,8 +1163,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 480,
-   "llm": 480
+   "collected": 506,
+   "llm": 506
   }
  },
  "llmErrors": []
