@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T05:26:53.067Z",
+ "updatedAt": "2026-11-05T06:28:22.929Z",
  "hot": [
   "de-miguel-incident",
   "leipzig-man-city-2026-11-04",
   "arsenal-slavia-praha-2026-11-03",
   "fenerbahce-liverpool-2026-11-03",
-  "lens-como-2026-11-04"
+  "real-madrid-aek-athens-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -41,19 +41,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 19,
+   "added": 10,
+   "authorRate": 95
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -65,7 +65,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,14 +77,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 82
+   "added": 3,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -101,7 +101,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -131,19 +131,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -155,13 +155,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 90
   },
   "star": {
@@ -173,7 +173,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 96
   },
   "fbinsider": {
@@ -257,6 +257,10 @@
    "count": 5
   },
   {
+   "name": "발로군",
+   "count": 5
+  },
+  {
    "name": "마두에케",
    "count": 4
   },
@@ -285,10 +289,6 @@
    "count": 4
   },
   {
-   "name": "발로군",
-   "count": 4
-  },
-  {
    "name": "니코 파스",
    "count": 4
   },
@@ -306,12 +306,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 193,
+  "recentIssues": 195,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 110
+    "count": 111
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -339,15 +339,15 @@
    },
    {
     "slug": "man-utd-affairs-ownership",
-    "count": 19
-   },
-   {
-    "slug": "arsenal-slavia-praha-2026-11-03",
-    "count": 19
+    "count": 20
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
-    "count": 19
+    "count": 20
+   },
+   {
+    "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 20
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
@@ -355,7 +355,7 @@
    },
    {
     "slug": "leipzig-man-city-2026-11-04",
-    "count": 16
+    "count": 17
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
@@ -377,6 +377,24 @@
  },
  "nameReport": [
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 14
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    },
+    {
+     "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nuno Espírito Santo",
    "dictionary": null,
    "variants": [
@@ -391,30 +409,12 @@
    ]
   },
   {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 13
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    },
-    {
-     "ko": "조제 무리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "마티아스 야이슬레",
@@ -464,7 +464,7 @@
    "variants": [
     {
      "ko": "홀란",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "엘링 홀란",
@@ -617,24 +617,6 @@
    ]
   },
   {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 스테우르",
-     "count": 2
-    },
-    {
-     "ko": "션 스퇴르",
-     "count": 1
-    },
-    {
-     "ko": "숀 스튜어",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Toni Brogno",
    "dictionary": null,
    "variants": [
@@ -728,6 +710,20 @@
     },
     {
      "ko": "더움비아",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 스테우르",
+     "count": 2
+    },
+    {
+     "ko": "숀 스튜어",
      "count": 1
     }
    ]
@@ -1171,8 +1167,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 542,
-   "llm": 542
+   "collected": 578,
+   "llm": 578
   }
  },
  "llmErrors": []
