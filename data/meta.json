@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T00:02:31.673Z",
+ "updatedAt": "2026-11-05T01:15:31.744Z",
  "hot": [
   "arsenal-slavia-praha-2026-11-03",
   "fenerbahce-liverpool-2026-11-03",
@@ -28,8 +28,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 2,
+   "items": 69,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -41,7 +41,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -64,7 +64,7 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
+   "items": 51,
    "added": 1,
    "authorRate": 100
   },
@@ -77,13 +77,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 0,
    "authorRate": 82
   },
   "fblondon": {
@@ -101,7 +101,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -131,7 +131,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -143,12 +143,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 25,
+   "items": 23,
    "added": 0,
    "authorRate": 100
   },
@@ -178,7 +178,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -301,12 +301,12 @@
    "count": 3
   },
   {
-   "name": "버게스",
+   "name": "바르콜라",
    "count": 3
   }
  ],
  "issueHealth": {
-  "recentIssues": 191,
+  "recentIssues": 193,
   "singleArticleRate": 47,
   "broad": [
    {
@@ -895,6 +895,20 @@
    ]
   },
   {
+   "en": "Bradley Barcola",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바르콜라",
+     "count": 2
+    },
+    {
+     "ko": "바르셀라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -1121,20 +1135,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "센네 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "센네 람멘스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1163,8 +1163,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 506,
-   "llm": 506
+   "collected": 510,
+   "llm": 510
   }
  },
  "llmErrors": []
