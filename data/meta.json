@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T07:49:28.206Z",
+ "updatedAt": "2026-11-05T08:51:08.067Z",
  "hot": [
-  "real-madrid-aek-athens-2026-11-03",
+  "kane-contract",
   "de-miguel-incident",
+  "real-madrid-aek-athens-2026-11-03",
   "leipzig-man-city-2026-11-04",
-  "arsenal-slavia-praha-2026-11-03",
-  "wrexham-middlesbrough-2026-11-04"
+  "arsenal-slavia-praha-2026-11-03"
  ],
  "days": [
   "2026-10-18",
@@ -28,20 +28,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 4,
+   "items": 69,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -53,7 +53,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -65,7 +65,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,19 +77,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 2,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -101,13 +101,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 75
   },
   "waz": {
@@ -125,13 +125,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,14 +155,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 20,
-   "added": 2,
-   "authorRate": 90
+   "added": 3,
+   "authorRate": 95
   },
   "star": {
    "ok": true,
@@ -173,13 +173,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 6,
+   "items": 7,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -306,12 +306,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 199,
+  "recentIssues": 201,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 112
+    "count": 114
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -334,16 +334,16 @@
     "count": 22
    },
    {
+    "slug": "man-utd-affairs-ownership",
+    "count": 21
+   },
+   {
     "slug": "real-madrid-aek-athens-2026-11-03",
     "count": 21
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 21
-   },
-   {
-    "slug": "man-utd-affairs-ownership",
-    "count": 20
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -354,12 +354,12 @@
     "count": 19
    },
    {
-    "slug": "leipzig-man-city-2026-11-04",
+    "slug": "porto-napoli-2026-11-03",
     "count": 17
    },
    {
-    "slug": "porto-napoli-2026-11-03",
-    "count": 16
+    "slug": "leipzig-man-city-2026-11-04",
+    "count": 17
    },
    {
     "slug": "grealish-discipline",
@@ -517,6 +517,20 @@
    ]
   },
   {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 5
+    },
+    {
+     "ko": "파리오리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karetsas",
    "dictionary": null,
    "variants": [
@@ -527,20 +541,6 @@
     {
      "ko": "카레타스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 4
-    },
-    {
-     "ko": "파리오리",
-     "count": 1
     }
    ]
   },
@@ -945,6 +945,24 @@
    ]
   },
   {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "도나룸마",
+     "count": 1
+    },
+    {
+     "ko": "지안루이지 돈나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thorgan Hazard",
    "dictionary": null,
    "variants": [
@@ -1129,20 +1147,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Leroy Sane",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "르로이 사네",
-     "count": 1
-    },
-    {
-     "ko": "레로이 사네",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1171,8 +1175,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 625,
-   "llm": 625
+   "collected": 655,
+   "llm": 655
   }
  },
  "llmErrors": []
