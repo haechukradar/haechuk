@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-05T08:51:08.067Z",
+ "updatedAt": "2026-11-05T09:51:02.153Z",
  "hot": [
   "kane-contract",
   "de-miguel-incident",
-  "real-madrid-aek-athens-2026-11-03",
   "leipzig-man-city-2026-11-04",
+  "real-madrid-aek-athens-2026-11-03",
   "arsenal-slavia-praha-2026-11-03"
  ],
  "days": [
@@ -29,19 +29,19 @@
   "bbc": {
    "ok": true,
    "items": 69,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 0,
+   "items": 58,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -53,13 +53,13 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
@@ -77,25 +77,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 82
+   "added": 3,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -107,7 +107,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 75
   },
   "waz": {
@@ -119,31 +119,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -155,19 +155,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 95
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -178,8 +178,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 1,
+   "items": 11,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -194,7 +194,7 @@
   },
   {
    "name": "데 미겔",
-   "count": 11
+   "count": 12
   },
   {
    "name": "그릴리시",
@@ -306,12 +306,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
+  "recentIssues": 203,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 114
+    "count": 116
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -319,11 +319,11 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 30
+    "count": 31
    },
    {
     "slug": "parker-west-ham-appointment",
-    "count": 27
+    "count": 28
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -352,6 +352,10 @@
    {
     "slug": "barcelona-aston-villa-2026-11-03",
     "count": 19
+   },
+   {
+    "slug": "kane-contract",
+    "count": 18
    },
    {
     "slug": "porto-napoli-2026-11-03",
@@ -418,7 +422,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "마티아스 야이슬레",
@@ -649,6 +653,24 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰이 레이시",
+     "count": 2
+    },
+    {
+     "ko": "쉐이 레이시",
+     "count": 1
+    },
+    {
+     "ko": "쉐아 레이시",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "João Moutinho",
    "dictionary": null,
    "variants": [
@@ -774,24 +796,6 @@
     },
     {
      "ko": "바리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉐이 레이시",
-     "count": 1
-    },
-    {
-     "ko": "셰이 레이시",
-     "count": 1
-    },
-    {
-     "ko": "쉐아 레이시",
      "count": 1
     }
    ]
@@ -949,15 +953,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "지안루이지 돈나룸마",
+     "count": 1
+    },
+    {
      "ko": "돈나룸마",
      "count": 1
     },
     {
      "ko": "도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "지안루이지 돈나룸마",
      "count": 1
     }
    ]
@@ -990,20 +994,6 @@
     },
     {
      "ko": "페링스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Aguirre",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아과이레",
-     "count": 1
-    },
-    {
-     "ko": "아기레",
      "count": 1
     }
    ]
@@ -1147,6 +1137,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Leroy Sane",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "르로이 사네",
+     "count": 1
+    },
+    {
+     "ko": "레로이 사네",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1175,8 +1179,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 655,
-   "llm": 655
+   "collected": 687,
+   "llm": 687
   }
  },
  "llmErrors": []
