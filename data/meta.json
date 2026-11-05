@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T19:59:45.336Z",
+ "updatedAt": "2026-11-05T20:47:56.841Z",
  "hot": [
+  "crystal-palace-hoffenheim-2026-11-05",
   "de-miguel-incident",
-  "jesus-ronaldo-relationship",
+  "leverkusen-marseille-2026-11-04",
   "kane-contract",
-  "grealish-discipline",
-  "fenerbahce-liverpool-2026-11-03"
+  "jesus-ronaldo-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -36,7 +36,7 @@
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,14 +78,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 80
+   "added": 5,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -132,13 +132,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -156,14 +156,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 9,
-   "authorRate": 100
+   "added": 2,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
@@ -174,7 +174,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -203,7 +203,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 10
+   "count": 11
   },
   {
    "name": "JJ 가브리엘",
@@ -222,16 +222,16 @@
    "count": 7
   },
   {
+   "name": "맥스 다우먼",
+   "count": 7
+  },
+  {
    "name": "J.J. 가브리엘",
    "count": 7
   },
   {
    "name": "조엘 페레이라",
    "count": 7
-  },
-  {
-   "name": "맥스 다우먼",
-   "count": 6
   },
   {
    "name": "카마빙가",
@@ -307,7 +307,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 243,
+  "recentIssues": 250,
   "singleArticleRate": 52,
   "broad": [
    {
@@ -316,7 +316,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 67
+    "count": 68
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -335,12 +335,12 @@
     "count": 26
    },
    {
-    "slug": "villarreal-psg-2026-11-03",
+    "slug": "grealish-discipline",
     "count": 24
    },
    {
-    "slug": "grealish-discipline",
-    "count": 23
+    "slug": "villarreal-psg-2026-11-03",
+    "count": 24
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
@@ -424,11 +424,11 @@
      "count": 6
     },
     {
-     "ko": "자이슬레",
-     "count": 1
+     "ko": "자이슬",
+     "count": 2
     },
     {
-     "ko": "자이슬",
+     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -498,11 +498,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "조르제 제수스",
-     "count": 2
+     "ko": "조르즈 제수스",
+     "count": 4
     },
     {
-     "ko": "조르즈 제수스",
+     "ko": "조르제 제수스",
      "count": 2
     },
     {
@@ -552,6 +552,20 @@
    ]
   },
   {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 6
+    },
+    {
+     "ko": "도원만",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -587,20 +601,6 @@
     },
     {
      "ko": "퀼뤼겔",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 5
-    },
-    {
-     "ko": "도원만",
      "count": 1
     }
    ]
@@ -1190,6 +1190,20 @@
    ]
   },
   {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 2
+    },
+    {
+     "ko": "세이지",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -1199,24 +1213,6 @@
     },
     {
      "ko": "이안니크 카쥐크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dirk Kuyt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "커이트",
-     "count": 1
-    },
-    {
-     "ko": "더크 카위트",
-     "count": 1
-    },
-    {
-     "ko": "커크",
      "count": 1
     }
    ]
@@ -1252,8 +1248,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 285,
-   "llm": 285
+   "collected": 320,
+   "llm": 320
   }
  },
  "llmErrors": []
