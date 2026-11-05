@@ -1,793 +1,10 @@
 [
  {
-  "slug": "barcola-liverpool-transfer",
-  "mode": "llm",
-  "titleKo": "리버풀 바르콜라 영입 고민",
-  "createdAt": "2026-11-05T12:50:13.000Z",
-  "updatedAt": "2026-11-05T12:50:13.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "liverpool"
-  ],
-  "players": [
-   "브래들리 바르콜라"
-  ],
-  "sig": [
-   "iraola",
-   "bradley",
-   "barcola"
-  ],
-  "articles": [
-   {
-    "id": "8fc50fe7d984",
-    "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-bradley-barcola-liverpool-37845812",
-    "title": "Andoni Iraola's failed Bradley Barcola experiment leaves Liverpool with £123m dilemma",
-    "ko": "이라올라, 바르콜라 실험 실패…리버풀 1억 2300만 파운드 고민",
-    "source": "mirror",
-    "publishedAt": "2026-11-05T12:50:13.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "브래들리 바르콜라"
-    ],
-    "playerTags": [],
-    "author": "Nathan Ridley",
-    "transfer": {
-     "player": "브래들리 바르콜라",
-     "from": null,
-     "to": "리버풀"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.6,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "8fc50fe7d984",
-    "at": "2026-11-05T12:50:13.000Z",
-    "source": "mirror",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "브래들리 바르콜라",
-   "from": null,
-   "to": "리버풀"
-  },
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-05T12:50:13.000Z",
-   "viaQuote": false
-  },
-  "headline": "Andoni Iraola's failed Bradley Barcola experiment leaves Liverpool with £123m dilemma"
- },
- {
-  "slug": "kane-contract",
-  "mode": "llm",
-  "titleKo": "케인 바이에른 재계약",
-  "createdAt": "2026-11-03T06:31:00.000Z",
-  "updatedAt": "2026-11-05T12:49:36.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "해리 케인",
-   "케인"
-  ],
-  "sig": [
-   "harry",
-   "kane",
-   "ballon",
-   "vincent",
-   "kompany"
-  ],
-  "articles": [
-   {
-    "id": "56ff7c9fc424",
-    "url": "https://www.lequipe.fr/Football/Video/Bundesliga-kane-a-deux-doigts-de-signer-un-nouveau-contrat-avec-son-club/20244737#at_medium=RSS_feeds",
-    "title": "Kane «à deux doigts» de signer un nouveau contrat avec son club",
-    "ko": "케인, 바이에른과 새 계약 서명 직전",
-    "source": "lequipe",
-    "publishedAt": "2026-11-02T23:33:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "812ae2dff2ad",
-    "url": "https://www.hln.be/champions-league/het-was-een-emotionele-rollercoaster-harry-kane-staat-dicht-bij-nieuw-contract-en-spreekt-over-speciale-periode-met-ballon-dor-en-uitvallen-vincent-kompany~a3425e1e/",
-    "title": "“Het was een emotionele rollercoaster”: Harry Kane staat dicht bij nieuw contract en spreekt over speciale periode met Ballon d’Or en uitvallen Vincent Kompany",
-    "ko": "케인, 바이에른과 새 계약 임박…쿰파니 부상 언급",
-    "source": "hln",
-    "publishedAt": "2026-11-03T06:31:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Redactie",
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "2938999a2d57",
-    "url": "https://www.espn.com/soccer/story/_/id/50360295/harry-kane-hopes-bayern-munich-pass-tough-champions-league-test-madrid",
-    "title": "Kane says new Bayern deal 'extremely close,' will happen in coming days",
-    "ko": "케인, 바이에른과 새 계약 '매우 근접'…수일 내 발표 예고",
-    "source": "espn",
-    "publishedAt": "2026-11-03T13:08:15.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "ESPN News Services",
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "68d98d36db71",
-    "url": "https://www.nytimes.com/athletic/7649297/2026/11/05/harry-kane-bayern-munich-contract/",
-    "title": "Harry Kane signs new Bayern Munich deal to become highest-paid player in Europe",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-05T07:52:58.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "해리 케인",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "18bd7daa576c",
-    "url": "https://www.tz.de/sport/fc-bayern/vertrag-bis-2029-harry-kane-verlaengert-beim-fc-bayern-zr-94574877.html",
-    "title": "Offiziell: Harry Kane verlängert beim FC Bayern – auch letztes Detail geklärt",
-    "ko": "공식 발표: 케인, 바이에른과 재계약 완료",
-    "source": "tz",
-    "publishedAt": "2026-11-05T08:02:09.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Adrian Rehling",
-    "transfer": {
-     "player": "해리 케인",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "6008d8e9af45",
-    "url": "https://www.kicker.de/er-loest-jedes-versprechen-ein-kane-verlaengert-bei-bayern-1242507/artikel#omrss",
-    "title": "\"Er löst jedes Versprechen ein\": Kane verlängert bei Bayern",
-    "ko": "\"모든 약속 지킨다\"…케인, 바이에른 재계약",
-    "source": "kicker",
-    "publishedAt": "2026-11-05T08:03:49.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "해리 케인",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "a60528da8e8e",
-    "url": "https://www.thesun.co.uk/sport/40922744/harry-kane-new-bayern-munich-contract-ballon-dor/",
-    "title": "Harry Kane becomes highest paid player in EUROPE as he signs new Bayern Munich contract days after winning Ballon d’Or",
-    "ko": "케인, 바이에른과 재계약하며 유럽 최고 연봉 선수로",
-    "source": "sun",
-    "publishedAt": "2026-11-05T08:06:37.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Chisanga Malata",
-    "transfer": {
-     "player": "해리 케인",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "465240060f0a",
-    "url": "https://www.hln.be/bundesliga/de-ballon-dor-blijft-langer-in-munchen-harry-kane-verlengt-tot-2029-bij-bayern~a77aa373/",
-    "title": "De Ballon d’Or blijft langer in München: Harry Kane verlengt tot 2029 bij Bayern",
-    "ko": "케인, 2029년까지 바이에른 재계약…발롱도르 이후 잔류",
-    "source": "hln",
-    "publishedAt": "2026-11-05T08:09:04.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Redactie",
-    "transfer": {
-     "player": "해리 케인",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "78a820235692",
-    "url": "https://www.skysports.com/football/news/12040/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
-    "title": "Ballon d'Or winner Kane signs new Bayern deal",
-    "ko": "발롱도르 수상자 케인, 바이에른과 새 계약",
-    "source": "sky",
-    "publishedAt": "2026-11-05T08:13:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e649486adb4a",
-    "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-    "title": "Transfer Centre LIVE! Kane signs 'most lucrative deal in Bayern history'",
-    "ko": "케인, 바이에른 역사상 가장 수익성 높은 계약 체결",
-    "source": "sky",
-    "publishedAt": "2026-11-05T08:16:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "16b50948d120",
-    "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-munich-contract-37844927",
-    "title": "Harry Kane becomes Europe's highest-paid player as he signs new Bayern Munich contract",
-    "ko": "케인, 바이에른과 재계약…유럽 최고 연봉 선수로",
-    "source": "mirror",
-    "publishedAt": "2026-11-05T08:19:44.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Nathan Ridley",
-    "transfer": null
-   },
-   {
-    "id": "4b0df3e71015",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-ballon-d-or-harry-kane-prolonge-au-bayern-munich-jusqu-en-2029/1741274#at_medium=RSS_feeds",
-    "title": "Le Ballon d'Or Harry Kane prolonge au Bayern Munich jusqu'en 2029",
-    "ko": "케인, 바이에른 뮌헨과 2029년까지 재계약",
-    "source": "lequipe",
-    "publishedAt": "2026-11-05T08:25:04.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Julie Vimond",
-    "transfer": null
-   },
-   {
-    "id": "3834ff602dff",
-    "url": "https://www.nytimes.com/athletic/7752682/2026/11/05/harry-kane-bayern-contract-data/",
-    "title": "How Harry Kane proved he is worth his new record-breaking Bayern Munich contract",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-05T08:30:09.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f67e6d63e7ff",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
-    "title": "England captain Kane signs new Bayern contract",
-    "ko": "케인, 바이에른과 새 계약 체결",
-    "source": "bbc",
-    "publishedAt": "2026-11-05T08:39:18.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7ce39a5af1e6",
-    "url": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
-    "title": "Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029",
-    "ko": "케인, 바이에른과 2029년까지 재계약 체결",
-    "source": "guardian",
-    "publishedAt": "2026-11-05T08:43:01.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Guardian sport and agencies",
-    "transfer": {
-     "player": "해리 케인",
-     "from": null,
-     "to": null
-    }
-   },
-   {
-    "id": "f5257683fdcd",
-    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/harry-kane-renova-ate-2029-e-fica-com-o-maior-contrato-da-historia-do-bayern",
-    "title": "Harry Kane renova até 2029 e fica com o maior contrato da história do Bayern",
-    "ko": "케인, 2029년까지 바이에른 재계약…구단 역대 최고 계약",
-    "source": "record",
-    "publishedAt": "2026-11-05T09:12:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dc2c3968fc96",
-    "url": "https://www.dailystar.co.uk/sport/football/harry-kane-contract-highest-paid-37845108",
-    "title": "Harry Kane signs mega Bayern contract to become Europe's highest-paid footballer",
-    "ko": "케인, 바이에른과 대형 재계약…유럽 최고 연봉 선수 등극",
-    "source": "star",
-    "publishedAt": "2026-11-05T09:13:34.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Nathan Ridley, Cameron Winstanley",
-    "transfer": null
-   },
-   {
-    "id": "c49c7eee017a",
-    "url": "https://www.kicker.de/war-das-kanes-schoenstes-tor-fuer-bayern-1268814/video#omrss",
-    "title": "War das Kanes schönstes Tor für Bayern?",
-    "ko": "케인, 바이에른 최고의 골 중 하나였나?",
-    "source": "kicker",
-    "publishedAt": "2026-11-05T09:36:14.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "56c5a9f005dd",
-    "url": "https://www.tz.de/sport/fc-bayern/bayern-bosse-griffen-bei-kane-verlaengerung-zu-drastischer-massnahme-94575201.html",
-    "title": "Bayern-Bosse griffen bei Verlängerung von Kane zu drastischer Maßnahme",
-    "ko": "바이에른 수뇌부, 케인 재계약에 강수 카드",
-    "source": "tz",
-    "publishedAt": "2026-11-05T10:07:56.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Manuel Bonke, Philipp Kessler",
-    "transfer": null
-   },
-   {
-    "id": "e70a600a875c",
-    "url": "https://www.kicker.de/bayern-macht-kane-zum-bestbezahlten-spieler-europas-zu-recht-1268834/artikel#omrss",
-    "title": "Bayern macht Kane zum bestbezahlten Spieler Europas - zu Recht?",
-    "ko": "바이에른, 케인을 유럽 최고 연봉 선수로 만들어…정당할까",
-    "source": "kicker",
-    "publishedAt": "2026-11-05T10:25:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f42ba6ad76a1",
-    "url": "https://www.tz.de/sport/fc-bayern/harry-kane-fc-bayern-rekorde-und-der-unfall-seiner-kinder-94575469.html",
-    "title": "Kanes Zeit in München: Eine strahlende Erfolgsgeschichte – und eine Katastrophe",
-    "ko": "케인의 뮌헨 시절, 성공 스토리이자 아픈 결말",
-    "source": "tz",
-    "publishedAt": "2026-11-05T11:39:23.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Sebastian Isbaner",
-    "transfer": null
-   },
-   {
-    "id": "d009f94b1c37",
-    "url": "https://www.nytimes.com/athletic/7683468/2026/11/05/alan-shearer-premier-league-goals-kane-haaland/",
-    "title": "Does Harry Kane's new Bayern contract mean Alan Shearer's Premier League goals record is safe?",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-05T12:00:52.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "958958838ca4",
-    "url": "https://www.tz.de/sport/fc-bayern/harry-kane-familie-reagiert-auf-bayern-verlaengerung-bis-2029-94575645.html",
-    "title": "Bayern-Verlängerung: Harry Kane teilt Reaktion seiner Familie",
-    "ko": "케인 바이에른 재계약 소식에 가족 반응 공개",
-    "source": "tz",
-    "publishedAt": "2026-11-05T12:49:36.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Florian Puth",
-    "transfer": {
-     "player": "해리 케인",
-     "from": null,
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 12,
-  "sourceCount": 13,
-  "score": 9.67,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "harry-kane"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-02T23:33:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Does Harry Kane's new Bayern contract mean Alan Shearer's Premier League goals record is safe?",
-  "aliases": [
-   "kane-bayern-contract"
-  ]
- },
- {
-  "slug": "vermeeren-injury",
-  "mode": "llm",
-  "titleKo": "페르메렌 발목 부상 우려",
-  "createdAt": "2026-11-05T12:46:09.000Z",
-  "updatedAt": "2026-11-05T12:46:09.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "아르튀르 페르메렌"
-  ],
-  "sig": [
-   "antwerp",
-   "arthur",
-   "vermeeren",
-   "lommel"
-  ],
-  "articles": [
-   {
-    "id": "579e8dbab5ec",
-    "url": "https://www.hln.be/antwerp/streep-door-de-rekening-voor-antwerp-arthur-vermeeren-onzeker-voor-cruciaal-duel-tegen-lommel-met-enkelblessure~ab87d11b/",
-    "title": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure",
-    "ko": "안트베르펜 아르튀르 페르메렌, 롬멜전 발목 부상으로 출전 불투명",
-    "source": "hln",
-    "publishedAt": "2026-11-05T12:46:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "아르튀르 페르메렌"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.18,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-05T12:46:09.000Z",
-   "viaQuote": false
-  },
-  "headline": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure"
- },
- {
-  "slug": "alexander-arnold-chelsea-transfer",
-  "mode": "llm",
-  "titleKo": "첼시 알렉산더아놀드 영입 관심",
-  "createdAt": "2026-11-05T12:44:00.000Z",
-  "updatedAt": "2026-11-05T12:44:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "트렌트 알렉산더아놀드"
-  ],
-  "sig": [
-   "trent",
-   "alexander",
-   "arnold"
-  ],
-  "articles": [
-   {
-    "id": "9afe59ae59cb",
-    "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-sent-trent-alexander-arnold-34866591",
-    "title": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues",
-    "ko": "첼시, 알렉산더아놀드 영입 지시…레알 마드리드 답답함 지속",
-    "source": "fblondon",
-    "publishedAt": "2026-11-05T12:44:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "트렌트 알렉산더아놀드"
-    ],
-    "playerTags": [
-     "trent-alexander-arnold"
-    ],
-    "author": "Bobby Vincent",
-    "transfer": {
-     "player": "트렌트 알렉산더아놀드",
-     "from": "레알 마드리드",
-     "to": "첼시"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.95,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "9afe59ae59cb",
-    "at": "2026-11-05T12:44:00.000Z",
-    "source": "fblondon",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "trent-alexander-arnold"
-  ],
-  "transfer": {
-   "player": "트렌트 알렉산더아놀드",
-   "from": "레알 마드리드",
-   "to": "첼시"
-  },
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-05T12:44:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues"
- },
- {
   "slug": "de-miguel-incident",
   "mode": "llm",
   "titleKo": "데 미겔 사망 사고, 스페인축구협회 경기 연기",
   "createdAt": "2026-11-03T09:39:19.000Z",
-  "updatedAt": "2026-11-05T12:39:06.000Z",
+  "updatedAt": "2026-11-05T14:05:00.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3046,6 +2263,22 @@
     "transfer": null
    },
    {
+    "id": "67287992d821",
+    "url": "https://as.com/futbol/segunda/pablo-blanco-sobre-de-de-miguel-lo-he-vivido-in-situ-no-te-lo-crees-f202611-n/",
+    "title": "Pablo Blanco, sobre De Miguel: “Lo he vivido in situ; no te lo crees”",
+    "ko": "파블로 블랑코, 데 미겔 사고 직접 겪은 소감 전해",
+    "source": "as",
+    "publishedAt": "2026-11-05T12:30:45.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alberto P. Sierra",
+    "transfer": null
+   },
+   {
     "id": "42ac071d9710",
     "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-family-statement-37846567",
     "title": "Jesus de Miguel's heartbroken family issue emotional first statement on footballer's death",
@@ -3080,11 +2313,47 @@
     "playerTags": [],
     "author": "Emillia Hawkins",
     "transfer": null
+   },
+   {
+    "id": "b5db6fea0eb0",
+    "url": "https://as.com/futbol/segunda/funeral-de-jesus-de-miguel-en-directo-f202611-d/",
+    "title": "Funeral de Jesús de Miguel, en directo",
+    "ko": "헤수스 데 미겔 장례식 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-05T13:54:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Alberto P. Sierra",
+    "transfer": null
+   },
+   {
+    "id": "e4cc7f8566c1",
+    "url": "https://www.hln.be/primera-division/ook-ploegmaats-en-real-madrid-voorzitter-florentino-perez-aanwezig-tenerife-voetballer-jesus-de-miguel-wordt-begraven-in-ouderlijk-dorpje~a08009fe/",
+    "title": "Ook ploegmaats én Real Madrid-voorzitter Florentino Pérez aanwezig: Tenerife-voetballer Jesús de Miguel wordt begraven in ouderlijk dorpje",
+    "ko": "데 미겔 장례식에 동료·레알 회장 참석",
+    "source": "hln",
+    "publishedAt": "2026-11-05T14:05:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
    }
   ],
   "recentSources": 9,
   "sourceCount": 14,
-  "score": 8.3,
+  "score": 6.63,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3108,543 +2377,484 @@
   ]
  },
  {
-  "slug": "alex-scott-chelsea-transfer",
+  "slug": "raphinha-contract",
   "mode": "llm",
-  "titleKo": "첼시 알렉스 스콧 영입 관심",
-  "createdAt": "2026-11-05T12:36:51.000Z",
-  "updatedAt": "2026-11-05T12:36:51.000Z",
+  "titleKo": "하피냐 2030년까지 재계약",
+  "createdAt": "2026-11-04T15:34:38.000Z",
+  "updatedAt": "2026-11-05T13:57:37.000Z",
   "category": "transfer",
-  "stage": "interest",
+  "stage": "done",
   "clubs": [
-   "chelsea"
+   "barcelona"
   ],
   "players": [
-   "알렉스 스콧"
+   "하피냐"
   ],
   "sig": [
-   "alex",
-   "scott",
-   "blues"
+   "saisonstart",
+   "kapitän",
+   "raphinha"
   ],
   "articles": [
    {
-    "id": "d23eea0f6286",
-    "url": "https://www.thesun.co.uk/sport/40924636/chelsea-target-alex-scott-january-transfer/",
-    "title": "Chelsea make £100m Alex Scott top target in January transfer window with Blues unlikely to revisit failed summer deal",
-    "ko": "첼시, 1월 이적시장 알렉스 스콧 1순위…1억 파운드",
-    "source": "sun",
-    "publishedAt": "2026-11-05T12:36:51.000Z",
+    "id": "5e61093ab09b",
+    "url": "https://as.com/futbol/primera/raphinha-hasta-2030-f202611-n/",
+    "title": "Raphinha, hasta 2030",
+    "ko": "하피냐, 2030년까지 재계약",
+    "source": "as",
+    "publishedAt": "2026-11-04T15:34:38.000Z",
     "credited": null,
     "clubs": [
-     "chelsea"
+     "barcelona"
     ],
     "category": "transfer",
-    "stage": "interest",
+    "stage": "done",
     "players": [
-     "알렉스 스콧"
+     "하피냐"
     ],
-    "playerTags": [],
-    "author": "Jack Rosser",
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Sergi de Juan",
+    "transfer": null
+   },
+   {
+    "id": "90b35ee642e3",
+    "url": "https://www.kicker.de/nach-ueberragendem-saisonstart-barca-bindet-kapitaen-raphinha-1268757/artikel#omrss",
+    "title": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha",
+    "ko": "바르셀로나, 주장 하피냐와 2030년까지 재계약",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T11:18:53.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3cf2abccff90",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-fc-barcelone-prolonge-raphinha-jusqu-a-2030/1741330#at_medium=RSS_feeds",
+    "title": "Le FC Barcelone prolonge Raphinha jusqu'en 2030",
+    "ko": "하피냐, 2030년까지 바르셀로나 재계약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-05T13:03:31.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Elliot Radix",
+    "transfer": null
+   },
+   {
+    "id": "a40abc6c5258",
+    "url": "https://www.record.pt/internacional/paises/espanha/barcelona/detalhe/raphinha-renova-com-o-barcelona-ate-2030",
+    "title": "Raphinha renova com o Barcelona até 2030",
+    "ko": "하피냐, 바르셀로나와 2030년까지 재계약",
+    "source": "record",
+    "publishedAt": "2026-11-05T13:57:37.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": null,
     "transfer": {
-     "player": "알렉스 스콧",
+     "player": "하피냐",
      "from": null,
-     "to": "첼시"
+     "to": null
     }
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.57,
-  "topTier": 4,
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 4.8,
+  "topTier": 2,
   "stageHistory": [
    {
-    "id": "d23eea0f6286",
-    "at": "2026-11-05T12:36:51.000Z",
-    "source": "sun",
+    "id": "5e61093ab09b",
+    "at": "2026-11-04T15:34:38.000Z",
+    "source": "as",
     "from": null,
     "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "알렉스 스콧",
-   "from": null,
-   "to": "첼시"
-  },
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-05T12:36:51.000Z",
-   "viaQuote": false
-  },
-  "headline": "Chelsea make £100m Alex Scott top target in January transfer window with Blues unlikely to revisit failed summer deal"
- },
- {
-  "slug": "gabriel-real-madrid-transfer",
-  "mode": "llm",
-  "titleKo": "레알 마드리드 J.J. 가브리엘 영입 합의 보도",
-  "createdAt": "2026-11-04T09:15:15.000Z",
-  "updatedAt": "2026-11-05T12:35:46.000Z",
-  "category": "transfer",
-  "stage": "agreement",
-  "clubs": [
-   "real-madrid",
-   "man-utd"
-  ],
-  "players": [
-   "J.J. 가브리엘",
-   "JJ 가브리엘"
-  ],
-  "sig": [
-   "gabriel"
-  ],
-  "articles": [
-   {
-    "id": "19730d7c8f34",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-    "title": "Real Madrid confident of signing Man Utd's Gabriel",
-    "ko": "레알, 맨유의 가브리엘 영입에 자신감",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T09:15:15.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
    },
    {
-    "id": "527607df0a72",
-    "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-    "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-    "ko": "레알, 맨유 유망주 JJ 가브리엘과 구두 합의",
-    "source": "sky",
-    "publishedAt": "2026-11-04T09:28:00.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "3ccc82b9a434",
-    "url": "https://www.dailystar.co.uk/sport/football/jj-gabriel-reaches-real-madrid-37841097",
-    "title": "JJ Gabriel 'reaches Real Madrid transfer agreement' as wantaway Man Utd sensation nears exit",
-    "ko": "가브리엘, 레알과 이적 합의 보도…맨유 탈출 임박",
-    "source": "star",
-    "publishedAt": "2026-11-04T09:38:08.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Cameron Winstanley",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "9d1247ad6c31",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-crack-anglais-jj-gabriel-16-ans-se-rapproche-du-real-madrid/1741007#at_medium=RSS_feeds",
-    "title": "Le crack anglais JJ Gabriel, 16 ans, se rapproche du Real Madrid",
-    "ko": "16세 잉글랜드 유망주 JJ 가브리엘, 레알 마드리드 이적 근접",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T09:54:40.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "70a8f2b8dd0e",
-    "url": "https://www.thesun.co.uk/sport/40908742/man-utd-jj-gabriel-passport-real-madrid-transfer/",
-    "title": "Wantaway Man Utd wonderkid JJ Gabriel, 16, secures Cypriot passport as he closes in on dream Real Madrid transfer",
-    "ko": "맨유 탈출 원하는 16세 J.J. 가브리엘, 레알 이적 임박",
-    "source": "sun",
-    "publishedAt": "2026-11-04T09:56:06.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Katherine Walsh",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "caaaa95cfccf",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-34860124",
-    "title": "JJ Gabriel reaches verbal transfer agreement days after £8.5m outcome for Man United",
-    "ko": "JJ 가브리엘, 레알 마드리드와 구두 이적 합의…맨유 이적료 850만 파운드 확정 직후",
-    "source": "men",
-    "publishedAt": "2026-11-04T10:00:30.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Matthew Abbott",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "7bd27c039a32",
-    "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
-    "title": "Sources: JJ Gabriel close to joining Real Madrid",
-    "ko": "JJ 가브리엘, 레알 마드리드 합류 임박 보도",
-    "source": "espn",
-    "publishedAt": "2026-11-04T10:53:53.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Rodra",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "4670b6d3caad",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-dark-over-jj-34860796",
-    "title": "Manchester United in the dark over JJ Gabriel future as Real Madrid close on transfer",
-    "ko": "맨유, 레알의 J.J. 가브리엘 영입 임박에 향방 불투명",
-    "source": "men",
-    "publishedAt": "2026-11-04T11:22:20.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Tyrone Marshall",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "fb0224a41d91",
-    "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-realmadrid-jj-gabriel-37842627",
-    "title": "Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit",
-    "ko": "맨유, 레알 마드리드와 갈등 속 J.J. 가브리엘 올드트래퍼드 이별 임박",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T13:49:49.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "5ccaa3f924a1",
-    "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
-    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-    "ko": "레알 마드리드, 맨유 16세 J.J. 가브리엘 영입 합의 임박",
-    "source": "guardian",
-    "publishedAt": "2026-11-04T14:48:17.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Will Unwin and Jamie Jackson",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "21f2de52faea",
-    "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
-    "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
-    "ko": "맨유 유망주 JJ 가브리엘, 레알 마드리드행 가능성 점검",
-    "source": "sky",
-    "publishedAt": "2026-11-04T15:22:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "28167bdc164f",
-    "url": "https://www.footballinsider247.com/manchester-united/transfers/man-uniteds-jj-gabriel-compensation-revealed-after-he-agrees-to-join-real-madrid",
-    "title": "Man United's JJ Gabriel compensation revealed after he agrees to join Real Madrid",
-    "ko": "JJ 가브리엘, 레알 마드리드 이적 합의 후 맨유 보상금 공개",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T15:25:53.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "3b013f59868c",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gabriel-real-madrid-34866200",
-    "title": "JJ Gabriel plan emerges as Real Madrid fear repeating mistake after signing Man United ace",
-    "ko": "JJ 가브리엘 영입 계획 드러나… 레알, 맨유 선수 영입 실수 반복 우려",
-    "source": "men",
-    "publishedAt": "2026-11-05T11:27:12.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "867a672e1fa1",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-gabriel-real-madrid-37846230",
-    "title": "Real Madrid plan to avoid JJ Gabriel mistake that cost Arsenal star after Man Utd swoop",
-    "ko": "레알 마드리드, 가브리엘 실수 반복 방지 계획…맨유 영입 경쟁",
-    "source": "mirror",
-    "publishedAt": "2026-11-05T12:35:46.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "아스널",
-     "to": "레알 마드리드"
-    }
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 10,
-  "score": 2.14,
-  "topTier": 1,
-  "stageHistory": [
-   {
-    "id": "19730d7c8f34",
-    "at": "2026-11-04T09:15:15.000Z",
-    "source": "bbc",
-    "from": null,
-    "to": "negotiation"
-   },
-   {
-    "id": "527607df0a72",
-    "at": "2026-11-04T09:28:00.000Z",
-    "source": "sky",
-    "from": "negotiation",
-    "to": "agreement"
+    "id": "90b35ee642e3",
+    "at": "2026-11-05T11:18:53.000Z",
+    "source": "kicker",
+    "from": "interest",
+    "to": "done"
    }
   ],
   "stageChange": {
-   "from": "negotiation",
-   "to": "agreement",
-   "at": "2026-11-04T09:28:00.000Z",
-   "source": "sky"
+   "from": "interest",
+   "to": "done",
+   "at": "2026-11-05T11:18:53.000Z",
+   "source": "kicker"
   },
-  "playerTags": [],
+  "playerTags": [
+   "raphinha"
+  ],
   "transfer": {
-   "player": "JJ 가브리엘",
-   "from": "맨유",
-   "to": "레알 마드리드"
+   "player": "하피냐",
+   "from": null,
+   "to": null
   },
   "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-04T09:15:15.000Z",
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-04T15:34:38.000Z",
    "viaQuote": false
   },
-  "headline": "Real Madrid confident of signing Man Utd's Gabriel"
+  "headline": "Raphinha renova com o Barcelona até 2030"
  },
  {
-  "slug": "rosenior-chelsea-manager-future",
+  "slug": "newcastle-manager-future",
   "mode": "llm",
-  "titleKo": "로즈니어 첼시 경질 논란",
-  "createdAt": "2026-11-05T12:26:53.000Z",
-  "updatedAt": "2026-11-05T12:26:53.000Z",
+  "titleKo": "뉴캐슬 야이슬레 감독 거취 논란",
+  "createdAt": "2026-11-03T07:50:00.000Z",
+  "updatedAt": "2026-11-05T13:56:58.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
-   "chelsea"
+   "newcastle",
+   "everton"
   ],
-  "players": [],
+  "players": [
+   "션 스테이어",
+   "엘랑가",
+   "바리",
+   "파비안 셰어",
+   "션 스테우르"
+  ],
   "sig": [
-   "liam",
-   "rosenior"
+   "steur",
+   "matthias",
+   "jaissle"
   ],
   "articles": [
    {
-    "id": "f3a4db8e10b3",
-    "url": "https://www.thesun.co.uk/sport/40925680/liam-rosenior-chelsea-sacking-paris-fc/",
-    "title": "‘I’m not a joke’ – Liam Rosenior claims Chelsea axe had ‘nothing to do with football’ having been sacked after 107 days",
-    "ko": "로즈니어, 107일 만의 첼시 경질에 \"축구와 무관\" 주장",
+    "id": "019ff1459e58",
+    "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
+    "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+    "ko": "뉴캐슬 내부 불만 확산, 에버턴 승리로 자이슬 감독 또 골치",
+    "source": "guardian",
+    "publishedAt": "2026-11-02T22:04:11.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바리"
+    ],
+    "playerTags": [],
+    "author": "Miles Starforth at St James' Park",
+    "transfer": null,
+    "clubs": [
+     "newcastle",
+     "everton"
+    ]
+   },
+   {
+    "id": "eea1440dd780",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-says-newcastle-united-34853455",
+    "title": "Matthias Jaissle says Newcastle United stars IGNORED tactical plan in alarming Press conference",
+    "ko": "야이슬레, 뉴캐슬 선수들이 전술 계획 무시했다고 발언",
+    "source": "chronicle",
+    "publishedAt": "2026-11-02T23:07:24.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "7692e63cc79f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
+    "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+    "ko": "뉴캐슬 홈 부진 계속, 야이슬레 감독 고전",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T23:53:46.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "77526a94be9a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/sean-steur-crowd-chant-highlights-34852541",
+    "title": "Sean Steur crowd chant highlights Newcastle decision Matthias Jaissle can no longer shy away from",
+    "ko": "뉴캐슬, 야이슬레 감독 결정 피하기 어려운 상황",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T07:50:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "션 스테우르"
+    ],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "5acc00adadaf",
+    "url": "https://www.thesun.co.uk/sport/40891432/matthias-jaissle-tactics-note-pitch-newcastle-everton/",
+    "title": "Sky Sports cameras show discarded Newcastle tactics note on pitch as boss Jaissle accuses stars of ‘ignoring’ gameplan",
+    "ko": "뉴캐슬 경기장에 버려진 전술 메모, 야이슬레 감독 선수들 무시 비판",
     "source": "sun",
-    "publishedAt": "2026-11-05T12:26:53.000Z",
+    "publishedAt": "2026-11-03T09:44:53.000Z",
+    "credited": "스카이 스포츠",
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "James Graham",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "7325a0c5cb8a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fabian-schar-dumps-matthias-jaissles-34853509",
+    "title": "Fabian Schar dumps Matthias Jaissle's tactical note as Newcastle United's extreme plan backfires",
+    "ko": "파비안 셰어, 뉴캐슬 전술 메모 무시하며 전술 실패 지적",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T10:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파비안 셰어"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "71728d1ef71d",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-make-firm-matthias-jaissle-sack-call-after-fans-rage-expert",
+    "title": "Newcastle make 'firm' Matthias Jaissle sack call after fans rage - expert",
+    "ko": "뉴캐슬, 야이슬레 경질 요구 쇄도에 감독 교체 검토 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T13:30:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "fd747920caa6",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-clocks-turned-back-mike-34854424",
+    "title": "Newcastle clocks have turned back to Mike Ashley era with sheer dross being served up",
+    "ko": "뉴캐슬, 마이크 애슐리 시대로 회귀한 듯한 부진한 경기력 지적",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T18:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "a9c26c413ed6",
+    "url": "https://www.thesun.co.uk/sport/40905522/newcastle-legend-returns-manager/",
+    "title": "Newcastle legend, 46, returns to former club as new manager after cigar-smoking icon snubbed shock job offer",
+    "ko": "뉴캐슬 레전드, 옛 구단 감독으로 복귀 예정",
+    "source": "sun",
+    "publishedAt": "2026-11-03T22:35:58.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4073ec3cb72c",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/never-thought-would-say-matthias-34855540",
+    "title": "I never thought I would say this about Matthias Jaissle's Newcastle United",
+    "ko": "뉴캐슬 야이슬레 감독 체제 평가 변화 조명",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stuart Jamieson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4d0c4929449d",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-matthias-jaissle-34858287",
+    "title": "Newcastle United make Matthias Jaissle future decision as PIF face eye-watering bill",
+    "ko": "뉴캐슬, 야이슬레 거취 결정…PIF 막대한 청구서 직면",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T10:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4617c563c7ff",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/pifs-backing-matthias-jaissle-comes-34862835",
+    "title": "Why PIF's backing of Matthias Jaissle comes with an asterisk as Newcastle boss still in danger",
+    "ko": "PIF의 야이슬레 지지에 단서…뉴캐슬 감독 여전히 위기",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T19:00:00.000Z",
     "credited": null,
     "clubs": [
-     "chelsea"
+     "newcastle"
     ],
     "category": "manager",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Jack Rosser",
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "41bbc96a581a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/under-fire-matthias-jaissle-given-34861619",
+    "title": "Under-fire Matthias Jaissle given Newcastle United ultimatum after leadership issue",
+    "ko": "뉴캐슬 야이슬레, 리더십 문제 후 최후통첩",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "5089214aa643",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-discovers-old-eddie-34865542",
+    "title": "Matthias Jaissle discovers old Eddie Howe problem at Newcastle United ahead of 2027 reboot",
+    "ko": "뉴캐슬, 제이슬 감독 체제에서 하우 시절 문제 재확인",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T12:09:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "4f748de6d154",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-live-newcastle-united-34866847",
+    "title": "Matthias Jaissle LIVE - Newcastle United boss on pressure, critics, injuries and Fulham response",
+    "ko": "뉴캐슬 야이슬레 감독, 압박·비판·부상·풀럼전 대응 밝혀",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T13:56:58.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sean McCormick",
     "transfer": null
    }
   ],
   "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.56,
-  "topTier": 4,
+  "sourceCount": 5,
+  "score": 0.49,
+  "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-05T12:26:53.000Z",
-   "viaQuote": false
+   "name": "스카이 스포츠",
+   "at": "2026-11-02T22:04:11.000Z",
+   "viaQuote": true
   },
-  "headline": "‘I’m not a joke’ – Liam Rosenior claims Chelsea axe had ‘nothing to do with football’ having been sacked after 107 days"
+  "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
  },
  {
   "slug": "man-utd-affairs-ownership",
   "mode": "llm",
   "titleKo": "맨유 구단주 지분 매각 논란",
   "createdAt": "2026-11-03T13:04:39.000Z",
-  "updatedAt": "2026-11-05T12:22:25.000Z",
+  "updatedAt": "2026-11-05T13:51:30.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -4103,11 +3313,67 @@
     "playerTags": [],
     "author": "Danny Rust",
     "transfer": null
+   },
+   {
+    "id": "dbe5a387f1f0",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/avram-glazers-tone-deaf-comments-34866115",
+    "title": "Avram Glazer's tone-deaf comments will only help Manchester United fans' push for change",
+    "ko": "맨유 구단주 아브람 글레이저 발언, 팬 변화 요구에 기름",
+    "source": "men",
+    "publishedAt": "2026-11-05T12:48:23.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "20e639f5de4d",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/david-beckham-man-united-takeover-34865203",
+    "title": "David Beckham's true feelings on Man United takeover as club legend given backing for huge move",
+    "ko": "베컴, 맨유 인수 관련 속내 전해져",
+    "source": "men",
+    "publishedAt": "2026-11-05T12:57:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데이비드 베컴"
+    ],
+    "playerTags": [],
+    "author": "Harry Brent",
+    "transfer": null
+   },
+   {
+    "id": "0edd2d74a60a",
+    "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-new-stadium-ratcliffe-37846793",
+    "title": "Ex-Man Utd chairman says fans are right to tell chiefs where to stick new stadium",
+    "ko": "전 맨유 회장 '팬들이 새 경기장에 반대하는 게 옳다'",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T13:51:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null
    }
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 1.68,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4119,867 +3385,14 @@
    "at": "2026-11-02T14:20:55.000Z",
    "viaQuote": false
   },
-  "headline": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman"
- },
- {
-  "slug": "real-madrid-affairs-nadal-appointment",
-  "mode": "llm",
-  "titleKo": "레알 마드리드, 나달 임원 선임",
-  "createdAt": "2026-11-04T11:49:04.000Z",
-  "updatedAt": "2026-11-05T12:18:22.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "나달"
-  ],
-  "sig": [
-   "nadal"
-  ],
-  "articles": [
-   {
-    "id": "ec37d1a42742",
-    "url": "https://as.com/futbol/real-madrid/el-madrid-hace-directivo-a-nadal-f202611-n/",
-    "title": "El Madrid hace directivo a Nadal",
-    "ko": "레알 마드리드, 나달 임원 선임",
-    "source": "as",
-    "publishedAt": "2026-11-04T11:49:04.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "b98cf2b30518",
-    "url": "https://as.com/futbol/primera/nadal-acepto-la-propuesta-con-mucha-ilusion-y-aportar-todo-lo-que-pueda-f202611-n/",
-    "title": "Nadal: “Acepto la propuesta con mucha ilusión y ganas de aportar todo lo que pueda”",
-    "ko": "나달, 스페인축구협회 제안 수락 \"최선을 다하겠다\"",
-    "source": "as",
-    "publishedAt": "2026-11-04T12:13:29.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "As.com As.com",
-    "transfer": null
-   },
-   {
-    "id": "54ee05c7e5a1",
-    "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-    "title": "Nadal set to join Real Madrid board of directors",
-    "ko": "나달, 레알 마드리드 이사회 합류 임박",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T13:21:01.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "41adc8ae6612",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-propose-la-nomination-de-rafael-nadal-au-sein-de-son-conseil-d-administration/1741056#at_medium=RSS_feeds",
-    "title": "Le Real propose la nomination de Rafael Nadal au sein de son conseil d'administration",
-    "ko": "레알, 나달 이사회 합류 제안",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T13:22:25.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vincent Villa",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "a055464f05c9",
-    "url": "https://as.com/futbol/videos/el-gesto-de-mourinho-sobre-nadal-y-su-inclusion-en-la-junta-que-va-a-poner-la-piel-de-gallina-al-madridismo-f202611-v/",
-    "title": "El gesto de Mourinho sobre Nadal y su inclusión en la Junta que va a poner la piel de gallina al madridismo",
-    "ko": "무리뉴, 나달의 레알 마드리드 이사회 합류에 보인 반응",
-    "source": "as",
-    "publishedAt": "2026-11-04T20:30:06.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "나달"
-    ],
-    "playerTags": [],
-    "author": "AStv",
-    "transfer": null
-   },
-   {
-    "id": "e0795048ecf1",
-    "url": "https://as.com/futbol/primera/el-acuerdo-con-nadal-estaba-cerrado-desde-antes-del-clasico-y-solo-lo-conocian-cuatro-f202611-n/",
-    "title": "El acuerdo con Nadal estaba cerrado desde antes del Clásico y solo lo conocían cuatro",
-    "ko": "나달 임원 선임 합의, 클래식 전부터 이미 결정돼 있었다",
-    "source": "as",
-    "publishedAt": "2026-11-05T12:18:22.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "José Félix Díaz",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 3,
-  "score": 1.81,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-04T11:49:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nadal set to join Real Madrid board of directors"
- },
- {
-  "slug": "derby-manager-future",
-  "mode": "llm",
-  "titleKo": "더비 카운티 유스타스 감독 거취 논란",
-  "createdAt": "2026-11-05T12:17:02.000Z",
-  "updatedAt": "2026-11-05T12:17:02.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "john",
-   "eustace",
-   "derby",
-   "county"
-  ],
-  "articles": [
-   {
-    "id": "0d334f08816c",
-    "url": "https://www.footballinsider247.com/efl-championship-news/sources-john-eustace-expected-to-leave-derby-county-after-talks",
-    "title": "Sources: John Eustace expected to leave Derby County after talks",
-    "ko": "더비 카운티, 존 유스타스 떠날 것으로 전해져",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-05T12:17:02.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.54,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-05T12:17:02.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sources: John Eustace expected to leave Derby County after talks"
- },
- {
-  "slug": "newcastle-manager-future",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 야이슬레 감독 거취 논란",
-  "createdAt": "2026-11-03T07:50:00.000Z",
-  "updatedAt": "2026-11-05T12:09:12.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "everton"
-  ],
-  "players": [
-   "션 스테이어",
-   "엘랑가",
-   "바리",
-   "파비안 셰어",
-   "션 스테우르"
-  ],
-  "sig": [
-   "steur",
-   "matthias",
-   "jaissle"
-  ],
-  "articles": [
-   {
-    "id": "019ff1459e58",
-    "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
-    "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
-    "ko": "뉴캐슬 내부 불만 확산, 에버턴 승리로 자이슬 감독 또 골치",
-    "source": "guardian",
-    "publishedAt": "2026-11-02T22:04:11.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바리"
-    ],
-    "playerTags": [],
-    "author": "Miles Starforth at St James' Park",
-    "transfer": null,
-    "clubs": [
-     "newcastle",
-     "everton"
-    ]
-   },
-   {
-    "id": "eea1440dd780",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-says-newcastle-united-34853455",
-    "title": "Matthias Jaissle says Newcastle United stars IGNORED tactical plan in alarming Press conference",
-    "ko": "야이슬레, 뉴캐슬 선수들이 전술 계획 무시했다고 발언",
-    "source": "chronicle",
-    "publishedAt": "2026-11-02T23:07:24.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "7692e63cc79f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-    "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-    "ko": "뉴캐슬 홈 부진 계속, 야이슬레 감독 고전",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T23:53:46.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "77526a94be9a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/sean-steur-crowd-chant-highlights-34852541",
-    "title": "Sean Steur crowd chant highlights Newcastle decision Matthias Jaissle can no longer shy away from",
-    "ko": "뉴캐슬, 야이슬레 감독 결정 피하기 어려운 상황",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T07:50:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "5acc00adadaf",
-    "url": "https://www.thesun.co.uk/sport/40891432/matthias-jaissle-tactics-note-pitch-newcastle-everton/",
-    "title": "Sky Sports cameras show discarded Newcastle tactics note on pitch as boss Jaissle accuses stars of ‘ignoring’ gameplan",
-    "ko": "뉴캐슬 경기장에 버려진 전술 메모, 야이슬레 감독 선수들 무시 비판",
-    "source": "sun",
-    "publishedAt": "2026-11-03T09:44:53.000Z",
-    "credited": "스카이 스포츠",
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "James Graham",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "7325a0c5cb8a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fabian-schar-dumps-matthias-jaissles-34853509",
-    "title": "Fabian Schar dumps Matthias Jaissle's tactical note as Newcastle United's extreme plan backfires",
-    "ko": "파비안 셰어, 뉴캐슬 전술 메모 무시하며 전술 실패 지적",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T10:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "파비안 셰어"
-    ],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "71728d1ef71d",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-make-firm-matthias-jaissle-sack-call-after-fans-rage-expert",
-    "title": "Newcastle make 'firm' Matthias Jaissle sack call after fans rage - expert",
-    "ko": "뉴캐슬, 야이슬레 경질 요구 쇄도에 감독 교체 검토 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T13:30:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "fd747920caa6",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-clocks-turned-back-mike-34854424",
-    "title": "Newcastle clocks have turned back to Mike Ashley era with sheer dross being served up",
-    "ko": "뉴캐슬, 마이크 애슐리 시대로 회귀한 듯한 부진한 경기력 지적",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T18:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "a9c26c413ed6",
-    "url": "https://www.thesun.co.uk/sport/40905522/newcastle-legend-returns-manager/",
-    "title": "Newcastle legend, 46, returns to former club as new manager after cigar-smoking icon snubbed shock job offer",
-    "ko": "뉴캐슬 레전드, 옛 구단 감독으로 복귀 예정",
-    "source": "sun",
-    "publishedAt": "2026-11-03T22:35:58.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4073ec3cb72c",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/never-thought-would-say-matthias-34855540",
-    "title": "I never thought I would say this about Matthias Jaissle's Newcastle United",
-    "ko": "뉴캐슬 야이슬레 감독 체제 평가 변화 조명",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T07:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stuart Jamieson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4d0c4929449d",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-matthias-jaissle-34858287",
-    "title": "Newcastle United make Matthias Jaissle future decision as PIF face eye-watering bill",
-    "ko": "뉴캐슬, 야이슬레 거취 결정…PIF 막대한 청구서 직면",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T10:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4617c563c7ff",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/pifs-backing-matthias-jaissle-comes-34862835",
-    "title": "Why PIF's backing of Matthias Jaissle comes with an asterisk as Newcastle boss still in danger",
-    "ko": "PIF의 야이슬레 지지에 단서…뉴캐슬 감독 여전히 위기",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "41bbc96a581a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/under-fire-matthias-jaissle-given-34861619",
-    "title": "Under-fire Matthias Jaissle given Newcastle United ultimatum after leadership issue",
-    "ko": "뉴캐슬 야이슬레, 리더십 문제 후 최후통첩",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "5089214aa643",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-discovers-old-eddie-34865542",
-    "title": "Matthias Jaissle discovers old Eddie Howe problem at Newcastle United ahead of 2027 reboot",
-    "ko": "뉴캐슬, 제이슬 감독 체제에서 하우 시절 문제 재확인",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T12:09:12.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 5,
-  "score": 0.61,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스카이 스포츠",
-   "at": "2026-11-02T22:04:11.000Z",
-   "viaQuote": true
-  },
-  "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
- },
- {
-  "slug": "trafford-leeds-transfer",
-  "mode": "llm",
-  "titleKo": "리즈 트래퍼드 영입 위기",
-  "createdAt": "2026-11-05T12:00:00.000Z",
-  "updatedAt": "2026-11-05T12:00:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [],
-  "players": [
-   "제임스 트래퍼드"
-  ],
-  "sig": [
-   "james"
-  ],
-  "articles": [
-   {
-    "id": "9bd947c81cd0",
-    "url": "https://www.footballinsider247.com/leeds-united/leeds-at-risk-of-losing-james-trafford-as-big-problem-emerges-after-man-city-exit-verdict",
-    "title": "Leeds at risk of losing James Trafford as 'big problem' emerges after Man City exit - verdict",
-    "ko": "리즈, 맨시티 이탈 후 제임스 트래퍼드 영입 위기 우려",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-05T12:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "collapsed",
-    "players": [
-     "제임스 트래퍼드"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "제임스 트래퍼드",
-     "from": "맨체스터 시티",
-     "to": "리즈 유나이티드"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.52,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "9bd947c81cd0",
-    "at": "2026-11-05T12:00:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "제임스 트래퍼드",
-   "from": "맨체스터 시티",
-   "to": "리즈 유나이티드"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-05T12:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Leeds at risk of losing James Trafford as 'big problem' emerges after Man City exit - verdict"
- },
- {
-  "slug": "owono-discipline",
-  "mode": "llm",
-  "titleKo": "오워노 징계 8~12경기 출장정지 우려",
-  "createdAt": "2026-11-03T10:38:18.000Z",
-  "updatedAt": "2026-11-05T11:56:31.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "오워노",
-   "호아킨 오워노",
-   "헤수스 데 미겔",
-   "미셸 오워노",
-   "헤수스 오워노"
-  ],
-  "sig": [
-   "jesús",
-   "owono",
-   "andorra"
-  ],
-  "articles": [
-   {
-    "id": "0a1e2ff70fd3",
-    "url": "https://as.com/futbol/segunda/owono-cierra-sus-redes-sociales-f202611-n/",
-    "title": "Owono cierra sus redes sociales",
-    "ko": "오워노, SNS 계정 폐쇄",
-    "source": "as",
-    "publishedAt": "2026-11-03T10:07:04.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "b8538bbaad85",
-    "url": "https://as.com/futbol/segunda/owono-podria-ser-sancionado-con-entre-ocho-y-12-partidos-f202611-n/",
-    "title": "Owono podría ser sancionado con entre ocho y 12 partidos",
-    "ko": "오워노, 8~12경기 출장정지 가능성",
-    "source": "as",
-    "publishedAt": "2026-11-03T10:38:18.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "a0fa2a5e6e7d",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/o-castigo-que-owono-pode-ter-de-cumprir-pela-entrada-que-levou-a-morte-de-jesus-de-miguel",
-    "title": "O castigo que Owono pode ter de cumprir pela entrada que levou à morte de Jesús de Miguel",
-    "ko": "오워노, 데 미겔 사망 부른 태클로 징계 받을 수도",
-    "source": "record",
-    "publishedAt": "2026-11-03T11:14:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "5059a10dafd6",
-    "url": "https://as.com/futbol/segunda/quien-es-jesus-owono-esta-destrozado-y-es-arropado-por-el-andorra-f202611-n/",
-    "title": "Quién es Jesús Owono: está destrozado y es arropado por el Andorra",
-    "ko": "오워노는 누구? 처참한 상태에 안도라가 감싸",
-    "source": "as",
-    "publishedAt": "2026-11-03T11:51:55.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "헤수스 오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "92431479747d",
-    "url": "https://www.lequipe.fr/Football/Actualites/Michel-owono-homonyme-du-gardien-a-l-origine-du-choc-fatal-a-jesus-de-miguel-denonce-le-harcelement-en-ligne-qui-le-vise/1740826#at_medium=RSS_feeds",
-    "title": "Michel Owono, homonyme du gardien à l'origine du choc fatal à Jesus de Miguel, dénonce le harcèlement en ligne qui le vise",
-    "ko": "데 미겔 사망 사고 속 동명이인 오워노, 온라인 괴롭힘 고발",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T15:40:13.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "미셸 오워노"
-    ],
-    "playerTags": [],
-    "author": "Arthur Verdelet",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "0e7088ddd8b8",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/jurista-admite-ser-dificil-culpar-jesus-owono-pela-morte-de-jesus-de-miguel",
-    "title": "Jurista admite ser difícil culpar Jesús Owono pela morte de Jesús de Miguel",
-    "ko": "법률 전문가, 오워노를 데 미겔 사망 책임으로 묻기 어렵다고 인정",
-    "source": "record",
-    "publishedAt": "2026-11-03T17:55:46.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "d986092c4845",
-    "url": "https://as.com/futbol/segunda/un-jugador-del-andorra-se-rompe-el-futbol-deja-de-tener-sentido-f202611-n/",
-    "title": "Carta de defensa a Owono: “Jamás haría daño a nadie”",
-    "ko": "오워노 변호 서한 공개…“절대 누구도 해치지 않아”",
-    "source": "as",
-    "publishedAt": "2026-11-04T09:15:53.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Amalia Fra",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "f3077cb003cd",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-    "title": "Keeper Owono 'would never intentionally hurt anyone'",
-    "ko": "오워노 골키퍼 \"고의로 누구도 해칠 생각 없었다\"",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T11:40:57.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "aa88627b4eab",
-    "url": "https://as.com/futbol/primera/owono-es-muy-buena-persona-si-lo-conocieran-f202611-n/",
-    "title": "“Owono es muy buena persona, si lo conocieran...”",
-    "ko": "\"오워노는 정말 좋은 사람\"…징계 우려 속 옹호 목소리",
-    "source": "as",
-    "publishedAt": "2026-11-04T12:47:37.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Jorge Cabrera",
-    "transfer": null
-   },
-   {
-    "id": "f08742cda7f8",
-    "url": "https://www.kicker.de/niemals-die-absicht-jemandem-zu-schaden-teamkollege-nimmt-owono-in-schutz-1268487/artikel#omrss",
-    "title": "\"Niemals die Absicht, jemandem zu schaden\": Teamkollege nimmt Owono in Schutz",
-    "ko": "팀 동료, 오워노 감싸…\"해칠 의도 전혀 없었다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T12:59:11.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "3be4488d621c",
-    "url": "https://as.com/futbol/segunda/owono-estan-siendo-los-dias-mas-dificiles-de-mi-vida-f202611-n/",
-    "title": "Owono: “Están siendo los días más difíciles de mi vida”",
-    "ko": "오워노, \"인생에서 가장 힘든 날들\" 심경 토로",
-    "source": "as",
-    "publishedAt": "2026-11-04T15:47:49.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null
-   },
-   {
-    "id": "34ccd7523c3e",
-    "url": "https://as.com/futbol/segunda/owono-no-debe-sentirse-culpable-porque-ha-sido-un-accidente-f202611-n/",
-    "title": "“Owono no debe sentirse culpable porque ha sido un accidente”",
-    "ko": "오워노, 사고였다며 죄책감 가질 필요 없다는 반응",
-    "source": "as",
-    "publishedAt": "2026-11-05T05:35:39.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "David Alonso",
-    "transfer": null
-   },
-   {
-    "id": "cf758a3bef85",
-    "url": "https://www.marca.com/futbol/sevilla/2026/11/05/garcia-plaza-acuerda-owono-hagamos-dos-victimas.html",
-    "title": "García Plaza se acuerda de Owono: \"No hagamos dos víctimas\"",
-    "ko": "가르시아 플라사, 오워노 언급하며 \"두 번째 피해자 만들지 말자\"",
-    "source": "marca",
-    "publishedAt": "2026-11-05T11:38:52.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Rocío Guevara",
-    "transfer": null
-   },
-   {
-    "id": "8b768fc01376",
-    "url": "https://as.com/futbol/primera/luis-garcia-owono-esta-en-un-infierno-y-es-una-persona-espectacular-f202611-n/",
-    "title": "Luis García: “Owono está en un infierno y es una persona espectacular”",
-    "ko": "루이스 가르시아 \"오워노, 지옥에 있지만 대단한 사람\"",
-    "source": "as",
-    "publishedAt": "2026-11-05T11:56:31.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "José A. Espina",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 6,
-  "score": 2.18,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-03T10:07:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Keeper Owono 'would never intentionally hurt anyone'"
+  "headline": "David Beckham's true feelings on Man United takeover as club legend given backing for huge move"
  },
  {
   "slug": "grealish-discipline",
   "mode": "llm",
   "titleKo": "그릴리시 에버턴 징계 후 복귀 여부",
   "createdAt": "2026-11-03T05:59:05.000Z",
-  "updatedAt": "2026-11-05T11:51:51.000Z",
+  "updatedAt": "2026-11-05T13:50:49.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -5360,11 +3773,55 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "07942eb8c62f",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-everton-david-moyes-34866977",
+    "title": "Jack Grealish agreement reached as Everton manager David Moyes told what to do",
+    "ko": "그릴리시 에버턴 합의, 모예스 감독 대응 주목",
+    "source": "lecho",
+    "publishedAt": "2026-11-05T12:52:46.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": {
+     "player": "잭 그릴리시",
+     "from": null,
+     "to": "에버턴"
+    }
+   },
+   {
+    "id": "4e8978f723a6",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/moyes-everton-press-conference-live-34867140",
+    "title": "David Moyes press conference LIVE - Jack Grealish latest, Everton injury news",
+    "ko": "모예스 기자회견 라이브, 그릴리시·에버턴 부상 소식",
+    "source": "lecho",
+    "publishedAt": "2026-11-05T13:50:49.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley, Mark Jones",
+    "transfer": null
    }
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.72,
+  "score": 0.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5377,6 +3834,2650 @@
    "viaQuote": false
   },
   "headline": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?"
+ },
+ {
+  "slug": "kane-contract",
+  "mode": "llm",
+  "titleKo": "케인 바이에른 재계약",
+  "createdAt": "2026-11-03T06:31:00.000Z",
+  "updatedAt": "2026-11-05T13:45:57.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "해리 케인",
+   "케인"
+  ],
+  "sig": [
+   "harry",
+   "kane",
+   "ballon",
+   "vincent",
+   "kompany"
+  ],
+  "articles": [
+   {
+    "id": "56ff7c9fc424",
+    "url": "https://www.lequipe.fr/Football/Video/Bundesliga-kane-a-deux-doigts-de-signer-un-nouveau-contrat-avec-son-club/20244737#at_medium=RSS_feeds",
+    "title": "Kane «à deux doigts» de signer un nouveau contrat avec son club",
+    "ko": "케인, 바이에른과 새 계약 서명 직전",
+    "source": "lequipe",
+    "publishedAt": "2026-11-02T23:33:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "812ae2dff2ad",
+    "url": "https://www.hln.be/champions-league/het-was-een-emotionele-rollercoaster-harry-kane-staat-dicht-bij-nieuw-contract-en-spreekt-over-speciale-periode-met-ballon-dor-en-uitvallen-vincent-kompany~a3425e1e/",
+    "title": "“Het was een emotionele rollercoaster”: Harry Kane staat dicht bij nieuw contract en spreekt over speciale periode met Ballon d’Or en uitvallen Vincent Kompany",
+    "ko": "케인, 바이에른과 새 계약 임박…쿰파니 부상 언급",
+    "source": "hln",
+    "publishedAt": "2026-11-03T06:31:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Redactie",
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "2938999a2d57",
+    "url": "https://www.espn.com/soccer/story/_/id/50360295/harry-kane-hopes-bayern-munich-pass-tough-champions-league-test-madrid",
+    "title": "Kane says new Bayern deal 'extremely close,' will happen in coming days",
+    "ko": "케인, 바이에른과 새 계약 '매우 근접'…수일 내 발표 예고",
+    "source": "espn",
+    "publishedAt": "2026-11-03T13:08:15.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "ESPN News Services",
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "68d98d36db71",
+    "url": "https://www.nytimes.com/athletic/7649297/2026/11/05/harry-kane-bayern-munich-contract/",
+    "title": "Harry Kane signs new Bayern Munich deal to become highest-paid player in Europe",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-05T07:52:58.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "해리 케인",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "18bd7daa576c",
+    "url": "https://www.tz.de/sport/fc-bayern/vertrag-bis-2029-harry-kane-verlaengert-beim-fc-bayern-zr-94574877.html",
+    "title": "Offiziell: Harry Kane verlängert beim FC Bayern – auch letztes Detail geklärt",
+    "ko": "공식 발표: 케인, 바이에른과 재계약 완료",
+    "source": "tz",
+    "publishedAt": "2026-11-05T08:02:09.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Adrian Rehling",
+    "transfer": {
+     "player": "해리 케인",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "6008d8e9af45",
+    "url": "https://www.kicker.de/er-loest-jedes-versprechen-ein-kane-verlaengert-bei-bayern-1242507/artikel#omrss",
+    "title": "\"Er löst jedes Versprechen ein\": Kane verlängert bei Bayern",
+    "ko": "\"모든 약속 지킨다\"…케인, 바이에른 재계약",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T08:03:49.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "해리 케인",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "a60528da8e8e",
+    "url": "https://www.thesun.co.uk/sport/40922744/harry-kane-new-bayern-munich-contract-ballon-dor/",
+    "title": "Harry Kane becomes highest paid player in EUROPE as he signs new Bayern Munich contract days after winning Ballon d’Or",
+    "ko": "케인, 바이에른과 재계약하며 유럽 최고 연봉 선수로",
+    "source": "sun",
+    "publishedAt": "2026-11-05T08:06:37.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Chisanga Malata",
+    "transfer": {
+     "player": "해리 케인",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "465240060f0a",
+    "url": "https://www.hln.be/bundesliga/de-ballon-dor-blijft-langer-in-munchen-harry-kane-verlengt-tot-2029-bij-bayern~a77aa373/",
+    "title": "De Ballon d’Or blijft langer in München: Harry Kane verlengt tot 2029 bij Bayern",
+    "ko": "케인, 2029년까지 바이에른 재계약…발롱도르 이후 잔류",
+    "source": "hln",
+    "publishedAt": "2026-11-05T08:09:04.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Redactie",
+    "transfer": {
+     "player": "해리 케인",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "78a820235692",
+    "url": "https://www.skysports.com/football/news/12040/13608255/harry-kane-england-captain-signs-new-contract-at-bayern-munich-running-until-2029",
+    "title": "Ballon d'Or winner Kane signs new Bayern deal",
+    "ko": "발롱도르 수상자 케인, 바이에른과 새 계약",
+    "source": "sky",
+    "publishedAt": "2026-11-05T08:13:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e649486adb4a",
+    "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
+    "title": "Transfer Centre LIVE! Kane signs 'most lucrative deal in Bayern history'",
+    "ko": "케인, 바이에른 역사상 가장 수익성 높은 계약 체결",
+    "source": "sky",
+    "publishedAt": "2026-11-05T08:16:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "16b50948d120",
+    "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-bayern-munich-contract-37844927",
+    "title": "Harry Kane becomes Europe's highest-paid player as he signs new Bayern Munich contract",
+    "ko": "케인, 바이에른과 재계약…유럽 최고 연봉 선수로",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T08:19:44.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Nathan Ridley",
+    "transfer": null
+   },
+   {
+    "id": "4b0df3e71015",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-ballon-d-or-harry-kane-prolonge-au-bayern-munich-jusqu-en-2029/1741274#at_medium=RSS_feeds",
+    "title": "Le Ballon d'Or Harry Kane prolonge au Bayern Munich jusqu'en 2029",
+    "ko": "케인, 바이에른 뮌헨과 2029년까지 재계약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-05T08:25:04.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Julie Vimond",
+    "transfer": null
+   },
+   {
+    "id": "3834ff602dff",
+    "url": "https://www.nytimes.com/athletic/7752682/2026/11/05/harry-kane-bayern-contract-data/",
+    "title": "How Harry Kane proved he is worth his new record-breaking Bayern Munich contract",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-05T08:30:09.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f67e6d63e7ff",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmjweqpv8vj1o?at_medium=RSS&at_campaign=rss",
+    "title": "England captain Kane signs new Bayern contract",
+    "ko": "케인, 바이에른과 새 계약 체결",
+    "source": "bbc",
+    "publishedAt": "2026-11-05T08:39:18.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7ce39a5af1e6",
+    "url": "https://www.theguardian.com/football/2026/nov/05/ballon-dor-winner-harry-kane-signs-new-contract-with-bayern-munich-2029",
+    "title": "Ballon d’Or winner Harry Kane signs new contract with Bayern through to 2029",
+    "ko": "케인, 바이에른과 2029년까지 재계약 체결",
+    "source": "guardian",
+    "publishedAt": "2026-11-05T08:43:01.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Guardian sport and agencies",
+    "transfer": {
+     "player": "해리 케인",
+     "from": null,
+     "to": null
+    }
+   },
+   {
+    "id": "f5257683fdcd",
+    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/harry-kane-renova-ate-2029-e-fica-com-o-maior-contrato-da-historia-do-bayern",
+    "title": "Harry Kane renova até 2029 e fica com o maior contrato da história do Bayern",
+    "ko": "케인, 2029년까지 바이에른 재계약…구단 역대 최고 계약",
+    "source": "record",
+    "publishedAt": "2026-11-05T09:12:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dc2c3968fc96",
+    "url": "https://www.dailystar.co.uk/sport/football/harry-kane-contract-highest-paid-37845108",
+    "title": "Harry Kane signs mega Bayern contract to become Europe's highest-paid footballer",
+    "ko": "케인, 바이에른과 대형 재계약…유럽 최고 연봉 선수 등극",
+    "source": "star",
+    "publishedAt": "2026-11-05T09:13:34.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Nathan Ridley, Cameron Winstanley",
+    "transfer": null
+   },
+   {
+    "id": "c49c7eee017a",
+    "url": "https://www.kicker.de/war-das-kanes-schoenstes-tor-fuer-bayern-1268814/video#omrss",
+    "title": "War das Kanes schönstes Tor für Bayern?",
+    "ko": "케인, 바이에른 최고의 골 중 하나였나?",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T09:36:14.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "56c5a9f005dd",
+    "url": "https://www.tz.de/sport/fc-bayern/bayern-bosse-griffen-bei-kane-verlaengerung-zu-drastischer-massnahme-94575201.html",
+    "title": "Bayern-Bosse griffen bei Verlängerung von Kane zu drastischer Maßnahme",
+    "ko": "바이에른 수뇌부, 케인 재계약에 강수 카드",
+    "source": "tz",
+    "publishedAt": "2026-11-05T10:07:56.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Manuel Bonke, Philipp Kessler",
+    "transfer": null
+   },
+   {
+    "id": "e70a600a875c",
+    "url": "https://www.kicker.de/bayern-macht-kane-zum-bestbezahlten-spieler-europas-zu-recht-1268834/artikel#omrss",
+    "title": "Bayern macht Kane zum bestbezahlten Spieler Europas - zu Recht?",
+    "ko": "바이에른, 케인을 유럽 최고 연봉 선수로 만들어…정당할까",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T10:25:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f42ba6ad76a1",
+    "url": "https://www.tz.de/sport/fc-bayern/harry-kane-fc-bayern-rekorde-und-der-unfall-seiner-kinder-94575469.html",
+    "title": "Kanes Zeit in München: Eine strahlende Erfolgsgeschichte – und eine Katastrophe",
+    "ko": "케인의 뮌헨 시절, 성공 스토리이자 아픈 결말",
+    "source": "tz",
+    "publishedAt": "2026-11-05T11:39:23.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Sebastian Isbaner",
+    "transfer": null
+   },
+   {
+    "id": "d009f94b1c37",
+    "url": "https://www.nytimes.com/athletic/7683468/2026/11/05/alan-shearer-premier-league-goals-kane-haaland/",
+    "title": "Does Harry Kane's new Bayern contract mean Alan Shearer's Premier League goals record is safe?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-05T12:00:52.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "958958838ca4",
+    "url": "https://www.tz.de/sport/fc-bayern/harry-kane-familie-reagiert-auf-bayern-verlaengerung-bis-2029-94575645.html",
+    "title": "Bayern-Verlängerung: Harry Kane teilt Reaktion seiner Familie",
+    "ko": "케인 바이에른 재계약 소식에 가족 반응 공개",
+    "source": "tz",
+    "publishedAt": "2026-11-05T12:49:36.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Florian Puth",
+    "transfer": {
+     "player": "해리 케인",
+     "from": null,
+     "to": null
+    }
+   },
+   {
+    "id": "dd0e96c9c910",
+    "url": "https://www.kicker.de/dreesen-ueber-kane-wer-weiss-was-dann-in-2029-ist-1268840/artikel#omrss",
+    "title": "Dreesen über Kane: \"Wer weiß, was dann in 2029 ist …\"",
+    "ko": "드레젠, 케인의 2029년 이후 상황 언급",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T12:54:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "abc3f24e73c7",
+    "url": "https://www.tz.de/sport/fc-bayern/kane-vertragsverlaengerung-als-bewusstes-signal-an-die-fussballwelt-94575798.html",
+    "title": "Kane-Vertragsverlängerung als bewusstes Signal an die Fußballwelt",
+    "ko": "케인 바이에른 재계약, 축구계에 보내는 신호",
+    "source": "tz",
+    "publishedAt": "2026-11-05T13:45:57.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Vinzent Tschirpke",
+    "transfer": null
+   }
+  ],
+  "recentSources": 12,
+  "sourceCount": 13,
+  "score": 7.73,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "harry-kane"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-02T23:33:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Does Harry Kane's new Bayern contract mean Alan Shearer's Premier League goals record is safe?",
+  "aliases": [
+   "kane-bayern-contract"
+  ]
+ },
+ {
+  "slug": "auxerre-paris-fc-2026-11-07",
+  "mode": "llm",
+  "titleKo": "오세르 대 파리 FC 리그1 경기 시간 변경",
+  "createdAt": "2026-11-04T12:17:57.000Z",
+  "updatedAt": "2026-11-05T13:42:11.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "ligue"
+  ],
+  "articles": [
+   {
+    "id": "fd9085d54dca",
+    "url": "https://www.lequipe.fr/Football/Actualites/Auxerre-paris-fc-aura-lieu-a-19-heures-au-lieu-de-17-h-15-ce-samedi-en-ligue-1/1741037#at_medium=RSS_feeds",
+    "title": "Auxerre-Paris FC aura lieu à 19 heures, au lieu de 17 h 15, ce samedi en Ligue 1",
+    "ko": "오세르 대 파리 FC 경기 시간 변경",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T12:17:57.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Luc Hagège",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "8ea8189668ad",
+    "url": "https://www.lequipe.fr/Football/Actualites/Remy-labeau-lascary-de-retour-axel-tuanzebe-incertain-lamfia-dioubate-suspendu-avec-auxerre-contre-le-paris-fc-en-ligue-1/1741346#at_medium=RSS_feeds",
+    "title": "Rémy Labeau-Lascary de retour, Axel Tuanzebe incertain, Lamfia Dioubaté suspendu avec Auxerre contre le Paris FC en Ligue 1",
+    "ko": "오세르 대 파리FC 리그1 라인업 체크",
+    "source": "lequipe",
+    "publishedAt": "2026-11-05T13:42:11.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Luc Hagège",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.85,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-04T12:17:57.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rémy Labeau-Lascary de retour, Axel Tuanzebe incertain, Lamfia Dioubaté suspendu avec Auxerre contre le Paris FC en Ligue 1"
+ },
+ {
+  "slug": "rosenior-chelsea-manager-future",
+  "mode": "llm",
+  "titleKo": "로즈니어 첼시 경질 논란",
+  "createdAt": "2026-11-05T12:26:53.000Z",
+  "updatedAt": "2026-11-05T13:36:20.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "알레한드로 가르나초"
+  ],
+  "sig": [
+   "liam",
+   "rosenior"
+  ],
+  "articles": [
+   {
+    "id": "f3a4db8e10b3",
+    "url": "https://www.thesun.co.uk/sport/40925680/liam-rosenior-chelsea-sacking-paris-fc/",
+    "title": "‘I’m not a joke’ – Liam Rosenior claims Chelsea axe had ‘nothing to do with football’ having been sacked after 107 days",
+    "ko": "로즈니어, 107일 만의 첼시 경질에 \"축구와 무관\" 주장",
+    "source": "sun",
+    "publishedAt": "2026-11-05T12:26:53.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Rosser",
+    "transfer": null
+   },
+   {
+    "id": "296a4eb8219b",
+    "url": "https://www.football.london/chelsea-fc/news/liam-rosenior-chelsea-alejandro-garnacho-34866867",
+    "title": "Liam Rosenior singles out Alejandro Garnacho incident as he speaks mind on Chelsea sacking",
+    "ko": "로지니어, 첼시 경질 언급하며 가르나초 사건 거론",
+    "source": "fblondon",
+    "publishedAt": "2026-11-05T13:36:20.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "알레한드로 가르나초"
+    ],
+    "playerTags": [
+     "alejandro-garnacho"
+    ],
+    "author": "Mark Wakefield",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.26,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "alejandro-garnacho"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T12:26:53.000Z",
+   "viaQuote": false
+  },
+  "headline": "Liam Rosenior singles out Alejandro Garnacho incident as he speaks mind on Chelsea sacking"
+ },
+ {
+  "slug": "jesus-ronaldo-relationship",
+  "mode": "llm",
+  "titleKo": "제수스·호날두 충돌 논란",
+  "createdAt": "2026-11-05T11:37:35.000Z",
+  "updatedAt": "2026-11-05T13:32:02.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "호날두",
+   "크리스티아누 호날두"
+  ],
+  "sig": [
+   "portugal",
+   "jorge",
+   "jesus",
+   "cristiano",
+   "ronaldo"
+  ],
+  "articles": [
+   {
+    "id": "76c0d575c5f4",
+    "url": "https://www.thesun.co.uk/sport/40924587/portugal-head-coach-jorge-jesus-cristiano-ronaldo/",
+    "title": "Who is Portugal head coach Jorge Jesus and what was his bust up with Cristiano Ronaldo?",
+    "ko": "포르투갈 감독 조르제 제수스는 누구이며 호날두와는 왜 충돌했나",
+    "source": "sun",
+    "publishedAt": "2026-11-05T11:37:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Daniel Nuttman",
+    "transfer": null
+   },
+   {
+    "id": "26ca85d34da0",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/cristiano-ronaldo-sem-conversas-com-jorge-jesus",
+    "title": "Cristiano Ronaldo sem conversas com Jorge Jesus",
+    "ko": "호날두, 조르즈 제수스와 대화 없어",
+    "source": "record",
+    "publishedAt": "2026-11-05T11:43:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c7d6225c647a",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/vitor-pinto-e-o-adeus-de-cristiano-ronaldo-a-selecao-era-mesmo-irreparavel-a-relacao-com-jorge-jesus",
+    "title": "Vítor Pinto e o adeus de Cristiano Ronaldo à Seleção: «Era mesmo irreparável a relação com Jorge Jesus»",
+    "ko": "호날두 대표팀 작별, 조르즈 제수스와 관계 회고",
+    "source": "record",
+    "publishedAt": "2026-11-05T13:27:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dd2e02ac7c18",
+    "url": "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-retires-international-football-career-portugal",
+    "title": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
+    "ko": "호날두, 떠나지 못한 위대한 선수들의 사례 돼",
+    "source": "guardian",
+    "publishedAt": "2026-11-05T13:32:02.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Jonathan Wilson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 3.49,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cristiano-ronaldo"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T11:37:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson"
+ },
+ {
+  "slug": "lens-como-2026-11-04",
+  "mode": "llm",
+  "titleKo": "렌스 대 콤 유스리그 경기",
+  "createdAt": "2026-11-04T15:30:18.000Z",
+  "updatedAt": "2026-11-05T13:26:44.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "타종 하자드",
+   "맥상스 카케레",
+   "세스크 파브레가스",
+   "토르간 아자르",
+   "미셸 퀴상스",
+   "니코 파스",
+   "헤수스 데 미겔"
+  ],
+  "sig": [
+   "u19",
+   "lens",
+   "côme",
+   "youth"
+  ],
+  "articles": [
+   {
+    "id": "53168f9e2e24",
+    "url": "https://www.lequipe.fr/Football/Actualites/Sur-leur-terrain-les-u19-de-lens-s-imposent-face-a-come-en-youth-league/1741097#at_medium=RSS_feeds",
+    "title": "Sur leur terrain, les U19 de Lens s'imposent face à Côme en Youth League",
+    "ko": "렌스 U19, 홈에서 콤 꺾고 유스리그 승리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T15:30:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": null
+   },
+   {
+    "id": "5ec7490ad249",
+    "url": "https://www.lequipe.fr/Football/Actualites/Thorgan-hazard-aligne-d-entree-maxence-caqueret-aussi-les-compositions-de-lens-come-en-ligue-des-champions/1741183#at_medium=RSS_feeds",
+    "title": "Thorgan Hazard aligné d'entrée, Maxence Caqueret aussi : les compositions de Lens - Côme en Ligue des champions",
+    "ko": "렌스-콤 챔피언스리그 선발 라인업 발표, 타종 하자드 선발 출전",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T19:16:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "타종 하자드",
+     "맥상스 카케레"
+    ],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "a2bc4a8b664f",
+    "url": "https://as.com/futbol/champions/lens-como-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Lens - Como, en directo: Champions League hoy en vivo",
+    "ko": "랑스 대 코모, 챔피언스리그 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-04T19:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Carretero",
+    "transfer": null
+   },
+   {
+    "id": "43f36e8eebeb",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/lens-como-1907-em-direto",
+    "title": "Lens-Como 1907, em direto",
+    "ko": "렌스 대 콤 라이브 중계",
+    "source": "record",
+    "publishedAt": "2026-11-04T21:31:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "035501325993",
+    "url": "https://www.lequipe.fr/Football/Actualites/Face-a-un-come-fantastique-lens-essuie-la-plus-grosse-defaite-de-l-histoire-du-foot-francais-en-coupe-d-europe/1741218#at_medium=RSS_feeds",
+    "title": "Face à un Côme fantastique, Lens essuie la plus grosse défaite de l'histoire du foot français en Coupe d'Europe",
+    "ko": "렌스, 콤전 대패…프랑스 축구 유럽대항전 사상 최다 패배",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T21:55:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "8320e8ac36c4",
+    "url": "https://www.hln.be/champions-league-en-europa-league/thorgan-hazard-krijgt-er-maar-liefst-negen-om-de-oren-stuntploeg-como-evenaart-grootste-zege-ooit-in-champions-league~a301dbaaa/",
+    "title": "Thorgan Hazard krijgt er maar liefst negen om de oren: stuntploeg Como evenaart grootste zege ooit in Champions League",
+    "ko": "코모, 챔피언스리그 최다 득점 타이 대승…티칼 헤이즐 아쉬움",
+    "source": "hln",
+    "publishedAt": "2026-11-04T22:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "토르간 아자르"
+    ],
+    "playerTags": [],
+    "author": "Emma Van Avermaet",
+    "transfer": null
+   },
+   {
+    "id": "9810783bf77a",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/tem-90-segundos-livres-entao-veja-aqui-os-9-golos-que-o-como-1907-marcou-ao-lens",
+    "title": "Tem 90 segundos livres? Então veja aqui os 9 golos que o Como 1907 marcou ao Lens",
+    "ko": "코모, 렌스전 9골 폭발한 장면 짧게 정리",
+    "source": "record",
+    "publishedAt": "2026-11-04T22:04:56.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3d3abd20511e",
+    "url": "https://www.lequipe.fr/Football/Actualites/Michael-cuisance-apres-la-lourde-defaite-de-lens-contre-come-ce-n-est-pas-une-defaite-c-est-une-lecon/1741227#at_medium=RSS_feeds",
+    "title": "Michaël Cuisance après la lourde défaite de Lens contre Côme : « Ce n'est pas une défaite, c'est une leçon »",
+    "ko": "미셸 퀴상스, 렌스 대패 후 '교훈' 발언",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T22:15:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "미셸 퀴상스"
+    ],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "c4579c99772a",
+    "url": "https://www.nytimes.com/athletic/7754339/2026/11/04/como-champions-league-record-lens/",
+    "title": "Como equal Champions League record win with 9-1 victory against Lens",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-04T22:15:33.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e354989ed888",
+    "url": "https://www.lequipe.fr/Football/Actualites/Lens-n-avait-pas-encaisse-9-buts-depuis-1940-les-chiffres-de-la-debacle-historique-de-lens-contre-come-en-ligue-des-champions/1741228#at_medium=RSS_feeds",
+    "title": "Lens n'avait pas encaissé 9 buts depuis 1940 : les chiffres de la débâcle historique de Lens contre Côme en Ligue des champions",
+    "ko": "렌스, 코모전 대패로 1940년 이후 최다 실점 기록",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T22:22:43.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "fb6bdaf36548",
+    "url": "https://as.com/futbol/videos/vean-en-120-como-ha-hecho-historia-el-como-de-cesc-en-lens-nunca-habia-sucedido-f202611-v/",
+    "title": "Vean en 120″ cómo ha hecho historia el Como de Cesc en Lens: nunca había sucedido",
+    "ko": "코모, 렌스 원정서 역사적 대승 기록 조명",
+    "source": "as",
+    "publishedAt": "2026-11-04T22:25:48.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "세스크 파브레가스"
+    ],
+    "playerTags": [],
+    "author": "Movistar +",
+    "transfer": null
+   },
+   {
+    "id": "d98908f20dbe",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lens-come-les-cancres-lensois-le-maitre-nico-paz/1741236#at_medium=RSS_feeds",
+    "title": "Les notes de Lens-Côme : les cancres lensois, le maître Nico Paz",
+    "ko": "렌스 대 콤 평점: 렌스 부진, 니코 파스 돋보여",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T22:57:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "니코 파스"
+    ],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "d97cc6544c42",
+    "url": "https://www.lequipe.fr/Football/Actualites/Come-est-devenue-la-premiere-equipe-a-voir-onze-joueurs-decisifs-lors-d-un-match-de-ligue-des-champions/1741244#at_medium=RSS_feeds",
+    "title": "Côme est devenue contre Lens la première équipe à compter onze joueurs décisifs lors d'un match de Ligue des champions",
+    "ko": "코모, 챔피언스리그 최초로 11명 모두 결정적 기여",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T23:20:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "da55dedd8af6",
+    "url": "https://www.lequipe.fr/Football/Article/Comment-ont-ils-pu-etre-aussi-mauvais-avec-le-ballon-aussi-poreux-aussi-nuls-de-plus-en-plus-nuls-au-fil-du-match-les-joueurs-lensois-ont-fait-honte-a-bollaert/1741252#at_medium=RSS_feeds",
+    "title": "Comment Lens a-t-il pu être aussi nul, et de plus en plus nul ?",
+    "ko": "렌스는 어떻게 이렇게 무기력했나, 갈수록 더 못하다",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T23:37:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "12207c771fb3",
+    "url": "https://www.hln.be/champions-league-en-europa-league/bewogen-moment-tijdens-1-9-van-como-tegen-lens-nico-paz-draagt-doelpunt-op-aan-overleden-jesus-de-miguel~a301dbaaa/",
+    "title": "Bewogen moment tijdens 1-9 van Como tegen Lens: Nico Paz draagt doelpunt op aan overleden Jesús de Miguel",
+    "ko": "코모 대 렌스 9골 난타전 속 니코 파스, 고 데 미겔 추모 득점",
+    "source": "hln",
+    "publishedAt": "2026-11-05T05:24:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "니코 파스",
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Emma Van Avermaet",
+    "transfer": null
+   },
+   {
+    "id": "cba846fa37ae",
+    "url": "https://www.lequipe.fr/Football/Actualites/-comosutra-epicomo-le-show-fabregas-la-demonstration-de-come-a-lens-en-ligue-des-champions-saluee-par-la-presse-italienne/1741337#at_medium=RSS_feeds",
+    "title": "« Comosutra », « Epicomo », « Le show Fabregas » : la démonstration de Côme à Lens en Ligue des champions saluée par la presse italienne",
+    "ko": "코모, 렌스전 챔피언스리그 승리 이탈리아 언론 호평",
+    "source": "lequipe",
+    "publishedAt": "2026-11-05T13:26:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Florian Decloquement",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 5,
+  "score": 2.03,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-04T15:30:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Como equal Champions League record win with 9-1 victory against Lens"
+ },
+ {
+  "slug": "bassey-man-utd-transfer",
+  "mode": "llm",
+  "titleKo": "칼빈 바시 맨유 이적 제안",
+  "createdAt": "2026-11-05T13:03:23.000Z",
+  "updatedAt": "2026-11-05T13:03:23.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "칼빈 바시"
+  ],
+  "sig": [
+   "bassey"
+  ],
+  "articles": [
+   {
+    "id": "f5ba3cee7f32",
+    "url": "https://www.footballinsider247.com/manchester-united/calvin-bassey-tempted-to-accept-man-united-offer-transfer-expert",
+    "title": "Calvin Bassey 'tempted' to accept Man United offer - Transfer expert",
+    "ko": "바시, 맨유 제안 수락 고민 중이라는 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T13:03:23.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "칼빈 바시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "칼빈 바시",
+     "from": null,
+     "to": "맨유"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.49,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "f5ba3cee7f32",
+    "at": "2026-11-05T13:03:23.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "칼빈 바시",
+   "from": null,
+   "to": "맨유"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-05T13:03:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Calvin Bassey 'tempted' to accept Man United offer - Transfer expert"
+ },
+ {
+  "slug": "sangare-frankfurt-transfer",
+  "mode": "llm",
+  "titleKo": "상가레 프랑크푸르트 이적 관심",
+  "createdAt": "2026-11-05T12:58:43.000Z",
+  "updatedAt": "2026-11-05T12:58:43.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "부바 상가레"
+  ],
+  "sig": [
+   "eintracht",
+   "frankfurt",
+   "buba",
+   "sangaré"
+  ],
+  "articles": [
+   {
+    "id": "3a051c759233",
+    "url": "https://www.marca.com/futbol/elche/2026/11/05/eintracht-frankfurt-interesa-buba-sangare.html",
+    "title": "El Eintracht de Frankfurt se interesa por Buba Sangaré",
+    "ko": "프랑크푸르트, 상가레 영입에 관심",
+    "source": "marca",
+    "publishedAt": "2026-11-05T12:58:43.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "부바 상가레"
+    ],
+    "playerTags": [],
+    "author": "PABLO LÓPEZ RIQUELME",
+    "transfer": {
+     "player": "부바 상가레",
+     "from": null,
+     "to": "프랑크푸르트"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.63,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "3a051c759233",
+    "at": "2026-11-05T12:58:43.000Z",
+    "source": "marca",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "부바 상가레",
+   "from": null,
+   "to": "프랑크푸르트"
+  },
+  "firstReport": {
+   "name": "마르카",
+   "source": "marca",
+   "at": "2026-11-05T12:58:43.000Z",
+   "viaQuote": false
+  },
+  "headline": "El Eintracht de Frankfurt se interesa por Buba Sangaré"
+ },
+ {
+  "slug": "barcola-liverpool-transfer",
+  "mode": "llm",
+  "titleKo": "리버풀 바르콜라 영입 고민",
+  "createdAt": "2026-11-05T12:50:13.000Z",
+  "updatedAt": "2026-11-05T12:50:13.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [
+   "브래들리 바르콜라"
+  ],
+  "sig": [
+   "iraola",
+   "bradley",
+   "barcola"
+  ],
+  "articles": [
+   {
+    "id": "8fc50fe7d984",
+    "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-bradley-barcola-liverpool-37845812",
+    "title": "Andoni Iraola's failed Bradley Barcola experiment leaves Liverpool with £123m dilemma",
+    "ko": "이라올라, 바르콜라 실험 실패…리버풀 1억 2300만 파운드 고민",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T12:50:13.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "브래들리 바르콜라"
+    ],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": {
+     "player": "브래들리 바르콜라",
+     "from": null,
+     "to": "리버풀"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.48,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "8fc50fe7d984",
+    "at": "2026-11-05T12:50:13.000Z",
+    "source": "mirror",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "브래들리 바르콜라",
+   "from": null,
+   "to": "리버풀"
+  },
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-05T12:50:13.000Z",
+   "viaQuote": false
+  },
+  "headline": "Andoni Iraola's failed Bradley Barcola experiment leaves Liverpool with £123m dilemma"
+ },
+ {
+  "slug": "vermeeren-injury",
+  "mode": "llm",
+  "titleKo": "페르메렌 발목 부상 우려",
+  "createdAt": "2026-11-05T12:46:09.000Z",
+  "updatedAt": "2026-11-05T12:46:09.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "아르튀르 페르메렌"
+  ],
+  "sig": [
+   "antwerp",
+   "arthur",
+   "vermeeren",
+   "lommel"
+  ],
+  "articles": [
+   {
+    "id": "579e8dbab5ec",
+    "url": "https://www.hln.be/antwerp/streep-door-de-rekening-voor-antwerp-arthur-vermeeren-onzeker-voor-cruciaal-duel-tegen-lommel-met-enkelblessure~ab87d11b/",
+    "title": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure",
+    "ko": "안트베르펜 아르튀르 페르메렌, 롬멜전 발목 부상으로 출전 불투명",
+    "source": "hln",
+    "publishedAt": "2026-11-05T12:46:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "아르튀르 페르메렌"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.94,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-05T12:46:09.000Z",
+   "viaQuote": false
+  },
+  "headline": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure"
+ },
+ {
+  "slug": "alexander-arnold-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "첼시 알렉산더아놀드 영입 관심",
+  "createdAt": "2026-11-05T12:44:00.000Z",
+  "updatedAt": "2026-11-05T12:44:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "트렌트 알렉산더아놀드"
+  ],
+  "sig": [
+   "trent",
+   "alexander",
+   "arnold"
+  ],
+  "articles": [
+   {
+    "id": "9afe59ae59cb",
+    "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-sent-trent-alexander-arnold-34866591",
+    "title": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues",
+    "ko": "첼시, 알렉산더아놀드 영입 지시…레알 마드리드 답답함 지속",
+    "source": "fblondon",
+    "publishedAt": "2026-11-05T12:44:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "트렌트 알렉산더아놀드"
+    ],
+    "playerTags": [
+     "trent-alexander-arnold"
+    ],
+    "author": "Bobby Vincent",
+    "transfer": {
+     "player": "트렌트 알렉산더아놀드",
+     "from": "레알 마드리드",
+     "to": "첼시"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.56,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "9afe59ae59cb",
+    "at": "2026-11-05T12:44:00.000Z",
+    "source": "fblondon",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "trent-alexander-arnold"
+  ],
+  "transfer": {
+   "player": "트렌트 알렉산더아놀드",
+   "from": "레알 마드리드",
+   "to": "첼시"
+  },
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-05T12:44:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues"
+ },
+ {
+  "slug": "alex-scott-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "첼시 알렉스 스콧 영입 관심",
+  "createdAt": "2026-11-05T12:36:51.000Z",
+  "updatedAt": "2026-11-05T12:36:51.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "알렉스 스콧"
+  ],
+  "sig": [
+   "alex",
+   "scott",
+   "blues"
+  ],
+  "articles": [
+   {
+    "id": "d23eea0f6286",
+    "url": "https://www.thesun.co.uk/sport/40924636/chelsea-target-alex-scott-january-transfer/",
+    "title": "Chelsea make £100m Alex Scott top target in January transfer window with Blues unlikely to revisit failed summer deal",
+    "ko": "첼시, 1월 이적시장 알렉스 스콧 1순위…1억 파운드",
+    "source": "sun",
+    "publishedAt": "2026-11-05T12:36:51.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "알렉스 스콧"
+    ],
+    "playerTags": [],
+    "author": "Jack Rosser",
+    "transfer": {
+     "player": "알렉스 스콧",
+     "from": null,
+     "to": "첼시"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.46,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "d23eea0f6286",
+    "at": "2026-11-05T12:36:51.000Z",
+    "source": "sun",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "알렉스 스콧",
+   "from": null,
+   "to": "첼시"
+  },
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T12:36:51.000Z",
+   "viaQuote": false
+  },
+  "headline": "Chelsea make £100m Alex Scott top target in January transfer window with Blues unlikely to revisit failed summer deal"
+ },
+ {
+  "slug": "gabriel-real-madrid-transfer",
+  "mode": "llm",
+  "titleKo": "레알 마드리드 J.J. 가브리엘 영입 합의 보도",
+  "createdAt": "2026-11-04T09:15:15.000Z",
+  "updatedAt": "2026-11-05T12:35:46.000Z",
+  "category": "transfer",
+  "stage": "agreement",
+  "clubs": [
+   "real-madrid",
+   "man-utd"
+  ],
+  "players": [
+   "J.J. 가브리엘",
+   "JJ 가브리엘"
+  ],
+  "sig": [
+   "gabriel"
+  ],
+  "articles": [
+   {
+    "id": "19730d7c8f34",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+    "title": "Real Madrid confident of signing Man Utd's Gabriel",
+    "ko": "레알, 맨유의 가브리엘 영입에 자신감",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T09:15:15.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "527607df0a72",
+    "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
+    "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
+    "ko": "레알, 맨유 유망주 JJ 가브리엘과 구두 합의",
+    "source": "sky",
+    "publishedAt": "2026-11-04T09:28:00.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "3ccc82b9a434",
+    "url": "https://www.dailystar.co.uk/sport/football/jj-gabriel-reaches-real-madrid-37841097",
+    "title": "JJ Gabriel 'reaches Real Madrid transfer agreement' as wantaway Man Utd sensation nears exit",
+    "ko": "가브리엘, 레알과 이적 합의 보도…맨유 탈출 임박",
+    "source": "star",
+    "publishedAt": "2026-11-04T09:38:08.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Cameron Winstanley",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "9d1247ad6c31",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-crack-anglais-jj-gabriel-16-ans-se-rapproche-du-real-madrid/1741007#at_medium=RSS_feeds",
+    "title": "Le crack anglais JJ Gabriel, 16 ans, se rapproche du Real Madrid",
+    "ko": "16세 잉글랜드 유망주 JJ 가브리엘, 레알 마드리드 이적 근접",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T09:54:40.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "70a8f2b8dd0e",
+    "url": "https://www.thesun.co.uk/sport/40908742/man-utd-jj-gabriel-passport-real-madrid-transfer/",
+    "title": "Wantaway Man Utd wonderkid JJ Gabriel, 16, secures Cypriot passport as he closes in on dream Real Madrid transfer",
+    "ko": "맨유 탈출 원하는 16세 J.J. 가브리엘, 레알 이적 임박",
+    "source": "sun",
+    "publishedAt": "2026-11-04T09:56:06.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Katherine Walsh",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "caaaa95cfccf",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-34860124",
+    "title": "JJ Gabriel reaches verbal transfer agreement days after £8.5m outcome for Man United",
+    "ko": "JJ 가브리엘, 레알 마드리드와 구두 이적 합의…맨유 이적료 850만 파운드 확정 직후",
+    "source": "men",
+    "publishedAt": "2026-11-04T10:00:30.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Matthew Abbott",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "7bd27c039a32",
+    "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
+    "title": "Sources: JJ Gabriel close to joining Real Madrid",
+    "ko": "JJ 가브리엘, 레알 마드리드 합류 임박 보도",
+    "source": "espn",
+    "publishedAt": "2026-11-04T10:53:53.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Rodra",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "4670b6d3caad",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-dark-over-jj-34860796",
+    "title": "Manchester United in the dark over JJ Gabriel future as Real Madrid close on transfer",
+    "ko": "맨유, 레알의 J.J. 가브리엘 영입 임박에 향방 불투명",
+    "source": "men",
+    "publishedAt": "2026-11-04T11:22:20.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "fb0224a41d91",
+    "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-realmadrid-jj-gabriel-37842627",
+    "title": "Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit",
+    "ko": "맨유, 레알 마드리드와 갈등 속 J.J. 가브리엘 올드트래퍼드 이별 임박",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T13:49:49.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "5ccaa3f924a1",
+    "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
+    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
+    "ko": "레알 마드리드, 맨유 16세 J.J. 가브리엘 영입 합의 임박",
+    "source": "guardian",
+    "publishedAt": "2026-11-04T14:48:17.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Will Unwin and Jamie Jackson",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "21f2de52faea",
+    "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
+    "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
+    "ko": "맨유 유망주 JJ 가브리엘, 레알 마드리드행 가능성 점검",
+    "source": "sky",
+    "publishedAt": "2026-11-04T15:22:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "28167bdc164f",
+    "url": "https://www.footballinsider247.com/manchester-united/transfers/man-uniteds-jj-gabriel-compensation-revealed-after-he-agrees-to-join-real-madrid",
+    "title": "Man United's JJ Gabriel compensation revealed after he agrees to join Real Madrid",
+    "ko": "JJ 가브리엘, 레알 마드리드 이적 합의 후 맨유 보상금 공개",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T15:25:53.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "3b013f59868c",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gabriel-real-madrid-34866200",
+    "title": "JJ Gabriel plan emerges as Real Madrid fear repeating mistake after signing Man United ace",
+    "ko": "JJ 가브리엘 영입 계획 드러나… 레알, 맨유 선수 영입 실수 반복 우려",
+    "source": "men",
+    "publishedAt": "2026-11-05T11:27:12.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "867a672e1fa1",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-gabriel-real-madrid-37846230",
+    "title": "Real Madrid plan to avoid JJ Gabriel mistake that cost Arsenal star after Man Utd swoop",
+    "ko": "레알 마드리드, 가브리엘 실수 반복 방지 계획…맨유 영입 경쟁",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T12:35:46.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "아스널",
+     "to": "레알 마드리드"
+    }
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 10,
+  "score": 1.71,
+  "topTier": 1,
+  "stageHistory": [
+   {
+    "id": "19730d7c8f34",
+    "at": "2026-11-04T09:15:15.000Z",
+    "source": "bbc",
+    "from": null,
+    "to": "negotiation"
+   },
+   {
+    "id": "527607df0a72",
+    "at": "2026-11-04T09:28:00.000Z",
+    "source": "sky",
+    "from": "negotiation",
+    "to": "agreement"
+   }
+  ],
+  "stageChange": {
+   "from": "negotiation",
+   "to": "agreement",
+   "at": "2026-11-04T09:28:00.000Z",
+   "source": "sky"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "JJ 가브리엘",
+   "from": "맨유",
+   "to": "레알 마드리드"
+  },
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-04T09:15:15.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid confident of signing Man Utd's Gabriel"
+ },
+ {
+  "slug": "toney-newcastle-transfer",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 이반 토니 영입 관심",
+  "createdAt": "2026-11-05T12:30:00.000Z",
+  "updatedAt": "2026-11-05T12:30:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "이반 토니"
+  ],
+  "sig": [
+   "ivan",
+   "toney"
+  ],
+  "articles": [
+   {
+    "id": "fda19627a889",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-set-sights-on-ivan-toney-ahead-of-january-transfer-expert",
+    "title": "Newcastle set sights on Ivan Toney ahead of January - transfer expert",
+    "ko": "뉴캐슬, 1월 이적시장 이반 토니 영입 노린다는 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T12:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "이반 토니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "이반 토니",
+     "from": null,
+     "to": "뉴캐슬"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.45,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "fda19627a889",
+    "at": "2026-11-05T12:30:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "이반 토니",
+   "from": null,
+   "to": "뉴캐슬"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-05T12:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle set sights on Ivan Toney ahead of January - transfer expert"
+ },
+ {
+  "slug": "real-madrid-affairs-nadal-appointment",
+  "mode": "llm",
+  "titleKo": "레알 마드리드, 나달 임원 선임",
+  "createdAt": "2026-11-04T11:49:04.000Z",
+  "updatedAt": "2026-11-05T12:18:22.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "나달"
+  ],
+  "sig": [
+   "nadal"
+  ],
+  "articles": [
+   {
+    "id": "ec37d1a42742",
+    "url": "https://as.com/futbol/real-madrid/el-madrid-hace-directivo-a-nadal-f202611-n/",
+    "title": "El Madrid hace directivo a Nadal",
+    "ko": "레알 마드리드, 나달 임원 선임",
+    "source": "as",
+    "publishedAt": "2026-11-04T11:49:04.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "b98cf2b30518",
+    "url": "https://as.com/futbol/primera/nadal-acepto-la-propuesta-con-mucha-ilusion-y-aportar-todo-lo-que-pueda-f202611-n/",
+    "title": "Nadal: “Acepto la propuesta con mucha ilusión y ganas de aportar todo lo que pueda”",
+    "ko": "나달, 스페인축구협회 제안 수락 \"최선을 다하겠다\"",
+    "source": "as",
+    "publishedAt": "2026-11-04T12:13:29.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "54ee05c7e5a1",
+    "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+    "title": "Nadal set to join Real Madrid board of directors",
+    "ko": "나달, 레알 마드리드 이사회 합류 임박",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T13:21:01.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "41adc8ae6612",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-propose-la-nomination-de-rafael-nadal-au-sein-de-son-conseil-d-administration/1741056#at_medium=RSS_feeds",
+    "title": "Le Real propose la nomination de Rafael Nadal au sein de son conseil d'administration",
+    "ko": "레알, 나달 이사회 합류 제안",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T13:22:25.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vincent Villa",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "a055464f05c9",
+    "url": "https://as.com/futbol/videos/el-gesto-de-mourinho-sobre-nadal-y-su-inclusion-en-la-junta-que-va-a-poner-la-piel-de-gallina-al-madridismo-f202611-v/",
+    "title": "El gesto de Mourinho sobre Nadal y su inclusión en la Junta que va a poner la piel de gallina al madridismo",
+    "ko": "무리뉴, 나달의 레알 마드리드 이사회 합류에 보인 반응",
+    "source": "as",
+    "publishedAt": "2026-11-04T20:30:06.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "나달"
+    ],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "e0795048ecf1",
+    "url": "https://as.com/futbol/primera/el-acuerdo-con-nadal-estaba-cerrado-desde-antes-del-clasico-y-solo-lo-conocian-cuatro-f202611-n/",
+    "title": "El acuerdo con Nadal estaba cerrado desde antes del Clásico y solo lo conocían cuatro",
+    "ko": "나달 임원 선임 합의, 클래식 전부터 이미 결정돼 있었다",
+    "source": "as",
+    "publishedAt": "2026-11-05T12:18:22.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José Félix Díaz",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 1.45,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-04T11:49:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nadal set to join Real Madrid board of directors"
+ },
+ {
+  "slug": "derby-manager-future",
+  "mode": "llm",
+  "titleKo": "더비 카운티 유스타스 감독 거취 논란",
+  "createdAt": "2026-11-05T12:17:02.000Z",
+  "updatedAt": "2026-11-05T12:17:02.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "john",
+   "eustace",
+   "derby",
+   "county"
+  ],
+  "articles": [
+   {
+    "id": "0d334f08816c",
+    "url": "https://www.footballinsider247.com/efl-championship-news/sources-john-eustace-expected-to-leave-derby-county-after-talks",
+    "title": "Sources: John Eustace expected to leave Derby County after talks",
+    "ko": "더비 카운티, 존 유스타스 떠날 것으로 전해져",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T12:17:02.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.43,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-05T12:17:02.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: John Eustace expected to leave Derby County after talks"
+ },
+ {
+  "slug": "trafford-leeds-transfer",
+  "mode": "llm",
+  "titleKo": "리즈 트래퍼드 영입 위기",
+  "createdAt": "2026-11-05T12:00:00.000Z",
+  "updatedAt": "2026-11-05T12:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "제임스 트래퍼드"
+  ],
+  "sig": [
+   "james"
+  ],
+  "articles": [
+   {
+    "id": "9bd947c81cd0",
+    "url": "https://www.footballinsider247.com/leeds-united/leeds-at-risk-of-losing-james-trafford-as-big-problem-emerges-after-man-city-exit-verdict",
+    "title": "Leeds at risk of losing James Trafford as 'big problem' emerges after Man City exit - verdict",
+    "ko": "리즈, 맨시티 이탈 후 제임스 트래퍼드 영입 위기 우려",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T12:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "collapsed",
+    "players": [
+     "제임스 트래퍼드"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "제임스 트래퍼드",
+     "from": "맨체스터 시티",
+     "to": "리즈 유나이티드"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.41,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "9bd947c81cd0",
+    "at": "2026-11-05T12:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "제임스 트래퍼드",
+   "from": "맨체스터 시티",
+   "to": "리즈 유나이티드"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-05T12:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Leeds at risk of losing James Trafford as 'big problem' emerges after Man City exit - verdict"
+ },
+ {
+  "slug": "owono-discipline",
+  "mode": "llm",
+  "titleKo": "오워노 징계 8~12경기 출장정지 우려",
+  "createdAt": "2026-11-03T10:38:18.000Z",
+  "updatedAt": "2026-11-05T11:56:31.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "오워노",
+   "호아킨 오워노",
+   "헤수스 데 미겔",
+   "미셸 오워노",
+   "헤수스 오워노"
+  ],
+  "sig": [
+   "jesús",
+   "owono",
+   "andorra"
+  ],
+  "articles": [
+   {
+    "id": "0a1e2ff70fd3",
+    "url": "https://as.com/futbol/segunda/owono-cierra-sus-redes-sociales-f202611-n/",
+    "title": "Owono cierra sus redes sociales",
+    "ko": "오워노, SNS 계정 폐쇄",
+    "source": "as",
+    "publishedAt": "2026-11-03T10:07:04.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "b8538bbaad85",
+    "url": "https://as.com/futbol/segunda/owono-podria-ser-sancionado-con-entre-ocho-y-12-partidos-f202611-n/",
+    "title": "Owono podría ser sancionado con entre ocho y 12 partidos",
+    "ko": "오워노, 8~12경기 출장정지 가능성",
+    "source": "as",
+    "publishedAt": "2026-11-03T10:38:18.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "a0fa2a5e6e7d",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/o-castigo-que-owono-pode-ter-de-cumprir-pela-entrada-que-levou-a-morte-de-jesus-de-miguel",
+    "title": "O castigo que Owono pode ter de cumprir pela entrada que levou à morte de Jesús de Miguel",
+    "ko": "오워노, 데 미겔 사망 부른 태클로 징계 받을 수도",
+    "source": "record",
+    "publishedAt": "2026-11-03T11:14:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "5059a10dafd6",
+    "url": "https://as.com/futbol/segunda/quien-es-jesus-owono-esta-destrozado-y-es-arropado-por-el-andorra-f202611-n/",
+    "title": "Quién es Jesús Owono: está destrozado y es arropado por el Andorra",
+    "ko": "오워노는 누구? 처참한 상태에 안도라가 감싸",
+    "source": "as",
+    "publishedAt": "2026-11-03T11:51:55.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "92431479747d",
+    "url": "https://www.lequipe.fr/Football/Actualites/Michel-owono-homonyme-du-gardien-a-l-origine-du-choc-fatal-a-jesus-de-miguel-denonce-le-harcelement-en-ligne-qui-le-vise/1740826#at_medium=RSS_feeds",
+    "title": "Michel Owono, homonyme du gardien à l'origine du choc fatal à Jesus de Miguel, dénonce le harcèlement en ligne qui le vise",
+    "ko": "데 미겔 사망 사고 속 동명이인 오워노, 온라인 괴롭힘 고발",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T15:40:13.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "미셸 오워노"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "0e7088ddd8b8",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/jurista-admite-ser-dificil-culpar-jesus-owono-pela-morte-de-jesus-de-miguel",
+    "title": "Jurista admite ser difícil culpar Jesús Owono pela morte de Jesús de Miguel",
+    "ko": "법률 전문가, 오워노를 데 미겔 사망 책임으로 묻기 어렵다고 인정",
+    "source": "record",
+    "publishedAt": "2026-11-03T17:55:46.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "d986092c4845",
+    "url": "https://as.com/futbol/segunda/un-jugador-del-andorra-se-rompe-el-futbol-deja-de-tener-sentido-f202611-n/",
+    "title": "Carta de defensa a Owono: “Jamás haría daño a nadie”",
+    "ko": "오워노 변호 서한 공개…“절대 누구도 해치지 않아”",
+    "source": "as",
+    "publishedAt": "2026-11-04T09:15:53.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Amalia Fra",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "f3077cb003cd",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+    "title": "Keeper Owono 'would never intentionally hurt anyone'",
+    "ko": "오워노 골키퍼 \"고의로 누구도 해칠 생각 없었다\"",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T11:40:57.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "aa88627b4eab",
+    "url": "https://as.com/futbol/primera/owono-es-muy-buena-persona-si-lo-conocieran-f202611-n/",
+    "title": "“Owono es muy buena persona, si lo conocieran...”",
+    "ko": "\"오워노는 정말 좋은 사람\"…징계 우려 속 옹호 목소리",
+    "source": "as",
+    "publishedAt": "2026-11-04T12:47:37.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Jorge Cabrera",
+    "transfer": null
+   },
+   {
+    "id": "f08742cda7f8",
+    "url": "https://www.kicker.de/niemals-die-absicht-jemandem-zu-schaden-teamkollege-nimmt-owono-in-schutz-1268487/artikel#omrss",
+    "title": "\"Niemals die Absicht, jemandem zu schaden\": Teamkollege nimmt Owono in Schutz",
+    "ko": "팀 동료, 오워노 감싸…\"해칠 의도 전혀 없었다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T12:59:11.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "3be4488d621c",
+    "url": "https://as.com/futbol/segunda/owono-estan-siendo-los-dias-mas-dificiles-de-mi-vida-f202611-n/",
+    "title": "Owono: “Están siendo los días más difíciles de mi vida”",
+    "ko": "오워노, \"인생에서 가장 힘든 날들\" 심경 토로",
+    "source": "as",
+    "publishedAt": "2026-11-04T15:47:49.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null
+   },
+   {
+    "id": "34ccd7523c3e",
+    "url": "https://as.com/futbol/segunda/owono-no-debe-sentirse-culpable-porque-ha-sido-un-accidente-f202611-n/",
+    "title": "“Owono no debe sentirse culpable porque ha sido un accidente”",
+    "ko": "오워노, 사고였다며 죄책감 가질 필요 없다는 반응",
+    "source": "as",
+    "publishedAt": "2026-11-05T05:35:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "David Alonso",
+    "transfer": null
+   },
+   {
+    "id": "cf758a3bef85",
+    "url": "https://www.marca.com/futbol/sevilla/2026/11/05/garcia-plaza-acuerda-owono-hagamos-dos-victimas.html",
+    "title": "García Plaza se acuerda de Owono: \"No hagamos dos víctimas\"",
+    "ko": "가르시아 플라사, 오워노 언급하며 \"두 번째 피해자 만들지 말자\"",
+    "source": "marca",
+    "publishedAt": "2026-11-05T11:38:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Rocío Guevara",
+    "transfer": null
+   },
+   {
+    "id": "8b768fc01376",
+    "url": "https://as.com/futbol/primera/luis-garcia-owono-esta-en-un-infierno-y-es-una-persona-espectacular-f202611-n/",
+    "title": "Luis García: “Owono está en un infierno y es una persona espectacular”",
+    "ko": "루이스 가르시아 \"오워노, 지옥에 있지만 대단한 사람\"",
+    "source": "as",
+    "publishedAt": "2026-11-05T11:56:31.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "José A. Espina",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 6,
+  "score": 1.74,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-03T10:07:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Keeper Owono 'would never intentionally hurt anyone'"
  },
  {
   "slug": "stoke-blackburn-2026-11-03",
@@ -5494,7 +6595,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.67,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5507,85 +6608,6 @@
    "viaQuote": false
   },
   "headline": "Mark Robins explains the Stoke City change he's been waiting for"
- },
- {
-  "slug": "jesus-ronaldo-relationship",
-  "mode": "llm",
-  "titleKo": "제수스·호날두 충돌 논란",
-  "createdAt": "2026-11-05T11:37:35.000Z",
-  "updatedAt": "2026-11-05T11:43:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "호날두"
-  ],
-  "sig": [
-   "portugal",
-   "jorge",
-   "jesus",
-   "cristiano",
-   "ronaldo"
-  ],
-  "articles": [
-   {
-    "id": "76c0d575c5f4",
-    "url": "https://www.thesun.co.uk/sport/40924587/portugal-head-coach-jorge-jesus-cristiano-ronaldo/",
-    "title": "Who is Portugal head coach Jorge Jesus and what was his bust up with Cristiano Ronaldo?",
-    "ko": "포르투갈 감독 조르제 제수스는 누구이며 호날두와는 왜 충돌했나",
-    "source": "sun",
-    "publishedAt": "2026-11-05T11:37:35.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": "Daniel Nuttman",
-    "transfer": null
-   },
-   {
-    "id": "26ca85d34da0",
-    "url": "https://www.record.pt/futebol/selecoes/detalhe/cristiano-ronaldo-sem-conversas-com-jorge-jesus",
-    "title": "Cristiano Ronaldo sem conversas com Jorge Jesus",
-    "ko": "호날두, 조르즈 제수스와 대화 없어",
-    "source": "record",
-    "publishedAt": "2026-11-05T11:43:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 2.12,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "cristiano-ronaldo"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-05T11:37:35.000Z",
-   "viaQuote": false
-  },
-  "headline": "Cristiano Ronaldo sem conversas com Jorge Jesus"
  },
  {
   "slug": "bromley-robinson-appointment",
@@ -5622,7 +6644,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.42,
+  "score": 1.93,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6112,7 +7134,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 3.39,
+  "score": 2.71,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6130,109 +7152,6 @@
    "viaQuote": false
   },
   "headline": "Valverde stunner earns Real Madrid late win at AEK Athens"
- },
- {
-  "slug": "raphinha-contract",
-  "mode": "llm",
-  "titleKo": "하피냐 2030년까지 재계약",
-  "createdAt": "2026-11-04T15:34:38.000Z",
-  "updatedAt": "2026-11-05T11:18:53.000Z",
-  "category": "transfer",
-  "stage": "done",
-  "clubs": [
-   "barcelona"
-  ],
-  "players": [
-   "하피냐"
-  ],
-  "sig": [
-   "saisonstart",
-   "kapitän",
-   "raphinha"
-  ],
-  "articles": [
-   {
-    "id": "5e61093ab09b",
-    "url": "https://as.com/futbol/primera/raphinha-hasta-2030-f202611-n/",
-    "title": "Raphinha, hasta 2030",
-    "ko": "하피냐, 2030년까지 재계약",
-    "source": "as",
-    "publishedAt": "2026-11-04T15:34:38.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": "Sergi de Juan",
-    "transfer": null
-   },
-   {
-    "id": "90b35ee642e3",
-    "url": "https://www.kicker.de/nach-ueberragendem-saisonstart-barca-bindet-kapitaen-raphinha-1268757/artikel#omrss",
-    "title": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha",
-    "ko": "바르셀로나, 주장 하피냐와 2030년까지 재계약",
-    "source": "kicker",
-    "publishedAt": "2026-11-05T11:18:53.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 1.53,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "5e61093ab09b",
-    "at": "2026-11-04T15:34:38.000Z",
-    "source": "as",
-    "from": null,
-    "to": "interest"
-   },
-   {
-    "id": "90b35ee642e3",
-    "at": "2026-11-05T11:18:53.000Z",
-    "source": "kicker",
-    "from": "interest",
-    "to": "done"
-   }
-  ],
-  "stageChange": {
-   "from": "interest",
-   "to": "done",
-   "at": "2026-11-05T11:18:53.000Z",
-   "source": "kicker"
-  },
-  "playerTags": [
-   "raphinha"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-04T15:34:38.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha"
  },
  {
   "slug": "cardoso-barcelona-transfer",
@@ -6277,7 +7196,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.5,
+  "score": 1.2,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6778,7 +7697,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 1.4,
+  "score": 1.12,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6835,7 +7754,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.35,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7163,7 +8082,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 1.44,
+  "score": 1.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7244,7 +8163,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.42,
+  "score": 1.13,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7296,7 +8215,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.35,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7479,7 +8398,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.38,
+  "score": 0.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7599,7 +8518,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.37,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7687,7 +8606,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7744,7 +8663,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.13,
+  "score": 0.9,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7797,7 +8716,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.1,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8347,7 +9266,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.51,
+  "score": 1.21,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8885,7 +9804,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.3,
+  "score": 0.24,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8973,7 +9892,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.22,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9044,7 +9963,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.22,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9097,7 +10016,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.89,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9452,7 +10371,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.75,
+  "score": 0.6,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9500,7 +10419,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9698,7 +10617,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.06,
+  "score": 0.84,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9763,7 +10682,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.13,
+  "score": 0.9,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10040,7 +10959,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.45,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10117,7 +11036,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.72,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10168,7 +11087,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.72,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10484,7 +11403,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.21,
+  "score": 0.17,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10543,7 +11462,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10606,7 +11525,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.16,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10797,7 +11716,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.98,
+  "score": 0.79,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10854,7 +11773,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10867,302 +11786,6 @@
    "viaQuote": false
   },
   "headline": "Seamus Coleman questions Everton punishment and says Man City case is 'killing' the Premier League"
- },
- {
-  "slug": "lens-como-2026-11-04",
-  "mode": "llm",
-  "titleKo": "렌스 대 콤 유스리그 경기",
-  "createdAt": "2026-11-04T15:30:18.000Z",
-  "updatedAt": "2026-11-05T05:24:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "타종 하자드",
-   "맥상스 카케레",
-   "세스크 파브레가스",
-   "토르간 아자르",
-   "미셸 퀴상스",
-   "니코 파스",
-   "헤수스 데 미겔"
-  ],
-  "sig": [
-   "u19",
-   "lens",
-   "côme",
-   "youth"
-  ],
-  "articles": [
-   {
-    "id": "53168f9e2e24",
-    "url": "https://www.lequipe.fr/Football/Actualites/Sur-leur-terrain-les-u19-de-lens-s-imposent-face-a-come-en-youth-league/1741097#at_medium=RSS_feeds",
-    "title": "Sur leur terrain, les U19 de Lens s'imposent face à Côme en Youth League",
-    "ko": "렌스 U19, 홈에서 콤 꺾고 유스리그 승리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T15:30:18.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": null
-   },
-   {
-    "id": "5ec7490ad249",
-    "url": "https://www.lequipe.fr/Football/Actualites/Thorgan-hazard-aligne-d-entree-maxence-caqueret-aussi-les-compositions-de-lens-come-en-ligue-des-champions/1741183#at_medium=RSS_feeds",
-    "title": "Thorgan Hazard aligné d'entrée, Maxence Caqueret aussi : les compositions de Lens - Côme en Ligue des champions",
-    "ko": "렌스-콤 챔피언스리그 선발 라인업 발표, 타종 하자드 선발 출전",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T19:16:30.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "타종 하자드",
-     "맥상스 카케레"
-    ],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "a2bc4a8b664f",
-    "url": "https://as.com/futbol/champions/lens-como-en-directo-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Lens - Como, en directo: Champions League hoy en vivo",
-    "ko": "랑스 대 코모, 챔피언스리그 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-04T19:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Carretero",
-    "transfer": null
-   },
-   {
-    "id": "43f36e8eebeb",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/lens-como-1907-em-direto",
-    "title": "Lens-Como 1907, em direto",
-    "ko": "렌스 대 콤 라이브 중계",
-    "source": "record",
-    "publishedAt": "2026-11-04T21:31:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "035501325993",
-    "url": "https://www.lequipe.fr/Football/Actualites/Face-a-un-come-fantastique-lens-essuie-la-plus-grosse-defaite-de-l-histoire-du-foot-francais-en-coupe-d-europe/1741218#at_medium=RSS_feeds",
-    "title": "Face à un Côme fantastique, Lens essuie la plus grosse défaite de l'histoire du foot français en Coupe d'Europe",
-    "ko": "렌스, 콤전 대패…프랑스 축구 유럽대항전 사상 최다 패배",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T21:55:34.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "8320e8ac36c4",
-    "url": "https://www.hln.be/champions-league-en-europa-league/thorgan-hazard-krijgt-er-maar-liefst-negen-om-de-oren-stuntploeg-como-evenaart-grootste-zege-ooit-in-champions-league~a301dbaaa/",
-    "title": "Thorgan Hazard krijgt er maar liefst negen om de oren: stuntploeg Como evenaart grootste zege ooit in Champions League",
-    "ko": "코모, 챔피언스리그 최다 득점 타이 대승…티칼 헤이즐 아쉬움",
-    "source": "hln",
-    "publishedAt": "2026-11-04T22:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "토르간 아자르"
-    ],
-    "playerTags": [],
-    "author": "Emma Van Avermaet",
-    "transfer": null
-   },
-   {
-    "id": "9810783bf77a",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/tem-90-segundos-livres-entao-veja-aqui-os-9-golos-que-o-como-1907-marcou-ao-lens",
-    "title": "Tem 90 segundos livres? Então veja aqui os 9 golos que o Como 1907 marcou ao Lens",
-    "ko": "코모, 렌스전 9골 폭발한 장면 짧게 정리",
-    "source": "record",
-    "publishedAt": "2026-11-04T22:04:56.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3d3abd20511e",
-    "url": "https://www.lequipe.fr/Football/Actualites/Michael-cuisance-apres-la-lourde-defaite-de-lens-contre-come-ce-n-est-pas-une-defaite-c-est-une-lecon/1741227#at_medium=RSS_feeds",
-    "title": "Michaël Cuisance après la lourde défaite de Lens contre Côme : « Ce n'est pas une défaite, c'est une leçon »",
-    "ko": "미셸 퀴상스, 렌스 대패 후 '교훈' 발언",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T22:15:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "미셸 퀴상스"
-    ],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "c4579c99772a",
-    "url": "https://www.nytimes.com/athletic/7754339/2026/11/04/como-champions-league-record-lens/",
-    "title": "Como equal Champions League record win with 9-1 victory against Lens",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-04T22:15:33.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e354989ed888",
-    "url": "https://www.lequipe.fr/Football/Actualites/Lens-n-avait-pas-encaisse-9-buts-depuis-1940-les-chiffres-de-la-debacle-historique-de-lens-contre-come-en-ligue-des-champions/1741228#at_medium=RSS_feeds",
-    "title": "Lens n'avait pas encaissé 9 buts depuis 1940 : les chiffres de la débâcle historique de Lens contre Côme en Ligue des champions",
-    "ko": "렌스, 코모전 대패로 1940년 이후 최다 실점 기록",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T22:22:43.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "fb6bdaf36548",
-    "url": "https://as.com/futbol/videos/vean-en-120-como-ha-hecho-historia-el-como-de-cesc-en-lens-nunca-habia-sucedido-f202611-v/",
-    "title": "Vean en 120″ cómo ha hecho historia el Como de Cesc en Lens: nunca había sucedido",
-    "ko": "코모, 렌스 원정서 역사적 대승 기록 조명",
-    "source": "as",
-    "publishedAt": "2026-11-04T22:25:48.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "세스크 파브레가스"
-    ],
-    "playerTags": [],
-    "author": "Movistar +",
-    "transfer": null
-   },
-   {
-    "id": "d98908f20dbe",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lens-come-les-cancres-lensois-le-maitre-nico-paz/1741236#at_medium=RSS_feeds",
-    "title": "Les notes de Lens-Côme : les cancres lensois, le maître Nico Paz",
-    "ko": "렌스 대 콤 평점: 렌스 부진, 니코 파스 돋보여",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T22:57:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "니코 파스"
-    ],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "d97cc6544c42",
-    "url": "https://www.lequipe.fr/Football/Actualites/Come-est-devenue-la-premiere-equipe-a-voir-onze-joueurs-decisifs-lors-d-un-match-de-ligue-des-champions/1741244#at_medium=RSS_feeds",
-    "title": "Côme est devenue contre Lens la première équipe à compter onze joueurs décisifs lors d'un match de Ligue des champions",
-    "ko": "코모, 챔피언스리그 최초로 11명 모두 결정적 기여",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T23:20:39.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "da55dedd8af6",
-    "url": "https://www.lequipe.fr/Football/Article/Comment-ont-ils-pu-etre-aussi-mauvais-avec-le-ballon-aussi-poreux-aussi-nuls-de-plus-en-plus-nuls-au-fil-du-match-les-joueurs-lensois-ont-fait-honte-a-bollaert/1741252#at_medium=RSS_feeds",
-    "title": "Comment Lens a-t-il pu être aussi nul, et de plus en plus nul ?",
-    "ko": "렌스는 어떻게 이렇게 무기력했나, 갈수록 더 못하다",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T23:37:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "12207c771fb3",
-    "url": "https://www.hln.be/champions-league-en-europa-league/bewogen-moment-tijdens-1-9-van-como-tegen-lens-nico-paz-draagt-doelpunt-op-aan-overleden-jesus-de-miguel~a301dbaaa/",
-    "title": "Bewogen moment tijdens 1-9 van Como tegen Lens: Nico Paz draagt doelpunt op aan overleden Jesús de Miguel",
-    "ko": "코모 대 렌스 9골 난타전 속 니코 파스, 고 데 미겔 추모 득점",
-    "source": "hln",
-    "publishedAt": "2026-11-05T05:24:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "니코 파스",
-     "헤수스 데 미겔"
-    ],
-    "playerTags": [],
-    "author": "Emma Van Avermaet",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 5,
-  "score": 0.33,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-04T15:30:18.000Z",
-   "viaQuote": false
-  },
-  "headline": "Como equal Champions League record win with 9-1 victory against Lens"
  },
  {
   "slug": "sane-relationship",
@@ -11224,7 +11847,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.25,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -11280,9 +11903,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11327,9 +11950,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20505,53 +21128,6 @@
    "viaQuote": false
   },
   "headline": "\"Ein Spieler, den sich jeder Trainer wünscht\": Bansé verlängert in Fürth"
- },
- {
-  "slug": "auxerre-paris-fc-2026-11-07",
-  "mode": "llm",
-  "titleKo": "오세르 대 파리 FC 리그1 경기 시간 변경",
-  "createdAt": "2026-11-04T12:17:57.000Z",
-  "updatedAt": "2026-11-04T12:17:57.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "ligue"
-  ],
-  "articles": [
-   {
-    "id": "fd9085d54dca",
-    "url": "https://www.lequipe.fr/Football/Actualites/Auxerre-paris-fc-aura-lieu-a-19-heures-au-lieu-de-17-h-15-ce-samedi-en-ligue-1/1741037#at_medium=RSS_feeds",
-    "title": "Auxerre-Paris FC aura lieu à 19 heures, au lieu de 17 h 15, ce samedi en Ligue 1",
-    "ko": "오세르 대 파리 FC 경기 시간 변경",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T12:17:57.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Luc Hagège",
-    "transfer": null,
-    "clubs": []
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-04T12:17:57.000Z",
-   "viaQuote": false
-  },
-  "headline": "Auxerre-Paris FC aura lieu à 19 heures, au lieu de 17 h 15, ce samedi en Ligue 1"
  },
  {
   "slug": "mokwa-villarreal-transfer",
