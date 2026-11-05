@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T14:10:06.063Z",
+ "updatedAt": "2026-11-05T15:06:31.569Z",
  "hot": [
   "kane-contract",
   "de-miguel-incident",
@@ -23,7 +23,8 @@
   "2026-11-02",
   "2026-11-03",
   "2026-11-04",
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "feeds": {
   "bbc": {
@@ -35,13 +36,13 @@
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 3,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -53,19 +54,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,37 +78,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 72
+   "added": 7,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 78
   },
   "waz": {
@@ -119,7 +120,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -131,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
@@ -143,7 +144,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -155,31 +156,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
+   "items": 30,
    "added": 4,
-   "authorRate": 96
+   "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 3,
+   "items": 8,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -198,10 +199,14 @@
   },
   {
    "name": "그릴리시",
-   "count": 13
+   "count": 14
   },
   {
    "name": "리산드로 마르티네스",
+   "count": 9
+  },
+  {
+   "name": "잭 그릴리시",
    "count": 9
   },
   {
@@ -210,10 +215,6 @@
   },
   {
    "name": "헤수스 오워노",
-   "count": 8
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 8
   },
   {
@@ -306,32 +307,32 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 216,
+  "recentIssues": 221,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 129
+    "count": 133
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 70
+    "count": 69
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 31
+    "count": 32
    },
    {
     "slug": "parker-west-ham-appointment",
     "count": 28
    },
    {
-    "slug": "man-utd-affairs-ownership",
+    "slug": "kane-contract",
     "count": 27
    },
    {
-    "slug": "kane-contract",
-    "count": 25
+    "slug": "man-utd-affairs-ownership",
+    "count": 26
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -346,12 +347,12 @@
     "count": 23
    },
    {
-    "slug": "atletico-bayern-2026-11-03",
+    "slug": "grealish-discipline",
     "count": 22
    },
    {
-    "slug": "grealish-discipline",
-    "count": 20
+    "slug": "atletico-bayern-2026-11-03",
+    "count": 22
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -370,6 +371,10 @@
     "count": 17
    },
    {
+    "slug": "fenerbahce-liverpool-2026-11-03",
+    "count": 16
+   },
+   {
     "slug": "lens-como-2026-11-04",
     "count": 16
    },
@@ -379,10 +384,6 @@
    },
    {
     "slug": "newcastle-manager-future",
-    "count": 15
-   },
-   {
-    "slug": "fenerbahce-liverpool-2026-11-03",
     "count": 15
    }
   ]
@@ -539,6 +540,24 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 4
+    },
+    {
+     "ko": "퀼로루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼겔",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Farioli",
    "dictionary": null,
    "variants": [
@@ -583,16 +602,24 @@
    ]
   },
   {
-   "en": "Füllkrug",
+   "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
     {
-     "ko": "퓔크루크",
-     "count": 4
+     "ko": "조르제 제수스",
+     "count": 2
     },
     {
-     "ko": "퀼로루크",
+     "ko": "조르즈 제수스",
      "count": 2
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 주제",
+     "count": 1
     }
    ]
   },
@@ -665,6 +692,24 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 2
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 2
+    },
+    {
+     "ko": "쉐아 레이시",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -673,11 +718,11 @@
      "count": 3
     },
     {
-     "ko": "폴라린 발로군",
+     "ko": "발룬",
      "count": 1
     },
     {
-     "ko": "발룬",
+     "ko": "폴라린 발로군",
      "count": 1
     }
    ]
@@ -692,24 +737,6 @@
     },
     {
      "ko": "토니 브뇨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰이 레이시",
-     "count": 2
-    },
-    {
-     "ko": "쉐이 레이시",
-     "count": 1
-    },
-    {
-     "ko": "쉐아 레이시",
      "count": 1
     }
    ]
@@ -743,20 +770,6 @@
     {
      "ko": "운데프",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르제 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수스",
-     "count": 2
     }
    ]
   },
@@ -838,6 +851,20 @@
     },
     {
      "ko": "돈나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Blessin",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "블레신",
+     "count": 2
+    },
+    {
+     "ko": "블레싱",
      "count": 1
     }
    ]
@@ -967,11 +994,11 @@
      "count": 1
     },
     {
-     "ko": "리엄 로즈니어",
+     "ko": "리암 로지니어",
      "count": 1
     },
     {
-     "ko": "리암 로지니어",
+     "ko": "리엄 로즈니어",
      "count": 1
     }
    ]
@@ -1115,6 +1142,20 @@
    ]
   },
   {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 2
+    },
+    {
+     "ko": "회네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -1159,34 +1200,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Niclas Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 2
-    },
-    {
-     "ko": "풀크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 2
-    },
-    {
-     "ko": "클로프",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1217,6 +1230,10 @@
   "2026-11-05": {
    "collected": 933,
    "llm": 933
+  },
+  "2026-11-06": {
+   "collected": 45,
+   "llm": 45
   }
  },
  "llmErrors": []
