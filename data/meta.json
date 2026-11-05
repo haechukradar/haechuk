@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T21:38:19.642Z",
+ "updatedAt": "2026-11-05T22:28:40.306Z",
  "hot": [
   "crystal-palace-hoffenheim-2026-11-05",
   "de-miguel-incident",
+  "leverkusen-marseille-2026-11-04",
   "bournemouth-europa-league-2026-11-05",
-  "kane-contract",
-  "leverkusen-marseille-2026-11-04"
+  "kane-contract"
  ],
  "days": [
   "2026-10-18",
@@ -29,20 +29,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 0,
+   "items": 75,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
+   "items": 59,
    "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -60,13 +60,13 @@
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -84,19 +84,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 82
+   "added": 4,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -125,26 +125,26 @@
   },
   "rp": {
    "ok": true,
-   "items": 0,
+   "items": 20,
    "added": 0,
-   "authorRate": 0
+   "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -156,13 +156,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 97
   },
   "star": {
@@ -174,20 +174,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 1,
+   "items": 4,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 60
+   "count": 61
   },
   {
    "name": "오워노",
@@ -238,6 +238,10 @@
    "count": 6
   },
   {
+   "name": "프레스티아니",
+   "count": 6
+  },
+  {
    "name": "노이어",
    "count": 6
   },
@@ -263,10 +267,6 @@
   },
   {
    "name": "달롯",
-   "count": 5
-  },
-  {
-   "name": "프레스티아니",
    "count": 5
   },
   {
@@ -307,12 +307,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 252,
-  "singleArticleRate": 52,
+  "recentIssues": 251,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 144
+    "count": 145
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -320,7 +320,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 35
+    "count": 34
    },
    {
     "slug": "kane-contract",
@@ -360,7 +360,7 @@
    },
    {
     "slug": "newcastle-manager-future",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
@@ -385,6 +385,10 @@
    {
     "slug": "owono-discipline",
     "count": 16
+   },
+   {
+    "slug": "leverkusen-marseille-2026-11-04",
+    "count": 15
    },
    {
     "slug": "gabriel-real-madrid-transfer",
@@ -570,28 +574,6 @@
    ]
   },
   {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 배리",
-     "count": 3
-    },
-    {
-     "ko": "티에른 바리",
-     "count": 2
-    },
-    {
-     "ko": "티에르노 바리",
-     "count": 1
-    },
-    {
-     "ko": "베리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -640,24 +622,6 @@
    ]
   },
   {
-   "en": "Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 4
-    },
-    {
-     "ko": "자이슬",
-     "count": 1
-    },
-    {
-     "ko": "자이슬레",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Shea Lacey",
    "dictionary": null,
    "variants": [
@@ -694,6 +658,20 @@
    ]
   },
   {
+   "en": "Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 4
+    },
+    {
+     "ko": "자이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Orkun Kökçü",
    "dictionary": null,
    "variants": [
@@ -725,6 +703,20 @@
     },
     {
      "ko": "카미네스키",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "João Moutinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주앙 무티뉴",
+     "count": 4
+    },
+    {
+     "ko": "주앙 모리뉴",
      "count": 1
     }
    ]
@@ -798,6 +790,24 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 2
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 1
+    },
+    {
+     "ko": "베리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sean Steur",
    "dictionary": null,
    "variants": [
@@ -847,20 +857,6 @@
     },
     {
      "ko": "디오고 달로트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "João Moutinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주앙 무티뉴",
-     "count": 3
-    },
-    {
-     "ko": "주앙 모리뉴",
      "count": 1
     }
    ]
@@ -1064,20 +1060,6 @@
    ]
   },
   {
-   "en": "Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "배리",
-     "count": 2
-    },
-    {
-     "ko": "바리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lennart Karl",
    "dictionary": null,
    "variants": [
@@ -1224,6 +1206,24 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Dirk Kuyt",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "커이트",
+     "count": 1
+    },
+    {
+     "ko": "더크 카위트",
+     "count": 1
+    },
+    {
+     "ko": "커크",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1256,8 +1256,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 351,
-   "llm": 351
+   "collected": 387,
+   "llm": 387
   }
  },
  "llmErrors": []
