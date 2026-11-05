@@ -1,10 +1,83 @@
 [
  {
+  "slug": "barcola-liverpool-transfer",
+  "mode": "llm",
+  "titleKo": "리버풀 바르콜라 영입 고민",
+  "createdAt": "2026-11-05T12:50:13.000Z",
+  "updatedAt": "2026-11-05T12:50:13.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [
+   "브래들리 바르콜라"
+  ],
+  "sig": [
+   "iraola",
+   "bradley",
+   "barcola"
+  ],
+  "articles": [
+   {
+    "id": "8fc50fe7d984",
+    "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-bradley-barcola-liverpool-37845812",
+    "title": "Andoni Iraola's failed Bradley Barcola experiment leaves Liverpool with £123m dilemma",
+    "ko": "이라올라, 바르콜라 실험 실패…리버풀 1억 2300만 파운드 고민",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T12:50:13.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "브래들리 바르콜라"
+    ],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": {
+     "player": "브래들리 바르콜라",
+     "from": null,
+     "to": "리버풀"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.6,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "8fc50fe7d984",
+    "at": "2026-11-05T12:50:13.000Z",
+    "source": "mirror",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "브래들리 바르콜라",
+   "from": null,
+   "to": "리버풀"
+  },
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-05T12:50:13.000Z",
+   "viaQuote": false
+  },
+  "headline": "Andoni Iraola's failed Bradley Barcola experiment leaves Liverpool with £123m dilemma"
+ },
+ {
   "slug": "kane-contract",
   "mode": "llm",
   "titleKo": "케인 바이에른 재계약",
   "createdAt": "2026-11-03T06:31:00.000Z",
-  "updatedAt": "2026-11-05T11:39:23.000Z",
+  "updatedAt": "2026-11-05T12:49:36.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -507,11 +580,59 @@
     ],
     "author": "Sebastian Isbaner",
     "transfer": null
+   },
+   {
+    "id": "d009f94b1c37",
+    "url": "https://www.nytimes.com/athletic/7683468/2026/11/05/alan-shearer-premier-league-goals-kane-haaland/",
+    "title": "Does Harry Kane's new Bayern contract mean Alan Shearer's Premier League goals record is safe?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-05T12:00:52.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "958958838ca4",
+    "url": "https://www.tz.de/sport/fc-bayern/harry-kane-familie-reagiert-auf-bayern-verlaengerung-bis-2029-94575645.html",
+    "title": "Bayern-Verlängerung: Harry Kane teilt Reaktion seiner Familie",
+    "ko": "케인 바이에른 재계약 소식에 가족 반응 공개",
+    "source": "tz",
+    "publishedAt": "2026-11-05T12:49:36.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Florian Puth",
+    "transfer": {
+     "player": "해리 케인",
+     "from": null,
+     "to": null
+    }
    }
   ],
   "recentSources": 12,
   "sourceCount": 13,
-  "score": 11.66,
+  "score": 9.67,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -525,1378 +646,148 @@
    "at": "2026-11-02T23:33:00.000Z",
    "viaQuote": false
   },
-  "headline": "England captain Kane signs new Bayern contract",
+  "headline": "Does Harry Kane's new Bayern contract mean Alan Shearer's Premier League goals record is safe?",
   "aliases": [
    "kane-bayern-contract"
   ]
  },
  {
-  "slug": "owono-discipline",
+  "slug": "vermeeren-injury",
   "mode": "llm",
-  "titleKo": "오워노 징계 8~12경기 출장정지 우려",
-  "createdAt": "2026-11-03T10:38:18.000Z",
-  "updatedAt": "2026-11-05T11:38:52.000Z",
-  "category": "other",
+  "titleKo": "페르메렌 발목 부상 우려",
+  "createdAt": "2026-11-05T12:46:09.000Z",
+  "updatedAt": "2026-11-05T12:46:09.000Z",
+  "category": "injury",
   "stage": null,
   "clubs": [],
   "players": [
-   "오워노",
-   "호아킨 오워노",
-   "헤수스 데 미겔",
-   "미셸 오워노",
-   "헤수스 오워노"
+   "아르튀르 페르메렌"
   ],
   "sig": [
-   "jesús",
-   "owono",
-   "andorra"
+   "antwerp",
+   "arthur",
+   "vermeeren",
+   "lommel"
   ],
   "articles": [
    {
-    "id": "0a1e2ff70fd3",
-    "url": "https://as.com/futbol/segunda/owono-cierra-sus-redes-sociales-f202611-n/",
-    "title": "Owono cierra sus redes sociales",
-    "ko": "오워노, SNS 계정 폐쇄",
-    "source": "as",
-    "publishedAt": "2026-11-03T10:07:04.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "b8538bbaad85",
-    "url": "https://as.com/futbol/segunda/owono-podria-ser-sancionado-con-entre-ocho-y-12-partidos-f202611-n/",
-    "title": "Owono podría ser sancionado con entre ocho y 12 partidos",
-    "ko": "오워노, 8~12경기 출장정지 가능성",
-    "source": "as",
-    "publishedAt": "2026-11-03T10:38:18.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "a0fa2a5e6e7d",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/o-castigo-que-owono-pode-ter-de-cumprir-pela-entrada-que-levou-a-morte-de-jesus-de-miguel",
-    "title": "O castigo que Owono pode ter de cumprir pela entrada que levou à morte de Jesús de Miguel",
-    "ko": "오워노, 데 미겔 사망 부른 태클로 징계 받을 수도",
-    "source": "record",
-    "publishedAt": "2026-11-03T11:14:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "5059a10dafd6",
-    "url": "https://as.com/futbol/segunda/quien-es-jesus-owono-esta-destrozado-y-es-arropado-por-el-andorra-f202611-n/",
-    "title": "Quién es Jesús Owono: está destrozado y es arropado por el Andorra",
-    "ko": "오워노는 누구? 처참한 상태에 안도라가 감싸",
-    "source": "as",
-    "publishedAt": "2026-11-03T11:51:55.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "헤수스 오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "92431479747d",
-    "url": "https://www.lequipe.fr/Football/Actualites/Michel-owono-homonyme-du-gardien-a-l-origine-du-choc-fatal-a-jesus-de-miguel-denonce-le-harcelement-en-ligne-qui-le-vise/1740826#at_medium=RSS_feeds",
-    "title": "Michel Owono, homonyme du gardien à l'origine du choc fatal à Jesus de Miguel, dénonce le harcèlement en ligne qui le vise",
-    "ko": "데 미겔 사망 사고 속 동명이인 오워노, 온라인 괴롭힘 고발",
-    "source": "lequipe",
-    "publishedAt": "2026-11-03T15:40:13.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "미셸 오워노"
-    ],
-    "playerTags": [],
-    "author": "Arthur Verdelet",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "0e7088ddd8b8",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/jurista-admite-ser-dificil-culpar-jesus-owono-pela-morte-de-jesus-de-miguel",
-    "title": "Jurista admite ser difícil culpar Jesús Owono pela morte de Jesús de Miguel",
-    "ko": "법률 전문가, 오워노를 데 미겔 사망 책임으로 묻기 어렵다고 인정",
-    "source": "record",
-    "publishedAt": "2026-11-03T17:55:46.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "d986092c4845",
-    "url": "https://as.com/futbol/segunda/un-jugador-del-andorra-se-rompe-el-futbol-deja-de-tener-sentido-f202611-n/",
-    "title": "Carta de defensa a Owono: “Jamás haría daño a nadie”",
-    "ko": "오워노 변호 서한 공개…“절대 누구도 해치지 않아”",
-    "source": "as",
-    "publishedAt": "2026-11-04T09:15:53.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Amalia Fra",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "f3077cb003cd",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-    "title": "Keeper Owono 'would never intentionally hurt anyone'",
-    "ko": "오워노 골키퍼 \"고의로 누구도 해칠 생각 없었다\"",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T11:40:57.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "aa88627b4eab",
-    "url": "https://as.com/futbol/primera/owono-es-muy-buena-persona-si-lo-conocieran-f202611-n/",
-    "title": "“Owono es muy buena persona, si lo conocieran...”",
-    "ko": "\"오워노는 정말 좋은 사람\"…징계 우려 속 옹호 목소리",
-    "source": "as",
-    "publishedAt": "2026-11-04T12:47:37.000Z",
+    "id": "579e8dbab5ec",
+    "url": "https://www.hln.be/antwerp/streep-door-de-rekening-voor-antwerp-arthur-vermeeren-onzeker-voor-cruciaal-duel-tegen-lommel-met-enkelblessure~ab87d11b/",
+    "title": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure",
+    "ko": "안트베르펜 아르튀르 페르메렌, 롬멜전 발목 부상으로 출전 불투명",
+    "source": "hln",
+    "publishedAt": "2026-11-05T12:46:09.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "injury",
     "stage": null,
     "players": [
-     "오워노"
+     "아르튀르 페르메렌"
     ],
     "playerTags": [],
-    "author": "Jorge Cabrera",
-    "transfer": null
-   },
-   {
-    "id": "f08742cda7f8",
-    "url": "https://www.kicker.de/niemals-die-absicht-jemandem-zu-schaden-teamkollege-nimmt-owono-in-schutz-1268487/artikel#omrss",
-    "title": "\"Niemals die Absicht, jemandem zu schaden\": Teamkollege nimmt Owono in Schutz",
-    "ko": "팀 동료, 오워노 감싸…\"해칠 의도 전혀 없었다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T12:59:11.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "3be4488d621c",
-    "url": "https://as.com/futbol/segunda/owono-estan-siendo-los-dias-mas-dificiles-de-mi-vida-f202611-n/",
-    "title": "Owono: “Están siendo los días más difíciles de mi vida”",
-    "ko": "오워노, \"인생에서 가장 힘든 날들\" 심경 토로",
-    "source": "as",
-    "publishedAt": "2026-11-04T15:47:49.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null
-   },
-   {
-    "id": "34ccd7523c3e",
-    "url": "https://as.com/futbol/segunda/owono-no-debe-sentirse-culpable-porque-ha-sido-un-accidente-f202611-n/",
-    "title": "“Owono no debe sentirse culpable porque ha sido un accidente”",
-    "ko": "오워노, 사고였다며 죄책감 가질 필요 없다는 반응",
-    "source": "as",
-    "publishedAt": "2026-11-05T05:35:39.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "David Alonso",
-    "transfer": null
-   },
-   {
-    "id": "cf758a3bef85",
-    "url": "https://www.marca.com/futbol/sevilla/2026/11/05/garcia-plaza-acuerda-owono-hagamos-dos-victimas.html",
-    "title": "García Plaza se acuerda de Owono: \"No hagamos dos víctimas\"",
-    "ko": "가르시아 플라사, 오워노 언급하며 \"두 번째 피해자 만들지 말자\"",
-    "source": "marca",
-    "publishedAt": "2026-11-05T11:38:52.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Rocío Guevara",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 6,
-  "score": 2.63,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-03T10:07:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Keeper Owono 'would never intentionally hurt anyone'"
- },
- {
-  "slug": "bromley-robinson-appointment",
-  "mode": "llm",
-  "titleKo": "브롬리, 로빈슨 감독 선임",
-  "createdAt": "2026-11-05T11:38:00.000Z",
-  "updatedAt": "2026-11-05T11:38:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "dons",
-   "salford",
-   "robinson"
-  ],
-  "articles": [
-   {
-    "id": "e0ae607c5cb7",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
-    "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
-    "ko": "브롬리, 전 MK돈스·솔퍼드 감독 로빈슨 선임",
-    "source": "bbc",
-    "publishedAt": "2026-11-05T11:38:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
+    "author": "Redactie",
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.92,
-  "topTier": 1,
+  "score": 1.18,
+  "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-05T11:38:00.000Z",
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-05T12:46:09.000Z",
    "viaQuote": false
   },
-  "headline": "Bromley appoint ex-MK Dons & Salford boss Robinson"
+  "headline": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure"
  },
  {
-  "slug": "jesus-ronaldo-relationship",
+  "slug": "alexander-arnold-chelsea-transfer",
   "mode": "llm",
-  "titleKo": "제수스·호날두 충돌 논란",
-  "createdAt": "2026-11-05T11:37:35.000Z",
-  "updatedAt": "2026-11-05T11:37:35.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
+  "titleKo": "첼시 알렉산더아놀드 영입 관심",
+  "createdAt": "2026-11-05T12:44:00.000Z",
+  "updatedAt": "2026-11-05T12:44:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea"
+  ],
   "players": [
-   "호날두"
+   "트렌트 알렉산더아놀드"
   ],
   "sig": [
-   "portugal",
-   "jorge",
-   "jesus",
-   "cristiano",
-   "ronaldo"
+   "trent",
+   "alexander",
+   "arnold"
   ],
   "articles": [
    {
-    "id": "76c0d575c5f4",
-    "url": "https://www.thesun.co.uk/sport/40924587/portugal-head-coach-jorge-jesus-cristiano-ronaldo/",
-    "title": "Who is Portugal head coach Jorge Jesus and what was his bust up with Cristiano Ronaldo?",
-    "ko": "포르투갈 감독 조르제 제수스는 누구이며 호날두와는 왜 충돌했나",
-    "source": "sun",
-    "publishedAt": "2026-11-05T11:37:35.000Z",
+    "id": "9afe59ae59cb",
+    "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-sent-trent-alexander-arnold-34866591",
+    "title": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues",
+    "ko": "첼시, 알렉산더아놀드 영입 지시…레알 마드리드 답답함 지속",
+    "source": "fblondon",
+    "publishedAt": "2026-11-05T12:44:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "interest",
     "players": [
-     "호날두"
+     "트렌트 알렉산더아놀드"
     ],
     "playerTags": [
-     "cristiano-ronaldo"
+     "trent-alexander-arnold"
     ],
-    "author": "Daniel Nuttman",
-    "transfer": null
+    "author": "Bobby Vincent",
+    "transfer": {
+     "player": "트렌트 알렉산더아놀드",
+     "from": "레알 마드리드",
+     "to": "첼시"
+    }
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "cristiano-ronaldo"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-05T11:37:35.000Z",
-   "viaQuote": false
-  },
-  "headline": "Who is Portugal head coach Jorge Jesus and what was his bust up with Cristiano Ronaldo?"
- },
- {
-  "slug": "real-madrid-aek-athens-2026-11-03",
-  "mode": "llm",
-  "titleKo": "레알 마드리드 대 AEK 아테네 챔피언스리그 경기",
-  "createdAt": "2026-11-03T17:20:43.000Z",
-  "updatedAt": "2026-11-05T11:32:12.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "real-madrid",
-   "liverpool"
-  ],
-  "players": [
-   "카마빙가",
-   "비니시우스 주니오르",
-   "코이타",
-   "쿠쿠렐라",
-   "주드 벨링엄",
-   "발베르데",
-   "페데리코 발베르데",
-   "킬리안 음바페"
-  ],
-  "sig": [
-   "mourinho",
-   "aek",
-   "atenas"
-  ],
-  "articles": [
-   {
-    "id": "e70550681a54",
-    "url": "https://www.tz.de/sport/fc-bayern/ungleiches-trainer-duell-in-madrid-feuer-und-eis-treffen-aufeinander-94572042.html",
-    "title": "Ungleiches Trainer-Duell in Madrid: englische Coolness vs. argentinischer Vulkan",
-    "ko": "레알 마드리드 대 감독 대결, 영국식 침착함 대 아르헨티나식 열정",
-    "source": "tz",
-    "publishedAt": "2026-11-03T13:30:54.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "34b391ee358b",
-    "url": "https://as.com/futbol/champions/camavinga-y-mourinho-en-directo-rueda-de-prensa-previa-al-aek-atenas-real-madrid-de-champions-f202611-d/",
-    "title": "Camavinga y Mourinho en directo: rueda de prensa previa al AEK Atenas - Real Madrid de Champions",
-    "ko": "카마빙가·무리뉴 AEK 아테네-레알 마드리드 경기 전 기자회견",
-    "source": "as",
-    "publishedAt": "2026-11-03T17:20:43.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "카마빙가"
-    ],
-    "playerTags": [],
-    "author": "Sergio López,Mario de la Riva",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "6ca24e25b46d",
-    "url": "https://as.com/futbol/fotorrelato/de-constantinopla-a-la-champions-curiosidades-del-aek-de-atenas-f202611-f/",
-    "title": "De Constantinopla a la Champions: curiosidades del AEK de Atenas",
-    "ko": "콘스탄티노폴리스에서 챔피언스리그까지, AEK 아테네 비하인드",
-    "source": "as",
-    "publishedAt": "2026-11-04T00:16:44.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AS Fotografía",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "af50f929b5be",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-aek-athenes-real-madrid-en-ligue-des-champions/1740790#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir AEK Athènes-Real Madrid en Ligue des champions ?",
-    "ko": "AEK 아테네 대 레알 마드리드 챔피언스리그 경기 중계 정보",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T07:15:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "f4660e726396",
-    "url": "https://as.com/futbol/tsartas-si-el-madrid-se-confia-le-puede-costar-caro-f202611-n/",
-    "title": "Tsartas: “Si el Madrid se confía le puede costar caro”",
-    "ko": "츠아르타스 \"레알, 방심하면 큰 대가 치를 수 있다\"",
-    "source": "as",
-    "publishedAt": "2026-11-04T08:19:51.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "David Alonso",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "781c80a90f54",
-    "url": "https://as.com/futbol/champions/aek-atenas-real-madrid-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-f202611-d/",
-    "title": "AEK Atenas - Real Madrid hoy, en directo: partido de fase liga de Champions League, última hora",
-    "ko": "AEK 아테네 대 레알 마드리드, 챔피언스리그 리그 페이즈 경기 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-04T10:40:01.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "32b75e33ee44",
-    "url": "https://www.kicker.de/live-grosse-nummern-im-fruehen-fenster-real-gastiert-in-athen-liverpool-bei-fenerbahce-1267885/artikel#omrss",
-    "title": "LIVE! Große Nummern im frühen Fenster: Real gastiert in Athen, Liverpool bei Fenerbahce",
-    "ko": "레알 마드리드 아테네 원정, 리버풀 페네르바체 원정 등 초반 빅매치 생중계",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T16:49:37.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bad0f0714ba8",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/aek-real-madrid-em-direto",
-    "title": "AEK-Real Madrid, em direto",
-    "ko": "AEK 아테네 대 레알 마드리드 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-04T17:02:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b210ab06248c",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-avec-eduardo-camavinga-et-vinicius-chez-l-aek-athenes-en-ligue-des-champions/1741136#at_medium=RSS_feeds",
-    "title": "Le Real Madrid avec Eduardo Camavinga et Vinicius chez l'AEK Athènes en Ligue des champions",
-    "ko": "레알 마드리드, 챔피언스리그 AEK 아테네전에 카마빙가·비니시우스 출전 예정",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T17:05:04.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "카마빙가",
-     "비니시우스 주니오르"
-    ],
-    "playerTags": [
-     "vinicius-junior"
-    ],
-    "author": "Cyril Olivès",
-    "transfer": null
-   },
-   {
-    "id": "6745e6a5e9c0",
-    "url": "https://as.com/futbol/champions/polemica-reacciones-analisis-y-comentarios-del-aek-atenas-real-madrid-en-directo-laliga-ea-sports-f202611-d/",
-    "title": "Polémica, reacciones, análisis y comentarios del AEK Atenas - Real Madrid, en directo: LaLiga EA Sports",
-    "ko": "AEK 아테네 대 레알 마드리드 경기 반응과 분석",
-    "source": "as",
-    "publishedAt": "2026-11-04T17:41:39.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Raúl Castro",
-    "transfer": null
-   },
-   {
-    "id": "f5b89ef16023",
-    "url": "https://www.kicker.de/koita-laesst-cucurella-stehen-aek-aergert-real-mit-fruehem-1-0-1268605/video#omrss",
-    "title": "Koita lässt Cucurella stehen: AEK ärgert Real mit frühem 1:0",
-    "ko": "코이타 선제골, AEK 아테네 레알 마드리드 상대 1-0 앞서가",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T18:04:44.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "코이타",
-     "쿠쿠렐라"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c587bb1e1181",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-talonnade-de-jude-bellingham-avec-le-real-madrid-contre-l-aek-athenes-en-ligue-des-champions-en-video/1741182#at_medium=RSS_feeds",
-    "title": "La talonnade de Jude Bellingham avec le Real Madrid contre l'AEK Athènes en Ligue des champions en vidéo",
-    "ko": "벨링엄, AEK 아테네전 백헤딩 골 영상 공개",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T19:07:59.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "20060e75cce0",
-    "url": "https://as.com/futbol/fotorrelato/el-golazo-de-tacon-de-bellinghan-ante-el-aek-f202611-f/",
-    "title": "Bellingham empieza, Valverde lo termina",
-    "ko": "벨링엄 선발 출전 후 발베르데가 마무리",
-    "source": "as",
-    "publishedAt": "2026-11-04T19:31:20.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄",
-     "페데리코 발베르데"
-    ],
-    "playerTags": [
-     "jude-bellingham",
-     "federico-valverde"
-    ],
-    "author": "AS Fotografía",
-    "transfer": null
-   },
-   {
-    "id": "3de89ab95d22",
-    "url": "https://www.kicker.de/ekstase-bei-real-valverde-packt-den-last-minute-hammer-aus-1268632/video#omrss",
-    "title": "Ekstase bei Real: Valverde packt den Last-Minute-Hammer aus",
-    "ko": "레알 마드리드, 발베르데 막판 결승골로 극적 승리",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T19:41:53.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페데리코 발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2ba936b49def",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-arrache-la-victoire-sur-la-pelouse-de-l-aek-athenes-en-ligue-des-champions/1741194#at_medium=RSS_feeds",
-    "title": "Le Real Madrid arrache la victoire sur la pelouse de l'AEK Athènes en Ligue des champions",
-    "ko": "레알 마드리드, AEK 아테네 원정서 극적 승리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T19:47:26.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cyril Olivès",
-    "transfer": null
-   },
-   {
-    "id": "43bd3fdf7432",
-    "url": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
-    "title": "Valverde’s late winner breaks AEK Athens hearts as Real Madrid twice come from behind",
-    "ko": "발베르데 막판 결승골…레알, AEK 아테네 원정서 두 번 뒤집고 승리",
-    "source": "guardian",
-    "publishedAt": "2026-11-04T20:04:07.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": "AFP",
-    "transfer": null
-   },
-   {
-    "id": "184157de7be2",
-    "url": "https://www.kicker.de/comeback-koenige-aus-madrid-das-ist-die-dna-des-vereins-1268642/artikel#omrss",
-    "title": "Comeback-Könige aus Madrid: \"Das ist die DNA des Vereins\"",
-    "ko": "마드리드의 역전 DNA, '구단 정신'이라 평가",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T20:45:18.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f1187d4ddf30",
-    "url": "https://www.lequipe.fr/Football/Actualites/Buteur-face-a-l-aek-athenes-kylian-mbappe-est-desormais-implique-sur-100-buts-en-ligue-des-champions/1741209#at_medium=RSS_feeds",
-    "title": "Buteur face à l'AEK Athènes, Kylian Mbappé est désormais impliqué sur 100 buts en Ligue des champions",
-    "ko": "음바페, AEK 아테네전 득점으로 챔피언스리그 공격포인트 100개 달성",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T20:54:19.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "37893d353ab0",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
-    "title": "Valverde stunner earns Real Madrid late win at AEK Athens",
-    "ko": "발베르데 막판 결승골…레알 마드리드, AEK 아테네 원정서 승리",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T22:04:13.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c86b7903bbe4",
-    "url": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league",
-    "title": "'One-of-a-kind': Mourinho lauds Bellingham as Madrid stay perfect in Champions",
-    "ko": "무리뉴, 벨링엄 극찬…레알 마드리드 챔피언스리그 전승 행진",
-    "source": "espn",
-    "publishedAt": "2026-11-05T00:49:44.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": "Sam Marsden",
-    "transfer": null
-   },
-   {
-    "id": "d9a5a1c6537e",
-    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/mourinho-e-a-reviravolta-do-real-madrid-contra-o-aek-temo-los-no-sitio",
-    "title": "Mourinho e a reviravolta do Real Madrid contra o AEK: «Temo-los no sítio»",
-    "ko": "무리뉴 \"레알, AEK전 뒤집기 자신\"…\"우리가 그 자리에 있다\"",
-    "source": "record",
-    "publishedAt": "2026-11-05T07:37:38.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "609b87d81a7d",
-    "url": "https://www.kicker.de/mourinho-lobt-aek-sie-waren-zuvor-nicht-annhaehernd-auf-diesem-niveau-1268791/video#omrss",
-    "title": "Mourinho lobt AEK: \"Sie waren zuvor nicht annhähernd auf diesem Niveau\"",
-    "ko": "무리뉴, AEK 아테네 경기력 칭찬",
-    "source": "kicker",
-    "publishedAt": "2026-11-05T08:53:07.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c9440ab11936",
-    "url": "https://as.com/futbol/videos/se-hace-viral-esto-de-los-aficionados-del-aek-con-el-2-1-lo-que-ocurre-despues-es-tremendo-f202611-v/",
-    "title": "Se hace viral esto de los aficionados del AEK con el 2-1: lo que ocurre después es tremendo",
-    "ko": "AEK 팬들의 2-1 장면 바이럴… 이후 장면 화제",
-    "source": "as",
-    "publishedAt": "2026-11-05T11:32:12.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AStv",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 8,
-  "score": 4.39,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "vinicius-junior",
-   "jude-bellingham",
-   "federico-valverde",
-   "kylian-mbappe"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-03T13:30:54.000Z",
-   "viaQuote": false
-  },
-  "headline": "Valverde stunner earns Real Madrid late win at AEK Athens"
- },
- {
-  "slug": "gabriel-real-madrid-transfer",
-  "mode": "llm",
-  "titleKo": "레알 마드리드 J.J. 가브리엘 영입 합의 보도",
-  "createdAt": "2026-11-04T09:15:15.000Z",
-  "updatedAt": "2026-11-05T11:27:12.000Z",
-  "category": "transfer",
-  "stage": "agreement",
-  "clubs": [
-   "real-madrid",
-   "man-utd"
-  ],
-  "players": [
-   "J.J. 가브리엘",
-   "JJ 가브리엘"
-  ],
-  "sig": [
-   "gabriel"
-  ],
-  "articles": [
-   {
-    "id": "19730d7c8f34",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-    "title": "Real Madrid confident of signing Man Utd's Gabriel",
-    "ko": "레알, 맨유의 가브리엘 영입에 자신감",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T09:15:15.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "527607df0a72",
-    "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
-    "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-    "ko": "레알, 맨유 유망주 JJ 가브리엘과 구두 합의",
-    "source": "sky",
-    "publishedAt": "2026-11-04T09:28:00.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "3ccc82b9a434",
-    "url": "https://www.dailystar.co.uk/sport/football/jj-gabriel-reaches-real-madrid-37841097",
-    "title": "JJ Gabriel 'reaches Real Madrid transfer agreement' as wantaway Man Utd sensation nears exit",
-    "ko": "가브리엘, 레알과 이적 합의 보도…맨유 탈출 임박",
-    "source": "star",
-    "publishedAt": "2026-11-04T09:38:08.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Cameron Winstanley",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "9d1247ad6c31",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-crack-anglais-jj-gabriel-16-ans-se-rapproche-du-real-madrid/1741007#at_medium=RSS_feeds",
-    "title": "Le crack anglais JJ Gabriel, 16 ans, se rapproche du Real Madrid",
-    "ko": "16세 잉글랜드 유망주 JJ 가브리엘, 레알 마드리드 이적 근접",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T09:54:40.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "70a8f2b8dd0e",
-    "url": "https://www.thesun.co.uk/sport/40908742/man-utd-jj-gabriel-passport-real-madrid-transfer/",
-    "title": "Wantaway Man Utd wonderkid JJ Gabriel, 16, secures Cypriot passport as he closes in on dream Real Madrid transfer",
-    "ko": "맨유 탈출 원하는 16세 J.J. 가브리엘, 레알 이적 임박",
-    "source": "sun",
-    "publishedAt": "2026-11-04T09:56:06.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Katherine Walsh",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "caaaa95cfccf",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-34860124",
-    "title": "JJ Gabriel reaches verbal transfer agreement days after £8.5m outcome for Man United",
-    "ko": "JJ 가브리엘, 레알 마드리드와 구두 이적 합의…맨유 이적료 850만 파운드 확정 직후",
-    "source": "men",
-    "publishedAt": "2026-11-04T10:00:30.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Matthew Abbott",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "7bd27c039a32",
-    "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
-    "title": "Sources: JJ Gabriel close to joining Real Madrid",
-    "ko": "JJ 가브리엘, 레알 마드리드 합류 임박 보도",
-    "source": "espn",
-    "publishedAt": "2026-11-04T10:53:53.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Rodra",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "4670b6d3caad",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-dark-over-jj-34860796",
-    "title": "Manchester United in the dark over JJ Gabriel future as Real Madrid close on transfer",
-    "ko": "맨유, 레알의 J.J. 가브리엘 영입 임박에 향방 불투명",
-    "source": "men",
-    "publishedAt": "2026-11-04T11:22:20.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Tyrone Marshall",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    },
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "fb0224a41d91",
-    "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-realmadrid-jj-gabriel-37842627",
-    "title": "Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit",
-    "ko": "맨유, 레알 마드리드와 갈등 속 J.J. 가브리엘 올드트래퍼드 이별 임박",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T13:49:49.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "5ccaa3f924a1",
-    "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
-    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-    "ko": "레알 마드리드, 맨유 16세 J.J. 가브리엘 영입 합의 임박",
-    "source": "guardian",
-    "publishedAt": "2026-11-04T14:48:17.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Will Unwin and Jamie Jackson",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "21f2de52faea",
-    "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
-    "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
-    "ko": "맨유 유망주 JJ 가브리엘, 레알 마드리드행 가능성 점검",
-    "source": "sky",
-    "publishedAt": "2026-11-04T15:22:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "28167bdc164f",
-    "url": "https://www.footballinsider247.com/manchester-united/transfers/man-uniteds-jj-gabriel-compensation-revealed-after-he-agrees-to-join-real-madrid",
-    "title": "Man United's JJ Gabriel compensation revealed after he agrees to join Real Madrid",
-    "ko": "JJ 가브리엘, 레알 마드리드 이적 합의 후 맨유 보상금 공개",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T15:25:53.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "3b013f59868c",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gabriel-real-madrid-34866200",
-    "title": "JJ Gabriel plan emerges as Real Madrid fear repeating mistake after signing Man United ace",
-    "ko": "JJ 가브리엘 영입 계획 드러나… 레알, 맨유 선수 영입 실수 반복 우려",
-    "source": "men",
-    "publishedAt": "2026-11-05T11:27:12.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 10,
-  "score": 1.89,
-  "topTier": 1,
-  "stageHistory": [
-   {
-    "id": "19730d7c8f34",
-    "at": "2026-11-04T09:15:15.000Z",
-    "source": "bbc",
-    "from": null,
-    "to": "negotiation"
-   },
-   {
-    "id": "527607df0a72",
-    "at": "2026-11-04T09:28:00.000Z",
-    "source": "sky",
-    "from": "negotiation",
-    "to": "agreement"
-   }
-  ],
-  "stageChange": {
-   "from": "negotiation",
-   "to": "agreement",
-   "at": "2026-11-04T09:28:00.000Z",
-   "source": "sky"
-  },
-  "playerTags": [],
-  "transfer": {
-   "player": "JJ 가브리엘",
-   "from": "맨유",
-   "to": "레알 마드리드"
-  },
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-04T09:15:15.000Z",
-   "viaQuote": false
-  },
-  "headline": "Real Madrid confident of signing Man Utd's Gabriel"
- },
- {
-  "slug": "raphinha-contract",
-  "mode": "llm",
-  "titleKo": "하피냐 2030년까지 재계약",
-  "createdAt": "2026-11-04T15:34:38.000Z",
-  "updatedAt": "2026-11-05T11:18:53.000Z",
-  "category": "transfer",
-  "stage": "done",
-  "clubs": [
-   "barcelona"
-  ],
-  "players": [
-   "하피냐"
-  ],
-  "sig": [
-   "saisonstart",
-   "kapitän",
-   "raphinha"
-  ],
-  "articles": [
-   {
-    "id": "5e61093ab09b",
-    "url": "https://as.com/futbol/primera/raphinha-hasta-2030-f202611-n/",
-    "title": "Raphinha, hasta 2030",
-    "ko": "하피냐, 2030년까지 재계약",
-    "source": "as",
-    "publishedAt": "2026-11-04T15:34:38.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": "Sergi de Juan",
-    "transfer": null
-   },
-   {
-    "id": "90b35ee642e3",
-    "url": "https://www.kicker.de/nach-ueberragendem-saisonstart-barca-bindet-kapitaen-raphinha-1268757/artikel#omrss",
-    "title": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha",
-    "ko": "바르셀로나, 주장 하피냐와 2030년까지 재계약",
-    "source": "kicker",
-    "publishedAt": "2026-11-05T11:18:53.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 1.84,
+  "score": 1.95,
   "topTier": 2,
   "stageHistory": [
    {
-    "id": "5e61093ab09b",
-    "at": "2026-11-04T15:34:38.000Z",
-    "source": "as",
+    "id": "9afe59ae59cb",
+    "at": "2026-11-05T12:44:00.000Z",
+    "source": "fblondon",
     "from": null,
     "to": "interest"
-   },
-   {
-    "id": "90b35ee642e3",
-    "at": "2026-11-05T11:18:53.000Z",
-    "source": "kicker",
-    "from": "interest",
-    "to": "done"
    }
   ],
-  "stageChange": {
-   "from": "interest",
-   "to": "done",
-   "at": "2026-11-05T11:18:53.000Z",
-   "source": "kicker"
-  },
+  "stageChange": null,
   "playerTags": [
-   "raphinha"
+   "trent-alexander-arnold"
   ],
-  "transfer": null,
+  "transfer": {
+   "player": "트렌트 알렉산더아놀드",
+   "from": "레알 마드리드",
+   "to": "첼시"
+  },
   "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-04T15:34:38.000Z",
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-05T12:44:00.000Z",
    "viaQuote": false
   },
-  "headline": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha"
+  "headline": "Chelsea sent Trent Alexander-Arnold transfer instruction as Real Madrid frustration continues"
  },
  {
   "slug": "de-miguel-incident",
   "mode": "llm",
   "titleKo": "데 미겔 사망 사고, 스페인축구협회 경기 연기",
   "createdAt": "2026-11-03T09:39:19.000Z",
-  "updatedAt": "2026-11-05T11:18:39.000Z",
+  "updatedAt": "2026-11-05T12:39:06.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -4089,6 +2980,22 @@
     "transfer": null
    },
    {
+    "id": "35317a6e3ff5",
+    "url": "https://as.com/futbol/aplazado-el-castellon-eibar-por-el-fallecimiento-de-jesus-de-miguel-f202611-n/",
+    "title": "LaLiga aplazará el Castellón-Eibar por el fallecimiento de Jesús de Miguel",
+    "ko": "라리가, 데 미겔 사망으로 카스텔론-에이바르 연기",
+    "source": "as",
+    "publishedAt": "2026-11-05T10:32:16.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Xavi Sidro",
+    "transfer": null
+   },
+   {
     "id": "b813510bb1ab",
     "url": "https://www.thesun.co.uk/sport/40923227/jesus-de-miguel-friend-girlfriend-daughter-family-grief/",
     "title": "Jesus de Miguel’s friend opens up on girlfriend’s agony as it emerges dad burst into tears seeing horror collision on TV",
@@ -4102,6 +3009,22 @@
     "players": [],
     "playerTags": [],
     "author": "Jamie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "6f19a97fb319",
+    "url": "https://as.com/futbol/segunda/comunicado-de-la-familia-de-de-miguel-deja-un-vacio-imposible-de-llenar-f202611-n/",
+    "title": "Comunicado de la familia de De Miguel: “Deja un vacío imposible de llenar”",
+    "ko": "데 미겔 가족 \"채울 수 없는 빈자리\" 성명 발표",
+    "source": "as",
+    "publishedAt": "2026-11-05T10:54:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alberto P. Sierra",
     "transfer": null
    },
    {
@@ -4121,11 +3044,47 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "42ac071d9710",
+    "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-family-statement-37846567",
+    "title": "Jesus de Miguel's heartbroken family issue emotional first statement on footballer's death",
+    "ko": "데 미겔 가족, 비통한 첫 성명 발표",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T12:31:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Patrick Austen-Hardy",
+    "transfer": null
+   },
+   {
+    "id": "6ac964506111",
+    "url": "https://www.thesun.co.uk/sport/40926543/jesus-de-miguel-family-tribute-death/",
+    "title": "Jesus de Miguel’s heartbroken family left with ‘impossible void to fill’ as they release statement on tragic death",
+    "ko": "데 미겔 가족, 비극적 사망 관련 성명 발표",
+    "source": "sun",
+    "publishedAt": "2026-11-05T12:39:06.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Emillia Hawkins",
+    "transfer": null
    }
   ],
   "recentSources": 9,
   "sourceCount": 14,
-  "score": 8.69,
+  "score": 8.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4147,6 +3106,3202 @@
   "aliases": [
    "de-miguel-discipline"
   ]
+ },
+ {
+  "slug": "alex-scott-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "첼시 알렉스 스콧 영입 관심",
+  "createdAt": "2026-11-05T12:36:51.000Z",
+  "updatedAt": "2026-11-05T12:36:51.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "알렉스 스콧"
+  ],
+  "sig": [
+   "alex",
+   "scott",
+   "blues"
+  ],
+  "articles": [
+   {
+    "id": "d23eea0f6286",
+    "url": "https://www.thesun.co.uk/sport/40924636/chelsea-target-alex-scott-january-transfer/",
+    "title": "Chelsea make £100m Alex Scott top target in January transfer window with Blues unlikely to revisit failed summer deal",
+    "ko": "첼시, 1월 이적시장 알렉스 스콧 1순위…1억 파운드",
+    "source": "sun",
+    "publishedAt": "2026-11-05T12:36:51.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "알렉스 스콧"
+    ],
+    "playerTags": [],
+    "author": "Jack Rosser",
+    "transfer": {
+     "player": "알렉스 스콧",
+     "from": null,
+     "to": "첼시"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.57,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "d23eea0f6286",
+    "at": "2026-11-05T12:36:51.000Z",
+    "source": "sun",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "알렉스 스콧",
+   "from": null,
+   "to": "첼시"
+  },
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T12:36:51.000Z",
+   "viaQuote": false
+  },
+  "headline": "Chelsea make £100m Alex Scott top target in January transfer window with Blues unlikely to revisit failed summer deal"
+ },
+ {
+  "slug": "gabriel-real-madrid-transfer",
+  "mode": "llm",
+  "titleKo": "레알 마드리드 J.J. 가브리엘 영입 합의 보도",
+  "createdAt": "2026-11-04T09:15:15.000Z",
+  "updatedAt": "2026-11-05T12:35:46.000Z",
+  "category": "transfer",
+  "stage": "agreement",
+  "clubs": [
+   "real-madrid",
+   "man-utd"
+  ],
+  "players": [
+   "J.J. 가브리엘",
+   "JJ 가브리엘"
+  ],
+  "sig": [
+   "gabriel"
+  ],
+  "articles": [
+   {
+    "id": "19730d7c8f34",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
+    "title": "Real Madrid confident of signing Man Utd's Gabriel",
+    "ko": "레알, 맨유의 가브리엘 영입에 자신감",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T09:15:15.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "527607df0a72",
+    "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford",
+    "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
+    "ko": "레알, 맨유 유망주 JJ 가브리엘과 구두 합의",
+    "source": "sky",
+    "publishedAt": "2026-11-04T09:28:00.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "3ccc82b9a434",
+    "url": "https://www.dailystar.co.uk/sport/football/jj-gabriel-reaches-real-madrid-37841097",
+    "title": "JJ Gabriel 'reaches Real Madrid transfer agreement' as wantaway Man Utd sensation nears exit",
+    "ko": "가브리엘, 레알과 이적 합의 보도…맨유 탈출 임박",
+    "source": "star",
+    "publishedAt": "2026-11-04T09:38:08.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Cameron Winstanley",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "9d1247ad6c31",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-crack-anglais-jj-gabriel-16-ans-se-rapproche-du-real-madrid/1741007#at_medium=RSS_feeds",
+    "title": "Le crack anglais JJ Gabriel, 16 ans, se rapproche du Real Madrid",
+    "ko": "16세 잉글랜드 유망주 JJ 가브리엘, 레알 마드리드 이적 근접",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T09:54:40.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "70a8f2b8dd0e",
+    "url": "https://www.thesun.co.uk/sport/40908742/man-utd-jj-gabriel-passport-real-madrid-transfer/",
+    "title": "Wantaway Man Utd wonderkid JJ Gabriel, 16, secures Cypriot passport as he closes in on dream Real Madrid transfer",
+    "ko": "맨유 탈출 원하는 16세 J.J. 가브리엘, 레알 이적 임박",
+    "source": "sun",
+    "publishedAt": "2026-11-04T09:56:06.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Katherine Walsh",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "caaaa95cfccf",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-34860124",
+    "title": "JJ Gabriel reaches verbal transfer agreement days after £8.5m outcome for Man United",
+    "ko": "JJ 가브리엘, 레알 마드리드와 구두 이적 합의…맨유 이적료 850만 파운드 확정 직후",
+    "source": "men",
+    "publishedAt": "2026-11-04T10:00:30.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Matthew Abbott",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "7bd27c039a32",
+    "url": "https://www.espn.com/soccer/story/_/id/50377365/jj-gabriel-close-joining-real-madrid-sources",
+    "title": "Sources: JJ Gabriel close to joining Real Madrid",
+    "ko": "JJ 가브리엘, 레알 마드리드 합류 임박 보도",
+    "source": "espn",
+    "publishedAt": "2026-11-04T10:53:53.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Rodra",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "4670b6d3caad",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-dark-over-jj-34860796",
+    "title": "Manchester United in the dark over JJ Gabriel future as Real Madrid close on transfer",
+    "ko": "맨유, 레알의 J.J. 가브리엘 영입 임박에 향방 불투명",
+    "source": "men",
+    "publishedAt": "2026-11-04T11:22:20.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    },
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "fb0224a41d91",
+    "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-realmadrid-jj-gabriel-37842627",
+    "title": "Man Utd prepare for Real Madrid conflict as JJ Gabriel nears Old Trafford exit",
+    "ko": "맨유, 레알 마드리드와 갈등 속 J.J. 가브리엘 올드트래퍼드 이별 임박",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T13:49:49.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "5ccaa3f924a1",
+    "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
+    "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
+    "ko": "레알 마드리드, 맨유 16세 J.J. 가브리엘 영입 합의 임박",
+    "source": "guardian",
+    "publishedAt": "2026-11-04T14:48:17.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Will Unwin and Jamie Jackson",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "21f2de52faea",
+    "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid",
+    "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
+    "ko": "맨유 유망주 JJ 가브리엘, 레알 마드리드행 가능성 점검",
+    "source": "sky",
+    "publishedAt": "2026-11-04T15:22:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "28167bdc164f",
+    "url": "https://www.footballinsider247.com/manchester-united/transfers/man-uniteds-jj-gabriel-compensation-revealed-after-he-agrees-to-join-real-madrid",
+    "title": "Man United's JJ Gabriel compensation revealed after he agrees to join Real Madrid",
+    "ko": "JJ 가브리엘, 레알 마드리드 이적 합의 후 맨유 보상금 공개",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T15:25:53.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "3b013f59868c",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gabriel-real-madrid-34866200",
+    "title": "JJ Gabriel plan emerges as Real Madrid fear repeating mistake after signing Man United ace",
+    "ko": "JJ 가브리엘 영입 계획 드러나… 레알, 맨유 선수 영입 실수 반복 우려",
+    "source": "men",
+    "publishedAt": "2026-11-05T11:27:12.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "867a672e1fa1",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-gabriel-real-madrid-37846230",
+    "title": "Real Madrid plan to avoid JJ Gabriel mistake that cost Arsenal star after Man Utd swoop",
+    "ko": "레알 마드리드, 가브리엘 실수 반복 방지 계획…맨유 영입 경쟁",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T12:35:46.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": "아스널",
+     "to": "레알 마드리드"
+    }
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 10,
+  "score": 2.14,
+  "topTier": 1,
+  "stageHistory": [
+   {
+    "id": "19730d7c8f34",
+    "at": "2026-11-04T09:15:15.000Z",
+    "source": "bbc",
+    "from": null,
+    "to": "negotiation"
+   },
+   {
+    "id": "527607df0a72",
+    "at": "2026-11-04T09:28:00.000Z",
+    "source": "sky",
+    "from": "negotiation",
+    "to": "agreement"
+   }
+  ],
+  "stageChange": {
+   "from": "negotiation",
+   "to": "agreement",
+   "at": "2026-11-04T09:28:00.000Z",
+   "source": "sky"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "JJ 가브리엘",
+   "from": "맨유",
+   "to": "레알 마드리드"
+  },
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-04T09:15:15.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid confident of signing Man Utd's Gabriel"
+ },
+ {
+  "slug": "rosenior-chelsea-manager-future",
+  "mode": "llm",
+  "titleKo": "로즈니어 첼시 경질 논란",
+  "createdAt": "2026-11-05T12:26:53.000Z",
+  "updatedAt": "2026-11-05T12:26:53.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [],
+  "sig": [
+   "liam",
+   "rosenior"
+  ],
+  "articles": [
+   {
+    "id": "f3a4db8e10b3",
+    "url": "https://www.thesun.co.uk/sport/40925680/liam-rosenior-chelsea-sacking-paris-fc/",
+    "title": "‘I’m not a joke’ – Liam Rosenior claims Chelsea axe had ‘nothing to do with football’ having been sacked after 107 days",
+    "ko": "로즈니어, 107일 만의 첼시 경질에 \"축구와 무관\" 주장",
+    "source": "sun",
+    "publishedAt": "2026-11-05T12:26:53.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Rosser",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.56,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T12:26:53.000Z",
+   "viaQuote": false
+  },
+  "headline": "‘I’m not a joke’ – Liam Rosenior claims Chelsea axe had ‘nothing to do with football’ having been sacked after 107 days"
+ },
+ {
+  "slug": "man-utd-affairs-ownership",
+  "mode": "llm",
+  "titleKo": "맨유 구단주 지분 매각 논란",
+  "createdAt": "2026-11-03T13:04:39.000Z",
+  "updatedAt": "2026-11-05T12:22:25.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "베컴",
+   "데이비드 베컴",
+   "로이 킨"
+  ],
+  "sig": [
+   "beckham",
+   "sir",
+   "jim"
+  ],
+  "articles": [
+   {
+    "id": "26c9387ca3f1",
+    "url": "https://www.dailystar.co.uk/sport/football/manchester-united-ratcliffe-promise-quit-37834892",
+    "title": "Sir Jim Ratcliffe's Man Utd quit promise emerges after sharing true feelings towards Glazers",
+    "ko": "래트클리프, 글레이저 가문에 대한 속마음 공개 후 맨유 매각 약속 재조명",
+    "source": "star",
+    "publishedAt": "2026-11-02T14:20:55.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Fasika Zelealem, Cameron Winstanley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "e5d0a07acccb",
+    "url": "https://www.thesun.co.uk/sport/40890484/man-utd-news-neville-keane-ferguson-glazers-horse/",
+    "title": "Gary Neville desperately tries to shut down Roy Keane as Man Utd legend brings up ‘elephant in the room’ behind Glazers",
+    "ko": "개리 네빌, 로이 킨과 글레이저 가문 놓고 충돌",
+    "source": "sun",
+    "publishedAt": "2026-11-03T07:25:53.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Chisanga Malata",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "e583d3227f61",
+    "url": "https://www.dailystar.co.uk/sport/football/david-beckham-backed-become-next-37838333",
+    "title": "David Beckham backed to become next Man Utd owner as Sir Jim told 'it hasn't worked'",
+    "ko": "베컴, 차기 맨유 구단주 후보로 거론…짐 래트클리프는 '실패' 평가",
+    "source": "star",
+    "publishedAt": "2026-11-03T13:04:39.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데이비드 베컴"
+    ],
+    "playerTags": [],
+    "author": "Jeremy Cross",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "cc2e26f4448e",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-takeover-beckham-glazers-37839658",
+    "title": "David Beckham's Man Utd takeover flaw as Glazers forced to reconsider",
+    "ko": "베컴의 맨유 인수 허점 드러나…글레이저 가문 재검토 압박",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T17:40:01.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Scott Trotter",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "5f6e0229f255",
+    "url": "https://www.thesun.co.uk/sport/40899744/man-utd-fans-balloons-roma-protest-glazers-ineos/",
+    "title": "Man Utd fans let off 4,000 balloons in major protest against Glazers and Ineos just minutes before crunch Roma clash",
+    "ko": "맨유 팬들, 로마전 앞두고 글레이저·이네오스 항의 풍선 4000개 날려",
+    "source": "sun",
+    "publishedAt": "2026-11-03T20:04:24.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Katherine Walsh",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "3d3e59bd8eb5",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-fans-launch-mid-34858519",
+    "title": "Manchester United fans launch mid-game protest against the owners vs Roma",
+    "ko": "맨유 팬들, 로마전 중 구단주 향해 경기 중 항의 시위",
+    "source": "men",
+    "publishedAt": "2026-11-03T20:26:09.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Jackson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "bb005c890263",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-manchester-united-fans-balls-37840095",
+    "title": "Man Utd fans throw tennis balls onto pitch in anti-Glazer protest as Roma clash stopped",
+    "ko": "맨유 팬들 글레이저 반대 시위, 로마전 경기 중단",
+    "source": "star",
+    "publishedAt": "2026-11-03T20:30:49.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cameron Winstanley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "bcb90b4ad667",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/sir-jim-ratcliffes-terms-leaving-34858138",
+    "title": "Sir Jim Ratcliffe's terms for leaving Manchester United are now being met",
+    "ko": "래트클리프, 맨유 떠나기 위한 조건 충족 단계",
+    "source": "men",
+    "publishedAt": "2026-11-04T06:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "6d5491dd04a3",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-beckham-roy-keane-34859346",
+    "title": "David Beckham backed as Ineos successor and urged to appoint Roy Keane as Man United boss",
+    "ko": "베컴, 이네오스 후임 거론…맨유 감독에 로이 킨 추천 목소리",
+    "source": "men",
+    "publishedAt": "2026-11-04T08:13:40.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "d2a7cde7b442",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-beckham-roy-keane-37840851",
+    "title": "'David Beckham would run Man Utd better than INEOS – and Roy Keane can fix the team'",
+    "ko": "베컴이 INEOS보다 맨유를 잘 이끌 것이라는 주장",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T09:31:05.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데이비드 베컴",
+     "로이 킨"
+    ],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "bfdb8722dc54",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/david-beckham-colocado-na-orbita-para-se-tornar-dono-do-manchester-united",
+    "title": "David Beckham colocado na órbita para se tornar dono do Manchester United",
+    "ko": "베컴, 맨유 구단주 후보로 거론",
+    "source": "record",
+    "publishedAt": "2026-11-04T09:58:21.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데이비드 베컴"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "b7ed6de0c6da",
+    "url": "https://www.mirror.co.uk/sport/football/news/protests-jim-ratcliffe-manchester-united-37841141",
+    "title": "Furious fan protests leave Jim Ratcliffe with decision to make on Man Utd quit promise",
+    "ko": "분노한 팬들 시위, 짐 래트클리프 맨유 사임 약속 결정 압박",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T10:54:40.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "2b58501ea593",
+    "url": "https://www.dailystar.co.uk/sport/football/man-utd-owners-ineos-sack-37843822",
+    "title": "Man Utd owners INEOS sack manager as Sir Jim Ratcliffe 'looks to sell club'",
+    "ko": "맨유 구단주 이네오스, 감독 경질…래트클리프 구단 매각 모색 보도",
+    "source": "star",
+    "publishedAt": "2026-11-04T17:10:35.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield, Bruna Reis",
+    "transfer": null
+   },
+   {
+    "id": "83704db0ff01",
+    "url": "https://www.thesun.co.uk/sport/40915550/peter-kasper-schmeichel-slams-man-utd-fans-protests/",
+    "title": "Man Utd fans slammed by club legend’s son as he says anti-Glazer and Ratcliffe protests ‘don’t help the players’",
+    "ko": "맨유 레전드 아들, 글레이저·래트클리프 반대 시위는 선수들에게 도움 안 된다고 비판",
+    "source": "sun",
+    "publishedAt": "2026-11-04T17:19:25.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alex McCarthy",
+    "transfer": null
+   },
+   {
+    "id": "136a9c5a5acb",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-united-fan-protest-glazers-37844183",
+    "title": "Man Utd fans blasted by club legend's son over behaviour towards the Glazers",
+    "ko": "맨유 팬, 레전드 아들에게 글레이저 가문 대응 방식 비판받아",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T19:06:09.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stephen Killen",
+    "transfer": null
+   },
+   {
+    "id": "536c8cb3d679",
+    "url": "https://www.thesun.co.uk/sport/40911710/paul-scholes-backs-david-beckham-man-utd-takeover/",
+    "title": "‘I don’t see why not’ – Paul Scholes talks up David Beckham takeover of Man Utd as he blasts Sir Jim Ratcliffe era",
+    "ko": "스콜스, 베컴의 맨유 인수 가능성에 찬성 \"이유 없지 않아\"",
+    "source": "sun",
+    "publishedAt": "2026-11-04T19:19:57.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데이비드 베컴"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "934b9586e17f",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-legends-son-hits-34864543",
+    "title": "Man United legend’s son hits out at fans over treatment of owners",
+    "ko": "맨유 전설의 아들, 구단주 대우 두고 팬들 비판",
+    "source": "men",
+    "publishedAt": "2026-11-04T20:00:20.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stephen Killen",
+    "transfer": null
+   },
+   {
+    "id": "22f11e51c2d6",
+    "url": "https://www.thesun.co.uk/sport/40919865/man-utd-new-stadium-jim-ratcliffe-martin-edwards/",
+    "title": "Man Utd fans right to tell Sir Jim Ratcliffe where to stick new stadium, says ex-chairman who hired Sir Alex Ferguson",
+    "ko": "맨유 팬들, 래트클리프 새 경기장 계획에 반대 목소리",
+    "source": "sun",
+    "publishedAt": "2026-11-04T22:39:28.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "54e24ac9d3c3",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jim-ratcliffe-takeover-37843032",
+    "title": "Man Utd news: Sir Jim Ratcliffe's exit terms 'met' as takeover gets backing",
+    "ko": "맨유 래트클리프 지분 매각 조건 '충족'…인수 지지 확보",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T04:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Bayliss",
+    "transfer": null
+   },
+   {
+    "id": "de1a2003e484",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jim-ratcliffe-takeover-34862790",
+    "title": "Man United latest: Sir David Beckham given takeover backing as Sir Jim Ratcliffe stance clear",
+    "ko": "맨유 베컴 인수 지지 소식…래트클리프 입장 분명해져",
+    "source": "men",
+    "publishedAt": "2026-11-05T05:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "베컴"
+    ],
+    "playerTags": [],
+    "author": "Jake Bayliss",
+    "transfer": null
+   },
+   {
+    "id": "21e7ef564126",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/avram-glazer-manchester-united-sale-34865205",
+    "title": "Avram Glazer makes rare Man United comment in public after making sale plans",
+    "ko": "애브럼 글레이저, 드물게 맨유 매각 계획 관련 공개 발언",
+    "source": "men",
+    "publishedAt": "2026-11-05T08:25:06.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "b6bda7523fdc",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-new-stadium-ratcliffe-34865562",
+    "title": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman",
+    "ko": "전 회장 \"맨유, 10만 석 신구장 계획 즉시 포기해야\"",
+    "source": "men",
+    "publishedAt": "2026-11-05T10:29:19.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "67de510300e2",
+    "url": "https://www.dailystar.co.uk/sport/football/manchester-united-avram-glazer-sale-37845485",
+    "title": "Avram Glazer tells audience about Man Utd future and makes sporting success claim",
+    "ko": "아브람 글레이저, 맨유 미래와 스포츠 성공 주장 언급",
+    "source": "star",
+    "publishedAt": "2026-11-05T10:56:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cameron Winstanley, Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "6e63029a3847",
+    "url": "https://www.thesun.co.uk/sport/40925430/avram-glazer-man-utd-success-money-deutsche-bank-conference/",
+    "title": "Hated Man Utd owner Avram Glazer ‘says club don’t need success on pitch to make money’ in rare appearance at conference",
+    "ko": "글레이저 구단주, 컨퍼런스서 \"성적 없이도 돈 번다\" 발언 보도",
+    "source": "sun",
+    "publishedAt": "2026-11-05T12:22:25.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Danny Rust",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 5,
+  "score": 1.68,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-02T14:20:55.000Z",
+   "viaQuote": false
+  },
+  "headline": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman"
+ },
+ {
+  "slug": "real-madrid-affairs-nadal-appointment",
+  "mode": "llm",
+  "titleKo": "레알 마드리드, 나달 임원 선임",
+  "createdAt": "2026-11-04T11:49:04.000Z",
+  "updatedAt": "2026-11-05T12:18:22.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "나달"
+  ],
+  "sig": [
+   "nadal"
+  ],
+  "articles": [
+   {
+    "id": "ec37d1a42742",
+    "url": "https://as.com/futbol/real-madrid/el-madrid-hace-directivo-a-nadal-f202611-n/",
+    "title": "El Madrid hace directivo a Nadal",
+    "ko": "레알 마드리드, 나달 임원 선임",
+    "source": "as",
+    "publishedAt": "2026-11-04T11:49:04.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "b98cf2b30518",
+    "url": "https://as.com/futbol/primera/nadal-acepto-la-propuesta-con-mucha-ilusion-y-aportar-todo-lo-que-pueda-f202611-n/",
+    "title": "Nadal: “Acepto la propuesta con mucha ilusión y ganas de aportar todo lo que pueda”",
+    "ko": "나달, 스페인축구협회 제안 수락 \"최선을 다하겠다\"",
+    "source": "as",
+    "publishedAt": "2026-11-04T12:13:29.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "54ee05c7e5a1",
+    "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+    "title": "Nadal set to join Real Madrid board of directors",
+    "ko": "나달, 레알 마드리드 이사회 합류 임박",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T13:21:01.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "41adc8ae6612",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-propose-la-nomination-de-rafael-nadal-au-sein-de-son-conseil-d-administration/1741056#at_medium=RSS_feeds",
+    "title": "Le Real propose la nomination de Rafael Nadal au sein de son conseil d'administration",
+    "ko": "레알, 나달 이사회 합류 제안",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T13:22:25.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vincent Villa",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "a055464f05c9",
+    "url": "https://as.com/futbol/videos/el-gesto-de-mourinho-sobre-nadal-y-su-inclusion-en-la-junta-que-va-a-poner-la-piel-de-gallina-al-madridismo-f202611-v/",
+    "title": "El gesto de Mourinho sobre Nadal y su inclusión en la Junta que va a poner la piel de gallina al madridismo",
+    "ko": "무리뉴, 나달의 레알 마드리드 이사회 합류에 보인 반응",
+    "source": "as",
+    "publishedAt": "2026-11-04T20:30:06.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "나달"
+    ],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "e0795048ecf1",
+    "url": "https://as.com/futbol/primera/el-acuerdo-con-nadal-estaba-cerrado-desde-antes-del-clasico-y-solo-lo-conocian-cuatro-f202611-n/",
+    "title": "El acuerdo con Nadal estaba cerrado desde antes del Clásico y solo lo conocían cuatro",
+    "ko": "나달 임원 선임 합의, 클래식 전부터 이미 결정돼 있었다",
+    "source": "as",
+    "publishedAt": "2026-11-05T12:18:22.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José Félix Díaz",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 1.81,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-04T11:49:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nadal set to join Real Madrid board of directors"
+ },
+ {
+  "slug": "derby-manager-future",
+  "mode": "llm",
+  "titleKo": "더비 카운티 유스타스 감독 거취 논란",
+  "createdAt": "2026-11-05T12:17:02.000Z",
+  "updatedAt": "2026-11-05T12:17:02.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "john",
+   "eustace",
+   "derby",
+   "county"
+  ],
+  "articles": [
+   {
+    "id": "0d334f08816c",
+    "url": "https://www.footballinsider247.com/efl-championship-news/sources-john-eustace-expected-to-leave-derby-county-after-talks",
+    "title": "Sources: John Eustace expected to leave Derby County after talks",
+    "ko": "더비 카운티, 존 유스타스 떠날 것으로 전해져",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T12:17:02.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.54,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-05T12:17:02.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: John Eustace expected to leave Derby County after talks"
+ },
+ {
+  "slug": "newcastle-manager-future",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 야이슬레 감독 거취 논란",
+  "createdAt": "2026-11-03T07:50:00.000Z",
+  "updatedAt": "2026-11-05T12:09:12.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "newcastle",
+   "everton"
+  ],
+  "players": [
+   "션 스테이어",
+   "엘랑가",
+   "바리",
+   "파비안 셰어",
+   "션 스테우르"
+  ],
+  "sig": [
+   "steur",
+   "matthias",
+   "jaissle"
+  ],
+  "articles": [
+   {
+    "id": "019ff1459e58",
+    "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
+    "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+    "ko": "뉴캐슬 내부 불만 확산, 에버턴 승리로 자이슬 감독 또 골치",
+    "source": "guardian",
+    "publishedAt": "2026-11-02T22:04:11.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바리"
+    ],
+    "playerTags": [],
+    "author": "Miles Starforth at St James' Park",
+    "transfer": null,
+    "clubs": [
+     "newcastle",
+     "everton"
+    ]
+   },
+   {
+    "id": "eea1440dd780",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-says-newcastle-united-34853455",
+    "title": "Matthias Jaissle says Newcastle United stars IGNORED tactical plan in alarming Press conference",
+    "ko": "야이슬레, 뉴캐슬 선수들이 전술 계획 무시했다고 발언",
+    "source": "chronicle",
+    "publishedAt": "2026-11-02T23:07:24.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "7692e63cc79f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
+    "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+    "ko": "뉴캐슬 홈 부진 계속, 야이슬레 감독 고전",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T23:53:46.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "77526a94be9a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/sean-steur-crowd-chant-highlights-34852541",
+    "title": "Sean Steur crowd chant highlights Newcastle decision Matthias Jaissle can no longer shy away from",
+    "ko": "뉴캐슬, 야이슬레 감독 결정 피하기 어려운 상황",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T07:50:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "션 스테우르"
+    ],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "5acc00adadaf",
+    "url": "https://www.thesun.co.uk/sport/40891432/matthias-jaissle-tactics-note-pitch-newcastle-everton/",
+    "title": "Sky Sports cameras show discarded Newcastle tactics note on pitch as boss Jaissle accuses stars of ‘ignoring’ gameplan",
+    "ko": "뉴캐슬 경기장에 버려진 전술 메모, 야이슬레 감독 선수들 무시 비판",
+    "source": "sun",
+    "publishedAt": "2026-11-03T09:44:53.000Z",
+    "credited": "스카이 스포츠",
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "James Graham",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "7325a0c5cb8a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fabian-schar-dumps-matthias-jaissles-34853509",
+    "title": "Fabian Schar dumps Matthias Jaissle's tactical note as Newcastle United's extreme plan backfires",
+    "ko": "파비안 셰어, 뉴캐슬 전술 메모 무시하며 전술 실패 지적",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T10:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파비안 셰어"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "71728d1ef71d",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-make-firm-matthias-jaissle-sack-call-after-fans-rage-expert",
+    "title": "Newcastle make 'firm' Matthias Jaissle sack call after fans rage - expert",
+    "ko": "뉴캐슬, 야이슬레 경질 요구 쇄도에 감독 교체 검토 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T13:30:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "fd747920caa6",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-clocks-turned-back-mike-34854424",
+    "title": "Newcastle clocks have turned back to Mike Ashley era with sheer dross being served up",
+    "ko": "뉴캐슬, 마이크 애슐리 시대로 회귀한 듯한 부진한 경기력 지적",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T18:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "a9c26c413ed6",
+    "url": "https://www.thesun.co.uk/sport/40905522/newcastle-legend-returns-manager/",
+    "title": "Newcastle legend, 46, returns to former club as new manager after cigar-smoking icon snubbed shock job offer",
+    "ko": "뉴캐슬 레전드, 옛 구단 감독으로 복귀 예정",
+    "source": "sun",
+    "publishedAt": "2026-11-03T22:35:58.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4073ec3cb72c",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/never-thought-would-say-matthias-34855540",
+    "title": "I never thought I would say this about Matthias Jaissle's Newcastle United",
+    "ko": "뉴캐슬 야이슬레 감독 체제 평가 변화 조명",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stuart Jamieson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4d0c4929449d",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-matthias-jaissle-34858287",
+    "title": "Newcastle United make Matthias Jaissle future decision as PIF face eye-watering bill",
+    "ko": "뉴캐슬, 야이슬레 거취 결정…PIF 막대한 청구서 직면",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T10:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4617c563c7ff",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/pifs-backing-matthias-jaissle-comes-34862835",
+    "title": "Why PIF's backing of Matthias Jaissle comes with an asterisk as Newcastle boss still in danger",
+    "ko": "PIF의 야이슬레 지지에 단서…뉴캐슬 감독 여전히 위기",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "41bbc96a581a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/under-fire-matthias-jaissle-given-34861619",
+    "title": "Under-fire Matthias Jaissle given Newcastle United ultimatum after leadership issue",
+    "ko": "뉴캐슬 야이슬레, 리더십 문제 후 최후통첩",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "5089214aa643",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-discovers-old-eddie-34865542",
+    "title": "Matthias Jaissle discovers old Eddie Howe problem at Newcastle United ahead of 2027 reboot",
+    "ko": "뉴캐슬, 제이슬 감독 체제에서 하우 시절 문제 재확인",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T12:09:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 5,
+  "score": 0.61,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스카이 스포츠",
+   "at": "2026-11-02T22:04:11.000Z",
+   "viaQuote": true
+  },
+  "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
+ },
+ {
+  "slug": "trafford-leeds-transfer",
+  "mode": "llm",
+  "titleKo": "리즈 트래퍼드 영입 위기",
+  "createdAt": "2026-11-05T12:00:00.000Z",
+  "updatedAt": "2026-11-05T12:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "제임스 트래퍼드"
+  ],
+  "sig": [
+   "james"
+  ],
+  "articles": [
+   {
+    "id": "9bd947c81cd0",
+    "url": "https://www.footballinsider247.com/leeds-united/leeds-at-risk-of-losing-james-trafford-as-big-problem-emerges-after-man-city-exit-verdict",
+    "title": "Leeds at risk of losing James Trafford as 'big problem' emerges after Man City exit - verdict",
+    "ko": "리즈, 맨시티 이탈 후 제임스 트래퍼드 영입 위기 우려",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T12:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "collapsed",
+    "players": [
+     "제임스 트래퍼드"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "제임스 트래퍼드",
+     "from": "맨체스터 시티",
+     "to": "리즈 유나이티드"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.52,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "9bd947c81cd0",
+    "at": "2026-11-05T12:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "제임스 트래퍼드",
+   "from": "맨체스터 시티",
+   "to": "리즈 유나이티드"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-05T12:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Leeds at risk of losing James Trafford as 'big problem' emerges after Man City exit - verdict"
+ },
+ {
+  "slug": "owono-discipline",
+  "mode": "llm",
+  "titleKo": "오워노 징계 8~12경기 출장정지 우려",
+  "createdAt": "2026-11-03T10:38:18.000Z",
+  "updatedAt": "2026-11-05T11:56:31.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "오워노",
+   "호아킨 오워노",
+   "헤수스 데 미겔",
+   "미셸 오워노",
+   "헤수스 오워노"
+  ],
+  "sig": [
+   "jesús",
+   "owono",
+   "andorra"
+  ],
+  "articles": [
+   {
+    "id": "0a1e2ff70fd3",
+    "url": "https://as.com/futbol/segunda/owono-cierra-sus-redes-sociales-f202611-n/",
+    "title": "Owono cierra sus redes sociales",
+    "ko": "오워노, SNS 계정 폐쇄",
+    "source": "as",
+    "publishedAt": "2026-11-03T10:07:04.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "b8538bbaad85",
+    "url": "https://as.com/futbol/segunda/owono-podria-ser-sancionado-con-entre-ocho-y-12-partidos-f202611-n/",
+    "title": "Owono podría ser sancionado con entre ocho y 12 partidos",
+    "ko": "오워노, 8~12경기 출장정지 가능성",
+    "source": "as",
+    "publishedAt": "2026-11-03T10:38:18.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "a0fa2a5e6e7d",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/o-castigo-que-owono-pode-ter-de-cumprir-pela-entrada-que-levou-a-morte-de-jesus-de-miguel",
+    "title": "O castigo que Owono pode ter de cumprir pela entrada que levou à morte de Jesús de Miguel",
+    "ko": "오워노, 데 미겔 사망 부른 태클로 징계 받을 수도",
+    "source": "record",
+    "publishedAt": "2026-11-03T11:14:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "5059a10dafd6",
+    "url": "https://as.com/futbol/segunda/quien-es-jesus-owono-esta-destrozado-y-es-arropado-por-el-andorra-f202611-n/",
+    "title": "Quién es Jesús Owono: está destrozado y es arropado por el Andorra",
+    "ko": "오워노는 누구? 처참한 상태에 안도라가 감싸",
+    "source": "as",
+    "publishedAt": "2026-11-03T11:51:55.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "헤수스 오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "92431479747d",
+    "url": "https://www.lequipe.fr/Football/Actualites/Michel-owono-homonyme-du-gardien-a-l-origine-du-choc-fatal-a-jesus-de-miguel-denonce-le-harcelement-en-ligne-qui-le-vise/1740826#at_medium=RSS_feeds",
+    "title": "Michel Owono, homonyme du gardien à l'origine du choc fatal à Jesus de Miguel, dénonce le harcèlement en ligne qui le vise",
+    "ko": "데 미겔 사망 사고 속 동명이인 오워노, 온라인 괴롭힘 고발",
+    "source": "lequipe",
+    "publishedAt": "2026-11-03T15:40:13.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "미셸 오워노"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "0e7088ddd8b8",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/jurista-admite-ser-dificil-culpar-jesus-owono-pela-morte-de-jesus-de-miguel",
+    "title": "Jurista admite ser difícil culpar Jesús Owono pela morte de Jesús de Miguel",
+    "ko": "법률 전문가, 오워노를 데 미겔 사망 책임으로 묻기 어렵다고 인정",
+    "source": "record",
+    "publishedAt": "2026-11-03T17:55:46.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "d986092c4845",
+    "url": "https://as.com/futbol/segunda/un-jugador-del-andorra-se-rompe-el-futbol-deja-de-tener-sentido-f202611-n/",
+    "title": "Carta de defensa a Owono: “Jamás haría daño a nadie”",
+    "ko": "오워노 변호 서한 공개…“절대 누구도 해치지 않아”",
+    "source": "as",
+    "publishedAt": "2026-11-04T09:15:53.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Amalia Fra",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "f3077cb003cd",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+    "title": "Keeper Owono 'would never intentionally hurt anyone'",
+    "ko": "오워노 골키퍼 \"고의로 누구도 해칠 생각 없었다\"",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T11:40:57.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "aa88627b4eab",
+    "url": "https://as.com/futbol/primera/owono-es-muy-buena-persona-si-lo-conocieran-f202611-n/",
+    "title": "“Owono es muy buena persona, si lo conocieran...”",
+    "ko": "\"오워노는 정말 좋은 사람\"…징계 우려 속 옹호 목소리",
+    "source": "as",
+    "publishedAt": "2026-11-04T12:47:37.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Jorge Cabrera",
+    "transfer": null
+   },
+   {
+    "id": "f08742cda7f8",
+    "url": "https://www.kicker.de/niemals-die-absicht-jemandem-zu-schaden-teamkollege-nimmt-owono-in-schutz-1268487/artikel#omrss",
+    "title": "\"Niemals die Absicht, jemandem zu schaden\": Teamkollege nimmt Owono in Schutz",
+    "ko": "팀 동료, 오워노 감싸…\"해칠 의도 전혀 없었다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T12:59:11.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "3be4488d621c",
+    "url": "https://as.com/futbol/segunda/owono-estan-siendo-los-dias-mas-dificiles-de-mi-vida-f202611-n/",
+    "title": "Owono: “Están siendo los días más difíciles de mi vida”",
+    "ko": "오워노, \"인생에서 가장 힘든 날들\" 심경 토로",
+    "source": "as",
+    "publishedAt": "2026-11-04T15:47:49.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null
+   },
+   {
+    "id": "34ccd7523c3e",
+    "url": "https://as.com/futbol/segunda/owono-no-debe-sentirse-culpable-porque-ha-sido-un-accidente-f202611-n/",
+    "title": "“Owono no debe sentirse culpable porque ha sido un accidente”",
+    "ko": "오워노, 사고였다며 죄책감 가질 필요 없다는 반응",
+    "source": "as",
+    "publishedAt": "2026-11-05T05:35:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "David Alonso",
+    "transfer": null
+   },
+   {
+    "id": "cf758a3bef85",
+    "url": "https://www.marca.com/futbol/sevilla/2026/11/05/garcia-plaza-acuerda-owono-hagamos-dos-victimas.html",
+    "title": "García Plaza se acuerda de Owono: \"No hagamos dos víctimas\"",
+    "ko": "가르시아 플라사, 오워노 언급하며 \"두 번째 피해자 만들지 말자\"",
+    "source": "marca",
+    "publishedAt": "2026-11-05T11:38:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Rocío Guevara",
+    "transfer": null
+   },
+   {
+    "id": "8b768fc01376",
+    "url": "https://as.com/futbol/primera/luis-garcia-owono-esta-en-un-infierno-y-es-una-persona-espectacular-f202611-n/",
+    "title": "Luis García: “Owono está en un infierno y es una persona espectacular”",
+    "ko": "루이스 가르시아 \"오워노, 지옥에 있지만 대단한 사람\"",
+    "source": "as",
+    "publishedAt": "2026-11-05T11:56:31.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "José A. Espina",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 6,
+  "score": 2.18,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-03T10:07:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Keeper Owono 'would never intentionally hurt anyone'"
+ },
+ {
+  "slug": "grealish-discipline",
+  "mode": "llm",
+  "titleKo": "그릴리시 에버턴 징계 후 복귀 여부",
+  "createdAt": "2026-11-03T05:59:05.000Z",
+  "updatedAt": "2026-11-05T11:51:51.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "everton",
+   "newcastle"
+  ],
+  "players": [
+   "잭 그리시",
+   "그릴리시",
+   "잭 그릴리시",
+   "자라드 브랜스웨이트",
+   "브랜스웨이트"
+  ],
+  "sig": [
+   "grealish"
+  ],
+  "articles": [
+   {
+    "id": "8ce8ece0453e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-jack-grealish-everton-newcastle-34852979",
+    "title": "Why Jack Grealish is absent for Everton against Newcastle again after breach of discipline",
+    "ko": "그릴리시, 규율 위반으로 에버턴의 뉴캐슬전 또다시 결장",
+    "source": "lecho",
+    "publishedAt": "2026-11-02T19:12:57.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null,
+    "clubs": [
+     "everton",
+     "newcastle"
+    ]
+   },
+   {
+    "id": "a43fe3a147d8",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
+    "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
+    "ko": "모예스, 그릴리시 질문에 입 다물어 '이용 불가'",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T22:54:52.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "1abc081a2c67",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
+    "title": "Grealish can still have Everton future - Moyes",
+    "ko": "그릴리시, 에버턴 미래 여전히 가능성 - 모예스",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T23:14:27.000Z",
+    "credited": null,
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "e704d888855e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-issues-jack-grealish-34853220",
+    "title": "David Moyes offers way back to Jack Grealish after Everton beat Newcastle - 'Of course there is'",
+    "ko": "모예스, 뉴캐슬전 승리 후 그릴리시 복귀 길 열어줘",
+    "source": "lecho",
+    "publishedAt": "2026-11-02T23:36:48.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "00d51df371a8",
+    "url": "https://www.nytimes.com/athletic/7749174/2026/11/03/jack-grealish-everton-discipline-moyes/",
+    "title": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-03T05:59:05.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "3adbbb013eff",
+    "url": "https://www.mirror.co.uk/sport/football/news/moyes-everton-jack-grealish-future-37836783",
+    "title": "David Moyes bluntly shuts down Jack Grealish questions as Everton snub continues",
+    "ko": "그릴리시, 에버턴 중용 거부에 모예스 '말할 게 없다'",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T08:07:44.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "d26f596083a3",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-everton-newcastle-absence-34853506",
+    "title": "National media react as Jack Grealish sent blunt Everton warning after Newcastle United victory",
+    "ko": "그릴리시, 뉴캐슬 승리 후 에버턴에 경고 발언",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T10:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null,
+    "clubs": [
+     "everton",
+     "newcastle"
+    ]
+   },
+   {
+    "id": "49edb055bd50",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-better-without-jack-grealish-34855163",
+    "title": "Are Everton better off without Jack Grealish after back-to-back wins over Newcastle United?",
+    "ko": "그릴리시 없이 에버턴, 뉴캐슬 상대 연승…이적 효과 논쟁",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T12:44:12.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null,
+    "clubs": [
+     "everton",
+     "newcastle"
+    ]
+   },
+   {
+    "id": "efc4a291c931",
+    "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
+    "title": "There is a way back for Jack Grealish after another Everton omission - David Moyes",
+    "ko": "그릴리시, 에버턴서 또 제외…모예스 '복귀 길 있다'",
+    "source": "espn",
+    "publishedAt": "2026-11-03T13:08:15.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "ESPN News Services",
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "5301bc1eeefa",
+    "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-punishment-moyes-37838116",
+    "title": "Jack Grealish punishment has exposed unavoidable truth for David Moyes and Everton",
+    "ko": "그릴리시 징계 논란이 모예스와 에버턴의 피할 수 없는 현실 드러내",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T17:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "74a1537ecd5c",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-david-moyes-everton-34858518",
+    "title": "Jack Grealish gets new David Moyes message as Everton make statement after discipline breach",
+    "ko": "그릴리시, 에버턴 규율 위반 후 모예스 메시지 받아",
+    "source": "lecho",
+    "publishedAt": "2026-11-03T19:32:18.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "c32d64bc7c88",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-face-jack-grealish-dilemma-34856495",
+    "title": "Everton face Jack Grealish dilemma with Jarrad Branthwaite question and right-back decision",
+    "ko": "에버턴, 그릴리시 징계 이후 거취와 우측 풀백 결정 고민",
+    "source": "lecho",
+    "publishedAt": "2026-11-04T06:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시",
+     "브랜스웨이트"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "85933dc15e99",
+    "url": "https://www.footballinsider247.com/everton/jack-grealish-told-to-make-his-feelings-clear-to-everton-players-in-new-twist-expert",
+    "title": "Jack Grealish told to make his feelings clear to Everton players in new twist - expert",
+    "ko": "그릴리시, 에버턴 선수들에게 속내 밝혀야 한다는 조언",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T06:55:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "everton"
+    ]
+   },
+   {
+    "id": "f413fc099ecf",
+    "url": "https://www.footballinsider247.com/everton/match/keith-wyness-shares-jack-grealish-verdict-after-everton-go-public-with-what-happened",
+    "title": "Keith Wyness shares Jack Grealish verdict after Everton go public with what happened",
+    "ko": "키스 와이니스, 에버턴 그릴리시 사태 공식 입장에 평가",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f444efdb5f11",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-truth-clear-everton-34862617",
+    "title": "Jack Grealish truth is clear as Everton squad deserve credit",
+    "ko": "그릴리시 진실은 분명…에버턴 선수단이 인정받아야",
+    "source": "lecho",
+    "publishedAt": "2026-11-05T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley, Michael Ball",
+    "transfer": null
+   },
+   {
+    "id": "3f931b2445b3",
+    "url": "https://www.footballinsider247.com/everton/grow-up-youre-better-than-this-mate-jack-grealish-torn-apart-over-red-card-offence",
+    "title": "'Grow up, you're better than this, mate' - Jack Grealish torn apart over 'red card offence'",
+    "ko": "그릴리시, '퇴장 유발' 행위 비난 쏟아져",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T06:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "efe997f59d7a",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/at-crossroads-ex-arsenal-star-34865516",
+    "title": "'At a crossroads' - Ex-Arsenal star questions what's next for Jack Grealish at Everton",
+    "ko": "그릴리시, 에버턴에서 갈림길…전 아스널 스타 의문 제기",
+    "source": "lecho",
+    "publishedAt": "2026-11-05T10:06:26.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null
+   },
+   {
+    "id": "993fc832dde8",
+    "url": "https://www.footballinsider247.com/everton/sources-everton-could-terminate-jack-grealish-deal",
+    "title": "Sources: Everton could terminate Jack Grealish deal",
+    "ko": "에버턴, 그릴리시 계약 해지 가능성",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T11:51:51.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 6,
+  "score": 0.72,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-02T19:12:57.000Z",
+   "viaQuote": false
+  },
+  "headline": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?"
+ },
+ {
+  "slug": "stoke-blackburn-2026-11-03",
+  "mode": "llm",
+  "titleKo": "스토크 대 블랙번 경기, 감독 기자회견",
+  "createdAt": "2026-11-03T22:57:46.000Z",
+  "updatedAt": "2026-11-05T11:51:03.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "stoke"
+  ],
+  "players": [
+   "잭 맥글린"
+  ],
+  "sig": [
+   "jack",
+   "mcglynn",
+   "blackburn",
+   "rovers"
+  ],
+  "articles": [
+   {
+    "id": "5fdf64a05be3",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/blackburn-stoke-city-tony-mowbray-11224021",
+    "title": "Tony Mowbray gives Blackburn Rovers warning ahead of Stoke City clash",
+    "ko": "모브레이, 스토크전 앞두고 블랙번에 경고",
+    "source": "stoke",
+    "publishedAt": "2026-11-02T11:29:31.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Peter Smith",
+    "transfer": null,
+    "clubs": [
+     "stoke"
+    ]
+   },
+   {
+    "id": "059678ef3f3b",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/blackburn-stoke-city-live-stream-11226151",
+    "title": "Blackburn Rovers vs Stoke City live - Team news from Ewood Park",
+    "ko": "블랙번 대 스토크 생중계, 이위드 파크 선발 소식",
+    "source": "stoke",
+    "publishedAt": "2026-11-03T18:04:46.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Peter Smith",
+    "transfer": null,
+    "clubs": [
+     "stoke"
+    ]
+   },
+   {
+    "id": "65eae056f390",
+    "url": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
+    "title": "Stoke battle to victory at Blackburn",
+    "ko": "스토크, 블랙번 원정서 힘겨운 승리",
+    "source": "sky",
+    "publishedAt": "2026-11-03T21:15:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "stoke"
+    ]
+   },
+   {
+    "id": "615b9ac4ca14",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-blackburn-mark-robins-11226435",
+    "title": "Stoke City boss on Jack McGlynn, disallowed goal and away support after win at Blackburn Rovers",
+    "ko": "스토크 감독, 맥글린·취소된 골 언급하며 블랙번 원정 승리 평가",
+    "source": "stoke",
+    "publishedAt": "2026-11-03T22:57:46.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "잭 맥글린"
+    ],
+    "playerTags": [],
+    "author": "Peter Smith",
+    "transfer": null,
+    "clubs": [
+     "stoke"
+    ]
+   },
+   {
+    "id": "72b7a970a7bc",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-portsmouth-mark-robins-11228515",
+    "title": "Mark Robins explains the Stoke City change he's been waiting for",
+    "ko": "마크 로빈스, 스토크 시티 변화 설명",
+    "source": "stoke",
+    "publishedAt": "2026-11-05T11:51:03.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Peter Smith",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.67,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Stoke Sentinel",
+   "source": "stoke",
+   "at": "2026-11-02T11:29:31.000Z",
+   "viaQuote": false
+  },
+  "headline": "Mark Robins explains the Stoke City change he's been waiting for"
+ },
+ {
+  "slug": "jesus-ronaldo-relationship",
+  "mode": "llm",
+  "titleKo": "제수스·호날두 충돌 논란",
+  "createdAt": "2026-11-05T11:37:35.000Z",
+  "updatedAt": "2026-11-05T11:43:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "호날두"
+  ],
+  "sig": [
+   "portugal",
+   "jorge",
+   "jesus",
+   "cristiano",
+   "ronaldo"
+  ],
+  "articles": [
+   {
+    "id": "76c0d575c5f4",
+    "url": "https://www.thesun.co.uk/sport/40924587/portugal-head-coach-jorge-jesus-cristiano-ronaldo/",
+    "title": "Who is Portugal head coach Jorge Jesus and what was his bust up with Cristiano Ronaldo?",
+    "ko": "포르투갈 감독 조르제 제수스는 누구이며 호날두와는 왜 충돌했나",
+    "source": "sun",
+    "publishedAt": "2026-11-05T11:37:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Daniel Nuttman",
+    "transfer": null
+   },
+   {
+    "id": "26ca85d34da0",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/cristiano-ronaldo-sem-conversas-com-jorge-jesus",
+    "title": "Cristiano Ronaldo sem conversas com Jorge Jesus",
+    "ko": "호날두, 조르즈 제수스와 대화 없어",
+    "source": "record",
+    "publishedAt": "2026-11-05T11:43:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.12,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cristiano-ronaldo"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T11:37:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Cristiano Ronaldo sem conversas com Jorge Jesus"
+ },
+ {
+  "slug": "bromley-robinson-appointment",
+  "mode": "llm",
+  "titleKo": "브롬리, 로빈슨 감독 선임",
+  "createdAt": "2026-11-05T11:38:00.000Z",
+  "updatedAt": "2026-11-05T11:38:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "dons",
+   "salford",
+   "robinson"
+  ],
+  "articles": [
+   {
+    "id": "e0ae607c5cb7",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvze4k43gl6go?at_medium=RSS&at_campaign=rss",
+    "title": "Bromley appoint ex-MK Dons & Salford boss Robinson",
+    "ko": "브롬리, 전 MK돈스·솔퍼드 감독 로빈슨 선임",
+    "source": "bbc",
+    "publishedAt": "2026-11-05T11:38:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.42,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-05T11:38:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bromley appoint ex-MK Dons & Salford boss Robinson"
+ },
+ {
+  "slug": "real-madrid-aek-athens-2026-11-03",
+  "mode": "llm",
+  "titleKo": "레알 마드리드 대 AEK 아테네 챔피언스리그 경기",
+  "createdAt": "2026-11-03T17:20:43.000Z",
+  "updatedAt": "2026-11-05T11:32:12.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "real-madrid",
+   "liverpool"
+  ],
+  "players": [
+   "카마빙가",
+   "비니시우스 주니오르",
+   "코이타",
+   "쿠쿠렐라",
+   "주드 벨링엄",
+   "발베르데",
+   "페데리코 발베르데",
+   "킬리안 음바페"
+  ],
+  "sig": [
+   "mourinho",
+   "aek",
+   "atenas"
+  ],
+  "articles": [
+   {
+    "id": "e70550681a54",
+    "url": "https://www.tz.de/sport/fc-bayern/ungleiches-trainer-duell-in-madrid-feuer-und-eis-treffen-aufeinander-94572042.html",
+    "title": "Ungleiches Trainer-Duell in Madrid: englische Coolness vs. argentinischer Vulkan",
+    "ko": "레알 마드리드 대 감독 대결, 영국식 침착함 대 아르헨티나식 열정",
+    "source": "tz",
+    "publishedAt": "2026-11-03T13:30:54.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "34b391ee358b",
+    "url": "https://as.com/futbol/champions/camavinga-y-mourinho-en-directo-rueda-de-prensa-previa-al-aek-atenas-real-madrid-de-champions-f202611-d/",
+    "title": "Camavinga y Mourinho en directo: rueda de prensa previa al AEK Atenas - Real Madrid de Champions",
+    "ko": "카마빙가·무리뉴 AEK 아테네-레알 마드리드 경기 전 기자회견",
+    "source": "as",
+    "publishedAt": "2026-11-03T17:20:43.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "카마빙가"
+    ],
+    "playerTags": [],
+    "author": "Sergio López,Mario de la Riva",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "6ca24e25b46d",
+    "url": "https://as.com/futbol/fotorrelato/de-constantinopla-a-la-champions-curiosidades-del-aek-de-atenas-f202611-f/",
+    "title": "De Constantinopla a la Champions: curiosidades del AEK de Atenas",
+    "ko": "콘스탄티노폴리스에서 챔피언스리그까지, AEK 아테네 비하인드",
+    "source": "as",
+    "publishedAt": "2026-11-04T00:16:44.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "af50f929b5be",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-aek-athenes-real-madrid-en-ligue-des-champions/1740790#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir AEK Athènes-Real Madrid en Ligue des champions ?",
+    "ko": "AEK 아테네 대 레알 마드리드 챔피언스리그 경기 중계 정보",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T07:15:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "f4660e726396",
+    "url": "https://as.com/futbol/tsartas-si-el-madrid-se-confia-le-puede-costar-caro-f202611-n/",
+    "title": "Tsartas: “Si el Madrid se confía le puede costar caro”",
+    "ko": "츠아르타스 \"레알, 방심하면 큰 대가 치를 수 있다\"",
+    "source": "as",
+    "publishedAt": "2026-11-04T08:19:51.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "David Alonso",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "781c80a90f54",
+    "url": "https://as.com/futbol/champions/aek-atenas-real-madrid-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-f202611-d/",
+    "title": "AEK Atenas - Real Madrid hoy, en directo: partido de fase liga de Champions League, última hora",
+    "ko": "AEK 아테네 대 레알 마드리드, 챔피언스리그 리그 페이즈 경기 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-04T10:40:01.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López",
+    "transfer": null,
+    "clubs": [
+     "real-madrid"
+    ]
+   },
+   {
+    "id": "32b75e33ee44",
+    "url": "https://www.kicker.de/live-grosse-nummern-im-fruehen-fenster-real-gastiert-in-athen-liverpool-bei-fenerbahce-1267885/artikel#omrss",
+    "title": "LIVE! Große Nummern im frühen Fenster: Real gastiert in Athen, Liverpool bei Fenerbahce",
+    "ko": "레알 마드리드 아테네 원정, 리버풀 페네르바체 원정 등 초반 빅매치 생중계",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T16:49:37.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bad0f0714ba8",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/aek-real-madrid-em-direto",
+    "title": "AEK-Real Madrid, em direto",
+    "ko": "AEK 아테네 대 레알 마드리드 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-04T17:02:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b210ab06248c",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-avec-eduardo-camavinga-et-vinicius-chez-l-aek-athenes-en-ligue-des-champions/1741136#at_medium=RSS_feeds",
+    "title": "Le Real Madrid avec Eduardo Camavinga et Vinicius chez l'AEK Athènes en Ligue des champions",
+    "ko": "레알 마드리드, 챔피언스리그 AEK 아테네전에 카마빙가·비니시우스 출전 예정",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T17:05:04.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "카마빙가",
+     "비니시우스 주니오르"
+    ],
+    "playerTags": [
+     "vinicius-junior"
+    ],
+    "author": "Cyril Olivès",
+    "transfer": null
+   },
+   {
+    "id": "6745e6a5e9c0",
+    "url": "https://as.com/futbol/champions/polemica-reacciones-analisis-y-comentarios-del-aek-atenas-real-madrid-en-directo-laliga-ea-sports-f202611-d/",
+    "title": "Polémica, reacciones, análisis y comentarios del AEK Atenas - Real Madrid, en directo: LaLiga EA Sports",
+    "ko": "AEK 아테네 대 레알 마드리드 경기 반응과 분석",
+    "source": "as",
+    "publishedAt": "2026-11-04T17:41:39.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Raúl Castro",
+    "transfer": null
+   },
+   {
+    "id": "f5b89ef16023",
+    "url": "https://www.kicker.de/koita-laesst-cucurella-stehen-aek-aergert-real-mit-fruehem-1-0-1268605/video#omrss",
+    "title": "Koita lässt Cucurella stehen: AEK ärgert Real mit frühem 1:0",
+    "ko": "코이타 선제골, AEK 아테네 레알 마드리드 상대 1-0 앞서가",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T18:04:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "코이타",
+     "쿠쿠렐라"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c587bb1e1181",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-talonnade-de-jude-bellingham-avec-le-real-madrid-contre-l-aek-athenes-en-ligue-des-champions-en-video/1741182#at_medium=RSS_feeds",
+    "title": "La talonnade de Jude Bellingham avec le Real Madrid contre l'AEK Athènes en Ligue des champions en vidéo",
+    "ko": "벨링엄, AEK 아테네전 백헤딩 골 영상 공개",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T19:07:59.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "20060e75cce0",
+    "url": "https://as.com/futbol/fotorrelato/el-golazo-de-tacon-de-bellinghan-ante-el-aek-f202611-f/",
+    "title": "Bellingham empieza, Valverde lo termina",
+    "ko": "벨링엄 선발 출전 후 발베르데가 마무리",
+    "source": "as",
+    "publishedAt": "2026-11-04T19:31:20.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄",
+     "페데리코 발베르데"
+    ],
+    "playerTags": [
+     "jude-bellingham",
+     "federico-valverde"
+    ],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
+    "id": "3de89ab95d22",
+    "url": "https://www.kicker.de/ekstase-bei-real-valverde-packt-den-last-minute-hammer-aus-1268632/video#omrss",
+    "title": "Ekstase bei Real: Valverde packt den Last-Minute-Hammer aus",
+    "ko": "레알 마드리드, 발베르데 막판 결승골로 극적 승리",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T19:41:53.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페데리코 발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2ba936b49def",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-arrache-la-victoire-sur-la-pelouse-de-l-aek-athenes-en-ligue-des-champions/1741194#at_medium=RSS_feeds",
+    "title": "Le Real Madrid arrache la victoire sur la pelouse de l'AEK Athènes en Ligue des champions",
+    "ko": "레알 마드리드, AEK 아테네 원정서 극적 승리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T19:47:26.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cyril Olivès",
+    "transfer": null
+   },
+   {
+    "id": "43bd3fdf7432",
+    "url": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
+    "title": "Valverde’s late winner breaks AEK Athens hearts as Real Madrid twice come from behind",
+    "ko": "발베르데 막판 결승골…레알, AEK 아테네 원정서 두 번 뒤집고 승리",
+    "source": "guardian",
+    "publishedAt": "2026-11-04T20:04:07.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": "AFP",
+    "transfer": null
+   },
+   {
+    "id": "184157de7be2",
+    "url": "https://www.kicker.de/comeback-koenige-aus-madrid-das-ist-die-dna-des-vereins-1268642/artikel#omrss",
+    "title": "Comeback-Könige aus Madrid: \"Das ist die DNA des Vereins\"",
+    "ko": "마드리드의 역전 DNA, '구단 정신'이라 평가",
+    "source": "kicker",
+    "publishedAt": "2026-11-04T20:45:18.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f1187d4ddf30",
+    "url": "https://www.lequipe.fr/Football/Actualites/Buteur-face-a-l-aek-athenes-kylian-mbappe-est-desormais-implique-sur-100-buts-en-ligue-des-champions/1741209#at_medium=RSS_feeds",
+    "title": "Buteur face à l'AEK Athènes, Kylian Mbappé est désormais impliqué sur 100 buts en Ligue des champions",
+    "ko": "음바페, AEK 아테네전 득점으로 챔피언스리그 공격포인트 100개 달성",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T20:54:19.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "37893d353ab0",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss",
+    "title": "Valverde stunner earns Real Madrid late win at AEK Athens",
+    "ko": "발베르데 막판 결승골…레알 마드리드, AEK 아테네 원정서 승리",
+    "source": "bbc",
+    "publishedAt": "2026-11-04T22:04:13.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c86b7903bbe4",
+    "url": "https://www.espn.com/soccer/story/_/id/50382502/mourinho-bellingham-real-madrid-aek-athens-champions-league",
+    "title": "'One-of-a-kind': Mourinho lauds Bellingham as Madrid stay perfect in Champions",
+    "ko": "무리뉴, 벨링엄 극찬…레알 마드리드 챔피언스리그 전승 행진",
+    "source": "espn",
+    "publishedAt": "2026-11-05T00:49:44.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": "Sam Marsden",
+    "transfer": null
+   },
+   {
+    "id": "d9a5a1c6537e",
+    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/mourinho-e-a-reviravolta-do-real-madrid-contra-o-aek-temo-los-no-sitio",
+    "title": "Mourinho e a reviravolta do Real Madrid contra o AEK: «Temo-los no sítio»",
+    "ko": "무리뉴 \"레알, AEK전 뒤집기 자신\"…\"우리가 그 자리에 있다\"",
+    "source": "record",
+    "publishedAt": "2026-11-05T07:37:38.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "609b87d81a7d",
+    "url": "https://www.kicker.de/mourinho-lobt-aek-sie-waren-zuvor-nicht-annhaehernd-auf-diesem-niveau-1268791/video#omrss",
+    "title": "Mourinho lobt AEK: \"Sie waren zuvor nicht annhähernd auf diesem Niveau\"",
+    "ko": "무리뉴, AEK 아테네 경기력 칭찬",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T08:53:07.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c9440ab11936",
+    "url": "https://as.com/futbol/videos/se-hace-viral-esto-de-los-aficionados-del-aek-con-el-2-1-lo-que-ocurre-despues-es-tremendo-f202611-v/",
+    "title": "Se hace viral esto de los aficionados del AEK con el 2-1: lo que ocurre después es tremendo",
+    "ko": "AEK 팬들의 2-1 장면 바이럴… 이후 장면 화제",
+    "source": "as",
+    "publishedAt": "2026-11-05T11:32:12.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 8,
+  "score": 3.39,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "vinicius-junior",
+   "jude-bellingham",
+   "federico-valverde",
+   "kylian-mbappe"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-03T13:30:54.000Z",
+   "viaQuote": false
+  },
+  "headline": "Valverde stunner earns Real Madrid late win at AEK Athens"
+ },
+ {
+  "slug": "raphinha-contract",
+  "mode": "llm",
+  "titleKo": "하피냐 2030년까지 재계약",
+  "createdAt": "2026-11-04T15:34:38.000Z",
+  "updatedAt": "2026-11-05T11:18:53.000Z",
+  "category": "transfer",
+  "stage": "done",
+  "clubs": [
+   "barcelona"
+  ],
+  "players": [
+   "하피냐"
+  ],
+  "sig": [
+   "saisonstart",
+   "kapitän",
+   "raphinha"
+  ],
+  "articles": [
+   {
+    "id": "5e61093ab09b",
+    "url": "https://as.com/futbol/primera/raphinha-hasta-2030-f202611-n/",
+    "title": "Raphinha, hasta 2030",
+    "ko": "하피냐, 2030년까지 재계약",
+    "source": "as",
+    "publishedAt": "2026-11-04T15:34:38.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Sergi de Juan",
+    "transfer": null
+   },
+   {
+    "id": "90b35ee642e3",
+    "url": "https://www.kicker.de/nach-ueberragendem-saisonstart-barca-bindet-kapitaen-raphinha-1268757/artikel#omrss",
+    "title": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha",
+    "ko": "바르셀로나, 주장 하피냐와 2030년까지 재계약",
+    "source": "kicker",
+    "publishedAt": "2026-11-05T11:18:53.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.53,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "5e61093ab09b",
+    "at": "2026-11-04T15:34:38.000Z",
+    "source": "as",
+    "from": null,
+    "to": "interest"
+   },
+   {
+    "id": "90b35ee642e3",
+    "at": "2026-11-05T11:18:53.000Z",
+    "source": "kicker",
+    "from": "interest",
+    "to": "done"
+   }
+  ],
+  "stageChange": {
+   "from": "interest",
+   "to": "done",
+   "at": "2026-11-05T11:18:53.000Z",
+   "source": "kicker"
+  },
+  "playerTags": [
+   "raphinha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-04T15:34:38.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nach überragendem Saisonstart: Barca bindet Kapitän Raphinha"
+ },
+ {
+  "slug": "cardoso-barcelona-transfer",
+  "mode": "llm",
+  "titleKo": "카르도주 바르셀로나 이적 근접",
+  "createdAt": "2026-11-05T11:13:45.000Z",
+  "updatedAt": "2026-11-05T11:13:45.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "barcelona"
+  ],
+  "players": [
+   "카르도주"
+  ],
+  "sig": [],
+  "articles": [
+   {
+    "id": "2aea31763f64",
+    "url": "https://as.com/futbol/primera/cardoso-se-apunta-al-barcelona-f202611-n/",
+    "title": "Cardoso se apunta al Barcelona",
+    "ko": "카르도주, 바르셀로나 이적 근접",
+    "source": "as",
+    "publishedAt": "2026-11-05T11:13:45.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "카르도주"
+    ],
+    "playerTags": [],
+    "author": "F.J. Díaz",
+    "transfer": {
+     "player": "카르도주",
+     "from": null,
+     "to": "바르셀로나"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.5,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "2aea31763f64",
+    "at": "2026-11-05T11:13:45.000Z",
+    "source": "as",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "카르도주",
+   "from": null,
+   "to": "바르셀로나"
+  },
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-05T11:13:45.000Z",
+   "viaQuote": false
+  },
+  "headline": "Cardoso se apunta al Barcelona"
  },
  {
   "slug": "liverpool-fenerbahce-2026-11-03",
@@ -4623,7 +6778,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 1.69,
+  "score": 1.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4680,7 +6835,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.44,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -5008,7 +7163,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 1.73,
+  "score": 1.44,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5021,470 +7176,6 @@
    "viaQuote": false
   },
   "headline": "Jaissle unhappy with 'clear foul' before Barry goal"
- },
- {
-  "slug": "man-utd-affairs-ownership",
-  "mode": "llm",
-  "titleKo": "맨유 구단주 지분 매각 논란",
-  "createdAt": "2026-11-03T13:04:39.000Z",
-  "updatedAt": "2026-11-05T10:56:30.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [
-   "베컴",
-   "데이비드 베컴",
-   "로이 킨"
-  ],
-  "sig": [
-   "beckham",
-   "sir",
-   "jim"
-  ],
-  "articles": [
-   {
-    "id": "26c9387ca3f1",
-    "url": "https://www.dailystar.co.uk/sport/football/manchester-united-ratcliffe-promise-quit-37834892",
-    "title": "Sir Jim Ratcliffe's Man Utd quit promise emerges after sharing true feelings towards Glazers",
-    "ko": "래트클리프, 글레이저 가문에 대한 속마음 공개 후 맨유 매각 약속 재조명",
-    "source": "star",
-    "publishedAt": "2026-11-02T14:20:55.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Fasika Zelealem, Cameron Winstanley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "e5d0a07acccb",
-    "url": "https://www.thesun.co.uk/sport/40890484/man-utd-news-neville-keane-ferguson-glazers-horse/",
-    "title": "Gary Neville desperately tries to shut down Roy Keane as Man Utd legend brings up ‘elephant in the room’ behind Glazers",
-    "ko": "개리 네빌, 로이 킨과 글레이저 가문 놓고 충돌",
-    "source": "sun",
-    "publishedAt": "2026-11-03T07:25:53.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Chisanga Malata",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "e583d3227f61",
-    "url": "https://www.dailystar.co.uk/sport/football/david-beckham-backed-become-next-37838333",
-    "title": "David Beckham backed to become next Man Utd owner as Sir Jim told 'it hasn't worked'",
-    "ko": "베컴, 차기 맨유 구단주 후보로 거론…짐 래트클리프는 '실패' 평가",
-    "source": "star",
-    "publishedAt": "2026-11-03T13:04:39.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데이비드 베컴"
-    ],
-    "playerTags": [],
-    "author": "Jeremy Cross",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "cc2e26f4448e",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-takeover-beckham-glazers-37839658",
-    "title": "David Beckham's Man Utd takeover flaw as Glazers forced to reconsider",
-    "ko": "베컴의 맨유 인수 허점 드러나…글레이저 가문 재검토 압박",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T17:40:01.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Scott Trotter",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "5f6e0229f255",
-    "url": "https://www.thesun.co.uk/sport/40899744/man-utd-fans-balloons-roma-protest-glazers-ineos/",
-    "title": "Man Utd fans let off 4,000 balloons in major protest against Glazers and Ineos just minutes before crunch Roma clash",
-    "ko": "맨유 팬들, 로마전 앞두고 글레이저·이네오스 항의 풍선 4000개 날려",
-    "source": "sun",
-    "publishedAt": "2026-11-03T20:04:24.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Katherine Walsh",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "3d3e59bd8eb5",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-fans-launch-mid-34858519",
-    "title": "Manchester United fans launch mid-game protest against the owners vs Roma",
-    "ko": "맨유 팬들, 로마전 중 구단주 향해 경기 중 항의 시위",
-    "source": "men",
-    "publishedAt": "2026-11-03T20:26:09.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Jackson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "bb005c890263",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-manchester-united-fans-balls-37840095",
-    "title": "Man Utd fans throw tennis balls onto pitch in anti-Glazer protest as Roma clash stopped",
-    "ko": "맨유 팬들 글레이저 반대 시위, 로마전 경기 중단",
-    "source": "star",
-    "publishedAt": "2026-11-03T20:30:49.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cameron Winstanley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "bcb90b4ad667",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/sir-jim-ratcliffes-terms-leaving-34858138",
-    "title": "Sir Jim Ratcliffe's terms for leaving Manchester United are now being met",
-    "ko": "래트클리프, 맨유 떠나기 위한 조건 충족 단계",
-    "source": "men",
-    "publishedAt": "2026-11-04T06:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "6d5491dd04a3",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-beckham-roy-keane-34859346",
-    "title": "David Beckham backed as Ineos successor and urged to appoint Roy Keane as Man United boss",
-    "ko": "베컴, 이네오스 후임 거론…맨유 감독에 로이 킨 추천 목소리",
-    "source": "men",
-    "publishedAt": "2026-11-04T08:13:40.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "d2a7cde7b442",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-beckham-roy-keane-37840851",
-    "title": "'David Beckham would run Man Utd better than INEOS – and Roy Keane can fix the team'",
-    "ko": "베컴이 INEOS보다 맨유를 잘 이끌 것이라는 주장",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T09:31:05.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데이비드 베컴",
-     "로이 킨"
-    ],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "bfdb8722dc54",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/david-beckham-colocado-na-orbita-para-se-tornar-dono-do-manchester-united",
-    "title": "David Beckham colocado na órbita para se tornar dono do Manchester United",
-    "ko": "베컴, 맨유 구단주 후보로 거론",
-    "source": "record",
-    "publishedAt": "2026-11-04T09:58:21.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데이비드 베컴"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "b7ed6de0c6da",
-    "url": "https://www.mirror.co.uk/sport/football/news/protests-jim-ratcliffe-manchester-united-37841141",
-    "title": "Furious fan protests leave Jim Ratcliffe with decision to make on Man Utd quit promise",
-    "ko": "분노한 팬들 시위, 짐 래트클리프 맨유 사임 약속 결정 압박",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T10:54:40.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Ridley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "2b58501ea593",
-    "url": "https://www.dailystar.co.uk/sport/football/man-utd-owners-ineos-sack-37843822",
-    "title": "Man Utd owners INEOS sack manager as Sir Jim Ratcliffe 'looks to sell club'",
-    "ko": "맨유 구단주 이네오스, 감독 경질…래트클리프 구단 매각 모색 보도",
-    "source": "star",
-    "publishedAt": "2026-11-04T17:10:35.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield, Bruna Reis",
-    "transfer": null
-   },
-   {
-    "id": "83704db0ff01",
-    "url": "https://www.thesun.co.uk/sport/40915550/peter-kasper-schmeichel-slams-man-utd-fans-protests/",
-    "title": "Man Utd fans slammed by club legend’s son as he says anti-Glazer and Ratcliffe protests ‘don’t help the players’",
-    "ko": "맨유 레전드 아들, 글레이저·래트클리프 반대 시위는 선수들에게 도움 안 된다고 비판",
-    "source": "sun",
-    "publishedAt": "2026-11-04T17:19:25.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alex McCarthy",
-    "transfer": null
-   },
-   {
-    "id": "136a9c5a5acb",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-united-fan-protest-glazers-37844183",
-    "title": "Man Utd fans blasted by club legend's son over behaviour towards the Glazers",
-    "ko": "맨유 팬, 레전드 아들에게 글레이저 가문 대응 방식 비판받아",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T19:06:09.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephen Killen",
-    "transfer": null
-   },
-   {
-    "id": "536c8cb3d679",
-    "url": "https://www.thesun.co.uk/sport/40911710/paul-scholes-backs-david-beckham-man-utd-takeover/",
-    "title": "‘I don’t see why not’ – Paul Scholes talks up David Beckham takeover of Man Utd as he blasts Sir Jim Ratcliffe era",
-    "ko": "스콜스, 베컴의 맨유 인수 가능성에 찬성 \"이유 없지 않아\"",
-    "source": "sun",
-    "publishedAt": "2026-11-04T19:19:57.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데이비드 베컴"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "934b9586e17f",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-legends-son-hits-34864543",
-    "title": "Man United legend’s son hits out at fans over treatment of owners",
-    "ko": "맨유 전설의 아들, 구단주 대우 두고 팬들 비판",
-    "source": "men",
-    "publishedAt": "2026-11-04T20:00:20.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephen Killen",
-    "transfer": null
-   },
-   {
-    "id": "22f11e51c2d6",
-    "url": "https://www.thesun.co.uk/sport/40919865/man-utd-new-stadium-jim-ratcliffe-martin-edwards/",
-    "title": "Man Utd fans right to tell Sir Jim Ratcliffe where to stick new stadium, says ex-chairman who hired Sir Alex Ferguson",
-    "ko": "맨유 팬들, 래트클리프 새 경기장 계획에 반대 목소리",
-    "source": "sun",
-    "publishedAt": "2026-11-04T22:39:28.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "54e24ac9d3c3",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jim-ratcliffe-takeover-37843032",
-    "title": "Man Utd news: Sir Jim Ratcliffe's exit terms 'met' as takeover gets backing",
-    "ko": "맨유 래트클리프 지분 매각 조건 '충족'…인수 지지 확보",
-    "source": "mirror",
-    "publishedAt": "2026-11-05T04:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Bayliss",
-    "transfer": null
-   },
-   {
-    "id": "de1a2003e484",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jim-ratcliffe-takeover-34862790",
-    "title": "Man United latest: Sir David Beckham given takeover backing as Sir Jim Ratcliffe stance clear",
-    "ko": "맨유 베컴 인수 지지 소식…래트클리프 입장 분명해져",
-    "source": "men",
-    "publishedAt": "2026-11-05T05:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "베컴"
-    ],
-    "playerTags": [],
-    "author": "Jake Bayliss",
-    "transfer": null
-   },
-   {
-    "id": "21e7ef564126",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/avram-glazer-manchester-united-sale-34865205",
-    "title": "Avram Glazer makes rare Man United comment in public after making sale plans",
-    "ko": "애브럼 글레이저, 드물게 맨유 매각 계획 관련 공개 발언",
-    "source": "men",
-    "publishedAt": "2026-11-05T08:25:06.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null
-   },
-   {
-    "id": "b6bda7523fdc",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-new-stadium-ratcliffe-34865562",
-    "title": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman",
-    "ko": "전 회장 \"맨유, 10만 석 신구장 계획 즉시 포기해야\"",
-    "source": "men",
-    "publishedAt": "2026-11-05T10:29:19.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null
-   },
-   {
-    "id": "67de510300e2",
-    "url": "https://www.dailystar.co.uk/sport/football/manchester-united-avram-glazer-sale-37845485",
-    "title": "Avram Glazer tells audience about Man Utd future and makes sporting success claim",
-    "ko": "아브람 글레이저, 맨유 미래와 스포츠 성공 주장 언급",
-    "source": "star",
-    "publishedAt": "2026-11-05T10:56:30.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cameron Winstanley, Amie Wilson",
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 5,
-  "score": 1.36,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Daily Star",
-   "source": "star",
-   "at": "2026-11-02T14:20:55.000Z",
-   "viaQuote": false
-  },
-  "headline": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman"
  },
  {
   "slug": "dortmund-leipzig-2026-11-03",
@@ -5553,7 +7244,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.71,
+  "score": 1.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5566,6 +7257,58 @@
    "viaQuote": false
   },
   "headline": "Buteur victorieux pour Dortmund en Ligue des champions, Karetsas aurait pu manquer son entrée en jeu"
+ },
+ {
+  "slug": "maguette-injury",
+  "mode": "llm",
+  "titleKo": "마게트 햄스트링 부상 재발 우려",
+  "createdAt": "2026-11-05T10:36:21.000Z",
+  "updatedAt": "2026-11-05T10:36:21.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "마게트"
+  ],
+  "sig": [
+   "maguette",
+   "racing"
+  ],
+  "articles": [
+   {
+    "id": "746647be0251",
+    "url": "https://as.com/futbol/primera/los-isquiotibiales-de-maguette-encienden-otta-nueva-alarma-en-el-racing-f202611-n/",
+    "title": "Los isquiotibiales de Maguette encienden otra nueva alarma en el Racing",
+    "ko": "마게트 햄스트링 또 경고등, 라싱 우려 커져",
+    "source": "as",
+    "publishedAt": "2026-11-05T10:36:21.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마게트"
+    ],
+    "playerTags": [],
+    "author": "Óscar García Mayo",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.35,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-05T10:36:21.000Z",
+   "viaQuote": false
+  },
+  "headline": "Los isquiotibiales de Maguette encienden otra nueva alarma en el Racing"
  },
  {
   "slug": "emery-aston-villa-manager-future",
@@ -5736,7 +7479,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5749,390 +7492,6 @@
    "viaQuote": false
   },
   "headline": "Emery looks to show Villa can compete with elite"
- },
- {
-  "slug": "grealish-discipline",
-  "mode": "llm",
-  "titleKo": "그릴리시 에버턴 징계 후 복귀 여부",
-  "createdAt": "2026-11-03T05:59:05.000Z",
-  "updatedAt": "2026-11-05T10:06:26.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "everton",
-   "newcastle"
-  ],
-  "players": [
-   "잭 그리시",
-   "그릴리시",
-   "잭 그릴리시",
-   "자라드 브랜스웨이트",
-   "브랜스웨이트"
-  ],
-  "sig": [
-   "grealish"
-  ],
-  "articles": [
-   {
-    "id": "8ce8ece0453e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-jack-grealish-everton-newcastle-34852979",
-    "title": "Why Jack Grealish is absent for Everton against Newcastle again after breach of discipline",
-    "ko": "그릴리시, 규율 위반으로 에버턴의 뉴캐슬전 또다시 결장",
-    "source": "lecho",
-    "publishedAt": "2026-11-02T19:12:57.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Connor O'Neill",
-    "transfer": null,
-    "clubs": [
-     "everton",
-     "newcastle"
-    ]
-   },
-   {
-    "id": "a43fe3a147d8",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ckjwex4v4gq1o?at_medium=RSS&at_campaign=rss",
-    "title": "'He's unavailable' - Moyes tight-lipped on Grealish",
-    "ko": "모예스, 그릴리시 질문에 입 다물어 '이용 불가'",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T22:54:52.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "1abc081a2c67",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o?at_medium=RSS&at_campaign=rss",
-    "title": "Grealish can still have Everton future - Moyes",
-    "ko": "그릴리시, 에버턴 미래 여전히 가능성 - 모예스",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T23:14:27.000Z",
-    "credited": null,
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "e704d888855e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-issues-jack-grealish-34853220",
-    "title": "David Moyes offers way back to Jack Grealish after Everton beat Newcastle - 'Of course there is'",
-    "ko": "모예스, 뉴캐슬전 승리 후 그릴리시 복귀 길 열어줘",
-    "source": "lecho",
-    "publishedAt": "2026-11-02T23:36:48.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "00d51df371a8",
-    "url": "https://www.nytimes.com/athletic/7749174/2026/11/03/jack-grealish-everton-discipline-moyes/",
-    "title": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-03T05:59:05.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "3adbbb013eff",
-    "url": "https://www.mirror.co.uk/sport/football/news/moyes-everton-jack-grealish-future-37836783",
-    "title": "David Moyes bluntly shuts down Jack Grealish questions as Everton snub continues",
-    "ko": "그릴리시, 에버턴 중용 거부에 모예스 '말할 게 없다'",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T08:07:44.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Samuel Meade",
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "d26f596083a3",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-everton-newcastle-absence-34853506",
-    "title": "National media react as Jack Grealish sent blunt Everton warning after Newcastle United victory",
-    "ko": "그릴리시, 뉴캐슬 승리 후 에버턴에 경고 발언",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T10:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Connor O'Neill",
-    "transfer": null,
-    "clubs": [
-     "everton",
-     "newcastle"
-    ]
-   },
-   {
-    "id": "49edb055bd50",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-better-without-jack-grealish-34855163",
-    "title": "Are Everton better off without Jack Grealish after back-to-back wins over Newcastle United?",
-    "ko": "그릴리시 없이 에버턴, 뉴캐슬 상대 연승…이적 효과 논쟁",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T12:44:12.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null,
-    "clubs": [
-     "everton",
-     "newcastle"
-    ]
-   },
-   {
-    "id": "efc4a291c931",
-    "url": "https://www.espn.com/soccer/story/_/id/50360114/jack-grealish-everton-squad-again",
-    "title": "There is a way back for Jack Grealish after another Everton omission - David Moyes",
-    "ko": "그릴리시, 에버턴서 또 제외…모예스 '복귀 길 있다'",
-    "source": "espn",
-    "publishedAt": "2026-11-03T13:08:15.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "ESPN News Services",
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "5301bc1eeefa",
-    "url": "https://www.mirror.co.uk/sport/football/news/jack-grealish-everton-punishment-moyes-37838116",
-    "title": "Jack Grealish punishment has exposed unavoidable truth for David Moyes and Everton",
-    "ko": "그릴리시 징계 논란이 모예스와 에버턴의 피할 수 없는 현실 드러내",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T17:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "74a1537ecd5c",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-david-moyes-everton-34858518",
-    "title": "Jack Grealish gets new David Moyes message as Everton make statement after discipline breach",
-    "ko": "그릴리시, 에버턴 규율 위반 후 모예스 메시지 받아",
-    "source": "lecho",
-    "publishedAt": "2026-11-03T19:32:18.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Connor O'Neill",
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "c32d64bc7c88",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-face-jack-grealish-dilemma-34856495",
-    "title": "Everton face Jack Grealish dilemma with Jarrad Branthwaite question and right-back decision",
-    "ko": "에버턴, 그릴리시 징계 이후 거취와 우측 풀백 결정 고민",
-    "source": "lecho",
-    "publishedAt": "2026-11-04T06:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시",
-     "브랜스웨이트"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "85933dc15e99",
-    "url": "https://www.footballinsider247.com/everton/jack-grealish-told-to-make-his-feelings-clear-to-everton-players-in-new-twist-expert",
-    "title": "Jack Grealish told to make his feelings clear to Everton players in new twist - expert",
-    "ko": "그릴리시, 에버턴 선수들에게 속내 밝혀야 한다는 조언",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T06:55:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "everton"
-    ]
-   },
-   {
-    "id": "f413fc099ecf",
-    "url": "https://www.footballinsider247.com/everton/match/keith-wyness-shares-jack-grealish-verdict-after-everton-go-public-with-what-happened",
-    "title": "Keith Wyness shares Jack Grealish verdict after Everton go public with what happened",
-    "ko": "키스 와이니스, 에버턴 그릴리시 사태 공식 입장에 평가",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f444efdb5f11",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jack-grealish-truth-clear-everton-34862617",
-    "title": "Jack Grealish truth is clear as Everton squad deserve credit",
-    "ko": "그릴리시 진실은 분명…에버턴 선수단이 인정받아야",
-    "source": "lecho",
-    "publishedAt": "2026-11-05T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley, Michael Ball",
-    "transfer": null
-   },
-   {
-    "id": "3f931b2445b3",
-    "url": "https://www.footballinsider247.com/everton/grow-up-youre-better-than-this-mate-jack-grealish-torn-apart-over-red-card-offence",
-    "title": "'Grow up, you're better than this, mate' - Jack Grealish torn apart over 'red card offence'",
-    "ko": "그릴리시, '퇴장 유발' 행위 비난 쏟아져",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-05T06:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "efe997f59d7a",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/at-crossroads-ex-arsenal-star-34865516",
-    "title": "'At a crossroads' - Ex-Arsenal star questions what's next for Jack Grealish at Everton",
-    "ko": "그릴리시, 에버턴에서 갈림길…전 아스널 스타 의문 제기",
-    "source": "lecho",
-    "publishedAt": "2026-11-05T10:06:26.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 6,
-  "score": 0.87,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-02T19:12:57.000Z",
-   "viaQuote": false
-  },
-  "headline": "Jack Grealish does have 'a way back' after discipline issue at Everton. Will he take it?"
  },
  {
   "slug": "fenerbahce-manager-appointment",
@@ -6240,7 +7599,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6328,7 +7687,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.75,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6385,7 +7744,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.36,
+  "score": 1.13,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6438,7 +7797,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.33,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6988,7 +8347,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.82,
+  "score": 1.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7526,7 +8885,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7614,7 +8973,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.33,
+  "score": 0.28,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7685,7 +9044,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.33,
+  "score": 0.27,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7738,7 +9097,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.08,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8093,7 +9452,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.26,
+  "score": 0.75,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8141,7 +9500,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.95,
+  "score": 0.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8339,7 +9698,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.27,
+  "score": 1.06,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8404,7 +9763,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.36,
+  "score": 1.13,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8681,7 +10040,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.54,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8758,7 +10117,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.87,
+  "score": 0.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8809,7 +10168,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9123,9 +10482,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.55,
+  "score": 0.21,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9184,7 +10543,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.8,
+  "score": 0.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9247,7 +10606,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.24,
+  "score": 0.2,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9438,7 +10797,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 1.19,
+  "score": 0.98,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9451,288 +10810,6 @@
    "viaQuote": false
   },
   "headline": "Meet the people set for key role in deciding Man City fate"
- },
- {
-  "slug": "newcastle-manager-future",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 야이슬레 감독 거취 논란",
-  "createdAt": "2026-11-03T07:50:00.000Z",
-  "updatedAt": "2026-11-05T06:00:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "everton"
-  ],
-  "players": [
-   "션 스테이어",
-   "엘랑가",
-   "바리",
-   "파비안 셰어",
-   "션 스테우르"
-  ],
-  "sig": [
-   "steur",
-   "matthias",
-   "jaissle"
-  ],
-  "articles": [
-   {
-    "id": "019ff1459e58",
-    "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
-    "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
-    "ko": "뉴캐슬 내부 불만 확산, 에버턴 승리로 자이슬 감독 또 골치",
-    "source": "guardian",
-    "publishedAt": "2026-11-02T22:04:11.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바리"
-    ],
-    "playerTags": [],
-    "author": "Miles Starforth at St James' Park",
-    "transfer": null,
-    "clubs": [
-     "newcastle",
-     "everton"
-    ]
-   },
-   {
-    "id": "eea1440dd780",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-says-newcastle-united-34853455",
-    "title": "Matthias Jaissle says Newcastle United stars IGNORED tactical plan in alarming Press conference",
-    "ko": "야이슬레, 뉴캐슬 선수들이 전술 계획 무시했다고 발언",
-    "source": "chronicle",
-    "publishedAt": "2026-11-02T23:07:24.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "7692e63cc79f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-    "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-    "ko": "뉴캐슬 홈 부진 계속, 야이슬레 감독 고전",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T23:53:46.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "77526a94be9a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/sean-steur-crowd-chant-highlights-34852541",
-    "title": "Sean Steur crowd chant highlights Newcastle decision Matthias Jaissle can no longer shy away from",
-    "ko": "뉴캐슬, 야이슬레 감독 결정 피하기 어려운 상황",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T07:50:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "5acc00adadaf",
-    "url": "https://www.thesun.co.uk/sport/40891432/matthias-jaissle-tactics-note-pitch-newcastle-everton/",
-    "title": "Sky Sports cameras show discarded Newcastle tactics note on pitch as boss Jaissle accuses stars of ‘ignoring’ gameplan",
-    "ko": "뉴캐슬 경기장에 버려진 전술 메모, 야이슬레 감독 선수들 무시 비판",
-    "source": "sun",
-    "publishedAt": "2026-11-03T09:44:53.000Z",
-    "credited": "스카이 스포츠",
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "James Graham",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "7325a0c5cb8a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fabian-schar-dumps-matthias-jaissles-34853509",
-    "title": "Fabian Schar dumps Matthias Jaissle's tactical note as Newcastle United's extreme plan backfires",
-    "ko": "파비안 셰어, 뉴캐슬 전술 메모 무시하며 전술 실패 지적",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T10:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "파비안 셰어"
-    ],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "71728d1ef71d",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-make-firm-matthias-jaissle-sack-call-after-fans-rage-expert",
-    "title": "Newcastle make 'firm' Matthias Jaissle sack call after fans rage - expert",
-    "ko": "뉴캐슬, 야이슬레 경질 요구 쇄도에 감독 교체 검토 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T13:30:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "fd747920caa6",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-clocks-turned-back-mike-34854424",
-    "title": "Newcastle clocks have turned back to Mike Ashley era with sheer dross being served up",
-    "ko": "뉴캐슬, 마이크 애슐리 시대로 회귀한 듯한 부진한 경기력 지적",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T18:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "a9c26c413ed6",
-    "url": "https://www.thesun.co.uk/sport/40905522/newcastle-legend-returns-manager/",
-    "title": "Newcastle legend, 46, returns to former club as new manager after cigar-smoking icon snubbed shock job offer",
-    "ko": "뉴캐슬 레전드, 옛 구단 감독으로 복귀 예정",
-    "source": "sun",
-    "publishedAt": "2026-11-03T22:35:58.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4073ec3cb72c",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/never-thought-would-say-matthias-34855540",
-    "title": "I never thought I would say this about Matthias Jaissle's Newcastle United",
-    "ko": "뉴캐슬 야이슬레 감독 체제 평가 변화 조명",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T07:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stuart Jamieson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4d0c4929449d",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-matthias-jaissle-34858287",
-    "title": "Newcastle United make Matthias Jaissle future decision as PIF face eye-watering bill",
-    "ko": "뉴캐슬, 야이슬레 거취 결정…PIF 막대한 청구서 직면",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T10:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4617c563c7ff",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/pifs-backing-matthias-jaissle-comes-34862835",
-    "title": "Why PIF's backing of Matthias Jaissle comes with an asterisk as Newcastle boss still in danger",
-    "ko": "PIF의 야이슬레 지지에 단서…뉴캐슬 감독 여전히 위기",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "41bbc96a581a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/under-fire-matthias-jaissle-given-34861619",
-    "title": "Under-fire Matthias Jaissle given Newcastle United ultimatum after leadership issue",
-    "ko": "뉴캐슬 야이슬레, 리더십 문제 후 최후통첩",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Gregory",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 5,
-  "score": 0.73,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스카이 스포츠",
-   "at": "2026-11-02T22:04:11.000Z",
-   "viaQuote": true
-  },
-  "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
  },
  {
   "slug": "everton-affairs-punishment",
@@ -9777,7 +10854,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.73,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10073,7 +11150,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.4,
+  "score": 0.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10147,7 +11224,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -10205,7 +11282,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10252,7 +11329,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10648,9 +11725,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 9,
-  "score": 0.3,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10756,9 +11833,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.3,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11192,9 +12269,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 10,
-  "score": 0.3,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14802,133 +15879,6 @@
    "viaQuote": false
   },
   "headline": "Why is it going so wrong for Le Bris at Sunderland?"
- },
- {
-  "slug": "real-madrid-affairs-nadal-appointment",
-  "mode": "llm",
-  "titleKo": "레알 마드리드, 나달 임원 선임",
-  "createdAt": "2026-11-04T11:49:04.000Z",
-  "updatedAt": "2026-11-04T20:30:06.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "나달"
-  ],
-  "sig": [
-   "nadal"
-  ],
-  "articles": [
-   {
-    "id": "ec37d1a42742",
-    "url": "https://as.com/futbol/real-madrid/el-madrid-hace-directivo-a-nadal-f202611-n/",
-    "title": "El Madrid hace directivo a Nadal",
-    "ko": "레알 마드리드, 나달 임원 선임",
-    "source": "as",
-    "publishedAt": "2026-11-04T11:49:04.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "b98cf2b30518",
-    "url": "https://as.com/futbol/primera/nadal-acepto-la-propuesta-con-mucha-ilusion-y-aportar-todo-lo-que-pueda-f202611-n/",
-    "title": "Nadal: “Acepto la propuesta con mucha ilusión y ganas de aportar todo lo que pueda”",
-    "ko": "나달, 스페인축구협회 제안 수락 \"최선을 다하겠다\"",
-    "source": "as",
-    "publishedAt": "2026-11-04T12:13:29.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "As.com As.com",
-    "transfer": null
-   },
-   {
-    "id": "54ee05c7e5a1",
-    "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-    "title": "Nadal set to join Real Madrid board of directors",
-    "ko": "나달, 레알 마드리드 이사회 합류 임박",
-    "source": "bbc",
-    "publishedAt": "2026-11-04T13:21:01.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "41adc8ae6612",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-propose-la-nomination-de-rafael-nadal-au-sein-de-son-conseil-d-administration/1741056#at_medium=RSS_feeds",
-    "title": "Le Real propose la nomination de Rafael Nadal au sein de son conseil d'administration",
-    "ko": "레알, 나달 이사회 합류 제안",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T13:22:25.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vincent Villa",
-    "transfer": null,
-    "clubs": [
-     "real-madrid"
-    ]
-   },
-   {
-    "id": "a055464f05c9",
-    "url": "https://as.com/futbol/videos/el-gesto-de-mourinho-sobre-nadal-y-su-inclusion-en-la-junta-que-va-a-poner-la-piel-de-gallina-al-madridismo-f202611-v/",
-    "title": "El gesto de Mourinho sobre Nadal y su inclusión en la Junta que va a poner la piel de gallina al madridismo",
-    "ko": "무리뉴, 나달의 레알 마드리드 이사회 합류에 보인 반응",
-    "source": "as",
-    "publishedAt": "2026-11-04T20:30:06.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "나달"
-    ],
-    "playerTags": [],
-    "author": "AStv",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 3,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-04T11:49:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nadal set to join Real Madrid board of directors"
  },
  {
   "slug": "dowman-injury",
@@ -23334,118 +24284,6 @@
    "viaQuote": false
   },
   "headline": "Sporting vence em Baku e fica com um pé na 2.ª ronda da Champions"
- },
- {
-  "slug": "stoke-blackburn-2026-11-03",
-  "mode": "llm",
-  "titleKo": "스토크 대 블랙번 경기, 감독 기자회견",
-  "createdAt": "2026-11-03T22:57:46.000Z",
-  "updatedAt": "2026-11-03T22:57:46.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "stoke"
-  ],
-  "players": [
-   "잭 맥글린"
-  ],
-  "sig": [
-   "jack",
-   "mcglynn",
-   "blackburn",
-   "rovers"
-  ],
-  "articles": [
-   {
-    "id": "5fdf64a05be3",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/blackburn-stoke-city-tony-mowbray-11224021",
-    "title": "Tony Mowbray gives Blackburn Rovers warning ahead of Stoke City clash",
-    "ko": "모브레이, 스토크전 앞두고 블랙번에 경고",
-    "source": "stoke",
-    "publishedAt": "2026-11-02T11:29:31.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Peter Smith",
-    "transfer": null,
-    "clubs": [
-     "stoke"
-    ]
-   },
-   {
-    "id": "059678ef3f3b",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/blackburn-stoke-city-live-stream-11226151",
-    "title": "Blackburn Rovers vs Stoke City live - Team news from Ewood Park",
-    "ko": "블랙번 대 스토크 생중계, 이위드 파크 선발 소식",
-    "source": "stoke",
-    "publishedAt": "2026-11-03T18:04:46.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Peter Smith",
-    "transfer": null,
-    "clubs": [
-     "stoke"
-    ]
-   },
-   {
-    "id": "65eae056f390",
-    "url": "https://www.skysports.com/football/blackburn-rovers-vs-stoke-city/report/560655",
-    "title": "Stoke battle to victory at Blackburn",
-    "ko": "스토크, 블랙번 원정서 힘겨운 승리",
-    "source": "sky",
-    "publishedAt": "2026-11-03T21:15:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "stoke"
-    ]
-   },
-   {
-    "id": "615b9ac4ca14",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-blackburn-mark-robins-11226435",
-    "title": "Stoke City boss on Jack McGlynn, disallowed goal and away support after win at Blackburn Rovers",
-    "ko": "스토크 감독, 맥글린·취소된 골 언급하며 블랙번 원정 승리 평가",
-    "source": "stoke",
-    "publishedAt": "2026-11-03T22:57:46.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "잭 맥글린"
-    ],
-    "playerTags": [],
-    "author": "Peter Smith",
-    "transfer": null,
-    "clubs": [
-     "stoke"
-    ]
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Stoke Sentinel",
-   "source": "stoke",
-   "at": "2026-11-02T11:29:31.000Z",
-   "viaQuote": false
-  },
-  "headline": "Stoke City boss on Jack McGlynn, disallowed goal and away support after win at Blackburn Rovers"
  },
  {
   "slug": "upamecano-contract",
