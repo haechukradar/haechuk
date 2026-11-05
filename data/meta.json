@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T19:04:11.029Z",
+ "updatedAt": "2026-11-05T19:59:45.336Z",
  "hot": [
   "de-miguel-incident",
   "jesus-ronaldo-relationship",
@@ -29,8 +29,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 1,
+   "items": 77,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -42,7 +42,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,14 +78,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 82
+   "added": 2,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -96,13 +96,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 17,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -144,7 +144,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -156,14 +156,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 30,
+   "added": 9,
+   "authorRate": 100
   },
   "star": {
    "ok": true,
@@ -174,12 +174,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 10,
    "added": 1,
    "authorRate": 0
   }
@@ -294,21 +294,21 @@
    "count": 4
   },
   {
+   "name": "누노 보르게스",
+   "count": 4
+  },
+  {
    "name": "티에르노 배리",
    "count": 4
   },
   {
    "name": "카레차스",
    "count": 4
-  },
-  {
-   "name": "알리송",
-   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 238,
-  "singleArticleRate": 51,
+  "recentIssues": 243,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -335,12 +335,12 @@
     "count": 26
    },
    {
-    "slug": "grealish-discipline",
+    "slug": "villarreal-psg-2026-11-03",
     "count": 24
    },
    {
-    "slug": "villarreal-psg-2026-11-03",
-    "count": 24
+    "slug": "grealish-discipline",
+    "count": 23
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
@@ -351,20 +351,20 @@
     "count": 23
    },
    {
+    "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 21
+   },
+   {
     "slug": "atletico-bayern-2026-11-03",
     "count": 21
    },
    {
-    "slug": "arsenal-slavia-praha-2026-11-03",
-    "count": 20
+    "slug": "newcastle-manager-future",
+    "count": 19
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
     "count": 19
-   },
-   {
-    "slug": "newcastle-manager-future",
-    "count": 18
    },
    {
     "slug": "fenerbahce-liverpool-2026-11-03",
@@ -417,7 +417,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -654,6 +654,24 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "쉐이 레이시",
+     "count": 2
+    },
+    {
+     "ko": "쉐아 레이시",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Carlos Forbs",
    "dictionary": null,
    "variants": [
@@ -708,24 +726,6 @@
    ]
   },
   {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉐이 레이시",
-     "count": 2
-    },
-    {
-     "ko": "셰이 레이시",
-     "count": 2
-    },
-    {
-     "ko": "쉐아 레이시",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -761,6 +761,20 @@
     },
     {
      "ko": "모하야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르코 실바",
      "count": 1
     }
    ]
@@ -1206,20 +1220,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Sean Neave",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 네이브",
-     "count": 2
-    },
-    {
-     "ko": "숀 네이브",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1252,8 +1252,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 243,
-   "llm": 243
+   "collected": 285,
+   "llm": 285
   }
  },
  "llmErrors": []
