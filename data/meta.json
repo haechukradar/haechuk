@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T17:24:46.340Z",
+ "updatedAt": "2026-11-05T18:07:48.277Z",
  "hot": [
   "de-miguel-incident",
   "jesus-ronaldo-relationship",
@@ -29,20 +29,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
+   "items": 79,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -60,13 +60,13 @@
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,19 +78,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 80
+   "added": 5,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -102,13 +102,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 80
   },
   "waz": {
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -150,7 +150,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -162,7 +162,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -174,13 +174,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 5,
+   "items": 11,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -307,8 +307,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
-  "singleArticleRate": 49,
+  "recentIssues": 231,
+  "singleArticleRate": 50,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -316,7 +316,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 66
+    "count": 67
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -363,6 +363,10 @@
     "count": 19
    },
    {
+    "slug": "newcastle-manager-future",
+    "count": 18
+   },
+   {
     "slug": "fenerbahce-liverpool-2026-11-03",
     "count": 17
    },
@@ -380,10 +384,6 @@
    },
    {
     "slug": "owono-discipline",
-    "count": 16
-   },
-   {
-    "slug": "newcastle-manager-future",
     "count": 16
    },
    {
@@ -417,7 +417,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 9
     },
     {
      "ko": "마티아스 야이슬레",
@@ -494,6 +494,36 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르제 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 2
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 주제",
+     "count": 1
+    },
+    {
+     "ko": "하이메 헤수스",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 조르지",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karetsas",
    "dictionary": null,
    "variants": [
@@ -504,6 +534,20 @@
     {
      "ko": "카레차스",
      "count": 4
+    }
+   ]
+  },
+  {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 6
+    },
+    {
+     "ko": "파리오리",
+     "count": 1
     }
    ]
   },
@@ -530,32 +574,6 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르제 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 주제",
-     "count": 1
-    },
-    {
-     "ko": "하이메 헤수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -569,20 +587,6 @@
     },
     {
      "ko": "퀼뤼겔",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 5
-    },
-    {
-     "ko": "파리오리",
      "count": 1
     }
    ]
@@ -632,6 +636,24 @@
    ]
   },
   {
+   "en": "Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 4
+    },
+    {
+     "ko": "자이슬",
+     "count": 1
+    },
+    {
+     "ko": "자이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Carlos Forbs",
    "dictionary": null,
    "variants": [
@@ -645,20 +667,6 @@
     },
     {
      "ko": "카를로스 포르브스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 4
-    },
-    {
-     "ko": "자이슬",
      "count": 1
     }
    ]
@@ -1240,8 +1248,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 171,
-   "llm": 171
+   "collected": 207,
+   "llm": 207
   }
  },
  "llmErrors": []
