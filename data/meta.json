@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T15:06:31.569Z",
+ "updatedAt": "2026-11-05T16:11:41.528Z",
  "hot": [
   "kane-contract",
-  "de-miguel-incident",
-  "raphinha-contract",
   "jesus-ronaldo-relationship",
-  "real-madrid-aek-athens-2026-11-03"
+  "de-miguel-incident",
+  "grealish-discipline",
+  "raphinha-contract"
  ],
  "days": [
   "2026-10-18",
@@ -29,8 +29,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 3,
+   "items": 77,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -54,19 +54,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,14 +78,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 78
+   "added": 3,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -96,13 +96,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -126,13 +126,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -144,7 +144,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -156,58 +156,54 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
    "added": 4,
-   "authorRate": 97
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 2,
+   "items": 9,
+   "added": 1,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 56
+   "count": 58
   },
   {
    "name": "오워노",
    "count": 26
   },
   {
+   "name": "그릴리시",
+   "count": 15
+  },
+  {
    "name": "데 미겔",
    "count": 14
   },
   {
-   "name": "그릴리시",
-   "count": 14
-  },
-  {
-   "name": "리산드로 마르티네스",
-   "count": 9
-  },
-  {
    "name": "잭 그릴리시",
-   "count": 9
+   "count": 10
   },
   {
    "name": "JJ 가브리엘",
@@ -215,6 +211,10 @@
   },
   {
    "name": "헤수스 오워노",
+   "count": 8
+  },
+  {
+   "name": "리산드로 마르티네스",
    "count": 8
   },
   {
@@ -270,6 +270,10 @@
    "count": 5
   },
   {
+   "name": "니코 파스",
+   "count": 5
+  },
+  {
    "name": "트레솔디",
    "count": 5
   },
@@ -294,45 +298,45 @@
    "count": 4
   },
   {
-   "name": "니코 파스",
-   "count": 4
-  },
-  {
    "name": "카레차스",
    "count": 4
   },
   {
-   "name": "모히아",
-   "count": 3
+   "name": "알리송",
+   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
-  "singleArticleRate": 48,
+  "recentIssues": 224,
+  "singleArticleRate": 49,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 133
+    "count": 138
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 69
+    "count": 67
    },
    {
     "slug": "fonseca-sporting-appointment",
     "count": 32
    },
    {
+    "slug": "kane-contract",
+    "count": 28
+   },
+   {
     "slug": "parker-west-ham-appointment",
     "count": 28
    },
    {
-    "slug": "kane-contract",
-    "count": 27
-   },
-   {
     "slug": "man-utd-affairs-ownership",
     "count": 26
+   },
+   {
+    "slug": "grealish-discipline",
+    "count": 24
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -347,12 +351,8 @@
     "count": 23
    },
    {
-    "slug": "grealish-discipline",
-    "count": 22
-   },
-   {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -371,6 +371,10 @@
     "count": 17
    },
    {
+    "slug": "newcastle-manager-future",
+    "count": 16
+   },
+   {
     "slug": "fenerbahce-liverpool-2026-11-03",
     "count": 16
    },
@@ -381,10 +385,6 @@
    {
     "slug": "losc-bodo-glimt-2026-11-03",
     "count": 16
-   },
-   {
-    "slug": "newcastle-manager-future",
-    "count": 15
    }
   ]
  },
@@ -408,26 +408,12 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 8
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 7
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "마티아스 야이슬레",
@@ -444,6 +430,20 @@
    ]
   },
   {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 8
+    },
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 7
+    }
+   ]
+  },
+  {
    "en": "Nuno Espirito Santo",
    "dictionary": null,
    "variants": [
@@ -453,6 +453,24 @@
     },
     {
      "ko": "노이 산투",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Haaland",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "홀란",
+     "count": 6
+    },
+    {
+     "ko": "엘링 홀란",
+     "count": 4
+    },
+    {
+     "ko": "홀란드",
      "count": 1
     }
    ]
@@ -472,24 +490,6 @@
    ]
   },
   {
-   "en": "Haaland",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "홀란",
-     "count": 6
-    },
-    {
-     "ko": "엘링 홀란",
-     "count": 3
-    },
-    {
-     "ko": "홀란드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Karetsas",
    "dictionary": null,
    "variants": [
@@ -500,20 +500,6 @@
     {
      "ko": "카레차스",
      "count": 4
-    }
-   ]
-  },
-  {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 6
-    },
-    {
-     "ko": "도원만",
-     "count": 1
     }
    ]
   },
@@ -567,6 +553,20 @@
     },
     {
      "ko": "파리오리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 5
+    },
+    {
+     "ko": "도원만",
      "count": 1
     }
    ]
@@ -856,20 +856,6 @@
    ]
   },
   {
-   "en": "Blessin",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "블레신",
-     "count": 2
-    },
-    {
-     "ko": "블레싱",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Ioannidis",
    "dictionary": null,
    "variants": [
@@ -986,42 +972,6 @@
    ]
   },
   {
-   "en": "Liam Rosenior",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리브로즌",
-     "count": 1
-    },
-    {
-     "ko": "리암 로지니어",
-     "count": 1
-    },
-    {
-     "ko": "리엄 로즈니어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jan Paul van Hecke",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "얀 파울 판 헤크",
-     "count": 1
-    },
-    {
-     "ko": "얀 파울 판 헤커",
-     "count": 1
-    },
-    {
-     "ko": "얀 파울 판 헤케",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lennart Karl",
    "dictionary": null,
    "variants": [
@@ -1035,6 +985,20 @@
     },
     {
      "ko": "렌나르트 카를",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hütter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훼터",
+     "count": 2
+    },
+    {
+     "ko": "휘터",
      "count": 1
     }
    ]
@@ -1188,6 +1152,20 @@
    ]
   },
   {
+   "en": "Sean Neave",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 네이브",
+     "count": 2
+    },
+    {
+     "ko": "숀 네이브",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kozo Tashima",
    "dictionary": null,
    "variants": [
@@ -1197,6 +1175,20 @@
     },
     {
      "ko": "타시마 고조",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Niclas Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "풀크루크",
      "count": 1
     }
    ]
@@ -1232,8 +1224,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 45,
-   "llm": 45
+   "collected": 99,
+   "llm": 99
   }
  },
  "llmErrors": []
