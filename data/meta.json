@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T22:28:40.306Z",
+ "updatedAt": "2026-11-05T23:16:16.280Z",
  "hot": [
-  "crystal-palace-hoffenheim-2026-11-05",
   "de-miguel-incident",
+  "crystal-palace-hoffenheim-2026-11-05",
+  "le-bris-sunderland-manager-future",
   "leverkusen-marseille-2026-11-04",
-  "bournemouth-europa-league-2026-11-05",
-  "kane-contract"
+  "bournemouth-europa-league-2026-11-05"
  ],
  "days": [
   "2026-10-18",
@@ -29,20 +29,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 1,
+   "items": 80,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
+   "items": 57,
    "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,14 +78,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 4,
-   "authorRate": 84
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -102,7 +102,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -132,19 +132,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -179,7 +179,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -218,6 +218,10 @@
    "count": 8
   },
   {
+   "name": "프레스티아니",
+   "count": 8
+  },
+  {
    "name": "그라벤베르흐",
    "count": 7
   },
@@ -238,15 +242,15 @@
    "count": 6
   },
   {
-   "name": "프레스티아니",
-   "count": 6
-  },
-  {
    "name": "노이어",
    "count": 6
   },
   {
    "name": "크루피",
+   "count": 5
+  },
+  {
+   "name": "콘사",
    "count": 5
   },
   {
@@ -286,10 +290,6 @@
    "count": 4
   },
   {
-   "name": "콘사",
-   "count": 4
-  },
-  {
    "name": "뮐러",
    "count": 4
   },
@@ -307,12 +307,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 251,
+  "recentIssues": 255,
   "singleArticleRate": 51,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 145
+    "count": 144
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -328,15 +328,11 @@
    },
    {
     "slug": "parker-west-ham-appointment",
-    "count": 28
+    "count": 29
    },
    {
     "slug": "man-utd-affairs-ownership",
     "count": 26
-   },
-   {
-    "slug": "grealish-discipline",
-    "count": 24
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
@@ -345,6 +341,10 @@
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 23
+   },
+   {
+    "slug": "grealish-discipline",
+    "count": 22
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -360,7 +360,7 @@
    },
    {
     "slug": "newcastle-manager-future",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
@@ -383,12 +383,12 @@
     "count": 17
    },
    {
-    "slug": "owono-discipline",
+    "slug": "leverkusen-marseille-2026-11-04",
     "count": 16
    },
    {
-    "slug": "leverkusen-marseille-2026-11-04",
-    "count": 15
+    "slug": "owono-discipline",
+    "count": 16
    },
    {
     "slug": "gabriel-real-madrid-transfer",
@@ -401,28 +401,6 @@
   ]
  },
  "nameReport": [
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 10
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 7
-    },
-    {
-     "ko": "자이슬",
-     "count": 2
-    },
-    {
-     "ko": "자이슬레",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Mourinho",
    "dictionary": null,
@@ -437,6 +415,28 @@
     },
     {
      "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 9
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 7
+    },
+    {
+     "ko": "자이슬",
+     "count": 2
+    },
+    {
+     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -574,6 +574,24 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "쉐아 레이시",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -587,6 +605,20 @@
     },
     {
      "ko": "퀼뤼겔",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 5
+    },
+    {
+     "ko": "마르코 실바",
      "count": 1
     }
    ]
@@ -622,19 +654,15 @@
    ]
   },
   {
-   "en": "Shea Lacey",
+   "en": "João Moutinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "셰이 레이시",
-     "count": 3
+     "ko": "주앙 무티뉴",
+     "count": 5
     },
     {
-     "ko": "쉐이 레이시",
-     "count": 2
-    },
-    {
-     "ko": "쉐아 레이시",
+     "ko": "주앙 모리뉴",
      "count": 1
     }
    ]
@@ -653,20 +681,6 @@
     },
     {
      "ko": "카를로스 포르브스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 4
-    },
-    {
-     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -703,20 +717,6 @@
     },
     {
      "ko": "카미네스키",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "João Moutinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주앙 무티뉴",
-     "count": 4
-    },
-    {
-     "ko": "주앙 모리뉴",
      "count": 1
     }
    ]
@@ -762,20 +762,6 @@
    ]
   },
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르코 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Toni Brogno",
    "dictionary": null,
    "variants": [
@@ -790,19 +776,15 @@
    ]
   },
   {
-   "en": "Thierno Barry",
+   "en": "Jaissle",
    "dictionary": null,
    "variants": [
     {
-     "ko": "티에르노 배리",
-     "count": 2
+     "ko": "야이슬레",
+     "count": 3
     },
     {
-     "ko": "티에르노 바리",
-     "count": 1
-    },
-    {
-     "ko": "베리",
+     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -1046,6 +1028,24 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 바리",
+     "count": 1
+    },
+    {
+     "ko": "베리",
+     "count": 1
+    },
+    {
+     "ko": "티에르노 배리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Doumbia",
    "dictionary": null,
    "variants": [
@@ -1138,6 +1138,24 @@
    ]
   },
   {
+   "en": "Enzo Barrenechea",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엔초 바레네체아",
+     "count": 1
+    },
+    {
+     "ko": "엔소 바헤네체아",
+     "count": 1
+    },
+    {
+     "ko": "엔조 바레네체아",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karl",
    "dictionary": null,
    "variants": [
@@ -1206,24 +1224,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Dirk Kuyt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "커이트",
-     "count": 1
-    },
-    {
-     "ko": "더크 카위트",
-     "count": 1
-    },
-    {
-     "ko": "커크",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1256,8 +1256,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 387,
-   "llm": 387
+   "collected": 418,
+   "llm": 418
   }
  },
  "llmErrors": []
