@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T09:51:02.153Z",
+ "updatedAt": "2026-11-05T10:52:59.018Z",
  "hot": [
   "kane-contract",
   "de-miguel-incident",
-  "leipzig-man-city-2026-11-04",
   "real-madrid-aek-athens-2026-11-03",
-  "arsenal-slavia-praha-2026-11-03"
+  "fonseca-sporting-appointment",
+  "leverkusen-marseille-2026-11-04"
  ],
  "days": [
   "2026-10-18",
@@ -28,20 +28,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 69,
-   "added": 0,
+   "items": 70,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 1,
-   "authorRate": 97
+   "items": 57,
+   "added": 2,
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -53,19 +53,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
-   "items": 49,
+   "items": 50,
    "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 11,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,8 +83,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 80
+   "added": 2,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -95,20 +95,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 75
+   "added": 1,
+   "authorRate": 78
   },
   "waz": {
    "ok": true,
@@ -125,49 +125,49 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 23,
-   "added": 0,
+   "items": 24,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 95
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -178,15 +178,15 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 4,
+   "items": 15,
+   "added": 3,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 51
+   "count": 52
   },
   {
    "name": "오워노",
@@ -194,7 +194,7 @@
   },
   {
    "name": "데 미겔",
-   "count": 12
+   "count": 14
   },
   {
    "name": "그릴리시",
@@ -213,6 +213,10 @@
    "count": 7
   },
   {
+   "name": "잭 그릴리시",
+   "count": 7
+  },
+  {
    "name": "JJ 가브리엘",
    "count": 7
   },
@@ -222,10 +226,6 @@
   },
   {
    "name": "맥스 다우먼",
-   "count": 6
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 6
   },
   {
@@ -311,7 +311,7 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 116
+    "count": 121
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -330,20 +330,24 @@
     "count": 24
    },
    {
+    "slug": "man-utd-affairs-ownership",
+    "count": 22
+   },
+   {
+    "slug": "real-madrid-aek-athens-2026-11-03",
+    "count": 22
+   },
+   {
     "slug": "atletico-bayern-2026-11-03",
     "count": 22
    },
    {
-    "slug": "man-utd-affairs-ownership",
-    "count": 21
-   },
-   {
-    "slug": "real-madrid-aek-athens-2026-11-03",
-    "count": 21
-   },
-   {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 21
+   },
+   {
+    "slug": "kane-contract",
+    "count": 20
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -354,8 +358,8 @@
     "count": 19
    },
    {
-    "slug": "kane-contract",
-    "count": 18
+    "slug": "grealish-discipline",
+    "count": 17
    },
    {
     "slug": "porto-napoli-2026-11-03",
@@ -364,10 +368,6 @@
    {
     "slug": "leipzig-man-city-2026-11-04",
     "count": 17
-   },
-   {
-    "slug": "grealish-discipline",
-    "count": 16
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
@@ -390,7 +390,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 15
+     "count": 17
     },
     {
      "ko": "모리뉴",
@@ -422,7 +422,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 6
+     "count": 5
     },
     {
      "ko": "마티아스 야이슬레",
@@ -699,6 +699,24 @@
    ]
   },
   {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "도나룸마",
+     "count": 2
+    },
+    {
+     "ko": "지안루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "돈나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ioannidis",
    "dictionary": null,
    "variants": [
@@ -949,19 +967,19 @@
    ]
   },
   {
-   "en": "Gianluigi Donnarumma",
+   "en": "Dirk Kuyt",
    "dictionary": null,
    "variants": [
     {
-     "ko": "지안루이지 돈나룸마",
+     "ko": "커이트",
      "count": 1
     },
     {
-     "ko": "돈나룸마",
+     "ko": "커크",
      "count": 1
     },
     {
-     "ko": "도나룸마",
+     "ko": "더크 카위트",
      "count": 1
     }
    ]
@@ -980,6 +998,20 @@
     },
     {
      "ko": "타종 하자드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퀼로루크",
+     "count": 2
+    },
+    {
+     "ko": "퓔크루크",
      "count": 1
     }
    ]
@@ -1123,34 +1155,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Findlay Curtis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "핀레이 커티스",
-     "count": 1
-    },
-    {
-     "ko": "핀들레이 커티스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Leroy Sane",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "르로이 사네",
-     "count": 1
-    },
-    {
-     "ko": "레로이 사네",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1179,8 +1183,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 687,
-   "llm": 687
+   "collected": 743,
+   "llm": 743
   }
  },
  "llmErrors": []
