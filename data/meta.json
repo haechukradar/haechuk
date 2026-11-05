@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T18:07:48.277Z",
+ "updatedAt": "2026-11-05T19:04:11.029Z",
  "hot": [
   "de-miguel-incident",
   "jesus-ronaldo-relationship",
@@ -30,13 +30,13 @@
   "bbc": {
    "ok": true,
    "items": 79,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
@@ -54,19 +54,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,13 +78,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 6,
    "authorRate": 82
   },
   "fblondon": {
@@ -102,7 +102,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -132,19 +132,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 17,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -156,14 +156,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 3,
-   "authorRate": 100
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "star": {
    "ok": true,
@@ -174,13 +174,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 3,
+   "items": 9,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -307,12 +307,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 231,
-  "singleArticleRate": 50,
+  "recentIssues": 238,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 143
+    "count": 144
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -320,7 +320,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 33
+    "count": 34
    },
    {
     "slug": "kane-contract",
@@ -514,11 +514,11 @@
      "count": 1
     },
     {
-     "ko": "하이메 헤수스",
+     "ko": "조르즈 조르지",
      "count": 1
     },
     {
-     "ko": "조르즈 조르지",
+     "ko": "하이메 헤수스",
      "count": 1
     }
    ]
@@ -794,6 +794,28 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키어런 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키에런 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
@@ -1001,24 +1023,6 @@
     },
     {
      "ko": "더움비아",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키어런 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키에런 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
      "count": 1
     }
    ]
@@ -1248,8 +1252,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 207,
-   "llm": 207
+   "collected": 243,
+   "llm": 243
   }
  },
  "llmErrors": []
