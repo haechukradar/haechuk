@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T06:28:22.929Z",
+ "updatedAt": "2026-11-05T07:49:28.206Z",
  "hot": [
+  "real-madrid-aek-athens-2026-11-03",
   "de-miguel-incident",
   "leipzig-man-city-2026-11-04",
   "arsenal-slavia-praha-2026-11-03",
-  "fenerbahce-liverpool-2026-11-03",
-  "real-madrid-aek-athens-2026-11-03"
+  "wrexham-middlesbrough-2026-11-04"
  ],
  "days": [
   "2026-10-18",
@@ -28,32 +28,32 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 69,
-   "added": 0,
+   "items": 68,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 19,
-   "added": 10,
-   "authorRate": 95
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -65,7 +65,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,19 +77,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 78
+   "added": 8,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
@@ -101,13 +101,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 75
   },
   "waz": {
@@ -131,13 +131,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -161,7 +161,7 @@
   "sun": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 90
   },
   "star": {
@@ -173,13 +173,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 6,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -190,7 +190,7 @@
   },
   {
    "name": "오워노",
-   "count": 22
+   "count": 23
   },
   {
    "name": "데 미겔",
@@ -225,6 +225,10 @@
    "count": 6
   },
   {
+   "name": "잭 그릴리시",
+   "count": 6
+  },
+  {
    "name": "J.J. 가브리엘",
    "count": 6
   },
@@ -242,10 +246,6 @@
   },
   {
    "name": "아이트누리",
-   "count": 5
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 5
   },
   {
@@ -306,12 +306,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 195,
+  "recentIssues": 199,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 111
+    "count": 112
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -334,15 +334,15 @@
     "count": 22
    },
    {
+    "slug": "real-madrid-aek-athens-2026-11-03",
+    "count": 21
+   },
+   {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 21
    },
    {
     "slug": "man-utd-affairs-ownership",
-    "count": 20
-   },
-   {
-    "slug": "real-madrid-aek-athens-2026-11-03",
     "count": 20
    },
    {
@@ -358,19 +358,23 @@
     "count": 17
    },
    {
+    "slug": "porto-napoli-2026-11-03",
+    "count": 16
+   },
+   {
+    "slug": "grealish-discipline",
+    "count": 16
+   },
+   {
     "slug": "losc-bodo-glimt-2026-11-03",
     "count": 16
    },
    {
+    "slug": "fenerbahce-liverpool-2026-11-03",
+    "count": 15
+   },
+   {
     "slug": "lens-como-2026-11-04",
-    "count": 15
-   },
-   {
-    "slug": "grealish-discipline",
-    "count": 15
-   },
-   {
-    "slug": "porto-napoli-2026-11-03",
     "count": 15
    }
   ]
@@ -382,7 +386,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 14
+     "count": 15
     },
     {
      "ko": "모리뉴",
@@ -659,6 +663,20 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 2
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Ioannidis",
    "dictionary": null,
    "variants": [
@@ -843,6 +861,20 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튀헬",
+     "count": 2
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karl",
    "dictionary": null,
    "variants": [
@@ -908,20 +940,6 @@
     },
     {
      "ko": "바르셀라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 2
-    },
-    {
-     "ko": "키스 와이네스",
      "count": 1
     }
    ]
@@ -1085,6 +1103,20 @@
    ]
   },
   {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-반렛",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Findlay Curtis",
    "dictionary": null,
    "variants": [
@@ -1108,34 +1140,6 @@
     },
     {
      "ko": "레로이 사네",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gabby Logan",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게비 로건",
-     "count": 1
-    },
-    {
-     "ko": "개비 로건",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Joao Cancelo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조앙 칸셀루",
-     "count": 1
-    },
-    {
-     "ko": "주앙 칸셀루",
      "count": 1
     }
    ]
@@ -1167,8 +1171,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 578,
-   "llm": 578
+   "collected": 625,
+   "llm": 625
   }
  },
  "llmErrors": []
