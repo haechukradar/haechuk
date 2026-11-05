@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T04:24:55.930Z",
+ "updatedAt": "2026-11-05T05:26:53.067Z",
  "hot": [
+  "de-miguel-incident",
   "leipzig-man-city-2026-11-04",
   "arsenal-slavia-praha-2026-11-03",
   "fenerbahce-liverpool-2026-11-03",
-  "lens-como-2026-11-04",
-  "de-miguel-incident"
+  "lens-como-2026-11-04"
  ],
  "days": [
   "2026-10-18",
@@ -53,7 +53,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -65,7 +65,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -77,37 +77,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 4,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 75
   },
   "waz": {
@@ -131,19 +131,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -173,7 +173,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 96
   },
   "fbinsider": {
@@ -186,7 +186,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 49
+   "count": 51
   },
   {
    "name": "오워노",
@@ -205,11 +205,11 @@
    "count": 9
   },
   {
-   "name": "그라벤베르흐",
-   "count": 7
+   "name": "헤수스 오워노",
+   "count": 8
   },
   {
-   "name": "헤수스 오워노",
+   "name": "그라벤베르흐",
    "count": 7
   },
   {
@@ -245,6 +245,10 @@
    "count": 5
   },
   {
+   "name": "잭 그릴리시",
+   "count": 5
+  },
+  {
    "name": "달롯",
    "count": 5
   },
@@ -273,10 +277,6 @@
    "count": 4
   },
   {
-   "name": "잭 그릴리시",
-   "count": 4
-  },
-  {
    "name": "티에르노 배리",
    "count": 4
   },
@@ -286,6 +286,10 @@
   },
   {
    "name": "발로군",
+   "count": 4
+  },
+  {
+   "name": "니코 파스",
    "count": 4
   },
   {
@@ -299,10 +303,6 @@
   {
    "name": "브로비",
    "count": 3
-  },
-  {
-   "name": "바르콜라",
-   "count": 3
   }
  ],
  "issueHealth": {
@@ -311,7 +311,7 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 109
+    "count": 110
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -319,7 +319,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 28
+    "count": 30
    },
    {
     "slug": "parker-west-ham-appointment",
@@ -338,6 +338,10 @@
     "count": 21
    },
    {
+    "slug": "man-utd-affairs-ownership",
+    "count": 19
+   },
+   {
     "slug": "arsenal-slavia-praha-2026-11-03",
     "count": 19
    },
@@ -350,16 +354,20 @@
     "count": 19
    },
    {
-    "slug": "man-utd-affairs-ownership",
-    "count": 18
-   },
-   {
     "slug": "leipzig-man-city-2026-11-04",
     "count": 16
    },
    {
     "slug": "losc-bodo-glimt-2026-11-03",
     "count": 16
+   },
+   {
+    "slug": "lens-como-2026-11-04",
+    "count": 15
+   },
+   {
+    "slug": "grealish-discipline",
+    "count": 15
    },
    {
     "slug": "porto-napoli-2026-11-03",
@@ -388,7 +396,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 12
+     "count": 13
     },
     {
      "ko": "모리뉴",
@@ -1095,6 +1103,20 @@
    ]
   },
   {
+   "en": "Leroy Sane",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "르로이 사네",
+     "count": 1
+    },
+    {
+     "ko": "레로이 사네",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gabby Logan",
    "dictionary": null,
    "variants": [
@@ -1118,20 +1140,6 @@
     },
     {
      "ko": "주앙 칸셀루",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Baleba",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바레바",
-     "count": 1
-    },
-    {
-     "ko": "발레바",
      "count": 1
     }
    ]
@@ -1163,8 +1171,8 @@
    "llm": 2479
   },
   "2026-11-05": {
-   "collected": 521,
-   "llm": 521
+   "collected": 542,
+   "llm": 542
   }
  },
  "llmErrors": []
