@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T13:52:40.245Z",
+ "updatedAt": "2026-11-06T14:47:14.071Z",
  "hot": [
   "de-miguel-incident",
   "palmer-tuchel-relationship",
   "dedic-incident",
-  "infantino-affairs-election-challenger",
-  "real-madrid-affairs-nadal-appointment"
+  "baleba-injury",
+  "infantino-affairs-election-challenger"
  ],
  "days": [
   "2026-10-18",
@@ -29,8 +29,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 3,
+   "items": 80,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
@@ -42,7 +42,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 22,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,25 +78,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 14,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -108,8 +108,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 88
+   "added": 2,
+   "authorRate": 90
   },
   "waz": {
    "ok": true,
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -144,7 +144,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -156,7 +156,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
@@ -168,19 +168,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 6,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 14,
-   "added": 7,
+   "items": 11,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -250,11 +250,23 @@
    "count": 6
   },
   {
+   "name": "바레바",
+   "count": 6
+  },
+  {
    "name": "노이어",
    "count": 6
   },
   {
+   "name": "조브 벨링엄",
+   "count": 6
+  },
+  {
    "name": "크루피",
+   "count": 5
+  },
+  {
+   "name": "바르콜라",
    "count": 5
   },
   {
@@ -290,29 +302,17 @@
    "count": 5
   },
   {
-   "name": "조브 벨링엄",
-   "count": 5
-  },
-  {
    "name": "마두에케",
-   "count": 4
-  },
-  {
-   "name": "바르콜라",
-   "count": 4
-  },
-  {
-   "name": "뮐러",
    "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 248,
-  "singleArticleRate": 43,
+  "recentIssues": 253,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 115
+    "count": 104
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -320,11 +320,11 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 40
+    "count": 44
    },
    {
     "slug": "kane-contract",
-    "count": 29
+    "count": 30
    },
    {
     "slug": "man-utd-affairs-ownership",
@@ -344,7 +344,7 @@
    },
    {
     "slug": "villarreal-psg-2026-11-03",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -486,15 +486,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
      "ko": "토마스 투헬",
      "count": 5
     },
     {
      "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "투헬",
      "count": 3
     },
     {
@@ -553,6 +553,24 @@
     },
     {
      "ko": "쉐아 레이시",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    },
+    {
+     "ko": "토헬",
      "count": 1
     }
    ]
@@ -680,19 +698,19 @@
    ]
   },
   {
-   "en": "Tuchel",
+   "en": "Bradley Barcola",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
-     "count": 5
+     "ko": "브래들리 바르콜라",
+     "count": 3
     },
     {
-     "ko": "튀헬",
-     "count": 1
+     "ko": "바르콜라",
+     "count": 3
     },
     {
-     "ko": "토헬",
+     "ko": "바르셀라",
      "count": 1
     }
    ]
@@ -712,19 +730,27 @@
    ]
   },
   {
-   "en": "Bradley Barcola",
+   "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
     {
-     "ko": "브래들리 바르콜라",
-     "count": 3
-    },
-    {
-     "ko": "바르콜라",
+     "ko": "카위자크",
      "count": 2
     },
     {
-     "ko": "바르셀라",
+     "ko": "이안니크 카쥐크",
+     "count": 1
+    },
+    {
+     "ko": "야닉 카뷔작",
+     "count": 1
+    },
+    {
+     "ko": "카쥐악",
+     "count": 1
+    },
+    {
+     "ko": "야니크 카쥐작",
      "count": 1
     }
    ]
@@ -788,6 +814,60 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키에런 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
+     "count": 1
+    },
+    {
+     "ko": "듀스버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Baleba",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바레바",
+     "count": 4
+    },
+    {
+     "ko": "발레바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 3
+    },
+    {
+     "ko": "회네스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -842,7 +922,7 @@
    ]
   },
   {
-   "en": "De La Fuente",
+   "en": "De la Fuente",
    "dictionary": null,
    "variants": [
     {
@@ -852,28 +932,6 @@
     {
      "ko": "델라 푸엔테",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키에런 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디어넌 데뷔홀",
-     "count": 1
     }
    ]
   },
@@ -946,34 +1004,6 @@
    ]
   },
   {
-   "en": "Carlos Baleba",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바레바",
-     "count": 3
-    },
-    {
-     "ko": "발레바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 2
-    },
-    {
-     "ko": "회너스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -991,24 +1021,6 @@
     },
     {
      "ko": "한스 반에이나켄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카위자크",
-     "count": 2
-    },
-    {
-     "ko": "이안니크 카쥐크",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카뷔작",
      "count": 1
     }
    ]
@@ -1059,20 +1071,6 @@
     },
     {
      "ko": "카를로스 포르브스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Blessin",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "블레신",
-     "count": 2
-    },
-    {
-     "ko": "블레싱",
      "count": 1
     }
    ]
@@ -1264,6 +1262,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Sean Neave",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 네이브",
+     "count": 2
+    },
+    {
+     "ko": "숀 네이브",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1296,8 +1308,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 843,
-   "llm": 843
+   "collected": 902,
+   "llm": 902
   }
  },
  "llmErrors": []
