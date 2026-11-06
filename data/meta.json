@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T05:26:20.305Z",
+ "updatedAt": "2026-11-06T06:26:50.041Z",
  "hot": [
   "man-utd-aston-villa-2026-11-05",
   "celtic-besiktas-2026-11-05",
@@ -30,7 +30,7 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -42,7 +42,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 13,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -84,7 +84,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 3,
    "authorRate": 78
   },
   "fblondon": {
@@ -96,13 +96,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -126,7 +126,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -138,7 +138,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -156,7 +156,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -174,7 +174,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -238,6 +238,10 @@
    "count": 7
   },
   {
+   "name": "웨인 루니",
+   "count": 6
+  },
+  {
    "name": "트레이 뇨니",
    "count": 6
   },
@@ -255,10 +259,6 @@
   },
   {
    "name": "콘사",
-   "count": 5
-  },
-  {
-   "name": "웨인 루니",
    "count": 5
   },
   {
@@ -307,8 +307,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 255,
-  "singleArticleRate": 50,
+  "recentIssues": 254,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -316,7 +316,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 67
+    "count": 64
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -332,7 +332,7 @@
    },
    {
     "slug": "man-utd-affairs-ownership",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
@@ -343,20 +343,20 @@
     "count": 23
    },
    {
-    "slug": "grealish-discipline",
-    "count": 22
-   },
-   {
     "slug": "villarreal-psg-2026-11-03",
     "count": 22
    },
    {
-    "slug": "arsenal-slavia-praha-2026-11-03",
+    "slug": "grealish-discipline",
     "count": 21
    },
    {
     "slug": "atletico-bayern-2026-11-03",
     "count": 21
+   },
+   {
+    "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 20
    },
    {
     "slug": "barcelona-aston-villa-2026-11-03",
@@ -392,10 +392,6 @@
    },
    {
     "slug": "gabriel-real-madrid-transfer",
-    "count": 15
-   },
-   {
-    "slug": "losc-bodo-glimt-2026-11-03",
     "count": 15
    }
   ]
@@ -624,36 +620,6 @@
    ]
   },
   {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 바나컨",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 바나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 파나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아케너",
-     "count": 1
-    },
-    {
-     "ko": "한스 반에이나켄",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "João Moutinho",
    "dictionary": null,
    "variants": [
@@ -686,6 +652,32 @@
    ]
   },
   {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 바나컨",
+     "count": 1
+    },
+    {
+     "ko": "한스 바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 파나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아케너",
+     "count": 1
+    },
+    {
+     "ko": "한스 반에이나켄",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kaminski",
    "dictionary": null,
    "variants": [
@@ -699,6 +691,24 @@
     },
     {
      "ko": "카미네스키",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Bradley Barcola",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브래들리 바르콜라",
+     "count": 2
+    },
+    {
+     "ko": "바르콜라",
+     "count": 2
+    },
+    {
+     "ko": "바르셀라",
      "count": 1
     }
    ]
@@ -718,6 +728,20 @@
     {
      "ko": "폴라린 발로군",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Avram Glazer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아브람 글레이저",
+     "count": 3
+    },
+    {
+     "ko": "애브럼 글레이저",
+     "count": 2
     }
    ]
   },
@@ -772,6 +796,28 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키에런 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
@@ -786,6 +832,38 @@
     {
      "ko": "디오고 달로트",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마크 반 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 보멜",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튀헬",
+     "count": 2
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 2
     }
    ]
   },
@@ -822,24 +900,6 @@
    ]
   },
   {
-   "en": "Bradley Barcola",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바르콜라",
-     "count": 2
-    },
-    {
-     "ko": "바르셀라",
-     "count": 1
-    },
-    {
-     "ko": "브래들리 바르콜라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -867,20 +927,6 @@
     },
     {
      "ko": "야닉 카뷔작",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Avram Glazer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아브람 글레이저",
-     "count": 3
-    },
-    {
-     "ko": "애브럼 글레이저",
      "count": 1
     }
    ]
@@ -1020,24 +1066,6 @@
    ]
   },
   {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키에런 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디어넌 데뷔홀",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lennart Karl",
    "dictionary": null,
    "variants": [
@@ -1097,20 +1125,6 @@
     },
     {
      "ko": "윌리엄 왕세자",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "튀헬",
-     "count": 2
-    },
-    {
-     "ko": "토마스 투헬",
      "count": 1
     }
    ]
@@ -1202,24 +1216,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Dirk Kuyt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "커이트",
-     "count": 1
-    },
-    {
-     "ko": "더크 카위트",
-     "count": 1
-    },
-    {
-     "ko": "커크",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1252,8 +1248,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 504,
-   "llm": 504
+   "collected": 522,
+   "llm": 522
   }
  },
  "llmErrors": []
