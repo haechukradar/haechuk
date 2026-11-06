@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T00:05:01.333Z",
+ "updatedAt": "2026-11-06T01:19:14.587Z",
  "hot": [
   "de-miguel-incident",
   "crystal-palace-hoffenheim-2026-11-05",
+  "celtic-besiktas-2026-11-05",
   "dedic-incident",
-  "le-bris-sunderland-manager-future",
-  "leverkusen-marseille-2026-11-04"
+  "le-bris-sunderland-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -30,19 +30,19 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
-   "added": 0,
+   "items": 58,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -60,13 +60,13 @@
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,13 +78,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 0,
    "authorRate": 84
   },
   "fblondon": {
@@ -102,7 +102,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,7 +162,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -179,7 +179,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 2,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -238,6 +238,10 @@
    "count": 7
   },
   {
+   "name": "트레이 뇨니",
+   "count": 6
+  },
+  {
    "name": "카마빙가",
    "count": 6
   },
@@ -263,10 +267,6 @@
   },
   {
    "name": "아이트누리",
-   "count": 5
-  },
-  {
-   "name": "트레이 뇨니",
    "count": 5
   },
   {
@@ -1256,8 +1256,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 447,
-   "llm": 447
+   "collected": 458,
+   "llm": 458
   }
  },
  "llmErrors": []
