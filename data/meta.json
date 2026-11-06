@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T22:30:22.256Z",
+ "updatedAt": "2026-11-06T23:21:01.770Z",
  "hot": [
   "everton-coventry-2026-11-06",
+  "carrick-manager-future",
   "toulouse-strasbourg-2026-11-06",
-  "gladbach-hamburger-2026-11-07",
-  "sevilla-alaves-2026-11-05",
-  "de-miguel-incident"
+  "de-miguel-incident",
+  "gladbach-hamburger-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -31,13 +31,13 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
@@ -61,7 +61,7 @@
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "as": {
@@ -79,14 +79,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 90
+   "added": 5,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
@@ -103,7 +103,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -127,13 +127,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -163,7 +163,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 3,
+   "added": 4,
    "authorRate": 96
   },
   "star": {
@@ -175,12 +175,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -243,6 +243,10 @@
    "count": 8
   },
   {
+   "name": "티에르노 배리",
+   "count": 7
+  },
+  {
    "name": "트레이 뇨니",
    "count": 7
   },
@@ -260,6 +264,10 @@
   },
   {
    "name": "노이어",
+   "count": 6
+  },
+  {
+   "name": "알리송",
    "count": 6
   },
   {
@@ -295,41 +303,33 @@
    "count": 5
   },
   {
-   "name": "알리송",
-   "count": 5
-  },
-  {
    "name": "티에르노 바리",
    "count": 5
-  },
-  {
-   "name": "누노 보르게스",
-   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 241,
-  "singleArticleRate": 44,
+  "recentIssues": 240,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 88
+    "count": 87
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 44
+    "count": 43
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 37
    },
    {
-    "slug": "man-utd-roma-2026-11-03",
-    "count": 31
-   },
-   {
     "slug": "kane-contract",
     "count": 30
+   },
+   {
+    "slug": "man-utd-roma-2026-11-03",
+    "count": 28
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -368,10 +368,6 @@
     "count": 16
    },
    {
-    "slug": "newcastle-manager-future",
-    "count": 15
-   },
-   {
     "slug": "arsenal-slavia-praha-2026-11-03",
     "count": 15
    }
@@ -383,11 +379,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "조르제 제수스",
-     "count": 8
+     "ko": "조르즈 제수스",
+     "count": 7
     },
     {
-     "ko": "조르즈 제수스",
+     "ko": "조르제 제수스",
      "count": 7
     },
     {
@@ -492,7 +488,7 @@
     },
     {
      "ko": "투헬",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "튀헬",
@@ -775,6 +771,20 @@
     {
      "ko": "조브",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 바리",
+     "count": 3
+    },
+    {
+     "ko": "티에르노 배리",
+     "count": 3
     }
    ]
   },
@@ -1095,20 +1105,6 @@
    ]
   },
   {
-   "en": "Undav",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "운다브",
-     "count": 2
-    },
-    {
-     "ko": "운데프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sean Neave",
    "dictionary": null,
    "variants": [
@@ -1257,15 +1253,19 @@
    ]
   },
   {
-   "en": "Pedro Proença",
+   "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
     {
-     "ko": "페드루 프로엔사",
-     "count": 2
+     "ko": "프랭크 램파드",
+     "count": 1
     },
     {
-     "ko": "페드루 프루엔사",
+     "ko": "프랭크 램퍼드",
+     "count": 1
+    },
+    {
+     "ko": "램파드",
      "count": 1
     }
    ]
@@ -1305,8 +1305,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 341,
-   "llm": 341
+   "collected": 371,
+   "llm": 371
   }
  },
  "llmErrors": []
