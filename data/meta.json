@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T04:23:56.172Z",
+ "updatedAt": "2026-11-06T05:26:20.305Z",
  "hot": [
+  "man-utd-aston-villa-2026-11-05",
   "celtic-besiktas-2026-11-05",
   "mendes-discipline",
   "crystal-palace-hoffenheim-2026-11-05",
-  "dedic-incident",
-  "de-miguel-incident"
+  "dedic-incident"
  ],
  "days": [
   "2026-10-18",
@@ -36,7 +36,7 @@
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 13,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,31 +78,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 84
+   "added": 4,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -126,25 +126,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -174,7 +174,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
@@ -191,7 +191,7 @@
   },
   {
    "name": "오워노",
-   "count": 28
+   "count": 29
   },
   {
    "name": "데 미겔",
@@ -312,7 +312,7 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 145
+    "count": 146
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -686,24 +686,6 @@
    ]
   },
   {
-   "en": "Orkun Kökçü",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쾨크주",
-     "count": 3
-    },
-    {
-     "ko": "오르쿤 쾨크주",
-     "count": 1
-    },
-    {
-     "ko": "퀴크퀴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kaminski",
    "dictionary": null,
    "variants": [
@@ -785,28 +767,6 @@
     },
     {
      "ko": "숀 스튜어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키어런 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키에런 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디어넌 데뷔홀",
      "count": 1
     }
    ]
@@ -1028,24 +988,6 @@
    ]
   },
   {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 1
-    },
-    {
-     "ko": "베리",
-     "count": 1
-    },
-    {
-     "ko": "티에르노 배리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Doumbia",
    "dictionary": null,
    "variants": [
@@ -1055,6 +997,42 @@
     },
     {
      "ko": "더움비아",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Orkun Kökçü",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쾨크주",
+     "count": 1
+    },
+    {
+     "ko": "오르쿤 쾨크주",
+     "count": 1
+    },
+    {
+     "ko": "퀴크퀴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키에런 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
      "count": 1
     }
    ]
@@ -1224,6 +1202,24 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Dirk Kuyt",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "커이트",
+     "count": 1
+    },
+    {
+     "ko": "더크 카위트",
+     "count": 1
+    },
+    {
+     "ko": "커크",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1256,8 +1252,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 474,
-   "llm": 474
+   "collected": 504,
+   "llm": 504
   }
  },
  "llmErrors": []
