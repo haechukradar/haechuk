@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T23:16:16.280Z",
+ "updatedAt": "2026-11-06T00:05:01.333Z",
  "hot": [
   "de-miguel-incident",
   "crystal-palace-hoffenheim-2026-11-05",
+  "dedic-incident",
   "le-bris-sunderland-manager-future",
-  "leverkusen-marseille-2026-11-04",
-  "bournemouth-europa-league-2026-11-05"
+  "leverkusen-marseille-2026-11-04"
  ],
  "days": [
   "2026-10-18",
@@ -36,13 +36,13 @@
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -66,7 +66,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,14 +78,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 86
+   "added": 8,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -102,7 +102,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -132,24 +132,24 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 25,
+   "items": 24,
    "added": 0,
    "authorRate": 100
   },
@@ -162,7 +162,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
@@ -179,7 +179,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -187,7 +187,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 61
+   "count": 62
   },
   {
    "name": "오워노",
@@ -203,7 +203,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 11
+   "count": 12
   },
   {
    "name": "JJ 가브리엘",
@@ -312,7 +312,7 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 144
+    "count": 145
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -320,14 +320,14 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 34
-   },
-   {
-    "slug": "kane-contract",
-    "count": 30
+    "count": 35
    },
    {
     "slug": "parker-west-ham-appointment",
+    "count": 29
+   },
+   {
+    "slug": "kane-contract",
     "count": 29
    },
    {
@@ -359,12 +359,16 @@
     "count": 21
    },
    {
-    "slug": "newcastle-manager-future",
+    "slug": "barcelona-aston-villa-2026-11-03",
     "count": 18
    },
    {
-    "slug": "barcelona-aston-villa-2026-11-03",
-    "count": 18
+    "slug": "leverkusen-marseille-2026-11-04",
+    "count": 17
+   },
+   {
+    "slug": "newcastle-manager-future",
+    "count": 17
    },
    {
     "slug": "fenerbahce-liverpool-2026-11-03",
@@ -381,10 +385,6 @@
    {
     "slug": "leipzig-man-city-2026-11-04",
     "count": 17
-   },
-   {
-    "slug": "leverkusen-marseille-2026-11-04",
-    "count": 16
    },
    {
     "slug": "owono-discipline",
@@ -574,6 +574,20 @@
    ]
   },
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 5
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Shea Lacey",
    "dictionary": null,
    "variants": [
@@ -605,20 +619,6 @@
     },
     {
      "ko": "퀼뤼겔",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 실바",
-     "count": 5
-    },
-    {
-     "ko": "마르코 실바",
      "count": 1
     }
    ]
@@ -771,20 +771,6 @@
     },
     {
      "ko": "토니 브뇨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 3
-    },
-    {
-     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -1028,6 +1014,20 @@
    ]
   },
   {
+   "en": "Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 2
+    },
+    {
+     "ko": "자이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -1146,11 +1146,11 @@
      "count": 1
     },
     {
-     "ko": "엔소 바헤네체아",
+     "ko": "엔조 바레네체아",
      "count": 1
     },
     {
-     "ko": "엔조 바레네체아",
+     "ko": "엔소 바헤네체아",
      "count": 1
     }
    ]
@@ -1256,8 +1256,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 418,
-   "llm": 418
+   "collected": 447,
+   "llm": 447
   }
  },
  "llmErrors": []
