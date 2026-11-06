@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T19:36:34.591Z",
+ "updatedAt": "2026-11-06T20:27:22.923Z",
  "hot": [
   "de-miguel-incident",
   "dedic-incident",
@@ -31,19 +31,19 @@
   "bbc": {
    "ok": true,
    "items": 79,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -55,19 +55,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,32 +85,32 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 3,
    "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 90
+   "added": 1,
+   "authorRate": 88
   },
   "waz": {
    "ok": true,
@@ -133,13 +133,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -157,13 +157,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 6,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -175,13 +175,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -308,20 +308,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 240,
-  "singleArticleRate": 43,
+  "recentIssues": 243,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 95
+    "count": 89
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 52
+    "count": 47
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 47
+    "count": 45
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "man-utd-affairs-ownership",
-    "count": 25
+    "count": 23
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -344,15 +344,15 @@
     "count": 21
    },
    {
+    "slug": "parker-west-ham-appointment",
+    "count": 19
+   },
+   {
     "slug": "grealish-discipline",
     "count": 19
    },
    {
     "slug": "gabriel-real-madrid-transfer",
-    "count": 18
-   },
-   {
-    "slug": "parker-west-ham-appointment",
     "count": 18
    },
    {
@@ -368,15 +368,15 @@
     "count": 16
    },
    {
-    "slug": "villarreal-psg-2026-11-03",
-    "count": 16
-   },
-   {
     "slug": "newcastle-manager-future",
     "count": 15
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 15
+   },
+   {
+    "slug": "villarreal-psg-2026-11-03",
     "count": 15
    }
   ]
@@ -388,7 +388,7 @@
    "variants": [
     {
      "ko": "조르제 제수스",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "조르즈 제수스",
@@ -514,7 +514,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "튀헬",
@@ -540,20 +540,6 @@
     },
     {
      "ko": "홀란드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rui Borges",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 보르게스",
-     "count": 8
-    },
-    {
-     "ko": "루이 보르헤스",
      "count": 1
     }
    ]
@@ -681,24 +667,6 @@
     {
      "ko": "카레차스",
      "count": 4
-    }
-   ]
-  },
-  {
-   "en": "Bradley Barcola",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브래들리 바르콜라",
-     "count": 3
-    },
-    {
-     "ko": "바르콜라",
-     "count": 3
-    },
-    {
-     "ko": "바르셀라",
-     "count": 1
     }
    ]
   },
@@ -995,24 +963,6 @@
    ]
   },
   {
-   "en": "Undav",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "운다브",
-     "count": 2
-    },
-    {
-     "ko": "운다프",
-     "count": 1
-    },
-    {
-     "ko": "운데프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -1191,6 +1141,20 @@
    ]
   },
   {
+   "en": "Undav",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "운다브",
+     "count": 2
+    },
+    {
+     "ko": "운데프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sean Neave",
    "dictionary": null,
    "variants": [
@@ -1277,6 +1241,38 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Thorgan Hazard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토르간 하자드",
+     "count": 1
+    },
+    {
+     "ko": "토르간 아자르",
+     "count": 1
+    },
+    {
+     "ko": "타종 하자드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Franclim Carvalho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프랭클림 카르발류",
+     "count": 2
+    },
+    {
+     "ko": "프랑클림 카르발류",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1313,8 +1309,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 231,
-   "llm": 231
+   "collected": 271,
+   "llm": 271
   }
  },
  "llmErrors": []
