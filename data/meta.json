@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T12:40:34.448Z",
+ "updatedAt": "2026-11-06T13:52:40.245Z",
  "hot": [
+  "de-miguel-incident",
+  "palmer-tuchel-relationship",
   "dedic-incident",
   "infantino-affairs-election-challenger",
-  "real-madrid-affairs-nadal-appointment",
-  "kane-contract",
-  "de-miguel-incident"
+  "real-madrid-affairs-nadal-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -29,8 +29,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 2,
+   "items": 79,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -42,7 +42,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -54,19 +54,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 22,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,13 +78,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 86
   },
   "fblondon": {
@@ -96,19 +96,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -120,7 +120,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
@@ -150,37 +150,37 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 3,
+   "items": 14,
+   "added": 7,
    "authorRate": 0
   }
  },
@@ -191,11 +191,11 @@
   },
   {
    "name": "오워노",
-   "count": 29
+   "count": 30
   },
   {
    "name": "데 미겔",
-   "count": 15
+   "count": 16
   },
   {
    "name": "그릴리시",
@@ -214,20 +214,20 @@
    "count": 9
   },
   {
+   "name": "그라벤베르흐",
+   "count": 8
+  },
+  {
+   "name": "웨인 루니",
+   "count": 8
+  },
+  {
    "name": "리산드로 마르티네스",
    "count": 8
   },
   {
    "name": "프레스티아니",
    "count": 8
-  },
-  {
-   "name": "그라벤베르흐",
-   "count": 7
-  },
-  {
-   "name": "웨인 루니",
-   "count": 7
   },
   {
    "name": "맥스 다우먼",
@@ -290,6 +290,10 @@
    "count": 5
   },
   {
+   "name": "조브 벨링엄",
+   "count": 5
+  },
+  {
    "name": "마두에케",
    "count": 4
   },
@@ -300,31 +304,27 @@
   {
    "name": "뮐러",
    "count": 4
-  },
-  {
-   "name": "누노 보르게스",
-   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 252,
-  "singleArticleRate": 45,
+  "recentIssues": 248,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 117
+    "count": 115
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 62
+    "count": 61
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 39
+    "count": 40
    },
    {
     "slug": "kane-contract",
-    "count": 30
+    "count": 29
    },
    {
     "slug": "man-utd-affairs-ownership",
@@ -332,34 +332,26 @@
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
-    "count": 23
+    "count": 22
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 22
    },
    {
-    "slug": "villarreal-psg-2026-11-03",
+    "slug": "jesus-ronaldo-relationship",
     "count": 21
    },
    {
-    "slug": "grealish-discipline",
-    "count": 20
-   },
-   {
-    "slug": "jesus-ronaldo-relationship",
-    "count": 19
-   },
-   {
-    "slug": "parker-west-ham-appointment",
-    "count": 19
+    "slug": "villarreal-psg-2026-11-03",
+    "count": 21
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
     "count": 19
    },
    {
-    "slug": "atletico-bayern-2026-11-03",
+    "slug": "grealish-discipline",
     "count": 18
    },
    {
@@ -368,6 +360,10 @@
    },
    {
     "slug": "leverkusen-marseille-2026-11-04",
+    "count": 17
+   },
+   {
+    "slug": "parker-west-ham-appointment",
     "count": 17
    },
    {
@@ -383,12 +379,12 @@
     "count": 17
    },
    {
-    "slug": "porto-napoli-2026-11-03",
-    "count": 16
+    "slug": "atletico-bayern-2026-11-03",
+    "count": 17
    },
    {
-    "slug": "newcastle-manager-future",
-    "count": 15
+    "slug": "porto-napoli-2026-11-03",
+    "count": 16
    }
   ]
  },
@@ -407,6 +403,48 @@
     },
     {
      "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르제 제수스",
+     "count": 7
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 6
+    },
+    {
+     "ko": "조르제 제주스",
+     "count": 3
+    },
+    {
+     "ko": "조르제 젠지",
+     "count": 2
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 주제",
+     "count": 1
+    },
+    {
+     "ko": "제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 조르지",
+     "count": 1
+    },
+    {
+     "ko": "하이메 헤수스",
      "count": 1
     }
    ]
@@ -431,7 +469,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -444,39 +482,27 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
+   "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
     {
-     "ko": "조르즈 제수스",
-     "count": 6
+     "ko": "토마스 투헬",
+     "count": 5
     },
     {
-     "ko": "조르제 제수스",
+     "ko": "튀헬",
      "count": 3
     },
     {
-     "ko": "조르제 제주스",
+     "ko": "투헬",
      "count": 3
     },
     {
-     "ko": "호르헤 제수스",
+     "ko": "토헬",
      "count": 1
     },
     {
-     "ko": "조르즈 주제",
-     "count": 1
-    },
-    {
-     "ko": "제수스",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 조르지",
-     "count": 1
-    },
-    {
-     "ko": "하이메 헤수스",
+     "ko": "토마스 튀헬",
      "count": 1
     }
    ]
@@ -509,50 +535,6 @@
     },
     {
      "ko": "루이 보르헤스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 3
-    },
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "토헬",
-     "count": 1
-    },
-    {
-     "ko": "토마스 튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 6
-    },
-    {
-     "ko": "도원만",
-     "count": 1
-    },
-    {
-     "ko": "다우먼",
      "count": 1
     }
    ]
@@ -666,15 +648,33 @@
      "count": 2
     },
     {
+     "ko": "마르크 반 봄멜",
+     "count": 1
+    },
+    {
      "ko": "마크 판 봄멜",
      "count": 1
     },
     {
      "ko": "마크 반 보멜",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 5
     },
     {
-     "ko": "마르크 반 봄멜",
+     "ko": "도원만",
+     "count": 1
+    },
+    {
+     "ko": "다우먼",
      "count": 1
     }
    ]
@@ -756,6 +756,20 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 3
+    },
+    {
+     "ko": "스테판 보르손",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Kaminski",
    "dictionary": null,
    "variants": [
@@ -828,6 +842,20 @@
    ]
   },
   {
+   "en": "De La Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 3
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Kiernan Dewsbury-Hall",
    "dictionary": null,
    "variants": [
@@ -868,6 +896,24 @@
    ]
   },
   {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 2
+    },
+    {
+     "ko": "루카 윌리엄스-반렛",
+     "count": 1
+    },
+    {
+     "ko": "윌리엄스-바닛",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karl",
    "dictionary": null,
    "variants": [
@@ -895,6 +941,20 @@
     },
     {
      "ko": "운데프",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Baleba",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바레바",
+     "count": 3
+    },
+    {
+     "ko": "발레바",
      "count": 1
     }
    ]
@@ -1018,34 +1078,6 @@
    ]
   },
   {
-   "en": "Ioannidis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "요아니디스",
-     "count": 2
-    },
-    {
-     "ko": "이오아니디스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "James Trafford",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제임스 트래퍼드",
-     "count": 2
-    },
-    {
-     "ko": "제임스 트라포드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lennart Karl",
    "dictionary": null,
    "variants": [
@@ -1059,6 +1091,20 @@
     },
     {
      "ko": "렌나르트 카를",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Harvey Elliott",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "해리 엘리엇",
+     "count": 2
+    },
+    {
+     "ko": "하비 엘리엇",
      "count": 1
     }
    ]
@@ -1142,24 +1188,6 @@
    ]
   },
   {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스-반렛",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄스-바닛",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Enzo Barrenechea",
    "dictionary": null,
    "variants": [
@@ -1236,34 +1264,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Sean Neave",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 네이브",
-     "count": 2
-    },
-    {
-     "ko": "숀 네이브",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kozo Tashima",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "타시마 코조",
-     "count": 2
-    },
-    {
-     "ko": "타시마 고조",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1296,8 +1296,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 770,
-   "llm": 770
+   "collected": 843,
+   "llm": 843
   }
  },
  "llmErrors": []
