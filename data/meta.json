@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T21:12:39.624Z",
+ "updatedAt": "2026-11-06T21:52:46.082Z",
  "hot": [
+  "gladbach-hamburger-2026-11-07",
   "sevilla-alaves-2026-11-05",
   "de-miguel-incident",
-  "dedic-incident",
-  "palmer-tuchel-relationship",
-  "newcastle-manager-future"
+  "valencia-real-madrid-2026-11-06",
+  "dedic-incident"
  ],
  "days": [
   "2026-10-18",
@@ -30,20 +30,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 1,
+   "items": 81,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -61,13 +61,13 @@
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,19 +79,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 88
+   "added": 3,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -103,7 +103,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -127,13 +127,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -163,7 +163,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -175,13 +175,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 0,
+   "items": 9,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -313,7 +313,7 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 87
+    "count": 88
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -321,7 +321,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 42
+    "count": 41
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
@@ -419,11 +419,11 @@
      "count": 1
     },
     {
-     "ko": "조르지 제수스",
+     "ko": "호르헤 제주스",
      "count": 1
     },
     {
-     "ko": "호르헤 제주스",
+     "ko": "조르지 제수스",
      "count": 1
     }
    ]
@@ -683,11 +683,11 @@
      "count": 1
     },
     {
-     "ko": "잡 벨링엄",
+     "ko": "조베 벨링엄",
      "count": 1
     },
     {
-     "ko": "조베 벨링엄",
+     "ko": "잡 벨링엄",
      "count": 1
     }
    ]
@@ -716,20 +716,6 @@
     },
     {
      "ko": "주앙 모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Baleba",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바레바",
-     "count": 5
-    },
-    {
-     "ko": "발레바",
      "count": 1
     }
    ]
@@ -935,6 +921,24 @@
    ]
   },
   {
+   "en": "Enzo Barrenechea",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엔초 바레네체아",
+     "count": 2
+    },
+    {
+     "ko": "엔조 바레네체아",
+     "count": 1
+    },
+    {
+     "ko": "엔소 바헤네체아",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -1031,24 +1035,6 @@
    ]
   },
   {
-   "en": "Lennart Karl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "렌나르트 칼",
-     "count": 1
-    },
-    {
-     "ko": "레나트 칼",
-     "count": 1
-    },
-    {
-     "ko": "렌나르트 카를",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hütter",
    "dictionary": null,
    "variants": [
@@ -1122,24 +1108,6 @@
     },
     {
      "ko": "이녜스 페레스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Enzo Barrenechea",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엔초 바레네체아",
-     "count": 1
-    },
-    {
-     "ko": "엔조 바레네체아",
-     "count": 1
-    },
-    {
-     "ko": "엔소 바헤네체아",
      "count": 1
     }
    ]
@@ -1277,6 +1245,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Danks",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "당크스",
+     "count": 2
+    },
+    {
+     "ko": "당스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Proença",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드루 프로엔사",
+     "count": 2
+    },
+    {
+     "ko": "페드루 프루엔사",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1313,8 +1309,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 294,
-   "llm": 294
+   "collected": 321,
+   "llm": 321
   }
  },
  "llmErrors": []

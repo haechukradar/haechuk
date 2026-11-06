@@ -1,157 +1,662 @@
 [
  {
-  "slug": "suzuki-real-madrid-transfer",
+  "slug": "carrick-manager-future",
   "mode": "llm",
-  "titleKo": "스즈키 영입 관심 레알 마드리드·PSG",
-  "createdAt": "2026-11-06T21:08:04.000Z",
-  "updatedAt": "2026-11-06T21:08:04.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [],
-  "players": [
-   "스즈키"
-  ],
-  "sig": [
-   "suzuki",
-   "saturday"
-  ],
-  "articles": [
-   {
-    "id": "370d5761fe4d",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
-    "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
-    "ko": "스즈키 영입 관심 레알 마드리드·PSG, 토요일 이적 가십",
-    "source": "bbc",
-    "publishedAt": "2026-11-06T21:08:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "스즈키"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "스즈키",
-     "from": null,
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.59,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "370d5761fe4d",
-    "at": "2026-11-06T21:08:04.000Z",
-    "source": "bbc",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "스즈키",
-   "from": null,
-   "to": null
-  },
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-06T21:08:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Real Madrid and PSG keen on Suzuki - Saturday's gossip"
- },
- {
-  "slug": "venezia-udinese-2026-11-06",
-  "mode": "llm",
-  "titleKo": "베네치아 대 우디네세 경기 결과",
-  "createdAt": "2026-11-06T21:01:14.000Z",
-  "updatedAt": "2026-11-06T21:06:27.000Z",
-  "category": "match",
+  "titleKo": "캐릭, 퍼거슨 비교 속 맨유 감독 행보",
+  "createdAt": "2026-11-06T14:38:16.000Z",
+  "updatedAt": "2026-11-06T21:52:10.000Z",
+  "category": "manager",
   "stage": null,
-  "clubs": [],
-  "players": [
-   "바시치",
-   "모레노"
+  "clubs": [
+   "man-utd"
   ],
+  "players": [],
   "sig": [
-   "udinese",
-   "tor",
-   "basic",
-   "minute"
+   "carrick",
+   "sir",
+   "alex",
+   "ferguson"
   ],
   "articles": [
    {
-    "id": "aafa276258b9",
-    "url": "https://www.kicker.de/venedig-udinese-tor-zum-1-0-durch-basic-in-der-53-minute-1269322/video#omrss",
-    "title": "Venedig - Udinese: Tor zum 1:0 durch Basic in der 53. Minute",
-    "ko": "베네치아 대 우디네세 경기, 53분 바시치 골로 1-0",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T21:01:14.000Z",
+    "id": "ec88a4d3b29f",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-laughs-sir-alex-34874056",
+    "title": "Michael Carrick laughs off Sir Alex Ferguson comparison but makes Manchester United plea",
+    "ko": "캐릭, 퍼거슨 비교에 웃어넘기며 맨유에 당부",
+    "source": "men",
+    "publishedAt": "2026-11-06T14:38:16.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바시치"
+    "clubs": [
+     "man-utd"
     ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "6bc24fbea56b",
+    "url": "https://www.skysports.com/football/news/12040/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
+    "title": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
+    "ko": "캐릭 \"맨유가 퍼거슨 시절 성공을 다시 이룰 수 있다\"",
+    "source": "sky",
+    "publishedAt": "2026-11-06T15:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
     "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "561e8546a3f2",
-    "url": "https://www.kicker.de/venedig-udinese-eigentor-zum-1-1-durch-moreno-in-der-57-minute-1269326/video#omrss",
-    "title": "Venedig - Udinese: Eigentor zum 1:1 durch Moreno in der 57. Minute",
-    "ko": "베네치아 대 우디네세 경기, 57분 모레노 자책골로 1-1",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T21:06:27.000Z",
+    "id": "504f0a64d2f7",
+    "url": "https://www.footballinsider247.com/manchester-united/sources-michael-carrick-sack-update-ahead-of-man-united-clash",
+    "title": "Sources: Michael Carrick sack update ahead of Man United clash",
+    "ko": "맨유, 캐릭 경질 가능성 관련 소식…맨유전 앞두고",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-06T18:30:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "모레노"
+    "clubs": [
+     "man-utd"
     ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "7be0420523c1",
+    "url": "https://www.thesun.co.uk/sport/40944860/michael-carrick-man-utd-alex-ferguson-aston-villa/",
+    "title": "Michael Carrick admits he’ll get no Fergie time at Man Utd as Sir Alex rings in 40th anniversary",
+    "ko": "캐릭, 퍼거슨 40주년에도 맨유서 퍼거슨 시간 못 얻을 것 인정",
+    "source": "sun",
+    "publishedAt": "2026-11-06T21:52:10.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Luckhurst",
+    "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.94,
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 2.18,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-06T21:01:14.000Z",
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-06T14:38:16.000Z",
    "viaQuote": false
   },
-  "headline": "Venedig - Udinese: Eigentor zum 1:1 durch Moreno in der 57. Minute"
+  "headline": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again"
+ },
+ {
+  "slug": "man-utd-manager-future-20261102",
+  "mode": "llm",
+  "titleKo": "맨유 감독 거취 논란",
+  "createdAt": "2026-11-01T22:28:05.000Z",
+  "updatedAt": "2026-11-06T21:41:16.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [
+   "michael",
+   "carrick"
+  ],
+  "articles": [
+   {
+    "id": "e47db4840288",
+    "url": "https://www.dailystar.co.uk/sport/football/michael-carricks-future-update-man-37832555",
+    "title": "Major update on Michael Carrick's Man Utd future as timeline emerges after latest loss",
+    "ko": "캐릭 맨유 거취, 최신 패배 뒤 타임라인 공개 임박",
+    "source": "star",
+    "publishedAt": "2026-11-01T22:28:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield",
+    "transfer": null
+   },
+   {
+    "id": "62ee36256a1f",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sack-man-united-34844297",
+    "title": "Man United news LIVE: Michael Carrick sack deadline set as Eddie Howe makes decision",
+    "ko": "맨유 캐릭 경질 시한 설정, 하우가 결정 임박",
+    "source": "men",
+    "publishedAt": "2026-11-03T13:29:37.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "25ef1fe0c05a",
+    "url": "https://www.thesun.co.uk/sport/40899739/sir-jim-ratcliffe-sacks-lausanne-sport-carrick-man-utd/",
+    "title": "Sir Jim Ratcliffe sacks other club’s manager after putting them up for sale as Carrick’s Man Utd future also in doubt",
+    "ko": "래트클리프, 타 구단 감독 경질 후 매각 매물로…캐릭 거취도 불투명",
+    "source": "sun",
+    "publishedAt": "2026-11-03T19:38:26.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "b6237c688f20",
+    "url": "https://www.mirror.co.uk/sport/football/match-reports/manchester-united-roma-champions-league-37840042",
+    "title": "Man Utd stage dramatic Roma comeback to buy Michael Carrick stay of execution",
+    "ko": "맨유, 로마 극적 역전으로 캐릭 감독 시간 벌어",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T21:57:34.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "9931a68e3f1a",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-manchester-united-carrick-roma-37840069",
+    "title": "Michael Carrick's masterclass could save Man Utd job in incredible comeback win",
+    "ko": "캐릭, 로마 상대 역전승으로 경질 위기 모면",
+    "source": "star",
+    "publishedAt": "2026-11-03T21:58:32.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cameron Winstanley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "72881a9428e9",
+    "url": "https://www.mirror.co.uk/sport/football/news/ineos-man-utd-lausanne-sport-37842741",
+    "title": "INEOS sack manager as Man Utd co-owners make brutal decision after 'lengthy talks'",
+    "ko": "이네오스, 맨유 공동구단주 긴 협상 끝 감독 경질 결정 보도",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T13:54:12.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Bruna Reis",
+    "transfer": null
+   },
+   {
+    "id": "3809074e2973",
+    "url": "https://www.skysports.com/football/news/12040/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
+    "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
+    "ko": "데샹, 맨유의 카릭 대체 제안 거절설",
+    "source": "sky",
+    "publishedAt": "2026-11-05T23:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "29c0f71ee012",
+    "url": "https://www.mirror.co.uk/sport/football/news/eddie-howe-man-utd-hoeness-37853092",
+    "title": "What Man Utd really think of Eddie Howe as 'Julian Nagelsmann's stock takes big hit'",
+    "ko": "맨유, 하우 감독 평가…나겔스만 위상 하락 속 주목",
+    "source": "mirror",
+    "publishedAt": "2026-11-06T21:41:16.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley, Bruna Reis",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 5,
+  "score": 0.58,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-01T22:28:05.000Z",
+   "viaQuote": false
+  },
+  "headline": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
+  "aliases": [
+   "man-utd-manager-future-20261101",
+   "man-utd-manager-future-20261103",
+   "man-utd-manager-future-20261104",
+   "man-utd-manager-future-20261105",
+   "man-utd-manager-future-20261106"
+  ]
+ },
+ {
+  "slug": "gladbach-hamburger-2026-11-07",
+  "mode": "llm",
+  "titleKo": "묀헨글라트바흐 대 함부르크 경기 라이브",
+  "createdAt": "2026-11-05T08:13:00.000Z",
+  "updatedAt": "2026-11-06T21:38:02.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "gladbach"
+  ],
+  "players": [
+   "마치노",
+   "무힐렌",
+   "이타쿠라"
+  ],
+  "sig": [
+   "spiel",
+   "freitag",
+   "hamburger"
+  ],
+  "articles": [
+   {
+    "id": "6af56d8762cc",
+    "url": "https://rp-online.de/sport/fussball/borussia/hamburger-sv-borussia-moenchengladbach-liveticker-zum-spiel_aid-79115875",
+    "title": "Liveticker zum Spiel: Borussia ist am Freitag beim Hamburger SV gefordert",
+    "ko": "묀헨글라트바흐, 금요일 함부르크 원정 라이브 중계",
+    "source": "rp",
+    "publishedAt": "2026-11-05T08:13:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
+    "transfer": null
+   },
+   {
+    "id": "83e073d223a7",
+    "url": "https://rp-online.de/sport/fussball/borussia/das-personal-und-die-herausforderungen-fuer-gladbach-beim-hamburger-sv_aid-157878147",
+    "title": "Zwei Rückkehrer, ein Fragezeichen: Das sind die Herausforderungen für Blessin und Borussia in Hamburg",
+    "ko": "묀헨글라트바흐, 함부르크 원정 앞두고 복귀 선수와 물음표 과제 점검",
+    "source": "rp",
+    "publishedAt": "2026-11-05T14:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Leah-Josefin Oldenburg",
+    "transfer": null
+   },
+   {
+    "id": "d18cc6570da6",
+    "url": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel#omrss",
+    "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
+    "ko": "HSV 대 묀헨글라트바흐 중계 채널 안내",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "db4964c0ebeb",
+    "url": "https://www.kicker.de/live-erste-gute-gladbacher-chance-durch-machino-1268780/artikel#omrss",
+    "title": "LIVE! Erste gute Gladbacher Chance durch Machino",
+    "ko": "묀헨글라트바흐, 마치노의 첫 찬스로 공격 시작",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T18:35:49.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마치노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "33d17bead531",
+    "url": "https://www.kicker.de/live-toller-schuss-von-muheim-scallys-schlenzer-sitzt-1268780/artikel#omrss",
+    "title": "LIVE! Toller Schuss von Muheim - Scallys Schlenzer sitzt",
+    "ko": "묀헨글라트바흐 대 함부르크 경기 라이브, 무힐렌 골",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T18:35:49.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "무힐렌"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e94d13fc634f",
+    "url": "https://rp-online.de/sport/fussball/borussia/borussia-verliert-nach-itakura-platzverweiss-1-3-beim-hamburger-sv_aid-157962835",
+    "title": "Nach Itakura-Platzverweis: Borussia verpasst in Hamburg den nächsten Punktgewinn",
+    "ko": "묀헨글라트바흐, 이타쿠라 퇴장 후 함부르크 원정서 승점 놓쳐",
+    "source": "rp",
+    "publishedAt": "2026-11-06T21:23:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "이타쿠라"
+    ],
+    "playerTags": [],
+    "author": "Leah-Josefin Oldenburg, Thomas Grulke, Karsten Kellermann",
+    "transfer": null
+   },
+   {
+    "id": "5b5a6e83c654",
+    "url": "https://www.kicker.de/hsv-gegen-mgladbach-2026-bundesliga-5226887/spielbericht#omrss",
+    "title": "Nandjas Premiere und zwei Traumtore: Hamburg gewinnt Kellerduell gegen Gladbach",
+    "ko": "함부르크, 묀헨글라트바흐 꺾고 강등권 탈출 경쟁 승리",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T21:30:48.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "54e8aa999c62",
+    "url": "https://rp-online.de/sport/fussball/borussia/noten-borussia-moenchengladbach-starker-batz-reicht-nicht-beim-hamburger-sv_aid-157930173",
+    "title": "Borussia-Noten gegen den Hamburger SV: Ein reaktionsschneller Batz reicht nicht – Itakuras fatale Fehlentscheidung",
+    "ko": "묀헨글라트바흐, 함부르크전 평점…이타쿠라 퇴장 판정 실책",
+    "source": "rp",
+    "publishedAt": "2026-11-06T21:38:02.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "이타쿠라"
+    ],
+    "playerTags": [],
+    "author": "Thomas Grulke",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.97,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "RP 온라인 (묀헨글라트바흐)",
+   "source": "rp",
+   "at": "2026-11-05T08:13:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Borussia-Noten gegen den Hamburger SV: Ein reaktionsschneller Batz reicht nicht – Itakuras fatale Fehlentscheidung"
+ },
+ {
+  "slug": "tottenham-affairs-venkatesham",
+  "mode": "llm",
+  "titleKo": "토트넘 벤카테삼 관련 논란",
+  "createdAt": "2026-11-06T09:05:54.000Z",
+  "updatedAt": "2026-11-06T21:31:51.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "tottenham",
+   "arsenal"
+  ],
+  "players": [],
+  "sig": [
+   "vinai",
+   "venkatesham"
+  ],
+  "articles": [
+   {
+    "id": "a57edf4e5880",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/vinai-venkatesham-premier-league-relegation-34870990",
+    "title": "What has frustrated Vinai Venkatesham and the 'irresponsible' thing Tottenham avoided",
+    "ko": "토트넘, 비니 벤카테삼의 '무책임' 행보 피해 나가",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T09:05:54.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matt Maltby",
+    "transfer": null
+   },
+   {
+    "id": "55e224826b79",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-premier-league-complaint-arsenal-34876774",
+    "title": "Tottenham formally complain to Premier League over Arsenal footage as response issued",
+    "ko": "토트넘, 아스널 영상 관련 프리미어리그에 공식 항의",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T21:31:51.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham",
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Wakefield",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.88,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-06T09:05:54.000Z",
+   "viaQuote": false
+  },
+  "headline": "Tottenham formally complain to Premier League over Arsenal footage as response issued"
+ },
+ {
+  "slug": "valencia-real-madrid-2026-11-06",
+  "mode": "llm",
+  "titleKo": "발렌시아 대 레알 마드리드 라리가 경기",
+  "createdAt": "2026-11-06T09:45:53.000Z",
+  "updatedAt": "2026-11-06T21:25:55.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [],
+  "sig": [
+   "mourinho",
+   "valencia",
+   "liga"
+  ],
+  "articles": [
+   {
+    "id": "e3069471f08a",
+    "url": "https://as.com/futbol/primera/rueda-de-prensa-de-mourinho-en-directo-declaraciones-previas-al-valencia-real-madrid-de-liga-en-vivo-f202611-d/",
+    "title": "Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo",
+    "ko": "무리뉴, 발렌시아전 앞두고 기자회견 진행",
+    "source": "as",
+    "publishedAt": "2026-11-06T09:45:53.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Joel Guerrero",
+    "transfer": null
+   },
+   {
+    "id": "a41aba219953",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/alineaciones-probables-valencia-real-madrid.html",
+    "title": "Alineaciones probables del Valencia - Real Madrid",
+    "ko": "발렌시아 대 레알 마드리드 예상 선발 라인업",
+    "source": "marca",
+    "publishedAt": "2026-11-06T17:12:22.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "FERNANDO ÁLVAREZ",
+    "transfer": null
+   },
+   {
+    "id": "771be84739dd",
+    "url": "https://as.com/futbol/primera/alineacion-posible-del-real-madrid-contra-el-valencia-en-laliga-ea-sports-f202611-n/",
+    "title": "Alineación posible del Real Madrid contra el Valencia en LaLiga EA Sports",
+    "ko": "레알 마드리드, 발렌시아전 예상 선발 라인업",
+    "source": "as",
+    "publishedAt": "2026-11-06T21:25:55.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Agustín Martín",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.74,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-06T09:45:53.000Z",
+   "viaQuote": false
+  },
+  "headline": "Alineación posible del Real Madrid contra el Valencia en LaLiga EA Sports"
  },
  {
   "slug": "toulouse-strasbourg-2026-11-06",
   "mode": "llm",
   "titleKo": "툴루즈 대 스트라스부르 경기 결과",
   "createdAt": "2026-11-06T20:36:02.000Z",
-  "updatedAt": "2026-11-06T21:05:10.000Z",
+  "updatedAt": "2026-11-06T21:25:31.000Z",
   "category": "match",
   "stage": null,
   "clubs": [],
   "players": [
    "이달고",
-   "맥켄지"
+   "맥켄지",
+   "외르겐센"
   ],
   "sig": [
    "assist",
@@ -195,11 +700,29 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "47d347bcd005",
+    "url": "https://www.kicker.de/toulouse-strassburg-tor-zum-3-1-durch-joergensen-in-der-76-minute-1269334/video#omrss",
+    "title": "Toulouse - Straßburg: Tor zum 3:1 durch Jörgensen in der 76. Minute",
+    "ko": "툴루즈, 스트라스부르전 3-1로 앞서가…외르겐센 골",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T21:25:31.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "외르겐센"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.8,
+  "score": 1.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -211,7 +734,304 @@
    "at": "2026-11-06T20:36:02.000Z",
    "viaQuote": false
   },
-  "headline": "Toulouse - Straßburg: Tor zum 2:0 durch McKenzie in der 56. Minute"
+  "headline": "Toulouse - Straßburg: Tor zum 3:1 durch Jörgensen in der 76. Minute"
+ },
+ {
+  "slug": "aarhus-braga-2026-11-05",
+  "mode": "llm",
+  "titleKo": "아르후스 대 브라가 경기",
+  "createdAt": "2026-11-05T17:52:00.000Z",
+  "updatedAt": "2026-11-06T21:17:55.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "주앙 무티뉴",
+   "리카르도 호르타",
+   "다니엘 샤베스"
+  ],
+  "sig": [
+   "braga"
+  ],
+  "articles": [
+   {
+    "id": "1254846dda78",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/conference-league/detalhe/aarhus-sp-braga-em-direto",
+    "title": "Aarhus-Sp. Braga, em direto",
+    "ko": "아르후스 대 브라가 라이브 중계",
+    "source": "record",
+    "publishedAt": "2026-11-05T17:52:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b0133a48f5bc",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/conference-league/detalhe/a-cronica-do-aarhus-sp-braga-0-0-aqueles-aarhus-nao-lhes-fazem-bem",
+    "title": "A crónica do Aarhus-Sp. Braga, 0-0: aqueles Aarhus não lhes fazem bem...",
+    "ko": "아르후스 0-0 브라가 경기 크로니카",
+    "source": "record",
+    "publishedAt": "2026-11-05T20:44:42.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c73b7bf8c9fb",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/franclim-carvalho-e-o-empate-com-o-aarhus-finalizacao-foi-chave",
+    "title": "Franclim Carvalho e o empate com o Aarhus: «Finalização foi chave»",
+    "ko": "프랑클림 카르발류, 아르후스와 무승부 후 \"마무리가 관건\"",
+    "source": "record",
+    "publishedAt": "2026-11-05T20:47:38.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "26eb520e7ab4",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/joao-moutinho-lamenta-ineficacia-do-sp-braga-temos-de-concretizar-uma-em-tres-nao-zero-em-cinco",
+    "title": "João Moutinho lamenta ineficácia do Sp. Braga: «Temos de concretizar uma em três, não zero em cinco»",
+    "ko": "주앙 무티뉴, 브라가 골 결정력 부족 아쉬움 토로",
+    "source": "record",
+    "publishedAt": "2026-11-05T22:22:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주앙 무티뉴"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0b649c69b1e0",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/ricardo-horta-apos-empate-com-o-aarhus-sabe-a-pouco-mas-pode-ser-um-ponto-importante",
+    "title": "Ricardo Horta após empate com o Aarhus: «Sabe a pouco, mas pode ser um ponto importante»",
+    "ko": "리카르도 호르타, 아르후스전 무승부 후 '의미 있는 승점' 강조",
+    "source": "record",
+    "publishedAt": "2026-11-05T22:26:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "리카르도 호르타"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a782e01a0aac",
+    "url": "https://www.record.pt/futebol/futebol-feminino/detalhe/daniel-chaves-preparado-para-jogo-exigente-com-o-sp-braga-nesta-casa-entramos-sempre-para-ganhar",
+    "title": "Daniel Chaves preparado para jogo \"exigente\" com o Sp. Braga: «Nesta casa entramos sempre para ganhar»",
+    "ko": "다니엘 샤베스, 브라가전 \"까다로운 경기\" 준비 강조",
+    "source": "record",
+    "publishedAt": "2026-11-06T21:17:55.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "다니엘 샤베스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.81,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-05T17:52:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Daniel Chaves preparado para jogo \"exigente\" com o Sp. Braga: «Nesta casa entramos sempre para ganhar»"
+ },
+ {
+  "slug": "venezia-udinese-2026-11-06",
+  "mode": "llm",
+  "titleKo": "베네치아 대 우디네세 경기 결과",
+  "createdAt": "2026-11-06T21:01:14.000Z",
+  "updatedAt": "2026-11-06T21:13:35.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "바시치",
+   "모레노",
+   "키케"
+  ],
+  "sig": [
+   "udinese",
+   "tor",
+   "basic",
+   "minute"
+  ],
+  "articles": [
+   {
+    "id": "aafa276258b9",
+    "url": "https://www.kicker.de/venedig-udinese-tor-zum-1-0-durch-basic-in-der-53-minute-1269322/video#omrss",
+    "title": "Venedig - Udinese: Tor zum 1:0 durch Basic in der 53. Minute",
+    "ko": "베네치아 대 우디네세 경기, 53분 바시치 골로 1-0",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T21:01:14.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바시치"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "561e8546a3f2",
+    "url": "https://www.kicker.de/venedig-udinese-eigentor-zum-1-1-durch-moreno-in-der-57-minute-1269326/video#omrss",
+    "title": "Venedig - Udinese: Eigentor zum 1:1 durch Moreno in der 57. Minute",
+    "ko": "베네치아 대 우디네세 경기, 57분 모레노 자책골로 1-1",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T21:06:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "모레노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d381b7b90011",
+    "url": "https://www.kicker.de/venedig-udinese-tor-zum-2-1-durch-kike-in-der-65-minute-1269327/video#omrss",
+    "title": "Venedig - Udinese: Tor zum 2:1 durch Kike in der 65. Minute",
+    "ko": "베네치아, 우디네세전 2-1 리드…키케 골",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T21:13:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "키케"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.72,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-06T21:01:14.000Z",
+   "viaQuote": false
+  },
+  "headline": "Venedig - Udinese: Tor zum 2:1 durch Kike in der 65. Minute"
+ },
+ {
+  "slug": "suzuki-real-madrid-transfer",
+  "mode": "llm",
+  "titleKo": "스즈키 영입 관심 레알 마드리드·PSG",
+  "createdAt": "2026-11-06T21:08:04.000Z",
+  "updatedAt": "2026-11-06T21:08:04.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "스즈키"
+  ],
+  "sig": [
+   "suzuki",
+   "saturday"
+  ],
+  "articles": [
+   {
+    "id": "370d5761fe4d",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
+    "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+    "ko": "스즈키 영입 관심 레알 마드리드·PSG, 토요일 이적 가십",
+    "source": "bbc",
+    "publishedAt": "2026-11-06T21:08:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "스즈키"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "스즈키",
+     "from": null,
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "370d5761fe4d",
+    "at": "2026-11-06T21:08:04.000Z",
+    "source": "bbc",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "스즈키",
+   "from": null,
+   "to": null
+  },
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-06T21:08:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid and PSG keen on Suzuki - Saturday's gossip"
  },
  {
   "slug": "spain-portugal-finalissima-2026-11-06",
@@ -248,7 +1068,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.9,
+  "score": 1.69,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -324,7 +1144,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.02,
+  "score": 0.9,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -3207,6 +4027,22 @@
     "transfer": null
    },
    {
+    "id": "5c7b9d0af211",
+    "url": "https://as.com/futbol/primera/doble-homenaje-a-de-miguel-en-nervion-en-el-minuto-9-se-para-el-partido-f202611-n/",
+    "title": "El profundo homenaje a De Miguel: camisetas, silencio y un largo aplauso",
+    "ko": "데 미겔 추모 행사…유니폼·묵념·긴 박수",
+    "source": "as",
+    "publishedAt": "2026-11-06T19:33:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José A. Espina",
+    "transfer": null
+   },
+   {
     "id": "2e88179ae822",
     "url": "https://www.record.pt/internacional/paises/espanha/detalhe/o-que-e-um-traumatismo-toracico-acidental-a-lesao-que-causou-a-morte-de-jesus-de-miguel",
     "title": "O que é um traumatismo torácico acidental, a lesão que causou a morte de Jesús de Miguel?",
@@ -3227,7 +4063,7 @@
   ],
   "recentSources": 7,
   "sourceCount": 15,
-  "score": 3.24,
+  "score": 2.89,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3366,7 +4202,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 3.28,
+  "score": 2.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3414,7 +4250,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.76,
+  "score": 1.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3480,7 +4316,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.75,
+  "score": 1.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3575,7 +4411,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.58,
+  "score": 1.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3629,7 +4465,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.68,
+  "score": 1.5,
   "topTier": 2,
   "stageHistory": [
    {
@@ -3898,7 +4734,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.24,
+  "score": 0.22,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3957,7 +4793,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.42,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4583,7 +5419,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 11,
-  "score": 0.5,
+  "score": 0.44,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4631,7 +5467,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.51,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4678,7 +5514,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.5,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4729,7 +5565,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.47,
+  "score": 1.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4826,7 +5662,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.43,
+  "score": 0.39,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4885,7 +5721,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.44,
+  "score": 1.28,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5107,7 +5943,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 8,
-  "score": 2.62,
+  "score": 2.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5751,7 +6587,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 0.69,
+  "score": 0.61,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6215,9 +7051,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 6,
-  "score": 2.25,
+  "score": 1.94,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6363,7 +7199,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.1,
+  "score": 1.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6435,7 +7271,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.36,
+  "score": 1.21,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7281,7 +8117,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.32,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7338,7 +8174,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.33,
+  "score": 1.19,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7392,7 +8228,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.28,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7444,7 +8280,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.27,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7928,7 +8764,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.27,
+  "score": 1.13,
   "topTier": 1,
   "stageHistory": [
    {
@@ -7967,138 +8803,6 @@
    "viaQuote": false
   },
   "headline": "Real Madrid confident of signing Man Utd's Gabriel"
- },
- {
-  "slug": "gladbach-hamburger-2026-11-07",
-  "mode": "llm",
-  "titleKo": "묀헨글라트바흐 대 함부르크 경기 라이브",
-  "createdAt": "2026-11-05T08:13:00.000Z",
-  "updatedAt": "2026-11-06T18:35:49.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "gladbach"
-  ],
-  "players": [
-   "마치노",
-   "무힐렌"
-  ],
-  "sig": [
-   "spiel",
-   "freitag",
-   "hamburger"
-  ],
-  "articles": [
-   {
-    "id": "6af56d8762cc",
-    "url": "https://rp-online.de/sport/fussball/borussia/hamburger-sv-borussia-moenchengladbach-liveticker-zum-spiel_aid-79115875",
-    "title": "Liveticker zum Spiel: Borussia ist am Freitag beim Hamburger SV gefordert",
-    "ko": "묀헨글라트바흐, 금요일 함부르크 원정 라이브 중계",
-    "source": "rp",
-    "publishedAt": "2026-11-05T08:13:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
-    "transfer": null
-   },
-   {
-    "id": "83e073d223a7",
-    "url": "https://rp-online.de/sport/fussball/borussia/das-personal-und-die-herausforderungen-fuer-gladbach-beim-hamburger-sv_aid-157878147",
-    "title": "Zwei Rückkehrer, ein Fragezeichen: Das sind die Herausforderungen für Blessin und Borussia in Hamburg",
-    "ko": "묀헨글라트바흐, 함부르크 원정 앞두고 복귀 선수와 물음표 과제 점검",
-    "source": "rp",
-    "publishedAt": "2026-11-05T14:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Leah-Josefin Oldenburg",
-    "transfer": null
-   },
-   {
-    "id": "d18cc6570da6",
-    "url": "https://www.kicker.de/wer-uebertraegt-hsv-gegen-borussia-moenchengladbach-heute-live-im-tv-stream-1268921/artikel#omrss",
-    "title": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?",
-    "ko": "HSV 대 묀헨글라트바흐 중계 채널 안내",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "db4964c0ebeb",
-    "url": "https://www.kicker.de/live-erste-gute-gladbacher-chance-durch-machino-1268780/artikel#omrss",
-    "title": "LIVE! Erste gute Gladbacher Chance durch Machino",
-    "ko": "묀헨글라트바흐, 마치노의 첫 찬스로 공격 시작",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T18:35:49.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마치노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "33d17bead531",
-    "url": "https://www.kicker.de/live-toller-schuss-von-muheim-scallys-schlenzer-sitzt-1268780/artikel#omrss",
-    "title": "LIVE! Toller Schuss von Muheim - Scallys Schlenzer sitzt",
-    "ko": "묀헨글라트바흐 대 함부르크 경기 라이브, 무힐렌 골",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T18:35:49.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "무힐렌"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.38,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "RP 온라인 (묀헨글라트바흐)",
-   "source": "rp",
-   "at": "2026-11-05T08:13:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Wer überträgt HSV gegen Borussia Mönchengladbach heute live im TV & Stream?"
  },
  {
   "slug": "jesus-ronaldo-relationship",
@@ -8573,7 +9277,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 7,
-  "score": 1.78,
+  "score": 1.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8589,96 +9293,6 @@
    "viaQuote": false
   },
   "headline": "Jorge Jesus wusste nichts von Ronaldo-Rücktritt: \"Hatte vor ihn zu nominieren\""
- },
- {
-  "slug": "carrick-manager-future",
-  "mode": "llm",
-  "titleKo": "캐릭, 퍼거슨 비교 속 맨유 감독 행보",
-  "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-06T18:30:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [],
-  "sig": [
-   "carrick",
-   "sir",
-   "alex",
-   "ferguson"
-  ],
-  "articles": [
-   {
-    "id": "ec88a4d3b29f",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-laughs-sir-alex-34874056",
-    "title": "Michael Carrick laughs off Sir Alex Ferguson comparison but makes Manchester United plea",
-    "ko": "캐릭, 퍼거슨 비교에 웃어넘기며 맨유에 당부",
-    "source": "men",
-    "publishedAt": "2026-11-06T14:38:16.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall",
-    "transfer": null
-   },
-   {
-    "id": "6bc24fbea56b",
-    "url": "https://www.skysports.com/football/news/12040/13608887/michael-carrick-manchester-united-boss-says-its-possible-the-club-can-emulate-sir-alex-fergusons-success-at-old-trafford",
-    "title": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again",
-    "ko": "캐릭 \"맨유가 퍼거슨 시절 성공을 다시 이룰 수 있다\"",
-    "source": "sky",
-    "publishedAt": "2026-11-06T15:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "504f0a64d2f7",
-    "url": "https://www.footballinsider247.com/manchester-united/sources-michael-carrick-sack-update-ahead-of-man-united-clash",
-    "title": "Sources: Michael Carrick sack update ahead of Man United clash",
-    "ko": "맨유, 캐릭 경질 가능성 관련 소식…맨유전 앞두고",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-06T18:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 1.78,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-06T14:38:16.000Z",
-   "viaQuote": false
-  },
-  "headline": "Carrick: 'Not impossible' Man Utd can achieve Ferguson success again"
  },
  {
   "slug": "palmer-tuchel-relationship",
@@ -8832,7 +9446,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 2.43,
+  "score": 2.17,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8887,7 +9501,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8960,7 +9574,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.97,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9160,7 +9774,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 1.15,
+  "score": 1.02,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9213,7 +9827,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.06,
+  "score": 0.94,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9452,7 +10066,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 1.76,
+  "score": 1.57,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9464,77 +10078,6 @@
    "viaQuote": true
   },
   "headline": "Regis Le Bris backed by ‘frustrated’ Sunderland owner Kyril Louis-Dreyfus despite poor form ahead of Chelsea clash"
- },
- {
-  "slug": "valencia-real-madrid-2026-11-06",
-  "mode": "llm",
-  "titleKo": "발렌시아 대 레알 마드리드 라리가 경기",
-  "createdAt": "2026-11-06T09:45:53.000Z",
-  "updatedAt": "2026-11-06T17:12:22.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [],
-  "sig": [
-   "mourinho",
-   "valencia",
-   "liga"
-  ],
-  "articles": [
-   {
-    "id": "e3069471f08a",
-    "url": "https://as.com/futbol/primera/rueda-de-prensa-de-mourinho-en-directo-declaraciones-previas-al-valencia-real-madrid-de-liga-en-vivo-f202611-d/",
-    "title": "Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo",
-    "ko": "무리뉴, 발렌시아전 앞두고 기자회견 진행",
-    "source": "as",
-    "publishedAt": "2026-11-06T09:45:53.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Joel Guerrero",
-    "transfer": null
-   },
-   {
-    "id": "a41aba219953",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/alineaciones-probables-valencia-real-madrid.html",
-    "title": "Alineaciones probables del Valencia - Real Madrid",
-    "ko": "발렌시아 대 레알 마드리드 예상 선발 라인업",
-    "source": "marca",
-    "publishedAt": "2026-11-06T17:12:22.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "FERNANDO ÁLVAREZ",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 1.27,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-06T09:45:53.000Z",
-   "viaQuote": false
-  },
-  "headline": "Alineaciones probables del Valencia - Real Madrid"
  },
  {
   "slug": "liverpool-fenerbahce-2026-11-03",
@@ -10353,7 +10896,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 14,
-  "score": 0.96,
+  "score": 0.86,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10520,7 +11063,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.96,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10573,7 +11116,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.9,
+  "score": 0.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10632,7 +11175,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.88,
+  "score": 0.79,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10693,7 +11236,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.86,
+  "score": 0.77,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10929,7 +11472,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 5,
-  "score": 1.86,
+  "score": 1.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11062,7 +11605,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.13,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11129,7 +11672,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11182,7 +11725,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.8,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11317,7 +11860,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.1,
+  "score": 0.98,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11441,7 +11984,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11565,7 +12108,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 1.58,
+  "score": 1.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11692,7 +12235,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.69,
+  "score": 0.62,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11743,7 +12286,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11871,7 +12414,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.65,
+  "score": 0.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12076,7 +12619,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.19,
+  "score": 0.17,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12419,7 +12962,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.64,
+  "score": 0.57,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12478,7 +13021,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13286,7 +13829,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 14,
-  "score": 0.58,
+  "score": 0.83,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13388,7 +13931,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13449,7 +13992,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.62,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13516,7 +14059,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13563,7 +14106,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13648,7 +14191,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13737,9 +14280,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.26,
+  "score": 0.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13823,7 +14366,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.57,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14397,7 +14940,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.16,
+  "score": 0.15,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14496,7 +15039,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.47,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14709,7 +15252,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.16,
+  "score": 0.14,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14797,9 +15340,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.23,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -14885,7 +15428,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.6,
+  "score": 0.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14957,7 +15500,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.25,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -15019,7 +15562,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.11,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15107,7 +15650,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15174,7 +15717,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.11,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -15228,7 +15771,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15296,7 +15839,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.18,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15359,7 +15902,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.31,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15440,7 +15983,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.19,
+  "score": 0.17,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -15544,7 +16087,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.31,
+  "score": 0.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15604,7 +16147,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15674,7 +16217,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15728,7 +16271,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15834,7 +16377,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.3,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [
    {
@@ -15911,7 +16454,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16110,9 +16653,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 5,
-  "score": 0.39,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16183,9 +16726,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16243,9 +16786,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16270,58 +16813,6 @@
    "viaQuote": false
   },
   "headline": "Shea Lacey targeted by rival manager as England face battle for Man United wonderkid"
- },
- {
-  "slug": "tottenham-affairs-venkatesham",
-  "mode": "llm",
-  "titleKo": "토트넘 벤카테삼 관련 논란",
-  "createdAt": "2026-11-06T09:05:54.000Z",
-  "updatedAt": "2026-11-06T09:05:54.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "tottenham"
-  ],
-  "players": [],
-  "sig": [
-   "vinai",
-   "venkatesham"
-  ],
-  "articles": [
-   {
-    "id": "a57edf4e5880",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/vinai-venkatesham-premier-league-relegation-34870990",
-    "title": "What has frustrated Vinai Venkatesham and the 'irresponsible' thing Tottenham avoided",
-    "ko": "토트넘, 비니 벤카테삼의 '무책임' 행보 피해 나가",
-    "source": "fblondon",
-    "publishedAt": "2026-11-06T09:05:54.000Z",
-    "credited": null,
-    "clubs": [
-     "tottenham"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matt Maltby",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-06T09:05:54.000Z",
-   "viaQuote": false
-  },
-  "headline": "What has frustrated Vinai Venkatesham and the 'irresponsible' thing Tottenham avoided"
  },
  {
   "slug": "stvv-manager-appointment",
@@ -18088,172 +18579,6 @@
   "headline": "El Atlético piensa en Beltrán como heredero de Oblak"
  },
  {
-  "slug": "man-utd-manager-future-20261102",
-  "mode": "llm",
-  "titleKo": "맨유 감독 거취 논란",
-  "createdAt": "2026-11-01T22:28:05.000Z",
-  "updatedAt": "2026-11-05T23:05:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [],
-  "sig": [
-   "michael",
-   "carrick"
-  ],
-  "articles": [
-   {
-    "id": "e47db4840288",
-    "url": "https://www.dailystar.co.uk/sport/football/michael-carricks-future-update-man-37832555",
-    "title": "Major update on Michael Carrick's Man Utd future as timeline emerges after latest loss",
-    "ko": "캐릭 맨유 거취, 최신 패배 뒤 타임라인 공개 임박",
-    "source": "star",
-    "publishedAt": "2026-11-01T22:28:05.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield",
-    "transfer": null
-   },
-   {
-    "id": "62ee36256a1f",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sack-man-united-34844297",
-    "title": "Man United news LIVE: Michael Carrick sack deadline set as Eddie Howe makes decision",
-    "ko": "맨유 캐릭 경질 시한 설정, 하우가 결정 임박",
-    "source": "men",
-    "publishedAt": "2026-11-03T13:29:37.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "25ef1fe0c05a",
-    "url": "https://www.thesun.co.uk/sport/40899739/sir-jim-ratcliffe-sacks-lausanne-sport-carrick-man-utd/",
-    "title": "Sir Jim Ratcliffe sacks other club’s manager after putting them up for sale as Carrick’s Man Utd future also in doubt",
-    "ko": "래트클리프, 타 구단 감독 경질 후 매각 매물로…캐릭 거취도 불투명",
-    "source": "sun",
-    "publishedAt": "2026-11-03T19:38:26.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "b6237c688f20",
-    "url": "https://www.mirror.co.uk/sport/football/match-reports/manchester-united-roma-champions-league-37840042",
-    "title": "Man Utd stage dramatic Roma comeback to buy Michael Carrick stay of execution",
-    "ko": "맨유, 로마 극적 역전으로 캐릭 감독 시간 벌어",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T21:57:34.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Ridley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "9931a68e3f1a",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-manchester-united-carrick-roma-37840069",
-    "title": "Michael Carrick's masterclass could save Man Utd job in incredible comeback win",
-    "ko": "캐릭, 로마 상대 역전승으로 경질 위기 모면",
-    "source": "star",
-    "publishedAt": "2026-11-03T21:58:32.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cameron Winstanley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "72881a9428e9",
-    "url": "https://www.mirror.co.uk/sport/football/news/ineos-man-utd-lausanne-sport-37842741",
-    "title": "INEOS sack manager as Man Utd co-owners make brutal decision after 'lengthy talks'",
-    "ko": "이네오스, 맨유 공동구단주 긴 협상 끝 감독 경질 결정 보도",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T13:54:12.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bruna Reis",
-    "transfer": null
-   },
-   {
-    "id": "3809074e2973",
-    "url": "https://www.skysports.com/football/news/12040/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
-    "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
-    "ko": "데샹, 맨유의 카릭 대체 제안 거절설",
-    "source": "sky",
-    "publishedAt": "2026-11-05T23:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 5,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Daily Star",
-   "source": "star",
-   "at": "2026-11-01T22:28:05.000Z",
-   "viaQuote": false
-  },
-  "headline": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
-  "aliases": [
-   "man-utd-manager-future-20261101",
-   "man-utd-manager-future-20261103",
-   "man-utd-manager-future-20261104",
-   "man-utd-manager-future-20261105"
-  ]
- },
- {
   "slug": "celta-union-sg-2026-11-05",
   "mode": "llm",
   "titleKo": "셀타 비고 대 로열 유니온 SG 유로파리그 경기",
@@ -18354,124 +18679,6 @@
    "viaQuote": false
   },
   "headline": "David Moyes blasts Everton penalty decision and says Blues on wrong end of 'loads' of calls"
- },
- {
-  "slug": "aarhus-braga-2026-11-05",
-  "mode": "llm",
-  "titleKo": "아르후스 대 브라가 경기",
-  "createdAt": "2026-11-05T17:52:00.000Z",
-  "updatedAt": "2026-11-05T22:26:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "주앙 무티뉴",
-   "리카르도 호르타"
-  ],
-  "sig": [
-   "braga"
-  ],
-  "articles": [
-   {
-    "id": "1254846dda78",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/conference-league/detalhe/aarhus-sp-braga-em-direto",
-    "title": "Aarhus-Sp. Braga, em direto",
-    "ko": "아르후스 대 브라가 라이브 중계",
-    "source": "record",
-    "publishedAt": "2026-11-05T17:52:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b0133a48f5bc",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/conference-league/detalhe/a-cronica-do-aarhus-sp-braga-0-0-aqueles-aarhus-nao-lhes-fazem-bem",
-    "title": "A crónica do Aarhus-Sp. Braga, 0-0: aqueles Aarhus não lhes fazem bem...",
-    "ko": "아르후스 0-0 브라가 경기 크로니카",
-    "source": "record",
-    "publishedAt": "2026-11-05T20:44:42.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c73b7bf8c9fb",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/franclim-carvalho-e-o-empate-com-o-aarhus-finalizacao-foi-chave",
-    "title": "Franclim Carvalho e o empate com o Aarhus: «Finalização foi chave»",
-    "ko": "프랑클림 카르발류, 아르후스와 무승부 후 \"마무리가 관건\"",
-    "source": "record",
-    "publishedAt": "2026-11-05T20:47:38.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "26eb520e7ab4",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/joao-moutinho-lamenta-ineficacia-do-sp-braga-temos-de-concretizar-uma-em-tres-nao-zero-em-cinco",
-    "title": "João Moutinho lamenta ineficácia do Sp. Braga: «Temos de concretizar uma em três, não zero em cinco»",
-    "ko": "주앙 무티뉴, 브라가 골 결정력 부족 아쉬움 토로",
-    "source": "record",
-    "publishedAt": "2026-11-05T22:22:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주앙 무티뉴"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "0b649c69b1e0",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/ricardo-horta-apos-empate-com-o-aarhus-sabe-a-pouco-mas-pode-ser-um-ponto-importante",
-    "title": "Ricardo Horta após empate com o Aarhus: «Sabe a pouco, mas pode ser um ponto importante»",
-    "ko": "리카르도 호르타, 아르후스전 무승부 후 '의미 있는 승점' 강조",
-    "source": "record",
-    "publishedAt": "2026-11-05T22:26:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리카르도 호르타"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-05T17:52:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Ricardo Horta após empate com o Aarhus: «Sabe a pouco, mas pode ser um ponto importante»"
  },
  {
   "slug": "az-alkmaar-juventus-2026-11-05",
