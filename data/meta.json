@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T15:39:51.245Z",
+ "updatedAt": "2026-11-06T16:30:30.231Z",
  "hot": [
+  "baleba-injury",
   "infantino-affairs-election-challenger",
   "de-miguel-incident",
-  "palmer-tuchel-relationship",
-  "saka-injury",
-  "dedic-incident"
+  "carrick-manager-future",
+  "palmer-tuchel-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -30,14 +30,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
+   "items": 79,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
@@ -61,13 +61,13 @@
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 11,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,25 +79,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 90
+   "added": 2,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -127,13 +127,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,7 +145,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -157,7 +157,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -169,7 +169,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -181,7 +181,7 @@
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -227,12 +227,16 @@
    "count": 8
   },
   {
+   "name": "맥스 다우먼",
+   "count": 8
+  },
+  {
    "name": "프레스티아니",
    "count": 8
   },
   {
-   "name": "맥스 다우먼",
-   "count": 7
+   "name": "바레바",
+   "count": 8
   },
   {
    "name": "J.J. 가브리엘",
@@ -243,19 +247,11 @@
    "count": 7
   },
   {
-   "name": "콘사",
-   "count": 6
-  },
-  {
    "name": "트레이 뇨니",
    "count": 6
   },
   {
    "name": "카마빙가",
-   "count": 6
-  },
-  {
-   "name": "바레바",
    "count": 6
   },
   {
@@ -267,14 +263,6 @@
    "count": 6
   },
   {
-   "name": "크루피",
-   "count": 5
-  },
-  {
-   "name": "바르콜라",
-   "count": 5
-  },
-  {
    "name": "데이비드 베컴",
    "count": 5
   },
@@ -284,6 +272,10 @@
   },
   {
    "name": "달롯",
+   "count": 5
+  },
+  {
+   "name": "콘사",
    "count": 5
   },
   {
@@ -303,25 +295,33 @@
    "count": 5
   },
   {
-   "name": "마두에케",
+   "name": "누노 보르게스",
+   "count": 4
+  },
+  {
+   "name": "티에르노 배리",
+   "count": 4
+  },
+  {
+   "name": "크루피",
    "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 252,
+  "recentIssues": 250,
   "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 101
+    "count": 99
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 61
+    "count": 59
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 45
+    "count": 44
    },
    {
     "slug": "kane-contract",
@@ -348,8 +348,8 @@
     "count": 20
    },
    {
-    "slug": "arsenal-slavia-praha-2026-11-03",
-    "count": 19
+    "slug": "parker-west-ham-appointment",
+    "count": 18
    },
    {
     "slug": "lens-como-2026-11-04",
@@ -368,10 +368,6 @@
     "count": 17
    },
    {
-    "slug": "parker-west-ham-appointment",
-    "count": 17
-   },
-   {
     "slug": "fenerbahce-liverpool-2026-11-03",
     "count": 17
    },
@@ -380,12 +376,20 @@
     "count": 17
    },
    {
+    "slug": "arsenal-slavia-praha-2026-11-03",
+    "count": 16
+   },
+   {
     "slug": "porto-napoli-2026-11-03",
     "count": 16
    },
    {
     "slug": "atletico-bayern-2026-11-03",
     "count": 16
+   },
+   {
+    "slug": "newcastle-manager-future",
+    "count": 15
    }
   ]
  },
@@ -470,7 +474,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "마티아스 야이슬레",
@@ -532,10 +536,28 @@
    "variants": [
     {
      "ko": "루이 보르게스",
-     "count": 9
+     "count": 8
     },
     {
      "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 7
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    },
+    {
+     "ko": "토헬",
      "count": 1
     }
    ]
@@ -577,19 +599,19 @@
    ]
   },
   {
-   "en": "Tuchel",
+   "en": "Max Dowman",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
+     "ko": "맥스 다우먼",
      "count": 6
     },
     {
-     "ko": "튀헬",
+     "ko": "도원만",
      "count": 1
     },
     {
-     "ko": "토헬",
+     "ko": "다우먼",
      "count": 1
     }
    ]
@@ -685,24 +707,6 @@
    ]
   },
   {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 5
-    },
-    {
-     "ko": "도원만",
-     "count": 1
-    },
-    {
-     "ko": "다우먼",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Bradley Barcola",
    "dictionary": null,
    "variants": [
@@ -744,6 +748,20 @@
     },
     {
      "ko": "주앙 모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Baleba",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바레바",
+     "count": 5
+    },
+    {
+     "ko": "발레바",
      "count": 1
     }
    ]
@@ -815,6 +833,20 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 3
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Kaminski",
    "dictionary": null,
    "variants": [
@@ -854,20 +886,6 @@
     },
     {
      "ko": "디어넌 데뷔홀",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Baleba",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바레바",
-     "count": 4
-    },
-    {
-     "ko": "발레바",
      "count": 1
     }
    ]
@@ -941,20 +959,6 @@
    ]
   },
   {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 3
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
@@ -1018,28 +1022,6 @@
     },
     {
      "ko": "운데프",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 바나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 파나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아케너",
-     "count": 1
-    },
-    {
-     "ko": "한스 반에이나켄",
      "count": 1
     }
    ]
@@ -1251,6 +1233,24 @@
    ]
   },
   {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아케너",
+     "count": 1
+    },
+    {
+     "ko": "한스 반에이나켄",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -1317,8 +1317,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 47,
-   "llm": 47
+   "collected": 81,
+   "llm": 81
   }
  },
  "llmErrors": []
