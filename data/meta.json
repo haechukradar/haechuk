@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T18:30:19.793Z",
+ "updatedAt": "2026-11-06T19:36:34.591Z",
  "hot": [
   "de-miguel-incident",
-  "saka-injury",
-  "baleba-injury",
-  "le-bris-sunderland-manager-future",
-  "infantino-affairs-election-challenger"
+  "dedic-incident",
+  "palmer-tuchel-relationship",
+  "newcastle-manager-future",
+  "saka-injury"
  ],
  "days": [
   "2026-10-18",
@@ -30,20 +30,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
+   "items": 79,
    "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
-   "added": 0,
+   "items": 58,
+   "added": 3,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -55,19 +55,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,31 +79,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 92
+   "added": 5,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -133,19 +133,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -162,8 +162,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 5,
+   "items": 28,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
@@ -180,8 +180,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 4,
+   "items": 9,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -196,7 +196,7 @@
   },
   {
    "name": "그릴리시",
-   "count": 17
+   "count": 18
   },
   {
    "name": "데 미겔",
@@ -208,7 +208,11 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 13
+   "count": 14
+  },
+  {
+   "name": "조브 벨링엄",
+   "count": 10
   },
   {
    "name": "헤수스 오워노",
@@ -259,10 +263,6 @@
    "count": 6
   },
   {
-   "name": "조브 벨링엄",
-   "count": 6
-  },
-  {
    "name": "데이비드 베컴",
    "count": 5
   },
@@ -303,29 +303,29 @@
    "count": 4
   },
   {
-   "name": "윌 랭크셔",
+   "name": "해밀턴",
    "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 242,
+  "recentIssues": 240,
   "singleArticleRate": 43,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 97
+    "count": 95
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 56
+    "count": 52
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 45
+    "count": 47
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 39
+    "count": 37
    },
    {
     "slug": "kane-contract",
@@ -337,7 +337,7 @@
    },
    {
     "slug": "jesus-ronaldo-relationship",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
@@ -348,8 +348,8 @@
     "count": 19
    },
    {
-    "slug": "villarreal-psg-2026-11-03",
-    "count": 19
+    "slug": "gabriel-real-madrid-transfer",
+    "count": 18
    },
    {
     "slug": "parker-west-ham-appointment",
@@ -360,10 +360,6 @@
     "count": 18
    },
    {
-    "slug": "gabriel-real-madrid-transfer",
-    "count": 17
-   },
-   {
     "slug": "leipzig-man-city-2026-11-04",
     "count": 17
    },
@@ -372,8 +368,12 @@
     "count": 16
    },
    {
-    "slug": "atletico-bayern-2026-11-03",
+    "slug": "villarreal-psg-2026-11-03",
     "count": 16
+   },
+   {
+    "slug": "newcastle-manager-future",
+    "count": 15
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -421,6 +421,10 @@
     {
      "ko": "하이메 헤수스",
      "count": 1
+    },
+    {
+     "ko": "조르지 제수스",
+     "count": 1
     }
    ]
   },
@@ -448,7 +452,7 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 12
+     "count": 13
     },
     {
      "ko": "J.J. 가브리엘",
@@ -466,7 +470,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "자이슬",
@@ -484,7 +488,7 @@
    "variants": [
     {
      "ko": "토마스 투헬",
-     "count": 6
+     "count": 9
     },
     {
      "ko": "투헬",
@@ -505,30 +509,12 @@
    ]
   },
   {
-   "en": "Haaland",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "홀란",
-     "count": 6
-    },
-    {
-     "ko": "엘링 홀란",
-     "count": 4
-    },
-    {
-     "ko": "홀란드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 8
+     "count": 10
     },
     {
      "ko": "튀헬",
@@ -536,6 +522,24 @@
     },
     {
      "ko": "토헬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Haaland",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "홀란",
+     "count": 5
+    },
+    {
+     "ko": "엘링 홀란",
+     "count": 4
+    },
+    {
+     "ko": "홀란드",
      "count": 1
     }
    ]
@@ -795,6 +799,24 @@
     {
      "ko": "데 라 푸엔테",
      "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Jobe",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조브 벨링엄",
+     "count": 4
+    },
+    {
+     "ko": "조비",
+     "count": 1
+    },
+    {
+     "ko": "조브",
+     "count": 1
     }
    ]
   },
@@ -1077,20 +1099,6 @@
    ]
   },
   {
-   "en": "Harvey Elliott",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "해리 엘리엇",
-     "count": 2
-    },
-    {
-     "ko": "하비 엘리엇",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hütter",
    "dictionary": null,
    "variants": [
@@ -1183,38 +1191,6 @@
    ]
   },
   {
-   "en": "Davide Ancelotti",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "다비데 안첼로티",
-     "count": 2
-    },
-    {
-     "ko": "다비드 안첼로티",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 바나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아케너",
-     "count": 1
-    },
-    {
-     "ko": "한스 반에이나켄",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sean Neave",
    "dictionary": null,
    "variants": [
@@ -1269,6 +1245,38 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 1
+    },
+    {
+     "ko": "브뤼노 제네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 제네시오",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Cesc",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세스크",
+     "count": 2
+    },
+    {
+     "ko": "세스크 파브레가스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1305,8 +1313,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 178,
-   "llm": 178
+   "collected": 231,
+   "llm": 231
   }
  },
  "llmErrors": []
