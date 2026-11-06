@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T07:45:28.060Z",
+ "updatedAt": "2026-11-06T08:47:35.257Z",
  "hot": [
-  "infantino-affairs-election-challenger",
-  "man-utd-aston-villa-2026-11-05",
   "celtic-besiktas-2026-11-05",
-  "crystal-palace-hoffenheim-2026-11-05",
-  "mendes-discipline"
+  "real-madrid-affairs-nadal-appointment",
+  "infantino-affairs-election-challenger",
+  "dedic-incident",
+  "leverkusen-marseille-2026-11-04"
  ],
  "days": [
   "2026-10-18",
@@ -30,19 +30,19 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
-   "added": 0,
+   "items": 58,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -60,13 +60,13 @@
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,37 +78,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -144,13 +144,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 24,
-   "added": 0,
+   "items": 25,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -168,7 +168,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -179,8 +179,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
-   "added": 5,
+   "items": 6,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -307,12 +307,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 254,
-  "singleArticleRate": 48,
+  "recentIssues": 252,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 145
+    "count": 142
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -344,7 +344,7 @@
    },
    {
     "slug": "grealish-discipline",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "villarreal-psg-2026-11-03",
@@ -360,10 +360,6 @@
    },
    {
     "slug": "leverkusen-marseille-2026-11-04",
-    "count": 17
-   },
-   {
-    "slug": "newcastle-manager-future",
     "count": 17
    },
    {
@@ -383,6 +379,10 @@
     "count": 17
    },
    {
+    "slug": "newcastle-manager-future",
+    "count": 16
+   },
+   {
     "slug": "owono-discipline",
     "count": 16
    },
@@ -399,7 +399,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 19
+     "count": 20
     },
     {
      "ko": "모리뉴",
@@ -417,7 +417,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "마티아스 야이슬레",
@@ -524,6 +524,24 @@
    ]
   },
   {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 6
+    },
+    {
+     "ko": "도원만",
+     "count": 1
+    },
+    {
+     "ko": "다우먼",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Karetsas",
    "dictionary": null,
    "variants": [
@@ -547,20 +565,6 @@
     },
     {
      "ko": "파리오리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 6
-    },
-    {
-     "ko": "도원만",
      "count": 1
     }
    ]
@@ -796,20 +800,6 @@
    ]
   },
   {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 스테우르",
-     "count": 3
-    },
-    {
-     "ko": "숀 스튜어",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kiernan Dewsbury-Hall",
    "dictionary": null,
    "variants": [
@@ -978,6 +968,24 @@
    ]
   },
   {
+   "en": "Mason Greenwood",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "그린우드",
+     "count": 2
+    },
+    {
+     "ko": "메이슨 그린우드",
+     "count": 1
+    },
+    {
+     "ko": "그리너우드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blessin",
    "dictionary": null,
    "variants": [
@@ -1048,20 +1056,6 @@
    ]
   },
   {
-   "en": "Doumbia",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도움비아",
-     "count": 2
-    },
-    {
-     "ko": "더움비아",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lennart Karl",
    "dictionary": null,
    "variants": [
@@ -1089,6 +1083,20 @@
     },
     {
      "ko": "휘터",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 스테우르",
+     "count": 2
+    },
+    {
+     "ko": "숀 스튜어",
      "count": 1
     }
    ]
@@ -1248,8 +1256,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 559,
-   "llm": 559
+   "collected": 590,
+   "llm": 590
   }
  },
  "llmErrors": []
