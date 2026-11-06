@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T11:44:01.049Z",
+ "updatedAt": "2026-11-06T12:40:34.448Z",
  "hot": [
   "dedic-incident",
   "infantino-affairs-election-challenger",
   "real-madrid-affairs-nadal-appointment",
   "kane-contract",
-  "jesus-ronaldo-relationship"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -29,20 +29,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 1,
+   "items": 80,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -54,7 +54,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -78,38 +78,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 82
+   "added": 3,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 85
+   "added": 1,
+   "authorRate": 88
   },
   "waz": {
    "ok": true,
@@ -132,7 +132,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -144,7 +144,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -156,19 +156,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
-   "authorRate": 97
+   "added": 5,
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -179,8 +179,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 0,
+   "items": 11,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -211,7 +211,7 @@
   },
   {
    "name": "헤수스 오워노",
-   "count": 8
+   "count": 9
   },
   {
    "name": "리산드로 마르티네스",
@@ -308,11 +308,11 @@
  ],
  "issueHealth": {
   "recentIssues": 252,
-  "singleArticleRate": 47,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 121
+    "count": 117
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -320,7 +320,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 38
+    "count": 39
    },
    {
     "slug": "kane-contract",
@@ -347,8 +347,12 @@
     "count": 20
    },
    {
+    "slug": "jesus-ronaldo-relationship",
+    "count": 19
+   },
+   {
     "slug": "parker-west-ham-appointment",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -379,10 +383,6 @@
     "count": 17
    },
    {
-    "slug": "jesus-ronaldo-relationship",
-    "count": 16
-   },
-   {
     "slug": "porto-napoli-2026-11-03",
     "count": 16
    },
@@ -399,7 +399,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 23
+     "count": 24
     },
     {
      "ko": "모리뉴",
@@ -431,7 +431,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "마티아스 야이슬레",
@@ -456,6 +456,10 @@
      "count": 3
     },
     {
+     "ko": "조르제 제주스",
+     "count": 3
+    },
+    {
      "ko": "호르헤 제수스",
      "count": 1
     },
@@ -464,15 +468,15 @@
      "count": 1
     },
     {
+     "ko": "제수스",
+     "count": 1
+    },
+    {
      "ko": "조르즈 조르지",
      "count": 1
     },
     {
      "ko": "하이메 헤수스",
-     "count": 1
-    },
-    {
-     "ko": "제수스",
      "count": 1
     }
    ]
@@ -505,6 +509,32 @@
     },
     {
      "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튀헬",
+     "count": 3
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 3
+    },
+    {
+     "ko": "투헬",
+     "count": 2
+    },
+    {
+     "ko": "토헬",
+     "count": 1
+    },
+    {
+     "ko": "토마스 튀헬",
      "count": 1
     }
    ]
@@ -546,24 +576,16 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
+   "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
     {
-     "ko": "튀헬",
-     "count": 3
+     "ko": "키스 와이네스",
+     "count": 4
     },
     {
-     "ko": "토마스 투헬",
-     "count": 3
-    },
-    {
-     "ko": "토마스 튀헬",
-     "count": 1
-    },
-    {
-     "ko": "토헬",
-     "count": 1
+     "ko": "키스 와이니스",
+     "count": 4
     }
    ]
   },
@@ -600,20 +622,6 @@
    ]
   },
   {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 6
-    },
-    {
-     "ko": "파리오리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -646,20 +654,6 @@
    ]
   },
   {
-   "en": "João Moutinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주앙 무티뉴",
-     "count": 5
-    },
-    {
-     "ko": "주앙 모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -677,6 +671,42 @@
     },
     {
      "ko": "마크 반 보멜",
+     "count": 1
+    },
+    {
+     "ko": "마르크 반 봄멜",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 5
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    },
+    {
+     "ko": "토헬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "João Moutinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주앙 무티뉴",
+     "count": 5
+    },
+    {
+     "ko": "주앙 모리뉴",
      "count": 1
     }
    ]
@@ -700,20 +730,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Gianluigi Donnarumma",
    "dictionary": null,
    "variants": [
@@ -730,29 +746,11 @@
      "count": 1
     },
     {
-     "ko": "잔루이지 도나룸마",
-     "count": 1
-    },
-    {
      "ko": "잔루이지 돈나룸마",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Forbs",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 포브스",
-     "count": 3
     },
     {
-     "ko": "포브스",
-     "count": 1
-    },
-    {
-     "ko": "카를로스 포르브스",
+     "ko": "잔루이지 도나룸마",
      "count": 1
     }
    ]
@@ -771,24 +769,6 @@
     },
     {
      "ko": "카미네스키",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 3
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    },
-    {
-     "ko": "토헬",
      "count": 1
     }
    ]
@@ -843,20 +823,6 @@
     },
     {
      "ko": "모하야",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Toni Brogno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토니 브로뇨",
-     "count": 3
-    },
-    {
-     "ko": "토니 브뇨",
      "count": 1
     }
    ]
@@ -1020,6 +986,24 @@
    ]
   },
   {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 포브스",
+     "count": 2
+    },
+    {
+     "ko": "포브스",
+     "count": 1
+    },
+    {
+     "ko": "카를로스 포르브스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blessin",
    "dictionary": null,
    "variants": [
@@ -1057,20 +1041,6 @@
     },
     {
      "ko": "제임스 트라포드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lucas Hernandez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "뤼카 에르난데스",
-     "count": 2
-    },
-    {
-     "ko": "루카스 에르난데스",
      "count": 1
     }
    ]
@@ -1248,6 +1218,52 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Dirk Kuyt",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "커이트",
+     "count": 1
+    },
+    {
+     "ko": "더크 카위트",
+     "count": 1
+    },
+    {
+     "ko": "커크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sean Neave",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 네이브",
+     "count": 2
+    },
+    {
+     "ko": "숀 네이브",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kozo Tashima",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "타시마 코조",
+     "count": 2
+    },
+    {
+     "ko": "타시마 고조",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1280,8 +1296,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 722,
-   "llm": 722
+   "collected": 770,
+   "llm": 770
   }
  },
  "llmErrors": []
