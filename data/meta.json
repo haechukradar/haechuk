@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T21:52:46.082Z",
+ "updatedAt": "2026-11-06T22:30:22.256Z",
  "hot": [
+  "everton-coventry-2026-11-06",
+  "toulouse-strasbourg-2026-11-06",
   "gladbach-hamburger-2026-11-07",
   "sevilla-alaves-2026-11-05",
-  "de-miguel-incident",
-  "valencia-real-madrid-2026-11-06",
-  "dedic-incident"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -30,20 +30,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 0,
+   "items": 82,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -60,14 +60,14 @@
   },
   "marca": {
    "ok": true,
-   "items": 50,
+   "items": 49,
    "added": 0,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,7 +79,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
@@ -91,7 +91,7 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -103,7 +103,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -127,13 +127,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,7 +145,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -164,7 +164,7 @@
    "ok": true,
    "items": 28,
    "added": 3,
-   "authorRate": 100
+   "authorRate": 96
   },
   "star": {
    "ok": true,
@@ -175,13 +175,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -299,16 +299,16 @@
    "count": 5
   },
   {
-   "name": "누노 보르게스",
-   "count": 4
+   "name": "티에르노 바리",
+   "count": 5
   },
   {
-   "name": "해밀턴",
+   "name": "누노 보르게스",
    "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 244,
+  "recentIssues": 241,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -320,12 +320,12 @@
     "count": 44
    },
    {
-    "slug": "man-utd-roma-2026-11-03",
-    "count": 41
-   },
-   {
     "slug": "liverpool-fenerbahce-2026-11-03",
     "count": 37
+   },
+   {
+    "slug": "man-utd-roma-2026-11-03",
+    "count": 31
    },
    {
     "slug": "kane-contract",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "jesus-ronaldo-relationship",
-    "count": 22
+    "count": 23
    },
    {
     "slug": "man-utd-affairs-ownership",
@@ -388,7 +388,7 @@
     },
     {
      "ko": "조르즈 제수스",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "조르제 제주스",
@@ -536,7 +536,7 @@
     },
     {
      "ko": "엘링 홀란",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "홀란드",
@@ -1049,24 +1049,6 @@
    ]
   },
   {
-   "en": "Diogo Dalot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "달롯",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달로",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달로트",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sean Steur",
    "dictionary": null,
    "variants": [
@@ -1164,6 +1146,20 @@
     },
     {
      "ko": "풀크루크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gustavo Varela",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구스타보 바렐라",
+     "count": 2
+    },
+    {
+     "ko": "굴리엘무 바렐라",
      "count": 1
     }
    ]
@@ -1309,8 +1305,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 321,
-   "llm": 321
+   "collected": 341,
+   "llm": 341
   }
  },
  "llmErrors": []
