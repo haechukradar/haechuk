@@ -1,188 +1,965 @@
 [
  {
-  "slug": "carrick-manager-future",
+  "slug": "caicedo-injury",
   "mode": "llm",
-  "titleKo": "캐릭, 퍼거슨 비교 속 맨유 감독 행보",
-  "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-06T14:38:16.000Z",
-  "category": "manager",
+  "titleKo": "카이세도 부상 우려, 첼시 전력 공백",
+  "createdAt": "2026-11-04T12:48:09.000Z",
+  "updatedAt": "2026-11-06T15:24:06.000Z",
+  "category": "injury",
   "stage": null,
   "clubs": [
-   "man-utd"
+   "chelsea"
   ],
-  "players": [],
+  "players": [
+   "모이세스 카이세도",
+   "에미 마르티네스",
+   "콜 파머"
+  ],
   "sig": [
-   "carrick",
-   "sir",
-   "alex",
-   "ferguson"
+   "caicedo"
   ],
   "articles": [
    {
-    "id": "ec88a4d3b29f",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-laughs-sir-alex-34874056",
-    "title": "Michael Carrick laughs off Sir Alex Ferguson comparison but makes Manchester United plea",
-    "ko": "캐릭, 퍼거슨 비교에 웃어넘기며 맨유에 당부",
-    "source": "men",
-    "publishedAt": "2026-11-06T14:38:16.000Z",
+    "id": "483000480d13",
+    "url": "https://www.football.london/chelsea-fc/news/chelseas-75m-star-needs-send-34856541",
+    "title": "Chelsea's £75m star needs to send Xabi Alonso message after crucial injury blow",
+    "ko": "첼시 1억 파운드 가까운 스타, 알론소에 메시지 필요",
+    "source": "fblondon",
+    "publishedAt": "2026-11-03T15:53:09.000Z",
     "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
+    "category": "injury",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Tyrone Marshall",
+    "author": "Bobby Vincent",
+    "transfer": null,
+    "clubs": [
+     "chelsea"
+    ]
+   },
+   {
+    "id": "4ae80b50a4a3",
+    "url": "https://www.football.london/chelsea-fc/news/moises-caicedo-injury-scare-chelsea-34861543",
+    "title": "Moises Caicedo injury scare but Chelsea get triple boost as stars return to training",
+    "ko": "카이세도 부상 우려 속 첼시, 주전 복귀로 전력 상승",
+    "source": "fblondon",
+    "publishedAt": "2026-11-04T12:48:09.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "모이세스 카이세도"
+    ],
+    "playerTags": [
+     "moises-caicedo"
+    ],
+    "author": "Bobby Vincent",
+    "transfer": null,
+    "clubs": [
+     "chelsea"
+    ]
+   },
+   {
+    "id": "0ac108a34b97",
+    "url": "https://www.football.london/chelsea-fc/news/breaking-chelsea-injury-update-alonso-34871434",
+    "title": "Xabi Alonso confirms Moises Caicedo injury concern in four-player Chelsea update",
+    "ko": "알론소, 카이세도 부상 우려 확인…첼시 선수 4명 업데이트",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T14:05:52.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "모이세스 카이세도"
+    ],
+    "playerTags": [
+     "moises-caicedo"
+    ],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "c1dea512194d",
+    "url": "https://www.football.london/chelsea-fc/news/every-word-xabi-alonso-said-34874129",
+    "title": "Every word Xabi Alonso said on Emi Martinez return, Moises Caicedo injury and Cole Palmer snub",
+    "ko": "사비 알론소, 에미 마르티네스 복귀·모이세스 카이세도 부상·콜 파머 제외 발언 전부 언급",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T15:24:06.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "에미 마르티네스",
+     "모이세스 카이세도",
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer",
+     "moises-caicedo"
+    ],
+    "author": "Jake Stokes",
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.95,
+  "score": 1.52,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "moises-caicedo",
+   "cole-palmer"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-03T15:53:09.000Z",
+   "viaQuote": false
+  },
+  "headline": "Every word Xabi Alonso said on Emi Martinez return, Moises Caicedo injury and Cole Palmer snub"
+ },
+ {
+  "slug": "infantino-affairs-election-challenger",
+  "mode": "llm",
+  "titleKo": "인판티노 FIFA 회장 선거 첫 도전자 등장",
+  "createdAt": "2026-11-05T14:57:00.000Z",
+  "updatedAt": "2026-11-06T15:21:40.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "tottenham"
+  ],
+  "players": [
+   "크리스티아누 호날두"
+  ],
+  "sig": [
+   "fifa"
+  ],
+  "articles": [
+   {
+    "id": "ee2fed6ba37f",
+    "url": "https://www.skysports.com/football/news/12040/13608441/gianni-infantino-fifa-president-faces-challenge-from-japan-fa-chief-kohzo-tashima-in-2027-election",
+    "title": "Infantino faces fight for FIFA presidency as first challenger emerges",
+    "ko": "인판티노, FIFA 회장직 첫 도전자 등장으로 경쟁 직면",
+    "source": "sky",
+    "publishedAt": "2026-11-05T14:57:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "86f00a8a9662",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/became-hedge-fund-boss-after-34865406",
+    "title": "I became hedge fund boss after leaving Tottenham – now I want to replace Gianni Infantino",
+    "ko": "토트넘 떠난 뒤 헤지펀드 수장 된 인물, 인판티노 대체 도전 선언",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Abbie Meehan",
+    "transfer": null
+   },
+   {
+    "id": "773a144c4629",
+    "url": "https://www.hln.be/buitenlands-voetbal/weinig-spelers-hebben-zon-indruk-achtergelaten-cristiano-ronaldo-krijgt-boodschap-van-gianni-infantino-al-zat-hij-daar-wellicht-niet-op-te-wachten~ab75a7b5/",
+    "title": "“Weinig spelers hebben zo’n indruk achtergelaten”: Cristiano Ronaldo krijgt boodschap van... Gianni Infantino (al zat hij daar wellicht niet op te wachten)",
+    "ko": "호날두, 인판티노에게 메시지 받아…'인상 깊은 선수'",
+    "source": "hln",
+    "publishedAt": "2026-11-06T06:37:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "5815ee3d23b8",
+    "url": "https://www.nytimes.com/athletic/7754080/2026/11/06/fifa-infantino-midterms-democrats-trump-world-cup/",
+    "title": "What the midterm blue wave could mean for Gianni Infantino and FIFA",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-06T10:45:59.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "954842ba013e",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss",
+    "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+    "ko": "인판티노 FIFA 회장 도전자, 사무라이 정신으로 도전장",
+    "source": "bbc",
+    "publishedAt": "2026-11-06T15:21:40.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 5,
+  "score": 4.76,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cristiano-ronaldo"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-05T14:57:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'"
+ },
+ {
+  "slug": "smith-injury",
+  "mode": "llm",
+  "titleKo": "스미스 부상 타격",
+  "createdAt": "2026-11-03T15:20:23.000Z",
+  "updatedAt": "2026-11-06T15:06:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "스미스",
+   "샘 스미스",
+   "핀 스미스"
+  ],
+  "sig": [
+   "smith"
+  ],
+  "articles": [
+   {
+    "id": "dbd505d0c1dd",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
+    "title": "Wrexham suffer 'significant' Smith injury blow",
+    "ko": "렉섬, 스미스 부상으로 타격",
+    "source": "bbc",
+    "publishedAt": "2026-11-03T15:20:23.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "스미스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "cae28a7579c5",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13607801/fin-smith-england-hope-fly-half-can-prove-fitness-ahead-of-australia-match-in-nations-championship",
+    "title": "Smith to undergo fitness test ahead of Australia match",
+    "ko": "스미스, 호주전 앞두고 체력 테스트 예정",
+    "source": "sky",
+    "publishedAt": "2026-11-04T06:19:00.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "스미스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": []
+   },
+   {
+    "id": "bd776e412ca3",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13608052/fin-smith-england-pretty-optimistic-fly-half-will-be-fit-for-australia-match-at-twickenham-in-nations-championship",
+    "title": "England 'pretty optimistic' Smith will be fit to face Australia",
+    "ko": "잉글랜드, 스미스 호주전 출전 낙관…부상 회복 기대",
+    "source": "sky",
+    "publishedAt": "2026-11-04T17:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "스미스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b4a1aec2b70d",
+    "url": "https://www.espn.com/soccer/story/_/id/50383627/wrexham-middlesbrough-sam-smith-injury-championship",
+    "title": "Wrexham joy at big win dented by losing striker Sam Smith for season",
+    "ko": "렉섬, 대승에도 샘 스미스 시즌 아웃에 기쁨 반감",
+    "source": "espn",
+    "publishedAt": "2026-11-05T00:49:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "샘 스미스"
+    ],
+    "playerTags": [],
+    "author": "ESPN News Services",
+    "transfer": null
+   },
+   {
+    "id": "611a2459227b",
+    "url": "https://www.skysports.com/rugby-union/news/12040/13608784/fin-smith-fitness-boost-for-england-as-fly-half-given-green-light-to-face-australia-with-henry-pollock-on-bench-for-australia-clash",
+    "title": "Fitness boost for England as Fin Smith given green light to face Australia",
+    "ko": "핀 스미스, 호주전 출전 가능 판정…잉글랜드에 호재",
+    "source": "sky",
+    "publishedAt": "2026-11-06T15:06:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "핀 스미스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 1.81,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-03T15:20:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wrexham suffer 'significant' Smith injury blow"
+ },
+ {
+  "slug": "liverpool-affairs-referee-decisions",
+  "mode": "llm",
+  "titleKo": "이라올라, 리버풀 판정 문제 제기",
+  "createdAt": "2026-11-06T15:02:31.000Z",
+  "updatedAt": "2026-11-06T15:02:31.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [],
+  "sig": [
+   "iraola"
+  ],
+  "articles": [
+   {
+    "id": "2ec1a1dfb407",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-questions-liverpool-refereeing-34874051",
+    "title": "Andoni Iraola questions Liverpool refereeing treatment and shares revealing officials chat",
+    "ko": "이라올라, 리버풀 판정 문제 제기하며 심판과 주고받은 대화 공개",
+    "source": "lecho",
+    "publishedAt": "2026-11-06T15:02:31.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.8,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-06T14:38:16.000Z",
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-06T15:02:31.000Z",
    "viaQuote": false
   },
-  "headline": "Michael Carrick laughs off Sir Alex Ferguson comparison but makes Manchester United plea"
+  "headline": "Andoni Iraola questions Liverpool refereeing treatment and shares revealing officials chat"
  },
  {
-  "slug": "palmer-tuchel-relationship",
+  "slug": "schalke-gladbach-ii-2026-11-08",
   "mode": "llm",
-  "titleKo": "투헬, 파머 기회 활용 부족 지적",
-  "createdAt": "2026-11-06T11:59:37.000Z",
-  "updatedAt": "2026-11-06T14:35:06.000Z",
-  "category": "manager",
+  "titleKo": "샬케 U23 대 묀헨글라트바흐 II 경기",
+  "createdAt": "2026-11-06T11:17:25.000Z",
+  "updatedAt": "2026-11-06T14:56:18.000Z",
+  "category": "match",
   "stage": null,
   "clubs": [
-   "chelsea"
+   "schalke",
+   "gladbach"
   ],
-  "players": [
-   "콜 파머",
-   "파머"
-  ],
+  "players": [],
   "sig": [
-   "tuchel"
+   "weg",
+   "krise"
   ],
   "articles": [
    {
-    "id": "e2c9fbb1c3f1",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
-    "title": "Palmer misses too many chances to impress - Tuchel",
-    "ko": "튀헬, 팔머 기회 놓쳐 질책…중요한 순간 결정력 부족 지적",
-    "source": "bbc",
-    "publishedAt": "2026-11-06T11:59:37.000Z",
+    "id": "cbcb68ff7f8f",
+    "url": "https://www.kicker.de/schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
+    "title": "Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
+    "ko": "샬케 U23, 묀헨글라트바흐 II전으로 위기 탈출 도전",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T11:17:25.000Z",
     "credited": null,
     "clubs": [
-     "chelsea"
+     "schalke",
+     "gladbach"
     ],
-    "category": "manager",
+    "category": "match",
     "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
+    "players": [],
+    "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "561b885f903f",
-    "url": "https://www.lequipe.fr/Football/Actualites/Thomas-tuchel-cole-palmer-a-manque-trop-d-opportunites-pour-s-imposer-au-sein-de-l-equipe-d-angleterre/1741590#at_medium=RSS_feeds",
-    "title": "Thomas Tuchel : « Cole Palmer a manqué trop d'opportunités » pour s'imposer au sein de l'équipe d'Angleterre",
-    "ko": "투헬, 파머 기회 활용 부족 지적",
-    "source": "lequipe",
-    "publishedAt": "2026-11-06T12:31:32.000Z",
+    "id": "7d2749e62a5a",
+    "url": "https://www.kicker.de/live-schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
+    "title": "LIVE! Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
+    "ko": "샬케 U23, 묀헨글라트바흐 II와 위기 탈출 경기",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T11:17:25.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6287804747ab",
+    "url": "https://www.kicker.de/schalkes-u-23-erleidet-gegen-gladbach-ii-schiffbruch-1257801/artikel#omrss",
+    "title": "Schalkes U 23 erleidet gegen Gladbach II Schiffbruch",
+    "ko": "샬케 U23, 묀헨글라트바흐 II에 대패",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T14:56:18.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.94,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-06T11:17:25.000Z",
+   "viaQuote": false
+  },
+  "headline": "Schalkes U 23 erleidet gegen Gladbach II Schiffbruch"
+ },
+ {
+  "slug": "konsa-injury",
+  "mode": "llm",
+  "titleKo": "콘사 부상 상황",
+  "createdAt": "2026-11-05T08:21:15.000Z",
+  "updatedAt": "2026-11-06T14:47:36.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "에즈리 콘사",
+   "콘사",
+   "코나",
+   "부카요 사카",
+   "윌리엄 살리바",
+   "바르티쉬빌리",
+   "칼버트르윈"
+  ],
+  "sig": [
+   "mikel",
+   "ezri",
+   "konsa",
+   "slavia",
+   "prague"
+  ],
+  "articles": [
+   {
+    "id": "7091bad7d2f9",
+    "url": "https://www.thesun.co.uk/sport/40922509/mikel-arteta-ezri-konsa-injury-update-arsenal/",
+    "title": "Arsenal boss Mikel Arteta gives Ezri Konsa injury update after worrying sign during Slavia Prague Champions League win",
+    "ko": "아르테타, 슬라비아 프라하전 승리 속 코너사 부상 상황 공개",
+    "source": "sun",
+    "publishedAt": "2026-11-05T08:21:15.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "에즈리 콘사"
+    ],
+    "playerTags": [],
+    "author": "Simon Collings",
+    "transfer": null
+   },
+   {
+    "id": "29a4c7dc34e7",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
+    "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+    "ko": "콘사, 보유할지 매각할지…FPL 10라운드 고민 포인트",
+    "source": "bbc",
+    "publishedAt": "2026-11-05T22:26:23.000Z",
     "credited": null,
     "clubs": [],
     "category": "other",
     "stage": null,
     "players": [
-     "콜 파머"
+     "콘사"
     ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Pierre-Étienne Minonzio",
+    "playerTags": [],
+    "author": null,
     "transfer": null
    },
    {
-    "id": "63266a0f91e7",
-    "url": "https://www.mirror.co.uk/sport/football/news/cole-palmer-chelsea-england-tuchel-37850620",
-    "title": "What Chelsea told Thomas Tuchel about Cole Palmer before latest England snub",
-    "ko": "첼시, 투헬에게 파머 관련 입장 전달…잉글랜드 제외 배경",
-    "source": "mirror",
-    "publishedAt": "2026-11-06T13:30:38.000Z",
+    "id": "cc410438817c",
+    "url": "https://www.football.london/arsenal-fc/players/arsenal-injury-news-konsa-saka-34872914",
+    "title": "Konsa, Saka, Saliba, Bartishvili - Arsenal injury updates and return dates ahead of Hull",
+    "ko": "아스널, 코나·사카·살리바·바르티쉬빌리 부상 상황과 복귀 시점 점검",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T12:39:34.000Z",
     "credited": null,
     "clubs": [
-     "chelsea"
+     "arsenal"
     ],
-    "category": "other",
+    "category": "injury",
     "stage": null,
     "players": [
-     "파머"
+     "코나",
+     "부카요 사카",
+     "윌리엄 살리바",
+     "바르티쉬빌리"
     ],
     "playerTags": [
-     "cole-palmer"
+     "bukayo-saka",
+     "william-saliba"
     ],
-    "author": "Fasika Zelealem",
+    "author": "Ryan Taylor",
     "transfer": null
    },
    {
-    "id": "c9c366dcb693",
-    "url": "https://www.mirror.co.uk/sport/football/news/england-squad-cole-palmer-tuchel-37851806",
-    "title": "Thomas Tuchel's brutal Cole Palmer snub is a warning shot to England hopefuls",
-    "ko": "투헬, 콜 파머 제외 결정… 잉글랜드 후보들에 경고",
-    "source": "mirror",
-    "publishedAt": "2026-11-06T14:35:06.000Z",
+    "id": "ba2447083a85",
+    "url": "https://www.thesun.co.uk/sport/40938755/gameweek-10-injuries-suspensions-fantasy-update-ezri-konsa/",
+    "title": "Injuries & suspensions update for Gameweek 10: Latest on Ezri Konsa, Dominic Calvert-Lewin and others",
+    "ko": "게임위크 10 부상·출장정지 현황, 콘사·칼버트르윈 등 점검",
+    "source": "sun",
+    "publishedAt": "2026-11-06T14:47:36.000Z",
     "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "manager",
+    "clubs": [],
+    "category": "injury",
     "stage": null,
     "players": [
-     "콜 파머"
+     "콘사",
+     "칼버트르윈"
     ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Andy Dunn",
+    "playerTags": [],
+    "author": "Nick Elliott",
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 3,
-  "score": 3.68,
+  "score": 1.7,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
-   "cole-palmer"
+   "bukayo-saka",
+   "william-saliba"
   ],
   "transfer": null,
   "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-06T11:59:37.000Z",
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T08:21:15.000Z",
    "viaQuote": false
   },
-  "headline": "Palmer misses too many chances to impress - Tuchel"
+  "headline": "Keep or sell Konsa? - FPL gameweek 10 dilemmas"
+ },
+ {
+  "slug": "saka-injury",
+  "mode": "llm",
+  "titleKo": "사카 부상 복귀 시점, 아스널 공백",
+  "createdAt": "2026-11-04T06:00:00.000Z",
+  "updatedAt": "2026-11-06T14:41:55.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "부카요 사카",
+   "사카"
+  ],
+  "sig": [
+   "bukayo",
+   "saka"
+  ],
+  "articles": [
+   {
+    "id": "8562e0de73fc",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-injury-mystery-finally-answered-34857900",
+    "title": "Arsenal injury mystery is finally answered and Bukayo Saka injury cause becomes clearer",
+    "ko": "사카 부상 원인 공개, 아스널 부상 미스터리 풀려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-04T06:00:00.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Tom Canton",
+    "transfer": null,
+    "clubs": [
+     "arsenal"
+    ]
+   },
+   {
+    "id": "d472b5c47918",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-arteta-konsa-injury-saka-34873545",
+    "title": "Mikel Arteta issues triple Arsenal injury update ahead of Hull as Bukayo Saka timeline emerges",
+    "ko": "아르테타, 훌 시티전 앞두고 아스널 부상 현황 3건 공개",
+    "source": "fblondon",
+    "publishedAt": "2026-11-06T13:44:54.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Tom Canton, Ryan Taylor",
+    "transfer": null
+   },
+   {
+    "id": "92e3d592f6c7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Bukayo-saka-sera-absent-plusieurs-semaines-apres-sa-blessure-contre-le-bayern/1741651#at_medium=RSS_feeds",
+    "title": "Bukayo Saka sera absent plusieurs semaines après sa blessure contre le Bayern",
+    "ko": "사카, 바이에른전 부상 후 수주간 결장 예상",
+    "source": "lequipe",
+    "publishedAt": "2026-11-06T14:41:55.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Damien Degorre",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.13,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bukayo-saka"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-04T06:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bukayo Saka sera absent plusieurs semaines après sa blessure contre le Bayern"
+ },
+ {
+  "slug": "nottingham-forest-manager-future",
+  "mode": "llm",
+  "titleKo": "노팅엄 포레스트 감독 거취 논란",
+  "createdAt": "2026-11-04T08:45:00.000Z",
+  "updatedAt": "2026-11-06T14:39:56.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "nottingham-forest",
+   "crystal-palace"
+  ],
+  "players": [
+   "기브스-화이트"
+  ],
+  "sig": [
+   "oliver",
+   "glasner"
+  ],
+  "articles": [
+   {
+    "id": "1a5a26404cda",
+    "url": "https://www.nytimes.com/athletic/7738663/2026/11/02/vitor-pereira-forest-gibbs-white-anderson-interview/",
+    "title": "Vitor Pereira on shock Forest exit, Gibbs-White and what next: 'I'm waiting for the rain, to start work'",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-02T05:12:00.000Z",
+    "credited": null,
+    "clubs": [
+     "nottingham-forest"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "기브스-화이트"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dc73462997f3",
+    "url": "https://www.footballinsider247.com/nottingham-forest/oliver-glasner-tipped-to-go-back-to-crystal-palace-after-leaving-nottingham-forest-expert",
+    "title": "Oliver Glasner tipped to 'go back to Crystal Palace' after leaving Nottingham Forest - expert",
+    "ko": "글라스너, 노팅엄 떠난 뒤 크리스털 팰리스 복귀설",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T13:10:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "crystal-palace",
+     "nottingham-forest"
+    ]
+   },
+   {
+    "id": "2f6355425e77",
+    "url": "https://www.footballinsider247.com/nottingham-forest/oliver-glasner-thrown-under-the-bus-as-nottingham-forest-stars-slammed-expert",
+    "title": "Oliver Glasner 'thrown under the bus' as Nottingham Forest stars slammed - expert",
+    "ko": "글라스너, 노팅엄 선수들 비판 속 감독 거취 논란",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T16:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "nottingham-forest"
+    ]
+   },
+   {
+    "id": "28c3201f097a",
+    "url": "https://www.footballinsider247.com/nottingham-forest/nuno-espirito-santo-could-make-dramatic-return-to-nottingham-forest-verdict",
+    "title": "Nuno Espirito Santo could make dramatic return to Nottingham Forest - verdict",
+    "ko": "누노 에스피리투 산투, 노팅엄 포레스트 복귀 가능성 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T19:30:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "nottingham-forest"
+    ]
+   },
+   {
+    "id": "3fcf581ba9f1",
+    "url": "https://www.nytimes.com/athletic/7750360/2026/11/04/oliver-glasners-nottingham-forest-start-what-players-and-club-are-thinking/",
+    "title": "Oliver Glasner's Nottingham Forest start: What players and club are thinking",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-04T05:06:29.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "nottingham-forest"
+    ]
+   },
+   {
+    "id": "be84ccc1ed3c",
+    "url": "https://www.footballinsider247.com/nottingham-forest/next-manager/nottingham-forest-tipped-to-sack-oliver-glasner-next-week-by-club-adviser",
+    "title": "Nottingham Forest tipped to sack Oliver Glasner ‘next week‘ by club adviser",
+    "ko": "노팅엄 포레스트, 글라스너 경질 임박 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T08:45:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "nottingham-forest"
+    ]
+   },
+   {
+    "id": "6dfde993dc51",
+    "url": "https://www.footballinsider247.com/nottingham-forest/next-manager/im-amazed-its-come-so-quickly-expert-oliver-glasner-writing-his-obituary-already-at-nottingham-forest",
+    "title": "'I'm amazed it's come so quickly' - Expert: Oliver Glasner ‘writing his obituary’ already at Nottingham Forest",
+    "ko": "글라스너, 노팅엄 포레스트서 입지 흔들린다는 전문가 진단",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T14:37:11.000Z",
+    "credited": null,
+    "clubs": [
+     "nottingham-forest"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "693fc8c59bf6",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+    "title": "Forest need balance between Woodstock and military - Glasner",
+    "ko": "노팅엄 포레스트, 우드스톡 대 군대 사이 균형 필요 - 글래스너",
+    "source": "bbc",
+    "publishedAt": "2026-11-05T22:30:07.000Z",
+    "credited": null,
+    "clubs": [
+     "nottingham-forest"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "87c21fc074a5",
+    "url": "https://www.footballinsider247.com/nottingham-forest/oliver-glasner-has-expensive-release-clause-in-his-nottingham-forest-contract-stefan-borson",
+    "title": "Oliver Glasner has 'expensive release clause' in his Nottingham Forest contract - Stefan Borson",
+    "ko": "글라스너, 노팅엄 포레스트 계약에 고액 해지 조항",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-06T14:39:56.000Z",
+    "credited": "스테판 보르손",
+    "clubs": [
+     "nottingham-forest"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 0.5,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스테판 보르손",
+   "at": "2026-11-02T05:12:00.000Z",
+   "viaQuote": true
+  },
+  "headline": "Forest need balance between Woodstock and military - Glasner"
  },
  {
   "slug": "fonseca-sporting-appointment",
   "mode": "llm",
   "titleKo": "폰세카 스포르팅 감독 선임 확정",
   "createdAt": "2026-11-04T10:05:00.000Z",
-  "updatedAt": "2026-11-06T14:31:56.000Z",
+  "updatedAt": "2026-11-06T14:39:04.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -938,11 +1715,27 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "8258e5191677",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/paulo-fonseca-e-uma-prioridade-meter-o-sporting-a-defender-bem",
+    "title": "Paulo Fonseca: «É uma prioridade meter o Sporting a defender bem»",
+    "ko": "폰세카 \"스포르팅을 수비 탄탄한 팀으로 만드는 게 우선\"",
+    "source": "record",
+    "publishedAt": "2026-11-06T14:39:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.26,
+  "score": 0.47,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -956,7 +1749,529 @@
    "at": "2026-11-02T21:50:00.000Z",
    "viaQuote": false
   },
-  "headline": "Paulo Fonseca confessa surpresa com o que encontrou: «Não conhecia a realidade Sporting»"
+  "headline": "Paulo Fonseca: «É uma prioridade meter o Sporting a defender bem»"
+ },
+ {
+  "slug": "carrick-manager-future",
+  "mode": "llm",
+  "titleKo": "캐릭, 퍼거슨 비교 속 맨유 감독 행보",
+  "createdAt": "2026-11-06T14:38:16.000Z",
+  "updatedAt": "2026-11-06T14:38:16.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [
+   "carrick",
+   "sir",
+   "alex",
+   "ferguson"
+  ],
+  "articles": [
+   {
+    "id": "ec88a4d3b29f",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-laughs-sir-alex-34874056",
+    "title": "Michael Carrick laughs off Sir Alex Ferguson comparison but makes Manchester United plea",
+    "ko": "캐릭, 퍼거슨 비교에 웃어넘기며 맨유에 당부",
+    "source": "men",
+    "publishedAt": "2026-11-06T14:38:16.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.67,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-06T14:38:16.000Z",
+   "viaQuote": false
+  },
+  "headline": "Michael Carrick laughs off Sir Alex Ferguson comparison but makes Manchester United plea"
+ },
+ {
+  "slug": "lens-como-2026-11-04",
+  "mode": "llm",
+  "titleKo": "렌스 대 콤 유스리그 경기",
+  "createdAt": "2026-11-04T15:30:18.000Z",
+  "updatedAt": "2026-11-06T14:36:53.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "타종 하자드",
+   "맥상스 카케레",
+   "세스크 파브레가스",
+   "토르간 아자르",
+   "미셸 퀴상스",
+   "니코 파스",
+   "헤수스 데 미겔"
+  ],
+  "sig": [
+   "u19",
+   "lens",
+   "côme",
+   "youth"
+  ],
+  "articles": [
+   {
+    "id": "53168f9e2e24",
+    "url": "https://www.lequipe.fr/Football/Actualites/Sur-leur-terrain-les-u19-de-lens-s-imposent-face-a-come-en-youth-league/1741097#at_medium=RSS_feeds",
+    "title": "Sur leur terrain, les U19 de Lens s'imposent face à Côme en Youth League",
+    "ko": "렌스 U19, 홈에서 콤 꺾고 유스리그 승리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T15:30:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": null
+   },
+   {
+    "id": "5ec7490ad249",
+    "url": "https://www.lequipe.fr/Football/Actualites/Thorgan-hazard-aligne-d-entree-maxence-caqueret-aussi-les-compositions-de-lens-come-en-ligue-des-champions/1741183#at_medium=RSS_feeds",
+    "title": "Thorgan Hazard aligné d'entrée, Maxence Caqueret aussi : les compositions de Lens - Côme en Ligue des champions",
+    "ko": "렌스-콤 챔피언스리그 선발 라인업 발표, 타종 하자드 선발 출전",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T19:16:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "타종 하자드",
+     "맥상스 카케레"
+    ],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "a2bc4a8b664f",
+    "url": "https://as.com/futbol/champions/lens-como-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Lens - Como, en directo: Champions League hoy en vivo",
+    "ko": "랑스 대 코모, 챔피언스리그 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-04T19:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Carretero",
+    "transfer": null
+   },
+   {
+    "id": "43f36e8eebeb",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/lens-como-1907-em-direto",
+    "title": "Lens-Como 1907, em direto",
+    "ko": "렌스 대 콤 라이브 중계",
+    "source": "record",
+    "publishedAt": "2026-11-04T21:31:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "035501325993",
+    "url": "https://www.lequipe.fr/Football/Actualites/Face-a-un-come-fantastique-lens-essuie-la-plus-grosse-defaite-de-l-histoire-du-foot-francais-en-coupe-d-europe/1741218#at_medium=RSS_feeds",
+    "title": "Face à un Côme fantastique, Lens essuie la plus grosse défaite de l'histoire du foot français en Coupe d'Europe",
+    "ko": "렌스, 콤전 대패…프랑스 축구 유럽대항전 사상 최다 패배",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T21:55:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "8320e8ac36c4",
+    "url": "https://www.hln.be/champions-league-en-europa-league/thorgan-hazard-krijgt-er-maar-liefst-negen-om-de-oren-stuntploeg-como-evenaart-grootste-zege-ooit-in-champions-league~a301dbaaa/",
+    "title": "Thorgan Hazard krijgt er maar liefst negen om de oren: stuntploeg Como evenaart grootste zege ooit in Champions League",
+    "ko": "코모, 챔피언스리그 최다 득점 타이 대승…티칼 헤이즐 아쉬움",
+    "source": "hln",
+    "publishedAt": "2026-11-04T22:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "토르간 아자르"
+    ],
+    "playerTags": [],
+    "author": "Emma Van Avermaet",
+    "transfer": null
+   },
+   {
+    "id": "9810783bf77a",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/tem-90-segundos-livres-entao-veja-aqui-os-9-golos-que-o-como-1907-marcou-ao-lens",
+    "title": "Tem 90 segundos livres? Então veja aqui os 9 golos que o Como 1907 marcou ao Lens",
+    "ko": "코모, 렌스전 9골 폭발한 장면 짧게 정리",
+    "source": "record",
+    "publishedAt": "2026-11-04T22:04:56.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3d3abd20511e",
+    "url": "https://www.lequipe.fr/Football/Actualites/Michael-cuisance-apres-la-lourde-defaite-de-lens-contre-come-ce-n-est-pas-une-defaite-c-est-une-lecon/1741227#at_medium=RSS_feeds",
+    "title": "Michaël Cuisance après la lourde défaite de Lens contre Côme : « Ce n'est pas une défaite, c'est une leçon »",
+    "ko": "미셸 퀴상스, 렌스 대패 후 '교훈' 발언",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T22:15:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "미셸 퀴상스"
+    ],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "c4579c99772a",
+    "url": "https://www.nytimes.com/athletic/7754339/2026/11/04/como-champions-league-record-lens/",
+    "title": "Como equal Champions League record win with 9-1 victory against Lens",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-04T22:15:33.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e354989ed888",
+    "url": "https://www.lequipe.fr/Football/Actualites/Lens-n-avait-pas-encaisse-9-buts-depuis-1940-les-chiffres-de-la-debacle-historique-de-lens-contre-come-en-ligue-des-champions/1741228#at_medium=RSS_feeds",
+    "title": "Lens n'avait pas encaissé 9 buts depuis 1940 : les chiffres de la débâcle historique de Lens contre Côme en Ligue des champions",
+    "ko": "렌스, 코모전 대패로 1940년 이후 최다 실점 기록",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T22:22:43.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "fb6bdaf36548",
+    "url": "https://as.com/futbol/videos/vean-en-120-como-ha-hecho-historia-el-como-de-cesc-en-lens-nunca-habia-sucedido-f202611-v/",
+    "title": "Vean en 120″ cómo ha hecho historia el Como de Cesc en Lens: nunca había sucedido",
+    "ko": "코모, 렌스 원정서 역사적 대승 기록 조명",
+    "source": "as",
+    "publishedAt": "2026-11-04T22:25:48.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "세스크 파브레가스"
+    ],
+    "playerTags": [],
+    "author": "Movistar +",
+    "transfer": null
+   },
+   {
+    "id": "d98908f20dbe",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lens-come-les-cancres-lensois-le-maitre-nico-paz/1741236#at_medium=RSS_feeds",
+    "title": "Les notes de Lens-Côme : les cancres lensois, le maître Nico Paz",
+    "ko": "렌스 대 콤 평점: 렌스 부진, 니코 파스 돋보여",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T22:57:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "니코 파스"
+    ],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "d97cc6544c42",
+    "url": "https://www.lequipe.fr/Football/Actualites/Come-est-devenue-la-premiere-equipe-a-voir-onze-joueurs-decisifs-lors-d-un-match-de-ligue-des-champions/1741244#at_medium=RSS_feeds",
+    "title": "Côme est devenue contre Lens la première équipe à compter onze joueurs décisifs lors d'un match de Ligue des champions",
+    "ko": "코모, 챔피언스리그 최초로 11명 모두 결정적 기여",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T23:20:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "da55dedd8af6",
+    "url": "https://www.lequipe.fr/Football/Article/Comment-ont-ils-pu-etre-aussi-mauvais-avec-le-ballon-aussi-poreux-aussi-nuls-de-plus-en-plus-nuls-au-fil-du-match-les-joueurs-lensois-ont-fait-honte-a-bollaert/1741252#at_medium=RSS_feeds",
+    "title": "Comment Lens a-t-il pu être aussi nul, et de plus en plus nul ?",
+    "ko": "렌스는 어떻게 이렇게 무기력했나, 갈수록 더 못하다",
+    "source": "lequipe",
+    "publishedAt": "2026-11-04T23:37:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "12207c771fb3",
+    "url": "https://www.hln.be/champions-league-en-europa-league/bewogen-moment-tijdens-1-9-van-como-tegen-lens-nico-paz-draagt-doelpunt-op-aan-overleden-jesus-de-miguel~a301dbaaa/",
+    "title": "Bewogen moment tijdens 1-9 van Como tegen Lens: Nico Paz draagt doelpunt op aan overleden Jesús de Miguel",
+    "ko": "코모 대 렌스 9골 난타전 속 니코 파스, 고 데 미겔 추모 득점",
+    "source": "hln",
+    "publishedAt": "2026-11-05T05:24:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "니코 파스",
+     "헤수스 데 미겔"
+    ],
+    "playerTags": [],
+    "author": "Emma Van Avermaet",
+    "transfer": null
+   },
+   {
+    "id": "cba846fa37ae",
+    "url": "https://www.lequipe.fr/Football/Actualites/-comosutra-epicomo-le-show-fabregas-la-demonstration-de-come-a-lens-en-ligue-des-champions-saluee-par-la-presse-italienne/1741337#at_medium=RSS_feeds",
+    "title": "« Comosutra », « Epicomo », « Le show Fabregas » : la démonstration de Côme à Lens en Ligue des champions saluée par la presse italienne",
+    "ko": "코모, 렌스전 챔피언스리그 승리 이탈리아 언론 호평",
+    "source": "lequipe",
+    "publishedAt": "2026-11-05T13:26:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Florian Decloquement",
+    "transfer": null
+   },
+   {
+    "id": "5a1e5a279af1",
+    "url": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens",
+    "title": "Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
+    "ko": "코모, 렌스를 9골로 대파",
+    "source": "guardian",
+    "publishedAt": "2026-11-05T15:55:25.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Barry Glendenning",
+    "transfer": null
+   },
+   {
+    "id": "518121843e2f",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-communique-cinglant-des-supporters-lensois-apres-la-debacle-contre-come-en-ligue-des-champions-vous-avez-transgresse-le-code-d-honneur-du-racing/1741648#at_medium=RSS_feeds",
+    "title": "Le communiqué cinglant des supporters lensois après la débâcle contre Côme en Ligue des champions : « Vous avez transgressé le code d'honneur du Racing »",
+    "ko": "렌스 서포터즈, 콤전 참패 후 \"레이싱의 명예 규범 어겼다\" 성명",
+    "source": "lequipe",
+    "publishedAt": "2026-11-06T14:36:53.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 1.67,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-04T15:30:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Como equal Champions League record win with 9-1 victory against Lens"
+ },
+ {
+  "slug": "palmer-tuchel-relationship",
+  "mode": "llm",
+  "titleKo": "투헬, 파머 기회 활용 부족 지적",
+  "createdAt": "2026-11-06T11:59:37.000Z",
+  "updatedAt": "2026-11-06T14:35:06.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "콜 파머",
+   "파머"
+  ],
+  "sig": [
+   "tuchel"
+  ],
+  "articles": [
+   {
+    "id": "e2c9fbb1c3f1",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss",
+    "title": "Palmer misses too many chances to impress - Tuchel",
+    "ko": "튀헬, 팔머 기회 놓쳐 질책…중요한 순간 결정력 부족 지적",
+    "source": "bbc",
+    "publishedAt": "2026-11-06T11:59:37.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "561b885f903f",
+    "url": "https://www.lequipe.fr/Football/Actualites/Thomas-tuchel-cole-palmer-a-manque-trop-d-opportunites-pour-s-imposer-au-sein-de-l-equipe-d-angleterre/1741590#at_medium=RSS_feeds",
+    "title": "Thomas Tuchel : « Cole Palmer a manqué trop d'opportunités » pour s'imposer au sein de l'équipe d'Angleterre",
+    "ko": "투헬, 파머 기회 활용 부족 지적",
+    "source": "lequipe",
+    "publishedAt": "2026-11-06T12:31:32.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Pierre-Étienne Minonzio",
+    "transfer": null
+   },
+   {
+    "id": "63266a0f91e7",
+    "url": "https://www.mirror.co.uk/sport/football/news/cole-palmer-chelsea-england-tuchel-37850620",
+    "title": "What Chelsea told Thomas Tuchel about Cole Palmer before latest England snub",
+    "ko": "첼시, 투헬에게 파머 관련 입장 전달…잉글랜드 제외 배경",
+    "source": "mirror",
+    "publishedAt": "2026-11-06T13:30:38.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Fasika Zelealem",
+    "transfer": null
+   },
+   {
+    "id": "c9c366dcb693",
+    "url": "https://www.mirror.co.uk/sport/football/news/england-squad-cole-palmer-tuchel-37851806",
+    "title": "Thomas Tuchel's brutal Cole Palmer snub is a warning shot to England hopefuls",
+    "ko": "투헬, 콜 파머 제외 결정… 잉글랜드 후보들에 경고",
+    "source": "mirror",
+    "publishedAt": "2026-11-06T14:35:06.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Andy Dunn",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 3.16,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cole-palmer"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-06T11:59:37.000Z",
+   "viaQuote": false
+  },
+  "headline": "Palmer misses too many chances to impress - Tuchel"
  },
  {
   "slug": "ilic-union-berlin-transfer",
@@ -1003,7 +2318,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.91,
+  "score": 1.64,
   "topTier": 2,
   "stageHistory": [
    {
@@ -1811,7 +3126,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 14,
-  "score": 1.78,
+  "score": 1.53,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1867,7 +3182,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.9,
+  "score": 1.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1964,7 +3279,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2025,7 +3340,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.89,
+  "score": 1.62,
   "topTier": 2,
   "stageHistory": [
    {
@@ -2092,7 +3407,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.86,
+  "score": 1.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2139,7 +3454,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.85,
+  "score": 1.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2224,7 +3539,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.82,
+  "score": 1.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2315,7 +3630,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.8,
+  "score": 0.69,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2506,7 +3821,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.69,
+  "score": 2.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2522,105 +3837,6 @@
    "viaQuote": false
   },
   "headline": "Baleba, Dorgu, Rashford - Manchester United injury news and return dates ahead of Aston Villa"
- },
- {
-  "slug": "caicedo-injury",
-  "mode": "llm",
-  "titleKo": "카이세도 부상 우려, 첼시 전력 공백",
-  "createdAt": "2026-11-04T12:48:09.000Z",
-  "updatedAt": "2026-11-06T14:05:52.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "모이세스 카이세도"
-  ],
-  "sig": [
-   "caicedo"
-  ],
-  "articles": [
-   {
-    "id": "483000480d13",
-    "url": "https://www.football.london/chelsea-fc/news/chelseas-75m-star-needs-send-34856541",
-    "title": "Chelsea's £75m star needs to send Xabi Alonso message after crucial injury blow",
-    "ko": "첼시 1억 파운드 가까운 스타, 알론소에 메시지 필요",
-    "source": "fblondon",
-    "publishedAt": "2026-11-03T15:53:09.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bobby Vincent",
-    "transfer": null,
-    "clubs": [
-     "chelsea"
-    ]
-   },
-   {
-    "id": "4ae80b50a4a3",
-    "url": "https://www.football.london/chelsea-fc/news/moises-caicedo-injury-scare-chelsea-34861543",
-    "title": "Moises Caicedo injury scare but Chelsea get triple boost as stars return to training",
-    "ko": "카이세도 부상 우려 속 첼시, 주전 복귀로 전력 상승",
-    "source": "fblondon",
-    "publishedAt": "2026-11-04T12:48:09.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "모이세스 카이세도"
-    ],
-    "playerTags": [
-     "moises-caicedo"
-    ],
-    "author": "Bobby Vincent",
-    "transfer": null,
-    "clubs": [
-     "chelsea"
-    ]
-   },
-   {
-    "id": "0ac108a34b97",
-    "url": "https://www.football.london/chelsea-fc/news/breaking-chelsea-injury-update-alonso-34871434",
-    "title": "Xabi Alonso confirms Moises Caicedo injury concern in four-player Chelsea update",
-    "ko": "알론소, 카이세도 부상 우려 확인…첼시 선수 4명 업데이트",
-    "source": "fblondon",
-    "publishedAt": "2026-11-06T14:05:52.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "모이세스 카이세도"
-    ],
-    "playerTags": [
-     "moises-caicedo"
-    ],
-    "author": "Jake Stokes",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.77,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "moises-caicedo"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-03T15:53:09.000Z",
-   "viaQuote": false
-  },
-  "headline": "Xabi Alonso confirms Moises Caicedo injury concern in four-player Chelsea update"
  },
  {
   "slug": "letang-discipline",
@@ -2693,7 +3909,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.74,
+  "score": 1.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3267,7 +4483,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.62,
+  "score": 0.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3279,89 +4495,6 @@
    "viaQuote": true
   },
   "headline": "David Beckham's true feelings on Man United takeover as club legend given backing for huge move"
- },
- {
-  "slug": "saka-injury",
-  "mode": "llm",
-  "titleKo": "사카 부상 복귀 시점, 아스널 공백",
-  "createdAt": "2026-11-04T06:00:00.000Z",
-  "updatedAt": "2026-11-06T13:44:54.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "부카요 사카",
-   "사카"
-  ],
-  "sig": [
-   "bukayo",
-   "saka"
-  ],
-  "articles": [
-   {
-    "id": "8562e0de73fc",
-    "url": "https://www.football.london/arsenal-fc/news/arsenal-injury-mystery-finally-answered-34857900",
-    "title": "Arsenal injury mystery is finally answered and Bukayo Saka injury cause becomes clearer",
-    "ko": "사카 부상 원인 공개, 아스널 부상 미스터리 풀려",
-    "source": "fblondon",
-    "publishedAt": "2026-11-04T06:00:00.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "사카"
-    ],
-    "playerTags": [
-     "bukayo-saka"
-    ],
-    "author": "Tom Canton",
-    "transfer": null,
-    "clubs": [
-     "arsenal"
-    ]
-   },
-   {
-    "id": "d472b5c47918",
-    "url": "https://www.football.london/arsenal-fc/news/arsenal-arteta-konsa-injury-saka-34873545",
-    "title": "Mikel Arteta issues triple Arsenal injury update ahead of Hull as Bukayo Saka timeline emerges",
-    "ko": "아르테타, 훌 시티전 앞두고 아스널 부상 현황 3건 공개",
-    "source": "fblondon",
-    "publishedAt": "2026-11-06T13:44:54.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "사카"
-    ],
-    "playerTags": [
-     "bukayo-saka"
-    ],
-    "author": "Tom Canton, Ryan Taylor",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.67,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bukayo-saka"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-04T06:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Mikel Arteta issues triple Arsenal injury update ahead of Hull as Bukayo Saka timeline emerges"
  },
  {
   "slug": "de-miguel-incident",
@@ -6167,7 +7300,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 15,
-  "score": 5.12,
+  "score": 4.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6276,7 +7409,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.6,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6489,7 +7622,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.48,
+  "score": 0.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6954,7 +8087,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 1.59,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7047,7 +8180,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.69,
+  "score": 0.59,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7133,7 +8266,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.81,
+  "score": 1.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7205,7 +8338,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.84,
+  "score": 0.72,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -7218,117 +8351,6 @@
    "viaQuote": false
   },
   "headline": "Flinke domper voor Antwerp: Arthur Vermeeren moet met enkelblessure passen voor cruciaal duel tegen Lommel"
- },
- {
-  "slug": "konsa-injury",
-  "mode": "llm",
-  "titleKo": "콘사 부상 상황",
-  "createdAt": "2026-11-05T08:21:15.000Z",
-  "updatedAt": "2026-11-06T12:39:34.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "에즈리 콘사",
-   "콘사",
-   "코나",
-   "부카요 사카",
-   "윌리엄 살리바",
-   "바르티쉬빌리"
-  ],
-  "sig": [
-   "mikel",
-   "ezri",
-   "konsa",
-   "slavia",
-   "prague"
-  ],
-  "articles": [
-   {
-    "id": "7091bad7d2f9",
-    "url": "https://www.thesun.co.uk/sport/40922509/mikel-arteta-ezri-konsa-injury-update-arsenal/",
-    "title": "Arsenal boss Mikel Arteta gives Ezri Konsa injury update after worrying sign during Slavia Prague Champions League win",
-    "ko": "아르테타, 슬라비아 프라하전 승리 속 코너사 부상 상황 공개",
-    "source": "sun",
-    "publishedAt": "2026-11-05T08:21:15.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "에즈리 콘사"
-    ],
-    "playerTags": [],
-    "author": "Simon Collings",
-    "transfer": null
-   },
-   {
-    "id": "29a4c7dc34e7",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
-    "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-    "ko": "콘사, 보유할지 매각할지…FPL 10라운드 고민 포인트",
-    "source": "bbc",
-    "publishedAt": "2026-11-05T22:26:23.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "콘사"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cc410438817c",
-    "url": "https://www.football.london/arsenal-fc/players/arsenal-injury-news-konsa-saka-34872914",
-    "title": "Konsa, Saka, Saliba, Bartishvili - Arsenal injury updates and return dates ahead of Hull",
-    "ko": "아스널, 코나·사카·살리바·바르티쉬빌리 부상 상황과 복귀 시점 점검",
-    "source": "fblondon",
-    "publishedAt": "2026-11-06T12:39:34.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "코나",
-     "부카요 사카",
-     "윌리엄 살리바",
-     "바르티쉬빌리"
-    ],
-    "playerTags": [
-     "bukayo-saka",
-     "william-saliba"
-    ],
-    "author": "Ryan Taylor",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 3,
-  "score": 1.38,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bukayo-saka",
-   "william-saliba"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-05T08:21:15.000Z",
-   "viaQuote": false
-  },
-  "headline": "Keep or sell Konsa? - FPL gameweek 10 dilemmas"
  },
  {
   "slug": "ngumoha-bayern-transfer",
@@ -7378,7 +8400,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7466,7 +8488,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7533,7 +8555,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7546,79 +8568,6 @@
    "viaQuote": false
   },
   "headline": "Leicester release 'concerned' statement after shirt sponsor names adult star as ambassador"
- },
- {
-  "slug": "schalke-gladbach-ii-2026-11-08",
-  "mode": "llm",
-  "titleKo": "샬케 U23 대 묀헨글라트바흐 II 경기",
-  "createdAt": "2026-11-06T11:17:25.000Z",
-  "updatedAt": "2026-11-06T11:17:25.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "schalke",
-   "gladbach"
-  ],
-  "players": [],
-  "sig": [
-   "weg",
-   "krise"
-  ],
-  "articles": [
-   {
-    "id": "cbcb68ff7f8f",
-    "url": "https://www.kicker.de/schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
-    "title": "Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
-    "ko": "샬케 U23, 묀헨글라트바흐 II전으로 위기 탈출 도전",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T11:17:25.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7d2749e62a5a",
-    "url": "https://www.kicker.de/live-schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
-    "title": "LIVE! Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
-    "ko": "샬케 U23, 묀헨글라트바흐 II와 위기 탈출 경기",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T11:17:25.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.09,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-06T11:17:25.000Z",
-   "viaQuote": false
-  },
-  "headline": "Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise"
  },
  {
   "slug": "dedic-incident",
@@ -7778,7 +8727,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 7,
-  "score": 2.79,
+  "score": 2.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7832,7 +8781,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.07,
+  "score": 0.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7900,7 +8849,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7913,113 +8862,6 @@
    "viaQuote": false
   },
   "headline": "Gateshead FC saved after US investment group agree takeover breakthrough"
- },
- {
-  "slug": "infantino-affairs-election-challenger",
-  "mode": "llm",
-  "titleKo": "인판티노 FIFA 회장 선거 첫 도전자 등장",
-  "createdAt": "2026-11-05T14:57:00.000Z",
-  "updatedAt": "2026-11-06T10:45:59.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "tottenham"
-  ],
-  "players": [
-   "크리스티아누 호날두"
-  ],
-  "sig": [
-   "fifa"
-  ],
-  "articles": [
-   {
-    "id": "ee2fed6ba37f",
-    "url": "https://www.skysports.com/football/news/12040/13608441/gianni-infantino-fifa-president-faces-challenge-from-japan-fa-chief-kohzo-tashima-in-2027-election",
-    "title": "Infantino faces fight for FIFA presidency as first challenger emerges",
-    "ko": "인판티노, FIFA 회장직 첫 도전자 등장으로 경쟁 직면",
-    "source": "sky",
-    "publishedAt": "2026-11-05T14:57:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "86f00a8a9662",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/became-hedge-fund-boss-after-34865406",
-    "title": "I became hedge fund boss after leaving Tottenham – now I want to replace Gianni Infantino",
-    "ko": "토트넘 떠난 뒤 헤지펀드 수장 된 인물, 인판티노 대체 도전 선언",
-    "source": "fblondon",
-    "publishedAt": "2026-11-06T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "tottenham"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Abbie Meehan",
-    "transfer": null
-   },
-   {
-    "id": "773a144c4629",
-    "url": "https://www.hln.be/buitenlands-voetbal/weinig-spelers-hebben-zon-indruk-achtergelaten-cristiano-ronaldo-krijgt-boodschap-van-gianni-infantino-al-zat-hij-daar-wellicht-niet-op-te-wachten~ab75a7b5/",
-    "title": "“Weinig spelers hebben zo’n indruk achtergelaten”: Cristiano Ronaldo krijgt boodschap van... Gianni Infantino (al zat hij daar wellicht niet op te wachten)",
-    "ko": "호날두, 인판티노에게 메시지 받아…'인상 깊은 선수'",
-    "source": "hln",
-    "publishedAt": "2026-11-06T06:37:27.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "크리스티아누 호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": "Johannes De Rijcke",
-    "transfer": null
-   },
-   {
-    "id": "5815ee3d23b8",
-    "url": "https://www.nytimes.com/athletic/7754080/2026/11/06/fifa-infantino-midterms-democrats-trump-world-cup/",
-    "title": "What the midterm blue wave could mean for Gianni Infantino and FIFA",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-06T10:45:59.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 4,
-  "score": 2.22,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "cristiano-ronaldo"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-05T14:57:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "What the midterm blue wave could mean for Gianni Infantino and FIFA"
  },
  {
   "slug": "laliga-affairs-var-controversy",
@@ -8070,7 +8912,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.96,
+  "score": 0.82,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8151,7 +8993,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.49,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -8255,7 +9097,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.52,
+  "score": 1.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8315,7 +9157,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.24,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8385,7 +9227,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.93,
+  "score": 0.8,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8438,7 +9280,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.24,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8490,7 +9332,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8596,7 +9438,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8673,7 +9515,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8784,7 +9626,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.91,
+  "score": 0.78,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8837,7 +9679,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.84,
+  "score": 0.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9293,7 +10135,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 11,
-  "score": 1.26,
+  "score": 1.08,
   "topTier": 1,
   "stageHistory": [
    {
@@ -9518,7 +10360,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 1.94,
+  "score": 1.67,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9948,7 +10790,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.23,
+  "score": 0.2,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10020,7 +10862,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.23,
+  "score": 0.2,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10080,7 +10922,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.76,
+  "score": 0.65,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10144,7 +10986,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.75,
+  "score": 0.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10224,7 +11066,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.33,
+  "score": 0.28,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -10279,7 +11121,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.73,
+  "score": 0.62,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10378,7 +11220,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.69,
+  "score": 0.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10447,7 +11289,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.64,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10693,7 +11535,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10791,7 +11633,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.57,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11029,7 +11871,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11265,7 +12107,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 0.56,
+  "score": 0.48,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11854,7 +12696,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11943,7 +12785,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.37,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12026,7 +12868,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12101,7 +12943,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12171,9 +13013,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.29,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13603,190 +14445,6 @@
    "viaQuote": true
   },
   "headline": "West Ham confirm Parker as boss"
- },
- {
-  "slug": "nottingham-forest-manager-future",
-  "mode": "llm",
-  "titleKo": "노팅엄 포레스트 감독 거취 논란",
-  "createdAt": "2026-11-04T08:45:00.000Z",
-  "updatedAt": "2026-11-05T22:30:07.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "nottingham-forest",
-   "crystal-palace"
-  ],
-  "players": [
-   "기브스-화이트"
-  ],
-  "sig": [
-   "oliver",
-   "glasner"
-  ],
-  "articles": [
-   {
-    "id": "1a5a26404cda",
-    "url": "https://www.nytimes.com/athletic/7738663/2026/11/02/vitor-pereira-forest-gibbs-white-anderson-interview/",
-    "title": "Vitor Pereira on shock Forest exit, Gibbs-White and what next: 'I'm waiting for the rain, to start work'",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-02T05:12:00.000Z",
-    "credited": null,
-    "clubs": [
-     "nottingham-forest"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "기브스-화이트"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dc73462997f3",
-    "url": "https://www.footballinsider247.com/nottingham-forest/oliver-glasner-tipped-to-go-back-to-crystal-palace-after-leaving-nottingham-forest-expert",
-    "title": "Oliver Glasner tipped to 'go back to Crystal Palace' after leaving Nottingham Forest - expert",
-    "ko": "글라스너, 노팅엄 떠난 뒤 크리스털 팰리스 복귀설",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T13:10:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "crystal-palace",
-     "nottingham-forest"
-    ]
-   },
-   {
-    "id": "2f6355425e77",
-    "url": "https://www.footballinsider247.com/nottingham-forest/oliver-glasner-thrown-under-the-bus-as-nottingham-forest-stars-slammed-expert",
-    "title": "Oliver Glasner 'thrown under the bus' as Nottingham Forest stars slammed - expert",
-    "ko": "글라스너, 노팅엄 선수들 비판 속 감독 거취 논란",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T16:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "nottingham-forest"
-    ]
-   },
-   {
-    "id": "28c3201f097a",
-    "url": "https://www.footballinsider247.com/nottingham-forest/nuno-espirito-santo-could-make-dramatic-return-to-nottingham-forest-verdict",
-    "title": "Nuno Espirito Santo could make dramatic return to Nottingham Forest - verdict",
-    "ko": "누노 에스피리투 산투, 노팅엄 포레스트 복귀 가능성 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T19:30:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "nottingham-forest"
-    ]
-   },
-   {
-    "id": "3fcf581ba9f1",
-    "url": "https://www.nytimes.com/athletic/7750360/2026/11/04/oliver-glasners-nottingham-forest-start-what-players-and-club-are-thinking/",
-    "title": "Oliver Glasner's Nottingham Forest start: What players and club are thinking",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-04T05:06:29.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "nottingham-forest"
-    ]
-   },
-   {
-    "id": "be84ccc1ed3c",
-    "url": "https://www.footballinsider247.com/nottingham-forest/next-manager/nottingham-forest-tipped-to-sack-oliver-glasner-next-week-by-club-adviser",
-    "title": "Nottingham Forest tipped to sack Oliver Glasner ‘next week‘ by club adviser",
-    "ko": "노팅엄 포레스트, 글라스너 경질 임박 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T08:45:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "nottingham-forest"
-    ]
-   },
-   {
-    "id": "6dfde993dc51",
-    "url": "https://www.footballinsider247.com/nottingham-forest/next-manager/im-amazed-its-come-so-quickly-expert-oliver-glasner-writing-his-obituary-already-at-nottingham-forest",
-    "title": "'I'm amazed it's come so quickly' - Expert: Oliver Glasner ‘writing his obituary’ already at Nottingham Forest",
-    "ko": "글라스너, 노팅엄 포레스트서 입지 흔들린다는 전문가 진단",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T14:37:11.000Z",
-    "credited": null,
-    "clubs": [
-     "nottingham-forest"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "693fc8c59bf6",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
-    "title": "Forest need balance between Woodstock and military - Glasner",
-    "ko": "노팅엄 포레스트, 우드스톡 대 군대 사이 균형 필요 - 글래스너",
-    "source": "bbc",
-    "publishedAt": "2026-11-05T22:30:07.000Z",
-    "credited": null,
-    "clubs": [
-     "nottingham-forest"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 3,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-02T05:12:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Forest need balance between Woodstock and military - Glasner"
  },
  {
   "slug": "everton-affairs-referee-decisions",
@@ -17999,334 +18657,6 @@
    "viaQuote": false
   },
   "headline": "Keeper Owono 'would never intentionally hurt anyone'"
- },
- {
-  "slug": "lens-como-2026-11-04",
-  "mode": "llm",
-  "titleKo": "렌스 대 콤 유스리그 경기",
-  "createdAt": "2026-11-04T15:30:18.000Z",
-  "updatedAt": "2026-11-05T15:55:25.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "타종 하자드",
-   "맥상스 카케레",
-   "세스크 파브레가스",
-   "토르간 아자르",
-   "미셸 퀴상스",
-   "니코 파스",
-   "헤수스 데 미겔"
-  ],
-  "sig": [
-   "u19",
-   "lens",
-   "côme",
-   "youth"
-  ],
-  "articles": [
-   {
-    "id": "53168f9e2e24",
-    "url": "https://www.lequipe.fr/Football/Actualites/Sur-leur-terrain-les-u19-de-lens-s-imposent-face-a-come-en-youth-league/1741097#at_medium=RSS_feeds",
-    "title": "Sur leur terrain, les U19 de Lens s'imposent face à Côme en Youth League",
-    "ko": "렌스 U19, 홈에서 콤 꺾고 유스리그 승리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T15:30:18.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": null
-   },
-   {
-    "id": "5ec7490ad249",
-    "url": "https://www.lequipe.fr/Football/Actualites/Thorgan-hazard-aligne-d-entree-maxence-caqueret-aussi-les-compositions-de-lens-come-en-ligue-des-champions/1741183#at_medium=RSS_feeds",
-    "title": "Thorgan Hazard aligné d'entrée, Maxence Caqueret aussi : les compositions de Lens - Côme en Ligue des champions",
-    "ko": "렌스-콤 챔피언스리그 선발 라인업 발표, 타종 하자드 선발 출전",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T19:16:30.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "타종 하자드",
-     "맥상스 카케레"
-    ],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "a2bc4a8b664f",
-    "url": "https://as.com/futbol/champions/lens-como-en-directo-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Lens - Como, en directo: Champions League hoy en vivo",
-    "ko": "랑스 대 코모, 챔피언스리그 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-04T19:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Carretero",
-    "transfer": null
-   },
-   {
-    "id": "43f36e8eebeb",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/lens-como-1907-em-direto",
-    "title": "Lens-Como 1907, em direto",
-    "ko": "렌스 대 콤 라이브 중계",
-    "source": "record",
-    "publishedAt": "2026-11-04T21:31:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "035501325993",
-    "url": "https://www.lequipe.fr/Football/Actualites/Face-a-un-come-fantastique-lens-essuie-la-plus-grosse-defaite-de-l-histoire-du-foot-francais-en-coupe-d-europe/1741218#at_medium=RSS_feeds",
-    "title": "Face à un Côme fantastique, Lens essuie la plus grosse défaite de l'histoire du foot français en Coupe d'Europe",
-    "ko": "렌스, 콤전 대패…프랑스 축구 유럽대항전 사상 최다 패배",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T21:55:34.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "8320e8ac36c4",
-    "url": "https://www.hln.be/champions-league-en-europa-league/thorgan-hazard-krijgt-er-maar-liefst-negen-om-de-oren-stuntploeg-como-evenaart-grootste-zege-ooit-in-champions-league~a301dbaaa/",
-    "title": "Thorgan Hazard krijgt er maar liefst negen om de oren: stuntploeg Como evenaart grootste zege ooit in Champions League",
-    "ko": "코모, 챔피언스리그 최다 득점 타이 대승…티칼 헤이즐 아쉬움",
-    "source": "hln",
-    "publishedAt": "2026-11-04T22:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "토르간 아자르"
-    ],
-    "playerTags": [],
-    "author": "Emma Van Avermaet",
-    "transfer": null
-   },
-   {
-    "id": "9810783bf77a",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/tem-90-segundos-livres-entao-veja-aqui-os-9-golos-que-o-como-1907-marcou-ao-lens",
-    "title": "Tem 90 segundos livres? Então veja aqui os 9 golos que o Como 1907 marcou ao Lens",
-    "ko": "코모, 렌스전 9골 폭발한 장면 짧게 정리",
-    "source": "record",
-    "publishedAt": "2026-11-04T22:04:56.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3d3abd20511e",
-    "url": "https://www.lequipe.fr/Football/Actualites/Michael-cuisance-apres-la-lourde-defaite-de-lens-contre-come-ce-n-est-pas-une-defaite-c-est-une-lecon/1741227#at_medium=RSS_feeds",
-    "title": "Michaël Cuisance après la lourde défaite de Lens contre Côme : « Ce n'est pas une défaite, c'est une leçon »",
-    "ko": "미셸 퀴상스, 렌스 대패 후 '교훈' 발언",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T22:15:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "미셸 퀴상스"
-    ],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "c4579c99772a",
-    "url": "https://www.nytimes.com/athletic/7754339/2026/11/04/como-champions-league-record-lens/",
-    "title": "Como equal Champions League record win with 9-1 victory against Lens",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-04T22:15:33.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e354989ed888",
-    "url": "https://www.lequipe.fr/Football/Actualites/Lens-n-avait-pas-encaisse-9-buts-depuis-1940-les-chiffres-de-la-debacle-historique-de-lens-contre-come-en-ligue-des-champions/1741228#at_medium=RSS_feeds",
-    "title": "Lens n'avait pas encaissé 9 buts depuis 1940 : les chiffres de la débâcle historique de Lens contre Côme en Ligue des champions",
-    "ko": "렌스, 코모전 대패로 1940년 이후 최다 실점 기록",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T22:22:43.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "fb6bdaf36548",
-    "url": "https://as.com/futbol/videos/vean-en-120-como-ha-hecho-historia-el-como-de-cesc-en-lens-nunca-habia-sucedido-f202611-v/",
-    "title": "Vean en 120″ cómo ha hecho historia el Como de Cesc en Lens: nunca había sucedido",
-    "ko": "코모, 렌스 원정서 역사적 대승 기록 조명",
-    "source": "as",
-    "publishedAt": "2026-11-04T22:25:48.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "세스크 파브레가스"
-    ],
-    "playerTags": [],
-    "author": "Movistar +",
-    "transfer": null
-   },
-   {
-    "id": "d98908f20dbe",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lens-come-les-cancres-lensois-le-maitre-nico-paz/1741236#at_medium=RSS_feeds",
-    "title": "Les notes de Lens-Côme : les cancres lensois, le maître Nico Paz",
-    "ko": "렌스 대 콤 평점: 렌스 부진, 니코 파스 돋보여",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T22:57:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "니코 파스"
-    ],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "d97cc6544c42",
-    "url": "https://www.lequipe.fr/Football/Actualites/Come-est-devenue-la-premiere-equipe-a-voir-onze-joueurs-decisifs-lors-d-un-match-de-ligue-des-champions/1741244#at_medium=RSS_feeds",
-    "title": "Côme est devenue contre Lens la première équipe à compter onze joueurs décisifs lors d'un match de Ligue des champions",
-    "ko": "코모, 챔피언스리그 최초로 11명 모두 결정적 기여",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T23:20:39.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "da55dedd8af6",
-    "url": "https://www.lequipe.fr/Football/Article/Comment-ont-ils-pu-etre-aussi-mauvais-avec-le-ballon-aussi-poreux-aussi-nuls-de-plus-en-plus-nuls-au-fil-du-match-les-joueurs-lensois-ont-fait-honte-a-bollaert/1741252#at_medium=RSS_feeds",
-    "title": "Comment Lens a-t-il pu être aussi nul, et de plus en plus nul ?",
-    "ko": "렌스는 어떻게 이렇게 무기력했나, 갈수록 더 못하다",
-    "source": "lequipe",
-    "publishedAt": "2026-11-04T23:37:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "12207c771fb3",
-    "url": "https://www.hln.be/champions-league-en-europa-league/bewogen-moment-tijdens-1-9-van-como-tegen-lens-nico-paz-draagt-doelpunt-op-aan-overleden-jesus-de-miguel~a301dbaaa/",
-    "title": "Bewogen moment tijdens 1-9 van Como tegen Lens: Nico Paz draagt doelpunt op aan overleden Jesús de Miguel",
-    "ko": "코모 대 렌스 9골 난타전 속 니코 파스, 고 데 미겔 추모 득점",
-    "source": "hln",
-    "publishedAt": "2026-11-05T05:24:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "니코 파스",
-     "헤수스 데 미겔"
-    ],
-    "playerTags": [],
-    "author": "Emma Van Avermaet",
-    "transfer": null
-   },
-   {
-    "id": "cba846fa37ae",
-    "url": "https://www.lequipe.fr/Football/Actualites/-comosutra-epicomo-le-show-fabregas-la-demonstration-de-come-a-lens-en-ligue-des-champions-saluee-par-la-presse-italienne/1741337#at_medium=RSS_feeds",
-    "title": "« Comosutra », « Epicomo », « Le show Fabregas » : la démonstration de Côme à Lens en Ligue des champions saluée par la presse italienne",
-    "ko": "코모, 렌스전 챔피언스리그 승리 이탈리아 언론 호평",
-    "source": "lequipe",
-    "publishedAt": "2026-11-05T13:26:44.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Florian Decloquement",
-    "transfer": null
-   },
-   {
-    "id": "5a1e5a279af1",
-    "url": "https://www.theguardian.com/football/2026/nov/05/football-daily-email-como-lens",
-    "title": "Football Daily | Como turn on the style and hammer nine past out-of-focus Lens",
-    "ko": "코모, 렌스를 9골로 대파",
-    "source": "guardian",
-    "publishedAt": "2026-11-05T15:55:25.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Barry Glendenning",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 6,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-04T15:30:18.000Z",
-   "viaQuote": false
-  },
-  "headline": "Como equal Champions League record win with 9-1 victory against Lens"
  },
  {
   "slug": "nusa-arsenal-transfer",
@@ -23018,112 +23348,6 @@
    "viaQuote": false
   },
   "headline": "Haaland scores winner as Man City beat Leipzig"
- },
- {
-  "slug": "smith-injury",
-  "mode": "llm",
-  "titleKo": "스미스 부상 타격",
-  "createdAt": "2026-11-03T15:20:23.000Z",
-  "updatedAt": "2026-11-05T00:49:44.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "스미스",
-   "샘 스미스"
-  ],
-  "sig": [
-   "smith"
-  ],
-  "articles": [
-   {
-    "id": "dbd505d0c1dd",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmyr0m3ydxo?at_medium=RSS&at_campaign=rss",
-    "title": "Wrexham suffer 'significant' Smith injury blow",
-    "ko": "렉섬, 스미스 부상으로 타격",
-    "source": "bbc",
-    "publishedAt": "2026-11-03T15:20:23.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "스미스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "cae28a7579c5",
-    "url": "https://www.skysports.com/rugby-union/news/12040/13607801/fin-smith-england-hope-fly-half-can-prove-fitness-ahead-of-australia-match-in-nations-championship",
-    "title": "Smith to undergo fitness test ahead of Australia match",
-    "ko": "스미스, 호주전 앞두고 체력 테스트 예정",
-    "source": "sky",
-    "publishedAt": "2026-11-04T06:19:00.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "스미스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "bd776e412ca3",
-    "url": "https://www.skysports.com/rugby-union/news/12040/13608052/fin-smith-england-pretty-optimistic-fly-half-will-be-fit-for-australia-match-at-twickenham-in-nations-championship",
-    "title": "England 'pretty optimistic' Smith will be fit to face Australia",
-    "ko": "잉글랜드, 스미스 호주전 출전 낙관…부상 회복 기대",
-    "source": "sky",
-    "publishedAt": "2026-11-04T17:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "스미스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b4a1aec2b70d",
-    "url": "https://www.espn.com/soccer/story/_/id/50383627/wrexham-middlesbrough-sam-smith-injury-championship",
-    "title": "Wrexham joy at big win dented by losing striker Sam Smith for season",
-    "ko": "렉섬, 대승에도 샘 스미스 시즌 아웃에 기쁨 반감",
-    "source": "espn",
-    "publishedAt": "2026-11-05T00:49:44.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "샘 스미스"
-    ],
-    "playerTags": [],
-    "author": "ESPN News Services",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 3,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-03T15:20:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Wrexham suffer 'significant' Smith injury blow"
  },
  {
   "slug": "dortmund-betis-2026-11-03",
