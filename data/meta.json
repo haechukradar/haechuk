@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T08:47:35.257Z",
+ "updatedAt": "2026-11-06T09:53:10.207Z",
  "hot": [
-  "celtic-besiktas-2026-11-05",
   "real-madrid-affairs-nadal-appointment",
+  "gabriel-real-madrid-transfer",
+  "celtic-besiktas-2026-11-05",
   "infantino-affairs-election-challenger",
-  "dedic-incident",
-  "leverkusen-marseille-2026-11-04"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -29,8 +29,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 4,
+   "items": 80,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -42,7 +42,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -54,19 +54,19 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -78,38 +78,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 80
+   "added": 2,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 83
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -138,37 +138,37 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -179,8 +179,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 1,
+   "items": 11,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -207,7 +207,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 10
+   "count": 13
   },
   {
    "name": "헤수스 오워노",
@@ -226,6 +226,10 @@
    "count": 7
   },
   {
+   "name": "웨인 루니",
+   "count": 7
+  },
+  {
    "name": "맥스 다우먼",
    "count": 7
   },
@@ -236,10 +240,6 @@
   {
    "name": "조엘 페레이라",
    "count": 7
-  },
-  {
-   "name": "웨인 루니",
-   "count": 6
   },
   {
    "name": "트레이 뇨니",
@@ -307,12 +307,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 252,
+  "recentIssues": 255,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 142
+    "count": 131
    },
    {
     "slug": "man-utd-roma-2026-11-03",
@@ -323,12 +323,8 @@
     "count": 37
    },
    {
-    "slug": "parker-west-ham-appointment",
-    "count": 29
-   },
-   {
     "slug": "kane-contract",
-    "count": 28
+    "count": 29
    },
    {
     "slug": "man-utd-affairs-ownership",
@@ -347,6 +343,10 @@
     "count": 21
    },
    {
+    "slug": "parker-west-ham-appointment",
+    "count": 21
+   },
+   {
     "slug": "villarreal-psg-2026-11-03",
     "count": 21
    },
@@ -356,7 +356,11 @@
    },
    {
     "slug": "atletico-bayern-2026-11-03",
-    "count": 19
+    "count": 18
+   },
+   {
+    "slug": "gabriel-real-madrid-transfer",
+    "count": 17
    },
    {
     "slug": "leverkusen-marseille-2026-11-04",
@@ -385,10 +389,6 @@
    {
     "slug": "owono-discipline",
     "count": 16
-   },
-   {
-    "slug": "gabriel-real-madrid-transfer",
-    "count": 15
    }
   ]
  },
@@ -399,7 +399,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 20
+     "count": 21
     },
     {
      "ko": "모리뉴",
@@ -417,7 +417,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -439,25 +439,11 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 9
+     "count": 12
     },
     {
      "ko": "J.J. 가브리엘",
      "count": 7
-    }
-   ]
-  },
-  {
-   "en": "Nuno Espirito Santo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "누노 에스피리투 산투",
-     "count": 13
-    },
-    {
-     "ko": "노이 산투",
-     "count": 1
     }
    ]
   },
@@ -524,6 +510,20 @@
    ]
   },
   {
+   "en": "Nuno Espirito Santo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "누노 에스피리투 산투",
+     "count": 7
+    },
+    {
+     "ko": "노이 산투",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Max Dowman",
    "dictionary": null,
    "variants": [
@@ -537,6 +537,24 @@
     },
     {
      "ko": "다우먼",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰이 레이시",
+     "count": 4
+    },
+    {
+     "ko": "쉐이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "쉐아 레이시",
      "count": 1
     }
    ]
@@ -580,24 +598,6 @@
     {
      "ko": "마르코 실바",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉐이 레이시",
-     "count": 3
-    },
-    {
-     "ko": "셰이 레이시",
-     "count": 3
-    },
-    {
-     "ko": "쉐아 레이시",
-     "count": 1
     }
    ]
   },
@@ -728,6 +728,20 @@
     {
      "ko": "바르셀라",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 3
+    },
+    {
+     "ko": "키스 와이네스",
+     "count": 2
     }
    ]
   },
@@ -904,20 +918,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 2
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -1037,20 +1037,6 @@
     },
     {
      "ko": "루카스 에르난데스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 2
-    },
-    {
-     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -1224,6 +1210,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 2
+    },
+    {
+     "ko": "세이지",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1256,8 +1256,8 @@
    "llm": 933
   },
   "2026-11-06": {
-   "collected": 590,
-   "llm": 590
+   "collected": 634,
+   "llm": 634
   }
  },
  "llmErrors": []
