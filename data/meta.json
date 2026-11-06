@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T20:27:22.923Z",
+ "updatedAt": "2026-11-06T21:12:39.624Z",
  "hot": [
+  "sevilla-alaves-2026-11-05",
   "de-miguel-incident",
   "dedic-incident",
   "palmer-tuchel-relationship",
-  "newcastle-manager-future",
-  "saka-injury"
+  "newcastle-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -37,13 +37,13 @@
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,19 +79,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 90
+   "added": 1,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -103,13 +103,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -133,7 +133,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,7 +145,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -157,13 +157,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -175,20 +175,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 3,
+   "items": 10,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 63
+   "count": 64
   },
   {
    "name": "오워노",
@@ -308,20 +308,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 243,
+  "recentIssues": 244,
   "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 89
-   },
-   {
-    "slug": "man-utd-roma-2026-11-03",
-    "count": 47
+    "count": 87
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 45
+    "count": 44
+   },
+   {
+    "slug": "man-utd-roma-2026-11-03",
+    "count": 42
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
@@ -332,11 +332,11 @@
     "count": 30
    },
    {
-    "slug": "man-utd-affairs-ownership",
-    "count": 23
+    "slug": "jesus-ronaldo-relationship",
+    "count": 22
    },
    {
-    "slug": "jesus-ronaldo-relationship",
+    "slug": "man-utd-affairs-ownership",
     "count": 22
    },
    {
@@ -373,10 +373,6 @@
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
-    "count": 15
-   },
-   {
-    "slug": "villarreal-psg-2026-11-03",
     "count": 15
    }
   ]
@@ -425,23 +421,9 @@
     {
      "ko": "조르지 제수스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 19
     },
     {
-     "ko": "모리뉴",
-     "count": 1
-    },
-    {
-     "ko": "조제 무리뉴",
+     "ko": "호르헤 제주스",
      "count": 1
     }
    ]
@@ -457,6 +439,24 @@
     {
      "ko": "J.J. 가브리엘",
      "count": 7
+    }
+   ]
+  },
+  {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 18
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    },
+    {
+     "ko": "조제 무리뉴",
+     "count": 1
     }
    ]
   },
@@ -671,20 +671,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -699,6 +685,24 @@
     {
      "ko": "잡 벨링엄",
      "count": 1
+    },
+    {
+     "ko": "조베 벨링엄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 4
+    },
+    {
+     "ko": "키스 와이네스",
+     "count": 3
     }
    ]
   },
@@ -833,20 +837,6 @@
    ]
   },
   {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회너스",
-     "count": 3
-    },
-    {
-     "ko": "회네스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Avram Glazer",
    "dictionary": null,
    "variants": [
@@ -909,24 +899,6 @@
    ]
   },
   {
-   "en": "Diogo Dalot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "달롯",
-     "count": 2
-    },
-    {
-     "ko": "디오고 달로",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달로트",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Daniel Farke",
    "dictionary": null,
    "variants": [
@@ -963,6 +935,20 @@
    ]
   },
   {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 3
+    },
+    {
+     "ko": "회네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -976,6 +962,20 @@
     },
     {
      "ko": "폴라린 발로군",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jürgen Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 3
+    },
+    {
+     "ko": "클로프",
      "count": 1
     }
    ]
@@ -1063,6 +1063,24 @@
    ]
   },
   {
+   "en": "Diogo Dalot",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "달롯",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달로",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달로트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sean Steur",
    "dictionary": null,
    "variants": [
@@ -1127,20 +1145,6 @@
    ]
   },
   {
-   "en": "Fabian Ruiz",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파비안 루이스",
-     "count": 2
-    },
-    {
-     "ko": "파비앙 루이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Undav",
    "dictionary": null,
    "variants": [
@@ -1192,20 +1196,6 @@
     },
     {
      "ko": "풀크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 2
-    },
-    {
-     "ko": "클로프",
      "count": 1
     }
    ]
@@ -1273,6 +1263,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Mary Earps",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "메리 이얼스",
+     "count": 2
+    },
+    {
+     "ko": "메리 어프스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1309,8 +1313,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 271,
-   "llm": 271
+   "collected": 294,
+   "llm": 294
   }
  },
  "llmErrors": []
