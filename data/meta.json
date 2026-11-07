@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T22:07:51.425Z",
+ "updatedAt": "2026-11-07T22:45:19.129Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
   "arsenal-hull-2026-11-07",
   "de-miguel-incident",
-  "psg-troyes-2026-11-08",
-  "valencia-real-madrid-2026-11-06"
+  "valencia-real-madrid-2026-11-06",
+  "psg-troyes-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -37,14 +37,14 @@
   },
   "guardian": {
    "ok": true,
-   "items": 60,
-   "added": 0,
+   "items": 64,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 8,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,14 +80,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 94
+   "added": 5,
+   "authorRate": 96
   },
   "fblondon": {
    "ok": true,
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -164,7 +164,7 @@
   "sun": {
    "ok": true,
    "items": 19,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
@@ -176,12 +176,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 10,
    "added": 0,
    "authorRate": 0
   }
@@ -189,7 +189,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 38
+   "count": 39
   },
   {
    "name": "오워노",
@@ -276,6 +276,10 @@
    "count": 6
   },
   {
+   "name": "해밀턴",
+   "count": 6
+  },
+  {
    "name": "이타쿠라",
    "count": 6
   },
@@ -302,19 +306,15 @@
   {
    "name": "텔",
    "count": 5
-  },
-  {
-   "name": "카레타스",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 215,
-  "singleArticleRate": 40,
+  "recentIssues": 214,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 65
+    "count": 66
    },
    {
     "slug": "kane-contract",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -342,7 +342,7 @@
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
-    "count": 18
+    "count": 20
    },
    {
     "slug": "grealish-discipline",
@@ -409,6 +409,10 @@
     },
     {
      "ko": "조르지 제수스",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 헤수스",
      "count": 1
     }
    ]
@@ -534,20 +538,6 @@
    ]
   },
   {
-   "en": "Karetsas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카레타스",
-     "count": 5
-    },
-    {
-     "ko": "카레차스",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -584,20 +574,16 @@
    ]
   },
   {
-   "en": "Haaland",
+   "en": "Karetsas",
    "dictionary": null,
    "variants": [
     {
-     "ko": "엘링 홀란",
+     "ko": "카레타스",
      "count": 4
     },
     {
-     "ko": "홀란",
-     "count": 3
-    },
-    {
-     "ko": "홀란드",
-     "count": 1
+     "ko": "카레차스",
+     "count": 4
     }
    ]
   },
@@ -1136,6 +1122,20 @@
    ]
   },
   {
+   "en": "Sérgio Ferreira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세르지우 페헤이라",
+     "count": 2
+    },
+    {
+     "ko": "세르지우 페레이라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mary Earps",
    "dictionary": null,
    "variants": [
@@ -1290,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 465,
-   "llm": 465
+   "collected": 501,
+   "llm": 501
   }
  },
  "llmErrors": []
