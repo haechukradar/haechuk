@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T07:15:10.383Z",
+ "updatedAt": "2026-11-07T08:14:25.784Z",
  "hot": [
   "everton-coventry-2026-11-06",
+  "valencia-real-madrid-2026-11-06",
   "dewsbury-hall-everton-relationship",
-  "carrick-manager-future",
-  "chelsea-sunderland-2026-11-08",
-  "toulouse-strasbourg-2026-11-06"
+  "man-utd-affairs-anti-ownership-protest",
+  "carrick-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -36,14 +36,14 @@
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 1,
+   "items": 59,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -61,13 +61,13 @@
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,25 +79,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 2,
-   "authorRate": 90
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -133,19 +133,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -163,8 +163,8 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 2,
-   "authorRate": 96
+   "added": 3,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -175,13 +175,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 6,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -196,7 +196,7 @@
   },
   {
    "name": "그릴리시",
-   "count": 19
+   "count": 20
   },
   {
    "name": "데 미겔",
@@ -267,7 +267,15 @@
    "count": 6
   },
   {
+   "name": "돈나룸마",
+   "count": 6
+  },
+  {
    "name": "알리송",
+   "count": 6
+  },
+  {
+   "name": "이타쿠라",
    "count": 6
   },
   {
@@ -297,23 +305,15 @@
   {
    "name": "트레솔디",
    "count": 5
-  },
-  {
-   "name": "돈나룸마",
-   "count": 5
-  },
-  {
-   "name": "이타쿠라",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
-  "singleArticleRate": 42,
+  "recentIssues": 236,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 85
+    "count": 83
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -332,19 +332,19 @@
     "count": 23
    },
    {
-    "slug": "man-utd-roma-2026-11-03",
-    "count": 23
+    "slug": "man-utd-affairs-ownership",
+    "count": 20
    },
    {
-    "slug": "man-utd-affairs-ownership",
-    "count": 21
+    "slug": "man-utd-roma-2026-11-03",
+    "count": 20
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
     "count": 19
    },
    {
-    "slug": "parker-west-ham-appointment",
+    "slug": "grealish-discipline",
     "count": 18
    },
    {
@@ -356,7 +356,7 @@
     "count": 18
    },
    {
-    "slug": "grealish-discipline",
+    "slug": "parker-west-ham-appointment",
     "count": 17
    },
    {
@@ -671,6 +671,24 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 4
+    },
+    {
+     "ko": "키스 와이네스",
+     "count": 3
+    },
+    {
+     "ko": "위니스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -693,16 +711,28 @@
    ]
   },
   {
-   "en": "Keith Wyness",
+   "en": "Gianluigi Donnarumma",
    "dictionary": null,
    "variants": [
     {
-     "ko": "키스 와이니스",
-     "count": 4
+     "ko": "도나룸마",
+     "count": 2
     },
     {
-     "ko": "키스 와이네스",
-     "count": 3
+     "ko": "돈나룸마",
+     "count": 2
+    },
+    {
+     "ko": "지안루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 1
     }
    ]
   },
@@ -730,32 +760,6 @@
     },
     {
      "ko": "주앙 모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도나룸마",
-     "count": 2
-    },
-    {
-     "ko": "지안루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 도나룸마",
      "count": 1
     }
    ]
@@ -833,6 +837,24 @@
    ]
   },
   {
+   "en": "Daniel Farke",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파르케",
+     "count": 3
+    },
+    {
+     "ko": "페어케",
+     "count": 1
+    },
+    {
+     "ko": "다니엘 파르케",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Avram Glazer",
    "dictionary": null,
    "variants": [
@@ -890,24 +912,6 @@
     },
     {
      "ko": "야닉 카뷔작",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Daniel Farke",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파르케",
-     "count": 2
-    },
-    {
-     "ko": "페어케",
-     "count": 1
-    },
-    {
-     "ko": "다니엘 파르케",
      "count": 1
     }
    ]
@@ -1309,8 +1313,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 485,
-   "llm": 485
+   "collected": 524,
+   "llm": 524
   }
  },
  "llmErrors": []
