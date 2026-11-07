@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T06:12:39.498Z",
+ "updatedAt": "2026-11-07T07:15:10.383Z",
  "hot": [
   "everton-coventry-2026-11-06",
   "dewsbury-hall-everton-relationship",
   "carrick-manager-future",
-  "newcastle-manager-future",
-  "chelsea-sunderland-2026-11-08"
+  "chelsea-sunderland-2026-11-08",
+  "toulouse-strasbourg-2026-11-06"
  ],
  "days": [
   "2026-10-18",
@@ -31,13 +31,13 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
@@ -55,7 +55,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -79,7 +79,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
@@ -97,13 +97,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -139,13 +139,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -163,13 +163,13 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -308,31 +308,31 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 235,
-  "singleArticleRate": 43,
+  "recentIssues": 233,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 86
+    "count": 85
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 43
+    "count": 42
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 37
+    "count": 36
    },
    {
     "slug": "kane-contract",
     "count": 30
    },
    {
-    "slug": "man-utd-roma-2026-11-03",
-    "count": 24
+    "slug": "jesus-ronaldo-relationship",
+    "count": 23
    },
    {
-    "slug": "jesus-ronaldo-relationship",
+    "slug": "man-utd-roma-2026-11-03",
     "count": 23
    },
    {
@@ -341,14 +341,10 @@
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
-    "count": 20
-   },
-   {
-    "slug": "parker-west-ham-appointment",
     "count": 19
    },
    {
-    "slug": "grealish-discipline",
+    "slug": "parker-west-ham-appointment",
     "count": 18
    },
    {
@@ -358,6 +354,10 @@
    {
     "slug": "lens-como-2026-11-04",
     "count": 18
+   },
+   {
+    "slug": "grealish-discipline",
+    "count": 17
    },
    {
     "slug": "leipzig-man-city-2026-11-04",
@@ -434,11 +434,11 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 12
+     "count": 13
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "자이슬",
@@ -913,24 +913,6 @@
    ]
   },
   {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스-반렛",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄스-바닛",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -1004,6 +986,42 @@
     },
     {
      "ko": "그리너우드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카 윌리엄스-반렛",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 1
+    },
+    {
+     "ko": "윌리엄스-바닛",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-바닛",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Emi Martinez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에미 마르티네스",
+     "count": 3
+    },
+    {
+     "ko": "에밀리아노 마르티네스",
      "count": 1
     }
    ]
@@ -1255,20 +1273,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Mary Earps",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "메리 이얼스",
-     "count": 2
-    },
-    {
-     "ko": "메리 어프스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1305,8 +1309,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 465,
-   "llm": 465
+   "collected": 485,
+   "llm": 485
   }
  },
  "llmErrors": []
