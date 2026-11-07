@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T04:22:58.278Z",
+ "updatedAt": "2026-11-07T05:16:00.185Z",
  "hot": [
   "everton-coventry-2026-11-06",
-  "toulouse-strasbourg-2026-11-06",
-  "de-miguel-incident",
-  "espanyol-deportivo-2026-11-06",
-  "jesus-ronaldo-relationship"
+  "dewsbury-hall-everton-relationship",
+  "carrick-manager-future",
+  "chelsea-sunderland-2026-11-08",
+  "toulouse-strasbourg-2026-11-06"
  ],
  "days": [
   "2026-10-18",
@@ -55,7 +55,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -79,19 +79,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 4,
    "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -103,7 +103,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -133,13 +133,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -151,13 +151,13 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -196,7 +196,7 @@
   },
   {
    "name": "그릴리시",
-   "count": 18
+   "count": 19
   },
   {
    "name": "데 미겔",
@@ -308,7 +308,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 239,
+  "recentIssues": 237,
   "singleArticleRate": 43,
   "broad": [
    {
@@ -329,7 +329,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 25
+    "count": 24
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -364,11 +364,11 @@
     "count": 17
    },
    {
-    "slug": "leverkusen-marseille-2026-11-04",
-    "count": 16
+    "slug": "everton-coventry-2026-11-06",
+    "count": 15
    },
    {
-    "slug": "everton-coventry-2026-11-06",
+    "slug": "leverkusen-marseille-2026-11-04",
     "count": 15
    },
    {
@@ -447,6 +447,32 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토마스 투헬",
+     "count": 9
+    },
+    {
+     "ko": "투헬",
+     "count": 8
+    },
+    {
+     "ko": "튀헬",
+     "count": 2
+    },
+    {
+     "ko": "토헬",
+     "count": 1
+    },
+    {
+     "ko": "토마스 튀헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
@@ -478,32 +504,6 @@
     },
     {
      "ko": "자이슬레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 9
-    },
-    {
-     "ko": "투헬",
-     "count": 7
-    },
-    {
-     "ko": "튀헬",
-     "count": 2
-    },
-    {
-     "ko": "토헬",
-     "count": 1
-    },
-    {
-     "ko": "토마스 튀헬",
      "count": 1
     }
    ]
@@ -545,6 +545,24 @@
    ]
   },
   {
+   "en": "Trey Nyoni",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "트레이 뇨니",
+     "count": 6
+    },
+    {
+     "ko": "뇨니",
+     "count": 2
+    },
+    {
+     "ko": "니오니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
@@ -572,24 +590,6 @@
     },
     {
      "ko": "쉐아 레이시",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Trey Nyoni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트레이 뇨니",
-     "count": 6
-    },
-    {
-     "ko": "뇨니",
-     "count": 1
-    },
-    {
-     "ko": "니오니",
      "count": 1
     }
    ]
@@ -815,15 +815,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "키에런 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
-     "count": 1
-    },
-    {
      "ko": "듀스버리홀",
+     "count": 2
+    },
+    {
+     "ko": "키에런 듀즈버리홀",
      "count": 1
     },
     {
@@ -1305,8 +1301,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 434,
-   "llm": 434
+   "collected": 447,
+   "llm": 447
   }
  },
  "llmErrors": []
