@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T16:48:52.264Z",
+ "updatedAt": "2026-11-07T17:26:23.138Z",
  "hot": [
+  "arsenal-hull-2026-11-07",
   "leeds-tottenham-2026-11-07",
   "nottingham-forest-man-city-2026-11-05",
-  "mainz-bayern-2026-11-07",
-  "arsenal-hull-2026-11-07",
-  "dortmund-elversberg-2026-11-07"
+  "fulham-newcastle-2026-11-08",
+  "mainz-bayern-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
+   "items": 61,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 2,
+   "items": 60,
+   "added": 3,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 7,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 8,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,37 +80,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 6,
    "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -122,7 +122,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -158,19 +158,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 16,
-   "added": 2,
+   "items": 17,
+   "added": 5,
    "authorRate": 94
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -182,7 +182,7 @@
   "fbinsider": {
    "ok": true,
    "items": 8,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -200,15 +200,15 @@
    "count": 16
   },
   {
+   "name": "노이어",
+   "count": 15
+  },
+  {
    "name": "잭 그릴리시",
    "count": 13
   },
   {
    "name": "그릴리시",
-   "count": 13
-  },
-  {
-   "name": "노이어",
    "count": 13
   },
   {
@@ -310,11 +310,11 @@
  ],
  "issueHealth": {
   "recentIssues": 230,
-  "singleArticleRate": 42,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 66
+    "count": 64
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -326,22 +326,22 @@
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 28
+    "count": 27
+   },
+   {
+    "slug": "leeds-tottenham-2026-11-07",
+    "count": 24
    },
    {
     "slug": "jesus-ronaldo-relationship",
     "count": 23
    },
    {
-    "slug": "leeds-tottenham-2026-11-07",
-    "count": 20
+    "slug": "arsenal-hull-2026-11-07",
+    "count": 19
    },
    {
     "slug": "lens-como-2026-11-04",
-    "count": 18
-   },
-   {
-    "slug": "man-utd-affairs-ownership",
     "count": 18
    },
    {
@@ -349,11 +349,11 @@
     "count": 18
    },
    {
-    "slug": "real-madrid-aek-athens-2026-11-03",
-    "count": 17
+    "slug": "newcastle-manager-future",
+    "count": 16
    },
    {
-    "slug": "newcastle-manager-future",
+    "slug": "man-utd-affairs-ownership",
     "count": 16
    },
    {
@@ -720,6 +720,58 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "듀스버리홀",
+     "count": 4
+    },
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
+     "count": 1
+    },
+    {
+     "ko": "키어냔 듀스버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yannick Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이안니크 카쥐크",
+     "count": 1
+    },
+    {
+     "ko": "카위자크",
+     "count": 1
+    },
+    {
+     "ko": "카쥐악",
+     "count": 1
+    },
+    {
+     "ko": "야니크 카쥐작",
+     "count": 1
+    },
+    {
+     "ko": "야닉 카뷔작",
+     "count": 1
+    },
+    {
+     "ko": "카위작",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -752,24 +804,6 @@
     {
      "ko": "데 라 푸엔테",
      "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "듀스버리홀",
-     "count": 4
-    },
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디어넌 데뷔홀",
-     "count": 1
     }
    ]
   },
@@ -842,32 +876,6 @@
    ]
   },
   {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이안니크 카쥐크",
-     "count": 1
-    },
-    {
-     "ko": "카위자크",
-     "count": 1
-    },
-    {
-     "ko": "카쥐악",
-     "count": 1
-    },
-    {
-     "ko": "야니크 카쥐작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카뷔작",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -905,10 +913,14 @@
    "variants": [
     {
      "ko": "카미스키",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "카미네스키",
+     "count": 1
+    },
+    {
+     "ko": "카미NSKI",
      "count": 1
     }
    ]
@@ -1190,6 +1202,20 @@
    ]
   },
   {
+   "en": "Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 2
+    },
+    {
+     "ko": "자이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mary Earps",
    "dictionary": null,
    "variants": [
@@ -1244,20 +1270,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 2
-    },
-    {
-     "ko": "훌리안 알바레스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1298,8 +1310,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 144,
-   "llm": 144
+   "collected": 203,
+   "llm": 203
   }
  },
  "llmErrors": []
