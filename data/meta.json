@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T11:18:02.520Z",
+ "updatedAt": "2026-11-07T12:04:51.528Z",
  "hot": [
+  "leeds-tottenham-2026-11-07",
   "de-miguel-incident",
   "valencia-real-madrid-2026-11-06",
-  "leeds-tottenham-2026-11-07",
   "dedic-incident",
   "infantino-affairs-election-challenger"
  ],
@@ -30,20 +30,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 84,
-   "added": 0,
+   "items": 82,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,20 +79,20 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
-   "authorRate": 100
+   "added": 2,
+   "authorRate": 96
   },
   "men": {
    "ok": true,
@@ -103,14 +103,14 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 88
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -127,25 +127,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -157,19 +157,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
+   "items": 25,
    "added": 1,
-   "authorRate": 93
+   "authorRate": 92
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -180,8 +180,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 0,
+   "items": 10,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -219,6 +219,10 @@
    "count": 9
   },
   {
+   "name": "리산드로 마르티네스",
+   "count": 9
+  },
+  {
    "name": "맥스 다우먼",
    "count": 9
   },
@@ -232,10 +236,6 @@
   },
   {
    "name": "웨인 루니",
-   "count": 8
-  },
-  {
-   "name": "리산드로 마르티네스",
    "count": 8
   },
   {
@@ -308,16 +308,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 243,
+  "recentIssues": 239,
   "singleArticleRate": 44,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 75
+    "count": 72
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 38
+    "count": 37
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
@@ -421,24 +421,6 @@
    ]
   },
   {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 18
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    },
-    {
-     "ko": "조제 무리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -487,6 +469,24 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 17
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    },
+    {
+     "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
@@ -496,7 +496,7 @@
     },
     {
      "ko": "J.J. 가브리엘",
-     "count": 5
+     "count": 4
     },
     {
      "ko": "제이제이 가브리엘",
@@ -677,20 +677,6 @@
    ]
   },
   {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰이 레이시",
-     "count": 4
-    },
-    {
-     "ko": "쉐이 레이시",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Gianluigi Donnarumma",
    "dictionary": null,
    "variants": [
@@ -739,6 +725,20 @@
     {
      "ko": "마크 반 보멜",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 3
     }
    ]
   },
@@ -815,24 +815,6 @@
    ]
   },
   {
-   "en": "Daniel Farke",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파르케",
-     "count": 3
-    },
-    {
-     "ko": "페어케",
-     "count": 1
-    },
-    {
-     "ko": "다니엘 파르케",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Avram Glazer",
    "dictionary": null,
    "variants": [
@@ -890,6 +872,28 @@
     },
     {
      "ko": "야닉 카뷔작",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카 윌리엄스-반렛",
+     "count": 2
+    },
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 1
+    },
+    {
+     "ko": "윌리엄스-바닛",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-바닛",
      "count": 1
     }
    ]
@@ -968,28 +972,6 @@
     },
     {
      "ko": "그리너우드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스-반렛",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄스-바닛",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스-바닛",
      "count": 1
     }
    ]
@@ -1082,20 +1064,6 @@
     },
     {
      "ko": "휘터",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 스테우르",
-     "count": 2
-    },
-    {
-     "ko": "숀 스튜어",
      "count": 1
     }
    ]
@@ -1265,6 +1233,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Nuno Campos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "누노 캄포스",
+     "count": 2
+    },
+    {
+     "ko": "누노 캄푸스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jonas De Roeck",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "욘 드 로크",
+     "count": 2
+    },
+    {
+     "ko": "조나스 데 뢰크",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1301,8 +1297,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 607,
-   "llm": 607
+   "collected": 633,
+   "llm": 633
   }
  },
  "llmErrors": []
