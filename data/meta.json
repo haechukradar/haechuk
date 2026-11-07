@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T12:04:51.528Z",
+ "updatedAt": "2026-11-07T12:59:00.279Z",
  "hot": [
   "leeds-tottenham-2026-11-07",
+  "osimhen-injury",
   "de-miguel-incident",
-  "valencia-real-madrid-2026-11-06",
-  "dedic-incident",
-  "infantino-affairs-election-challenger"
+  "malaga-racing-santander-2026-11-08",
+  "dedic-incident"
  ],
  "days": [
   "2026-10-18",
@@ -30,14 +30,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 1,
+   "items": 80,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,19 +79,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 96
   },
   "men": {
@@ -103,13 +103,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -133,7 +133,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,42 +145,42 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 92
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 9,
    "added": 1,
    "authorRate": 0
   }
@@ -308,8 +308,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 239,
-  "singleArticleRate": 44,
+  "recentIssues": 233,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -317,7 +317,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 37
+    "count": 38
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
@@ -383,12 +383,12 @@
      "count": 3
     },
     {
-     "ko": "조르제 젠지",
+     "ko": "호르헤 제수스",
      "count": 2
     },
     {
-     "ko": "호르헤 제수스",
-     "count": 1
+     "ko": "조르제 젠지",
+     "count": 2
     },
     {
      "ko": "조르즈 주제",
@@ -573,19 +573,19 @@
    ]
   },
   {
-   "en": "Trey Nyoni",
+   "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
     {
-     "ko": "트레이 뇨니",
+     "ko": "티에르노 배리",
      "count": 5
     },
     {
-     "ko": "뇨니",
-     "count": 2
+     "ko": "티에르노 바리",
+     "count": 3
     },
     {
-     "ko": "니오니",
+     "ko": "배리",
      "count": 1
     }
    ]
@@ -663,16 +663,20 @@
    ]
   },
   {
-   "en": "Thierno Barry",
+   "en": "Trey Nyoni",
    "dictionary": null,
    "variants": [
     {
-     "ko": "티에르노 배리",
-     "count": 5
+     "ko": "트레이 뇨니",
+     "count": 4
     },
     {
-     "ko": "티에르노 바리",
-     "count": 3
+     "ko": "뇨니",
+     "count": 2
+    },
+    {
+     "ko": "니오니",
+     "count": 1
     }
    ]
   },
@@ -724,6 +728,28 @@
     },
     {
      "ko": "마크 반 보멜",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "듀스버리홀",
+     "count": 3
+    },
+    {
+     "ko": "키에런 듀즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
      "count": 1
     }
    ]
@@ -788,28 +814,6 @@
     },
     {
      "ko": "카미네스키",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "듀스버리홀",
-     "count": 2
-    },
-    {
-     "ko": "키에런 듀즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디어넌 데뷔홀",
      "count": 1
     }
    ]
@@ -894,6 +898,24 @@
     },
     {
      "ko": "루카 윌리엄스-바닛",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Frank Lampard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "램파드",
+     "count": 3
+    },
+    {
+     "ko": "프랭크 램파드",
+     "count": 1
+    },
+    {
+     "ko": "프랭크 램퍼드",
      "count": 1
     }
    ]
@@ -1009,24 +1031,6 @@
    ]
   },
   {
-   "en": "Frank Lampard",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "램파드",
-     "count": 2
-    },
-    {
-     "ko": "프랭크 램파드",
-     "count": 1
-    },
-    {
-     "ko": "프랭크 램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pedro Proença",
    "dictionary": null,
    "variants": [
@@ -1050,20 +1054,6 @@
     },
     {
      "ko": "램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hütter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훼터",
-     "count": 2
-    },
-    {
-     "ko": "휘터",
      "count": 1
     }
    ]
@@ -1249,15 +1239,29 @@
    ]
   },
   {
-   "en": "Jonas De Roeck",
+   "en": "Julián",
    "dictionary": null,
    "variants": [
     {
-     "ko": "욘 드 로크",
+     "ko": "훌리안",
      "count": 2
     },
     {
-     "ko": "조나스 데 뢰크",
+     "ko": "훌리안 알바레스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레이시",
+     "count": 2
+    },
+    {
+     "ko": "라시",
      "count": 1
     }
    ]
@@ -1297,8 +1301,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 633,
-   "llm": 633
+   "collected": 677,
+   "llm": 677
   }
  },
  "llmErrors": []
