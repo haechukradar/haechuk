@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T12:59:00.279Z",
+ "updatedAt": "2026-11-07T13:47:45.011Z",
  "hot": [
   "leeds-tottenham-2026-11-07",
-  "osimhen-injury",
-  "de-miguel-incident",
   "malaga-racing-santander-2026-11-08",
-  "dedic-incident"
+  "mainz-bayern-2026-11-07",
+  "dortmund-elversberg-2026-11-07",
+  "osimhen-injury"
  ],
  "days": [
   "2026-10-18",
@@ -31,7 +31,7 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -43,7 +43,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,31 +79,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 3,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -121,7 +121,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -133,19 +133,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -157,13 +157,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 25,
-   "added": 2,
+   "items": 24,
+   "added": 4,
    "authorRate": 92
   },
   "star": {
@@ -175,13 +175,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -308,8 +308,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
-  "singleArticleRate": 42,
+  "recentIssues": 227,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -317,7 +317,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 38
+    "count": 37
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
@@ -496,7 +496,7 @@
     },
     {
      "ko": "J.J. 가브리엘",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "제이제이 가브리엘",
@@ -537,6 +537,24 @@
    ]
   },
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Haaland",
    "dictionary": null,
    "variants": [
@@ -555,20 +573,16 @@
    ]
   },
   {
-   "en": "Marco Silva",
+   "en": "Karetsas",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르쿠 실바",
+     "ko": "카레타스",
+     "count": 5
+    },
+    {
+     "ko": "카레차스",
      "count": 4
-    },
-    {
-     "ko": "마르코 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 2
     }
    ]
   },
@@ -605,20 +619,6 @@
     {
      "ko": "퀼뤼겔",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Karetsas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카레타스",
-     "count": 4
-    },
-    {
-     "ko": "카레차스",
-     "count": 4
     }
    ]
   },
@@ -1301,8 +1301,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 677,
-   "llm": 677
+   "collected": 717,
+   "llm": 717
   }
  },
  "llmErrors": []
