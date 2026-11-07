@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T15:17:37.935Z",
+ "updatedAt": "2026-11-07T16:04:47.818Z",
  "hot": [
   "leeds-tottenham-2026-11-07",
   "arsenal-hull-2026-11-07",
@@ -32,13 +32,13 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
@@ -67,8 +67,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 12,
+   "items": 50,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,7 +80,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
@@ -92,13 +92,13 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -128,13 +128,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -164,44 +164,36 @@
   "sun": {
    "ok": true,
    "items": 16,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 8,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 64
+   "count": 34
   },
   {
    "name": "오워노",
-   "count": 31
-  },
-  {
-   "name": "그릴리시",
-   "count": 20
-  },
-  {
-   "name": "데 미겔",
-   "count": 17
+   "count": 25
   },
   {
    "name": "JJ 가브리엘",
@@ -209,30 +201,22 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 15
+   "count": 13
+  },
+  {
+   "name": "그릴리시",
+   "count": 13
   },
   {
    "name": "노이어",
-   "count": 10
+   "count": 11
   },
   {
    "name": "조브 벨링엄",
    "count": 10
   },
   {
-   "name": "헤수스 오워노",
-   "count": 9
-  },
-  {
-   "name": "리산드로 마르티네스",
-   "count": 9
-  },
-  {
-   "name": "맥스 다우먼",
-   "count": 9
-  },
-  {
-   "name": "티에르노 배리",
+   "name": "데 미겔",
    "count": 9
   },
   {
@@ -240,23 +224,23 @@
    "count": 9
   },
   {
-   "name": "그라벤베르흐",
-   "count": 8
-  },
-  {
-   "name": "웨인 루니",
-   "count": 8
-  },
-  {
    "name": "바레바",
    "count": 8
   },
   {
-   "name": "트레이 뇨니",
+   "name": "J.J. 가브리엘",
    "count": 7
   },
   {
-   "name": "J.J. 가브리엘",
+   "name": "웨인 루니",
+   "count": 7
+  },
+  {
+   "name": "헤수스 오워노",
+   "count": 7
+  },
+  {
+   "name": "맥스 다우먼",
    "count": 7
   },
   {
@@ -264,11 +248,11 @@
    "count": 7
   },
   {
-   "name": "아이트누리",
+   "name": "카마빙가",
    "count": 6
   },
   {
-   "name": "카마빙가",
+   "name": "트레이 뇨니",
    "count": 6
   },
   {
@@ -288,33 +272,49 @@
    "count": 6
   },
   {
+   "name": "보글",
+   "count": 6
+  },
+  {
    "name": "이타쿠라",
    "count": 6
   },
   {
-   "name": "누노 보르게스",
-   "count": 5
-  },
-  {
-   "name": "데이비드 베컴",
-   "count": 5
-  },
-  {
-   "name": "해밀턴",
-   "count": 5
-  },
-  {
    "name": "달롯",
+   "count": 5
+  },
+  {
+   "name": "아이트누리",
+   "count": 5
+  },
+  {
+   "name": "발로군",
+   "count": 5
+  },
+  {
+   "name": "니코 파스",
+   "count": 5
+  },
+  {
+   "name": "카레타스",
+   "count": 5
+  },
+  {
+   "name": "트레솔디",
+   "count": 5
+  },
+  {
+   "name": "바르콜라",
    "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
-  "singleArticleRate": 40,
+  "recentIssues": 227,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 71
+    "count": 70
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -333,11 +333,11 @@
     "count": 23
    },
    {
-    "slug": "lens-como-2026-11-04",
-    "count": 19
+    "slug": "leeds-tottenham-2026-11-07",
+    "count": 18
    },
    {
-    "slug": "leeds-tottenham-2026-11-07",
+    "slug": "lens-como-2026-11-04",
     "count": 18
    },
    {
@@ -435,7 +435,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 6
+     "count": 5
     },
     {
      "ko": "자이슬",
@@ -474,24 +474,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 11
-    },
-    {
-     "ko": "제이제이 가브리엘",
-     "count": 2
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
@@ -523,6 +505,24 @@
     },
     {
      "ko": "마르코 시우바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 9
+    },
+    {
+     "ko": "제이제이 가브리엘",
+     "count": 2
+    },
+    {
+     "ko": "J.J. 가브리엘",
      "count": 1
     }
    ]
@@ -760,6 +760,24 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "듀스버리홀",
+     "count": 4
+    },
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디어넌 데뷔홀",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jobe",
    "dictionary": null,
    "variants": [
@@ -849,24 +867,6 @@
     },
     {
      "ko": "야닉 카뷔작",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "듀스버리홀",
-     "count": 3
-    },
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디어넌 데뷔홀",
      "count": 1
     }
    ]
@@ -1074,24 +1074,6 @@
    ]
   },
   {
-   "en": "Mathys Tel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마티스 텔",
-     "count": 2
-    },
-    {
-     "ko": "매티스 텔",
-     "count": 1
-    },
-    {
-     "ko": "텔",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sean Neave",
    "dictionary": null,
    "variants": [
@@ -1266,6 +1248,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 2
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1306,8 +1302,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 62,
-   "llm": 62
+   "collected": 95,
+   "llm": 95
   }
  },
  "llmErrors": []
