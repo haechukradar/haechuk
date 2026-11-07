@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T23:21:01.770Z",
+ "updatedAt": "2026-11-07T00:00:05.335Z",
  "hot": [
   "everton-coventry-2026-11-06",
-  "carrick-manager-future",
   "toulouse-strasbourg-2026-11-06",
-  "de-miguel-incident",
-  "gladbach-hamburger-2026-11-07"
+  "dewsbury-hall-everton-relationship",
+  "carrick-manager-future",
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -31,7 +31,7 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
@@ -43,7 +43,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -55,7 +55,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 17,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,13 +79,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 3,
    "authorRate": 88
   },
   "fblondon": {
@@ -103,7 +103,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -127,13 +127,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -163,7 +163,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 4,
+   "added": 0,
    "authorRate": 96
   },
   "star": {
@@ -175,12 +175,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -235,16 +235,16 @@
    "count": 8
   },
   {
+   "name": "티에르노 배리",
+   "count": 8
+  },
+  {
    "name": "프레스티아니",
    "count": 8
   },
   {
    "name": "바레바",
    "count": 8
-  },
-  {
-   "name": "티에르노 배리",
-   "count": 7
   },
   {
    "name": "트레이 뇨니",
@@ -303,17 +303,17 @@
    "count": 5
   },
   {
-   "name": "티에르노 바리",
+   "name": "이타쿠라",
    "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 240,
-  "singleArticleRate": 43,
+  "recentIssues": 238,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 87
+    "count": 86
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -329,7 +329,7 @@
    },
    {
     "slug": "man-utd-roma-2026-11-03",
-    "count": 28
+    "count": 25
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -366,6 +366,10 @@
    {
     "slug": "leverkusen-marseille-2026-11-04",
     "count": 16
+   },
+   {
+    "slug": "everton-coventry-2026-11-06",
+    "count": 15
    },
    {
     "slug": "arsenal-slavia-praha-2026-11-03",
@@ -425,6 +429,24 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 19
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    },
+    {
+     "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
@@ -435,24 +457,6 @@
     {
      "ko": "J.J. 가브리엘",
      "count": 7
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 18
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    },
-    {
-     "ko": "조제 무리뉴",
-     "count": 1
     }
    ]
   },
@@ -532,7 +536,7 @@
     },
     {
      "ko": "엘링 홀란",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "홀란드",
@@ -703,6 +707,20 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 4
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "João Moutinho",
    "dictionary": null,
    "variants": [
@@ -771,20 +789,6 @@
     {
      "ko": "조브",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 3
-    },
-    {
-     "ko": "티에르노 배리",
-     "count": 3
     }
    ]
   },
@@ -1045,6 +1049,20 @@
    ]
   },
   {
+   "en": "Lampard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "램파드",
+     "count": 3
+    },
+    {
+     "ko": "램퍼드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hütter",
    "dictionary": null,
    "variants": [
@@ -1147,6 +1165,24 @@
    ]
   },
   {
+   "en": "Funes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "후네스",
+     "count": 1
+    },
+    {
+     "ko": "푼스",
+     "count": 1
+    },
+    {
+     "ko": "푸네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
@@ -1237,38 +1273,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Danks",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "당크스",
-     "count": 2
-    },
-    {
-     "ko": "당스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Frank Lampard",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프랭크 램파드",
-     "count": 1
-    },
-    {
-     "ko": "프랭크 램퍼드",
-     "count": 1
-    },
-    {
-     "ko": "램파드",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1305,8 +1309,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 371,
-   "llm": 371
+   "collected": 411,
+   "llm": 411
   }
  },
  "llmErrors": []
