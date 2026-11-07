@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T21:28:01.276Z",
+ "updatedAt": "2026-11-07T22:07:51.425Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
   "arsenal-hull-2026-11-07",
+  "de-miguel-incident",
   "psg-troyes-2026-11-08",
-  "valencia-real-madrid-2026-11-06",
-  "mainz-bayern-2026-11-07"
+  "valencia-real-madrid-2026-11-06"
  ],
  "days": [
   "2026-10-18",
@@ -31,14 +31,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 58,
-   "added": 2,
+   "items": 61,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 60,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,19 +80,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 3,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "men": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -181,7 +181,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 6,
    "added": 0,
    "authorRate": 0
   }
@@ -189,7 +189,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 37
+   "count": 38
   },
   {
    "name": "오워노",
@@ -309,16 +309,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
-  "singleArticleRate": 39,
+  "recentIssues": 215,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 64
+    "count": 65
    },
    {
     "slug": "kane-contract",
     "count": 30
+   },
+   {
+    "slug": "nottingham-forest-man-city-2026-11-05",
+    "count": 28
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
@@ -330,23 +334,19 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 28
-   },
-   {
-    "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 27
+    "count": 26
    },
    {
     "slug": "jesus-ronaldo-relationship",
     "count": 23
    },
    {
-    "slug": "grealish-discipline",
+    "slug": "valencia-real-madrid-2026-11-06",
     "count": 18
    },
    {
-    "slug": "lens-como-2026-11-04",
-    "count": 16
+    "slug": "grealish-discipline",
+    "count": 18
    },
    {
     "slug": "newcastle-manager-future",
@@ -539,29 +539,11 @@
    "variants": [
     {
      "ko": "카레타스",
-     "count": 6
+     "count": 5
     },
     {
      "ko": "카레차스",
      "count": 4
-    }
-   ]
-  },
-  {
-   "en": "Haaland",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "홀란",
-     "count": 5
-    },
-    {
-     "ko": "엘링 홀란",
-     "count": 4
-    },
-    {
-     "ko": "홀란드",
-     "count": 1
     }
    ]
   },
@@ -602,6 +584,24 @@
    ]
   },
   {
+   "en": "Haaland",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엘링 홀란",
+     "count": 4
+    },
+    {
+     "ko": "홀란",
+     "count": 3
+    },
+    {
+     "ko": "홀란드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -619,32 +619,6 @@
     },
     {
      "ko": "잡 벨링엄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도나룸마",
-     "count": 2
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 2
-    },
-    {
-     "ko": "지안루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 도나룸마",
      "count": 1
     }
    ]
@@ -668,6 +642,20 @@
     {
      "ko": "키어냔 듀스버리홀",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델랍",
+     "count": 5
+    },
+    {
+     "ko": "딜랍",
+     "count": 2
     }
    ]
   },
@@ -697,6 +685,32 @@
     },
     {
      "ko": "카위작",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "돈나룸마",
+     "count": 2
+    },
+    {
+     "ko": "도나룸마",
+     "count": 1
+    },
+    {
+     "ko": "지안루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 도나룸마",
      "count": 1
     }
    ]
@@ -796,20 +810,6 @@
     {
      "ko": "마크 반 보멜",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Delap",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "델랍",
-     "count": 4
-    },
-    {
-     "ko": "딜랍",
-     "count": 2
     }
    ]
   },
@@ -978,6 +978,20 @@
    ]
   },
   {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 2
+    },
+    {
+     "ko": "브루노 제네시오",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Danks",
    "dictionary": null,
    "variants": [
@@ -1122,34 +1136,6 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브뤼노 주네시오",
-     "count": 2
-    },
-    {
-     "ko": "브루노 제네시오",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Cesc",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세스크",
-     "count": 2
-    },
-    {
-     "ko": "세스크 파브레가스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mary Earps",
    "dictionary": null,
    "variants": [
@@ -1238,6 +1224,20 @@
    ]
   },
   {
+   "en": "Glasner",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "글래스너",
+     "count": 2
+    },
+    {
+     "ko": "글라스너",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jaissle",
    "dictionary": null,
    "variants": [
@@ -1290,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 438,
-   "llm": 438
+   "collected": 465,
+   "llm": 465
   }
  },
  "llmErrors": []
