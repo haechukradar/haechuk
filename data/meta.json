@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T20:14:46.666Z",
+ "updatedAt": "2026-11-07T20:54:18.734Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
   "arsenal-hull-2026-11-07",
   "psg-troyes-2026-11-08",
-  "mainz-bayern-2026-11-07",
-  "leeds-tottenham-2026-11-07"
+  "valencia-real-madrid-2026-11-06",
+  "mainz-bayern-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -32,12 +32,12 @@
   "bbc": {
    "ok": true,
    "items": 58,
-   "added": 6,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
+   "items": 60,
    "added": 1,
    "authorRate": 95
   },
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,13 +80,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 3,
    "authorRate": 94
   },
   "fblondon": {
@@ -98,7 +98,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -110,7 +110,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -164,7 +164,7 @@
   "sun": {
    "ok": true,
    "items": 19,
-   "added": 2,
+   "added": 1,
    "authorRate": 95
   },
   "star": {
@@ -212,15 +212,15 @@
    "count": 13
   },
   {
+   "name": "프레스티아니",
+   "count": 10
+  },
+  {
    "name": "조브 벨링엄",
    "count": 10
   },
   {
    "name": "데 미겔",
-   "count": 9
-  },
-  {
-   "name": "프레스티아니",
    "count": 9
   },
   {
@@ -309,7 +309,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
+  "recentIssues": 219,
   "singleArticleRate": 41,
   "broad": [
    {
@@ -318,7 +318,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 33
+    "count": 32
    },
    {
     "slug": "kane-contract",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 25
+    "count": 26
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -650,32 +650,6 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마크 반 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마르크 반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 보멜",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kiernan Dewsbury-Hall",
    "dictionary": null,
    "variants": [
@@ -795,6 +769,32 @@
     },
     {
      "ko": "조브",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마크 반 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마르크 반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 보멜",
      "count": 1
     }
    ]
@@ -978,24 +978,6 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브뤼노 주네시오",
-     "count": 2
-    },
-    {
-     "ko": "브뤼노 제네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 제네시오",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Danks",
    "dictionary": null,
    "variants": [
@@ -1024,6 +1006,20 @@
     {
      "ko": "페드루 프로엔사",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 3
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 1
     }
    ]
   },
@@ -1098,24 +1094,6 @@
    ]
   },
   {
-   "en": "Mason Greenwood",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "그린우드",
-     "count": 1
-    },
-    {
-     "ko": "메이슨 그린우드",
-     "count": 1
-    },
-    {
-     "ko": "그리너우드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
@@ -1125,6 +1103,20 @@
     },
     {
      "ko": "굴리엘무 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 2
+    },
+    {
+     "ko": "브루노 제네시오",
      "count": 1
     }
    ]
@@ -1144,24 +1136,6 @@
    ]
   },
   {
-   "en": "Carlos Forbs",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포브스",
-     "count": 1
-    },
-    {
-     "ko": "카를로스 포브스",
-     "count": 1
-    },
-    {
-     "ko": "카를로스 포르브스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jan Virgili",
    "dictionary": null,
    "variants": [
@@ -1171,20 +1145,6 @@
     },
     {
      "ko": "얀 비르골리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Franclim Carvalho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프랑클림 카르발류",
-     "count": 2
-    },
-    {
-     "ko": "프랭클림 카르발류",
      "count": 1
     }
    ]
@@ -1232,20 +1192,6 @@
    ]
   },
   {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 2
-    },
-    {
-     "ko": "훌리안 알바레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Karl",
    "dictionary": null,
    "variants": [
@@ -1255,6 +1201,52 @@
     },
     {
      "ko": "카를",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레이시",
+     "count": 2
+    },
+    {
+     "ko": "라시",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jonas De Roeck",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "욘 드 로크",
+     "count": 2
+    },
+    {
+     "ko": "조나스 데 뢰크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Enzo Barrenechea",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엔조 바레네체아",
+     "count": 1
+    },
+    {
+     "ko": "엔소 바헤네체아",
+     "count": 1
+    },
+    {
+     "ko": "엔초 바레네체아",
      "count": 1
     }
    ]
@@ -1298,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 380,
-   "llm": 380
+   "collected": 417,
+   "llm": 417
   }
  },
  "llmErrors": []
