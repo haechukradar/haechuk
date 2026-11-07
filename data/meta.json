@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T16:04:47.818Z",
+ "updatedAt": "2026-11-07T16:48:52.264Z",
  "hot": [
   "leeds-tottenham-2026-11-07",
-  "arsenal-hull-2026-11-07",
+  "nottingham-forest-man-city-2026-11-05",
   "mainz-bayern-2026-11-07",
-  "dortmund-elversberg-2026-11-07",
-  "ullrich-injury"
+  "arsenal-hull-2026-11-07",
+  "dortmund-elversberg-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -32,7 +32,7 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -67,8 +67,8 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 3,
+   "items": 51,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,25 +80,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 88
+   "added": 3,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -110,7 +110,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 85
   },
   "waz": {
@@ -122,7 +122,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,13 +146,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -164,19 +164,19 @@
   "sun": {
    "ok": true,
    "items": 16,
-   "added": 4,
-   "authorRate": 100
+   "added": 2,
+   "authorRate": 94
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -189,7 +189,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 34
+   "count": 35
   },
   {
    "name": "오워노",
@@ -209,7 +209,7 @@
   },
   {
    "name": "노이어",
-   "count": 11
+   "count": 13
   },
   {
    "name": "조브 벨링엄",
@@ -248,6 +248,10 @@
    "count": 7
   },
   {
+   "name": "보글",
+   "count": 7
+  },
+  {
    "name": "카마빙가",
    "count": 6
   },
@@ -269,10 +273,6 @@
   },
   {
    "name": "데디치",
-   "count": 6
-  },
-  {
-   "name": "보글",
    "count": 6
   },
   {
@@ -309,24 +309,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 227,
-  "singleArticleRate": 41,
+  "recentIssues": 230,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 70
+    "count": 66
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 36
-   },
-   {
-    "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 31
+    "count": 35
    },
    {
     "slug": "kane-contract",
     "count": 30
+   },
+   {
+    "slug": "liverpool-fenerbahce-2026-11-03",
+    "count": 28
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
-    "count": 18
+    "count": 20
    },
    {
     "slug": "lens-como-2026-11-04",
@@ -358,10 +358,6 @@
    },
    {
     "slug": "everton-coventry-2026-11-06",
-    "count": 15
-   },
-   {
-    "slug": "leverkusen-marseille-2026-11-04",
     "count": 15
    },
    {
@@ -596,24 +592,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 5
-    },
-    {
-     "ko": "퀼로루크",
-     "count": 2
-    },
-    {
-     "ko": "퀼뤼겔",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -649,6 +627,24 @@
     },
     {
      "ko": "잡 벨링엄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 4
+    },
+    {
+     "ko": "퀼로루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼겔",
      "count": 1
     }
    ]
@@ -964,6 +960,24 @@
    ]
   },
   {
+   "en": "Funes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "푸네스",
+     "count": 2
+    },
+    {
+     "ko": "후네스",
+     "count": 1
+    },
+    {
+     "ko": "푼스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Emi Martinez",
    "dictionary": null,
    "variants": [
@@ -1088,15 +1102,15 @@
    ]
   },
   {
-   "en": "Folarin Balogun",
+   "en": "Ricardo Silva",
    "dictionary": null,
    "variants": [
     {
-     "ko": "발로군",
+     "ko": "리카르도 실바",
      "count": 2
     },
     {
-     "ko": "발룬",
+     "ko": "리카르두 실바",
      "count": 1
     }
    ]
@@ -1125,24 +1139,6 @@
     },
     {
      "ko": "풀크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Funes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "후네스",
-     "count": 1
-    },
-    {
-     "ko": "푼스",
-     "count": 1
-    },
-    {
-     "ko": "푸네스",
      "count": 1
     }
    ]
@@ -1302,8 +1298,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 95,
-   "llm": 95
+   "collected": 144,
+   "llm": 144
   }
  },
  "llmErrors": []
