@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T18:54:00.646Z",
+ "updatedAt": "2026-11-07T19:33:56.149Z",
  "hot": [
   "arsenal-hull-2026-11-07",
-  "leeds-tottenham-2026-11-07",
   "nottingham-forest-man-city-2026-11-05",
-  "fulham-newcastle-2026-11-08",
-  "mainz-bayern-2026-11-07"
+  "mainz-bayern-2026-11-07",
+  "leeds-tottenham-2026-11-07",
+  "fulham-newcastle-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 57,
-   "added": 10,
+   "items": 56,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 60,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,13 +80,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 4,
    "authorRate": 92
   },
   "fblondon": {
@@ -104,7 +104,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 16,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -163,8 +163,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 20,
-   "added": 1,
+   "items": 19,
+   "added": 4,
    "authorRate": 95
   },
   "star": {
@@ -176,13 +176,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 4,
+   "items": 11,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -205,7 +205,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 13
+   "count": 14
   },
   {
    "name": "그릴리시",
@@ -292,6 +292,10 @@
    "count": 5
   },
   {
+   "name": "마티스 텔",
+   "count": 5
+  },
+  {
    "name": "니코 파스",
    "count": 5
   },
@@ -302,15 +306,11 @@
   {
    "name": "트레솔디",
    "count": 5
-  },
-  {
-   "name": "바르콜라",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
-  "singleArticleRate": 42,
+  "recentIssues": 220,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -326,11 +326,11 @@
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "arsenal-hull-2026-11-07",
-    "count": 23
+    "count": 25
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -341,20 +341,20 @@
     "count": 23
    },
    {
-    "slug": "lens-como-2026-11-04",
+    "slug": "grealish-discipline",
     "count": 18
    },
    {
-    "slug": "grealish-discipline",
+    "slug": "nottingham-forest-man-city-2026-11-05",
+    "count": 17
+   },
+   {
+    "slug": "lens-como-2026-11-04",
     "count": 17
    },
    {
     "slug": "newcastle-manager-future",
-    "count": 16
-   },
-   {
-    "slug": "man-utd-affairs-ownership",
-    "count": 16
+    "count": 15
    },
    {
     "slug": "everton-coventry-2026-11-06",
@@ -1152,24 +1152,6 @@
    ]
   },
   {
-   "en": "Thorgan Hazard",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토르간 하자드",
-     "count": 1
-    },
-    {
-     "ko": "토르간 아자르",
-     "count": 1
-    },
-    {
-     "ko": "타종 하자드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jan Virgili",
    "dictionary": null,
    "variants": [
@@ -1266,6 +1248,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jonas De Roeck",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "욘 드 로크",
+     "count": 2
+    },
+    {
+     "ko": "조나스 데 뢰크",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1306,8 +1302,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 303,
-   "llm": 303
+   "collected": 339,
+   "llm": 339
   }
  },
  "llmErrors": []
