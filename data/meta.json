@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T13:47:45.011Z",
+ "updatedAt": "2026-11-07T14:33:58.961Z",
  "hot": [
   "leeds-tottenham-2026-11-07",
   "malaga-racing-santander-2026-11-08",
+  "arsenal-hull-2026-11-07",
   "mainz-bayern-2026-11-07",
-  "dortmund-elversberg-2026-11-07",
-  "osimhen-injury"
+  "atletico-barcelona-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -30,20 +30,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 0,
+   "items": 76,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -55,7 +55,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,7 +79,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
@@ -91,7 +91,7 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 96
   },
   "men": {
@@ -133,7 +133,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,7 +145,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -157,31 +157,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 24,
+   "items": 22,
    "added": 4,
-   "authorRate": 92
+   "authorRate": 95
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 4,
+   "items": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -203,11 +203,11 @@
    "count": 16
   },
   {
-   "name": "잭 그릴리시",
-   "count": 15
+   "name": "JJ 가브리엘",
+   "count": 16
   },
   {
-   "name": "JJ 가브리엘",
+   "name": "잭 그릴리시",
    "count": 15
   },
   {
@@ -267,6 +267,10 @@
    "count": 6
   },
   {
+   "name": "콘사",
+   "count": 6
+  },
+  {
    "name": "노이어",
    "count": 6
   },
@@ -299,16 +303,12 @@
    "count": 5
   },
   {
-   "name": "콘사",
-   "count": 5
-  },
-  {
    "name": "발로군",
    "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 227,
+  "recentIssues": 225,
   "singleArticleRate": 41,
   "broad": [
    {
@@ -317,11 +317,11 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 37
+    "count": 36
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 33
+    "count": 32
    },
    {
     "slug": "kane-contract",
@@ -332,6 +332,10 @@
     "count": 23
    },
    {
+    "slug": "lens-como-2026-11-04",
+    "count": 19
+   },
+   {
     "slug": "man-utd-affairs-ownership",
     "count": 18
    },
@@ -340,20 +344,12 @@
     "count": 18
    },
    {
-    "slug": "lens-como-2026-11-04",
-    "count": 18
-   },
-   {
     "slug": "real-madrid-aek-athens-2026-11-03",
     "count": 17
    },
    {
-    "slug": "leipzig-man-city-2026-11-04",
-    "count": 16
-   },
-   {
     "slug": "newcastle-manager-future",
-    "count": 15
+    "count": 16
    },
    {
     "slug": "everton-coventry-2026-11-06",
@@ -361,6 +357,10 @@
    },
    {
     "slug": "leverkusen-marseille-2026-11-04",
+    "count": 15
+   },
+   {
+    "slug": "leipzig-man-city-2026-11-04",
     "count": 15
    }
   ]
@@ -430,7 +430,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "자이슬",
@@ -492,11 +492,11 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "J.J. 가브리엘",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "제이제이 가브리엘",
@@ -537,20 +537,16 @@
    ]
   },
   {
-   "en": "Marco Silva",
+   "en": "Karetsas",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르쿠 실바",
-     "count": 4
+     "ko": "카레타스",
+     "count": 6
     },
     {
-     "ko": "마르코 실바",
+     "ko": "카레차스",
      "count": 4
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 2
     }
    ]
   },
@@ -573,16 +569,20 @@
    ]
   },
   {
-   "en": "Karetsas",
+   "en": "Marco Silva",
    "dictionary": null,
    "variants": [
     {
-     "ko": "카레타스",
-     "count": 5
+     "ko": "마르쿠 실바",
+     "count": 4
     },
     {
-     "ko": "카레차스",
+     "ko": "마르코 실바",
      "count": 4
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 2
     }
    ]
   },
@@ -755,16 +755,24 @@
    ]
   },
   {
-   "en": "Shea Lacey",
+   "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
     {
-     "ko": "쉐이 레이시",
-     "count": 3
+     "ko": "루카 윌리엄스-반렛",
+     "count": 2
     },
     {
-     "ko": "셰이 레이시",
-     "count": 3
+     "ko": "루카 윌리엄스바넷",
+     "count": 2
+    },
+    {
+     "ko": "윌리엄스-바닛",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-바닛",
+     "count": 1
     }
    ]
   },
@@ -815,6 +823,20 @@
     {
      "ko": "카미네스키",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "쉐이 레이시",
+     "count": 2
     }
    ]
   },
@@ -876,28 +898,6 @@
     },
     {
      "ko": "야닉 카뷔작",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스-반렛",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄스-바닛",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스-바닛",
      "count": 1
     }
    ]
@@ -1008,6 +1008,24 @@
     },
     {
      "ko": "에밀리아노 마르티네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 2
+    },
+    {
+     "ko": "브뤼노 제네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 제네시오",
      "count": 1
     }
    ]
@@ -1133,24 +1151,6 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브뤼노 주네시오",
-     "count": 1
-    },
-    {
-     "ko": "브뤼노 제네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 제네시오",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Cesc",
    "dictionary": null,
    "variants": [
@@ -1225,6 +1225,20 @@
    ]
   },
   {
+   "en": "Konsa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콘사",
+     "count": 2
+    },
+    {
+     "ko": "코나",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nuno Campos",
    "dictionary": null,
    "variants": [
@@ -1248,20 +1262,6 @@
     },
     {
      "ko": "훌리안 알바레스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레이시",
-     "count": 2
-    },
-    {
-     "ko": "라시",
      "count": 1
     }
    ]
@@ -1301,8 +1301,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 717,
-   "llm": 717
+   "collected": 754,
+   "llm": 754
   }
  },
  "llmErrors": []
