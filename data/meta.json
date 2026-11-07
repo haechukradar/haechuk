@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T18:00:34.980Z",
+ "updatedAt": "2026-11-07T18:54:00.646Z",
  "hot": [
   "arsenal-hull-2026-11-07",
   "leeds-tottenham-2026-11-07",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 59,
-   "added": 2,
+   "items": 57,
+   "added": 10,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 60,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 10,
    "authorRate": 0
   },
   "espn": {
@@ -56,7 +56,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,19 +80,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 14,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 90
+   "added": 6,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 96
   },
   "men": {
@@ -104,7 +104,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 16,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -163,8 +163,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 19,
-   "added": 2,
+   "items": 20,
+   "added": 1,
    "authorRate": 95
   },
   "star": {
@@ -181,8 +181,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 0,
+   "items": 10,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -197,7 +197,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 16
+   "count": 17
   },
   {
    "name": "노이어",
@@ -228,6 +228,10 @@
    "count": 8
   },
   {
+   "name": "보글",
+   "count": 8
+  },
+  {
    "name": "J.J. 가브리엘",
    "count": 7
   },
@@ -245,10 +249,6 @@
   },
   {
    "name": "조엘 페레이라",
-   "count": 7
-  },
-  {
-   "name": "보글",
    "count": 7
   },
   {
@@ -309,12 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 41,
+  "recentIssues": 222,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 65
+    "count": 63
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -325,20 +325,20 @@
     "count": 30
    },
    {
-    "slug": "liverpool-fenerbahce-2026-11-03",
+    "slug": "leeds-tottenham-2026-11-07",
     "count": 26
    },
    {
-    "slug": "leeds-tottenham-2026-11-07",
-    "count": 25
+    "slug": "arsenal-hull-2026-11-07",
+    "count": 23
    },
    {
     "slug": "jesus-ronaldo-relationship",
     "count": 23
    },
    {
-    "slug": "arsenal-hull-2026-11-07",
-    "count": 21
+    "slug": "liverpool-fenerbahce-2026-11-03",
+    "count": 23
    },
    {
     "slug": "lens-como-2026-11-04",
@@ -427,7 +427,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 14
+     "count": 15
     },
     {
      "ko": "마티아스 야이슬레",
@@ -470,6 +470,24 @@
    ]
   },
   {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 10
+    },
+    {
+     "ko": "제이제이 가브리엘",
+     "count": 2
+    },
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
@@ -501,24 +519,6 @@
     },
     {
      "ko": "마르코 시우바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 9
-    },
-    {
-     "ko": "제이제이 가브리엘",
-     "count": 2
-    },
-    {
-     "ko": "J.J. 가브리엘",
      "count": 1
     }
    ]
@@ -908,20 +908,6 @@
    ]
   },
   {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 3
-    },
-    {
-     "ko": "클로프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -932,24 +918,6 @@
     {
      "ko": "비토르 브루누",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Mason Greenwood",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "그린우드",
-     "count": 2
-    },
-    {
-     "ko": "메이슨 그린우드",
-     "count": 1
-    },
-    {
-     "ko": "그리너우드",
-     "count": 1
     }
    ]
   },
@@ -1110,19 +1078,15 @@
    ]
   },
   {
-   "en": "Kaminski",
+   "en": "Arthur Vermeeren",
    "dictionary": null,
    "variants": [
     {
-     "ko": "카미네스키",
-     "count": 1
+     "ko": "아르튀르 페르메렌",
+     "count": 2
     },
     {
-     "ko": "카미스키",
-     "count": 1
-    },
-    {
-     "ko": "카미NSKI",
+     "ko": "아르튀르 베르메렌",
      "count": 1
     }
    ]
@@ -1137,6 +1101,24 @@
     },
     {
      "ko": "타시마 고조",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mason Greenwood",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "그린우드",
+     "count": 1
+    },
+    {
+     "ko": "메이슨 그린우드",
+     "count": 1
+    },
+    {
+     "ko": "그리너우드",
      "count": 1
     }
    ]
@@ -1270,6 +1252,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레이시",
+     "count": 2
+    },
+    {
+     "ko": "라시",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1310,8 +1306,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 233,
-   "llm": 233
+   "collected": 303,
+   "llm": 303
   }
  },
  "llmErrors": []
