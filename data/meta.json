@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T05:16:00.185Z",
+ "updatedAt": "2026-11-07T06:12:39.498Z",
  "hot": [
   "everton-coventry-2026-11-06",
   "dewsbury-hall-everton-relationship",
   "carrick-manager-future",
-  "chelsea-sunderland-2026-11-08",
-  "toulouse-strasbourg-2026-11-06"
+  "newcastle-manager-future",
+  "chelsea-sunderland-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -43,7 +43,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +61,7 @@
   "marca": {
    "ok": true,
    "items": 49,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "as": {
@@ -85,19 +85,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 88
+   "added": 2,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -133,7 +133,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,13 +145,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -163,13 +163,13 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -308,7 +308,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 237,
+  "recentIssues": 235,
   "singleArticleRate": 43,
   "broad": [
    {
@@ -337,7 +337,7 @@
    },
    {
     "slug": "man-utd-affairs-ownership",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "real-madrid-aek-athens-2026-11-03",
@@ -349,7 +349,7 @@
    },
    {
     "slug": "grealish-discipline",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "gabriel-real-madrid-transfer",
@@ -364,15 +364,15 @@
     "count": 17
    },
    {
+    "slug": "newcastle-manager-future",
+    "count": 15
+   },
+   {
     "slug": "everton-coventry-2026-11-06",
     "count": 15
    },
    {
     "slug": "leverkusen-marseille-2026-11-04",
-    "count": 15
-   },
-   {
-    "slug": "arsenal-slavia-praha-2026-11-03",
     "count": 15
    }
   ]
@@ -429,19 +429,23 @@
    ]
   },
   {
-   "en": "Mourinho",
+   "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
-     "ko": "무리뉴",
-     "count": 19
+     "ko": "야이슬레",
+     "count": 12
     },
     {
-     "ko": "모리뉴",
+     "ko": "마티아스 야이슬레",
+     "count": 7
+    },
+    {
+     "ko": "자이슬",
      "count": 1
     },
     {
-     "ko": "조제 무리뉴",
+     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -487,23 +491,19 @@
    ]
   },
   {
-   "en": "Matthias Jaissle",
+   "en": "Mourinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "야이슬레",
-     "count": 11
+     "ko": "무리뉴",
+     "count": 18
     },
     {
-     "ko": "마티아스 야이슬레",
-     "count": 7
-    },
-    {
-     "ko": "자이슬",
+     "ko": "모리뉴",
      "count": 1
     },
     {
-     "ko": "자이슬레",
+     "ko": "조제 무리뉴",
      "count": 1
     }
    ]
@@ -573,6 +573,24 @@
     {
      "ko": "스테판 보슨",
      "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 1
     }
    ]
   },
@@ -670,24 +688,6 @@
     },
     {
      "ko": "잡 벨링엄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르코 실바",
-     "count": 2
-    },
-    {
-     "ko": "마르쿠 시우바",
      "count": 1
     }
    ]
@@ -1027,6 +1027,24 @@
    ]
   },
   {
+   "en": "Frank Lampard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "램파드",
+     "count": 2
+    },
+    {
+     "ko": "프랭크 램파드",
+     "count": 1
+    },
+    {
+     "ko": "프랭크 램퍼드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Lampard",
    "dictionary": null,
    "variants": [
@@ -1251,20 +1269,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Danks",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "당크스",
-     "count": 2
-    },
-    {
-     "ko": "당스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1301,8 +1305,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 447,
-   "llm": 447
+   "collected": 465,
+   "llm": 465
   }
  },
  "llmErrors": []
