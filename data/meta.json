@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T17:26:23.138Z",
+ "updatedAt": "2026-11-07T18:00:34.980Z",
  "hot": [
   "arsenal-hull-2026-11-07",
   "leeds-tottenham-2026-11-07",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 61,
+   "items": 59,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 60,
-   "added": 3,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -56,7 +56,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,19 +80,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 96
   },
   "men": {
@@ -104,7 +104,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -163,33 +163,33 @@
   },
   "sun": {
    "ok": true,
-   "items": 17,
-   "added": 5,
-   "authorRate": 94
+   "items": 19,
+   "added": 2,
+   "authorRate": 95
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 5,
+   "items": 6,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 35
+   "count": 36
   },
   {
    "name": "오워노",
@@ -309,16 +309,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
+  "recentIssues": 225,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 64
+    "count": 65
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 35
+    "count": 34
    },
    {
     "slug": "kane-contract",
@@ -326,11 +326,11 @@
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 27
+    "count": 26
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
-    "count": 24
+    "count": 25
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -338,7 +338,7 @@
    },
    {
     "slug": "arsenal-hull-2026-11-07",
-    "count": 19
+    "count": 21
    },
    {
     "slug": "lens-como-2026-11-04",
@@ -346,7 +346,7 @@
    },
    {
     "slug": "grealish-discipline",
-    "count": 18
+    "count": 17
    },
    {
     "slug": "newcastle-manager-future",
@@ -427,7 +427,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 13
+     "count": 14
     },
     {
      "ko": "마티아스 야이슬레",
@@ -587,24 +587,6 @@
     },
     {
      "ko": "배리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 3
-    },
-    {
-     "ko": "위니스",
      "count": 1
     }
    ]
@@ -794,6 +776,24 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 3
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    },
+    {
+     "ko": "위니스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -903,24 +903,6 @@
     },
     {
      "ko": "회네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kaminski",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카미스키",
-     "count": 2
-    },
-    {
-     "ko": "카미네스키",
-     "count": 1
-    },
-    {
-     "ko": "카미NSKI",
      "count": 1
     }
    ]
@@ -1128,6 +1110,24 @@
    ]
   },
   {
+   "en": "Kaminski",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카미네스키",
+     "count": 1
+    },
+    {
+     "ko": "카미스키",
+     "count": 1
+    },
+    {
+     "ko": "카미NSKI",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kozo Tashima",
    "dictionary": null,
    "variants": [
@@ -1137,20 +1137,6 @@
     },
     {
      "ko": "타시마 고조",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Niclas Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 2
-    },
-    {
-     "ko": "풀크루크",
      "count": 1
     }
    ]
@@ -1202,15 +1188,15 @@
    ]
   },
   {
-   "en": "Jaissle",
+   "en": "Jan Virgili",
    "dictionary": null,
    "variants": [
     {
-     "ko": "야이슬레",
+     "ko": "얀 비르길리",
      "count": 2
     },
     {
-     "ko": "자이슬레",
+     "ko": "얀 비르골리",
      "count": 1
     }
    ]
@@ -1270,6 +1256,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 2
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1310,8 +1310,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 203,
-   "llm": 203
+   "collected": 233,
+   "llm": 233
   }
  },
  "llmErrors": []
