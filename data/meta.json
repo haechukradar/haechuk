@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T20:54:18.734Z",
+ "updatedAt": "2026-11-07T21:28:01.276Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
   "arsenal-hull-2026-11-07",
@@ -32,7 +32,7 @@
   "bbc": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -44,7 +44,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,25 +80,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -165,7 +165,7 @@
    "ok": true,
    "items": 19,
    "added": 1,
-   "authorRate": 95
+   "authorRate": 100
   },
   "star": {
    "ok": true,
@@ -176,20 +176,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 2,
+   "items": 10,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 36
+   "count": 37
   },
   {
    "name": "오워노",
@@ -248,6 +248,10 @@
    "count": 7
   },
   {
+   "name": "콘사",
+   "count": 7
+  },
+  {
    "name": "조엘 페레이라",
    "count": 7
   },
@@ -257,10 +261,6 @@
   },
   {
    "name": "트레이 뇨니",
-   "count": 6
-  },
-  {
-   "name": "콘사",
    "count": 6
   },
   {
@@ -309,16 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 219,
-  "singleArticleRate": 41,
+  "recentIssues": 218,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
     "count": 64
-   },
-   {
-    "slug": "fonseca-sporting-appointment",
-    "count": 32
    },
    {
     "slug": "kane-contract",
@@ -333,8 +329,12 @@
     "count": 28
    },
    {
+    "slug": "fonseca-sporting-appointment",
+    "count": 28
+   },
+   {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -584,6 +584,24 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 5
+    },
+    {
+     "ko": "퀼로루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼겔",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -601,24 +619,6 @@
     },
     {
      "ko": "잡 벨링엄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 4
-    },
-    {
-     "ko": "퀼로루크",
-     "count": 2
-    },
-    {
-     "ko": "퀼뤼겔",
      "count": 1
     }
    ]
@@ -996,6 +996,20 @@
    ]
   },
   {
+   "en": "Konsa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콘사",
+     "count": 3
+    },
+    {
+     "ko": "코나",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pedro Proença",
    "dictionary": null,
    "variants": [
@@ -1136,20 +1150,6 @@
    ]
   },
   {
-   "en": "Jan Virgili",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "얀 비르길리",
-     "count": 2
-    },
-    {
-     "ko": "얀 비르골리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mary Earps",
    "dictionary": null,
    "variants": [
@@ -1159,20 +1159,6 @@
     },
     {
      "ko": "메리 어프스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Konsa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콘사",
-     "count": 2
-    },
-    {
-     "ko": "코나",
      "count": 1
     }
    ]
@@ -1250,6 +1236,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 2
+    },
+    {
+     "ko": "자이슬레",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1290,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 417,
-   "llm": 417
+   "collected": 438,
+   "llm": 438
   }
  },
  "llmErrors": []
