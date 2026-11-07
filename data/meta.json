@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T09:54:26.114Z",
+ "updatedAt": "2026-11-07T10:33:07.478Z",
  "hot": [
   "de-miguel-incident",
   "infantino-affairs-election-challenger",
-  "everton-coventry-2026-11-06",
   "valencia-real-madrid-2026-11-06",
-  "espanyol-deportivo-2026-11-06"
+  "espanyol-deportivo-2026-11-06",
+  "everton-coventry-2026-11-06"
  ],
  "days": [
   "2026-10-18",
@@ -30,7 +30,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
+   "items": 84,
    "added": 1,
    "authorRate": 0
   },
@@ -43,7 +43,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -67,7 +67,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -79,13 +79,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 88
   },
   "fblondon": {
@@ -97,7 +97,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -109,7 +109,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -133,7 +133,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -145,7 +145,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -157,7 +157,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -175,13 +175,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 2,
+   "items": 13,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -313,15 +313,15 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 82
+    "count": 80
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 43
+    "count": 40
    },
    {
     "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 36
+    "count": 35
    },
    {
     "slug": "kane-contract",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "man-utd-affairs-ownership",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "grealish-discipline",
@@ -352,23 +352,11 @@
     "count": 16
    },
    {
-    "slug": "newcastle-manager-future",
-    "count": 15
-   },
-   {
     "slug": "everton-coventry-2026-11-06",
     "count": 15
    },
    {
-    "slug": "gabriel-real-madrid-transfer",
-    "count": 15
-   },
-   {
     "slug": "leverkusen-marseille-2026-11-04",
-    "count": 15
-   },
-   {
-    "slug": "man-utd-roma-2026-11-03",
     "count": 15
    }
   ]
@@ -421,27 +409,9 @@
     {
      "ko": "조르지 제수스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 13
     },
     {
-     "ko": "마티아스 야이슬레",
-     "count": 6
-    },
-    {
-     "ko": "자이슬",
-     "count": 1
-    },
-    {
-     "ko": "자이슬레",
+     "ko": "조르즈 주앙",
      "count": 1
     }
    ]
@@ -460,6 +430,28 @@
     },
     {
      "ko": "조제 무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 13
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 5
+    },
+    {
+     "ko": "자이슬",
+     "count": 1
+    },
+    {
+     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -496,11 +488,25 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 12
+     "count": 11
     },
     {
      "ko": "J.J. 가브리엘",
-     "count": 7
+     "count": 5
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 8
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 5
     }
    ]
   },
@@ -519,20 +525,6 @@
     {
      "ko": "토헬",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 6
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 5
     }
    ]
   },
@@ -578,7 +570,7 @@
    "variants": [
     {
      "ko": "트레이 뇨니",
-     "count": 6
+     "count": 5
     },
     {
      "ko": "뇨니",
@@ -895,20 +887,6 @@
    ]
   },
   {
-   "en": "João Moutinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주앙 무티뉴",
-     "count": 3
-    },
-    {
-     "ko": "주앙 모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -1055,6 +1033,20 @@
     {
      "ko": "프랭크 램퍼드",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Proença",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드루 프루엔사",
+     "count": 2
+    },
+    {
+     "ko": "페드루 프로엔사",
+     "count": 2
     }
    ]
   },
@@ -1305,8 +1297,8 @@
    "llm": 902
   },
   "2026-11-07": {
-   "collected": 564,
-   "llm": 564
+   "collected": 581,
+   "llm": 581
   }
  },
  "llmErrors": []
