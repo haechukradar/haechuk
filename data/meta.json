@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-07T19:33:56.149Z",
+ "updatedAt": "2026-11-07T20:14:46.666Z",
  "hot": [
-  "arsenal-hull-2026-11-07",
   "nottingham-forest-man-city-2026-11-05",
+  "arsenal-hull-2026-11-07",
+  "psg-troyes-2026-11-08",
   "mainz-bayern-2026-11-07",
-  "leeds-tottenham-2026-11-07",
-  "fulham-newcastle-2026-11-08"
+  "leeds-tottenham-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 56,
-   "added": 3,
+   "items": 58,
+   "added": 6,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 60,
-   "added": 0,
+   "items": 59,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,25 +80,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 92
+   "added": 5,
+   "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -110,7 +110,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -158,13 +158,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 19,
-   "added": 4,
+   "added": 2,
    "authorRate": 95
   },
   "star": {
@@ -176,12 +176,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
+   "items": 13,
    "added": 2,
    "authorRate": 0
   }
@@ -300,25 +300,25 @@
    "count": 5
   },
   {
-   "name": "카레타스",
+   "name": "텔",
    "count": 5
   },
   {
-   "name": "트레솔디",
+   "name": "카레타스",
    "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
+  "recentIssues": 217,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 63
+    "count": 64
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 34
+    "count": 33
    },
    {
     "slug": "kane-contract",
@@ -326,10 +326,14 @@
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
-    "count": 27
+    "count": 28
    },
    {
     "slug": "arsenal-hull-2026-11-07",
+    "count": 28
+   },
+   {
+    "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 25
    },
    {
@@ -337,20 +341,12 @@
     "count": 23
    },
    {
-    "slug": "liverpool-fenerbahce-2026-11-03",
-    "count": 23
-   },
-   {
     "slug": "grealish-discipline",
     "count": 18
    },
    {
-    "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 17
-   },
-   {
     "slug": "lens-como-2026-11-04",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "newcastle-manager-future",
@@ -358,10 +354,6 @@
    },
    {
     "slug": "everton-coventry-2026-11-06",
-    "count": 15
-   },
-   {
-    "slug": "leipzig-man-city-2026-11-04",
     "count": 15
    }
   ]
@@ -632,24 +624,6 @@
    ]
   },
   {
-   "en": "Trey Nyoni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트레이 뇨니",
-     "count": 4
-    },
-    {
-     "ko": "뇨니",
-     "count": 2
-    },
-    {
-     "ko": "니오니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gianluigi Donnarumma",
    "dictionary": null,
    "variants": [
@@ -826,6 +800,20 @@
    ]
   },
   {
+   "en": "Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델랍",
+     "count": 4
+    },
+    {
+     "ko": "딜랍",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Shea Lacey",
    "dictionary": null,
    "variants": [
@@ -876,6 +864,24 @@
    ]
   },
   {
+   "en": "Trey Nyoni",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "트레이 뇨니",
+     "count": 3
+    },
+    {
+     "ko": "니오니",
+     "count": 1
+    },
+    {
+     "ko": "뇨니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -889,6 +895,24 @@
     },
     {
      "ko": "프랭크 램퍼드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Circati",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "치르카티",
+     "count": 2
+    },
+    {
+     "ko": "서큐티",
+     "count": 2
+    },
+    {
+     "ko": "서클라티",
      "count": 1
     }
    ]
@@ -972,34 +996,20 @@
    ]
   },
   {
-   "en": "Carlos Forbs",
+   "en": "Danks",
    "dictionary": null,
    "variants": [
     {
-     "ko": "카를로스 포브스",
+     "ko": "당크스",
      "count": 2
     },
     {
-     "ko": "포브스",
+     "ko": "당스",
      "count": 1
     },
     {
-     "ko": "카를로스 포르브스",
+     "ko": "댄크스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Franclim Carvalho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프랭클림 카르발류",
-     "count": 2
-    },
-    {
-     "ko": "프랑클림 카르발류",
-     "count": 2
     }
    ]
   },
@@ -1027,24 +1037,6 @@
     },
     {
      "ko": "램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Circati",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "서큐티",
-     "count": 2
-    },
-    {
-     "ko": "치르카티",
-     "count": 1
-    },
-    {
-     "ko": "서클라티",
      "count": 1
     }
    ]
@@ -1152,6 +1144,24 @@
    ]
   },
   {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포브스",
+     "count": 1
+    },
+    {
+     "ko": "카를로스 포브스",
+     "count": 1
+    },
+    {
+     "ko": "카를로스 포르브스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jan Virgili",
    "dictionary": null,
    "variants": [
@@ -1166,6 +1176,20 @@
    ]
   },
   {
+   "en": "Franclim Carvalho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프랑클림 카르발류",
+     "count": 2
+    },
+    {
+     "ko": "프랭클림 카르발류",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mary Earps",
    "dictionary": null,
    "variants": [
@@ -1175,20 +1199,6 @@
     },
     {
      "ko": "메리 어프스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Danks",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "당크스",
-     "count": 2
-    },
-    {
-     "ko": "당스",
      "count": 1
     }
    ]
@@ -1236,29 +1246,15 @@
    ]
   },
   {
-   "en": "Lacey",
+   "en": "Karl",
    "dictionary": null,
    "variants": [
     {
-     "ko": "레이시",
+     "ko": "칼",
      "count": 2
     },
     {
-     "ko": "라시",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jonas De Roeck",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "욘 드 로크",
-     "count": 2
-    },
-    {
-     "ko": "조나스 데 뢰크",
+     "ko": "카를",
      "count": 1
     }
    ]
@@ -1302,8 +1298,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 339,
-   "llm": 339
+   "collected": 380,
+   "llm": 380
   }
  },
  "llmErrors": []
