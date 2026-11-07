@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T22:45:19.129Z",
+ "updatedAt": "2026-11-07T23:26:44.827Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
   "arsenal-hull-2026-11-07",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 61,
-   "added": 4,
+   "items": 63,
+   "added": 6,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -56,7 +56,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -80,14 +80,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 96
+   "added": 6,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -164,7 +164,7 @@
   "sun": {
    "ok": true,
    "items": 19,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -181,7 +181,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -314,11 +314,15 @@
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 66
+    "count": 67
    },
    {
     "slug": "kane-contract",
     "count": 30
+   },
+   {
+    "slug": "fonseca-sporting-appointment",
+    "count": 28
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -331,10 +335,6 @@
    {
     "slug": "arsenal-hull-2026-11-07",
     "count": 28
-   },
-   {
-    "slug": "fonseca-sporting-appointment",
-    "count": 27
    },
    {
     "slug": "jesus-ronaldo-relationship",
@@ -574,20 +574,6 @@
    ]
   },
   {
-   "en": "Karetsas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카레타스",
-     "count": 4
-    },
-    {
-     "ko": "카레차스",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -642,62 +628,6 @@
     {
      "ko": "딜랍",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이안니크 카쥐크",
-     "count": 1
-    },
-    {
-     "ko": "카위자크",
-     "count": 1
-    },
-    {
-     "ko": "카쥐악",
-     "count": 1
-    },
-    {
-     "ko": "야니크 카쥐작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카뷔작",
-     "count": 1
-    },
-    {
-     "ko": "카위작",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "돈나룸마",
-     "count": 2
-    },
-    {
-     "ko": "도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "지안루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 도나룸마",
-     "count": 1
     }
    ]
   },
@@ -814,6 +744,38 @@
    ]
   },
   {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 3
+    },
+    {
+     "ko": "회네스",
+     "count": 1
+    },
+    {
+     "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Karetsas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카레타스",
+     "count": 4
+    },
+    {
+     "ko": "카레차스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Avram Glazer",
    "dictionary": null,
    "variants": [
@@ -868,6 +830,58 @@
    ]
   },
   {
+   "en": "Yannick Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이안니크 카쥐크",
+     "count": 1
+    },
+    {
+     "ko": "카쥐악",
+     "count": 1
+    },
+    {
+     "ko": "야니크 카쥐작",
+     "count": 1
+    },
+    {
+     "ko": "야닉 카뷔작",
+     "count": 1
+    },
+    {
+     "ko": "카위작",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "도나룸마",
+     "count": 1
+    },
+    {
+     "ko": "지안루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 1
+    },
+    {
+     "ko": "돈나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -899,20 +913,6 @@
     },
     {
      "ko": "서클라티",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회너스",
-     "count": 3
-    },
-    {
-     "ko": "회네스",
      "count": 1
     }
    ]
@@ -1290,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 501,
-   "llm": 501
+   "collected": 535,
+   "llm": 535
   }
  },
  "llmErrors": []
