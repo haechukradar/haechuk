@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T14:50:57.996Z",
+ "updatedAt": "2026-11-08T15:26:43.041Z",
  "hot": [
-  "napoli-lazio-2026-11-08",
+  "crystal-palace-liverpool-2026-11-07",
   "neuer-injury",
-  "elche-betis-2026-11-08",
   "genoa-ac-milan-2026-11-08",
-  "de-miguel-incident"
+  "napoli-lazio-2026-11-08",
+  "chelsea-sunderland-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -26,13 +26,14 @@
   "2026-11-05",
   "2026-11-06",
   "2026-11-07",
-  "2026-11-08"
+  "2026-11-08",
+  "2026-11-09"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
    "items": 66,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -44,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -67,8 +68,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 1,
+   "items": 50,
+   "added": 13,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +99,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -134,19 +135,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
@@ -158,31 +159,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 26,
-   "added": 3,
+   "items": 25,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 5,
+   "items": 10,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -197,7 +198,7 @@
   },
   {
    "name": "노이어",
-   "count": 19
+   "count": 20
   },
   {
    "name": "JJ 가브리엘",
@@ -309,12 +310,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
-  "singleArticleRate": 40,
+  "recentIssues": 221,
+  "singleArticleRate": 38,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 48
+    "count": 45
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -330,18 +331,18 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 29
+    "count": 28
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
     "count": 26
    },
    {
-    "slug": "jesus-ronaldo-relationship",
+    "slug": "carrick-manager-future",
     "count": 18
    },
    {
-    "slug": "carrick-manager-future",
+    "slug": "jesus-ronaldo-relationship",
     "count": 17
    },
    {
@@ -415,7 +416,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 15
+     "count": 14
     },
     {
      "ko": "마티아스 야이슬레",
@@ -700,6 +701,24 @@
    ]
   },
   {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 2
+    },
+    {
+     "ko": "회네스",
+     "count": 2
+    },
+    {
+     "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -822,24 +841,6 @@
    ]
   },
   {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 2
-    },
-    {
-     "ko": "회너스",
-     "count": 1
-    },
-    {
-     "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Danks",
    "dictionary": null,
    "variants": [
@@ -886,6 +887,20 @@
    ]
   },
   {
+   "en": "Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "칼",
+     "count": 2
+    },
+    {
+     "ko": "카를",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Lampard",
    "dictionary": null,
    "variants": [
@@ -926,7 +941,7 @@
      "count": 1
     },
     {
-     "ko": "작카",
+     "ko": "그라니트 자카",
      "count": 1
     },
     {
@@ -934,7 +949,29 @@
      "count": 1
     },
     {
-     "ko": "그라니트 자카",
+     "ko": "작카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 반아케르",
+     "count": 1
+    },
+    {
+     "ko": "바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -1042,20 +1079,6 @@
    ]
   },
   {
-   "en": "Karl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "칼",
-     "count": 2
-    },
-    {
-     "ko": "카를",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lacey",
    "dictionary": null,
    "variants": [
@@ -1134,20 +1157,6 @@
    ]
   },
   {
-   "en": "Glasner",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "글래스너",
-     "count": 2
-    },
-    {
-     "ko": "글라스너",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jaissle",
    "dictionary": null,
    "variants": [
@@ -1194,34 +1203,6 @@
    ]
   },
   {
-   "en": "Reese",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레제",
-     "count": 2
-    },
-    {
-     "ko": "리스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hütter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훼터",
-     "count": 2
-    },
-    {
-     "ko": "휘터",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Okafor",
    "dictionary": null,
    "variants": [
@@ -1231,6 +1212,34 @@
     },
     {
      "ko": "오카포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Christos Tzolis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크리스토스 촐리스",
+     "count": 2
+    },
+    {
+     "ko": "졸리스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Emi Martinez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에미 마르티네스",
+     "count": 2
+    },
+    {
+     "ko": "에밀리아노 마르티네스",
      "count": 1
     }
    ]
@@ -1276,6 +1285,10 @@
   "2026-11-08": {
    "collected": 923,
    "llm": 923
+  },
+  "2026-11-09": {
+   "collected": 50,
+   "llm": 50
   }
  },
  "llmErrors": []
