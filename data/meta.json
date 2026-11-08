@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T07:22:33.965Z",
+ "updatedAt": "2026-11-08T08:19:03.316Z",
  "hot": [
+  "atletico-barcelona-2026-11-07",
+  "fulham-newcastle-2026-11-08",
+  "rudiger-incident",
   "chelsea-sunderland-2026-11-08",
-  "gabriel-man-utd-transfer",
-  "nottingham-forest-man-city-2026-11-05",
-  "man-utd-aston-villa-2026-11-05",
-  "carrick-manager-future"
+  "gabriel-man-utd-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 65,
-   "added": 4,
+   "items": 66,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,19 +80,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 7,
    "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 96
   },
   "men": {
@@ -104,13 +104,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -122,7 +122,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,13 +146,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -163,26 +163,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 22,
-   "added": 2,
+   "items": 23,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 5,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -309,12 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 215,
-  "singleArticleRate": 40,
+  "recentIssues": 214,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 65
+    "count": 64
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -322,10 +322,6 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 30
-   },
-   {
-    "slug": "kane-contract",
     "count": 30
    },
    {
@@ -341,12 +337,24 @@
     "count": 23
    },
    {
+    "slug": "kane-contract",
+    "count": 23
+   },
+   {
     "slug": "valencia-real-madrid-2026-11-06",
     "count": 21
    },
    {
     "slug": "grealish-discipline",
     "count": 17
+   },
+   {
+    "slug": "fulham-newcastle-2026-11-08",
+    "count": 16
+   },
+   {
+    "slug": "carrick-manager-future",
+    "count": 15
    },
    {
     "slug": "newcastle-manager-future",
@@ -511,7 +519,7 @@
    "variants": [
     {
      "ko": "스테판 보르손",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "스테판 보슨",
@@ -638,6 +646,24 @@
     {
      "ko": "딜랍",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 3
+    },
+    {
+     "ko": "비토르 브루누",
+     "count": 2
+    },
+    {
+     "ko": "빅토르 부르노",
+     "count": 1
     }
    ]
   },
@@ -771,24 +797,6 @@
     },
     {
      "ko": "모하야",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 2
-    },
-    {
-     "ko": "비토르 브루누",
-     "count": 2
-    },
-    {
-     "ko": "빅토르 부르노",
      "count": 1
     }
    ]
@@ -1094,6 +1102,24 @@
    ]
   },
   {
+   "en": "Conor Gallagher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콘너 갤러거",
+     "count": 1
+    },
+    {
+     "ko": "코너 갤러거",
+     "count": 1
+    },
+    {
+     "ko": "콜 갤러거",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nuno Campos",
    "dictionary": null,
    "variants": [
@@ -1240,20 +1266,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Reese",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레제",
-     "count": 2
-    },
-    {
-     "ko": "리스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1294,8 +1306,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 646,
-   "llm": 646
+   "collected": 689,
+   "llm": 689
   }
  },
  "llmErrors": []
