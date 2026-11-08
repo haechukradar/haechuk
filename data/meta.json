@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T15:26:43.041Z",
+ "updatedAt": "2026-11-08T16:05:08.261Z",
  "hot": [
   "crystal-palace-liverpool-2026-11-07",
+  "man-utd-aston-villa-2026-11-05",
   "neuer-injury",
   "genoa-ac-milan-2026-11-08",
-  "napoli-lazio-2026-11-08",
-  "chelsea-sunderland-2026-11-08"
+  "napoli-lazio-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -32,20 +32,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 2,
+   "items": 64,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 13,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,7 +88,7 @@
    "ok": true,
    "items": 50,
    "added": 1,
-   "authorRate": 76
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -99,19 +99,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -123,13 +123,13 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -147,7 +147,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -165,67 +165,55 @@
   "sun": {
    "ok": true,
    "items": 25,
-   "added": 2,
-   "authorRate": 100
+   "added": 7,
+   "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 1,
+   "items": 9,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 39
+   "count": 21
   },
   {
    "name": "오워노",
-   "count": 25
-  },
-  {
-   "name": "노이어",
-   "count": 20
-  },
-  {
-   "name": "JJ 가브리엘",
-   "count": 18
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 16
   },
   {
-   "name": "그릴리시",
-   "count": 13
+   "name": "잭 그릴리시",
+   "count": 15
   },
   {
-   "name": "프레스티아니",
-   "count": 10
+   "name": "노이어",
+   "count": 14
+  },
+  {
+   "name": "JJ 가브리엘",
+   "count": 13
   },
   {
    "name": "조브 벨링엄",
    "count": 10
   },
   {
-   "name": "데 미겔",
-   "count": 9
-  },
-  {
-   "name": "바레바",
+   "name": "그릴리시",
    "count": 9
   },
   {
@@ -233,31 +221,15 @@
    "count": 9
   },
   {
-   "name": "J.J. 가브리엘",
-   "count": 8
-  },
-  {
-   "name": "웨인 루니",
-   "count": 8
-  },
-  {
-   "name": "헤수스 오워노",
-   "count": 7
-  },
-  {
-   "name": "맥스 다우먼",
-   "count": 7
-  },
-  {
-   "name": "콘사",
-   "count": 7
-  },
-  {
    "name": "돈나룸마",
    "count": 7
   },
   {
    "name": "조엘 페레이라",
+   "count": 7
+  },
+  {
+   "name": "바레바",
    "count": 7
   },
   {
@@ -269,11 +241,7 @@
    "count": 7
   },
   {
-   "name": "카마빙가",
-   "count": 6
-  },
-  {
-   "name": "트레이 뇨니",
+   "name": "데 미겔",
    "count": 6
   },
   {
@@ -281,7 +249,15 @@
    "count": 6
   },
   {
+   "name": "콘사",
+   "count": 6
+  },
+  {
    "name": "알리송",
+   "count": 6
+  },
+  {
+   "name": "프레스티아니",
    "count": 6
   },
   {
@@ -289,33 +265,57 @@
    "count": 6
   },
   {
+   "name": "카레타스",
+   "count": 5
+  },
+  {
+   "name": "트레솔디",
+   "count": 5
+  },
+  {
+   "name": "맥스 다우먼",
+   "count": 5
+  },
+  {
+   "name": "듀스버리홀",
+   "count": 5
+  },
+  {
+   "name": "웨인 루니",
+   "count": 5
+  },
+  {
+   "name": "티에르노 배리",
+   "count": 5
+  },
+  {
+   "name": "티에르노 바리",
+   "count": 5
+  },
+  {
+   "name": "파블로 파지스",
+   "count": 5
+  },
+  {
    "name": "쉐이 레이시",
-   "count": 5
+   "count": 4
   },
   {
-   "name": "달롯",
-   "count": 5
+   "name": "로리 매킬로이",
+   "count": 4
   },
   {
-   "name": "아이트누리",
-   "count": 5
-  },
-  {
-   "name": "발로군",
-   "count": 5
-  },
-  {
-   "name": "마티스 텔",
-   "count": 5
+   "name": "퓔크루크",
+   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
+  "recentIssues": 218,
   "singleArticleRate": 38,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 45
+    "count": 43
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -339,15 +339,15 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 18
-   },
-   {
-    "slug": "jesus-ronaldo-relationship",
-    "count": 17
+    "count": 19
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
     "count": 16
+   },
+   {
+    "slug": "man-utd-aston-villa-2026-11-05",
+    "count": 15
    },
    {
     "slug": "everton-coventry-2026-11-06",
@@ -513,20 +513,6 @@
    ]
   },
   {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 9
-    },
-    {
-     "ko": "토헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -540,6 +526,20 @@
     },
     {
      "ko": "배리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 8
+    },
+    {
+     "ko": "토헬",
      "count": 1
     }
    ]
@@ -819,6 +819,32 @@
    ]
   },
   {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 반아케르",
+     "count": 1
+    },
+    {
+     "ko": "바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반라켄",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -950,28 +976,6 @@
     },
     {
      "ko": "작카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 반아케르",
-     "count": 1
-    },
-    {
-     "ko": "바나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -1189,20 +1193,6 @@
    ]
   },
   {
-   "en": "Antonio Nusa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니오 누사",
-     "count": 2
-    },
-    {
-     "ko": "안토니우 누사",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Okafor",
    "dictionary": null,
    "variants": [
@@ -1240,6 +1230,20 @@
     },
     {
      "ko": "에밀리아노 마르티네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바리",
+     "count": 2
+    },
+    {
+     "ko": "배리",
      "count": 1
     }
    ]
@@ -1287,8 +1291,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 50,
-   "llm": 50
+   "collected": 81,
+   "llm": 81
   }
  },
  "llmErrors": []
