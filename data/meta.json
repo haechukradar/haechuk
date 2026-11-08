@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T10:14:00.693Z",
+ "updatedAt": "2026-11-08T10:57:15.524Z",
  "hot": [
   "neuer-injury",
   "valencia-real-madrid-2026-11-06",
+  "rudiger-incident",
   "atletico-barcelona-2026-11-07",
-  "carrick-manager-future",
-  "fulham-newcastle-2026-11-08"
+  "man-city-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 65,
-   "added": 3,
+   "items": 67,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,7 +80,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
@@ -92,25 +92,25 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -128,7 +128,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -158,13 +158,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -176,13 +176,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 5,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -205,7 +205,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 15
+   "count": 16
   },
   {
    "name": "그릴리시",
@@ -309,12 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 213,
+  "recentIssues": 212,
   "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 60
+    "count": 56
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -341,15 +341,15 @@
     "count": 23
    },
    {
+    "slug": "grealish-discipline",
+    "count": 17
+   },
+   {
     "slug": "carrick-manager-future",
     "count": 16
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
-    "count": 16
-   },
-   {
-    "slug": "grealish-discipline",
     "count": 16
    },
    {
@@ -556,28 +556,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 5
-    },
-    {
-     "ko": "퀼로루크",
-     "count": 2
-    },
-    {
-     "ko": "퀼뤼겔",
-     "count": 1
-    },
-    {
-     "ko": "퀼뤼흐",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -600,6 +578,24 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 4
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 3
+    },
+    {
+     "ko": "위니스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kiernan Dewsbury-Hall",
    "dictionary": null,
    "variants": [
@@ -617,24 +613,6 @@
     },
     {
      "ko": "키어냔 듀스버리홀",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 2
-    },
-    {
-     "ko": "위니스",
      "count": 1
     }
    ]
@@ -784,23 +762,19 @@
    ]
   },
   {
-   "en": "Mohya",
+   "en": "Füllkrug",
    "dictionary": null,
    "variants": [
     {
-     "ko": "모히아",
-     "count": 2
+     "ko": "퓔크루크",
+     "count": 3
     },
     {
-     "ko": "모헤야",
+     "ko": "퀼뤼겔",
      "count": 1
     },
     {
-     "ko": "모야",
-     "count": 1
-    },
-    {
-     "ko": "모하야",
+     "ko": "퀼뤼흐",
      "count": 1
     }
    ]
@@ -886,42 +860,6 @@
    ]
   },
   {
-   "en": "Avram Glazer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아브람 글레이저",
-     "count": 3
-    },
-    {
-     "ko": "애브럼 글레이저",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Danks",
    "dictionary": null,
    "variants": [
@@ -982,6 +920,24 @@
    ]
   },
   {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 2
+    },
+    {
+     "ko": "잔루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "돈나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Lampard",
    "dictionary": null,
    "variants": [
@@ -1010,6 +966,20 @@
    ]
   },
   {
+   "en": "Avram Glazer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아브람 글레이저",
+     "count": 2
+    },
+    {
+     "ko": "애브럼 글레이저",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Arthur Vermeeren",
    "dictionary": null,
    "variants": [
@@ -1024,15 +994,19 @@
    ]
   },
   {
-   "en": "Kozo Tashima",
+   "en": "Mohya",
    "dictionary": null,
    "variants": [
     {
-     "ko": "타시마 코조",
-     "count": 2
+     "ko": "모헤야",
+     "count": 1
     },
     {
-     "ko": "타시마 고조",
+     "ko": "모히아",
+     "count": 1
+    },
+    {
+     "ko": "모하야",
      "count": 1
     }
    ]
@@ -1262,6 +1236,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Reese",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레제",
+     "count": 2
+    },
+    {
+     "ko": "리스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1302,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 741,
-   "llm": 741
+   "collected": 761,
+   "llm": 761
   }
  },
  "llmErrors": []
