@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T22:45:44.742Z",
+ "updatedAt": "2026-11-08T23:27:19.279Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
   "crystal-palace-manager-future",
@@ -32,20 +32,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 2,
+   "items": 67,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 63,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,7 +87,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 4,
    "authorRate": 84
   },
   "fblondon": {
@@ -99,7 +99,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -135,13 +135,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -177,12 +177,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 14,
+   "items": 9,
    "added": 0,
    "authorRate": 0
   }
@@ -310,8 +310,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 254,
-  "singleArticleRate": 38,
+  "recentIssues": 253,
+  "singleArticleRate": 37,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -319,7 +319,7 @@
    },
    {
     "slug": "de-miguel-incident",
-    "count": 35
+    "count": 34
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -334,19 +334,19 @@
     "count": 29
    },
    {
+    "slug": "atletico-barcelona-2026-11-07",
+    "count": 26
+   },
+   {
     "slug": "valencia-real-madrid-2026-11-06",
     "count": 26
    },
    {
-    "slug": "fonseca-sporting-appointment",
+    "slug": "carrick-manager-future",
     "count": 25
    },
    {
-    "slug": "atletico-barcelona-2026-11-07",
-    "count": 24
-   },
-   {
-    "slug": "carrick-manager-future",
+    "slug": "fonseca-sporting-appointment",
     "count": 24
    },
    {
@@ -489,12 +489,12 @@
      "count": 5
     },
     {
-     "ko": "마르쿠 실바",
-     "count": 3
+     "ko": "마르쿠 시우바",
+     "count": 4
     },
     {
-     "ko": "마르쿠 시우바",
-     "count": 2
+     "ko": "마르쿠 실바",
+     "count": 3
     },
     {
      "ko": "마르코 시우바",
@@ -553,6 +553,20 @@
    ]
   },
   {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 6
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
@@ -589,20 +603,6 @@
     {
      "ko": "위니스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 6
-    },
-    {
-     "ko": "훌리안 알바레스",
-     "count": 2
     }
    ]
   },
@@ -689,15 +689,15 @@
      "count": 4
     },
     {
-     "ko": "사주 감독",
-     "count": 1
-    },
-    {
      "ko": "세이지",
      "count": 1
     },
     {
      "ko": "피에르 세이지",
+     "count": 1
+    },
+    {
+     "ko": "사주 감독",
      "count": 1
     }
    ]
@@ -903,19 +903,23 @@
    ]
   },
   {
-   "en": "Circati",
+   "en": "Bruno Genesio",
    "dictionary": null,
    "variants": [
     {
-     "ko": "치르카티",
+     "ko": "브루노 제네시오",
      "count": 2
     },
     {
-     "ko": "서큐티",
-     "count": 2
+     "ko": "브뤼노 주네시오",
+     "count": 1
     },
     {
-     "ko": "서클라티",
+     "ko": "브루노 주네지오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 게네시오",
      "count": 1
     }
    ]
@@ -957,6 +961,20 @@
     {
      "ko": "디오고 달로트",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Fermín",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르민",
+     "count": 3
+    },
+    {
+     "ko": "페르민 로페스",
+     "count": 2
     }
    ]
   },
@@ -1115,19 +1133,19 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
+   "en": "Circati",
    "dictionary": null,
    "variants": [
     {
-     "ko": "브루노 제네시오",
+     "ko": "서큐티",
      "count": 2
     },
     {
-     "ko": "브뤼노 주네시오",
+     "ko": "서클라티",
      "count": 1
     },
     {
-     "ko": "브루노 주네지오",
+     "ko": "치르카티",
      "count": 1
     }
    ]
@@ -1297,20 +1315,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 2
-    },
-    {
-     "ko": "퀼뤼흐",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1355,8 +1359,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 510,
-   "llm": 510
+   "collected": 534,
+   "llm": 534
   }
  },
  "llmErrors": []
