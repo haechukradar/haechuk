@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T11:31:37.157Z",
+ "updatedAt": "2026-11-08T12:18:09.457Z",
  "hot": [
+  "napoli-lazio-2026-11-08",
   "neuer-injury",
-  "valencia-real-madrid-2026-11-06",
-  "rudiger-incident",
   "atletico-barcelona-2026-11-07",
-  "man-city-manager-future"
+  "man-city-manager-future",
+  "valencia-real-madrid-2026-11-06"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 0,
+   "items": 68,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -56,7 +56,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 12,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,37 +80,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 88
+   "added": 1,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
-   "authorRate": 96
+   "added": 4,
+   "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -134,13 +134,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -158,13 +158,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 26,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -182,7 +182,7 @@
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -252,6 +252,10 @@
    "count": 7
   },
   {
+   "name": "돈나룸마",
+   "count": 7
+  },
+  {
    "name": "조엘 페레이라",
    "count": 7
   },
@@ -273,10 +277,6 @@
   },
   {
    "name": "바르콜라",
-   "count": 6
-  },
-  {
-   "name": "돈나룸마",
    "count": 6
   },
   {
@@ -309,7 +309,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
+  "recentIssues": 211,
   "singleArticleRate": 39,
   "broad": [
    {
@@ -321,6 +321,10 @@
     "count": 32
    },
    {
+    "slug": "leeds-tottenham-2026-11-07",
+    "count": 29
+   },
+   {
     "slug": "fonseca-sporting-appointment",
     "count": 29
    },
@@ -329,20 +333,16 @@
     "count": 29
    },
    {
-    "slug": "leeds-tottenham-2026-11-07",
-    "count": 28
-   },
-   {
     "slug": "valencia-real-madrid-2026-11-06",
     "count": 25
    },
    {
     "slug": "jesus-ronaldo-relationship",
-    "count": 23
+    "count": 21
    },
    {
     "slug": "grealish-discipline",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "carrick-manager-future",
@@ -369,11 +369,11 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "조르제 제수스",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "조르제 제주스",
@@ -427,11 +427,11 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 15
+     "count": 16
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 5
+     "count": 4
     },
     {
      "ko": "자이슬",
@@ -731,11 +731,11 @@
    "variants": [
     {
      "ko": "회너스",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "회네스",
-     "count": 1
+     "count": 2
     },
     {
      "ko": "회이네스",
@@ -757,6 +757,38 @@
     },
     {
      "ko": "프랭크 램퍼드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 4
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 2
+    },
+    {
+     "ko": "돈나룸마",
+     "count": 2
+    },
+    {
+     "ko": "잔루이지 돈나룸마",
      "count": 1
     }
    ]
@@ -880,38 +912,6 @@
     {
      "ko": "페드루 프로엔사",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 3
-    },
-    {
-     "ko": "훌리안 알바레스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "잔루이지 도나룸마",
-     "count": 2
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 1
     }
    ]
   },
@@ -1282,8 +1282,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 771,
-   "llm": 771
+   "collected": 816,
+   "llm": 816
   }
  },
  "llmErrors": []
