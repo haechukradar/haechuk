@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T22:06:46.425Z",
+ "updatedAt": "2026-11-08T22:45:44.742Z",
  "hot": [
-  "man-utd-aston-villa-2026-11-05",
   "atletico-barcelona-2026-11-07",
+  "crystal-palace-manager-future",
+  "man-utd-aston-villa-2026-11-05",
   "carrick-manager-future",
-  "crystal-palace-liverpool-2026-11-07",
-  "crystal-palace-manager-future"
+  "fiorentina-juventus-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -33,19 +33,19 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 63,
-   "added": 1,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -57,7 +57,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -68,8 +68,8 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 2,
+   "items": 51,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,14 +81,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 86
+   "added": 6,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -99,7 +99,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -135,7 +135,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -165,7 +165,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -183,7 +183,7 @@
   "fbinsider": {
    "ok": true,
    "items": 14,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -225,6 +225,10 @@
    "count": 9
   },
   {
+   "name": "해밀턴",
+   "count": 8
+  },
+  {
    "name": "돈나룸마",
    "count": 7
   },
@@ -242,10 +246,6 @@
   },
   {
    "name": "데디치",
-   "count": 7
-  },
-  {
-   "name": "해밀턴",
    "count": 7
   },
   {
@@ -310,7 +310,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 250,
+  "recentIssues": 254,
   "singleArticleRate": 38,
   "broad": [
    {
@@ -342,6 +342,10 @@
     "count": 25
    },
    {
+    "slug": "atletico-barcelona-2026-11-07",
+    "count": 24
+   },
+   {
     "slug": "carrick-manager-future",
     "count": 24
    },
@@ -352,10 +356,6 @@
    {
     "slug": "crystal-palace-liverpool-2026-11-07",
     "count": 21
-   },
-   {
-    "slug": "atletico-barcelona-2026-11-07",
-    "count": 20
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
@@ -431,11 +431,11 @@
      "count": 8
     },
     {
-     "ko": "토헬",
-     "count": 1
+     "ko": "튀헬",
+     "count": 2
     },
     {
-     "ko": "튀헬",
+     "ko": "토헬",
      "count": 1
     },
     {
@@ -485,12 +485,12 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르쿠 실바",
+     "ko": "마르코 실바",
      "count": 5
     },
     {
-     "ko": "마르코 실바",
-     "count": 5
+     "ko": "마르쿠 실바",
+     "count": 3
     },
     {
      "ko": "마르쿠 시우바",
@@ -593,6 +593,20 @@
    ]
   },
   {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 6
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -663,6 +677,28 @@
     {
      "ko": "딜랍",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 4
+    },
+    {
+     "ko": "사주 감독",
+     "count": 1
+    },
+    {
+     "ko": "세이지",
+     "count": 1
+    },
+    {
+     "ko": "피에르 세이지",
+     "count": 1
     }
    ]
   },
@@ -742,20 +778,6 @@
     },
     {
      "ko": "마크 반 보멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 5
-    },
-    {
-     "ko": "훌리안 알바레스",
      "count": 1
     }
    ]
@@ -939,20 +961,6 @@
    ]
   },
   {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 4
-    },
-    {
-     "ko": "사주 감독",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -1025,20 +1033,6 @@
    ]
   },
   {
-   "en": "Konsa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콘사",
-     "count": 3
-    },
-    {
-     "ko": "코나",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Conor Gallagher",
    "dictionary": null,
    "variants": [
@@ -1085,20 +1079,6 @@
     {
      "ko": "카를",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉐이 레이시",
-     "count": 3
-    },
-    {
-     "ko": "셰이 레이시",
-     "count": 1
     }
    ]
   },
@@ -1291,6 +1271,20 @@
    ]
   },
   {
+   "en": "Konsa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콘사",
+     "count": 2
+    },
+    {
+     "ko": "코나",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pedro Proença",
    "dictionary": null,
    "variants": [
@@ -1300,6 +1294,20 @@
     },
     {
      "ko": "페드루 프로엔사",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼흐",
      "count": 1
     }
    ]
@@ -1347,8 +1355,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 475,
-   "llm": 475
+   "collected": 510,
+   "llm": 510
   }
  },
  "llmErrors": []
