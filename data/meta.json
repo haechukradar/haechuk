@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T20:05:45.798Z",
+ "updatedAt": "2026-11-08T20:46:24.785Z",
  "hot": [
   "man-utd-aston-villa-2026-11-05",
   "crystal-palace-liverpool-2026-11-07",
   "brighton-brentford-2026-11-08",
-  "chelsea-sunderland-2026-11-08",
-  "celtic-kilmarnock-2026-11-08"
+  "atletico-barcelona-2026-11-07",
+  "chelsea-sunderland-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -33,7 +33,7 @@
   "bbc": {
    "ok": true,
    "items": 66,
-   "added": 9,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -68,8 +68,8 @@
   },
   "as": {
    "ok": true,
-   "items": 49,
-   "added": 9,
+   "items": 50,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,14 +81,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
-   "authorRate": 84
+   "added": 5,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
@@ -99,7 +99,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -135,19 +135,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 16,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -165,7 +165,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
@@ -177,13 +177,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 17,
-   "added": 6,
+   "items": 11,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -265,6 +265,10 @@
    "count": 6
   },
   {
+   "name": "아민 구이리",
+   "count": 6
+  },
+  {
    "name": "이타쿠라",
    "count": 6
   },
@@ -297,10 +301,6 @@
    "count": 5
   },
   {
-   "name": "아민 구이리",
-   "count": 5
-  },
-  {
    "name": "티에르노 배리",
    "count": 5
   },
@@ -310,16 +310,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 243,
-  "singleArticleRate": 38,
+  "recentIssues": 244,
+  "singleArticleRate": 36,
   "broad": [
    {
-    "slug": "de-miguel-incident",
+    "slug": "man-utd-aston-villa-2026-11-05",
     "count": 36
    },
    {
-    "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 35
+    "slug": "de-miguel-incident",
+    "count": 36
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -346,12 +346,16 @@
     "count": 23
    },
    {
+    "slug": "carrick-manager-future",
+    "count": 21
+   },
+   {
     "slug": "crystal-palace-liverpool-2026-11-07",
     "count": 21
    },
    {
-    "slug": "carrick-manager-future",
-    "count": 19
+    "slug": "atletico-barcelona-2026-11-07",
+    "count": 16
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
@@ -378,7 +382,7 @@
     },
     {
      "ko": "조르즈 제수스",
-     "count": 6
+     "count": 4
     },
     {
      "ko": "조르제 제주스",
@@ -450,7 +454,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "자이슬레",
@@ -827,6 +831,20 @@
    ]
   },
   {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 3
+    },
+    {
+     "ko": "파리오리",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -858,6 +876,28 @@
     },
     {
      "ko": "잔루이지 돈나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jonas De Roeck",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "욘 드 로크",
+     "count": 2
+    },
+    {
+     "ko": "조나스 데 뢰크",
+     "count": 1
+    },
+    {
+     "ko": "존 데 로에크",
+     "count": 1
+    },
+    {
+     "ko": "욘스 더 로크",
      "count": 1
     }
    ]
@@ -899,20 +939,6 @@
    ]
   },
   {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 3
-    },
-    {
-     "ko": "파리오리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Danks",
    "dictionary": null,
    "variants": [
@@ -941,20 +967,6 @@
     {
      "ko": "코나",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pedro Proença",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드루 프루엔사",
-     "count": 2
-    },
-    {
-     "ko": "페드루 프로엔사",
-     "count": 2
     }
    ]
   },
@@ -1018,24 +1030,6 @@
     },
     {
      "ko": "셰이 레이시",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jonas De Roeck",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "욘 드 로크",
-     "count": 2
-    },
-    {
-     "ko": "조나스 데 뢰크",
-     "count": 1
-    },
-    {
-     "ko": "존 데 로에크",
      "count": 1
     }
    ]
@@ -1215,6 +1209,34 @@
    ]
   },
   {
+   "en": "Luís Pinto",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이스 핀토",
+     "count": 2
+    },
+    {
+     "ko": "루이스 핀투",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Proença",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드루 프루엔사",
+     "count": 2
+    },
+    {
+     "ko": "페드루 프로엔사",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -1261,29 +1283,15 @@
    ]
   },
   {
-   "en": "Okafor",
+   "en": "Woltemade",
    "dictionary": null,
    "variants": [
     {
-     "ko": "오카포르",
+     "ko": "보르테마데",
      "count": 2
     },
     {
-     "ko": "오카포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Christos Tzolis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크리스토스 촐리스",
-     "count": 2
-    },
-    {
-     "ko": "졸리스",
+     "ko": "보데마데",
      "count": 1
     }
    ]
@@ -1331,8 +1339,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 375,
-   "llm": 375
+   "collected": 416,
+   "llm": 416
   }
  },
  "llmErrors": []
