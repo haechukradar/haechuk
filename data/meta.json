@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T18:40:05.277Z",
+ "updatedAt": "2026-11-08T19:24:07.037Z",
  "hot": [
+  "man-utd-aston-villa-2026-11-05",
   "crystal-palace-liverpool-2026-11-07",
   "chelsea-sunderland-2026-11-08",
-  "man-utd-aston-villa-2026-11-05",
-  "brighton-brentford-2026-11-08",
-  "genoa-ac-milan-2026-11-08"
+  "inter-como-2026-11-08",
+  "brighton-brentford-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -32,20 +32,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 62,
-   "added": 1,
+   "items": 64,
+   "added": 5,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 63,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,25 +81,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 80
+   "added": 8,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "lecho": {
@@ -123,7 +123,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -135,13 +135,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -159,31 +159,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 5,
-   "authorRate": 96
+   "items": 29,
+   "added": 1,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 11,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -213,11 +213,11 @@
    "count": 10
   },
   {
-   "name": "그릴리시",
-   "count": 9
+   "name": "보글",
+   "count": 10
   },
   {
-   "name": "보글",
+   "name": "그릴리시",
    "count": 9
   },
   {
@@ -261,6 +261,10 @@
    "count": 6
   },
   {
+   "name": "도르구",
+   "count": 6
+  },
+  {
    "name": "이타쿠라",
    "count": 6
   },
@@ -274,6 +278,10 @@
   },
   {
    "name": "모히아",
+   "count": 5
+  },
+  {
+   "name": "노리스",
    "count": 5
   },
   {
@@ -299,19 +307,11 @@
   {
    "name": "파블로 파지스",
    "count": 5
-  },
-  {
-   "name": "쉐이 레이시",
-   "count": 4
-  },
-  {
-   "name": "로리 매킬로이",
-   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 240,
-  "singleArticleRate": 39,
+  "recentIssues": 239,
+  "singleArticleRate": 38,
   "broad": [
    {
     "slug": "de-miguel-incident",
@@ -320,6 +320,10 @@
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 32
+   },
+   {
+    "slug": "man-utd-aston-villa-2026-11-05",
+    "count": 31
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -336,10 +340,6 @@
    {
     "slug": "fonseca-sporting-appointment",
     "count": 26
-   },
-   {
-    "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 23
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
@@ -446,7 +446,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 13
+     "count": 12
     },
     {
      "ko": "마티아스 야이슬레",
@@ -735,6 +735,58 @@
    ]
   },
   {
+   "en": "Youri Tielemans",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "유리 틸레망스",
+     "count": 2
+    },
+    {
+     "ko": "틸레망스",
+     "count": 1
+    },
+    {
+     "ko": "틸레만스",
+     "count": 1
+    },
+    {
+     "ko": "튈레망스",
+     "count": 1
+    },
+    {
+     "ko": "유리 틸레만스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "래먼스",
+     "count": 2
+    },
+    {
+     "ko": "람멘스",
+     "count": 1
+    },
+    {
+     "ko": "래미언스",
+     "count": 1
+    },
+    {
+     "ko": "센 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "센네 라메스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -812,50 +864,6 @@
     },
     {
      "ko": "서클라티",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Youri Tielemans",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "유리 틸레망스",
-     "count": 2
-    },
-    {
-     "ko": "틸레망스",
-     "count": 1
-    },
-    {
-     "ko": "튈레망스",
-     "count": 1
-    },
-    {
-     "ko": "틸레만스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "래먼스",
-     "count": 2
-    },
-    {
-     "ko": "람멘스",
-     "count": 1
-    },
-    {
-     "ko": "래미언스",
-     "count": 1
-    },
-    {
-     "ko": "센 람멘스",
      "count": 1
     }
    ]
@@ -1167,24 +1175,6 @@
    ]
   },
   {
-   "en": "Adam Wharton",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아담 와튼",
-     "count": 1
-    },
-    {
-     "ko": "애덤 왓턴",
-     "count": 1
-    },
-    {
-     "ko": "와턴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Bruno Genesio",
    "dictionary": null,
    "variants": [
@@ -1271,6 +1261,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바리",
+     "count": 2
+    },
+    {
+     "ko": "배리",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1315,8 +1319,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 261,
-   "llm": 261
+   "collected": 308,
+   "llm": 308
   }
  },
  "llmErrors": []
