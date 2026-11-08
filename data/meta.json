@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T04:22:16.316Z",
+ "updatedAt": "2026-11-08T05:17:56.296Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
-  "arsenal-hull-2026-11-07",
   "de-miguel-incident",
-  "valencia-real-madrid-2026-11-06",
-  "psg-troyes-2026-11-08"
+  "man-utd-aston-villa-2026-11-05",
+  "grealish-discipline",
+  "carrick-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -80,13 +80,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 90
   },
   "fblondon": {
@@ -104,7 +104,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -134,13 +134,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -152,7 +152,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -200,12 +200,12 @@
    "count": 17
   },
   {
-   "name": "노이어",
+   "name": "잭 그릴리시",
    "count": 15
   },
   {
-   "name": "잭 그릴리시",
-   "count": 14
+   "name": "노이어",
+   "count": 15
   },
   {
    "name": "그릴리시",
@@ -284,6 +284,10 @@
    "count": 6
   },
   {
+   "name": "쉐이 레이시",
+   "count": 5
+  },
+  {
    "name": "달롯",
    "count": 5
   },
@@ -302,14 +306,10 @@
   {
    "name": "니코 파스",
    "count": 5
-  },
-  {
-   "name": "텔",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 214,
+  "recentIssues": 213,
   "singleArticleRate": 39,
   "broad": [
    {
@@ -317,11 +317,11 @@
     "count": 66
    },
    {
-    "slug": "fonseca-sporting-appointment",
-    "count": 32
+    "slug": "nottingham-forest-man-city-2026-11-05",
+    "count": 31
    },
    {
-    "slug": "nottingham-forest-man-city-2026-11-05",
+    "slug": "fonseca-sporting-appointment",
     "count": 30
    },
    {
@@ -342,7 +342,7 @@
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
-    "count": 20
+    "count": 21
    },
    {
     "slug": "grealish-discipline",
@@ -596,6 +596,20 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 4
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Kiernan Dewsbury-Hall",
    "dictionary": null,
    "variants": [
@@ -726,20 +740,6 @@
     {
      "ko": "마크 반 보멜",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰이 레이시",
-     "count": 3
-    },
-    {
-     "ko": "쉐이 레이시",
-     "count": 2
     }
    ]
   },
@@ -1294,8 +1294,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 582,
-   "llm": 582
+   "collected": 593,
+   "llm": 593
   }
  },
  "llmErrors": []
