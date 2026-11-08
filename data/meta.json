@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T10:57:15.524Z",
+ "updatedAt": "2026-11-08T11:31:37.157Z",
  "hot": [
   "neuer-injury",
   "valencia-real-madrid-2026-11-06",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
-   "added": 1,
+   "items": 66,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,7 +80,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
@@ -92,19 +92,19 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -128,25 +128,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -163,8 +163,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 25,
-   "added": 0,
+   "items": 26,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -176,13 +176,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 2,
+   "items": 12,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -260,6 +260,10 @@
    "count": 7
   },
   {
+   "name": "해밀턴",
+   "count": 7
+  },
+  {
    "name": "카마빙가",
    "count": 6
   },
@@ -277,10 +281,6 @@
   },
   {
    "name": "알리송",
-   "count": 6
-  },
-  {
-   "name": "해밀턴",
    "count": 6
   },
   {
@@ -309,12 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 212,
+  "recentIssues": 210,
   "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 56
+    "count": 55
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -470,24 +470,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 11
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 2
-    },
-    {
-     "ko": "제이제이 가브리엘",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
@@ -498,6 +480,24 @@
     {
      "ko": "스테판 보슨",
      "count": 4
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 9
+    },
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 2
+    },
+    {
+     "ko": "제이제이 가브리엘",
+     "count": 2
     }
    ]
   },
@@ -646,24 +646,6 @@
    ]
   },
   {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 3
-    },
-    {
-     "ko": "비토르 브루누",
-     "count": 2
-    },
-    {
-     "ko": "빅토르 부르노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -762,68 +744,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 3
-    },
-    {
-     "ko": "퀼뤼겔",
-     "count": 1
-    },
-    {
-     "ko": "퀼뤼흐",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Trey Nyoni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트레이 뇨니",
-     "count": 3
-    },
-    {
-     "ko": "니오니",
-     "count": 1
-    },
-    {
-     "ko": "뇨니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이안니크 카쥐크",
-     "count": 1
-    },
-    {
-     "ko": "카쥐악",
-     "count": 1
-    },
-    {
-     "ko": "야니크 카쥐작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카뷔작",
-     "count": 1
-    },
-    {
-     "ko": "카위작",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -855,6 +775,64 @@
     },
     {
      "ko": "서클라티",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루누",
+     "count": 2
+    },
+    {
+     "ko": "비토르 브루노",
+     "count": 2
+    },
+    {
+     "ko": "빅토르 부르노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼겔",
+     "count": 1
+    },
+    {
+     "ko": "퀼뤼흐",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yannick Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카쥐악",
+     "count": 1
+    },
+    {
+     "ko": "야니크 카쥐작",
+     "count": 1
+    },
+    {
+     "ko": "야닉 카뷔작",
+     "count": 1
+    },
+    {
+     "ko": "카위작",
      "count": 1
     }
    ]
@@ -952,6 +930,24 @@
    ]
   },
   {
+   "en": "Trey Nyoni",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "트레이 뇨니",
+     "count": 2
+    },
+    {
+     "ko": "니오니",
+     "count": 1
+    },
+    {
+     "ko": "뇨니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ricardo Silva",
    "dictionary": null,
    "variants": [
@@ -989,24 +985,6 @@
     },
     {
      "ko": "아르튀르 베르메렌",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mohya",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모헤야",
-     "count": 1
-    },
-    {
-     "ko": "모히아",
-     "count": 1
-    },
-    {
-     "ko": "모하야",
      "count": 1
     }
    ]
@@ -1250,6 +1228,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Hütter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훼터",
+     "count": 2
+    },
+    {
+     "ko": "휘터",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1290,8 +1282,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 761,
-   "llm": 761
+   "collected": 771,
+   "llm": 771
   }
  },
  "llmErrors": []
