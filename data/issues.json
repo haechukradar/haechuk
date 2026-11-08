@@ -1,59 +1,560 @@
 [
  {
-  "slug": "elche-betis-2026-11-08",
+  "slug": "valencia-real-madrid-2026-11-06",
   "mode": "llm",
-  "titleKo": "엘체 대 베티스 라리가 경기",
-  "createdAt": "2026-11-08T13:21:18.000Z",
-  "updatedAt": "2026-11-08T13:21:18.000Z",
+  "titleKo": "발렌시아 대 레알 마드리드 라리가 경기",
+  "createdAt": "2026-11-06T09:45:53.000Z",
+  "updatedAt": "2026-11-08T14:10:43.000Z",
   "category": "match",
   "stage": null,
-  "clubs": [],
-  "players": [],
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "티보 쿠르투아",
+   "이브라히마 코나테",
+   "디오만데",
+   "발베르데",
+   "음바페",
+   "아르다 귈러",
+   "킬리안 음바페",
+   "마페오"
+  ],
   "sig": [
-   "betis",
-   "laliga",
-   "sports"
+   "mourinho",
+   "valencia",
+   "liga"
   ],
   "articles": [
    {
-    "id": "77e666c22766",
-    "url": "https://as.com/futbol/primera/elche-betis-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202611-d/",
-    "title": "Elche - Betis, hoy en directo: última hora de LaLiga EA Sports en vivo",
-    "ko": "엘체 대 베티스 라리가 경기 라이브 중계",
+    "id": "e3069471f08a",
+    "url": "https://as.com/futbol/primera/rueda-de-prensa-de-mourinho-en-directo-declaraciones-previas-al-valencia-real-madrid-de-liga-en-vivo-f202611-d/",
+    "title": "Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo",
+    "ko": "무리뉴, 발렌시아전 앞두고 기자회견 진행",
     "source": "as",
-    "publishedAt": "2026-11-08T13:21:18.000Z",
+    "publishedAt": "2026-11-06T09:45:53.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Joel Guerrero",
+    "transfer": null
+   },
+   {
+    "id": "a41aba219953",
+    "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/alineaciones-probables-valencia-real-madrid.html",
+    "title": "Alineaciones probables del Valencia - Real Madrid",
+    "ko": "발렌시아 대 레알 마드리드 예상 선발 라인업",
+    "source": "marca",
+    "publishedAt": "2026-11-06T17:12:22.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "FERNANDO ÁLVAREZ",
+    "transfer": null
+   },
+   {
+    "id": "771be84739dd",
+    "url": "https://as.com/futbol/primera/alineacion-posible-del-real-madrid-contra-el-valencia-en-laliga-ea-sports-f202611-n/",
+    "title": "Alineación posible del Real Madrid contra el Valencia en LaLiga EA Sports",
+    "ko": "레알 마드리드, 발렌시아전 예상 선발 라인업",
+    "source": "as",
+    "publishedAt": "2026-11-06T21:25:55.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Agustín Martín",
+    "transfer": null
+   },
+   {
+    "id": "24e02c609f3c",
+    "url": "https://as.com/futbol/primera/alineacion-posible-del-valencia-ante-el-real-madrid-en-laliga-ea-sports-f202611-n/",
+    "title": "Alineación posible del Valencia ante el Real Madrid en LaLiga EA Sports",
+    "ko": "발렌시아, 레알 마드리드전 예상 선발 라인업",
+    "source": "as",
+    "publishedAt": "2026-11-06T23:17:22.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Javi Teruel",
+    "transfer": null
+   },
+   {
+    "id": "7de5001ddb28",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-valence-real-madrid-en-liga/1741296#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Valence-Real Madrid en Liga ?",
+    "ko": "발렌시아 대 레알 마드리드 라리가 경기 시간과 중계 방송",
+    "source": "lequipe",
+    "publishedAt": "2026-11-07T07:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "aa2778c6105c",
+    "url": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+    "title": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
+    "ko": "발렌시아 대 레알 마드리드 라리가 생중계 정보",
+    "source": "as",
+    "publishedAt": "2026-11-07T10:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alberto P. Sierra",
+    "transfer": null
+   },
+   {
+    "id": "000ff25d5d30",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/20261107-114648-valencia-real-madrid-em-direto",
+    "title": "Valencia-Real Madrid, em direto",
+    "ko": "발렌시아 대 레알 마드리드 라이브 중계",
+    "source": "record",
+    "publishedAt": "2026-11-07T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f56af0bc1572",
+    "url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-valencia-real-madrid-de-laliga-ea-sports-f202611-d/",
+    "title": "Polémica, análisis y reacciones del Valencia - Real Madrid de LaLiga EA Sports",
+    "ko": "발렌시아 대 레알 마드리드 라리가 경기 분석·반응 정리",
+    "source": "as",
+    "publishedAt": "2026-11-07T19:05:01.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Raúl Ramírez",
+    "transfer": null
+   },
+   {
+    "id": "1efd2ea987e7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-avec-thibaut-courtois-et-ibrahima-konate-pour-son-deplacement-sur-la-pelouse-de-valence-en-liga/1742028#at_medium=RSS_feeds",
+    "title": "Le Real Madrid avec Thibaut Courtois et Ibrahima Konaté pour son déplacement sur la pelouse de Valence en Liga",
+    "ko": "레알 마드리드, 발렌시아 원정에 쿠르투아·코나테 동행",
+    "source": "lequipe",
+    "publishedAt": "2026-11-07T19:05:54.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아",
+     "이브라히마 코나테"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Cyril Olivès",
+    "transfer": null
+   },
+   {
+    "id": "1f27a5b5b07f",
+    "url": "https://www.kicker.de/valencia-gegen-real-madrid-2026-la-liga-5223911/spielbericht#omrss",
+    "title": "LIVE! Auch Diomande startet wieder: Legt Real beim Vorletzten Valencia vor?",
+    "ko": "디오만데, 복귀 출전…레알, 발렌시아 원정 선제골 노려",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T19:43:12.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "디오만데"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8f6cc6b14938",
+    "url": "https://www.kicker.de/mbapp-freistoss-wird-zur-vorlage-valverde-schiesst-real-in-fuehrung-1269586/video#omrss",
+    "title": "Mbappé-Freistoß wird zur Vorlage: Valverde schießt Real in Führung",
+    "ko": "레알, 발베르데 선제골로 발렌시아 원정서 리드",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T20:33:57.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "발베르데",
+     "음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe",
+     "federico-valverde"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5877e77a54b8",
+    "url": "https://www.kicker.de/volley-tor-von-arda-gueler-real-legt-in-valencia-nach-1269591/video#omrss",
+    "title": "Volley-Tor von Arda Güler: Real legt in Valencia nach",
+    "ko": "아르다 귈러 발리 득점, 레알 발렌시아에서 추가골",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T20:43:15.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "아르다 귈러"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9fbddc7dd1e0",
+    "url": "https://as.com/futbol/videos/carrusel-tangana-al-descanso-entre-los-jugadores-del-madrid-y-del-valencia-f202611-v/",
+    "title": "Tangana al descanso entre los jugadores del Madrid y del Valencia",
+    "ko": "레알 마드리드·발렌시아 선수들, 전반 종료 후 설전",
+    "source": "as",
+    "publishedAt": "2026-11-07T21:16:02.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "c34a756d05d5",
+    "url": "https://www.kicker.de/3-0-fuer-real-mbapp-trifft-nach-traumpass-von-arda-gueler-1269604/video#omrss",
+    "title": "3:0 für Real: Mbappé trifft nach Traumpass von Arda Güler",
+    "ko": "레알 3-0 승리, 음바페 아르다 귈러 패스 받아 득점",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T21:44:29.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "킬리안 음바페",
+     "아르다 귈러"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "14eaf770f270",
+    "url": "https://www.kicker.de/val-real-madrid-rote-karte-fuer-in-der-80-minute-1269606/video#omrss",
+    "title": "VAL - Real Madrid: Rote Karte für in der 80. Minute",
+    "ko": "발렌시아 대 레알 마드리드, 80분 레드카드 발생",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T21:46:45.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5a8a762fea22",
+    "url": "https://as.com/futbol/primera/el-madrid-se-despide-a-lo-grande-de-mestalla-f202611-n/",
+    "title": "El Madrid se despide a lo grande de Mestalla",
+    "ko": "레알 마드리드, 메스타야 작별 경기 승리",
+    "source": "as",
+    "publishedAt": "2026-11-07T21:57:51.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Luis Nieto",
+    "transfer": null
+   },
+   {
+    "id": "1ab329a661ab",
+    "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-madrid-en-valencia-guler-abraza-la-hiperbole-f202611-n/",
+    "title": "Aprobados y suspensos del Madrid en Valencia: la varita de Arda echa humo",
+    "ko": "레알 마드리드 발렌시아 원정 선수 평점, 아르다 귈러 활약",
+    "source": "as",
+    "publishedAt": "2026-11-07T21:57:52.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "아르다 귈러"
+    ],
+    "playerTags": [],
+    "author": "Fernando S. Tavero",
+    "transfer": null
+   },
+   {
+    "id": "676828423e9d",
+    "url": "https://as.com/futbol/videos/el-sonido-de-mestalla-nada-mas-hacer-gaya-a-mbappe-la-dura-entrada-por-la-que-vio-la-roja-f202611-v/",
+    "title": "El sonido de Mestalla nada más hacer Gayá a Mbappé la dura entrada por la que vio la roja",
+    "ko": "가야, 음바페에게 거친 파울 뒤 퇴장",
+    "source": "as",
+    "publishedAt": "2026-11-07T21:58:39.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "LALIGA",
+    "transfer": null
+   },
+   {
+    "id": "9638496ea146",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-se-promene-a-valence-kylian-mbappe-encore-buteur/1742112#at_medium=RSS_feeds",
+    "title": "Le Real Madrid se promène à Valence, Kylian Mbappé encore buteur",
+    "ko": "레알 마드리드, 발렌시아 원정서 음바페 득점으로 승리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-07T22:04:44.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "Cyril Olivès",
+    "transfer": null
+   },
+   {
+    "id": "866f6fda2f5f",
+    "url": "https://www.thesun.co.uk/sport/40955834/valencia-real-madrid-suspended-stretcher/",
+    "title": "Valencia vs Real Madrid suspended as players carry stretcher across pitch after medical emergency in stands",
+    "ko": "발렌시아 대 레알 마드리드 경기, 관중석 의료 응급 상황으로 중단",
+    "source": "sun",
+    "publishedAt": "2026-11-07T22:33:13.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Fermie",
+    "transfer": null
+   },
+   {
+    "id": "d97c140123f5",
+    "url": "https://as.com/futbol/fotorrelato/las-imagenes-de-la-victoria-del-real-madrid-en-valencia-f202611-f/",
+    "title": "Las imágenes de la victoria del Real Madrid en Valencia",
+    "ko": "발렌시아 원정서 거둔 레알 마드리드 승리 장면",
+    "source": "as",
+    "publishedAt": "2026-11-07T22:38:10.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
+    "id": "22dcea3e1feb",
+    "url": "https://www.lequipe.fr/Football/Article/En-deplacement-a-valence-avec-le-real-madrid-kylian-mbappe-a-pu-constater-que-l-affaire-ceuta-lui-etait-pardonnee/1742150#at_medium=RSS_feeds",
+    "title": "En déplacement à Valence avec le Real Madrid, Kylian Mbappé a pu constater que « l'affaire Ceuta » lui était pardonnée",
+    "ko": "음바페, 발렌시아 원정서 '세우타 사건' 용서받은 듯",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T04:23:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "Damien Degorre",
+    "transfer": null
+   },
+   {
+    "id": "968b72425054",
+    "url": "https://www.lequipe.fr/Football/Video/Liga-real-madrid-mourinho-rend-hommage-a-ses-joueurs-apres-la-victoire-face-a-valence/20245123#at_medium=RSS_feeds",
+    "title": "Mourinho rend hommage à ses joueurs après la victoire face à Valence",
+    "ko": "무리뉴, 발렌시아전 승리 후 선수들에게 공개 감사",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T08:22:00.000Z",
     "credited": null,
     "clubs": [],
     "category": "match",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Carlos González",
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5b8061a949f8",
+    "url": "https://www.record.pt/internacional/paises/espanha/valencia/detalhe/maffeo-sem-filtros-ao-intervalo-do-valencia-real-madrid-esta-entrevista-aqui-e-uma-m",
+    "title": "Maffeo sem filtros ao intervalo do Valencia-Real Madrid: «Esta entrevista aqui é uma m...»",
+    "ko": "마페오, 발렌시아-레알 마드리드 전반 후 인터뷰 화제",
+    "source": "record",
+    "publishedAt": "2026-11-08T09:06:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마페오"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b7225e7dc143",
+    "url": "https://as.com/futbol/videos/el-tremendo-dato-de-las-faltas-del-valencia-que-ha-enfurecido-a-real-madrid-tv-f202611-v/",
+    "title": "El tremendo dato de las faltas del Valencia que ha enfurecido a Real Madrid TV",
+    "ko": "발렌시아의 파울 기록, 레알 마드리드 분노 부른 수치",
+    "source": "as",
+    "publishedAt": "2026-11-08T09:52:55.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "e1365897d6fd",
+    "url": "https://www.thesun.co.uk/sport/40958405/jose-mourinho-brutal-valencia-boss-real-madrid/",
+    "title": "‘My players are much better than yours’ – Jose Mourinho’s brutal words to Valencia boss after Real Madrid beat them 3-0",
+    "ko": "무리뉴, 레알 3-0 승리 후 발렌시아 감독에 독설",
+    "source": "sun",
+    "publishedAt": "2026-11-08T14:10:43.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "James Graham",
     "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.99,
+  "recentSources": 4,
+  "sourceCount": 6,
+  "score": 2.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [],
+  "playerTags": [
+   "thibaut-courtois",
+   "kylian-mbappe",
+   "federico-valverde"
+  ],
   "transfer": null,
   "firstReport": {
    "name": "AS",
    "source": "as",
-   "at": "2026-11-08T13:21:18.000Z",
+   "at": "2026-11-06T09:45:53.000Z",
    "viaQuote": false
   },
-  "headline": "Elche - Betis, hoy en directo: última hora de LaLiga EA Sports en vivo"
+  "headline": "El tremendo dato de las faltas del Valencia que ha enfurecido a Real Madrid TV"
  },
  {
   "slug": "club-brugge-2026-11-08",
   "mode": "llm",
   "titleKo": "클럽 브뤼허 경기 선발 논쟁",
   "createdAt": "2026-11-08T06:01:00.000Z",
-  "updatedAt": "2026-11-08T13:20:00.000Z",
+  "updatedAt": "2026-11-08T14:10:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -61,7 +562,8 @@
   ],
   "players": [
    "마무두 디아콘",
-   "펠릭스 르마레샬"
+   "펠릭스 르마레샬",
+   "바나켄"
   ],
   "sig": [
    "komen",
@@ -112,12 +614,52 @@
     "playerTags": [],
     "author": "Redactie",
     "transfer": null
+   },
+   {
+    "id": "7342263b5ce8",
+    "url": "https://www.hln.be/club-brugge/en-dat-in-zn-500ste-match-in-de-jupiler-pro-league-hans-vanaken-breekt-de-ban-voor-club-brugge~af1da8d8/",
+    "title": "En dat in z’n 500ste match in de Jupiler Pro League: Hans Vanaken breekt de ban voor Club Brugge",
+    "ko": "바나켄, 벨기에 리그 500번째 경기서 클럽 브뤼허 득점 가뭄 해소",
+    "source": "hln",
+    "publishedAt": "2026-11-08T13:41:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바나켄"
+    ],
+    "playerTags": [],
+    "author": "Imar Vandenabeele",
+    "transfer": null
+   },
+   {
+    "id": "7a1ec62ace78",
+    "url": "https://www.hln.be/jupiler-pro-league/live-geen-nieuwe-voorsprong-voor-club-brugge-vanaken-kopt-een-grote-kans-nipt-naast~ad78c7c0/",
+    "title": "LIVE. Geen nieuwe voorsprong voor Club Brugge: Vanaken kopt een grote kans nipt naast",
+    "ko": "클럽 브뤼허, 리드 상황서 바나켄 헤더 빗나가",
+    "source": "hln",
+    "publishedAt": "2026-11-08T14:10:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바나켄"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.17,
-  "topTier": 4,
+  "score": 0.29,
+  "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
@@ -128,7 +670,406 @@
    "at": "2026-11-08T06:01:00.000Z",
    "viaQuote": false
   },
-  "headline": "LIVE. Na een dominante eerste helft en een doelpunt van Vanaken: Club Brugge gaat met verdiende voorsprong de rust in"
+  "headline": "En dat in z’n 500ste match in de Jupiler Pro League: Hans Vanaken breekt de ban voor Club Brugge"
+ },
+ {
+  "slug": "musiala-injury",
+  "mode": "llm",
+  "titleKo": "뮈지알라 질환 우려",
+  "createdAt": "2026-11-08T11:55:29.000Z",
+  "updatedAt": "2026-11-08T14:05:04.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "자말 무시알라",
+   "무시알라"
+  ],
+  "sig": [
+   "musiala",
+   "tiene"
+  ],
+  "articles": [
+   {
+    "id": "19f555e52273",
+    "url": "https://as.com/futbol/internacional/preocupacion-por-musiala-no-sabemos-si-volvera-a-ser-el-de-antes-f202611-n/",
+    "title": "Preocupación por Musiala: “Tiene una enfermedad no fácilmente curable”",
+    "ko": "뮈지알라 질환 우려…“쉽게 완치되지 않는 병 앓아”",
+    "source": "as",
+    "publishedAt": "2026-11-08T11:55:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "José Carlos Menzel",
+    "transfer": null
+   },
+   {
+    "id": "35a647208bc7",
+    "url": "https://www.thesun.co.uk/sport/40958292/jamal-musiala-illness-bayern-munich-uli-hoeness/",
+    "title": "Bayern chief Uli Hoeness admits Jamal Musiala suffering from ‘illness that cannot simply be cured’",
+    "ko": "회네스 바이에른 회장, 무시알라 '쉽게 낫지 않는 질환' 인정",
+    "source": "sun",
+    "publishedAt": "2026-11-08T14:05:04.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Oli Gamp",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.94,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jamal-musiala"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-08T11:55:29.000Z",
+   "viaQuote": false
+  },
+  "headline": "Preocupación por Musiala: “Tiene una enfermedad no fácilmente curable”"
+ },
+ {
+  "slug": "neuer-injury",
+  "mode": "llm",
+  "titleKo": "노이어 기록 달성 직후 또 부상",
+  "createdAt": "2026-11-03T23:21:27.000Z",
+  "updatedAt": "2026-11-08T13:52:43.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern",
+   "mainz"
+  ],
+  "players": [
+   "노이어",
+   "요주아 키미히",
+   "우르비그",
+   "마누엘 노이어"
+  ],
+  "sig": [
+   "habe",
+   "morgen",
+   "schmerzen",
+   "gehen"
+  ],
+  "articles": [
+   {
+    "id": "c55ca8f3a10c",
+    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
+    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
+    "ko": "노이어, 부상 공백 중 솔직한 속내 공개",
+    "source": "tz",
+    "publishedAt": "2026-11-03T22:59:23.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "d264c16c5f1c",
+    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
+    "ko": "노이어 \"오늘 아침에도 걸을 때 통증 있었다\" 고백",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "7b016211a0e7",
+    "url": "https://www.kicker.de/neuer-gesteht-hatte-auch-heute-morgen-wieder-schmerzen-beim-gehen-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Hatte auch heute Morgen wieder Schmerzen beim Gehen\"",
+    "ko": "노이어 \"오늘 아침에도 걸을 때 통증이 있었다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "dfbef57c2979",
+    "url": "https://www.tz.de/sport/fc-bayern/neuer-jubilaeum-endet-vorzeitig-mit-naechster-verletzung-zr-94579049.html",
+    "title": "Neuer-Jubiläum endet vorzeitig mit nächster Verletzung",
+    "ko": "노이어 기록 달성 직후 또 부상, 복귀 일정 차질",
+    "source": "tz",
+    "publishedAt": "2026-11-07T16:29:22.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Sebastian Isbaner",
+    "transfer": null
+   },
+   {
+    "id": "e505e1df42e1",
+    "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+    "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
+    "ko": "바이에른, 마인츠 격파…노이어 기록일 부상으로 씁쓸",
+    "source": "guardian",
+    "publishedAt": "2026-11-07T17:13:48.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern",
+     "mainz"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Reuters",
+    "transfer": null
+   },
+   {
+    "id": "27db21e03d04",
+    "url": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel#omrss",
+    "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
+    "ko": "키미히 \"노이어 교체 아웃이면 심각할 것\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T17:19:20.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "요주아 키미히",
+     "노이어"
+    ],
+    "playerTags": [
+     "joshua-kimmich"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3ee5baaf7f75",
+    "url": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel#omrss",
+    "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
+    "ko": "노이어, 전문의 찾아 나서…질문 쏟아져",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T09:45:35.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cdff9cd1ea38",
+    "url": "https://www.tz.de/sport/fc-bayern/muss-bayern-nach-erneuter-neuer-verletzung-auf-urbig-setzen-94579382.html",
+    "title": "Muss Bayern nach der nächsten Neuer-Verletzung auf Urbig setzen? Eberl wird deutlich",
+    "ko": "노이어 또 부상, 바이에른 우르비그 선발 불가피하나",
+    "source": "tz",
+    "publishedAt": "2026-11-08T09:55:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어",
+     "우르비그"
+    ],
+    "playerTags": [],
+    "author": "Manuel Bonke",
+    "transfer": null
+   },
+   {
+    "id": "f21c7bf3c395",
+    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/neuer-sofre-nova-lesao-em-dia-historico-no-bayern",
+    "title": "Neuer sofre nova lesão em dia histórico no Bayern",
+    "ko": "노이어, 역사적인 날 바이에른서 또 부상",
+    "source": "record",
+    "publishedAt": "2026-11-08T09:58:55.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3381668a14e7",
+    "url": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel#omrss",
+    "title": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut",
+    "ko": "노이어, 발 힘줄 부상으로 바이에른 이탈",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T12:41:58.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마누엘 노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c4d96470e1d0",
+    "url": "https://www.lequipe.fr/Football/Actualites/Nouveau-coup-dur-pour-le-bayern-munich-et-manuel-neuer-victime-d-une-dechirure-partielle-d-un-tendon-au-pied-droit/1742209#at_medium=RSS_feeds",
+    "title": "Nouveau coup dur pour le Bayern Munich et Manuel Neuer, victime d'une déchirure partielle d'un tendon au pied droit",
+    "ko": "노이어, 오른발 힘줄 부분 파열로 또 부상",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T13:52:43.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 5,
+  "score": 4.74,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "joshua-kimmich"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-03T22:59:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nouveau coup dur pour le Bayern Munich et Manuel Neuer, victime d'une déchirure partielle d'un tendon au pied droit"
+ },
+ {
+  "slug": "elche-betis-2026-11-08",
+  "mode": "llm",
+  "titleKo": "엘체 대 베티스 라리가 경기",
+  "createdAt": "2026-11-08T13:21:18.000Z",
+  "updatedAt": "2026-11-08T13:21:18.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "betis",
+   "laliga",
+   "sports"
+  ],
+  "articles": [
+   {
+    "id": "77e666c22766",
+    "url": "https://as.com/futbol/primera/elche-betis-hoy-en-directo-ultima-hora-de-laliga-ea-sports-en-vivo-f202611-d/",
+    "title": "Elche - Betis, hoy en directo: última hora de LaLiga EA Sports en vivo",
+    "ko": "엘체 대 베티스 라리가 경기 라이브 중계",
+    "source": "as",
+    "publishedAt": "2026-11-08T13:21:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Carlos González",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.73,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-08T13:21:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Elche - Betis, hoy en directo: última hora de LaLiga EA Sports en vivo"
  },
  {
   "slug": "crystal-palace-liverpool-2026-11-07",
@@ -329,7 +1270,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 1.79,
+  "score": 1.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -981,7 +1922,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 0.58,
+  "score": 0.5,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1222,7 +2163,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.7,
+  "score": 0.61,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1321,7 +2262,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.89,
+  "score": 1.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1372,7 +2313,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.87,
+  "score": 1.62,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1419,7 +2360,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.85,
+  "score": 1.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1655,7 +2596,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 3.18,
+  "score": 2.76,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1722,7 +2663,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.13,
+  "score": 0.98,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1907,7 +2848,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.54,
+  "score": 0.47,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2263,7 +3204,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 7,
-  "score": 1.92,
+  "score": 1.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2381,7 +3322,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 3.64,
+  "score": 3.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2396,255 +3337,6 @@
    "viaQuote": false
   },
   "headline": "Neapel - Lazio: Eigentor zum 1:1 durch Alfonso Pedraza in der 48. Minute"
- },
- {
-  "slug": "neuer-injury",
-  "mode": "llm",
-  "titleKo": "노이어 기록 달성 직후 또 부상",
-  "createdAt": "2026-11-03T23:21:27.000Z",
-  "updatedAt": "2026-11-08T12:41:58.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "bayern",
-   "mainz"
-  ],
-  "players": [
-   "노이어",
-   "요주아 키미히",
-   "우르비그",
-   "마누엘 노이어"
-  ],
-  "sig": [
-   "habe",
-   "morgen",
-   "schmerzen",
-   "gehen"
-  ],
-  "articles": [
-   {
-    "id": "c55ca8f3a10c",
-    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
-    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
-    "ko": "노이어, 부상 공백 중 솔직한 속내 공개",
-    "source": "tz",
-    "publishedAt": "2026-11-03T22:59:23.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "d264c16c5f1c",
-    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
-    "ko": "노이어 \"오늘 아침에도 걸을 때 통증 있었다\" 고백",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "7b016211a0e7",
-    "url": "https://www.kicker.de/neuer-gesteht-hatte-auch-heute-morgen-wieder-schmerzen-beim-gehen-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Hatte auch heute Morgen wieder Schmerzen beim Gehen\"",
-    "ko": "노이어 \"오늘 아침에도 걸을 때 통증이 있었다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "dfbef57c2979",
-    "url": "https://www.tz.de/sport/fc-bayern/neuer-jubilaeum-endet-vorzeitig-mit-naechster-verletzung-zr-94579049.html",
-    "title": "Neuer-Jubiläum endet vorzeitig mit nächster Verletzung",
-    "ko": "노이어 기록 달성 직후 또 부상, 복귀 일정 차질",
-    "source": "tz",
-    "publishedAt": "2026-11-07T16:29:22.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Sebastian Isbaner",
-    "transfer": null
-   },
-   {
-    "id": "e505e1df42e1",
-    "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-    "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
-    "ko": "바이에른, 마인츠 격파…노이어 기록일 부상으로 씁쓸",
-    "source": "guardian",
-    "publishedAt": "2026-11-07T17:13:48.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern",
-     "mainz"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Reuters",
-    "transfer": null
-   },
-   {
-    "id": "27db21e03d04",
-    "url": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel#omrss",
-    "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
-    "ko": "키미히 \"노이어 교체 아웃이면 심각할 것\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T17:19:20.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "요주아 키미히",
-     "노이어"
-    ],
-    "playerTags": [
-     "joshua-kimmich"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3ee5baaf7f75",
-    "url": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel#omrss",
-    "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
-    "ko": "노이어, 전문의 찾아 나서…질문 쏟아져",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T09:45:35.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cdff9cd1ea38",
-    "url": "https://www.tz.de/sport/fc-bayern/muss-bayern-nach-erneuter-neuer-verletzung-auf-urbig-setzen-94579382.html",
-    "title": "Muss Bayern nach der nächsten Neuer-Verletzung auf Urbig setzen? Eberl wird deutlich",
-    "ko": "노이어 또 부상, 바이에른 우르비그 선발 불가피하나",
-    "source": "tz",
-    "publishedAt": "2026-11-08T09:55:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어",
-     "우르비그"
-    ],
-    "playerTags": [],
-    "author": "Manuel Bonke",
-    "transfer": null
-   },
-   {
-    "id": "f21c7bf3c395",
-    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/neuer-sofre-nova-lesao-em-dia-historico-no-bayern",
-    "title": "Neuer sofre nova lesão em dia histórico no Bayern",
-    "ko": "노이어, 역사적인 날 바이에른서 또 부상",
-    "source": "record",
-    "publishedAt": "2026-11-08T09:58:55.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3381668a14e7",
-    "url": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel#omrss",
-    "title": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut",
-    "ko": "노이어, 발 힘줄 부상으로 바이에른 이탈",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T12:41:58.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마누엘 노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 4,
-  "score": 3.27,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "joshua-kimmich"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-03T22:59:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut"
  },
  {
   "slug": "de-miguel-incident",
@@ -5906,7 +6598,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 15,
-  "score": 3.83,
+  "score": 3.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5964,7 +6656,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.45,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6013,7 +6705,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.7,
+  "score": 1.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6276,7 +6968,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 3.16,
+  "score": 2.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6445,7 +7137,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -6493,7 +7185,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.48,
+  "score": 0.42,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6547,7 +7239,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.59,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6596,7 +7288,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6676,7 +7368,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6727,7 +7419,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6785,7 +7477,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6810,62 +7502,6 @@
    "viaQuote": false
   },
   "headline": "Celtic to 'auction Benjamin Nygren' after source's Premier League reveal - Keith Wyness"
- },
- {
-  "slug": "musiala-injury",
-  "mode": "llm",
-  "titleKo": "뮈지알라 질환 우려",
-  "createdAt": "2026-11-08T11:55:29.000Z",
-  "updatedAt": "2026-11-08T11:55:29.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "자말 무시알라"
-  ],
-  "sig": [
-   "musiala",
-   "tiene"
-  ],
-  "articles": [
-   {
-    "id": "19f555e52273",
-    "url": "https://as.com/futbol/internacional/preocupacion-por-musiala-no-sabemos-si-volvera-a-ser-el-de-antes-f202611-n/",
-    "title": "Preocupación por Musiala: “Tiene una enfermedad no fácilmente curable”",
-    "ko": "뮈지알라 질환 우려…“쉽게 완치되지 않는 병 앓아”",
-    "source": "as",
-    "publishedAt": "2026-11-08T11:55:29.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "José Carlos Menzel",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.55,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "jamal-musiala"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-08T11:55:29.000Z",
-   "viaQuote": false
-  },
-  "headline": "Preocupación por Musiala: “Tiene una enfermedad no fácilmente curable”"
  },
  {
   "slug": "leeds-tottenham-2026-11-07",
@@ -7460,7 +8096,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 10,
-  "score": 1.55,
+  "score": 1.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7556,7 +8192,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.95,
+  "score": 2.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8133,7 +8769,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 1.08,
+  "score": 0.94,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8293,7 +8929,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9041,7 +9677,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9138,7 +9774,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.87,
+  "score": 1.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9426,7 +10062,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 1.1,
+  "score": 0.95,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9439,538 +10075,6 @@
    "viaQuote": false
   },
   "headline": "Newcastle's Dedic stopped by police after being spotted with bow and arrows"
- },
- {
-  "slug": "valencia-real-madrid-2026-11-06",
-  "mode": "llm",
-  "titleKo": "발렌시아 대 레알 마드리드 라리가 경기",
-  "createdAt": "2026-11-06T09:45:53.000Z",
-  "updatedAt": "2026-11-08T09:52:55.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "티보 쿠르투아",
-   "이브라히마 코나테",
-   "디오만데",
-   "발베르데",
-   "음바페",
-   "아르다 귈러",
-   "킬리안 음바페",
-   "마페오"
-  ],
-  "sig": [
-   "mourinho",
-   "valencia",
-   "liga"
-  ],
-  "articles": [
-   {
-    "id": "e3069471f08a",
-    "url": "https://as.com/futbol/primera/rueda-de-prensa-de-mourinho-en-directo-declaraciones-previas-al-valencia-real-madrid-de-liga-en-vivo-f202611-d/",
-    "title": "Rueda de prensa de Mourinho, en directo: declaraciones previas al Valencia-Real Madrid de Liga, en vivo",
-    "ko": "무리뉴, 발렌시아전 앞두고 기자회견 진행",
-    "source": "as",
-    "publishedAt": "2026-11-06T09:45:53.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Joel Guerrero",
-    "transfer": null
-   },
-   {
-    "id": "a41aba219953",
-    "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/alineaciones-probables-valencia-real-madrid.html",
-    "title": "Alineaciones probables del Valencia - Real Madrid",
-    "ko": "발렌시아 대 레알 마드리드 예상 선발 라인업",
-    "source": "marca",
-    "publishedAt": "2026-11-06T17:12:22.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "FERNANDO ÁLVAREZ",
-    "transfer": null
-   },
-   {
-    "id": "771be84739dd",
-    "url": "https://as.com/futbol/primera/alineacion-posible-del-real-madrid-contra-el-valencia-en-laliga-ea-sports-f202611-n/",
-    "title": "Alineación posible del Real Madrid contra el Valencia en LaLiga EA Sports",
-    "ko": "레알 마드리드, 발렌시아전 예상 선발 라인업",
-    "source": "as",
-    "publishedAt": "2026-11-06T21:25:55.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Agustín Martín",
-    "transfer": null
-   },
-   {
-    "id": "24e02c609f3c",
-    "url": "https://as.com/futbol/primera/alineacion-posible-del-valencia-ante-el-real-madrid-en-laliga-ea-sports-f202611-n/",
-    "title": "Alineación posible del Valencia ante el Real Madrid en LaLiga EA Sports",
-    "ko": "발렌시아, 레알 마드리드전 예상 선발 라인업",
-    "source": "as",
-    "publishedAt": "2026-11-06T23:17:22.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Javi Teruel",
-    "transfer": null
-   },
-   {
-    "id": "7de5001ddb28",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-valence-real-madrid-en-liga/1741296#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Valence-Real Madrid en Liga ?",
-    "ko": "발렌시아 대 레알 마드리드 라리가 경기 시간과 중계 방송",
-    "source": "lequipe",
-    "publishedAt": "2026-11-07T07:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "aa2778c6105c",
-    "url": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-    "title": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
-    "ko": "발렌시아 대 레알 마드리드 라리가 생중계 정보",
-    "source": "as",
-    "publishedAt": "2026-11-07T10:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alberto P. Sierra",
-    "transfer": null
-   },
-   {
-    "id": "000ff25d5d30",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/20261107-114648-valencia-real-madrid-em-direto",
-    "title": "Valencia-Real Madrid, em direto",
-    "ko": "발렌시아 대 레알 마드리드 라이브 중계",
-    "source": "record",
-    "publishedAt": "2026-11-07T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f56af0bc1572",
-    "url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-valencia-real-madrid-de-laliga-ea-sports-f202611-d/",
-    "title": "Polémica, análisis y reacciones del Valencia - Real Madrid de LaLiga EA Sports",
-    "ko": "발렌시아 대 레알 마드리드 라리가 경기 분석·반응 정리",
-    "source": "as",
-    "publishedAt": "2026-11-07T19:05:01.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Raúl Ramírez",
-    "transfer": null
-   },
-   {
-    "id": "1efd2ea987e7",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-avec-thibaut-courtois-et-ibrahima-konate-pour-son-deplacement-sur-la-pelouse-de-valence-en-liga/1742028#at_medium=RSS_feeds",
-    "title": "Le Real Madrid avec Thibaut Courtois et Ibrahima Konaté pour son déplacement sur la pelouse de Valence en Liga",
-    "ko": "레알 마드리드, 발렌시아 원정에 쿠르투아·코나테 동행",
-    "source": "lequipe",
-    "publishedAt": "2026-11-07T19:05:54.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아",
-     "이브라히마 코나테"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Cyril Olivès",
-    "transfer": null
-   },
-   {
-    "id": "1f27a5b5b07f",
-    "url": "https://www.kicker.de/valencia-gegen-real-madrid-2026-la-liga-5223911/spielbericht#omrss",
-    "title": "LIVE! Auch Diomande startet wieder: Legt Real beim Vorletzten Valencia vor?",
-    "ko": "디오만데, 복귀 출전…레알, 발렌시아 원정 선제골 노려",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T19:43:12.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "디오만데"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8f6cc6b14938",
-    "url": "https://www.kicker.de/mbapp-freistoss-wird-zur-vorlage-valverde-schiesst-real-in-fuehrung-1269586/video#omrss",
-    "title": "Mbappé-Freistoß wird zur Vorlage: Valverde schießt Real in Führung",
-    "ko": "레알, 발베르데 선제골로 발렌시아 원정서 리드",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T20:33:57.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "발베르데",
-     "음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe",
-     "federico-valverde"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5877e77a54b8",
-    "url": "https://www.kicker.de/volley-tor-von-arda-gueler-real-legt-in-valencia-nach-1269591/video#omrss",
-    "title": "Volley-Tor von Arda Güler: Real legt in Valencia nach",
-    "ko": "아르다 귈러 발리 득점, 레알 발렌시아에서 추가골",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T20:43:15.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "아르다 귈러"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9fbddc7dd1e0",
-    "url": "https://as.com/futbol/videos/carrusel-tangana-al-descanso-entre-los-jugadores-del-madrid-y-del-valencia-f202611-v/",
-    "title": "Tangana al descanso entre los jugadores del Madrid y del Valencia",
-    "ko": "레알 마드리드·발렌시아 선수들, 전반 종료 후 설전",
-    "source": "as",
-    "publishedAt": "2026-11-07T21:16:02.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AStv",
-    "transfer": null
-   },
-   {
-    "id": "c34a756d05d5",
-    "url": "https://www.kicker.de/3-0-fuer-real-mbapp-trifft-nach-traumpass-von-arda-gueler-1269604/video#omrss",
-    "title": "3:0 für Real: Mbappé trifft nach Traumpass von Arda Güler",
-    "ko": "레알 3-0 승리, 음바페 아르다 귈러 패스 받아 득점",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T21:44:29.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "킬리안 음바페",
-     "아르다 귈러"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "14eaf770f270",
-    "url": "https://www.kicker.de/val-real-madrid-rote-karte-fuer-in-der-80-minute-1269606/video#omrss",
-    "title": "VAL - Real Madrid: Rote Karte für in der 80. Minute",
-    "ko": "발렌시아 대 레알 마드리드, 80분 레드카드 발생",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T21:46:45.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5a8a762fea22",
-    "url": "https://as.com/futbol/primera/el-madrid-se-despide-a-lo-grande-de-mestalla-f202611-n/",
-    "title": "El Madrid se despide a lo grande de Mestalla",
-    "ko": "레알 마드리드, 메스타야 작별 경기 승리",
-    "source": "as",
-    "publishedAt": "2026-11-07T21:57:51.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Luis Nieto",
-    "transfer": null
-   },
-   {
-    "id": "1ab329a661ab",
-    "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-madrid-en-valencia-guler-abraza-la-hiperbole-f202611-n/",
-    "title": "Aprobados y suspensos del Madrid en Valencia: la varita de Arda echa humo",
-    "ko": "레알 마드리드 발렌시아 원정 선수 평점, 아르다 귈러 활약",
-    "source": "as",
-    "publishedAt": "2026-11-07T21:57:52.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "아르다 귈러"
-    ],
-    "playerTags": [],
-    "author": "Fernando S. Tavero",
-    "transfer": null
-   },
-   {
-    "id": "676828423e9d",
-    "url": "https://as.com/futbol/videos/el-sonido-de-mestalla-nada-mas-hacer-gaya-a-mbappe-la-dura-entrada-por-la-que-vio-la-roja-f202611-v/",
-    "title": "El sonido de Mestalla nada más hacer Gayá a Mbappé la dura entrada por la que vio la roja",
-    "ko": "가야, 음바페에게 거친 파울 뒤 퇴장",
-    "source": "as",
-    "publishedAt": "2026-11-07T21:58:39.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "LALIGA",
-    "transfer": null
-   },
-   {
-    "id": "9638496ea146",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-real-madrid-se-promene-a-valence-kylian-mbappe-encore-buteur/1742112#at_medium=RSS_feeds",
-    "title": "Le Real Madrid se promène à Valence, Kylian Mbappé encore buteur",
-    "ko": "레알 마드리드, 발렌시아 원정서 음바페 득점으로 승리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-07T22:04:44.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "Cyril Olivès",
-    "transfer": null
-   },
-   {
-    "id": "866f6fda2f5f",
-    "url": "https://www.thesun.co.uk/sport/40955834/valencia-real-madrid-suspended-stretcher/",
-    "title": "Valencia vs Real Madrid suspended as players carry stretcher across pitch after medical emergency in stands",
-    "ko": "발렌시아 대 레알 마드리드 경기, 관중석 의료 응급 상황으로 중단",
-    "source": "sun",
-    "publishedAt": "2026-11-07T22:33:13.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Fermie",
-    "transfer": null
-   },
-   {
-    "id": "d97c140123f5",
-    "url": "https://as.com/futbol/fotorrelato/las-imagenes-de-la-victoria-del-real-madrid-en-valencia-f202611-f/",
-    "title": "Las imágenes de la victoria del Real Madrid en Valencia",
-    "ko": "발렌시아 원정서 거둔 레알 마드리드 승리 장면",
-    "source": "as",
-    "publishedAt": "2026-11-07T22:38:10.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AS Fotografía",
-    "transfer": null
-   },
-   {
-    "id": "22dcea3e1feb",
-    "url": "https://www.lequipe.fr/Football/Article/En-deplacement-a-valence-avec-le-real-madrid-kylian-mbappe-a-pu-constater-que-l-affaire-ceuta-lui-etait-pardonnee/1742150#at_medium=RSS_feeds",
-    "title": "En déplacement à Valence avec le Real Madrid, Kylian Mbappé a pu constater que « l'affaire Ceuta » lui était pardonnée",
-    "ko": "음바페, 발렌시아 원정서 '세우타 사건' 용서받은 듯",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T04:23:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "Damien Degorre",
-    "transfer": null
-   },
-   {
-    "id": "968b72425054",
-    "url": "https://www.lequipe.fr/Football/Video/Liga-real-madrid-mourinho-rend-hommage-a-ses-joueurs-apres-la-victoire-face-a-valence/20245123#at_medium=RSS_feeds",
-    "title": "Mourinho rend hommage à ses joueurs après la victoire face à Valence",
-    "ko": "무리뉴, 발렌시아전 승리 후 선수들에게 공개 감사",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T08:22:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5b8061a949f8",
-    "url": "https://www.record.pt/internacional/paises/espanha/valencia/detalhe/maffeo-sem-filtros-ao-intervalo-do-valencia-real-madrid-esta-entrevista-aqui-e-uma-m",
-    "title": "Maffeo sem filtros ao intervalo do Valencia-Real Madrid: «Esta entrevista aqui é uma m...»",
-    "ko": "마페오, 발렌시아-레알 마드리드 전반 후 인터뷰 화제",
-    "source": "record",
-    "publishedAt": "2026-11-08T09:06:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마페오"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b7225e7dc143",
-    "url": "https://as.com/futbol/videos/el-tremendo-dato-de-las-faltas-del-valencia-que-ha-enfurecido-a-real-madrid-tv-f202611-v/",
-    "title": "El tremendo dato de las faltas del Valencia que ha enfurecido a Real Madrid TV",
-    "ko": "발렌시아의 파울 기록, 레알 마드리드 분노 부른 수치",
-    "source": "as",
-    "publishedAt": "2026-11-08T09:52:55.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AStv",
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 6,
-  "score": 2.46,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "thibaut-courtois",
-   "kylian-mbappe",
-   "federico-valverde"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-06T09:45:53.000Z",
-   "viaQuote": false
-  },
-  "headline": "El tremendo dato de las faltas del Valencia que ha enfurecido a Real Madrid TV"
  },
  {
   "slug": "eric-christensen-atletico-transfer",
@@ -10036,7 +10140,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.03,
+  "score": 0.9,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10208,7 +10312,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10360,7 +10464,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.02,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10446,7 +10550,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10515,7 +10619,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10741,7 +10845,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.29,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11400,7 +11504,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.25,
+  "score": 0.21,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11757,7 +11861,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 6,
-  "score": 0.98,
+  "score": 0.85,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12367,7 +12471,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.21,
+  "score": 0.18,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12511,7 +12615,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.2,
+  "score": 0.17,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12595,7 +12699,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.76,
+  "score": 0.66,
   "topTier": 2,
   "stageHistory": [
    {
@@ -12679,7 +12783,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.53,
   "topTier": 2,
   "stageHistory": [
    {
@@ -12746,7 +12850,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12854,7 +12958,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.3,
   "topTier": 3,
   "stageHistory": [
    {
@@ -12917,7 +13021,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.56,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13592,7 +13696,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 10,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13648,7 +13752,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.33,
+  "score": 0.29,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -13697,7 +13801,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13957,7 +14061,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.51,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14997,7 +15101,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.38,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15055,7 +15159,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
