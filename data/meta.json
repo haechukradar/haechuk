@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T17:26:34.345Z",
+ "updatedAt": "2026-11-08T17:59:57.122Z",
  "hot": [
   "crystal-palace-liverpool-2026-11-07",
   "chelsea-sunderland-2026-11-08",
@@ -33,19 +33,19 @@
   "bbc": {
    "ok": true,
    "items": 62,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 64,
-   "added": 0,
+   "items": 63,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,25 +81,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 4,
    "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -129,13 +129,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -147,7 +147,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 6,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -159,31 +159,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 5,
+   "items": 14,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -202,7 +202,7 @@
   },
   {
    "name": "노이어",
-   "count": 14
+   "count": 15
   },
   {
    "name": "JJ 가브리엘",
@@ -310,16 +310,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 235,
-  "singleArticleRate": 41,
+  "recentIssues": 245,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 38
+    "count": 36
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 33
+    "count": 32
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -393,10 +393,6 @@
      "count": 1
     },
     {
-     "ko": "조르즈 조르지",
-     "count": 1
-    },
-    {
      "ko": "호르헤 제수스",
      "count": 1
     },
@@ -414,28 +410,6 @@
     },
     {
      "ko": "호르헤 헤수스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 14
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 4
-    },
-    {
-     "ko": "자이슬",
-     "count": 1
-    },
-    {
-     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -462,6 +436,28 @@
     },
     {
      "ko": "토마스 튀헬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 13
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 4
+    },
+    {
+     "ko": "자이슬",
+     "count": 1
+    },
+    {
+     "ko": "자이슬레",
      "count": 1
     }
    ]
@@ -615,6 +611,24 @@
    ]
   },
   {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 4
+    },
+    {
+     "ko": "비토르 브루누",
+     "count": 2
+    },
+    {
+     "ko": "빅토르 부르노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -639,11 +653,11 @@
      "count": 1
     },
     {
-     "ko": "한스 반아나켄",
+     "ko": "한스 반케",
      "count": 1
     },
     {
-     "ko": "한스 반케",
+     "ko": "한스 반아나켄",
      "count": 1
     }
    ]
@@ -738,24 +752,6 @@
     },
     {
      "ko": "마크 반 보멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 3
-    },
-    {
-     "ko": "비토르 브루누",
-     "count": 2
-    },
-    {
-     "ko": "빅토르 부르노",
      "count": 1
     }
    ]
@@ -1051,6 +1047,24 @@
    ]
   },
   {
+   "en": "Youri Tielemans",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "유리 틸레망스",
+     "count": 2
+    },
+    {
+     "ko": "틸레망스",
+     "count": 1
+    },
+    {
+     "ko": "튈레망스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ivan Leko",
    "dictionary": null,
    "variants": [
@@ -1253,20 +1267,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바리",
-     "count": 2
-    },
-    {
-     "ko": "배리",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1311,8 +1311,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 192,
-   "llm": 192
+   "collected": 226,
+   "llm": 226
   }
  },
  "llmErrors": []
