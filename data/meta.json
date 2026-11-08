@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-08T06:14:46.109Z",
+ "updatedAt": "2026-11-08T07:22:33.965Z",
  "hot": [
+  "chelsea-sunderland-2026-11-08",
+  "gabriel-man-utd-transfer",
   "nottingham-forest-man-city-2026-11-05",
   "man-utd-aston-villa-2026-11-05",
-  "grealish-discipline",
-  "de-miguel-incident",
   "carrick-manager-future"
  ],
  "days": [
@@ -31,8 +31,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 63,
-   "added": 0,
+   "items": 65,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
@@ -44,7 +44,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -86,31 +86,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 90
+   "added": 6,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -122,7 +122,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -134,25 +134,25 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -163,8 +163,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 20,
-   "added": 1,
+   "items": 22,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -176,7 +176,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
@@ -197,7 +197,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 17
+   "count": 18
   },
   {
    "name": "잭 그릴리시",
@@ -309,7 +309,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
+  "recentIssues": 215,
   "singleArticleRate": 40,
   "broad": [
    {
@@ -346,7 +346,11 @@
    },
    {
     "slug": "grealish-discipline",
-    "count": 18
+    "count": 17
+   },
+   {
+    "slug": "newcastle-manager-future",
+    "count": 15
    },
    {
     "slug": "everton-coventry-2026-11-06",
@@ -419,7 +423,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 14
+     "count": 15
     },
     {
      "ko": "마티아스 야이슬레",
@@ -440,11 +444,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "토마스 투헬",
-     "count": 9
+     "ko": "투헬",
+     "count": 8
     },
     {
-     "ko": "투헬",
+     "ko": "토마스 투헬",
      "count": 8
     },
     {
@@ -467,7 +471,7 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "J.J. 가브리엘",
@@ -476,20 +480,6 @@
     {
      "ko": "제이제이 가브리엘",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 8
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 5
     }
    ]
   },
@@ -516,16 +506,26 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 8
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 4
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
      "count": 9
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
     },
     {
      "ko": "토헬",
@@ -642,46 +642,6 @@
    ]
   },
   {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스-반렛",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 2
-    },
-    {
-     "ko": "윌리엄스-바닛",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스-바닛",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 3
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 2
-    },
-    {
-     "ko": "위니스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -709,6 +669,28 @@
     },
     {
      "ko": "조브",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 3
+    },
+    {
+     "ko": "윌리엄스-바닛",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-반렛",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-바닛",
      "count": 1
     }
    ]
@@ -789,6 +771,24 @@
     },
     {
      "ko": "모하야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 2
+    },
+    {
+     "ko": "비토르 브루누",
+     "count": 2
+    },
+    {
+     "ko": "빅토르 부르노",
      "count": 1
     }
    ]
@@ -882,6 +882,24 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 2
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    },
+    {
+     "ko": "위니스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Circati",
    "dictionary": null,
    "variants": [
@@ -900,20 +918,6 @@
    ]
   },
   {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 2
-    },
-    {
-     "ko": "비토르 브루누",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Funes",
    "dictionary": null,
    "variants": [
@@ -928,34 +932,6 @@
     {
      "ko": "푼스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Emi Martinez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에미 마르티네스",
-     "count": 3
-    },
-    {
-     "ko": "에밀리아노 마르티네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브뤼노 주네시오",
-     "count": 2
-    },
-    {
-     "ko": "브루노 제네시오",
-     "count": 2
     }
    ]
   },
@@ -1090,20 +1066,6 @@
    ]
   },
   {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 2
-    },
-    {
-     "ko": "굴리엘무 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sérgio Ferreira",
    "dictionary": null,
    "variants": [
@@ -1188,6 +1150,20 @@
    ]
   },
   {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브루노 제네시오",
+     "count": 2
+    },
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Enzo Barrenechea",
    "dictionary": null,
    "variants": [
@@ -1250,6 +1226,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Antonio Nusa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "안토니오 누사",
+     "count": 2
+    },
+    {
+     "ko": "안토니우 누사",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Reese",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레제",
+     "count": 2
+    },
+    {
+     "ko": "리스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1290,8 +1294,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 613,
-   "llm": 613
+   "collected": 646,
+   "llm": 646
   }
  },
  "llmErrors": []
