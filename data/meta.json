@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T20:46:24.785Z",
+ "updatedAt": "2026-11-08T21:27:02.516Z",
  "hot": [
   "man-utd-aston-villa-2026-11-05",
   "crystal-palace-liverpool-2026-11-07",
@@ -32,8 +32,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 0,
+   "items": 67,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -81,14 +81,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 90
+   "added": 3,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -99,7 +99,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -135,13 +135,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 16,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
@@ -164,26 +164,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 2,
+   "items": 30,
+   "added": 3,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 0,
+   "items": 18,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -233,6 +233,10 @@
    "count": 7
   },
   {
+   "name": "프레스티아니",
+   "count": 7
+  },
+  {
    "name": "바레바",
    "count": 7
   },
@@ -254,10 +258,6 @@
   },
   {
    "name": "콘사",
-   "count": 6
-  },
-  {
-   "name": "프레스티아니",
    "count": 6
   },
   {
@@ -310,7 +310,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 244,
+  "recentIssues": 246,
   "singleArticleRate": 36,
   "broad": [
    {
@@ -339,7 +339,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 26
+    "count": 25
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
@@ -347,7 +347,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "crystal-palace-liverpool-2026-11-07",
@@ -378,7 +378,7 @@
    "variants": [
     {
      "ko": "조르제 제수스",
-     "count": 6
+     "count": 5
     },
     {
      "ko": "조르즈 제수스",
@@ -393,11 +393,11 @@
      "count": 2
     },
     {
-     "ko": "제수스",
-     "count": 1
+     "ko": "호르헤 제수스",
+     "count": 2
     },
     {
-     "ko": "호르헤 제수스",
+     "ko": "제수스",
      "count": 1
     },
     {
@@ -508,7 +508,7 @@
    "variants": [
     {
      "ko": "JJ 가브리엘",
-     "count": 9
+     "count": 8
     },
     {
      "ko": "제이제이 가브리엘",
@@ -805,32 +805,6 @@
    ]
   },
   {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카쥐악",
-     "count": 1
-    },
-    {
-     "ko": "야니크 카쥐작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카뷔작",
-     "count": 1
-    },
-    {
-     "ko": "카위작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위작",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Farioli",
    "dictionary": null,
    "variants": [
@@ -893,11 +867,11 @@
      "count": 1
     },
     {
-     "ko": "존 데 로에크",
+     "ko": "욘스 더 로크",
      "count": 1
     },
     {
-     "ko": "욘스 더 로크",
+     "ko": "존 데 로에크",
      "count": 1
     }
    ]
@@ -916,6 +890,78 @@
     },
     {
      "ko": "서클라티",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diogo Dalot",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "달롯",
+     "count": 2
+    },
+    {
+     "ko": "디오구 달롯",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달로트",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달롯",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 4
+    },
+    {
+     "ko": "사주 감독",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yannick Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카쥐악",
+     "count": 1
+    },
+    {
+     "ko": "야니크 카쥐작",
+     "count": 1
+    },
+    {
+     "ko": "카위작",
+     "count": 1
+    },
+    {
+     "ko": "야닉 카위작",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alberto Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알베르투 코스타",
+     "count": 3
+    },
+    {
+     "ko": "알베르토 코스타",
      "count": 1
     }
    ]
@@ -1121,19 +1167,37 @@
    ]
   },
   {
-   "en": "Diogo Dalot",
+   "en": "Gary Neville",
    "dictionary": null,
    "variants": [
     {
-     "ko": "달롯",
+     "ko": "개리 네빌",
      "count": 2
     },
     {
-     "ko": "디오구 달롯",
+     "ko": "게리 네빌",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사게",
      "count": 1
     },
     {
-     "ko": "디오고 달로트",
+     "ko": "슬롯",
+     "count": 1
+    },
+    {
+     "ko": "사주",
+     "count": 1
+    },
+    {
+     "ko": "세이지",
      "count": 1
     }
    ]
@@ -1176,20 +1240,6 @@
     },
     {
      "ko": "메리 어프스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alberto Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "알베르투 코스타",
-     "count": 2
-    },
-    {
-     "ko": "알베르토 코스타",
      "count": 1
     }
    ]
@@ -1249,52 +1299,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레이시",
-     "count": 2
-    },
-    {
-     "ko": "라시",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Enzo Barrenechea",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엔조 바레네체아",
-     "count": 1
-    },
-    {
-     "ko": "엔소 바헤네체아",
-     "count": 1
-    },
-    {
-     "ko": "엔초 바레네체아",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Woltemade",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "보르테마데",
-     "count": 2
-    },
-    {
-     "ko": "보데마데",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1339,8 +1343,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 416,
-   "llm": 416
+   "collected": 450,
+   "llm": 450
   }
  },
  "llmErrors": []
