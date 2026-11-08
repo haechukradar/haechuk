@@ -1,31 +1,28 @@
 [
  {
-  "slug": "man-city-manager-future",
+  "slug": "kiel-manager-future",
   "mode": "llm",
-  "titleKo": "맨시티 마레스카 감독 최근 상황",
-  "createdAt": "2026-11-08T09:07:00.000Z",
-  "updatedAt": "2026-11-08T09:07:00.000Z",
+  "titleKo": "키엘 발터 감독 경질 위기",
+  "createdAt": "2026-11-08T10:06:29.000Z",
+  "updatedAt": "2026-11-08T10:06:29.000Z",
   "category": "manager",
   "stage": null,
-  "clubs": [
-   "man-city"
-  ],
+  "clubs": [],
   "players": [],
   "sig": [
-   "maresca"
+   "kiel",
+   "aus"
   ],
   "articles": [
    {
-    "id": "79e316e7a118",
-    "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "title": "Man City latest: Maresca hopeful international break can help ailing City",
-    "ko": "마레스카, 국제대회 휴식기가 시티 회복에 도움 되길 기대",
-    "source": "sky",
-    "publishedAt": "2026-11-08T09:07:00.000Z",
+    "id": "8b2f38607f79",
+    "url": "https://www.kicker.de/walter-in-kiel-vor-dem-aus-1269453/artikel#omrss",
+    "title": "Walter in Kiel vor dem Aus",
+    "ko": "키엘의 발터, 경질 위기",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T10:06:29.000Z",
     "credited": null,
-    "clubs": [
-     "man-city"
-    ],
+    "clubs": [],
     "category": "manager",
     "stage": null,
     "players": [],
@@ -36,26 +33,540 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
-  "topTier": 4,
+  "score": 1.96,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-08T09:07:00.000Z",
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-08T10:06:29.000Z",
    "viaQuote": false
   },
-  "headline": "Man City latest: Maresca hopeful international break can help ailing City"
+  "headline": "Walter in Kiel vor dem Aus"
+ },
+ {
+  "slug": "neuer-injury",
+  "mode": "llm",
+  "titleKo": "노이어 기록 달성 직후 또 부상",
+  "createdAt": "2026-11-03T23:21:27.000Z",
+  "updatedAt": "2026-11-08T09:58:55.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern",
+   "mainz"
+  ],
+  "players": [
+   "노이어",
+   "요주아 키미히",
+   "우르비그"
+  ],
+  "sig": [
+   "habe",
+   "morgen",
+   "schmerzen",
+   "gehen"
+  ],
+  "articles": [
+   {
+    "id": "c55ca8f3a10c",
+    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
+    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
+    "ko": "노이어, 부상 공백 중 솔직한 속내 공개",
+    "source": "tz",
+    "publishedAt": "2026-11-03T22:59:23.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "d264c16c5f1c",
+    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
+    "ko": "노이어 \"오늘 아침에도 걸을 때 통증 있었다\" 고백",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "7b016211a0e7",
+    "url": "https://www.kicker.de/neuer-gesteht-hatte-auch-heute-morgen-wieder-schmerzen-beim-gehen-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Hatte auch heute Morgen wieder Schmerzen beim Gehen\"",
+    "ko": "노이어 \"오늘 아침에도 걸을 때 통증이 있었다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "dfbef57c2979",
+    "url": "https://www.tz.de/sport/fc-bayern/neuer-jubilaeum-endet-vorzeitig-mit-naechster-verletzung-zr-94579049.html",
+    "title": "Neuer-Jubiläum endet vorzeitig mit nächster Verletzung",
+    "ko": "노이어 기록 달성 직후 또 부상, 복귀 일정 차질",
+    "source": "tz",
+    "publishedAt": "2026-11-07T16:29:22.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Sebastian Isbaner",
+    "transfer": null
+   },
+   {
+    "id": "e505e1df42e1",
+    "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+    "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
+    "ko": "바이에른, 마인츠 격파…노이어 기록일 부상으로 씁쓸",
+    "source": "guardian",
+    "publishedAt": "2026-11-07T17:13:48.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern",
+     "mainz"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Reuters",
+    "transfer": null
+   },
+   {
+    "id": "27db21e03d04",
+    "url": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel#omrss",
+    "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
+    "ko": "키미히 \"노이어 교체 아웃이면 심각할 것\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T17:19:20.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "요주아 키미히",
+     "노이어"
+    ],
+    "playerTags": [
+     "joshua-kimmich"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3ee5baaf7f75",
+    "url": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel#omrss",
+    "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
+    "ko": "노이어, 전문의 찾아 나서…질문 쏟아져",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T09:45:35.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cdff9cd1ea38",
+    "url": "https://www.tz.de/sport/fc-bayern/muss-bayern-nach-erneuter-neuer-verletzung-auf-urbig-setzen-94579382.html",
+    "title": "Muss Bayern nach der nächsten Neuer-Verletzung auf Urbig setzen? Eberl wird deutlich",
+    "ko": "노이어 또 부상, 바이에른 우르비그 선발 불가피하나",
+    "source": "tz",
+    "publishedAt": "2026-11-08T09:55:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어",
+     "우르비그"
+    ],
+    "playerTags": [],
+    "author": "Manuel Bonke",
+    "transfer": null
+   },
+   {
+    "id": "f21c7bf3c395",
+    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/neuer-sofre-nova-lesao-em-dia-historico-no-bayern",
+    "title": "Neuer sofre nova lesão em dia histórico no Bayern",
+    "ko": "노이어, 역사적인 날 바이에른서 또 부상",
+    "source": "record",
+    "publishedAt": "2026-11-08T09:58:55.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 5.65,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "joshua-kimmich"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-03T22:59:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Neuer sofre nova lesão em dia histórico no Bayern"
+ },
+ {
+  "slug": "dedic-incident",
+  "mode": "llm",
+  "titleKo": "데디치 활과 화살 소지 사건",
+  "createdAt": "2026-11-05T19:52:31.000Z",
+  "updatedAt": "2026-11-08T09:55:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "newcastle",
+   "marseille"
+  ],
+  "players": [
+   "아마르 데디치",
+   "데디치"
+  ],
+  "sig": [
+   "amar",
+   "dedic",
+   "bow",
+   "arrows"
+  ],
+  "articles": [
+   {
+    "id": "7ba09c9fdb70",
+    "url": "https://www.thesun.co.uk/sport/40931751/amar-dedic-weapon-police-hunt/",
+    "title": "Newcastle star Amar Dedic spotted with BOW AND ARROWS in rural beauty spot as cops hunt down footballer & seize weapon",
+    "ko": "뉴캐슬 아마르 데디치, 시골에서 활과 화살 소지로 경찰 수색 대상",
+    "source": "sun",
+    "publishedAt": "2026-11-05T19:52:31.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "아마르 데디치"
+    ],
+    "playerTags": [],
+    "author": "Odhran Gallagher",
+    "transfer": null
+   },
+   {
+    "id": "16123a9daf7f",
+    "url": "https://as.com/futbol/internacional/la-policia-caza-a-dedic-con-flechas-y-un-arco-en-un-paraje-natural-f202611-n/",
+    "title": "La policía ‘caza’ a Dedic con flechas y un arco en un paraje natural",
+    "ko": "경찰, 자연공원에서 활과 화살 든 데디치 체포",
+    "source": "as",
+    "publishedAt": "2026-11-05T20:07:59.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데디치"
+    ],
+    "playerTags": [],
+    "author": "EFE EFE",
+    "transfer": null
+   },
+   {
+    "id": "8a008d7f63f9",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/amar-dedic-newcastle-united-police-34870144",
+    "title": "Newcastle United star 'sparks major police operation' as he's spotted with bow and arrow",
+    "ko": "뉴캐슬 선수, 활과 화살 소지로 경찰 출동 소동",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T20:48:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith, Bruna Reis",
+    "transfer": null
+   },
+   {
+    "id": "9030eea3f1ae",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-ex-marseillais-amar-dedic-arrete-par-la-police-anglaise-parce-qu-il-se-baladait-avec-un-arc-et-des-fleches-en-pleine-campagne/1741499#at_medium=RSS_feeds",
+    "title": "L'ex-Marseillais Amar Dedic arrêté par la police anglaise... parce qu'il se baladait avec un arc et des flèches en pleine campagne",
+    "ko": "전 마르세유 선수 데디치, 활과 화살 소지로 영국 경찰에 체포",
+    "source": "lequipe",
+    "publishedAt": "2026-11-05T22:57:31.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "아마르 데디치"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "27e70ae52819",
+    "url": "https://www.dailystar.co.uk/sport/football/prem-stars-stopped-assist-police-37849255",
+    "title": "Prem star 'questioned by police' while 'carrying bow and arrow' as teammates 'stopped to help'",
+    "ko": "프리미어리그 선수, 활과 화살 소지로 경찰 조사 받아",
+    "source": "star",
+    "publishedAt": "2026-11-06T07:58:41.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield",
+    "transfer": null
+   },
+   {
+    "id": "4fb61e6769ca",
+    "url": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
+    "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
+    "ko": "데디치, 활과 화살 소지 논란 징계 피할 전망",
+    "source": "guardian",
+    "publishedAt": "2026-11-06T10:38:34.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "아마르 데디치"
+    ],
+    "playerTags": [],
+    "author": "Louise Taylor",
+    "transfer": null
+   },
+   {
+    "id": "5bd66f807409",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
+    "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
+    "ko": "뉴캐슬 데디치, 활과 화살 소지로 경찰 검문",
+    "source": "bbc",
+    "publishedAt": "2026-11-06T11:16:07.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데디치"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "45731e9d49f6",
+    "url": "https://www.thesun.co.uk/sport/40942112/newcastle-amar-dedic-fulham-police/",
+    "title": "Newcastle make Amar Dedic decision for Fulham clash after he was questioned by police in bow and arrows controversy",
+    "ko": "뉴캐슬, 활과 화살 논란으로 경찰 조사받은 데디치 풀럼전 결정",
+    "source": "sun",
+    "publishedAt": "2026-11-06T17:55:05.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "아마르 데디치"
+    ],
+    "playerTags": [],
+    "author": "Gary Stonehouse",
+    "transfer": null
+   },
+   {
+    "id": "22db8e8a5695",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/newcastle/detalhe/senhor-dos-aneis-dedic-reage-com-humor-apos-detencao",
+    "title": "‘Senhor dos Anéis’: Dedic reage com humor após detenção",
+    "ko": "데디치, 체포 후 유머로 반응",
+    "source": "record",
+    "publishedAt": "2026-11-06T19:15:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데디치"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0d80a8c5e841",
+    "url": "https://www.thesun.co.uk/sport/40946792/amar-dedic-breaks-silence-police-bow-arrows-newcastle-bosnia/",
+    "title": "Newcastle ace Amar Dedic breaks silence on bow and arrow incident in hilarious fashion after being questioned by police",
+    "ko": "뉴캐슬 데디치, 활과 화살 사건 경찰 조사 후 우스운 방식으로 입 열어",
+    "source": "sun",
+    "publishedAt": "2026-11-07T10:12:31.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데디치"
+    ],
+    "playerTags": [],
+    "author": "James Graham",
+    "transfer": null
+   },
+   {
+    "id": "cd7d1c486fc9",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-nufc-amar-dedic-34877741",
+    "title": "Newcastle United’s Amar Dedic breaks silence after police question him over bow and arrow",
+    "ko": "데디치, 활과 화살 소지 혐의로 경찰 조사 후 입장 밝혀",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T10:50:25.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데디치"
+    ],
+    "playerTags": [],
+    "author": "Matthew Abbott",
+    "transfer": null
+   },
+   {
+    "id": "c284e4631797",
+    "url": "https://www.mirror.co.uk/sport/football/news/premier-league-bow-and-arrow-37853914",
+    "title": "Premier League star breaks his silence after bow and arrow incident and police operation",
+    "ko": "활과 화살 사건과 경찰 작전 이후 프리미어리그 스타 입 열어",
+    "source": "mirror",
+    "publishedAt": "2026-11-07T12:24:40.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matthew Abbott",
+    "transfer": null
+   },
+   {
+    "id": "8609d46a6aaf",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/amar-dedic-reacts-witty-newcastle-34879852",
+    "title": "Amar Dedic reacts to witty Newcastle United chant as silence broken on bow and arrow incident",
+    "ko": "데디치, 활과 화살 사건에 침묵 깨고 반응",
+    "source": "chronicle",
+    "publishedAt": "2026-11-08T09:55:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데디치"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 9,
+  "score": 1.89,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-05T19:52:31.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle's Dedic stopped by police after being spotted with bow and arrows"
  },
  {
   "slug": "valencia-real-madrid-2026-11-06",
   "mode": "llm",
   "titleKo": "발렌시아 대 레알 마드리드 라리가 경기",
   "createdAt": "2026-11-06T09:45:53.000Z",
-  "updatedAt": "2026-11-08T09:06:00.000Z",
+  "updatedAt": "2026-11-08T09:52:55.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -468,6 +979,24 @@
     "transfer": null
    },
    {
+    "id": "d97c140123f5",
+    "url": "https://as.com/futbol/fotorrelato/las-imagenes-de-la-victoria-del-real-madrid-en-valencia-f202611-f/",
+    "title": "Las imágenes de la victoria del Real Madrid en Valencia",
+    "ko": "발렌시아 원정서 거둔 레알 마드리드 승리 장면",
+    "source": "as",
+    "publishedAt": "2026-11-07T22:38:10.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
     "id": "22dcea3e1feb",
     "url": "https://www.lequipe.fr/Football/Article/En-deplacement-a-valence-avec-le-real-madrid-kylian-mbappe-a-pu-constater-que-l-affaire-ceuta-lui-etait-pardonnee/1742150#at_medium=RSS_feeds",
     "title": "En déplacement à Valence avec le Real Madrid, Kylian Mbappé a pu constater que « l'affaire Ceuta » lui était pardonnée",
@@ -524,11 +1053,29 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "b7225e7dc143",
+    "url": "https://as.com/futbol/videos/el-tremendo-dato-de-las-faltas-del-valencia-que-ha-enfurecido-a-real-madrid-tv-f202611-v/",
+    "title": "El tremendo dato de las faltas del Valencia que ha enfurecido a Real Madrid TV",
+    "ko": "발렌시아의 파울 기록, 레알 마드리드 분노 부른 수치",
+    "source": "as",
+    "publishedAt": "2026-11-08T09:52:55.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 4,
   "sourceCount": 6,
-  "score": 2.85,
+  "score": 2.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -544,7 +1091,875 @@
    "at": "2026-11-06T09:45:53.000Z",
    "viaQuote": false
   },
-  "headline": "Maffeo sem filtros ao intervalo do Valencia-Real Madrid: «Esta entrevista aqui é uma m...»"
+  "headline": "El tremendo dato de las faltas del Valencia que ha enfurecido a Real Madrid TV"
+ },
+ {
+  "slug": "besiktas-genclerbirligi-2026-11-08",
+  "mode": "llm",
+  "titleKo": "베식타스 대 젠클러비르리기 경기 선발 논쟁",
+  "createdAt": "2026-11-06T18:10:11.000Z",
+  "updatedAt": "2026-11-08T09:33:05.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "besiktas"
+  ],
+  "players": [
+   "오르쿤"
+  ],
+  "sig": [
+   "orkun",
+   "gençlerbirliği"
+  ],
+  "articles": [
+   {
+    "id": "5ed8e5662b94",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/07/italianodan-orkun-icin-flas-karar-genclerbirligi-karsilasmasinda",
+    "title": "Italiano'dan Orkun için flaş karar! Gençlerbirliği karşılaşmasında...",
+    "ko": "이탈리아노, 오르쿤 관련 중대 결정 내려",
+    "source": "fotomac",
+    "publishedAt": "2026-11-06T18:10:11.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오르쿤"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7c8e61e4d271",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/07/besiktasin-rakibi-genclerbirligi",
+    "title": "Beşiktaş'ın rakibi Gençlerbirliği!",
+    "ko": "베식타스의 상대는 귄클레르비를리기",
+    "source": "fotomac",
+    "publishedAt": "2026-11-07T06:47:28.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "989d43ac451e",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/07/besiktas-genclerbirligi-mesaisini-tamamladi",
+    "title": "Beşiktaş Gençlerbirliği mesaisini tamamladı",
+    "ko": "베식타스, 귀뇌르비를리기전 준비 마쳐",
+    "source": "fotomac",
+    "publishedAt": "2026-11-07T12:13:12.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "efa1b79582d6",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/08/besiktasta-tek-yol-3-puan-italianonun-ilk-11-karari",
+    "title": "Beşiktaş'ta tek yol 3 puan! Italiano'nun ilk 11 kararı...",
+    "ko": "베식타스, 승점 3점 필요…이탈리아노 선발 구상 주목",
+    "source": "fotomac",
+    "publishedAt": "2026-11-07T18:24:34.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fd381957cdef",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/08/besiktas-genclerbirligi-maci-saat-kacta-hangi-kanalda-muhtemel-11ler",
+    "title": "Beşiktaş-Gençlerbirliği maçı saat kaçta, hangi kanalda? Muhtemel 11'ler",
+    "ko": "베식타스 대 젠클러비르리기 경기 시간·중계·예상 선발",
+    "source": "fotomac",
+    "publishedAt": "2026-11-08T06:59:44.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bba569152073",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/08/besiktas-genclerbirligi-macinin-vari-aciklandi",
+    "title": "Beşiktaş-Gençlerbirliği maçının VAR'ı açıklandı!",
+    "ko": "베식타스-젠클러비르리기 경기 VAR 배정 발표",
+    "source": "fotomac",
+    "publishedAt": "2026-11-08T09:33:05.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.14,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "포토마치 (베식타스)",
+   "source": "fotomac",
+   "at": "2026-11-06T18:10:11.000Z",
+   "viaQuote": false
+  },
+  "headline": "Beşiktaş-Gençlerbirliği maçının VAR'ı açıklandı!"
+ },
+ {
+  "slug": "schalke-gladbach-ii-2026-11-08",
+  "mode": "llm",
+  "titleKo": "샬케 U23 대 묀헨글라트바흐 II 경기",
+  "createdAt": "2026-11-06T11:17:25.000Z",
+  "updatedAt": "2026-11-08T09:29:18.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "schalke",
+   "gladbach"
+  ],
+  "players": [
+   "카박"
+  ],
+  "sig": [
+   "weg",
+   "krise"
+  ],
+  "articles": [
+   {
+    "id": "cbcb68ff7f8f",
+    "url": "https://www.kicker.de/schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
+    "title": "Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
+    "ko": "샬케 U23, 묀헨글라트바흐 II전으로 위기 탈출 도전",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T11:17:25.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7d2749e62a5a",
+    "url": "https://www.kicker.de/live-schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
+    "title": "LIVE! Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
+    "ko": "샬케 U23, 묀헨글라트바흐 II와 위기 탈출 경기",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T11:17:25.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6287804747ab",
+    "url": "https://www.kicker.de/schalkes-u-23-erleidet-gegen-gladbach-ii-schiffbruch-1257801/artikel#omrss",
+    "title": "Schalkes U 23 erleidet gegen Gladbach II Schiffbruch",
+    "ko": "샬케 U23, 묀헨글라트바흐 II에 대패",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T14:56:18.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e651efac3db4",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbachs-u23-kontert-fc-schalke-04-aus-drei-doppelpacks-bei-7-0-kantersieg_aid-157930089",
+    "title": "Borussias U23 kontert gnadenlos: Drei Doppelpacks bei Gladbacher Kantersieg auf Schalke",
+    "ko": "묀헨글라트바흐 U23, 샬케 원정서 대승…세 명 해트트릭 가까운 쌍포",
+    "source": "rp",
+    "publishedAt": "2026-11-06T15:44:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "schalke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Thomas Grulke",
+    "transfer": null
+   },
+   {
+    "id": "c0036f3cb79c",
+    "url": "https://www.kicker.de/schalke-ii-gegen-gladbach-ii-2026-regionalliga-west-5238583/spielbericht#omrss",
+    "title": "Nach starkem Start völlig aufgelöst: Schalker U 23 kassiert Klatsche gegen Gladbach II",
+    "ko": "샬케 U23, 묀헨글라트바흐 II전 대패 충격",
+    "source": "kicker",
+    "publishedAt": "2026-11-06T16:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "46a991b740bd",
+    "url": "https://www.kicker.de/das-dritte-wiedersehen-kabaks-besonderer-draht-zu-den-knappen-1269654/artikel#omrss",
+    "title": "Das dritte Wiedersehen: Kabaks besonderer Draht zu den Knappen",
+    "ko": "카박의 세 번째 재회, 쿠트 그리고 샬케와의 특별한 인연",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T09:29:18.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "카박"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.76,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-06T11:17:25.000Z",
+   "viaQuote": false
+  },
+  "headline": "Das dritte Wiedersehen: Kabaks besonderer Draht zu den Knappen"
+ },
+ {
+  "slug": "anderlecht-club-brugge-2026-11-08",
+  "mode": "llm",
+  "titleKo": "안더레흐트 대 클럽 브뤼허 경기 전망",
+  "createdAt": "2026-11-07T06:07:24.000Z",
+  "updatedAt": "2026-11-08T09:29:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "club-brugge"
+  ],
+  "players": [
+   "얀 비르길리"
+  ],
+  "sig": [
+   "anderlecht",
+   "louvière",
+   "frank",
+   "boeckx"
+  ],
+  "articles": [
+   {
+    "id": "9001e3ced4b9",
+    "url": "https://www.hln.be/belgisch-voetbal/je-bent-anderlecht-he-niet-la-louviere-analist-frank-boeckx-legt-uit-hoe-en-waarom-paars-wit-zondag-kan-winnen-van-club-brugge~a54188f6/",
+    "title": "“Je bent Anderlecht hè, niet La Louvière”: analist Frank Boeckx legt uit hoe en waarom paars-wit zondag kan winnen van Club Brugge",
+    "ko": "안더레흐트, 주말 클럽 브뤼허 격파 가능성 분석",
+    "source": "hln",
+    "publishedAt": "2026-11-07T06:07:24.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "c6920cdd5436",
+    "url": "https://www.hln.be/belgisch-voetbal/tactisch-expert-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
+    "title": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
+    "ko": "안더레흐트 대 클럽 브뤼허, 일요일 맞대결 승부 전망",
+    "source": "hln",
+    "publishedAt": "2026-11-07T06:16:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "9e1f50d58b30",
+    "url": "https://www.hln.be/belgisch-voetbal/analist-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
+    "title": "Analist Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
+    "ko": "프랭크 뵈크스, 안더레흐트가 일요일 클럽 브뤼허를 꺾을 방법 분석",
+    "source": "hln",
+    "publishedAt": "2026-11-07T06:16:00.000Z",
+    "credited": "프랭크 뵈크스",
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "e549f80f0357",
+    "url": "https://www.hln.be/jupiler-pro-league/live-club-brugge-zonder-jan-virgili-tegen-anderlecht-jonge-doelman-van-nxt-pijnlijk-in-de-fout-oude-bekende-flips-profiteert-heerlijk~ad78c7c0/",
+    "title": "LIVE. Club Brugge zonder Jan Virgili tegen Anderlecht - Jonge doelman van NXT pijnlijk in de fout, oude bekende Flips profiteert héérlijk",
+    "ko": "클럽 브뤼허, 안더레흐트전 라이브…유망 골키퍼 실수 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-07T17:42:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "얀 비르길리"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "2252b372fdf1",
+    "url": "https://www.hln.be/jupiler-pro-league/live-een-nederlaag-in-vorige-vijf-seizoenen-deze-statistiek-moet-anderlecht-vertrouwen-geven-richting-clash-op-jan-breydel~ad78c7c0/",
+    "title": "LIVE. Eén nederlaag in vorige vijf seizoenen: deze statistiek moet Anderlecht vertrouwen geven richting clash op Jan Breydel",
+    "ko": "안더레흐트, 얀 브레이델에서 클럽 브뤼허와 대결…최근 패배 적어",
+    "source": "hln",
+    "publishedAt": "2026-11-08T09:29:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "프랭크 뵈크스",
+   "at": "2026-11-07T06:07:24.000Z",
+   "viaQuote": true
+  },
+  "headline": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”"
+ },
+ {
+  "slug": "kveradze-everton-transfer",
+  "mode": "llm",
+  "titleKo": "에버턴 크베라제 영입 관심",
+  "createdAt": "2026-11-07T09:00:00.000Z",
+  "updatedAt": "2026-11-08T09:28:57.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "everton"
+  ],
+  "players": [
+   "크베라제",
+   "크베라체"
+  ],
+  "sig": [
+   "giorgi",
+   "kveradze",
+   "tfg"
+  ],
+  "articles": [
+   {
+    "id": "a5c3a3fe5a9a",
+    "url": "https://www.footballinsider247.com/everton/transfers/everton-backed-for-15m-giorgi-kveradze-swoop-tfg-will-consider-it",
+    "title": "Everton backed for '£15m' Giorgi Kveradze swoop: 'TFG will consider it'",
+    "ko": "에버턴, 1500만 파운드 크베라제 영입 관심 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-07T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "크베라제"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "크베라제",
+     "from": null,
+     "to": "에버턴"
+    }
+   },
+   {
+    "id": "7e38645bd16d",
+    "url": "https://www.footballinsider247.com/everton/transfers/one-to-watch-keith-wyness-everton-well-placed-for-giorgi-kveradze-deal-after-development",
+    "title": "'One to watch' - Keith Wyness: Everton well placed for Giorgi Kveradze deal after development",
+    "ko": "에버턴, 기오르기 크베라체 영입 적기 평가",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T09:28:57.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "크베라체"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "크베라체",
+     "from": null,
+     "to": "에버턴"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "a5c3a3fe5a9a",
+    "at": "2026-11-07T09:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "크베라제",
+   "from": null,
+   "to": "에버턴"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-07T09:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "'One to watch' - Keith Wyness: Everton well placed for Giorgi Kveradze deal after development"
+ },
+ {
+  "slug": "doumbia-celtic-transfer-20261108",
+  "mode": "llm",
+  "titleKo": "셀틱 두음비아 영입 협상",
+  "createdAt": "2026-11-08T09:23:28.000Z",
+  "updatedAt": "2026-11-08T09:23:28.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [],
+  "players": [
+   "두음비아"
+  ],
+  "sig": [
+   "celtic",
+   "abdoulaye",
+   "doumbia"
+  ],
+  "articles": [
+   {
+    "id": "3047fb9e025a",
+    "url": "https://www.footballinsider247.com/celtic/sources-celtic-turn-attention-to-completing-abdoulaye-doumbia-deal-ahead-of-january",
+    "title": "Sources: Celtic turn attention to completing Abdoulaye Doumbia deal ahead of January",
+    "ko": "셀틱, 아브둘라예 두음비아 영입 마무리 착수",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T09:23:28.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "두음비아"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "두음비아",
+     "from": null,
+     "to": "셀틱"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.52,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "3047fb9e025a",
+    "at": "2026-11-08T09:23:28.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "두음비아",
+   "from": null,
+   "to": "셀틱"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-08T09:23:28.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Celtic turn attention to completing Abdoulaye Doumbia deal ahead of January"
+ },
+ {
+  "slug": "man-utd-manager-future-20261102",
+  "mode": "llm",
+  "titleKo": "맨유 감독 거취 논란",
+  "createdAt": "2026-11-01T22:28:05.000Z",
+  "updatedAt": "2026-11-08T09:15:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [
+   "michael",
+   "carrick"
+  ],
+  "articles": [
+   {
+    "id": "e47db4840288",
+    "url": "https://www.dailystar.co.uk/sport/football/michael-carricks-future-update-man-37832555",
+    "title": "Major update on Michael Carrick's Man Utd future as timeline emerges after latest loss",
+    "ko": "캐릭 맨유 거취, 최신 패배 뒤 타임라인 공개 임박",
+    "source": "star",
+    "publishedAt": "2026-11-01T22:28:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield",
+    "transfer": null
+   },
+   {
+    "id": "62ee36256a1f",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sack-man-united-34844297",
+    "title": "Man United news LIVE: Michael Carrick sack deadline set as Eddie Howe makes decision",
+    "ko": "맨유 캐릭 경질 시한 설정, 하우가 결정 임박",
+    "source": "men",
+    "publishedAt": "2026-11-03T13:29:37.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "25ef1fe0c05a",
+    "url": "https://www.thesun.co.uk/sport/40899739/sir-jim-ratcliffe-sacks-lausanne-sport-carrick-man-utd/",
+    "title": "Sir Jim Ratcliffe sacks other club’s manager after putting them up for sale as Carrick’s Man Utd future also in doubt",
+    "ko": "래트클리프, 타 구단 감독 경질 후 매각 매물로…캐릭 거취도 불투명",
+    "source": "sun",
+    "publishedAt": "2026-11-03T19:38:26.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "b6237c688f20",
+    "url": "https://www.mirror.co.uk/sport/football/match-reports/manchester-united-roma-champions-league-37840042",
+    "title": "Man Utd stage dramatic Roma comeback to buy Michael Carrick stay of execution",
+    "ko": "맨유, 로마 극적 역전으로 캐릭 감독 시간 벌어",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T21:57:34.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "9931a68e3f1a",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-manchester-united-carrick-roma-37840069",
+    "title": "Michael Carrick's masterclass could save Man Utd job in incredible comeback win",
+    "ko": "캐릭, 로마 상대 역전승으로 경질 위기 모면",
+    "source": "star",
+    "publishedAt": "2026-11-03T21:58:32.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cameron Winstanley",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "72881a9428e9",
+    "url": "https://www.mirror.co.uk/sport/football/news/ineos-man-utd-lausanne-sport-37842741",
+    "title": "INEOS sack manager as Man Utd co-owners make brutal decision after 'lengthy talks'",
+    "ko": "이네오스, 맨유 공동구단주 긴 협상 끝 감독 경질 결정 보도",
+    "source": "mirror",
+    "publishedAt": "2026-11-04T13:54:12.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Bruna Reis",
+    "transfer": null
+   },
+   {
+    "id": "3809074e2973",
+    "url": "https://www.skysports.com/football/news/12040/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
+    "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
+    "ko": "데샹, 맨유의 카릭 대체 제안 거절설",
+    "source": "sky",
+    "publishedAt": "2026-11-05T23:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "29c0f71ee012",
+    "url": "https://www.mirror.co.uk/sport/football/news/eddie-howe-man-utd-hoeness-37853092",
+    "title": "What Man Utd really think of Eddie Howe as 'Julian Nagelsmann's stock takes big hit'",
+    "ko": "맨유, 하우 감독 평가…나겔스만 위상 하락 속 주목",
+    "source": "mirror",
+    "publishedAt": "2026-11-06T21:41:16.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley, Bruna Reis",
+    "transfer": null
+   },
+   {
+    "id": "9814fcb06a1c",
+    "url": "https://www.footballinsider247.com/manchester-united/sources-eddie-howe-ready-to-join-man-united-immediately-after-michael-carrick-sack-news",
+    "title": "Sources: Eddie Howe ready to join Man United immediately after Michael Carrick sack news",
+    "ko": "하우, 카릭 경질 소식 직후 맨유 즉시 합류 준비 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-07T12:42:24.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2653396a9262",
+    "url": "https://www.footballinsider247.com/manchester-united/amazing-stefan-borson-suggests-unai-emery-could-join-man-united-in-unexpected-twist",
+    "title": "'Amazing...' - Stefan Borson suggests Unai Emery could join Man United in unexpected twist",
+    "ko": "보르손, 에메리의 맨유 부임 가능성 언급",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T09:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 0.51,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-01T22:28:05.000Z",
+   "viaQuote": false
+  },
+  "headline": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
+  "aliases": [
+   "man-utd-manager-future-20261101",
+   "man-utd-manager-future-20261103",
+   "man-utd-manager-future-20261104",
+   "man-utd-manager-future-20261105",
+   "man-utd-manager-future-20261106",
+   "man-utd-manager-future-20261107",
+   "man-utd-manager-future-20261108"
+  ]
+ },
+ {
+  "slug": "man-city-manager-future",
+  "mode": "llm",
+  "titleKo": "맨시티 마레스카 감독 최근 상황",
+  "createdAt": "2026-11-08T09:07:00.000Z",
+  "updatedAt": "2026-11-08T09:07:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-city"
+  ],
+  "players": [],
+  "sig": [
+   "maresca"
+  ],
+  "articles": [
+   {
+    "id": "79e316e7a118",
+    "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "title": "Man City latest: Maresca hopeful international break can help ailing City",
+    "ko": "마레스카, 국제대회 휴식기가 시티 회복에 도움 되길 기대",
+    "source": "sky",
+    "publishedAt": "2026-11-08T09:07:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.49,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-08T09:07:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Man City latest: Maresca hopeful international break can help ailing City"
  },
  {
   "slug": "crystal-palace-liverpool-2026-11-07",
@@ -676,7 +2091,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.48,
+  "score": 1.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1329,7 +2744,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.5,
+  "score": 0.43,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1572,7 +2987,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 3.1,
+  "score": 2.62,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1752,7 +3167,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.69,
+  "score": 1.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1974,7 +3389,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.05,
+  "score": 0.89,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5062,6 +6477,22 @@
     "transfer": null
    },
    {
+    "id": "d261182ad8ec",
+    "url": "https://as.com/futbol/fotorrelato/tenerife-el-homenaje-a-jesus-de-miguel-en-imagenes-f202611-f/",
+    "title": "Tenerife: el homenaje a Jesús de Miguel en imágenes",
+    "ko": "테네리페, 데 미겔 추모 사진 공개",
+    "source": "as",
+    "publishedAt": "2026-11-07T19:29:43.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
     "id": "87fd0d5a7790",
     "url": "https://as.com/futbol/segunda/eterno-jesus-de-miguel-f202611-n/",
     "title": "Eterno Jesús De Miguel",
@@ -5200,9 +6631,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 1,
   "sourceCount": 15,
-  "score": 0.51,
+  "score": 0.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5547,7 +6978,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 6,
-  "score": 2.9,
+  "score": 2.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5907,7 +7338,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 6,
-  "score": 2,
+  "score": 1.69,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5978,9 +7409,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.72,
+  "score": 1.23,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6590,7 +8021,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7148,7 +8579,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.35,
+  "score": 1.14,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7292,7 +8723,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.41,
+  "score": 0.34,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7304,134 +8735,6 @@
    "viaQuote": true
   },
   "headline": "Jamie Carragher's row with Aston Villa exposed a painful truth about Man Utd's new reality"
- },
- {
-  "slug": "besiktas-genclerbirligi-2026-11-08",
-  "mode": "llm",
-  "titleKo": "베식타스 대 젠클러비르리기 경기 선발 논쟁",
-  "createdAt": "2026-11-06T18:10:11.000Z",
-  "updatedAt": "2026-11-08T06:59:44.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "besiktas"
-  ],
-  "players": [
-   "오르쿤"
-  ],
-  "sig": [
-   "orkun",
-   "gençlerbirliği"
-  ],
-  "articles": [
-   {
-    "id": "5ed8e5662b94",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/07/italianodan-orkun-icin-flas-karar-genclerbirligi-karsilasmasinda",
-    "title": "Italiano'dan Orkun için flaş karar! Gençlerbirliği karşılaşmasında...",
-    "ko": "이탈리아노, 오르쿤 관련 중대 결정 내려",
-    "source": "fotomac",
-    "publishedAt": "2026-11-06T18:10:11.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오르쿤"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7c8e61e4d271",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/07/besiktasin-rakibi-genclerbirligi",
-    "title": "Beşiktaş'ın rakibi Gençlerbirliği!",
-    "ko": "베식타스의 상대는 귄클레르비를리기",
-    "source": "fotomac",
-    "publishedAt": "2026-11-07T06:47:28.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "989d43ac451e",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/07/besiktas-genclerbirligi-mesaisini-tamamladi",
-    "title": "Beşiktaş Gençlerbirliği mesaisini tamamladı",
-    "ko": "베식타스, 귀뇌르비를리기전 준비 마쳐",
-    "source": "fotomac",
-    "publishedAt": "2026-11-07T12:13:12.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "efa1b79582d6",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/08/besiktasta-tek-yol-3-puan-italianonun-ilk-11-karari",
-    "title": "Beşiktaş'ta tek yol 3 puan! Italiano'nun ilk 11 kararı...",
-    "ko": "베식타스, 승점 3점 필요…이탈리아노 선발 구상 주목",
-    "source": "fotomac",
-    "publishedAt": "2026-11-07T18:24:34.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fd381957cdef",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/08/besiktas-genclerbirligi-maci-saat-kacta-hangi-kanalda-muhtemel-11ler",
-    "title": "Beşiktaş-Gençlerbirliği maçı saat kaçta, hangi kanalda? Muhtemel 11'ler",
-    "ko": "베식타스 대 젠클러비르리기 경기 시간·중계·예상 선발",
-    "source": "fotomac",
-    "publishedAt": "2026-11-08T06:59:44.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.35,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "포토마치 (베식타스)",
-   "source": "fotomac",
-   "at": "2026-11-06T18:10:11.000Z",
-   "viaQuote": false
-  },
-  "headline": "Beşiktaş-Gençlerbirliği maçı saat kaçta, hangi kanalda? Muhtemel 11'ler"
  },
  {
   "slug": "gabriel-man-utd-transfer",
@@ -7504,7 +8807,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.55,
+  "score": 1.31,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7588,7 +8891,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.24,
+  "score": 1.05,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7655,7 +8958,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7763,7 +9066,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.7,
+  "score": 0.59,
   "topTier": 3,
   "stageHistory": [
    {
@@ -7826,7 +9129,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.15,
+  "score": 0.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7890,7 +9193,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8563,9 +9866,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 10,
-  "score": 1.61,
+  "score": 1.32,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8621,7 +9924,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.58,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -8670,7 +9973,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.09,
+  "score": 0.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8930,7 +10233,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 1.04,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9639,7 +10942,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.96,
+  "score": 0.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10676,7 +11979,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.61,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10734,7 +12037,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.88,
+  "score": 0.75,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10800,7 +12103,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.45,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10852,7 +12155,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11482,7 +12785,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11640,7 +12943,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11888,7 +13191,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 0.61,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11971,7 +13274,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.52,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12046,7 +13349,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12202,9 +13505,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.85,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12503,7 +13806,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12661,7 +13964,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12744,9 +14047,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12833,9 +14136,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12898,9 +14201,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12978,9 +14281,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13029,9 +14332,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15863,117 +17166,6 @@
   "headline": "Sources: Diogo Dalot edges closer to Man United exit as interest in him grows"
  },
  {
-  "slug": "anderlecht-club-brugge-2026-11-08",
-  "mode": "llm",
-  "titleKo": "안더레흐트 대 클럽 브뤼허 경기 전망",
-  "createdAt": "2026-11-07T06:07:24.000Z",
-  "updatedAt": "2026-11-07T17:42:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "club-brugge"
-  ],
-  "players": [
-   "얀 비르길리"
-  ],
-  "sig": [
-   "anderlecht",
-   "louvière",
-   "frank",
-   "boeckx"
-  ],
-  "articles": [
-   {
-    "id": "9001e3ced4b9",
-    "url": "https://www.hln.be/belgisch-voetbal/je-bent-anderlecht-he-niet-la-louviere-analist-frank-boeckx-legt-uit-hoe-en-waarom-paars-wit-zondag-kan-winnen-van-club-brugge~a54188f6/",
-    "title": "“Je bent Anderlecht hè, niet La Louvière”: analist Frank Boeckx legt uit hoe en waarom paars-wit zondag kan winnen van Club Brugge",
-    "ko": "안더레흐트, 주말 클럽 브뤼허 격파 가능성 분석",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:07:24.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "c6920cdd5436",
-    "url": "https://www.hln.be/belgisch-voetbal/tactisch-expert-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
-    "title": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
-    "ko": "안더레흐트 대 클럽 브뤼허, 일요일 맞대결 승부 전망",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:16:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "9e1f50d58b30",
-    "url": "https://www.hln.be/belgisch-voetbal/analist-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
-    "title": "Analist Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
-    "ko": "프랭크 뵈크스, 안더레흐트가 일요일 클럽 브뤼허를 꺾을 방법 분석",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:16:00.000Z",
-    "credited": "프랭크 뵈크스",
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "e549f80f0357",
-    "url": "https://www.hln.be/jupiler-pro-league/live-club-brugge-zonder-jan-virgili-tegen-anderlecht-jonge-doelman-van-nxt-pijnlijk-in-de-fout-oude-bekende-flips-profiteert-heerlijk~ad78c7c0/",
-    "title": "LIVE. Club Brugge zonder Jan Virgili tegen Anderlecht - Jonge doelman van NXT pijnlijk in de fout, oude bekende Flips profiteert héérlijk",
-    "ko": "클럽 브뤼허, 안더레흐트전 라이브…유망 골키퍼 실수 주목",
-    "source": "hln",
-    "publishedAt": "2026-11-07T17:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "얀 비르길리"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "프랭크 뵈크스",
-   "at": "2026-11-07T06:07:24.000Z",
-   "viaQuote": true
-  },
-  "headline": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”"
- },
- {
   "slug": "spain-portugal-finalissima-2026-11-06",
   "mode": "llm",
   "titleKo": "스페인 대 포르투갈 피날리시마 준결승",
@@ -16154,172 +17346,6 @@
    "viaQuote": false
   },
   "headline": "Que reste-t-il du passage de Létang à Rennes ?"
- },
- {
-  "slug": "neuer-injury",
-  "mode": "llm",
-  "titleKo": "노이어 기록 달성 직후 또 부상",
-  "createdAt": "2026-11-03T23:21:27.000Z",
-  "updatedAt": "2026-11-07T17:19:20.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "bayern",
-   "mainz"
-  ],
-  "players": [
-   "노이어",
-   "요주아 키미히"
-  ],
-  "sig": [
-   "habe",
-   "morgen",
-   "schmerzen",
-   "gehen"
-  ],
-  "articles": [
-   {
-    "id": "c55ca8f3a10c",
-    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
-    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
-    "ko": "노이어, 부상 공백 중 솔직한 속내 공개",
-    "source": "tz",
-    "publishedAt": "2026-11-03T22:59:23.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "d264c16c5f1c",
-    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
-    "ko": "노이어 \"오늘 아침에도 걸을 때 통증 있었다\" 고백",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "7b016211a0e7",
-    "url": "https://www.kicker.de/neuer-gesteht-hatte-auch-heute-morgen-wieder-schmerzen-beim-gehen-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Hatte auch heute Morgen wieder Schmerzen beim Gehen\"",
-    "ko": "노이어 \"오늘 아침에도 걸을 때 통증이 있었다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "dfbef57c2979",
-    "url": "https://www.tz.de/sport/fc-bayern/neuer-jubilaeum-endet-vorzeitig-mit-naechster-verletzung-zr-94579049.html",
-    "title": "Neuer-Jubiläum endet vorzeitig mit nächster Verletzung",
-    "ko": "노이어 기록 달성 직후 또 부상, 복귀 일정 차질",
-    "source": "tz",
-    "publishedAt": "2026-11-07T16:29:22.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Sebastian Isbaner",
-    "transfer": null
-   },
-   {
-    "id": "e505e1df42e1",
-    "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-    "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
-    "ko": "바이에른, 마인츠 격파…노이어 기록일 부상으로 씁쓸",
-    "source": "guardian",
-    "publishedAt": "2026-11-07T17:13:48.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern",
-     "mainz"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Reuters",
-    "transfer": null
-   },
-   {
-    "id": "27db21e03d04",
-    "url": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel#omrss",
-    "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
-    "ko": "키미히 \"노이어 교체 아웃이면 심각할 것\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T17:19:20.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "요주아 키미히",
-     "노이어"
-    ],
-    "playerTags": [
-     "joshua-kimmich"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 3,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "joshua-kimmich"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-03T22:59:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\""
  },
  {
   "slug": "dewsbury-hall-everton-relationship",
@@ -18310,210 +19336,6 @@
   "headline": "Como equal Champions League record win with 9-1 victory against Lens"
  },
  {
-  "slug": "man-utd-manager-future-20261102",
-  "mode": "llm",
-  "titleKo": "맨유 감독 거취 논란",
-  "createdAt": "2026-11-01T22:28:05.000Z",
-  "updatedAt": "2026-11-07T12:42:24.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [],
-  "sig": [
-   "michael",
-   "carrick"
-  ],
-  "articles": [
-   {
-    "id": "e47db4840288",
-    "url": "https://www.dailystar.co.uk/sport/football/michael-carricks-future-update-man-37832555",
-    "title": "Major update on Michael Carrick's Man Utd future as timeline emerges after latest loss",
-    "ko": "캐릭 맨유 거취, 최신 패배 뒤 타임라인 공개 임박",
-    "source": "star",
-    "publishedAt": "2026-11-01T22:28:05.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield",
-    "transfer": null
-   },
-   {
-    "id": "62ee36256a1f",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sack-man-united-34844297",
-    "title": "Man United news LIVE: Michael Carrick sack deadline set as Eddie Howe makes decision",
-    "ko": "맨유 캐릭 경질 시한 설정, 하우가 결정 임박",
-    "source": "men",
-    "publishedAt": "2026-11-03T13:29:37.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "25ef1fe0c05a",
-    "url": "https://www.thesun.co.uk/sport/40899739/sir-jim-ratcliffe-sacks-lausanne-sport-carrick-man-utd/",
-    "title": "Sir Jim Ratcliffe sacks other club’s manager after putting them up for sale as Carrick’s Man Utd future also in doubt",
-    "ko": "래트클리프, 타 구단 감독 경질 후 매각 매물로…캐릭 거취도 불투명",
-    "source": "sun",
-    "publishedAt": "2026-11-03T19:38:26.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "b6237c688f20",
-    "url": "https://www.mirror.co.uk/sport/football/match-reports/manchester-united-roma-champions-league-37840042",
-    "title": "Man Utd stage dramatic Roma comeback to buy Michael Carrick stay of execution",
-    "ko": "맨유, 로마 극적 역전으로 캐릭 감독 시간 벌어",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T21:57:34.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Ridley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "9931a68e3f1a",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-manchester-united-carrick-roma-37840069",
-    "title": "Michael Carrick's masterclass could save Man Utd job in incredible comeback win",
-    "ko": "캐릭, 로마 상대 역전승으로 경질 위기 모면",
-    "source": "star",
-    "publishedAt": "2026-11-03T21:58:32.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cameron Winstanley",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "72881a9428e9",
-    "url": "https://www.mirror.co.uk/sport/football/news/ineos-man-utd-lausanne-sport-37842741",
-    "title": "INEOS sack manager as Man Utd co-owners make brutal decision after 'lengthy talks'",
-    "ko": "이네오스, 맨유 공동구단주 긴 협상 끝 감독 경질 결정 보도",
-    "source": "mirror",
-    "publishedAt": "2026-11-04T13:54:12.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bruna Reis",
-    "transfer": null
-   },
-   {
-    "id": "3809074e2973",
-    "url": "https://www.skysports.com/football/news/12040/13608662/didier-deschamps-turns-down-manchester-united-offer-to-replace-michael-carrick-paper-talk",
-    "title": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
-    "ko": "데샹, 맨유의 카릭 대체 제안 거절설",
-    "source": "sky",
-    "publishedAt": "2026-11-05T23:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "29c0f71ee012",
-    "url": "https://www.mirror.co.uk/sport/football/news/eddie-howe-man-utd-hoeness-37853092",
-    "title": "What Man Utd really think of Eddie Howe as 'Julian Nagelsmann's stock takes big hit'",
-    "ko": "맨유, 하우 감독 평가…나겔스만 위상 하락 속 주목",
-    "source": "mirror",
-    "publishedAt": "2026-11-06T21:41:16.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley, Bruna Reis",
-    "transfer": null
-   },
-   {
-    "id": "9814fcb06a1c",
-    "url": "https://www.footballinsider247.com/manchester-united/sources-eddie-howe-ready-to-join-man-united-immediately-after-michael-carrick-sack-news",
-    "title": "Sources: Eddie Howe ready to join Man United immediately after Michael Carrick sack news",
-    "ko": "하우, 카릭 경질 소식 직후 맨유 즉시 합류 준비 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-07T12:42:24.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 6,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Daily Star",
-   "source": "star",
-   "at": "2026-11-01T22:28:05.000Z",
-   "viaQuote": false
-  },
-  "headline": "Papers: Deschamps turns down Man Utd offer to replace Carrick",
-  "aliases": [
-   "man-utd-manager-future-20261101",
-   "man-utd-manager-future-20261103",
-   "man-utd-manager-future-20261104",
-   "man-utd-manager-future-20261105",
-   "man-utd-manager-future-20261106",
-   "man-utd-manager-future-20261107"
-  ]
- },
- {
   "slug": "jastin-injury",
   "mode": "llm",
   "titleKo": "하스틴 부상 재발",
@@ -18561,272 +19383,6 @@
    "viaQuote": false
   },
   "headline": "Jastin no arranca: vuelve a estar lesionado"
- },
- {
-  "slug": "dedic-incident",
-  "mode": "llm",
-  "titleKo": "데디치 활과 화살 소지 사건",
-  "createdAt": "2026-11-05T19:52:31.000Z",
-  "updatedAt": "2026-11-07T12:24:40.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "marseille"
-  ],
-  "players": [
-   "아마르 데디치",
-   "데디치"
-  ],
-  "sig": [
-   "amar",
-   "dedic",
-   "bow",
-   "arrows"
-  ],
-  "articles": [
-   {
-    "id": "7ba09c9fdb70",
-    "url": "https://www.thesun.co.uk/sport/40931751/amar-dedic-weapon-police-hunt/",
-    "title": "Newcastle star Amar Dedic spotted with BOW AND ARROWS in rural beauty spot as cops hunt down footballer & seize weapon",
-    "ko": "뉴캐슬 아마르 데디치, 시골에서 활과 화살 소지로 경찰 수색 대상",
-    "source": "sun",
-    "publishedAt": "2026-11-05T19:52:31.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "아마르 데디치"
-    ],
-    "playerTags": [],
-    "author": "Odhran Gallagher",
-    "transfer": null
-   },
-   {
-    "id": "16123a9daf7f",
-    "url": "https://as.com/futbol/internacional/la-policia-caza-a-dedic-con-flechas-y-un-arco-en-un-paraje-natural-f202611-n/",
-    "title": "La policía ‘caza’ a Dedic con flechas y un arco en un paraje natural",
-    "ko": "경찰, 자연공원에서 활과 화살 든 데디치 체포",
-    "source": "as",
-    "publishedAt": "2026-11-05T20:07:59.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데디치"
-    ],
-    "playerTags": [],
-    "author": "EFE EFE",
-    "transfer": null
-   },
-   {
-    "id": "8a008d7f63f9",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/amar-dedic-newcastle-united-police-34870144",
-    "title": "Newcastle United star 'sparks major police operation' as he's spotted with bow and arrow",
-    "ko": "뉴캐슬 선수, 활과 화살 소지로 경찰 출동 소동",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T20:48:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Felix Keith, Bruna Reis",
-    "transfer": null
-   },
-   {
-    "id": "9030eea3f1ae",
-    "url": "https://www.lequipe.fr/Football/Actualites/L-ex-marseillais-amar-dedic-arrete-par-la-police-anglaise-parce-qu-il-se-baladait-avec-un-arc-et-des-fleches-en-pleine-campagne/1741499#at_medium=RSS_feeds",
-    "title": "L'ex-Marseillais Amar Dedic arrêté par la police anglaise... parce qu'il se baladait avec un arc et des flèches en pleine campagne",
-    "ko": "전 마르세유 선수 데디치, 활과 화살 소지로 영국 경찰에 체포",
-    "source": "lequipe",
-    "publishedAt": "2026-11-05T22:57:31.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "아마르 데디치"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "27e70ae52819",
-    "url": "https://www.dailystar.co.uk/sport/football/prem-stars-stopped-assist-police-37849255",
-    "title": "Prem star 'questioned by police' while 'carrying bow and arrow' as teammates 'stopped to help'",
-    "ko": "프리미어리그 선수, 활과 화살 소지로 경찰 조사 받아",
-    "source": "star",
-    "publishedAt": "2026-11-06T07:58:41.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield",
-    "transfer": null
-   },
-   {
-    "id": "4fb61e6769ca",
-    "url": "https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow",
-    "title": "Amar Dedic set to escape Newcastle sanction over carrying bow and arrow",
-    "ko": "데디치, 활과 화살 소지 논란 징계 피할 전망",
-    "source": "guardian",
-    "publishedAt": "2026-11-06T10:38:34.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "아마르 데디치"
-    ],
-    "playerTags": [],
-    "author": "Louise Taylor",
-    "transfer": null
-   },
-   {
-    "id": "5bd66f807409",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss",
-    "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
-    "ko": "뉴캐슬 데디치, 활과 화살 소지로 경찰 검문",
-    "source": "bbc",
-    "publishedAt": "2026-11-06T11:16:07.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데디치"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "45731e9d49f6",
-    "url": "https://www.thesun.co.uk/sport/40942112/newcastle-amar-dedic-fulham-police/",
-    "title": "Newcastle make Amar Dedic decision for Fulham clash after he was questioned by police in bow and arrows controversy",
-    "ko": "뉴캐슬, 활과 화살 논란으로 경찰 조사받은 데디치 풀럼전 결정",
-    "source": "sun",
-    "publishedAt": "2026-11-06T17:55:05.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "아마르 데디치"
-    ],
-    "playerTags": [],
-    "author": "Gary Stonehouse",
-    "transfer": null
-   },
-   {
-    "id": "22db8e8a5695",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/newcastle/detalhe/senhor-dos-aneis-dedic-reage-com-humor-apos-detencao",
-    "title": "‘Senhor dos Anéis’: Dedic reage com humor após detenção",
-    "ko": "데디치, 체포 후 유머로 반응",
-    "source": "record",
-    "publishedAt": "2026-11-06T19:15:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데디치"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "0d80a8c5e841",
-    "url": "https://www.thesun.co.uk/sport/40946792/amar-dedic-breaks-silence-police-bow-arrows-newcastle-bosnia/",
-    "title": "Newcastle ace Amar Dedic breaks silence on bow and arrow incident in hilarious fashion after being questioned by police",
-    "ko": "뉴캐슬 데디치, 활과 화살 사건 경찰 조사 후 우스운 방식으로 입 열어",
-    "source": "sun",
-    "publishedAt": "2026-11-07T10:12:31.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데디치"
-    ],
-    "playerTags": [],
-    "author": "James Graham",
-    "transfer": null
-   },
-   {
-    "id": "cd7d1c486fc9",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-nufc-amar-dedic-34877741",
-    "title": "Newcastle United’s Amar Dedic breaks silence after police question him over bow and arrow",
-    "ko": "데디치, 활과 화살 소지 혐의로 경찰 조사 후 입장 밝혀",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T10:50:25.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "데디치"
-    ],
-    "playerTags": [],
-    "author": "Matthew Abbott",
-    "transfer": null
-   },
-   {
-    "id": "c284e4631797",
-    "url": "https://www.mirror.co.uk/sport/football/news/premier-league-bow-and-arrow-37853914",
-    "title": "Premier League star breaks his silence after bow and arrow incident and police operation",
-    "ko": "활과 화살 사건과 경찰 작전 이후 프리미어리그 스타 입 열어",
-    "source": "mirror",
-    "publishedAt": "2026-11-07T12:24:40.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matthew Abbott",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 9,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-05T19:52:31.000Z",
-   "viaQuote": false
-  },
-  "headline": "Newcastle's Dedic stopped by police after being spotted with bow and arrows"
  },
  {
   "slug": "barcola-liverpool-transfer",
@@ -19766,79 +20322,6 @@
    "viaQuote": false
   },
   "headline": "Ait-Nouri pode ‘aproximar’ rivais de Manchester"
- },
- {
-  "slug": "kveradze-everton-transfer",
-  "mode": "llm",
-  "titleKo": "에버턴 크베라제 영입 관심",
-  "createdAt": "2026-11-07T09:00:00.000Z",
-  "updatedAt": "2026-11-07T09:00:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "everton"
-  ],
-  "players": [
-   "크베라제"
-  ],
-  "sig": [
-   "giorgi",
-   "kveradze",
-   "tfg"
-  ],
-  "articles": [
-   {
-    "id": "a5c3a3fe5a9a",
-    "url": "https://www.footballinsider247.com/everton/transfers/everton-backed-for-15m-giorgi-kveradze-swoop-tfg-will-consider-it",
-    "title": "Everton backed for '£15m' Giorgi Kveradze swoop: 'TFG will consider it'",
-    "ko": "에버턴, 1500만 파운드 크베라제 영입 관심 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-07T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "크베라제"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "크베라제",
-     "from": null,
-     "to": "에버턴"
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "a5c3a3fe5a9a",
-    "at": "2026-11-07T09:00:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "크베라제",
-   "from": null,
-   "to": "에버턴"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-07T09:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Everton backed for '£15m' Giorgi Kveradze swoop: 'TFG will consider it'"
  },
  {
   "slug": "spalletti-cabal-incident",
@@ -25347,136 +25830,6 @@
    "viaQuote": false
   },
   "headline": "Vogt bedroht: Heidenheim geht nach Hassbotschaft gegen Anhänger vor"
- },
- {
-  "slug": "schalke-gladbach-ii-2026-11-08",
-  "mode": "llm",
-  "titleKo": "샬케 U23 대 묀헨글라트바흐 II 경기",
-  "createdAt": "2026-11-06T11:17:25.000Z",
-  "updatedAt": "2026-11-06T16:01:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "schalke",
-   "gladbach"
-  ],
-  "players": [],
-  "sig": [
-   "weg",
-   "krise"
-  ],
-  "articles": [
-   {
-    "id": "cbcb68ff7f8f",
-    "url": "https://www.kicker.de/schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
-    "title": "Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
-    "ko": "샬케 U23, 묀헨글라트바흐 II전으로 위기 탈출 도전",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T11:17:25.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7d2749e62a5a",
-    "url": "https://www.kicker.de/live-schalkes-u-23-sucht-gegen-gladbach-ii-den-weg-aus-der-krise-1257801/artikel#omrss",
-    "title": "LIVE! Schalkes U 23 sucht gegen Gladbach II den Weg aus der Krise",
-    "ko": "샬케 U23, 묀헨글라트바흐 II와 위기 탈출 경기",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T11:17:25.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "6287804747ab",
-    "url": "https://www.kicker.de/schalkes-u-23-erleidet-gegen-gladbach-ii-schiffbruch-1257801/artikel#omrss",
-    "title": "Schalkes U 23 erleidet gegen Gladbach II Schiffbruch",
-    "ko": "샬케 U23, 묀헨글라트바흐 II에 대패",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T14:56:18.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e651efac3db4",
-    "url": "https://rp-online.de/sport/fussball/borussia/gladbachs-u23-kontert-fc-schalke-04-aus-drei-doppelpacks-bei-7-0-kantersieg_aid-157930089",
-    "title": "Borussias U23 kontert gnadenlos: Drei Doppelpacks bei Gladbacher Kantersieg auf Schalke",
-    "ko": "묀헨글라트바흐 U23, 샬케 원정서 대승…세 명 해트트릭 가까운 쌍포",
-    "source": "rp",
-    "publishedAt": "2026-11-06T15:44:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "schalke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Thomas Grulke",
-    "transfer": null
-   },
-   {
-    "id": "c0036f3cb79c",
-    "url": "https://www.kicker.de/schalke-ii-gegen-gladbach-ii-2026-regionalliga-west-5238583/spielbericht#omrss",
-    "title": "Nach starkem Start völlig aufgelöst: Schalker U 23 kassiert Klatsche gegen Gladbach II",
-    "ko": "샬케 U23, 묀헨글라트바흐 II전 대패 충격",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T16:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-06T11:17:25.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nach starkem Start völlig aufgelöst: Schalker U 23 kassiert Klatsche gegen Gladbach II"
  },
  {
   "slug": "laliga-affairs-postponement",

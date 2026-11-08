@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T09:15:19.033Z",
+ "updatedAt": "2026-11-08T10:14:00.693Z",
  "hot": [
+  "neuer-injury",
+  "valencia-real-madrid-2026-11-06",
   "atletico-barcelona-2026-11-07",
   "carrick-manager-future",
-  "valencia-real-madrid-2026-11-06",
-  "fulham-newcastle-2026-11-08",
-  "rudiger-incident"
+  "fulham-newcastle-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -32,19 +32,19 @@
   "bbc": {
    "ok": true,
    "items": 65,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,14 +80,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 90
+   "added": 0,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
@@ -104,13 +104,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -128,25 +128,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -163,8 +163,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 24,
-   "added": 2,
+   "items": 25,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -176,13 +176,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 1,
+   "items": 11,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -200,11 +200,11 @@
    "count": 18
   },
   {
-   "name": "잭 그릴리시",
-   "count": 15
+   "name": "노이어",
+   "count": 18
   },
   {
-   "name": "노이어",
+   "name": "잭 그릴리시",
    "count": 15
   },
   {
@@ -256,6 +256,10 @@
    "count": 7
   },
   {
+   "name": "데디치",
+   "count": 7
+  },
+  {
    "name": "카마빙가",
    "count": 6
   },
@@ -273,10 +277,6 @@
   },
   {
    "name": "알리송",
-   "count": 6
-  },
-  {
-   "name": "데디치",
    "count": 6
   },
   {
@@ -309,12 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 214,
-  "singleArticleRate": 40,
+  "recentIssues": 213,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 63
+    "count": 60
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -334,15 +334,11 @@
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
-    "count": 23
+    "count": 25
    },
    {
     "slug": "jesus-ronaldo-relationship",
     "count": 23
-   },
-   {
-    "slug": "grealish-discipline",
-    "count": 17
    },
    {
     "slug": "carrick-manager-future",
@@ -353,7 +349,7 @@
     "count": 16
    },
    {
-    "slug": "kane-contract",
+    "slug": "grealish-discipline",
     "count": 16
    },
    {
@@ -492,6 +488,20 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 10
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 4
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -510,20 +520,6 @@
     {
      "ko": "마르코 시우바",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 9
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 4
     }
    ]
   },
@@ -621,6 +617,24 @@
     },
     {
      "ko": "키어냔 듀스버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 4
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    },
+    {
+     "ko": "위니스",
      "count": 1
     }
    ]
@@ -849,24 +863,6 @@
     },
     {
      "ko": "프랭크 램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 2
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 2
-    },
-    {
-     "ko": "위니스",
      "count": 1
     }
    ]
@@ -1306,8 +1302,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 713,
-   "llm": 713
+   "collected": 741,
+   "llm": 741
   }
  },
  "llmErrors": []
