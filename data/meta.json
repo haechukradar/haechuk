@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T14:11:58.063Z",
+ "updatedAt": "2026-11-08T14:50:57.996Z",
  "hot": [
-  "neuer-injury",
-  "de-miguel-incident",
   "napoli-lazio-2026-11-08",
-  "chelsea-sunderland-2026-11-08",
-  "valencia-real-madrid-2026-11-06"
+  "neuer-injury",
+  "elche-betis-2026-11-08",
+  "genoa-ac-milan-2026-11-08",
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -32,7 +32,7 @@
   "bbc": {
    "ok": true,
    "items": 66,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -44,7 +44,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,25 +80,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -122,19 +122,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -164,13 +164,13 @@
   "sun": {
    "ok": true,
    "items": 26,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -182,7 +182,7 @@
   "fbinsider": {
    "ok": true,
    "items": 13,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -309,12 +309,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 211,
-  "singleArticleRate": 39,
+  "recentIssues": 220,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 51
+    "count": 48
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -322,7 +322,7 @@
    },
    {
     "slug": "arsenal-hull-2026-11-07",
-    "count": 30
+    "count": 31
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
@@ -620,20 +620,6 @@
    ]
   },
   {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉐이 레이시",
-     "count": 4
-    },
-    {
-     "ko": "셰이 레이시",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -714,24 +700,6 @@
    ]
   },
   {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회너스",
-     "count": 2
-    },
-    {
-     "ko": "회네스",
-     "count": 2
-    },
-    {
-     "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -782,6 +750,20 @@
    ]
   },
   {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 3
+    },
+    {
+     "ko": "셰이 레이시",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Circati",
    "dictionary": null,
    "variants": [
@@ -818,24 +800,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 2
-    },
-    {
-     "ko": "퀼뤼겔",
-     "count": 1
-    },
-    {
-     "ko": "퀼뤼흐",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -853,6 +817,24 @@
     },
     {
      "ko": "카위작",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회네스",
+     "count": 2
+    },
+    {
+     "ko": "회너스",
+     "count": 1
+    },
+    {
+     "ko": "회이네스",
      "count": 1
     }
    ]
@@ -936,6 +918,28 @@
    ]
   },
   {
+   "en": "Granit Xhaka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "차카 자카",
+     "count": 1
+    },
+    {
+     "ko": "작카",
+     "count": 1
+    },
+    {
+     "ko": "그라니트 샤카",
+     "count": 1
+    },
+    {
+     "ko": "그라니트 자카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marvin Compper",
    "dictionary": null,
    "variants": [
@@ -945,20 +949,6 @@
     },
     {
      "ko": "마빈 콤퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ricardo Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리카르도 실바",
-     "count": 2
-    },
-    {
-     "ko": "리카르두 실바",
      "count": 1
     }
    ]
@@ -1033,6 +1023,20 @@
     },
     {
      "ko": "누노 캄푸스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼흐",
      "count": 1
     }
    ]
@@ -1270,8 +1274,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 893,
-   "llm": 893
+   "collected": 923,
+   "llm": 923
   }
  },
  "llmErrors": []
