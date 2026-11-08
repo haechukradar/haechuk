@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-08T05:17:56.296Z",
+ "updatedAt": "2026-11-08T06:14:46.109Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
-  "de-miguel-incident",
   "man-utd-aston-villa-2026-11-05",
   "grealish-discipline",
+  "de-miguel-incident",
   "carrick-manager-future"
  ],
  "days": [
@@ -56,7 +56,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -80,19 +80,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 4,
    "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 96
   },
   "men": {
@@ -110,7 +110,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,25 +146,25 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 19,
-   "added": 0,
+   "items": 20,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -176,7 +176,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
@@ -224,20 +224,20 @@
    "count": 9
   },
   {
+   "name": "바레바",
+   "count": 9
+  },
+  {
    "name": "보글",
    "count": 9
   },
   {
-   "name": "바레바",
+   "name": "J.J. 가브리엘",
    "count": 8
   },
   {
-   "name": "J.J. 가브리엘",
-   "count": 7
-  },
-  {
    "name": "웨인 루니",
-   "count": 7
+   "count": 8
   },
   {
    "name": "헤수스 오워노",
@@ -261,6 +261,10 @@
   },
   {
    "name": "트레이 뇨니",
+   "count": 6
+  },
+  {
+   "name": "바르콜라",
    "count": 6
   },
   {
@@ -302,23 +306,19 @@
   {
    "name": "마티스 텔",
    "count": 5
-  },
-  {
-   "name": "니코 파스",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 213,
-  "singleArticleRate": 39,
+  "recentIssues": 217,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 66
+    "count": 65
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 31
+    "count": 32
    },
    {
     "slug": "fonseca-sporting-appointment",
@@ -347,10 +347,6 @@
    {
     "slug": "grealish-discipline",
     "count": 18
-   },
-   {
-    "slug": "newcastle-manager-future",
-    "count": 15
    },
    {
     "slug": "everton-coventry-2026-11-06",
@@ -423,7 +419,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 15
+     "count": 14
     },
     {
      "ko": "마티아스 야이슬레",
@@ -474,12 +470,12 @@
      "count": 10
     },
     {
-     "ko": "제이제이 가브리엘",
+     "ko": "J.J. 가브리엘",
      "count": 2
     },
     {
-     "ko": "J.J. 가브리엘",
-     "count": 1
+     "ko": "제이제이 가브리엘",
+     "count": 2
     }
    ]
   },
@@ -547,7 +543,7 @@
     },
     {
      "ko": "티에르노 바리",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "배리",
@@ -1294,8 +1290,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 593,
-   "llm": 593
+   "collected": 613,
+   "llm": 613
   }
  },
  "llmErrors": []

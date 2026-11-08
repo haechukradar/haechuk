@@ -1,10 +1,133 @@
 [
  {
+  "slug": "joaquin-seys-premier-transfer",
+  "mode": "llm",
+  "titleKo": "조아킨 세이스 프리미어리그 이적 관심",
+  "createdAt": "2026-11-08T06:07:49.000Z",
+  "updatedAt": "2026-11-08T06:07:49.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "반 기스텔",
+   "조아킨 세이스"
+  ],
+  "sig": [
+   "gistel",
+   "londen",
+   "joaquin",
+   "seys"
+  ],
+  "articles": [
+   {
+    "id": "f59e98059295",
+    "url": "https://www.hln.be/club-brugge/van-gistel-naar-londen-of-manchester-waarom-de-stap-naar-een-eliteclub-slechts-een-kwestie-van-tijd-is-voor-ongelooflijke-joaquin-seys~a8e70ff9/",
+    "title": "Van Gistel naar Londen of Manchester: waarom de stap naar een eliteclub slechts een kwestie van tijd is voor “ongelooflijke” Joaquin Seys",
+    "ko": "반 기스텔, 런던·맨체스터 엘리트 클럽행 시간문제…조아킨 세이스 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-08T06:07:49.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "반 기스텔",
+     "조아킨 세이스"
+    ],
+    "playerTags": [],
+    "author": "Tomas Taecke",
+    "transfer": {
+     "player": "조아킨 세이스",
+     "from": null,
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.18,
+  "topTier": 3,
+  "stageHistory": [
+   {
+    "id": "f59e98059295",
+    "at": "2026-11-08T06:07:49.000Z",
+    "source": "hln",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "조아킨 세이스",
+   "from": null,
+   "to": null
+  },
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-08T06:07:49.000Z",
+   "viaQuote": false
+  },
+  "headline": "Van Gistel naar Londen of Manchester: waarom de stap naar een eliteclub slechts een kwestie van tijd is voor “ongelooflijke” Joaquin Seys"
+ },
+ {
+  "slug": "vitoria-guimaraes-porto-2026-11-08",
+  "mode": "llm",
+  "titleKo": "비토리아 기마랑이스 대 포르투 경기",
+  "createdAt": "2026-11-08T06:03:00.000Z",
+  "updatedAt": "2026-11-08T06:03:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [],
+  "sig": [
+   "guimarães"
+  ],
+  "articles": [
+   {
+    "id": "a18d823e5ace",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/dominio-em-larga-escala-fc-porto-vence-em-guimaraes-ha-oito-jogos",
+    "title": "Domínio em larga escala: FC Porto vence em Guimarães há oito jogos",
+    "ko": "포르투, 기마랑이스 원정에서 8경기 연속 승리 흐름 이어가",
+    "source": "record",
+    "publishedAt": "2026-11-08T06:03:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.93,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-08T06:03:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Domínio em larga escala: FC Porto vence em Guimarães há oito jogos"
+ },
+ {
   "slug": "nottingham-forest-man-city-2026-11-05",
   "mode": "llm",
   "titleKo": "노팅엄 포레스트 대 맨시티 프리미어리그 경기",
   "createdAt": "2026-11-05T17:40:00.000Z",
-  "updatedAt": "2026-11-08T05:00:00.000Z",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -638,11 +761,29 @@
     ],
     "author": "Jack Flintham",
     "transfer": null
+   },
+   {
+    "id": "481cbd0187a5",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-citys-biggest-issue-laid-34879335",
+    "title": "Man City's biggest issue laid bare at Nottingham Forest - and Enzo Maresca has yet to find an answer",
+    "ko": "맨시티, 노팅엄 원정서 드러난 최대 문제…마레스카도 해법 못 찾아",
+    "source": "men",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alex James",
+    "transfer": null
    }
   ],
   "recentSources": 8,
   "sourceCount": 10,
-  "score": 2.56,
+  "score": 2.23,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -663,7 +804,7 @@
   "mode": "llm",
   "titleKo": "맨유 대 애스턴 빌라 경기 전망",
   "createdAt": "2026-11-05T19:53:54.000Z",
-  "updatedAt": "2026-11-08T05:00:00.000Z",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -822,11 +963,29 @@
     "playerTags": [],
     "author": "Jack Flintham",
     "transfer": null
+   },
+   {
+    "id": "c53863efe370",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34867751",
+    "title": "How Manchester United should line up vs Aston Villa in Premier League fixture",
+    "ko": "맨유, 애스턴 빌라전 선발 구상은?",
+    "source": "men",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Steven Railston, Jack Flintham",
+    "transfer": null
    }
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 2.08,
+  "score": 1.77,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -841,6 +1000,993 @@
    "viaQuote": false
   },
   "headline": "Premier League predictions: Man Utd vs Aston Villa, Leeds vs Spurs and the rest of GW10"
+ },
+ {
+  "slug": "crystal-palace-liverpool-2026-11-07",
+  "mode": "llm",
+  "titleKo": "크리스털 팰리스 대 리버풀 경기 결장 선수 점검",
+  "createdAt": "2026-11-07T16:10:55.000Z",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "crystal-palace",
+   "liverpool"
+  ],
+  "players": [
+   "소보슬러이",
+   "바르콜라"
+  ],
+  "sig": [
+   "andoni",
+   "iraola"
+  ],
+  "articles": [
+   {
+    "id": "50f299cb444e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/nine-players-could-miss-crystal-34878785",
+    "title": "Nine players could miss Crystal Palace vs Liverpool as Andoni Iraola sweats over injured star",
+    "ko": "크리스털 팰리스-리버풀전, 이라올라 부상 점검 속 9명 결장 가능성",
+    "source": "lecho",
+    "publishedAt": "2026-11-07T16:10:55.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "1c2f7649fe01",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-already-shown-what-34877880",
+    "title": "Andoni Iraola has already shown what Liverpool had lost ahead of Crystal Palace test",
+    "ko": "이라올라, 크리스털 팰리스전 앞두고 리버풀 전력 손실 언급",
+    "source": "lecho",
+    "publishedAt": "2026-11-08T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "crystal-palace"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Jones",
+    "transfer": null
+   },
+   {
+    "id": "2f93cf18c926",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-line-ups-crystal-palace-34878990",
+    "title": "Liverpool line-ups for Crystal Palace as Dominik Szoboszlai and Bradley Barcola calls made",
+    "ko": "리버풀, 크리스털 팰리스전 라인업…소보슬러이 등 호출 확정",
+    "source": "lecho",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "소보슬러이",
+     "바르콜라"
+    ],
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Ian Doyle, Paul Gorst, Theo Squires, Mark Jones",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.61,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "dominik-szoboszlai"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-07T16:10:55.000Z",
+   "viaQuote": false
+  },
+  "headline": "Liverpool line-ups for Crystal Palace as Dominik Szoboszlai and Bradley Barcola calls made"
+ },
+ {
+  "slug": "fulham-newcastle-2026-11-08",
+  "mode": "llm",
+  "titleKo": "풀럼 대 뉴캐슬 경기 결장 선수 점검",
+  "createdAt": "2026-11-06T14:28:51.000Z",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "newcastle",
+   "fulham"
+  ],
+  "players": [
+   "하비 반스",
+   "스퇴르",
+   "티아우",
+   "무니스",
+   "머피",
+   "루이스 홀",
+   "제이컵 머피"
+  ],
+  "sig": [
+   "jaissle"
+  ],
+  "articles": [
+   {
+    "id": "55337f299721",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/7-players-who-could-miss-34874036",
+    "title": "7 players who could miss Fulham vs Newcastle United as Jaissle searches for solution",
+    "ko": "풀럼전 결장 가능성 있는 뉴캐슬 선수 7명",
+    "source": "chronicle",
+    "publishedAt": "2026-11-06T14:28:51.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stuart Jamieson",
+    "transfer": null
+   },
+   {
+    "id": "c742abcea910",
+    "url": "https://www.footballinsider247.com/newcastle-united/match/harvey-barnes-and-17-passer-axed-three-newcastle-players-who-should-be-omitted-vs-fulham",
+    "title": "Harvey Barnes and 17% passer axed: Three Newcastle players who should be omitted vs Fulham",
+    "ko": "풀럼전 뉴캐슬 제외 대상 3명 지목",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-06T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "하비 반스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e22700ec3b8f",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-line-ups-fulham-34871674",
+    "title": "Newcastle United line-ups vs Fulham as Steur decision made and new Thiaw role",
+    "ko": "뉴캐슬 풀럼전 선발 발표, 스퇴르 결정과 티아우 새 역할 주목",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "스퇴르",
+     "티아우"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder, Stuart Jamieson, Sean McCormick, Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "e745bb8e61f9",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fulham-vs-newcastle-united-live-34867196",
+    "title": "Fulham vs Newcastle United LIVE: Early team news from Craven Cottage",
+    "ko": "풀럼 대 뉴캐슬 라이브…크레이븐 코티지 초반 선발 소식",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T12:48:47.000Z",
+    "credited": null,
+    "clubs": [
+     "fulham",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder, Sean McCormick",
+    "transfer": null
+   },
+   {
+    "id": "bfbff4536069",
+    "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538",
+    "title": "Fulham vs Newcastle team news LIVE!",
+    "ko": "풀럼 대 뉴캐슬 라인업 소식 라이브",
+    "source": "sky",
+    "publishedAt": "2026-11-07T13:47:45.011Z",
+    "credited": null,
+    "clubs": [
+     "fulham",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9202250e3f4c",
+    "url": "https://as.com/futbol/internacional/fulham-newcastle-en-directo-premier-league-hoy-en-vivo-f202611-n/",
+    "title": "Fulham-Newcastle, en directo: Premier League, hoy en vivo",
+    "ko": "풀럼 대 뉴캐슬 프리미어리그 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-07T15:05:55.000Z",
+    "credited": null,
+    "clubs": [
+     "fulham",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "dc33a7317d3a",
+    "url": "https://www.thesun.co.uk/sport/40951788/rodrigo-muniz-rescues-fulham-against-newcastle/",
+    "title": "Fulham 1 Newcastle 1: Rodrigo Muniz rescues a point for struggling Cottagers after Jacob Murphy’s moment of magic",
+    "ko": "풀럼 1-1 뉴캐슬…무니스가 극적 동점골",
+    "source": "sun",
+    "publishedAt": "2026-11-07T16:56:53.000Z",
+    "credited": null,
+    "clubs": [
+     "fulham",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "무니스",
+     "머피"
+    ],
+    "playerTags": [],
+    "author": "Rob Maul",
+    "transfer": null
+   },
+   {
+    "id": "573c29ceb4c9",
+    "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/report/559538",
+    "title": "Fulham deny Newcastle boss Jaissle of pressure-relieving victory",
+    "ko": "풀럼, 뉴캐슬 감독 야이슬레 압박 덜어낼 승리 막아",
+    "source": "sky",
+    "publishedAt": "2026-11-07T17:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "fulham",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e6b3fa52c5a4",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-player-ratings-fulham-34877413",
+    "title": "Newcastle United player ratings as 9/10 man stars but two 4/10 flops hooked vs Fulham",
+    "ko": "뉴캐슬 선수 평점…9점 활약 속 4점 부진 2명 교체",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T17:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "b54e9ad811ca",
+    "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
+    "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
+    "ko": "무니스 후반 극적 동점골…풀럼, 뉴캐슬과 1-1",
+    "source": "guardian",
+    "publishedAt": "2026-11-07T17:00:54.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "무니스",
+     "머피"
+    ],
+    "playerTags": [],
+    "author": "Jacob Steinberg at Craven Cottage",
+    "transfer": null
+   },
+   {
+    "id": "99f7c4f8b937",
+    "url": "https://www.footballinsider247.com/newcastle-united/ref-watch-three-blunders-rob-jones-made-in-newcastles-draw-vs-fulham",
+    "title": "Ref Watch: Three blunders Rob Jones made in Newcastle's draw vs Fulham",
+    "ko": "로브 존스 심판, 뉴캐슬-풀럼전 판정 실수 3건 분석",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-07T17:04:16.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "fulham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f0afb7017e4c",
+    "url": "https://www.skysports.com/watch/video/13609384/fulham-1-1-newcastle-premier-league-highlights",
+    "title": "Late goals as Fulham draw with Newcastle",
+    "ko": "풀럼, 뉴캐슬과 막판 골 주고받으며 무승부",
+    "source": "sky",
+    "publishedAt": "2026-11-07T17:10:00.000Z",
+    "credited": null,
+    "clubs": [
+     "fulham",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "985270294d05",
+    "url": "https://www.footballinsider247.com/newcastle-united/lewis-hall-jibes-jacob-murphys-message-four-things-you-may-have-missed-from-newcastle-draw-at-fulham",
+    "title": "Lewis Hall jibes, Jacob Murphy's message: Four things you may have missed from Newcastle draw at Fulham",
+    "ko": "뉴캐슬, 풀럼 무승부 뒤 루이스 홀 농담·머피 메시지 화제",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-07T17:30:25.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "루이스 홀",
+     "제이컵 머피"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c9fb19b6ae51",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastles-cause-concern-remains-obvious-34877389",
+    "title": "Newcastle's cause for concern remains obvious as Fulham chant highlights opportunity missed",
+    "ko": "뉴캐슬, 풀럼전 팬 응원가 속 놓친 기회가 여전히 걱정",
+    "source": "chronicle",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 1.92,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Chronicle Live (뉴캐슬)",
+   "source": "chronicle",
+   "at": "2026-11-06T14:28:51.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle's cause for concern remains obvious as Fulham chant highlights opportunity missed"
+ },
+ {
+  "slug": "chelsea-sunderland-2026-11-08",
+  "mode": "llm",
+  "titleKo": "첼시 대 선덜랜드 경기 선발 논쟁",
+  "createdAt": "2026-11-04T19:00:00.000Z",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "조던 헨더슨",
+   "에미 마르티네스",
+   "주앙 아호카"
+  ],
+  "sig": [
+   "jordan",
+   "henderson",
+   "sunderland"
+  ],
+  "articles": [
+   {
+    "id": "994bf5dffcf9",
+    "url": "https://www.footballinsider247.com/chelsea/chelsea-should-axe-jordan-henderson-vs-sunderland-and-start-78-duel-winner",
+    "title": "Chelsea should axe Jordan Henderson vs Sunderland and start 78% duel winner",
+    "ko": "첼시, 선덜랜드전 조던 헨더슨 대신 78% 경합승 선수 선발 주장",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "조던 헨더슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "326c856ec0a2",
+    "url": "https://www.football.london/chelsea-fc/news/emi-martinez-decision-one-chelsea-34861936",
+    "title": "Emi Martinez decision and one other Chelsea change Xabi Alonso will consider for Sunderland",
+    "ko": "Emi Martinez 결정 포함, 사비 알론소 선덜랜드전 첼시 변화 고려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-05T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에미 마르티네스"
+    ],
+    "playerTags": [],
+    "author": "Bobby Vincent",
+    "transfer": null
+   },
+   {
+    "id": "0104a53c5f4b",
+    "url": "https://www.footballinsider247.com/sunderland/jules-ahoka-sunderland-star-with-100-and-89-stats-can-save-regis-le-bris-vs-chelsea-verdict",
+    "title": "Jules Ahoka: Sunderland star with 100% and 89% stats can save Regis Le Bris vs Chelsea - verdict",
+    "ko": "선덜랜드 주앙 아호카, 첼시전 르 브리스 구할 수 있다는 평가",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-06T19:20:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주앙 아호카"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "05d946d16e34",
+    "url": "https://www.football.london/chelsea-fc/news/chelsea-injury-update-sunderland-alonso-34876903",
+    "title": "Nine players set to miss Sunderland vs Chelsea as Xabi Alonso gives injury update",
+    "ko": "알론소, 선덜랜드전 첼시 결장 선수 9명 부상 업데이트",
+    "source": "fblondon",
+    "publishedAt": "2026-11-07T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Wakefield",
+    "transfer": null
+   },
+   {
+    "id": "c90e674044ac",
+    "url": "https://www.thesun.co.uk/sport/40915368/sunderland-chelsea-bet-builder-tip-paddy-power/",
+    "title": "Sunderland vs Chelsea: Our 7/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+    "ko": "선덜랜드 대 첼시 베트 빌더 추천 배당",
+    "source": "sun",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 0.57,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-04T19:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nine players set to miss Sunderland vs Chelsea as Xabi Alonso gives injury update"
+ },
+ {
+  "slug": "branthwaite-injury",
+  "mode": "llm",
+  "titleKo": "브랜스웨이트 부상 상황 점검",
+  "createdAt": "2026-11-08T06:00:00.000Z",
+  "updatedAt": "2026-11-08T06:00:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "브랜스웨이트"
+  ],
+  "sig": [
+   "branthwaite",
+   "england",
+   "thierno",
+   "barry"
+  ],
+  "articles": [
+   {
+    "id": "cad45916a27b",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jarrad-branthwaite-issues-fitness-update-34878281",
+    "title": "Jarrad Branthwaite issues fitness update before England duty and explains Thierno Barry form",
+    "ko": "브랜스웨이트, 잉글랜드 대표팀 소집 앞두고 체력 상태 전해",
+    "source": "lecho",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "브랜스웨이트"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.15,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-08T06:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Jarrad Branthwaite issues fitness update before England duty and explains Thierno Barry form"
+ },
+ {
+  "slug": "le-havre-affairs-owner-protest",
+  "mode": "llm",
+  "titleKo": "르아브르 팬 구단주 퇴진 요구",
+  "createdAt": "2026-11-08T05:46:00.000Z",
+  "updatedAt": "2026-11-08T05:46:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "havre",
+   "blue",
+   "crow"
+  ],
+  "articles": [
+   {
+    "id": "1a7eb423fe5f",
+    "url": "https://www.lequipe.fr/Football/Article/-la-fracture-est-totale-apres-une-semaine-de-marasme-la-colere-des-supporters-du-havre-qui-reclament-le-depart-de-blue-crow-le-proprietaire-americain/1741980#at_medium=RSS_feeds",
+    "title": "« La fracture est totale » : après une semaine de marasme, la colère des supporters du Havre, qui réclament le départ de Blue Crow, le propriétaire américain",
+    "ko": "르아브르 팬들, 미국인 구단주 블루 크로 퇴진 요구 시위",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T05:46:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sébastien Buron",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.84,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-08T05:46:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "« La fracture est totale » : après une semaine de marasme, la colère des supporters du Havre, qui réclament le départ de Blue Crow, le propriétaire américain"
+ },
+ {
+  "slug": "baleba-injury",
+  "mode": "llm",
+  "titleKo": "바레바 부상, 맨유 전력 공백",
+  "createdAt": "2026-11-03T21:14:37.000Z",
+  "updatedAt": "2026-11-08T05:30:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "aston-villa",
+   "chelsea"
+  ],
+  "players": [
+   "카를로스 바레바",
+   "바레바",
+   "래시포드",
+   "셰슈코",
+   "발레바",
+   "도르구",
+   "돈나룸마"
+  ],
+  "sig": [
+   "carlos",
+   "baleba"
+  ],
+  "articles": [
+   {
+    "id": "b5e548712996",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-man-united-baleba-injury-34858907",
+    "title": "BREAKING: Carlos Baleba in 'distress' as crushed Man United star forced off with injury vs Roma",
+    "ko": "발레바, 로마전 부상으로 교체 아웃…맨유 고통",
+    "source": "men",
+    "publishedAt": "2026-11-03T21:14:37.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "발레바"
+    ],
+    "playerTags": [],
+    "author": "Scott Trotter",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "e6855c7d31ca",
+    "url": "https://www.thesun.co.uk/sport/40903701/man-utd-carlos-baleba-hamstring-injury-champions-league-roma/",
+    "title": "Huge Man Utd blow as Carlos Baleba appears to pull hamstring and helped off Old Trafford pitch close to tears",
+    "ko": "맨유 바레바, 햄스트링 부상으로 눈물 속 교체",
+    "source": "sun",
+    "publishedAt": "2026-11-03T21:16:19.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바"
+    ],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "8f9d97db032d",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/baleba-rashford-sesko-man-united-34858920",
+    "title": "Baleba, Rashford, Sesko - Man United injury news and return dates after Roma win",
+    "ko": "맨유, 로마전 승리 후 바레바·래시포드·셰슈코 부상 소식과 복귀 시점",
+    "source": "men",
+    "publishedAt": "2026-11-04T04:00:00.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바",
+     "래시포드",
+     "셰슈코"
+    ],
+    "playerTags": [
+     "benjamin-sesko",
+     "marcus-rashford"
+    ],
+    "author": "Ross Jackson",
+    "transfer": null,
+    "clubs": [
+     "man-utd"
+    ]
+   },
+   {
+    "id": "a53614c35a3c",
+    "url": "https://www.mirror.co.uk/sport/football/news/carrick-man-utd-baleba-injury-37851168",
+    "title": "Michael Carrick confirms severity of Carlos Baleba injury as Man Utd boss provides two updates",
+    "ko": "캐릭, 바레바 부상 심각도 확인…맨유 두 가지 업데이트",
+    "source": "mirror",
+    "publishedAt": "2026-11-06T13:47:02.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바"
+    ],
+    "playerTags": [],
+    "author": "Kieran Horn",
+    "transfer": null
+   },
+   {
+    "id": "555fbed08273",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-issue-injury-update-34873268",
+    "title": "Manchester United issue injury update on Carlos Baleba with new timeline given",
+    "ko": "맨유, 바레바 부상 업데이트…복귀 시점 제시",
+    "source": "men",
+    "publishedAt": "2026-11-06T13:47:34.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바"
+    ],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "b09bfac1e111",
+    "url": "https://www.thesun.co.uk/sport/40939139/man-utd-carlos-baleba-injury-michael-carrick/",
+    "title": "Man Utd suffer Carlos Baleba injury blow as Michael Carrick reveals how long star will be out for",
+    "ko": "맨유 바레바 부상 악재, 캐릭 복귀 시점 공개",
+    "source": "sun",
+    "publishedAt": "2026-11-06T13:47:59.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바"
+    ],
+    "playerTags": [],
+    "author": "James Graham",
+    "transfer": null
+   },
+   {
+    "id": "fd493cfd3cad",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/baleba-dorgu-rashford-manchester-united-34871076",
+    "title": "Baleba, Dorgu, Rashford - Manchester United injury news and return dates ahead of Aston Villa",
+    "ko": "맨유 바레바·도르구·래시포드 부상 현황, 애스턴 빌라전 복귀 시점",
+    "source": "men",
+    "publishedAt": "2026-11-06T14:14:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "aston-villa"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바",
+     "도르구",
+     "래시포드"
+    ],
+    "playerTags": [
+     "marcus-rashford"
+    ],
+    "author": "Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "72ddadee5da4",
+    "url": "https://www.lequipe.fr/Football/Actualites/Touche-contre-l-as-rome-en-ligue-des-champions-carlos-baleba-sera-absent-plusieurs-semaines-avec-manchester-united/1741671#at_medium=RSS_feeds",
+    "title": "Touché contre l'AS Rome en Ligue des champions, Carlos Baleba sera absent plusieurs semaines avec Manchester United",
+    "ko": "바레바, 로마전 터치 후 맨유 복귀 수 주간 결장 예상",
+    "source": "lequipe",
+    "publishedAt": "2026-11-06T15:22:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": null
+   },
+   {
+    "id": "94de2f6f8fe3",
+    "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
+    "title": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
+    "ko": "맨유 바레바 수주간 결장, 마레스카 돈나룸마 지지",
+    "source": "guardian",
+    "publishedAt": "2026-11-06T16:06:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "chelsea"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레바",
+     "돈나룸마"
+    ],
+    "playerTags": [],
+    "author": "Guardian sport",
+    "transfer": null
+   },
+   {
+    "id": "ef4d2afcda7a",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/dorgu-baleba-sesko-manchester-united-34874757",
+    "title": "Dorgu, Baleba, Sesko - Manchester United injury news and return dates before Aston Villa",
+    "ko": "맨유, 애스턴 빌라전 앞두고 도르구·바레바·셰슈코 부상 소식",
+    "source": "men",
+    "publishedAt": "2026-11-08T05:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "도르구",
+     "바레바",
+     "셰슈코"
+    ],
+    "playerTags": [
+     "benjamin-sesko"
+    ],
+    "author": "Jack Flintham",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 5,
+  "score": 1.76,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "benjamin-sesko",
+   "marcus-rashford"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-03T21:14:37.000Z",
+   "viaQuote": false
+  },
+  "headline": "Dorgu, Baleba, Sesko - Manchester United injury news and return dates before Aston Villa"
+ },
+ {
+  "slug": "gabriel-man-utd-transfer",
+  "mode": "llm",
+  "titleKo": "맨유 J.J. 가브리엘 영입 관심",
+  "createdAt": "2026-11-08T05:30:00.000Z",
+  "updatedAt": "2026-11-08T05:30:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "J.J. 가브리엘"
+  ],
+  "sig": [
+   "mourinho",
+   "gabriel"
+  ],
+  "articles": [
+   {
+    "id": "762678de410e",
+    "url": "https://www.mirror.co.uk/sport/football/news/mourinho-man-utd-jj-gabriel-37844941",
+    "title": "Jose Mourinho's first act as Man Utd boss offers JJ Gabriel hope after transfer wish granted",
+    "ko": "무리뉴, 맨유 감독 첫 결정으로 제이제이 가브리엘 이적 희망 실현 암시",
+    "source": "mirror",
+    "publishedAt": "2026-11-08T05:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "맨유"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "762678de410e",
+    "at": "2026-11-08T05:30:00.000Z",
+    "source": "mirror",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "J.J. 가브리엘",
+   "from": null,
+   "to": "맨유"
+  },
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-08T05:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Jose Mourinho's first act as Man Utd boss offers JJ Gabriel hope after transfer wish granted"
  },
  {
   "slug": "grealish-discipline",
@@ -1534,7 +2680,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 2,
+  "score": 1.7,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1547,79 +2693,6 @@
    "viaQuote": false
   },
   "headline": "Everton's Grealish unavailable again after 'breach of discipline'"
- },
- {
-  "slug": "crystal-palace-liverpool-2026-11-07",
-  "mode": "llm",
-  "titleKo": "크리스털 팰리스 대 리버풀 경기 결장 선수 점검",
-  "createdAt": "2026-11-07T16:10:55.000Z",
-  "updatedAt": "2026-11-08T05:00:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "crystal-palace",
-   "liverpool"
-  ],
-  "players": [],
-  "sig": [
-   "andoni",
-   "iraola"
-  ],
-  "articles": [
-   {
-    "id": "50f299cb444e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/nine-players-could-miss-crystal-34878785",
-    "title": "Nine players could miss Crystal Palace vs Liverpool as Andoni Iraola sweats over injured star",
-    "ko": "크리스털 팰리스-리버풀전, 이라올라 부상 점검 속 9명 결장 가능성",
-    "source": "lecho",
-    "publishedAt": "2026-11-07T16:10:55.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "1c2f7649fe01",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-already-shown-what-34877880",
-    "title": "Andoni Iraola has already shown what Liverpool had lost ahead of Crystal Palace test",
-    "ko": "이라올라, 크리스털 팰리스전 앞두고 리버풀 전력 손실 언급",
-    "source": "lecho",
-    "publishedAt": "2026-11-08T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "crystal-palace"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Jones",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.9,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-07T16:10:55.000Z",
-   "viaQuote": false
-  },
-  "headline": "Andoni Iraola has already shown what Liverpool had lost ahead of Crystal Palace test"
  },
  {
   "slug": "valencia-real-madrid-2026-11-06",
@@ -2062,7 +3135,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 6,
-  "score": 1.58,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2365,7 +3438,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 6,
-  "score": 1.78,
+  "score": 1.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3404,7 +4477,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.21,
+  "score": 1.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3462,7 +4535,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.76,
+  "score": 1.49,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3528,7 +4601,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.05,
+  "score": 0.89,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3580,7 +4653,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.02,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4208,9 +5281,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 3,
   "sourceCount": 12,
-  "score": 1.15,
+  "score": 0.84,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4368,7 +5441,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4616,7 +5689,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 1.53,
+  "score": 1.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4699,7 +5772,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.04,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4774,7 +5847,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.63,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4932,7 +6005,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.48,
+  "score": 1.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5231,7 +6304,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.18,
+  "score": 0.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5389,7 +6462,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8581,9 +9654,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 6,
   "sourceCount": 15,
-  "score": 2.19,
+  "score": 1.56,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8677,7 +9750,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.17,
+  "score": 0.15,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8766,7 +9839,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8831,7 +9904,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.55,
+  "score": 0.47,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8882,7 +9955,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8962,7 +10035,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9013,7 +10086,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.5,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9101,7 +10174,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.15,
+  "score": 0.12,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9168,7 +10241,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9242,7 +10315,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.23,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9410,7 +10483,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9564,7 +10637,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9623,7 +10696,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9952,7 +11025,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10536,9 +11609,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 2,
   "sourceCount": 10,
-  "score": 1.04,
+  "score": 0.6,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10601,7 +11674,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10677,7 +11750,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10756,7 +11829,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10985,7 +12058,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.64,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11620,7 +12693,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11710,7 +12783,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -12244,7 +13317,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [
    {
@@ -12325,7 +13398,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12389,7 +13462,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12499,7 +13572,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12699,9 +13772,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12762,9 +13835,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12886,9 +13959,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -12966,9 +14039,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12981,303 +14054,6 @@
    "viaQuote": false
   },
   "headline": "Portugal procura quarta vitória seguida diante da Espanha agora na EHF Euro Cup"
- },
- {
-  "slug": "fulham-newcastle-2026-11-08",
-  "mode": "llm",
-  "titleKo": "풀럼 대 뉴캐슬 경기 결장 선수 점검",
-  "createdAt": "2026-11-06T14:28:51.000Z",
-  "updatedAt": "2026-11-07T17:30:25.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "fulham"
-  ],
-  "players": [
-   "하비 반스",
-   "스퇴르",
-   "티아우",
-   "무니스",
-   "머피",
-   "루이스 홀",
-   "제이컵 머피"
-  ],
-  "sig": [
-   "jaissle"
-  ],
-  "articles": [
-   {
-    "id": "55337f299721",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/7-players-who-could-miss-34874036",
-    "title": "7 players who could miss Fulham vs Newcastle United as Jaissle searches for solution",
-    "ko": "풀럼전 결장 가능성 있는 뉴캐슬 선수 7명",
-    "source": "chronicle",
-    "publishedAt": "2026-11-06T14:28:51.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stuart Jamieson",
-    "transfer": null
-   },
-   {
-    "id": "c742abcea910",
-    "url": "https://www.footballinsider247.com/newcastle-united/match/harvey-barnes-and-17-passer-axed-three-newcastle-players-who-should-be-omitted-vs-fulham",
-    "title": "Harvey Barnes and 17% passer axed: Three Newcastle players who should be omitted vs Fulham",
-    "ko": "풀럼전 뉴캐슬 제외 대상 3명 지목",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-06T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "하비 반스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e22700ec3b8f",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-line-ups-fulham-34871674",
-    "title": "Newcastle United line-ups vs Fulham as Steur decision made and new Thiaw role",
-    "ko": "뉴캐슬 풀럼전 선발 발표, 스퇴르 결정과 티아우 새 역할 주목",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "스퇴르",
-     "티아우"
-    ],
-    "playerTags": [],
-    "author": "Lee Ryder, Stuart Jamieson, Sean McCormick, Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "e745bb8e61f9",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fulham-vs-newcastle-united-live-34867196",
-    "title": "Fulham vs Newcastle United LIVE: Early team news from Craven Cottage",
-    "ko": "풀럼 대 뉴캐슬 라이브…크레이븐 코티지 초반 선발 소식",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T12:48:47.000Z",
-    "credited": null,
-    "clubs": [
-     "fulham",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder, Sean McCormick",
-    "transfer": null
-   },
-   {
-    "id": "bfbff4536069",
-    "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538",
-    "title": "Fulham vs Newcastle team news LIVE!",
-    "ko": "풀럼 대 뉴캐슬 라인업 소식 라이브",
-    "source": "sky",
-    "publishedAt": "2026-11-07T13:47:45.011Z",
-    "credited": null,
-    "clubs": [
-     "fulham",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9202250e3f4c",
-    "url": "https://as.com/futbol/internacional/fulham-newcastle-en-directo-premier-league-hoy-en-vivo-f202611-n/",
-    "title": "Fulham-Newcastle, en directo: Premier League, hoy en vivo",
-    "ko": "풀럼 대 뉴캐슬 프리미어리그 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-07T15:05:55.000Z",
-    "credited": null,
-    "clubs": [
-     "fulham",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "As.com As.com",
-    "transfer": null
-   },
-   {
-    "id": "dc33a7317d3a",
-    "url": "https://www.thesun.co.uk/sport/40951788/rodrigo-muniz-rescues-fulham-against-newcastle/",
-    "title": "Fulham 1 Newcastle 1: Rodrigo Muniz rescues a point for struggling Cottagers after Jacob Murphy’s moment of magic",
-    "ko": "풀럼 1-1 뉴캐슬…무니스가 극적 동점골",
-    "source": "sun",
-    "publishedAt": "2026-11-07T16:56:53.000Z",
-    "credited": null,
-    "clubs": [
-     "fulham",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "무니스",
-     "머피"
-    ],
-    "playerTags": [],
-    "author": "Rob Maul",
-    "transfer": null
-   },
-   {
-    "id": "573c29ceb4c9",
-    "url": "https://www.skysports.com/football/fulham-vs-newcastle-united/report/559538",
-    "title": "Fulham deny Newcastle boss Jaissle of pressure-relieving victory",
-    "ko": "풀럼, 뉴캐슬 감독 야이슬레 압박 덜어낼 승리 막아",
-    "source": "sky",
-    "publishedAt": "2026-11-07T17:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "fulham",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e6b3fa52c5a4",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-player-ratings-fulham-34877413",
-    "title": "Newcastle United player ratings as 9/10 man stars but two 4/10 flops hooked vs Fulham",
-    "ko": "뉴캐슬 선수 평점…9점 활약 속 4점 부진 2명 교체",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T17:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "b54e9ad811ca",
-    "url": "https://www.theguardian.com/football/2026/nov/07/fulham-newcastle-premier-league-match-report",
-    "title": "Muniz rescues late point for Fulham against Newcastle after Murphy stunner",
-    "ko": "무니스 후반 극적 동점골…풀럼, 뉴캐슬과 1-1",
-    "source": "guardian",
-    "publishedAt": "2026-11-07T17:00:54.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "무니스",
-     "머피"
-    ],
-    "playerTags": [],
-    "author": "Jacob Steinberg at Craven Cottage",
-    "transfer": null
-   },
-   {
-    "id": "99f7c4f8b937",
-    "url": "https://www.footballinsider247.com/newcastle-united/ref-watch-three-blunders-rob-jones-made-in-newcastles-draw-vs-fulham",
-    "title": "Ref Watch: Three blunders Rob Jones made in Newcastle's draw vs Fulham",
-    "ko": "로브 존스 심판, 뉴캐슬-풀럼전 판정 실수 3건 분석",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-07T17:04:16.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "fulham"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f0afb7017e4c",
-    "url": "https://www.skysports.com/watch/video/13609384/fulham-1-1-newcastle-premier-league-highlights",
-    "title": "Late goals as Fulham draw with Newcastle",
-    "ko": "풀럼, 뉴캐슬과 막판 골 주고받으며 무승부",
-    "source": "sky",
-    "publishedAt": "2026-11-07T17:10:00.000Z",
-    "credited": null,
-    "clubs": [
-     "fulham",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "985270294d05",
-    "url": "https://www.footballinsider247.com/newcastle-united/lewis-hall-jibes-jacob-murphys-message-four-things-you-may-have-missed-from-newcastle-draw-at-fulham",
-    "title": "Lewis Hall jibes, Jacob Murphy's message: Four things you may have missed from Newcastle draw at Fulham",
-    "ko": "뉴캐슬, 풀럼 무승부 뒤 루이스 홀 농담·머피 메시지 화제",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-07T17:30:25.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "루이스 홀",
-     "제이컵 머피"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 6,
-  "score": 0.08,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Chronicle Live (뉴캐슬)",
-   "source": "chronicle",
-   "at": "2026-11-06T14:28:51.000Z",
-   "viaQuote": false
-  },
-  "headline": "Late goals as Fulham draw with Newcastle"
  },
  {
   "slug": "letang-discipline",
@@ -13364,9 +14140,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13528,9 +14304,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13732,9 +14508,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.25,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -19352,121 +20128,6 @@
   "headline": "La Premier acecha a Jacobo"
  },
  {
-  "slug": "chelsea-sunderland-2026-11-08",
-  "mode": "llm",
-  "titleKo": "첼시 대 선덜랜드 경기 선발 논쟁",
-  "createdAt": "2026-11-04T19:00:00.000Z",
-  "updatedAt": "2026-11-07T05:00:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "조던 헨더슨",
-   "에미 마르티네스",
-   "주앙 아호카"
-  ],
-  "sig": [
-   "jordan",
-   "henderson",
-   "sunderland"
-  ],
-  "articles": [
-   {
-    "id": "994bf5dffcf9",
-    "url": "https://www.footballinsider247.com/chelsea/chelsea-should-axe-jordan-henderson-vs-sunderland-and-start-78-duel-winner",
-    "title": "Chelsea should axe Jordan Henderson vs Sunderland and start 78% duel winner",
-    "ko": "첼시, 선덜랜드전 조던 헨더슨 대신 78% 경합승 선수 선발 주장",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "조던 헨더슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "326c856ec0a2",
-    "url": "https://www.football.london/chelsea-fc/news/emi-martinez-decision-one-chelsea-34861936",
-    "title": "Emi Martinez decision and one other Chelsea change Xabi Alonso will consider for Sunderland",
-    "ko": "Emi Martinez 결정 포함, 사비 알론소 선덜랜드전 첼시 변화 고려",
-    "source": "fblondon",
-    "publishedAt": "2026-11-05T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에미 마르티네스"
-    ],
-    "playerTags": [],
-    "author": "Bobby Vincent",
-    "transfer": null
-   },
-   {
-    "id": "0104a53c5f4b",
-    "url": "https://www.footballinsider247.com/sunderland/jules-ahoka-sunderland-star-with-100-and-89-stats-can-save-regis-le-bris-vs-chelsea-verdict",
-    "title": "Jules Ahoka: Sunderland star with 100% and 89% stats can save Regis Le Bris vs Chelsea - verdict",
-    "ko": "선덜랜드 주앙 아호카, 첼시전 르 브리스 구할 수 있다는 평가",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-06T19:20:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주앙 아호카"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "05d946d16e34",
-    "url": "https://www.football.london/chelsea-fc/news/chelsea-injury-update-sunderland-alonso-34876903",
-    "title": "Nine players set to miss Sunderland vs Chelsea as Xabi Alonso gives injury update",
-    "ko": "알론소, 선덜랜드전 첼시 결장 선수 9명 부상 업데이트",
-    "source": "fblondon",
-    "publishedAt": "2026-11-07T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Wakefield",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-04T19:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nine players set to miss Sunderland vs Chelsea as Xabi Alonso gives injury update"
- },
- {
   "slug": "nyoni-liverpool-contract",
   "mode": "llm",
   "titleKo": "리버풀 뇨니 재계약 협상",
@@ -23943,245 +24604,6 @@
    "viaQuote": false
   },
   "headline": "Vogt bedroht: Heidenheim geht nach Hassbotschaft gegen Anhänger vor"
- },
- {
-  "slug": "baleba-injury",
-  "mode": "llm",
-  "titleKo": "바레바 부상, 맨유 전력 공백",
-  "createdAt": "2026-11-03T21:14:37.000Z",
-  "updatedAt": "2026-11-06T16:06:30.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "aston-villa",
-   "chelsea"
-  ],
-  "players": [
-   "카를로스 바레바",
-   "바레바",
-   "래시포드",
-   "셰슈코",
-   "발레바",
-   "도르구",
-   "돈나룸마"
-  ],
-  "sig": [
-   "carlos",
-   "baleba"
-  ],
-  "articles": [
-   {
-    "id": "b5e548712996",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-man-united-baleba-injury-34858907",
-    "title": "BREAKING: Carlos Baleba in 'distress' as crushed Man United star forced off with injury vs Roma",
-    "ko": "발레바, 로마전 부상으로 교체 아웃…맨유 고통",
-    "source": "men",
-    "publishedAt": "2026-11-03T21:14:37.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "발레바"
-    ],
-    "playerTags": [],
-    "author": "Scott Trotter",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "e6855c7d31ca",
-    "url": "https://www.thesun.co.uk/sport/40903701/man-utd-carlos-baleba-hamstring-injury-champions-league-roma/",
-    "title": "Huge Man Utd blow as Carlos Baleba appears to pull hamstring and helped off Old Trafford pitch close to tears",
-    "ko": "맨유 바레바, 햄스트링 부상으로 눈물 속 교체",
-    "source": "sun",
-    "publishedAt": "2026-11-03T21:16:19.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바"
-    ],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "8f9d97db032d",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/baleba-rashford-sesko-man-united-34858920",
-    "title": "Baleba, Rashford, Sesko - Man United injury news and return dates after Roma win",
-    "ko": "맨유, 로마전 승리 후 바레바·래시포드·셰슈코 부상 소식과 복귀 시점",
-    "source": "men",
-    "publishedAt": "2026-11-04T04:00:00.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바",
-     "래시포드",
-     "셰슈코"
-    ],
-    "playerTags": [
-     "benjamin-sesko",
-     "marcus-rashford"
-    ],
-    "author": "Ross Jackson",
-    "transfer": null,
-    "clubs": [
-     "man-utd"
-    ]
-   },
-   {
-    "id": "a53614c35a3c",
-    "url": "https://www.mirror.co.uk/sport/football/news/carrick-man-utd-baleba-injury-37851168",
-    "title": "Michael Carrick confirms severity of Carlos Baleba injury as Man Utd boss provides two updates",
-    "ko": "캐릭, 바레바 부상 심각도 확인…맨유 두 가지 업데이트",
-    "source": "mirror",
-    "publishedAt": "2026-11-06T13:47:02.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바"
-    ],
-    "playerTags": [],
-    "author": "Kieran Horn",
-    "transfer": null
-   },
-   {
-    "id": "555fbed08273",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-issue-injury-update-34873268",
-    "title": "Manchester United issue injury update on Carlos Baleba with new timeline given",
-    "ko": "맨유, 바레바 부상 업데이트…복귀 시점 제시",
-    "source": "men",
-    "publishedAt": "2026-11-06T13:47:34.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바"
-    ],
-    "playerTags": [],
-    "author": "Tyrone Marshall",
-    "transfer": null
-   },
-   {
-    "id": "b09bfac1e111",
-    "url": "https://www.thesun.co.uk/sport/40939139/man-utd-carlos-baleba-injury-michael-carrick/",
-    "title": "Man Utd suffer Carlos Baleba injury blow as Michael Carrick reveals how long star will be out for",
-    "ko": "맨유 바레바 부상 악재, 캐릭 복귀 시점 공개",
-    "source": "sun",
-    "publishedAt": "2026-11-06T13:47:59.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바"
-    ],
-    "playerTags": [],
-    "author": "James Graham",
-    "transfer": null
-   },
-   {
-    "id": "fd493cfd3cad",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/baleba-dorgu-rashford-manchester-united-34871076",
-    "title": "Baleba, Dorgu, Rashford - Manchester United injury news and return dates ahead of Aston Villa",
-    "ko": "맨유 바레바·도르구·래시포드 부상 현황, 애스턴 빌라전 복귀 시점",
-    "source": "men",
-    "publishedAt": "2026-11-06T14:14:30.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "aston-villa"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바",
-     "도르구",
-     "래시포드"
-    ],
-    "playerTags": [
-     "marcus-rashford"
-    ],
-    "author": "Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "72ddadee5da4",
-    "url": "https://www.lequipe.fr/Football/Actualites/Touche-contre-l-as-rome-en-ligue-des-champions-carlos-baleba-sera-absent-plusieurs-semaines-avec-manchester-united/1741671#at_medium=RSS_feeds",
-    "title": "Touché contre l'AS Rome en Ligue des champions, Carlos Baleba sera absent plusieurs semaines avec Manchester United",
-    "ko": "바레바, 로마전 터치 후 맨유 복귀 수 주간 결장 예상",
-    "source": "lequipe",
-    "publishedAt": "2026-11-06T15:22:33.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바"
-    ],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": null
-   },
-   {
-    "id": "94de2f6f8fe3",
-    "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
-    "title": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
-    "ko": "맨유 바레바 수주간 결장, 마레스카 돈나룸마 지지",
-    "source": "guardian",
-    "publishedAt": "2026-11-06T16:06:30.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "chelsea"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레바",
-     "돈나룸마"
-    ],
-    "playerTags": [],
-    "author": "Guardian sport",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 5,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "benjamin-sesko",
-   "marcus-rashford"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-03T21:14:37.000Z",
-   "viaQuote": false
-  },
-  "headline": "Touché contre l'AS Rome en Ligue des champions, Carlos Baleba sera absent plusieurs semaines avec Manchester United"
  },
  {
   "slug": "schalke-gladbach-ii-2026-11-08",
