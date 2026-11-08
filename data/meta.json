@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T12:18:09.457Z",
+ "updatedAt": "2026-11-08T13:23:19.040Z",
  "hot": [
+  "de-miguel-incident",
   "napoli-lazio-2026-11-08",
   "neuer-injury",
-  "atletico-barcelona-2026-11-07",
-  "man-city-manager-future",
-  "valencia-real-madrid-2026-11-06"
+  "chelsea-sunderland-2026-11-08",
+  "atletico-barcelona-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -32,19 +32,19 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 12,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,31 +80,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 86
+   "added": 5,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -134,19 +134,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -164,25 +164,25 @@
   "sun": {
    "ok": true,
    "items": 26,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 3,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -309,16 +309,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 211,
+  "recentIssues": 214,
   "singleArticleRate": 39,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 55
+    "count": 54
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 32
+   },
+   {
+    "slug": "arsenal-hull-2026-11-07",
+    "count": 30
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
@@ -326,10 +330,6 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 29
-   },
-   {
-    "slug": "arsenal-hull-2026-11-07",
     "count": 29
    },
    {
@@ -341,12 +341,8 @@
     "count": 21
    },
    {
-    "slug": "grealish-discipline",
-    "count": 16
-   },
-   {
     "slug": "carrick-manager-future",
-    "count": 16
+    "count": 17
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -354,6 +350,10 @@
    },
    {
     "slug": "newcastle-manager-future",
+    "count": 15
+   },
+   {
+    "slug": "grealish-discipline",
     "count": 15
    },
    {
@@ -369,7 +369,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "조르제 제수스",
@@ -484,24 +484,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 9
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 2
-    },
-    {
-     "ko": "제이제이 가브리엘",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -519,6 +501,24 @@
     },
     {
      "ko": "마르코 시우바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 9
+    },
+    {
+     "ko": "제이제이 가브리엘",
+     "count": 2
+    },
+    {
+     "ko": "J.J. 가브리엘",
      "count": 1
     }
    ]
@@ -962,34 +962,6 @@
    ]
   },
   {
-   "en": "Avram Glazer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아브람 글레이저",
-     "count": 2
-    },
-    {
-     "ko": "애브럼 글레이저",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Arthur Vermeeren",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아르튀르 페르메렌",
-     "count": 2
-    },
-    {
-     "ko": "아르튀르 베르메렌",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sérgio Ferreira",
    "dictionary": null,
    "variants": [
@@ -1242,6 +1214,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Okafor",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오카포르",
+     "count": 2
+    },
+    {
+     "ko": "오카포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Christos Tzolis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크리스토스 촐리스",
+     "count": 2
+    },
+    {
+     "ko": "졸리스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1282,8 +1282,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 816,
-   "llm": 816
+   "collected": 866,
+   "llm": 866
   }
  },
  "llmErrors": []
