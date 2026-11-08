@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T23:26:44.827Z",
+ "updatedAt": "2026-11-08T00:00:15.570Z",
  "hot": [
   "nottingham-forest-man-city-2026-11-05",
-  "arsenal-hull-2026-11-07",
   "de-miguel-incident",
+  "arsenal-hull-2026-11-07",
   "valencia-real-madrid-2026-11-06",
   "psg-troyes-2026-11-08"
  ],
@@ -32,19 +32,19 @@
   "bbc": {
    "ok": true,
    "items": 63,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,13 +80,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 3,
    "authorRate": 90
   },
   "fblondon": {
@@ -134,7 +134,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -146,7 +146,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -181,7 +181,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -309,7 +309,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 214,
+  "recentIssues": 213,
   "singleArticleRate": 39,
   "broad": [
    {
@@ -322,11 +322,11 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 28
+    "count": 29
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 28
+    "count": 29
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
@@ -757,20 +757,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Karetsas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카레타스",
-     "count": 4
-    },
-    {
-     "ko": "카레차스",
      "count": 1
     }
    ]
@@ -1250,6 +1236,24 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 스테우르",
+     "count": 1
+    },
+    {
+     "ko": "션 슈어",
+     "count": 1
+    },
+    {
+     "ko": "션 스테르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1290,8 +1294,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 535,
-   "llm": 535
+   "collected": 553,
+   "llm": 553
   }
  },
  "llmErrors": []
