@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T08:19:03.316Z",
+ "updatedAt": "2026-11-08T09:15:19.033Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
+  "carrick-manager-future",
+  "valencia-real-madrid-2026-11-06",
   "fulham-newcastle-2026-11-08",
-  "rudiger-incident",
-  "chelsea-sunderland-2026-11-08",
-  "gabriel-man-utd-transfer"
+  "rudiger-incident"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +31,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 2,
+   "items": 65,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 2,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,37 +80,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 92
+   "added": 1,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -128,25 +128,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -163,26 +163,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 23,
-   "added": 3,
+   "items": 24,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
-   "added": 5,
+   "items": 6,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -310,11 +310,11 @@
  ],
  "issueHealth": {
   "recentIssues": 214,
-  "singleArticleRate": 39,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "de-miguel-incident",
-    "count": 64
+    "count": 63
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -322,7 +322,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 30
+    "count": 29
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -333,28 +333,28 @@
     "count": 28
    },
    {
+    "slug": "valencia-real-madrid-2026-11-06",
+    "count": 23
+   },
+   {
     "slug": "jesus-ronaldo-relationship",
     "count": 23
-   },
-   {
-    "slug": "kane-contract",
-    "count": 23
-   },
-   {
-    "slug": "valencia-real-madrid-2026-11-06",
-    "count": 21
    },
    {
     "slug": "grealish-discipline",
     "count": 17
    },
    {
+    "slug": "carrick-manager-future",
+    "count": 16
+   },
+   {
     "slug": "fulham-newcastle-2026-11-08",
     "count": 16
    },
    {
-    "slug": "carrick-manager-future",
-    "count": 15
+    "slug": "kane-contract",
+    "count": 16
    },
    {
     "slug": "newcastle-manager-future",
@@ -574,6 +574,10 @@
     {
      "ko": "퀼뤼겔",
      "count": 1
+    },
+    {
+     "ko": "퀼뤼흐",
+     "count": 1
     }
    ]
   },
@@ -596,20 +600,6 @@
     {
      "ko": "잡 벨링엄",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Shea Lacey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉐이 레이시",
-     "count": 4
-    },
-    {
-     "ko": "셰이 레이시",
-     "count": 3
     }
    ]
   },
@@ -645,6 +635,20 @@
     },
     {
      "ko": "딜랍",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Shea Lacey",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉐이 레이시",
+     "count": 4
+    },
+    {
+     "ko": "셰이 레이시",
      "count": 2
     }
    ]
@@ -766,20 +770,6 @@
    ]
   },
   {
-   "en": "Avram Glazer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아브람 글레이저",
-     "count": 3
-    },
-    {
-     "ko": "애브럼 글레이저",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Mohya",
    "dictionary": null,
    "variants": [
@@ -846,32 +836,6 @@
    ]
   },
   {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "지안루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "잔루이지 도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Frank Lampard",
    "dictionary": null,
    "variants": [
@@ -926,19 +890,37 @@
    ]
   },
   {
-   "en": "Funes",
+   "en": "Avram Glazer",
    "dictionary": null,
    "variants": [
     {
-     "ko": "푸네스",
-     "count": 2
+     "ko": "아브람 글레이저",
+     "count": 3
     },
     {
-     "ko": "후네스",
+     "ko": "애브럼 글레이저",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "도나룸마",
      "count": 1
     },
     {
-     "ko": "푼스",
+     "ko": "잔루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 1
+    },
+    {
+     "ko": "돈나룸마",
      "count": 1
     }
    ]
@@ -1018,20 +1000,6 @@
    ]
   },
   {
-   "en": "Sean Neave",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 네이브",
-     "count": 2
-    },
-    {
-     "ko": "숀 네이브",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Ricardo Silva",
    "dictionary": null,
    "variants": [
@@ -1097,6 +1065,20 @@
     },
     {
      "ko": "메리 어프스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Funes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "푸네스",
+     "count": 2
+    },
+    {
+     "ko": "푼스",
      "count": 1
     }
    ]
@@ -1171,6 +1153,24 @@
     },
     {
      "ko": "조나스 데 뢰크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Adam Wharton",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아담 와튼",
+     "count": 1
+    },
+    {
+     "ko": "애덤 왓턴",
+     "count": 1
+    },
+    {
+     "ko": "와턴",
      "count": 1
     }
    ]
@@ -1306,8 +1306,8 @@
    "llm": 754
   },
   "2026-11-08": {
-   "collected": 689,
-   "llm": 689
+   "collected": 713,
+   "llm": 713
   }
  },
  "llmErrors": []
