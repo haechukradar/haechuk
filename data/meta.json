@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T16:55:21.736Z",
+ "updatedAt": "2026-11-09T17:50:00.382Z",
  "hot": [
+  "cubarsi-golden-boy-award",
   "oviedo-manager-appointment",
   "carrick-manager-future",
   "aberdeen-manager-future",
-  "cubarsi-golden-boy-award",
-  "alisson-liverpool-transfer"
+  "vicens-lyon-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -33,15 +33,15 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 3,
+   "items": 78,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 63,
-   "added": 2,
-   "authorRate": 95
+   "items": 56,
+   "added": 1,
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,31 +82,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 80
+   "added": 5,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -124,19 +124,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -166,7 +166,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 7,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -178,13 +178,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 5,
+   "items": 11,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -306,21 +306,21 @@
    "count": 5
   },
   {
-   "name": "바르콜라",
-   "count": 4
+   "name": "오스카르손",
+   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 246,
-  "singleArticleRate": 34,
+  "recentIssues": 255,
+  "singleArticleRate": 36,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 43
+    "count": 44
    },
    {
     "slug": "carrick-manager-future",
-    "count": 40
+    "count": 41
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -339,20 +339,20 @@
     "count": 29
    },
    {
-    "slug": "de-miguel-incident",
-    "count": 28
-   },
-   {
     "slug": "chelsea-sunderland-2026-11-08",
     "count": 27
    },
    {
-    "slug": "valencia-real-madrid-2026-11-06",
-    "count": 25
+    "slug": "de-miguel-incident",
+    "count": 26
    },
    {
     "slug": "crystal-palace-liverpool-2026-11-07",
-    "count": 23
+    "count": 24
+   },
+   {
+    "slug": "valencia-real-madrid-2026-11-06",
+    "count": 24
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
@@ -360,7 +360,7 @@
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
-    "count": 16
+    "count": 17
    },
    {
     "slug": "vitoria-guimaraes-porto-2026-11-08",
@@ -379,7 +379,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "마티아스 야이슬레",
@@ -440,23 +440,13 @@
    ]
   },
   {
-   "en": "Julian",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 6
-    },
-    {
-     "ko": "훌리안",
-     "count": 5
-    }
-   ]
-  },
-  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
+    {
+     "ko": "라먼스",
+     "count": 2
+    },
     {
      "ko": "래먼스",
      "count": 2
@@ -478,10 +468,6 @@
      "count": 1
     },
     {
-     "ko": "라먼스",
-     "count": 1
-    },
-    {
      "ko": "센네 라메스",
      "count": 1
     },
@@ -496,6 +482,20 @@
     {
      "ko": "센 람멘스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julian",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 6
+    },
+    {
+     "ko": "훌리안",
+     "count": 5
     }
    ]
   },
@@ -656,16 +656,20 @@
    ]
   },
   {
-   "en": "Stefan Borson",
+   "en": "David Moyes",
    "dictionary": null,
    "variants": [
     {
-     "ko": "스테판 보르손",
-     "count": 5
+     "ko": "모예스",
+     "count": 4
     },
     {
-     "ko": "스테판 보슨",
+     "ko": "데이비드 모예스",
      "count": 2
+    },
+    {
+     "ko": "모이스",
+     "count": 1
     }
    ]
   },
@@ -697,6 +701,34 @@
     },
     {
      "ko": "딜랍",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 4
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 4
+    },
+    {
+     "ko": "파리오리",
      "count": 2
     }
    ]
@@ -752,29 +784,19 @@
    ]
   },
   {
-   "en": "Farioli",
+   "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
     {
-     "ko": "파리올리",
+     "ko": "키스 와이네스",
      "count": 3
     },
     {
-     "ko": "파리오리",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 4
+     "ko": "위니스",
+     "count": 1
     },
     {
-     "ko": "샤비",
+     "ko": "키스 와이니스",
      "count": 1
     }
    ]
@@ -793,24 +815,6 @@
     },
     {
      "ko": "비토르 브루누",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Circati",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "서큐티",
-     "count": 2
-    },
-    {
-     "ko": "서클라티",
-     "count": 1
-    },
-    {
-     "ko": "치르카티",
      "count": 1
     }
    ]
@@ -887,24 +891,6 @@
     },
     {
      "ko": "프랭크 램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 2
-    },
-    {
-     "ko": "위니스",
-     "count": 1
-    },
-    {
-     "ko": "키스 와이니스",
      "count": 1
     }
    ]
@@ -1028,6 +1014,20 @@
    ]
   },
   {
+   "en": "Gosens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "고센스",
+     "count": 3
+    },
+    {
+     "ko": "고젠스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ivan Leko",
    "dictionary": null,
    "variants": [
@@ -1051,6 +1051,24 @@
     },
     {
      "ko": "오카포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Circati",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "서큐티",
+     "count": 1
+    },
+    {
+     "ko": "서클라티",
+     "count": 1
+    },
+    {
+     "ko": "치르카티",
      "count": 1
     }
    ]
@@ -1171,20 +1189,6 @@
     },
     {
      "ko": "찰리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Irankunda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이라쿤다",
-     "count": 2
-    },
-    {
-     "ko": "이랑쿤다",
      "count": 1
     }
    ]
@@ -1324,8 +1328,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 100,
-   "llm": 100
+   "collected": 154,
+   "llm": 154
   }
  },
  "llmErrors": []
