@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T23:13:13.787Z",
+ "updatedAt": "2026-11-09T23:51:17.661Z",
  "hot": [
   "carrick-manager-future",
   "cubarsi-golden-boy-award",
-  "oviedo-manager-appointment",
-  "netherlands-match-bus-incident",
-  "van-dijk-injury"
+  "birmingham-affairs-tom-brady-stake",
+  "musiala-injury",
+  "oviedo-manager-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -34,13 +34,13 @@
   "bbc": {
    "ok": true,
    "items": 77,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 56,
-   "added": 1,
+   "items": 57,
+   "added": 2,
    "authorRate": 96
   },
   "sky": {
@@ -88,7 +88,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 74
   },
   "fblondon": {
@@ -136,7 +136,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -166,13 +166,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -183,7 +183,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -311,12 +311,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 247,
+  "recentIssues": 246,
   "singleArticleRate": 35,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 49
+    "count": 52
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -356,7 +356,7 @@
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
-    "count": 23
+    "count": 22
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -396,12 +396,12 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르쿠 시우바",
+     "ko": "마르코 실바",
      "count": 5
     },
     {
-     "ko": "마르코 실바",
-     "count": 4
+     "ko": "마르쿠 시우바",
+     "count": 5
     },
     {
      "ko": "마르코 시우바",
@@ -596,24 +596,6 @@
    ]
   },
   {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 4
-    },
-    {
-     "ko": "데이비드 모예스",
-     "count": 2
-    },
-    {
-     "ko": "모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Delap",
    "dictionary": null,
    "variants": [
@@ -624,24 +606,6 @@
     {
      "ko": "딜랍",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 3
-    },
-    {
-     "ko": "티에르노 배리",
-     "count": 2
-    },
-    {
-     "ko": "배리",
-     "count": 1
     }
    ]
   },
@@ -663,6 +627,24 @@
     },
     {
      "ko": "호르헤 헤수스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 4
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 1
+    },
+    {
+     "ko": "모이스",
      "count": 1
     }
    ]
@@ -760,6 +742,24 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 바리",
+     "count": 3
+    },
+    {
+     "ko": "배리",
+     "count": 1
+    },
+    {
+     "ko": "티에르노 배리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -773,6 +773,24 @@
     },
     {
      "ko": "키스 와이니스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Musiala",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무시알라",
+     "count": 3
+    },
+    {
+     "ko": "자말 무시알라",
+     "count": 1
+    },
+    {
+     "ko": "뮈지알라",
      "count": 1
     }
    ]
@@ -885,24 +903,6 @@
     },
     {
      "ko": "마빈 콤퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Musiala",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무시알라",
-     "count": 2
-    },
-    {
-     "ko": "자말 무시알라",
-     "count": 1
-    },
-    {
-     "ko": "뮈지알라",
      "count": 1
     }
    ]
@@ -1304,8 +1304,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 341,
-   "llm": 341
+   "collected": 353,
+   "llm": 353
   }
  },
  "llmErrors": []
