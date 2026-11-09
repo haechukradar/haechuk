@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T03:16:37.275Z",
+ "updatedAt": "2026-11-09T04:30:31.570Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
   "carrick-manager-future",
-  "man-utd-aston-villa-2026-11-05",
   "crystal-palace-manager-future",
-  "crystal-palace-liverpool-2026-11-07"
+  "man-utd-aston-villa-2026-11-05",
+  "fiorentina-juventus-2026-11-08"
  ],
  "days": [
   "2026-10-18",
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -99,7 +99,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -135,13 +135,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "hln": {
@@ -310,8 +310,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 254,
-  "singleArticleRate": 37,
+  "recentIssues": 253,
+  "singleArticleRate": 38,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -475,12 +475,12 @@
      "count": 5
     },
     {
-     "ko": "마르코 실바",
+     "ko": "마르쿠 실바",
      "count": 4
     },
     {
-     "ko": "마르쿠 실바",
-     "count": 3
+     "ko": "마르코 실바",
+     "count": 4
     },
     {
      "ko": "마르코 시우바",
@@ -783,6 +783,28 @@
    ]
   },
   {
+   "en": "Diogo Dalot",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오고 달롯",
+     "count": 2
+    },
+    {
+     "ko": "달롯",
+     "count": 2
+    },
+    {
+     "ko": "디오구 달롯",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달로트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sage",
    "dictionary": null,
    "variants": [
@@ -956,28 +978,6 @@
     },
     {
      "ko": "비토르 브루누",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Dalot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "달롯",
-     "count": 2
-    },
-    {
-     "ko": "디오구 달롯",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달롯",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달로트",
      "count": 1
     }
    ]
@@ -1359,8 +1359,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 561,
-   "llm": 561
+   "collected": 568,
+   "llm": 568
   }
  },
  "llmErrors": []
