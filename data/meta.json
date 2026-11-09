@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T04:30:31.570Z",
+ "updatedAt": "2026-11-09T05:40:59.552Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
   "carrick-manager-future",
   "crystal-palace-manager-future",
   "man-utd-aston-villa-2026-11-05",
-  "fiorentina-juventus-2026-11-08"
+  "grealish-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -57,7 +57,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -87,7 +87,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 82
   },
   "fblondon": {
@@ -99,13 +99,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -129,25 +129,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -194,7 +194,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 16
+   "count": 17
   },
   {
    "name": "오워노",
@@ -311,7 +311,7 @@
  ],
  "issueHealth": {
   "recentIssues": 253,
-  "singleArticleRate": 38,
+  "singleArticleRate": 37,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -319,7 +319,7 @@
    },
    {
     "slug": "de-miguel-incident",
-    "count": 34
+    "count": 35
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -364,6 +364,10 @@
    {
     "slug": "fulham-newcastle-2026-11-08",
     "count": 16
+   },
+   {
+    "slug": "vitoria-guimaraes-porto-2026-11-08",
+    "count": 15
    },
    {
     "slug": "everton-coventry-2026-11-06",
@@ -681,6 +685,28 @@
    ]
   },
   {
+   "en": "Diogo Dalot",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오고 달롯",
+     "count": 3
+    },
+    {
+     "ko": "달롯",
+     "count": 2
+    },
+    {
+     "ko": "디오구 달롯",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달로트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -698,6 +724,36 @@
     },
     {
      "ko": "사주 감독",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "래먼스",
+     "count": 2
+    },
+    {
+     "ko": "센네 라메스",
+     "count": 1
+    },
+    {
+     "ko": "람멘스",
+     "count": 1
+    },
+    {
+     "ko": "래미언스",
+     "count": 1
+    },
+    {
+     "ko": "센 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "세네 라멘스",
      "count": 1
     }
    ]
@@ -757,54 +813,6 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마크 반 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마르크 반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 보멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Dalot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오고 달롯",
-     "count": 2
-    },
-    {
-     "ko": "달롯",
-     "count": 2
-    },
-    {
-     "ko": "디오구 달롯",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달로트",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sage",
    "dictionary": null,
    "variants": [
@@ -837,32 +845,6 @@
     {
      "ko": "페르민 로페스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "래먼스",
-     "count": 2
-    },
-    {
-     "ko": "센네 라메스",
-     "count": 1
-    },
-    {
-     "ko": "람멘스",
-     "count": 1
-    },
-    {
-     "ko": "래미언스",
-     "count": 1
-    },
-    {
-     "ko": "센 람멘스",
-     "count": 1
     }
    ]
   },
@@ -1028,6 +1010,28 @@
     },
     {
      "ko": "댄크스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르크 반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 봄멜",
      "count": 1
     }
    ]
@@ -1359,8 +1363,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 568,
-   "llm": 568
+   "collected": 583,
+   "llm": 583
   }
  },
  "llmErrors": []
