@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T21:32:24.600Z",
+ "updatedAt": "2026-11-09T22:27:11.895Z",
  "hot": [
   "carrick-manager-future",
-  "oviedo-manager-appointment",
   "cubarsi-golden-boy-award",
+  "oviedo-manager-appointment",
   "netherlands-match-bus-incident",
-  "de-miguel-incident"
+  "van-dijk-injury"
  ],
  "days": [
   "2026-10-18",
@@ -33,8 +33,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 1,
+   "items": 77,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
@@ -46,7 +46,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,25 +82,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -130,13 +130,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -160,31 +160,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 2,
+   "items": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -266,6 +266,10 @@
    "count": 6
   },
   {
+   "name": "톰 브래디",
+   "count": 6
+  },
+  {
    "name": "콘사",
    "count": 5
   },
@@ -304,15 +308,11 @@
   {
    "name": "마누엘 노이어",
    "count": 5
-  },
-  {
-   "name": "은메차",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 245,
-  "singleArticleRate": 35,
+  "recentIssues": 244,
+  "singleArticleRate": 34,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -320,7 +320,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 44
+    "count": 46
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -414,24 +414,6 @@
    ]
   },
   {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 6
-    },
-    {
-     "ko": "티에르노 배리",
-     "count": 5
-    },
-    {
-     "ko": "배리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
@@ -509,6 +491,24 @@
     },
     {
      "ko": "사주 감독",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 5
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 3
+    },
+    {
+     "ko": "배리",
      "count": 1
     }
    ]
@@ -614,28 +614,6 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 3
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 주앙",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 헤수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -664,6 +642,28 @@
     {
      "ko": "딜랍",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호르헤 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 주앙",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 헤수스",
+     "count": 1
     }
    ]
   },
@@ -853,20 +853,6 @@
     },
     {
      "ko": "작카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Frank Lampard",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "램파드",
-     "count": 3
-    },
-    {
-     "ko": "프랭크 램퍼드",
      "count": 1
     }
    ]
@@ -1138,20 +1124,6 @@
    ]
   },
   {
-   "en": "Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바리",
-     "count": 2
-    },
-    {
-     "ko": "배리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gouweleeuw",
    "dictionary": null,
    "variants": [
@@ -1252,6 +1224,38 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Patrick Videira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "패트릭 비데이라",
+     "count": 1
+    },
+    {
+     "ko": "비에이라",
+     "count": 1
+    },
+    {
+     "ko": "파트리크 비데이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Irankunda",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이라쿤다",
+     "count": 2
+    },
+    {
+     "ko": "이랑쿤다",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1300,8 +1304,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 289,
-   "llm": 289
+   "collected": 321,
+   "llm": 321
   }
  },
  "llmErrors": []
