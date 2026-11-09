@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T11:34:58.842Z",
+ "updatedAt": "2026-11-09T12:39:54.922Z",
  "hot": [
+  "alisson-liverpool-transfer",
+  "musiala-injury",
   "carrick-manager-future",
   "crystal-palace-manager-future",
-  "de-miguel-incident",
-  "atletico-barcelona-2026-11-07",
-  "chelsea-sunderland-2026-11-08"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -32,8 +32,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 1,
+   "items": 69,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 8,
    "authorRate": 0
   },
   "espn": {
@@ -57,7 +57,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 12,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,31 +81,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 80
+   "added": 6,
+   "authorRate": 78
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 1,
-   "authorRate": 100
-  },
-  "men": {
    "ok": true,
    "items": 25,
    "added": 2,
    "authorRate": 100
   },
+  "men": {
+   "ok": true,
+   "items": 25,
+   "added": 4,
+   "authorRate": 100
+  },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -123,19 +123,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -165,25 +165,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 6,
+   "added": 5,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 16,
-   "added": 4,
+   "items": 12,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -209,15 +209,15 @@
    "count": 13
   },
   {
+   "name": "알리송",
+   "count": 12
+  },
+  {
    "name": "프레스티아니",
    "count": 11
   },
   {
    "name": "그릴리시",
-   "count": 10
-  },
-  {
-   "name": "알리송",
    "count": 10
   },
   {
@@ -245,11 +245,19 @@
    "count": 7
   },
   {
+   "name": "도르구",
+   "count": 7
+  },
+  {
    "name": "데디치",
    "count": 7
   },
   {
    "name": "티에르노 바리",
+   "count": 7
+  },
+  {
+   "name": "페르민 로페스",
    "count": 7
   },
   {
@@ -265,11 +273,11 @@
    "count": 6
   },
   {
-   "name": "도르구",
+   "name": "아민 구이리",
    "count": 6
   },
   {
-   "name": "아민 구이리",
+   "name": "하베르츠",
    "count": 6
   },
   {
@@ -278,10 +286,6 @@
   },
   {
    "name": "트로사르",
-   "count": 6
-  },
-  {
-   "name": "페르민 로페스",
    "count": 6
   },
   {
@@ -303,35 +307,31 @@
   {
    "name": "노리스",
    "count": 5
-  },
-  {
-   "name": "맥스 다우먼",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 252,
-  "singleArticleRate": 36,
+  "recentIssues": 250,
+  "singleArticleRate": 35,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 41
+    "count": 43
    },
    {
-    "slug": "de-miguel-incident",
-    "count": 34
+    "slug": "arsenal-hull-2026-11-07",
+    "count": 33
+   },
+   {
+    "slug": "nottingham-forest-man-city-2026-11-05",
+    "count": 32
    },
    {
     "slug": "carrick-manager-future",
     "count": 32
    },
    {
-    "slug": "arsenal-hull-2026-11-07",
+    "slug": "de-miguel-incident",
     "count": 32
-   },
-   {
-    "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 31
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -355,7 +355,7 @@
    },
    {
     "slug": "fonseca-sporting-appointment",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -377,54 +377,12 @@
  },
  "nameReport": [
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르제 제수스",
-     "count": 5
-    },
-    {
-     "ko": "조르제 제주스",
-     "count": 3
-    },
-    {
-     "ko": "조르제 젠지",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 주앙",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 1
-    },
-    {
-     "ko": "조르지 제수스",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 헤수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -467,20 +425,54 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르제 제수스",
+     "count": 5
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르제 젠지",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 주앙",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 제주스",
+     "count": 1
+    },
+    {
+     "ko": "조르지 제수스",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 헤수스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 8
+     "count": 6
     },
     {
      "ko": "토마스 투헬",
      "count": 6
-    },
-    {
-     "ko": "토헬",
-     "count": 1
     },
     {
      "ko": "튀헬",
@@ -517,6 +509,20 @@
     {
      "ko": "배리",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julian",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 6
+    },
+    {
+     "ko": "훌리안",
+     "count": 5
     }
    ]
   },
@@ -567,20 +573,6 @@
    ]
   },
   {
-   "en": "Julian",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 5
-    },
-    {
-     "ko": "훌리안",
-     "count": 5
-    }
-   ]
-  },
-  {
    "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
@@ -595,6 +587,54 @@
     {
      "ko": "J.J. 가브리엘",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 4
+    },
+    {
+     "ko": "세이지",
+     "count": 3
+    },
+    {
+     "ko": "피에르 세이지",
+     "count": 1
+    },
+    {
+     "ko": "사주 감독",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Youri Tielemans",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "유리 틸레망스",
+     "count": 3
+    },
+    {
+     "ko": "틸레망스",
+     "count": 2
+    },
+    {
+     "ko": "틸레만스",
+     "count": 1
+    },
+    {
+     "ko": "유리 틸레만스",
+     "count": 1
+    },
+    {
+     "ko": "튈레망스",
+     "count": 1
     }
    ]
   },
@@ -616,28 +656,6 @@
     },
     {
      "ko": "디오고 달로트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 4
-    },
-    {
-     "ko": "세이지",
-     "count": 2
-    },
-    {
-     "ko": "피에르 세이지",
-     "count": 1
-    },
-    {
-     "ko": "사주 감독",
      "count": 1
     }
    ]
@@ -677,32 +695,6 @@
    ]
   },
   {
-   "en": "Youri Tielemans",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "틸레망스",
-     "count": 2
-    },
-    {
-     "ko": "유리 틸레망스",
-     "count": 2
-    },
-    {
-     "ko": "틸레만스",
-     "count": 1
-    },
-    {
-     "ko": "유리 틸레만스",
-     "count": 1
-    },
-    {
-     "ko": "튈레망스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Delap",
    "dictionary": null,
    "variants": [
@@ -713,28 +705,6 @@
     {
      "ko": "딜랍",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Jobe Bellingham",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조브 벨링엄",
-     "count": 3
-    },
-    {
-     "ko": "제이브 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "조베 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "잡 벨링엄",
-     "count": 1
     }
    ]
   },
@@ -785,6 +755,28 @@
     {
      "ko": "페르민 로페스",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Jobe Bellingham",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조브 벨링엄",
+     "count": 2
+    },
+    {
+     "ko": "제이브 벨링엄",
+     "count": 1
+    },
+    {
+     "ko": "조베 벨링엄",
+     "count": 1
+    },
+    {
+     "ko": "잡 벨링엄",
+     "count": 1
     }
    ]
   },
@@ -865,24 +857,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 3
-    },
-    {
-     "ko": "위니스",
-     "count": 1
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gary Neville",
    "dictionary": null,
    "variants": [
@@ -942,28 +916,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Conor Gallagher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콘너 갤러거",
-     "count": 1
-    },
-    {
-     "ko": "코너 갤러거",
-     "count": 1
-    },
-    {
-     "ko": "콜 갤러거",
-     "count": 1
-    },
-    {
-     "ko": "콘어 갤러거",
      "count": 1
     }
    ]
@@ -1031,6 +983,24 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 2
+    },
+    {
+     "ko": "위니스",
+     "count": 1
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gosens",
    "dictionary": null,
    "variants": [
@@ -1044,6 +1014,24 @@
     },
     {
      "ko": "고젠스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marc Guehi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게히",
+     "count": 2
+    },
+    {
+     "ko": "마르크 게히",
+     "count": 1
+    },
+    {
+     "ko": "마크 게히",
      "count": 1
     }
    ]
@@ -1136,34 +1124,6 @@
     },
     {
      "ko": "루이스 핀투",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Konsa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콘사",
-     "count": 2
-    },
-    {
-     "ko": "코나",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nuno Campos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "누노 캄포스",
-     "count": 2
-    },
-    {
-     "ko": "누노 캄푸스",
      "count": 1
     }
    ]
@@ -1267,6 +1227,38 @@
    ]
   },
   {
+   "en": "Alisson Becker",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알리송",
+     "count": 2
+    },
+    {
+     "ko": "알리송 베커",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Conor Gallagher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "코너 갤러거",
+     "count": 1
+    },
+    {
+     "ko": "콜 갤러거",
+     "count": 1
+    },
+    {
+     "ko": "콘어 갤러거",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Charlie",
    "dictionary": null,
    "variants": [
@@ -1307,11 +1299,11 @@
      "count": 1
     },
     {
-     "ko": "고우벌레우",
+     "ko": "구웨릭스",
      "count": 1
     },
     {
-     "ko": "구웨릭스",
+     "ko": "고우벌레우",
      "count": 1
     }
    ]
@@ -1359,8 +1351,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 783,
-   "llm": 783
+   "collected": 839,
+   "llm": 839
   }
  },
  "llmErrors": []
