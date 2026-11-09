@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T22:27:11.895Z",
+ "updatedAt": "2026-11-09T23:13:13.787Z",
  "hot": [
   "carrick-manager-future",
   "cubarsi-golden-boy-award",
@@ -34,7 +34,7 @@
   "bbc": {
    "ok": true,
    "items": 77,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -46,7 +46,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,14 +82,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 78
+   "added": 3,
+   "authorRate": 74
   },
   "fblondon": {
    "ok": true,
@@ -100,7 +100,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -136,7 +136,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -166,7 +166,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -178,12 +178,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -210,15 +210,15 @@
    "count": 11
   },
   {
+   "name": "프레스티아니",
+   "count": 11
+  },
+  {
    "name": "도르구",
    "count": 10
   },
   {
    "name": "JJ 가브리엘",
-   "count": 10
-  },
-  {
-   "name": "프레스티아니",
    "count": 10
   },
   {
@@ -311,16 +311,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 244,
-  "singleArticleRate": 34,
+  "recentIssues": 247,
+  "singleArticleRate": 35,
   "broad": [
+   {
+    "slug": "carrick-manager-future",
+    "count": 49
+   },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
     "count": 47
-   },
-   {
-    "slug": "carrick-manager-future",
-    "count": 46
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -496,24 +496,6 @@
    ]
   },
   {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 배리",
-     "count": 5
-    },
-    {
-     "ko": "티에르노 바리",
-     "count": 3
-    },
-    {
-     "ko": "배리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -642,6 +624,24 @@
     {
      "ko": "딜랍",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 바리",
+     "count": 3
+    },
+    {
+     "ko": "티에르노 배리",
+     "count": 2
+    },
+    {
+     "ko": "배리",
+     "count": 1
     }
    ]
   },
@@ -858,38 +858,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 1
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alisson Becker",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "알리송",
-     "count": 3
-    },
-    {
-     "ko": "알리송 베커",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -1022,6 +990,20 @@
    ]
   },
   {
+   "en": "Samuel Soares",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사무엘 소아레스",
+     "count": 3
+    },
+    {
+     "ko": "사무엘 소아르스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gosens",
    "dictionary": null,
    "variants": [
@@ -1096,6 +1078,24 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 1
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 1
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ricardo Silva",
    "dictionary": null,
    "variants": [
@@ -1105,20 +1105,6 @@
     },
     {
      "ko": "리카르두 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lampard",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "램파드",
-     "count": 2
-    },
-    {
-     "ko": "램퍼드",
      "count": 1
     }
    ]
@@ -1256,6 +1242,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Arda Güler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아르다 귈러",
+     "count": 2
+    },
+    {
+     "ko": "귈레르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1304,8 +1304,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 321,
-   "llm": 321
+   "collected": 341,
+   "llm": 341
   }
  },
  "llmErrors": []
