@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T09:36:05.994Z",
+ "updatedAt": "2026-11-09T10:32:33.604Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
+  "chelsea-sunderland-2026-11-08",
   "carrick-manager-future",
   "crystal-palace-manager-future",
-  "chelsea-sunderland-2026-11-08",
-  "vicens-lyon-appointment"
+  "man-utd-aston-villa-2026-11-05"
  ],
  "days": [
   "2026-10-18",
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,14 +81,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 82
+   "added": 1,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -99,19 +99,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -135,7 +135,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -147,7 +147,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -159,19 +159,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -183,7 +183,7 @@
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -209,6 +209,10 @@
    "count": 13
   },
   {
+   "name": "프레스티아니",
+   "count": 11
+  },
+  {
    "name": "그릴리시",
    "count": 10
   },
@@ -223,10 +227,6 @@
   {
    "name": "보글",
    "count": 10
-  },
-  {
-   "name": "프레스티아니",
-   "count": 9
   },
   {
    "name": "해밀턴",
@@ -310,8 +310,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 249,
-  "singleArticleRate": 36,
+  "recentIssues": 246,
+  "singleArticleRate": 35,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -327,7 +327,7 @@
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 32
+    "count": 31
    },
    {
     "slug": "carrick-manager-future",
@@ -342,11 +342,11 @@
     "count": 29
    },
    {
-    "slug": "valencia-real-madrid-2026-11-06",
-    "count": 26
+    "slug": "chelsea-sunderland-2026-11-08",
+    "count": 25
    },
    {
-    "slug": "chelsea-sunderland-2026-11-08",
+    "slug": "valencia-real-madrid-2026-11-06",
     "count": 25
    },
    {
@@ -423,38 +423,12 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 8
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 7
-    },
-    {
-     "ko": "튀헬",
-     "count": 2
-    },
-    {
-     "ko": "토헬",
-     "count": 1
-    },
-    {
-     "ko": "토마스 튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "마티아스 야이슬레",
@@ -470,6 +444,28 @@
     },
     {
      "ko": "자일",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 8
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 6
+    },
+    {
+     "ko": "튀헬",
+     "count": 2
+    },
+    {
+     "ko": "토헬",
      "count": 1
     }
    ]
@@ -506,7 +502,7 @@
     },
     {
      "ko": "스테판 보슨",
-     "count": 4
+     "count": 2
     }
    ]
   },
@@ -529,26 +525,16 @@
    ]
   },
   {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 6
-    },
-    {
-     "ko": "훌리안 알바레스",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
     {
      "ko": "래먼스",
      "count": 2
+    },
+    {
+     "ko": "램멘스",
+     "count": 1
     },
     {
      "ko": "라멘스",
@@ -579,8 +565,22 @@
      "count": 1
     },
     {
-     "ko": "램멘스",
+     "ko": "센네 람멘스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 6
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 4
     }
    ]
   },
@@ -590,32 +590,10 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "토헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jobe Bellingham",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조브 벨링엄",
-     "count": 5
-    },
-    {
-     "ko": "제이브 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "조베 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "잡 벨링엄",
      "count": 1
     }
    ]
@@ -639,19 +617,23 @@
    ]
   },
   {
-   "en": "Keith Wyness",
+   "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
     {
-     "ko": "키스 와이네스",
+     "ko": "조브 벨링엄",
      "count": 4
     },
     {
-     "ko": "키스 와이니스",
-     "count": 2
+     "ko": "제이브 벨링엄",
+     "count": 1
     },
     {
-     "ko": "위니스",
+     "ko": "조베 벨링엄",
+     "count": 1
+    },
+    {
+     "ko": "잡 벨링엄",
      "count": 1
     }
    ]
@@ -789,24 +771,6 @@
    ]
   },
   {
-   "en": "Jobe",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조브 벨링엄",
-     "count": 4
-    },
-    {
-     "ko": "조비",
-     "count": 1
-    },
-    {
-     "ko": "조브",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Farioli",
    "dictionary": null,
    "variants": [
@@ -817,6 +781,24 @@
     {
      "ko": "파리오리",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 4
+    },
+    {
+     "ko": "위니스",
+     "count": 1
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 1
     }
    ]
   },
@@ -883,6 +865,20 @@
    ]
   },
   {
+   "en": "Jobe",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조브 벨링엄",
+     "count": 4
+    },
+    {
+     "ko": "조비",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -914,24 +910,6 @@
     },
     {
      "ko": "프랭크 램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "잔루이지 도나룸마",
-     "count": 2
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 2
-    },
-    {
-     "ko": "잔루이지 돈나룸마",
      "count": 1
     }
    ]
@@ -982,24 +960,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Danks",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "당크스",
-     "count": 2
-    },
-    {
-     "ko": "당스",
-     "count": 1
-    },
-    {
-     "ko": "댄크스",
      "count": 1
     }
    ]
@@ -1063,16 +1023,20 @@
    ]
   },
   {
-   "en": "Karl",
+   "en": "Gianluigi Donnarumma",
    "dictionary": null,
    "variants": [
     {
-     "ko": "칼",
+     "ko": "돈나룸마",
      "count": 2
     },
     {
-     "ko": "카를",
-     "count": 2
+     "ko": "잔루이지 돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 1
     }
    ]
   },
@@ -1263,6 +1227,24 @@
    ]
   },
   {
+   "en": "Danks",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "당스",
+     "count": 1
+    },
+    {
+     "ko": "당크스",
+     "count": 1
+    },
+    {
+     "ko": "댄크스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Konsa",
    "dictionary": null,
    "variants": [
@@ -1272,34 +1254,6 @@
     },
     {
      "ko": "코나",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pedro Proença",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드루 프루엔사",
-     "count": 2
-    },
-    {
-     "ko": "페드루 프로엔사",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 2
-    },
-    {
-     "ko": "퀼뤼흐",
      "count": 1
     }
    ]
@@ -1328,6 +1282,48 @@
     },
     {
      "ko": "졸리스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Emi Martinez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에미 마르티네스",
+     "count": 2
+    },
+    {
+     "ko": "에밀리아노 마르티네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Ricardo Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리카르도 실바",
+     "count": 2
+    },
+    {
+     "ko": "리카르두 실바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lampard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "램파드",
+     "count": 2
+    },
+    {
+     "ko": "램퍼드",
      "count": 1
     }
    ]
@@ -1375,8 +1371,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 694,
-   "llm": 694
+   "collected": 720,
+   "llm": 720
   }
  },
  "llmErrors": []
