@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T19:42:02.798Z",
+ "updatedAt": "2026-11-09T20:34:11.865Z",
  "hot": [
   "carrick-manager-future",
   "oviedo-manager-appointment",
   "cubarsi-golden-boy-award",
-  "aberdeen-manager-future",
-  "van-dijk-injury"
+  "netherlands-match-bus-incident",
+  "aberdeen-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -33,14 +33,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 3,
+   "items": 75,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 56,
-   "added": 0,
+   "items": 57,
+   "added": 1,
    "authorRate": 96
   },
   "sky": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,14 +82,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 76
+   "added": 3,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -100,13 +100,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -136,7 +136,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -172,19 +172,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 15,
-   "added": 2,
+   "items": 13,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -312,11 +312,11 @@
  ],
  "issueHealth": {
   "recentIssues": 247,
-  "singleArticleRate": 34,
+  "singleArticleRate": 35,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 45
+    "count": 46
    },
    {
     "slug": "carrick-manager-future",
@@ -356,7 +356,7 @@
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
-    "count": 21
+    "count": 23
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -478,20 +478,6 @@
    ]
   },
   {
-   "en": "Julian",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 6
-    },
-    {
-     "ko": "훌리안",
-     "count": 5
-    }
-   ]
-  },
-  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -510,6 +496,20 @@
     {
      "ko": "사주 감독",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julian",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 6
+    },
+    {
+     "ko": "훌리안",
+     "count": 4
     }
    ]
   },
@@ -592,11 +592,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "호르헤 제수스",
-     "count": 2
+     "ko": "조르즈 제수스",
+     "count": 3
     },
     {
-     "ko": "조르즈 제수스",
+     "ko": "호르헤 제수스",
      "count": 2
     },
     {
@@ -605,10 +605,6 @@
     },
     {
      "ko": "호르헤 제주스",
-     "count": 1
-    },
-    {
-     "ko": "조르제 제수스",
      "count": 1
     },
     {
@@ -1118,20 +1114,6 @@
    ]
   },
   {
-   "en": "Christos Tzolis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크리스토스 촐리스",
-     "count": 2
-    },
-    {
-     "ko": "졸리스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gianluigi Donnarumma",
    "dictionary": null,
    "variants": [
@@ -1188,38 +1170,6 @@
    ]
   },
   {
-   "en": "Conor Gallagher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "코너 갤러거",
-     "count": 1
-    },
-    {
-     "ko": "콜 갤러거",
-     "count": 1
-    },
-    {
-     "ko": "콘어 갤러거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alberto Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "알베르투 코스타",
-     "count": 2
-    },
-    {
-     "ko": "알베르토 코스타",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gouweleeuw",
    "dictionary": null,
    "variants": [
@@ -1261,6 +1211,48 @@
     },
     {
      "ko": "칼",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Russo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "러소",
+     "count": 2
+    },
+    {
+     "ko": "루소",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "José Juan Romero",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호세 후안 로메로",
+     "count": 2
+    },
+    {
+     "ko": "호세 환 로메로",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Uli Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "울리 회네스",
+     "count": 2
+    },
+    {
+     "ko": "회이네스",
      "count": 1
     }
    ]
@@ -1312,8 +1304,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 232,
-   "llm": 232
+   "collected": 265,
+   "llm": 265
   }
  },
  "llmErrors": []
