@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-09T13:55:26.889Z",
+ "updatedAt": "2026-11-09T14:48:15.898Z",
  "hot": [
-  "alisson-liverpool-transfer",
   "carrick-manager-future",
-  "musiala-injury",
   "oviedo-manager-appointment",
+  "alisson-liverpool-transfer",
+  "musiala-injury",
   "crystal-palace-manager-future"
  ],
  "days": [
@@ -32,20 +32,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 70,
-   "added": 3,
+   "items": 71,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 3,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -57,7 +57,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,7 +81,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
@@ -105,13 +105,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -129,19 +129,19 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -153,13 +153,13 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -171,19 +171,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 9,
+   "items": 12,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -201,12 +201,12 @@
    "count": 16
   },
   {
-   "name": "노이어",
+   "name": "알리송",
    "count": 15
   },
   {
-   "name": "알리송",
-   "count": 14
+   "name": "노이어",
+   "count": 15
   },
   {
    "name": "JJ 가브리엘",
@@ -301,16 +301,16 @@
    "count": 5
   },
   {
-   "name": "모히아",
+   "name": "퓔크루크",
    "count": 5
   },
   {
-   "name": "누사",
+   "name": "모히아",
    "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 248,
+  "recentIssues": 245,
   "singleArticleRate": 35,
   "broad": [
    {
@@ -319,7 +319,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 35
+    "count": 36
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -327,7 +327,7 @@
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 32
+    "count": 31
    },
    {
     "slug": "de-miguel-incident",
@@ -354,15 +354,11 @@
     "count": 23
    },
    {
-    "slug": "fonseca-sporting-appointment",
-    "count": 19
-   },
-   {
-    "slug": "fulham-newcastle-2026-11-08",
+    "slug": "anderlecht-club-brugge-2026-11-08",
     "count": 17
    },
    {
-    "slug": "anderlecht-club-brugge-2026-11-08",
+    "slug": "fulham-newcastle-2026-11-08",
     "count": 16
    },
    {
@@ -438,24 +434,6 @@
     },
     {
      "ko": "배리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 5
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 5
-    },
-    {
-     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -543,20 +521,6 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 7
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
@@ -604,6 +568,60 @@
     },
     {
      "ko": "호르헤 헤수스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diogo Dalot",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오고 달롯",
+     "count": 4
+    },
+    {
+     "ko": "달롯",
+     "count": 3
+    },
+    {
+     "ko": "디오구 달롯",
+     "count": 1
+    },
+    {
+     "ko": "디오고 달로트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 6
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토마스 투헬",
+     "count": 5
+    },
+    {
+     "ko": "투헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -664,28 +682,6 @@
     },
     {
      "ko": "튈레망스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Dalot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오고 달롯",
-     "count": 4
-    },
-    {
-     "ko": "달롯",
-     "count": 2
-    },
-    {
-     "ko": "디오구 달롯",
-     "count": 1
-    },
-    {
-     "ko": "디오고 달로트",
      "count": 1
     }
    ]
@@ -755,46 +751,6 @@
    ]
   },
   {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카쥐악",
-     "count": 1
-    },
-    {
-     "ko": "야니크 카쥐작",
-     "count": 1
-    },
-    {
-     "ko": "카위작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위자크",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위작",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jobe",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조브 벨링엄",
-     "count": 4
-    },
-    {
-     "ko": "조비",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Farioli",
    "dictionary": null,
    "variants": [
@@ -822,42 +778,6 @@
     },
     {
      "ko": "비토르 브루누",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jobe Bellingham",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이브 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "조브 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "조베 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "잡 벨링엄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alberto Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "알베르투 코스타",
-     "count": 3
-    },
-    {
-     "ko": "알베르토 코스타",
      "count": 1
     }
    ]
@@ -1079,6 +999,20 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 3
+    },
+    {
+     "ko": "퀼뤼흐",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ivan Leko",
    "dictionary": null,
    "variants": [
@@ -1093,29 +1027,19 @@
    ]
   },
   {
-   "en": "Mary Earps",
+   "en": "Jobe Bellingham",
    "dictionary": null,
    "variants": [
     {
-     "ko": "메리 이얼스",
-     "count": 2
-    },
-    {
-     "ko": "메리 어프스",
+     "ko": "제이브 벨링엄",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Funes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "푸네스",
-     "count": 2
     },
     {
-     "ko": "푼스",
+     "ko": "조베 벨링엄",
+     "count": 1
+    },
+    {
+     "ko": "잡 벨링엄",
      "count": 1
     }
    ]
@@ -1237,6 +1161,20 @@
    ]
   },
   {
+   "en": "Alberto Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알베르투 코스타",
+     "count": 2
+    },
+    {
+     "ko": "알베르토 코스타",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Charlie",
    "dictionary": null,
    "variants": [
@@ -1299,6 +1237,48 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를",
+     "count": 2
+    },
+    {
+     "ko": "칼",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Russo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "러소",
+     "count": 2
+    },
+    {
+     "ko": "루소",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "José Juan Romero",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호세 후안 로메로",
+     "count": 2
+    },
+    {
+     "ko": "호세 환 로메로",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1343,8 +1323,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 901,
-   "llm": 901
+   "collected": 936,
+   "llm": 936
   }
  },
  "llmErrors": []
