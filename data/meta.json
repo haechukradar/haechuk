@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T20:34:11.865Z",
+ "updatedAt": "2026-11-09T21:32:24.600Z",
  "hot": [
   "carrick-manager-future",
   "oviedo-manager-appointment",
   "cubarsi-golden-boy-award",
   "netherlands-match-bus-incident",
-  "aberdeen-manager-future"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -34,12 +34,12 @@
   "bbc": {
    "ok": true,
    "items": 75,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
+   "items": 56,
    "added": 1,
    "authorRate": 96
   },
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,19 +82,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -106,7 +106,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -130,13 +130,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -172,19 +172,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 0,
+   "items": 9,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -199,7 +199,7 @@
   },
   {
    "name": "헤수스 데 미겔",
-   "count": 12
+   "count": 13
   },
   {
    "name": "조브 벨링엄",
@@ -208,6 +208,10 @@
   {
    "name": "잭 그릴리시",
    "count": 11
+  },
+  {
+   "name": "도르구",
+   "count": 10
   },
   {
    "name": "JJ 가브리엘",
@@ -220,10 +224,6 @@
   {
    "name": "보글",
    "count": 10
-  },
-  {
-   "name": "도르구",
-   "count": 9
   },
   {
    "name": "해밀턴",
@@ -311,16 +311,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 247,
+  "recentIssues": 245,
   "singleArticleRate": 35,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 46
+    "count": 47
    },
    {
     "slug": "carrick-manager-future",
-    "count": 43
+    "count": 44
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -340,7 +340,7 @@
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "de-miguel-incident",
@@ -351,11 +351,11 @@
     "count": 24
    },
    {
-    "slug": "valencia-real-madrid-2026-11-06",
-    "count": 24
+    "slug": "anderlecht-club-brugge-2026-11-08",
+    "count": 23
    },
    {
-    "slug": "anderlecht-club-brugge-2026-11-08",
+    "slug": "valencia-real-madrid-2026-11-06",
     "count": 23
    },
    {
@@ -396,11 +396,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르코 실바",
-     "count": 4
+     "ko": "마르쿠 시우바",
+     "count": 5
     },
     {
-     "ko": "마르쿠 시우바",
+     "ko": "마르코 실바",
      "count": 4
     },
     {
@@ -478,6 +478,20 @@
    ]
   },
   {
+   "en": "Julian",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 6
+    },
+    {
+     "ko": "훌리안",
+     "count": 5
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -496,20 +510,6 @@
     {
      "ko": "사주 감독",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Julian",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 6
-    },
-    {
-     "ko": "훌리안",
-     "count": 4
     }
    ]
   },
@@ -588,32 +588,6 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 3
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 주앙",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 헤수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Youri Tielemans",
    "dictionary": null,
    "variants": [
@@ -635,6 +609,28 @@
     },
     {
      "ko": "튈레망스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 3
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 주앙",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 헤수스",
      "count": 1
     }
    ]
@@ -903,20 +899,6 @@
     },
     {
      "ko": "알리송 베커",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pablo Pagis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파블로 파지스",
-     "count": 3
-    },
-    {
-     "ko": "파블로 파지",
      "count": 1
     }
    ]
@@ -1256,6 +1238,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Eberl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에베를",
+     "count": 2
+    },
+    {
+     "ko": "에벌",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1304,8 +1300,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 265,
-   "llm": 265
+   "collected": 289,
+   "llm": 289
   }
  },
  "llmErrors": []
