@@ -1,107 +1,712 @@
 [
  {
-  "slug": "antonio-nusa-arsenal-transfer",
+  "slug": "szoboszlai-injury",
   "mode": "llm",
-  "titleKo": "누사 아스널 이적 관심 및 이슈",
-  "createdAt": "2026-11-08T06:30:00.000Z",
-  "updatedAt": "2026-11-09T08:04:57.000Z",
-  "category": "transfer",
-  "stage": "interest",
+  "titleKo": "소보슬라이 부상 판단 임박, 리버풀 악재 우려",
+  "createdAt": "2026-11-09T01:00:00.000Z",
+  "updatedAt": "2026-11-09T09:17:22.000Z",
+  "category": "injury",
+  "stage": null,
   "clubs": [
-   "arsenal"
+   "liverpool"
   ],
   "players": [
-   "안토니오 누사",
-   "누사"
+   "도미니크 소보슬러이"
   ],
   "sig": [
-   "antonio",
-   "nusa"
+   "iraola",
+   "dominik",
+   "szoboszlai"
   ],
   "articles": [
    {
-    "id": "3d2338e5255b",
-    "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-antonio-nusa-transfer-leipzig-34879549",
-    "title": "Arsenal face instant £58m Antonio Nusa transfer issue as January plans emerge",
-    "ko": "아스널, 누사 영입 관련 58m 파운드 이슈 직면…1월 계획 부상",
-    "source": "fblondon",
-    "publishedAt": "2026-11-08T06:30:00.000Z",
+    "id": "3bf7f0bba822",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-hints-liverpool-take-34880338",
+    "title": "Andoni Iraola hints Liverpool will take Dominik Szoboszlai injury decision - 'Last thing we need'",
+    "ko": "소보슬라이 부상 판단 임박, 이라올라 \"지금 가장 필요 없는 일\"",
+    "source": "lecho",
+    "publishedAt": "2026-11-09T01:00:00.000Z",
     "credited": null,
     "clubs": [
-     "arsenal"
+     "liverpool"
     ],
-    "category": "transfer",
-    "stage": "interest",
+    "category": "injury",
+    "stage": null,
     "players": [
-     "안토니오 누사"
+     "도미니크 소보슬러이"
     ],
-    "playerTags": [],
-    "author": "Ben Crawford",
-    "transfer": {
-     "player": "안토니오 누사",
-     "from": null,
-     "to": "아스널"
-    }
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Paul Gorst",
+    "transfer": null
    },
    {
-    "id": "00cf9a5680e8",
-    "url": "https://www.footballinsider247.com/arsenal/antonio-nusa-just-reached-a-new-level-arsenal-cannot-hesitate-over-january-deal",
-    "title": "Antonio Nusa just reached a new level, Arsenal cannot hesitate over January deal",
-    "ko": "누사, 새 수준 도달…아스널 1월 계약 주저하면 안 돼",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-09T08:04:57.000Z",
+    "id": "0f1945f50544",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-injury-latest-official-34883007",
+    "title": "Dominik Szoboszlai injury latest as official statement released after Liverpool star forced off",
+    "ko": "소보슬라이 부상 관련 리버풀 공식 발표",
+    "source": "lecho",
+    "publishedAt": "2026-11-09T09:17:22.000Z",
     "credited": null,
     "clubs": [
-     "arsenal"
+     "liverpool"
     ],
-    "category": "transfer",
-    "stage": "negotiation",
+    "category": "injury",
+    "stage": null,
     "players": [
-     "누사"
+     "도미니크 소보슬러이"
     ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "누사",
-     "from": null,
-     "to": "아스널"
-    }
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Theo Squires",
+    "transfer": null
    }
   ],
   "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.58,
+  "sourceCount": 1,
+  "score": 0.45,
   "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "3d2338e5255b",
-    "at": "2026-11-08T06:30:00.000Z",
-    "source": "fblondon",
-    "from": null,
-    "to": "interest"
-   }
-  ],
+  "stageHistory": [],
   "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "안토니오 누사",
-   "from": null,
-   "to": "아스널"
-  },
+  "playerTags": [
+   "dominik-szoboszlai"
+  ],
+  "transfer": null,
   "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-08T06:30:00.000Z",
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-09T01:00:00.000Z",
    "viaQuote": false
   },
-  "headline": "Arsenal face instant £58m Antonio Nusa transfer issue as January plans emerge"
+  "headline": "Dominik Szoboszlai injury latest as official statement released after Liverpool star forced off"
+ },
+ {
+  "slug": "crystal-palace-manager-future",
+  "mode": "llm",
+  "titleKo": "크리스털 팰리스 감독 경질 압박 논란",
+  "createdAt": "2026-11-03T17:58:59.000Z",
+  "updatedAt": "2026-11-09T09:17:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "crystal-palace"
+  ],
+  "players": [],
+  "sig": [
+   "tuchel",
+   "england",
+   "anthony",
+   "barry",
+   "pierre",
+   "sage"
+  ],
+  "articles": [
+   {
+    "id": "2552add11586",
+    "url": "https://www.mirror.co.uk/sport/football/news/crystal-palace-manager-anthony-barry-37839405",
+    "title": "Thomas Tuchel's No.2 Anthony Barry emerges as frontrunner for Crystal Palace job",
+    "ko": "앤서니 배리, 크리스털 팰리스 감독직 유력 후보로 부상",
+    "source": "mirror",
+    "publishedAt": "2026-11-03T16:07:45.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Gorst",
+    "transfer": null,
+    "clubs": [
+     "crystal-palace"
+    ]
+   },
+   {
+    "id": "22de5b389881",
+    "url": "https://www.thesun.co.uk/sport/40898641/anthony-barry-crystal-palace-job-england-thomas-tuchel/",
+    "title": "Thomas Tuchel’s England assistant Anthony Barry ‘frontrunner for Crystal Palace job with Pierre Sage under pressure’",
+    "ko": "튀헬 잉글랜드 코치 배리, 크리스털 팰리스 감독직 유력 후보",
+    "source": "sun",
+    "publishedAt": "2026-11-03T17:58:59.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "crystal-palace"
+    ]
+   },
+   {
+    "id": "8aa884f91fb5",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-downfall-traced-back-to-two-players-by-ex-chief-scout",
+    "title": "Crystal Palace downfall traced back to two players by ex-chief scout",
+    "ko": "크리스털 팰리스 몰락, 전 스카우트 책임자가 선수 두 명 지목",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T20:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "crystal-palace"
+    ]
+   },
+   {
+    "id": "30d281c5c27b",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-hold-preliminary-talks-with-thomas-frank",
+    "title": "Sources: Crystal Palace hold preliminary talks with Thomas Frank",
+    "ko": "크리스털 팰리스, 토마스 프랑크와 예비 접촉 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T18:48:17.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cd1b8a3a0170",
+    "url": "https://www.mirror.co.uk/sport/football/news/pierre-sage-crystal-palace-sack-37856231",
+    "title": "Defiant Pierre Sage responds to sack pressure after Crystal Palace hit rock bottom",
+    "ko": "사주, 크리스털 팰리스 바닥 성적 속 경질 압박에 반박",
+    "source": "mirror",
+    "publishedAt": "2026-11-08T17:41:27.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross",
+    "transfer": null
+   },
+   {
+    "id": "9321706e9119",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
+    "title": "Palace consider replacing Sage with Frank among contenders",
+    "ko": "팰리스, 세이지 대체 후보로 프랭크 검토",
+    "source": "bbc",
+    "publishedAt": "2026-11-08T20:49:40.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "770820ed44c7",
+    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
+    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
+    "ko": "프랭크, 크리스털 팰리스 감독 최有력 후보…세이지 해고 유력",
+    "source": "sky",
+    "publishedAt": "2026-11-08T20:56:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a112f3e13ad5",
+    "url": "https://www.thesun.co.uk/sport/40962840/crystal-palace-ready-to-sack-pierre-sage/",
+    "title": "Crystal Palace ‘ready to sack Pierre Sage’ after woeful start to season with two immediate frontrunners to replace him",
+    "ko": "크리스털 팰리스, 부진 속 사주 감독 경질 준비 보도",
+    "source": "sun",
+    "publishedAt": "2026-11-08T21:12:46.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jo Aujla",
+    "transfer": null
+   },
+   {
+    "id": "0042e68b98e4",
+    "url": "https://www.lequipe.fr/Football/Video/Premier-league-pierre-sage-sur-son-avenir-mon-poste-n-est-pas-ce-qu-il-y-a-de-plus-important/20245182#at_medium=RSS_feeds",
+    "title": "Pierre Sage sur son avenir : « Mon poste n’est pas ce qu’il y a de plus important »",
+    "ko": "피에르 세이지, 자신의 거취에 \"감독직이 가장 중요한 건 아니다\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T22:07:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "05820fa1a29c",
+    "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
+    "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
+    "ko": "크리스털 팰리스, 리버풀 패배 후 세이지 경질 임박…프랭크 물망",
+    "source": "guardian",
+    "publishedAt": "2026-11-08T22:12:58.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ed Aarons",
+    "transfer": null
+   },
+   {
+    "id": "6465b7103b79",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
+    "title": "'A horrible place to be' - What's gone wrong for Palace?",
+    "ko": "팰리스 무엇이 잘못됐나, '끔찍한 상황'",
+    "source": "bbc",
+    "publishedAt": "2026-11-08T23:53:08.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b887c3a79184",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/crystal-palace/detalhe/treinador-do-crystal-palace-no-fim-da-linha-e-ha-dois-portugueses-na-lista-de-candidatos",
+    "title": "Treinador do Crystal Palace no fim da linha e há dois portugueses na lista de candidatos",
+    "ko": "크리스털 팰리스 감독 교체 임박, 포르투갈 출신 후보 2명 거론",
+    "source": "record",
+    "publishedAt": "2026-11-09T09:17:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 8,
+  "score": 3,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-03T16:07:45.000Z",
+   "viaQuote": false
+  },
+  "headline": "'A horrible place to be' - What's gone wrong for Palace?"
+ },
+ {
+  "slug": "neuer-injury",
+  "mode": "llm",
+  "titleKo": "노이어 기록 달성 직후 또 부상",
+  "createdAt": "2026-11-03T23:21:27.000Z",
+  "updatedAt": "2026-11-09T09:13:58.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern",
+   "mainz"
+  ],
+  "players": [
+   "노이어",
+   "요주아 키미히",
+   "우르비그",
+   "마누엘 노이어"
+  ],
+  "sig": [
+   "habe",
+   "morgen",
+   "schmerzen",
+   "gehen"
+  ],
+  "articles": [
+   {
+    "id": "c55ca8f3a10c",
+    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
+    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
+    "ko": "노이어, 부상 공백 중 솔직한 속내 공개",
+    "source": "tz",
+    "publishedAt": "2026-11-03T22:59:23.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "d264c16c5f1c",
+    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
+    "ko": "노이어 \"오늘 아침에도 걸을 때 통증 있었다\" 고백",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "7b016211a0e7",
+    "url": "https://www.kicker.de/neuer-gesteht-hatte-auch-heute-morgen-wieder-schmerzen-beim-gehen-1268274/artikel#omrss",
+    "title": "Neuer gesteht: \"Hatte auch heute Morgen wieder Schmerzen beim Gehen\"",
+    "ko": "노이어 \"오늘 아침에도 걸을 때 통증이 있었다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-03T23:21:27.000Z",
+    "credited": null,
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "bayern"
+    ]
+   },
+   {
+    "id": "dfbef57c2979",
+    "url": "https://www.tz.de/sport/fc-bayern/neuer-jubilaeum-endet-vorzeitig-mit-naechster-verletzung-zr-94579049.html",
+    "title": "Neuer-Jubiläum endet vorzeitig mit nächster Verletzung",
+    "ko": "노이어 기록 달성 직후 또 부상, 복귀 일정 차질",
+    "source": "tz",
+    "publishedAt": "2026-11-07T16:29:22.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Sebastian Isbaner",
+    "transfer": null
+   },
+   {
+    "id": "e505e1df42e1",
+    "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
+    "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
+    "ko": "바이에른, 마인츠 격파…노이어 기록일 부상으로 씁쓸",
+    "source": "guardian",
+    "publishedAt": "2026-11-07T17:13:48.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern",
+     "mainz"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Reuters",
+    "transfer": null
+   },
+   {
+    "id": "27db21e03d04",
+    "url": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel#omrss",
+    "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
+    "ko": "키미히 \"노이어 교체 아웃이면 심각할 것\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-07T17:19:20.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "요주아 키미히",
+     "노이어"
+    ],
+    "playerTags": [
+     "joshua-kimmich"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3ee5baaf7f75",
+    "url": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel#omrss",
+    "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
+    "ko": "노이어, 전문의 찾아 나서…질문 쏟아져",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T09:45:35.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cdff9cd1ea38",
+    "url": "https://www.tz.de/sport/fc-bayern/muss-bayern-nach-erneuter-neuer-verletzung-auf-urbig-setzen-94579382.html",
+    "title": "Muss Bayern nach der nächsten Neuer-Verletzung auf Urbig setzen? Eberl wird deutlich",
+    "ko": "노이어 또 부상, 바이에른 우르비그 선발 불가피하나",
+    "source": "tz",
+    "publishedAt": "2026-11-08T09:55:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어",
+     "우르비그"
+    ],
+    "playerTags": [],
+    "author": "Manuel Bonke",
+    "transfer": null
+   },
+   {
+    "id": "f21c7bf3c395",
+    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/neuer-sofre-nova-lesao-em-dia-historico-no-bayern",
+    "title": "Neuer sofre nova lesão em dia histórico no Bayern",
+    "ko": "노이어, 역사적인 날 바이에른서 또 부상",
+    "source": "record",
+    "publishedAt": "2026-11-08T09:58:55.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3381668a14e7",
+    "url": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel#omrss",
+    "title": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut",
+    "ko": "노이어, 발 힘줄 부상으로 바이에른 이탈",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T12:41:58.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마누엘 노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4bb86afcc436",
+    "url": "https://as.com/futbol/internacional/neuer-no-levanta-cabeza-f202611-n/",
+    "title": "Neuer no levanta cabeza",
+    "ko": "노이어, 부진에서 좀처럼 벗어나지 못해",
+    "source": "as",
+    "publishedAt": "2026-11-08T13:25:37.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "José Carlos Menzel",
+    "transfer": null
+   },
+   {
+    "id": "c4d96470e1d0",
+    "url": "https://www.lequipe.fr/Football/Actualites/Nouveau-coup-dur-pour-le-bayern-munich-et-manuel-neuer-victime-d-une-dechirure-partielle-d-un-tendon-au-pied-droit/1742209#at_medium=RSS_feeds",
+    "title": "Nouveau coup dur pour le Bayern Munich et Manuel Neuer, victime d'une déchirure partielle d'un tendon au pied droit",
+    "ko": "노이어, 오른발 힘줄 부분 파열로 또 부상",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T13:52:43.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "0a6a3d371324",
+    "url": "https://www.tz.de/sport/fc-bayern/vaterfigur-manuel-neuer-muss-jetzt-groesse-zeigen-94580037.html",
+    "title": "Der tz-Kommentar zu Manuel Neuer: Die Vaterfigur muss jetzt Größe zeigen!",
+    "ko": "tz 칼럼 \"노이어, 이제 위엄 보여줄 때\"",
+    "source": "tz",
+    "publishedAt": "2026-11-08T17:14:32.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마누엘 노이어"
+    ],
+    "playerTags": [],
+    "author": "Manuel Bonke",
+    "transfer": null
+   },
+   {
+    "id": "9d0586132996",
+    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/manuel-neuer-sofreu-uma-rotura-parcial-do-tendao-do-pe",
+    "title": "Manuel Neuer sofreu uma rotura parcial do tendão do pé",
+    "ko": "노이어, 발 힘줄 부분 파열 진단",
+    "source": "record",
+    "publishedAt": "2026-11-08T17:16:51.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마누엘 노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b313aae7dea5",
+    "url": "https://www.tz.de/sport/fc-bayern/verletzter-manuel-neuer-wendet-sich-mit-botschaft-an-bayern-fans-94580072.html",
+    "title": "Neuer wendet sich nach Verletzung mit kämpferischer Botschaft an Bayern-Fans",
+    "ko": "노이어, 부상 뒤 바이에른 팬에게 투지 메시지",
+    "source": "tz",
+    "publishedAt": "2026-11-08T17:46:55.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Stefan Schmid",
+    "transfer": null
+   },
+   {
+    "id": "d80159031620",
+    "url": "https://www.tz.de/sport/fc-bayern/bayern-star-saibari-mit-kuriosen-genesungswuenschen-an-manuel-neuer-94580600.html",
+    "title": "Bayern-Star Saibari mit kuriosen Genesungswünschen an Manuel Neuer",
+    "ko": "바이에른 사이바리, 노이어에게 엉뚱한 쾌유 기원",
+    "source": "tz",
+    "publishedAt": "2026-11-09T09:13:58.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마누엘 노이어"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 1.88,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "joshua-kimmich"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-03T22:59:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bayern-Star Saibari mit kuriosen Genesungswünschen an Manuel Neuer"
  },
  {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭, 맨유 감독 행보 힌트",
   "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-09T07:53:22.000Z",
+  "updatedAt": "2026-11-09T08:54:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -637,11 +1242,29 @@
     "playerTags": [],
     "author": "Felix Keith, Will Schofield",
     "transfer": null
+   },
+   {
+    "id": "6bf67e63132c",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/carrick-em-bate-boca-com-jornalista-recusa-saida-do-man-united-isso-nao-vai-acontecer",
+    "title": "Carrick em bate-boca com jornalista recusa saída do Man. United: «Isso não vai acontecer»",
+    "ko": "캐릭, 맨유 떠날 가능성에 \"그런 일은 없을 것\" 반박",
+    "source": "record",
+    "publishedAt": "2026-11-09T08:54:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 6,
-  "sourceCount": 10,
-  "score": 1.97,
+  "sourceCount": 11,
+  "score": 3.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -658,1665 +1281,11 @@
   "headline": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo"
  },
  {
-  "slug": "atletico-barcelona-2026-11-07",
-  "mode": "llm",
-  "titleKo": "아틀레티코 대 바르셀로나 라리가 경기",
-  "createdAt": "2026-11-07T09:11:36.000Z",
-  "updatedAt": "2026-11-09T07:51:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "barcelona",
-   "atletico",
-   "bayern"
-  ],
-  "players": [
-   "라민 야말",
-   "훌리안 알바레스",
-   "에릭 가르시아",
-   "안드레아스 크리스텐센",
-   "페르민 로페스",
-   "바리오스",
-   "훌리안",
-   "페르민"
-  ],
-  "sig": [
-   "lamine",
-   "yamal",
-   "metropolitano"
-  ],
-  "articles": [
-   {
-    "id": "0073884afe47",
-    "url": "https://as.com/futbol/primera/la-revancha-de-lamine-yamal-en-el-metropolitano-f202611-n/",
-    "title": "La revancha de Lamine Yamal en el Metropolitano",
-    "ko": "라민 야말, 메트로폴리타노에서 설욕 노린다",
-    "source": "as",
-    "publishedAt": "2026-11-07T09:11:36.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona",
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라민 야말"
-    ],
-    "playerTags": [
-     "lamine-yamal"
-    ],
-    "author": "Sergi de Juan",
-    "transfer": null
-   },
-   {
-    "id": "39808dbd9738",
-    "url": "https://as.com/futbol/primera/el-atleti-barca-de-las-mil-caras-f202611-n/",
-    "title": "El Atleti-Barça de las mil caras",
-    "ko": "아틀레티코-바르사 맞대결, 여러 얼굴 보여준 경기 회고",
-    "source": "as",
-    "publishedAt": "2026-11-07T09:39:26.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Juan Jiménez",
-    "transfer": null
-   },
-   {
-    "id": "668636eaf70f",
-    "url": "https://as.com/futbol/primera/el-atleti-con-todo-salvo-el-cuti-f202611-n/",
-    "title": "El Atleti, con todo salvo el Cuti",
-    "ko": "아틀레티코, 쿠티 제외하고 전력 총동원",
-    "source": "as",
-    "publishedAt": "2026-11-07T11:16:02.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jesús Colino",
-    "transfer": null
-   },
-   {
-    "id": "f79859bf8c91",
-    "url": "https://as.com/futbol/primera/simeone-preve-sufrimiento-el-barca-es-el-mejor-f202611-n/",
-    "title": "Simeone prevé sufrimiento: “El Barça es muy bueno, posiblemente el mejor”",
-    "ko": "시메오네, 바르사는 매우 강하다며 고통 예고",
-    "source": "as",
-    "publishedAt": "2026-11-07T11:57:27.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jesús Colino",
-    "transfer": null
-   },
-   {
-    "id": "215924f743a4",
-    "url": "https://as.com/futbol/primera/ruedas-de-prensa-de-simeone-y-hansi-flick-previa-del-atletico-barcelona-en-directo-f202611-d/",
-    "title": "Ruedas de prensa de Simeone y Hansi Flick: previa del Atlético-Barcelona, en directo",
-    "ko": "시메오네·플릭 기자회견 정리, 아틀레티코-바르셀로나 전 실시간",
-    "source": "as",
-    "publishedAt": "2026-11-07T12:01:35.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alejandro Soto",
-    "transfer": null
-   },
-   {
-    "id": "6a72610c461a",
-    "url": "https://as.com/futbol/videos/la-respuesta-de-simeone-sobre-julian-antes-del-barca-no-pudo-ser-mas-contundente-f202611-v/",
-    "title": "La respuesta de Simeone sobre Julián antes del Barça: no pudo ser más contundente",
-    "ko": "시메오네, 바르사전 앞두고 훌리안 관련 단호한 답변",
-    "source": "as",
-    "publishedAt": "2026-11-07T12:38:34.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "훌리안 알바레스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": "AStv",
-    "transfer": null
-   },
-   {
-    "id": "e88bb87d6f06",
-    "url": "https://www.lequipe.fr/Football/Actualites/Eric-garcia-et-andreas-christensen-de-retour-dans-le-groupe-du-fc-barcelone-pour-le-choc-contre-l-atletico-de-madrid-en-liga/1741914#at_medium=RSS_feeds",
-    "title": "Eric Garcia et Andreas Christensen de retour dans le groupe du FC Barcelone pour le choc contre l'Atlético de Madrid en Liga",
-    "ko": "에릭 가르시아·크리스텐센, 바르셀로나 아틀레티코전 명단 복귀",
-    "source": "lequipe",
-    "publishedAt": "2026-11-07T14:03:00.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에릭 가르시아",
-     "안드레아스 크리스텐센"
-    ],
-    "playerTags": [],
-    "author": "Matteo Amghar",
-    "transfer": null
-   },
-   {
-    "id": "fd36fdfc3242",
-    "url": "https://as.com/futbol/primera/alberola-467-amarillas-por-partido-se-estrena-en-un-atleti-barca-f202611-n/",
-    "title": "Alberola, 4,67 amarillas por partido, se estrena en un Atleti-Barça",
-    "ko": "알베롤라, 아틀레티 대 바르사 더비 데뷔 예정",
-    "source": "as",
-    "publishedAt": "2026-11-07T18:04:39.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Juan Jiménez",
-    "transfer": null
-   },
-   {
-    "id": "14e6025200c0",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-barcelone-en-liga/1741653#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Atlético de Madrid-FC Barcelone en Liga ?",
-    "ko": "아틀레티코 대 바르셀로나 라리가 경기 중계 시간·채널은?",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T07:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "9aedded7774a",
-    "url": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
-    "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
-    "ko": "알바레스, 친정 아틀레티코 상대로 바르셀로나전 복귀전",
-    "source": "guardian",
-    "publishedAt": "2026-11-08T08:00:35.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "훌리안 알바레스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": "Sid Lowe in Madrid",
-    "transfer": null
-   },
-   {
-    "id": "bff10cf485b4",
-    "url": "https://as.com/futbol/primera/atletico-barcelona-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-    "title": "Atlético-Barcelona, en directo: LaLiga EA Sports, hoy en vivo",
-    "ko": "아틀레티코-바르셀로나 라리가 경기 실시간 중계",
-    "source": "as",
-    "publishedAt": "2026-11-08T12:15:01.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Alberto P. Sierra",
-    "transfer": null
-   },
-   {
-    "id": "548469fadc44",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/20261108-131641-atletico-madrid-barcelona-em-direto",
-    "title": "Atlético Madrid-Barcelona, em direto",
-    "ko": "아틀레티코 마드리드 대 바르셀로나 라이브",
-    "source": "record",
-    "publishedAt": "2026-11-08T18:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5f7df72a5162",
-    "url": "https://www.kicker.de/atl-madrid-gegen-barcelona-2026-la-liga-5223903/spielbericht#omrss",
-    "title": "LIVE! Nach Bayern-Pleite: Atletico gegen Spitzenreiter Barcelona gefordert",
-    "ko": "바이에른 패배 후 아틀레티코, 선두 바르셀로나 상대",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T18:57:17.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona",
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7c538ede3526",
-    "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/atletico-de-madrid-fc-barcelone-live/693187#at_medium=RSS_feeds",
-    "title": "Les compos d'Atlético de Madrid-FC Barcelone",
-    "ko": "아틀레티코 대 바르셀로나 선발 라인업 공개",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T19:37:00.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3f3cd517126b",
-    "url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-atletico-barcelona-de-laliga-ea-sports-f202611-d/",
-    "title": "Polémica, análisis y reacciones del Atlético - Barcelona de LaLiga EA Sports",
-    "ko": "아틀레티코 대 바르셀로나 라리가 경기 논란과 반응 분석",
-    "source": "as",
-    "publishedAt": "2026-11-08T20:01:24.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Raúl Ramírez",
-    "transfer": null
-   },
-   {
-    "id": "ddddd38eebfb",
-    "url": "https://www.kicker.de/blitzsauber-gekontert-simeone-trifft-zur-atletico-fuehrung-1269930/video#omrss",
-    "title": "Blitzsauber gekontert: Simeone trifft zur Atletico-Führung",
-    "ko": "시메오네, 아틀레티코 선제골 직접 성공",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T20:16:44.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "af67fc893fb2",
-    "url": "https://www.kicker.de/geniale-vorlage-von-lamine-yamal-fermin-dreht-partie-mit-doppelpack-1269957/video#omrss",
-    "title": "Geniale Vorlage von Lamine Yamal: Fermin dreht Partie mit Doppelpack",
-    "ko": "페르민 로페스 멀티골 뒤 라민 야말 패스 조명",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T21:32:20.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona",
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민 로페스",
-     "라민 야말"
-    ],
-    "playerTags": [
-     "lamine-yamal"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "24a71748d3ce",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-fc-barcelone-remporte-le-choc-de-liga-contre-l-atletico-de-madrid-grace-a-un-double-de-fermin-lopez/1742385#at_medium=RSS_feeds",
-    "title": "Le FC Barcelone remporte le choc de Liga contre l'Atlético de Madrid grâce à un doublé de Fermin Lopez",
-    "ko": "바르셀로나, 페르민 로페스 멀티골로 아틀레티코 격파",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T21:56:35.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona",
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민 로페스"
-    ],
-    "playerTags": [],
-    "author": "Antoine Maumon de Longevialle",
-    "transfer": null
-   },
-   {
-    "id": "f2fe0d370b35",
-    "url": "https://www.nytimes.com/athletic/7764835/2026/11/08/atletico-madrid-barcelona-result-reaction-analysis/",
-    "title": "Atletico Madrid 1 Barcelona 2: Fermin Lopez's double seals key comeback victory",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-08T21:57:37.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민 로페스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "aab8d5ae6a2a",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-atletico-de-madrid-vs-barcelona-jornada-12-de-laliga-ea-sports-f202611-v/",
-    "title": "Resumen y goles del Atlético de Madrid vs. Barcelona, jornada 12 de LaLiga EA Sports",
-    "ko": "아틀레티코 대 바르셀로나 하이라이트, 라리가 12라운드",
-    "source": "as",
-    "publishedAt": "2026-11-08T21:58:26.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "LALIGA",
-    "transfer": null
-   },
-   {
-    "id": "eb7a67089c1c",
-    "url": "https://as.com/futbol/primera/atletico-fue-bonito-mientras-duro-f202611-n/",
-    "title": "Atlético, fue bonito mientras duró",
-    "ko": "아틀레티코, 바르셀로나전 좋았던 시간 회고",
-    "source": "as",
-    "publishedAt": "2026-11-08T21:59:46.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "F.J. Díaz",
-    "transfer": null
-   },
-   {
-    "id": "6c7fde06c66e",
-    "url": "https://as.com/futbol/primera/1x1-del-atletico-barrios-no-es-suficiente-julian-es-presa-de-la-desconfianza-f202611-n/",
-    "title": "1x1 del Atlético: Barrios no es suficiente, Julián es presa de la desconfianza",
-    "ko": "아틀레티코 1대1 평점, 바리오스 부족·훌리안 부진",
-    "source": "as",
-    "publishedAt": "2026-11-08T22:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바리오스",
-     "훌리안"
-    ],
-    "playerTags": [],
-    "author": "Sergio Picos",
-    "transfer": null
-   },
-   {
-    "id": "dcf640149ce5",
-    "url": "https://as.com/futbol/primera/julian-perdona-fermin-no-f202611-n/",
-    "title": "Julián perdona y Fermín, no",
-    "ko": "훌리안 놓치고 페르민은 해결…아틀레티코 바르셀로나전 쓴맛",
-    "source": "as",
-    "publishedAt": "2026-11-08T22:09:43.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "훌리안 알바레스",
-     "페르민 로페스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": "Patricia Cazón",
-    "transfer": null
-   },
-   {
-    "id": "eea86373bc87",
-    "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-    "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-    "ko": "바르셀로나, 페르민 로페스 멀티골로 아틀레티코 꺾고 선두 도약",
-    "source": "guardian",
-    "publishedAt": "2026-11-08T22:27:50.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민 로페스"
-    ],
-    "playerTags": [],
-    "author": "Sid Lowe at the Riyadh Air Metropolitano",
-    "transfer": null
-   },
-   {
-    "id": "a015a1bdca71",
-    "url": "https://as.com/futbol/aprobados-y-suspensos-del-barca-ante-el-atletico-fermin-hace-de-julian-f202611-n/",
-    "title": "Aprobados y suspensos del Barça ante el Atlético: Fermín hace de Julián",
-    "ko": "바르사, 아틀레티코전 선수 평점 …페르민이 훌리안 역할",
-    "source": "as",
-    "publishedAt": "2026-11-08T22:31:49.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona",
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민"
-    ],
-    "playerTags": [],
-    "author": "Javier Miguel",
-    "transfer": null
-   },
-   {
-    "id": "0deb8a842b4e",
-    "url": "https://www.kicker.de/doppelter-fermin-barca-dreht-rueckstand-gegen-atletico-1269982/video#omrss",
-    "title": "Doppelter Fermin: Barca dreht Rückstand gegen Atletico",
-    "ko": "페르민 두 골, 바르셀로나 아틀레티코 상대 역전",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T22:52:24.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona",
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f62a20afe0c8",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
-    "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
-    "ko": "바르셀로나, 페르민 두 골로 아틀레티코 격파 역전승",
-    "source": "bbc",
-    "publishedAt": "2026-11-08T23:41:30.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona",
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b4357d7a0ac8",
-    "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-face-a-l-atletico-de-madrid-fermin-lopez-est-un-joyau-dans-l-ombre-des-stars-du-fc-barcelone/1742415#at_medium=RSS_feeds",
-    "title": "Auteur d'un doublé face à l'Atlético de Madrid, Fermin Lopez est un joyau dans l'ombre des stars du FC Barcelone",
-    "ko": "페르민 로페스, 아틀레티코 상대 멀티골로 바르사 핵심 자원 부상",
-    "source": "lequipe",
-    "publishedAt": "2026-11-09T06:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "페르민 로페스"
-    ],
-    "playerTags": [],
-    "author": "Antoine Simonneau",
-    "transfer": null
-   },
-   {
-    "id": "5c0324b999a1",
-    "url": "https://www.record.pt/internacional/paises/espanha/atletico-madrid/detalhe/o-reencontro-de-julian-alvarez-com-o-barcelona-assobios-falhanco-assistencia-e-defesa-de-simeone",
-    "title": "O reencontro de Julián Álvarez com o Barcelona: assobios, falhanço, assistência e defesa de Simeone",
-    "ko": "훌리안 알바레스, 옛 바르셀로나戰서 야유 속 도움",
-    "source": "record",
-    "publishedAt": "2026-11-09T07:51:00.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico",
-     "barcelona"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "훌리안 알바레스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 7,
-  "sourceCount": 7,
-  "score": 4.37,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "lamine-yamal",
-   "julian-alvarez"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-07T09:11:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Barcelona fight back to beat Atleti as Fermin scores twice"
- },
- {
-  "slug": "newcastle-manager-future",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 야이슬레 감독 거취 논란",
-  "createdAt": "2026-11-03T07:50:00.000Z",
-  "updatedAt": "2026-11-09T07:45:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "everton"
-  ],
-  "players": [
-   "션 스테이어",
-   "엘랑가",
-   "바리",
-   "파비안 셰어",
-   "션 스테우르",
-   "하비 반스",
-   "번",
-   "잭 머피"
-  ],
-  "sig": [
-   "steur",
-   "matthias",
-   "jaissle"
-  ],
-  "articles": [
-   {
-    "id": "019ff1459e58",
-    "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
-    "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
-    "ko": "뉴캐슬 내부 불만 확산, 에버턴 승리로 자이슬 감독 또 골치",
-    "source": "guardian",
-    "publishedAt": "2026-11-02T22:04:11.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바리"
-    ],
-    "playerTags": [],
-    "author": "Miles Starforth at St James' Park",
-    "transfer": null,
-    "clubs": [
-     "newcastle",
-     "everton"
-    ]
-   },
-   {
-    "id": "eea1440dd780",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-says-newcastle-united-34853455",
-    "title": "Matthias Jaissle says Newcastle United stars IGNORED tactical plan in alarming Press conference",
-    "ko": "야이슬레, 뉴캐슬 선수들이 전술 계획 무시했다고 발언",
-    "source": "chronicle",
-    "publishedAt": "2026-11-02T23:07:24.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "7692e63cc79f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-    "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-    "ko": "뉴캐슬 홈 부진 계속, 야이슬레 감독 고전",
-    "source": "bbc",
-    "publishedAt": "2026-11-02T23:53:46.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "77526a94be9a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/sean-steur-crowd-chant-highlights-34852541",
-    "title": "Sean Steur crowd chant highlights Newcastle decision Matthias Jaissle can no longer shy away from",
-    "ko": "뉴캐슬, 야이슬레 감독 결정 피하기 어려운 상황",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T07:50:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "5acc00adadaf",
-    "url": "https://www.thesun.co.uk/sport/40891432/matthias-jaissle-tactics-note-pitch-newcastle-everton/",
-    "title": "Sky Sports cameras show discarded Newcastle tactics note on pitch as boss Jaissle accuses stars of ‘ignoring’ gameplan",
-    "ko": "뉴캐슬 경기장에 버려진 전술 메모, 야이슬레 감독 선수들 무시 비판",
-    "source": "sun",
-    "publishedAt": "2026-11-03T09:44:53.000Z",
-    "credited": "스카이 스포츠",
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "James Graham",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "7325a0c5cb8a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fabian-schar-dumps-matthias-jaissles-34853509",
-    "title": "Fabian Schar dumps Matthias Jaissle's tactical note as Newcastle United's extreme plan backfires",
-    "ko": "파비안 셰어, 뉴캐슬 전술 메모 무시하며 전술 실패 지적",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T10:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "파비안 셰어"
-    ],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "71728d1ef71d",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-make-firm-matthias-jaissle-sack-call-after-fans-rage-expert",
-    "title": "Newcastle make 'firm' Matthias Jaissle sack call after fans rage - expert",
-    "ko": "뉴캐슬, 야이슬레 경질 요구 쇄도에 감독 교체 검토 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T13:30:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "fd747920caa6",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-clocks-turned-back-mike-34854424",
-    "title": "Newcastle clocks have turned back to Mike Ashley era with sheer dross being served up",
-    "ko": "뉴캐슬, 마이크 애슐리 시대로 회귀한 듯한 부진한 경기력 지적",
-    "source": "chronicle",
-    "publishedAt": "2026-11-03T18:00:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "a9c26c413ed6",
-    "url": "https://www.thesun.co.uk/sport/40905522/newcastle-legend-returns-manager/",
-    "title": "Newcastle legend, 46, returns to former club as new manager after cigar-smoking icon snubbed shock job offer",
-    "ko": "뉴캐슬 레전드, 옛 구단 감독으로 복귀 예정",
-    "source": "sun",
-    "publishedAt": "2026-11-03T22:35:58.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4073ec3cb72c",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/never-thought-would-say-matthias-34855540",
-    "title": "I never thought I would say this about Matthias Jaissle's Newcastle United",
-    "ko": "뉴캐슬 야이슬레 감독 체제 평가 변화 조명",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T07:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stuart Jamieson",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4d0c4929449d",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-matthias-jaissle-34858287",
-    "title": "Newcastle United make Matthias Jaissle future decision as PIF face eye-watering bill",
-    "ko": "뉴캐슬, 야이슬레 거취 결정…PIF 막대한 청구서 직면",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T10:00:00.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null,
-    "clubs": [
-     "newcastle"
-    ]
-   },
-   {
-    "id": "4617c563c7ff",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/pifs-backing-matthias-jaissle-comes-34862835",
-    "title": "Why PIF's backing of Matthias Jaissle comes with an asterisk as Newcastle boss still in danger",
-    "ko": "PIF의 야이슬레 지지에 단서…뉴캐슬 감독 여전히 위기",
-    "source": "chronicle",
-    "publishedAt": "2026-11-04T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "41bbc96a581a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/under-fire-matthias-jaissle-given-34861619",
-    "title": "Under-fire Matthias Jaissle given Newcastle United ultimatum after leadership issue",
-    "ko": "뉴캐슬 야이슬레, 리더십 문제 후 최후통첩",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "5089214aa643",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-discovers-old-eddie-34865542",
-    "title": "Matthias Jaissle discovers old Eddie Howe problem at Newcastle United ahead of 2027 reboot",
-    "ko": "뉴캐슬, 제이슬 감독 체제에서 하우 시절 문제 재확인",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T12:09:12.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "4f748de6d154",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-live-newcastle-united-34866847",
-    "title": "Matthias Jaissle LIVE - Newcastle United boss on pressure, critics, injuries and Fulham response",
-    "ko": "뉴캐슬 야이슬레 감독, 압박·비판·부상·풀럼전 대응 밝혀",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T13:56:58.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null
-   },
-   {
-    "id": "f11c4b873854",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-shuts-down-talk-34867448",
-    "title": "Matthias Jaissle shuts down talk of Newcastle United dressing room unrest with 'unity' message",
-    "ko": "야이슬레, 뉴캐슬 라커룸 불화설 일축…\"단결\" 강조",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T15:13:24.000Z",
-    "credited": "크로니클 라이브",
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "d998c2c5b855",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/rock-star-rocky-road-heres-34868889",
-    "title": "From rock star to rocky road - here's how Matthias Jaissle can come through his greatest challenge",
-    "ko": "야이슬레, 최대 위기 극복 방법은…뉴캐슬 감독 분석",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T17:57:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null
-   },
-   {
-    "id": "fed5ecfd42e7",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-concerned-about-harvey-barnes-he-could-cost-matthias-jaissle-his-job-expert",
-    "title": "Newcastle 'concerned' about Harvey Barnes, he could cost Matthias Jaissle his job - expert",
-    "ko": "뉴캐슬, 하비 반스 우려…야이슬레 경질 위기 거론",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-05T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "하비 반스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "10a46138be6e",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-in-eye-storm-34869467",
-    "title": "Matthias Jaissle 'in eye of the storm' as he retains Newcastle United support amid circus backdrop",
-    "ko": "뉴캐슬 야이슬레, 서커스 같은 분위기 속 팬들의 지지 유지",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T19:06:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null
-   },
-   {
-    "id": "c27882bf215c",
-    "url": "https://www.mirror.co.uk/sport/football/news/matthias-jaissle-newcastle-players-sack-37848502",
-    "title": "Matthias Jaissle responds to Newcastle sack pressure after players left 'confused'",
-    "ko": "마티아스 야이슬레, 뉴캐슬 경질 압박에 응답",
-    "source": "mirror",
-    "publishedAt": "2026-11-05T20:45:27.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": null
-   },
-   {
-    "id": "ff491c2cc5aa",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-boss-matthias-jaissle-could-be-first-premier-league-manager-sacked-sources",
-    "title": "Newcastle boss Matthias Jaissle could be first Premier League manager sacked - Sources",
-    "ko": "뉴캐슬 야이슬레 감독, 프리미어리그 첫 경질 후보로 거론",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-06T09:22:17.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8a5b7a0eca11",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/duncan-ferguson-sends-worrying-matthias-34871616",
-    "title": "Duncan Ferguson sends worrying Matthias Jaissle message after 'battering'",
-    "ko": "던컨 퍼거슨, 야이슬레 '구타' 후 우려 메시지",
-    "source": "chronicle",
-    "publishedAt": "2026-11-06T16:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stuart Jamieson",
-    "transfer": null
-   },
-   {
-    "id": "799861f0eafd",
-    "url": "https://www.theguardian.com/football/2026/nov/06/matthias-jaissle-caught-in-the-storm-as-newcastle-struggle-without-european-fix",
-    "title": "Matthias Jaissle caught in the storm as Newcastle struggle without European fix",
-    "ko": "뉴캐슬, 유럽대회 없이 고전하며 제이슬레 압박",
-    "source": "guardian",
-    "publishedAt": "2026-11-06T19:00:49.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Louise Taylor",
-    "transfer": null
-   },
-   {
-    "id": "3fb8429ffe47",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/dan-burn-answers-burning-matthias-34872478",
-    "title": "Dan Burn answers burning Matthias Jaissle question as he calls out Newcastle United 'mentality'",
-    "ko": "번, 뉴캐슬의 \"멘털\" 지적에 답변… 야이슬레 질문 언급",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "번"
-    ],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null
-   },
-   {
-    "id": "204f6efcc4e5",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissles-two-word-plea-34871179",
-    "title": "Matthias Jaissle's two-word plea to Newcastle United stars after week of turmoil on Tyneside",
-    "ko": "야이슬레, 격동의 주간 뒤 뉴캐슬 선수들에게 짧은 호소",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "4ff1d19e2eb5",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-issues-deadline-success-34877207",
-    "title": "Matthias Jaissle issues deadline for success at Newcastle United and drops formation hint",
-    "ko": "야이슬레, 뉴캐슬 성공 시한 제시하며 포메이션 힌트",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T11:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "9bea088892d3",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-drop-three-surprises-34878317",
-    "title": "Newcastle United drop THREE surprises as Matthias Jaissle gets ruthless with £35m man axed",
-    "ko": "뉴캐슬, 예이슬레 감독 체제서 3명 제외…35m 파운드 선수 방출",
-    "source": "chronicle",
-    "publishedAt": "2026-11-07T14:00:24.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "8bad59f1e024",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/what-egocentric-ref-rob-jones-34879502",
-    "title": "What egocentric ref Rob Jones told angry Matthias Jaissle as Newcastle boss faces touchline ban",
-    "ko": "뉴캐슬 야이슬레, 터치라인 징계 위기…심판과 충돌",
-    "source": "chronicle",
-    "publishedAt": "2026-11-08T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "cfc4044f988d",
-    "url": "https://www.footballinsider247.com/newcastle-united/keep-an-eye-on-this-journalist-drops-newcastle-dressing-room-verdict",
-    "title": "'Keep an eye on this…' - Journalist drops Newcastle dressing room verdict",
-    "ko": "뉴캐슬 라커룸 평가 놓고 기자 주목 당부",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T11:20:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e795e0e6e12a",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/eddie-howe-out-newcastle-united-34872072",
-    "title": "Eddie Howe got out of Newcastle United at the right time - he saw the writing on the wall",
-    "ko": "하우, 뉴캐슬 떠난 시점이 적절했다는 평가",
-    "source": "chronicle",
-    "publishedAt": "2026-11-08T16:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stuart Jamieson",
-    "transfer": null
-   },
-   {
-    "id": "8f3c4d6fb520",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/stubborn-matthias-jaissle-lacks-newcastle-34879963",
-    "title": "Stubborn Matthias Jaissle lacks Newcastle United tools so must change plans",
-    "ko": "뉴캐슬, 야이슬레 전술 변화 필요…고집 지적 칼럼",
-    "source": "chronicle",
-    "publishedAt": "2026-11-08T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null
-   },
-   {
-    "id": "a658d15619c7",
-    "url": "https://www.footballinsider247.com/newcastle-united/sources-newcastle-make-clear-matthias-jaissle-sack-call",
-    "title": "Sources: Newcastle make clear Matthias Jaissle sack call",
-    "ko": "뉴캐슬, 마티아스 자일 경질 방침 확고한 것으로 전해져",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T19:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cf93d2ba27dc",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-explains-how-newcastle-34880186",
-    "title": "Matthias Jaissle explains how Newcastle United tactics row was lost in translation",
-    "ko": "뉴캐슬 전술 논쟁, 통역 과정에서 오해 빚어져",
-    "source": "chronicle",
-    "publishedAt": "2026-11-09T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "0c76b9d32ee1",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/jacob-murphy-explains-what-matthias-34879821",
-    "title": "Jacob Murphy reveals what Matthias Jaissle's 'vertical football' at Newcastle should look like",
-    "ko": "머피, 뉴캐슬 아이슬레 감독의 수직 축구 방향 설명",
-    "source": "chronicle",
-    "publishedAt": "2026-11-09T07:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "잭 머피"
-    ],
-    "playerTags": [],
-    "author": "Sean McCormick",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 6,
-  "score": 1.6,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스카이 스포츠",
-   "at": "2026-11-02T22:04:11.000Z",
-   "viaQuote": true
-  },
-  "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
- },
- {
-  "slug": "lens-marseille-2026-11-08",
-  "mode": "llm",
-  "titleKo": "렌스 대 마르세유 경기",
-  "createdAt": "2026-11-08T20:10:36.000Z",
-  "updatedAt": "2026-11-09T07:41:36.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "marseille"
-  ],
-  "players": [
-   "토뱅",
-   "아민 구이리",
-   "타우뱅",
-   "바이두",
-   "드 랑주",
-   "야닉 카위자크",
-   "케일리안 압달라"
-  ],
-  "sig": [
-   "tor",
-   "thauvin",
-   "minute"
-  ],
-  "articles": [
-   {
-    "id": "86df24debd0b",
-    "url": "https://www.kicker.de/lens-marseille-tor-zum-1-1-durch-thauvin-in-der-20-minute-1269926/video#omrss",
-    "title": "Lens - Marseille: Tor zum 1:1 durch Thauvin in der 20. Minute",
-    "ko": "렌스 대 마르세유, 20분 토뱅 동점골로 1-1",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T20:10:36.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "토뱅"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "55127422c3de",
-    "url": "https://www.lequipe.fr/Football/Actualites/Lens-om-le-but-gag-d-amine-gouiri-au-bout-de-deux-minutes-apres-une-grosse-erreur-defensive-de-la-defense-lensoise/1742336#at_medium=RSS_feeds",
-    "title": "Lens-OM : le but gag d'Amine Gouiri au bout de deux minutes après une grosse erreur défensive de la défense lensoise",
-    "ko": "아민 구이리, 렌스전 2분 만에 득점하며 마르세유 선제골",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T20:15:35.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "아민 구이리"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "14138178e380",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-superbe-but-de-florian-thauvin-contre-l-om-en-video/1742374#at_medium=RSS_feeds",
-    "title": "Le superbe but de Florian Thauvin contre l'OM en vidéo",
-    "ko": "타우뱅의 멋진 골, 마르세유전 영상으로 다시 조명",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T21:22:42.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "타우뱅"
-    ],
-    "playerTags": [],
-    "author": "Cyril Olivès",
-    "transfer": null
-   },
-   {
-    "id": "a7ba5b46038f",
-    "url": "https://www.lequipe.fr/Football/Actualites/L-om-enfonce-lens-et-prend-la-quatrieme-place-de-ligue-1/1742378#at_medium=RSS_feeds",
-    "title": "L'OM enfonce Lens et prend la quatrième place de Ligue 1",
-    "ko": "마르세유, 렌스 꺾고 리그1 4위 도약",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T21:40:23.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cyril Olivès",
-    "transfer": null
-   },
-   {
-    "id": "1021f1e63e76",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lens-om-baidoo-malheureux-de-lange-precieux/1742398#at_medium=RSS_feeds",
-    "title": "Les notes de Lens-OM : Baidoo malheureux, De Lange précieux",
-    "ko": "렌스-OM 평점, 바이두 불운·드 랑주 빛나",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T22:51:14.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바이두",
-     "드 랑주"
-    ],
-    "playerTags": [],
-    "author": "Simon Bolle",
-    "transfer": null
-   },
-   {
-    "id": "dc8a821a38c2",
-    "url": "https://www.lequipe.fr/Football/Actualites/Bruno-genesio-apres-lens-om-il-faut-savourer-mais-il-faut-etre-vigilants/1742401#at_medium=RSS_feeds",
-    "title": "Bruno Genesio, après Lens-OM : « Il faut savourer, mais il faut être vigilants »",
-    "ko": "게네시오, 렌스-OM 후 '만끽하되 경계해야'",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T23:04:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Simon Bolle",
-    "transfer": null
-   },
-   {
-    "id": "593af409857b",
-    "url": "https://www.lequipe.fr/Football/Actualites/Yannick-cahuzac-pose-un-constat-lucide-apres-la-defaite-de-lens-contre-l-om-on-est-malades/1742402#at_medium=RSS_feeds",
-    "title": "Yannick Cahuzac pose un constat lucide après la défaite de Lens contre l'OM : « On est malades »",
-    "ko": "야닉 카위자크, 렌스 OM전 패배 후 \"우리는 병들었다\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T23:09:39.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "야닉 카위자크"
-    ],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "6a6ec78bd17a",
-    "url": "https://www.lequipe.fr/Football/Actualites/Video-le-but-de-la-victoire-de-l-om-a-lens-inscrit-par-keylianne-abdallah-de-retour-apres-sa-retrogradation-en-equipe-reserve/1742434#at_medium=RSS_feeds",
-    "title": "Vidéo : le but de la victoire de l'OM à Lens inscrit par Keylianne Abdallah, de retour après sa rétrogradation en équipe réserve",
-    "ko": "마르세유, 렌스 원정 승리…케일리안 압달라 결승골",
-    "source": "lequipe",
-    "publishedAt": "2026-11-09T07:41:36.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "케일리안 압달라"
-    ],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.3,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-08T20:10:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Vidéo : le but de la victoire de l'OM à Lens inscrit par Keylianne Abdallah, de retour après sa rétrogradation en équipe réserve"
- },
- {
-  "slug": "porto-reboleira-2026-11-08",
-  "mode": "llm",
-  "titleKo": "포르투 레이보리아 원정 경기 결과",
-  "createdAt": "2026-11-08T22:36:52.000Z",
-  "updatedAt": "2026-11-09T07:40:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [
-   "슈옐데루프",
-   "파블리디스"
-  ],
-  "sig": [
-   "schjelderup",
-   "pavlidis",
-   "reboleira"
-  ],
-  "articles": [
-   {
-    "id": "d614a5c69bf2",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/cruzamento-milimetrico-de-trivela-de-schjelderup-e-pavlidis-resolveu-na-reboleira-aos-90-4",
-    "title": "Cruzamento milimétrico de trivela de Schjelderup e Pavlidis resolveu na Reboleira aos 90'+4",
-    "ko": "포르투, 레이보리아에서 슈옐데루프·파블리디스 연결로 극적 결승골",
-    "source": "record",
-    "publishedAt": "2026-11-08T22:36:52.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "슈옐데루프",
-     "파블리디스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7e0bc2a25950",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/pavlidis-fez-explodir-a-festa-benfiquista-na-reboleira-mas-deixa-aviso-temos-de-ser-melhores",
-    "title": "Pavlidis fez explodir a festa benfiquista na Reboleira, mas deixa aviso: «Temos de ser melhores»",
-    "ko": "파블리디스 결승골, 레보리아 원정 벤피카 축제 분위기",
-    "source": "record",
-    "publishedAt": "2026-11-08T22:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "파블리디스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bfcda90fd524",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/as-reacoes-a-vitoria-do-benfica-na-reboleira-nao-foi-um-jogo-fantastico",
-    "title": "As reações à vitória do Benfica na Reboleira: «Não foi um jogo fantástico...»",
-    "ko": "벤피카, 레이보리아 원정 승리 후 반응 엇갈려",
-    "source": "record",
-    "publishedAt": "2026-11-09T07:40:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.37,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-08T22:36:52.000Z",
-   "viaQuote": false
-  },
-  "headline": "As reações à vitória do Benfica na Reboleira: «Não foi um jogo fantástico...»"
- },
- {
-  "slug": "gabriel-mec-injury",
-  "mode": "llm",
-  "titleKo": "가브리엘 메크 근육 부상",
-  "createdAt": "2026-11-09T07:27:00.000Z",
-  "updatedAt": "2026-11-09T07:27:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [
-   "가브리엘"
-  ],
-  "sig": [
-   "mec"
-  ],
-  "articles": [
-   {
-    "id": "65c82b292b11",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/gabriel-mec-sofreu-lesao-muscular-na-coxa-esquerda",
-    "title": "Gabriel Mec sofreu lesão muscular na coxa esquerda",
-    "ko": "가브리엘 메시, 왼쪽 허벅지 근육 부상",
-    "source": "record",
-    "publishedAt": "2026-11-09T07:27:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.73,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-09T07:27:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Gabriel Mec sofreu lesão muscular na coxa esquerda"
- },
- {
   "slug": "man-utd-aston-villa-2026-11-05",
   "mode": "llm",
   "titleKo": "맨유 대 애스턴 빌라 경기 전먼 실점",
   "createdAt": "2026-11-05T19:53:54.000Z",
-  "updatedAt": "2026-11-09T07:20:00.000Z",
+  "updatedAt": "2026-11-09T08:21:17.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -2338,7 +1307,8 @@
    "도르구",
    "달롯",
    "마테우스 쿠냐",
-   "알리송"
+   "알리송",
+   "램멘스"
   ],
   "sig": [
    "bruno",
@@ -3155,11 +2125,32 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "9eb3c1cc7a62",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/senne-lammens-aston-villa-united-34882801",
+    "title": "Senne Lammens accused of breaking rules as Aston Villa chief slams Man United VAR decision",
+    "ko": "램멘스, 규정 위반 논란…빌라 간부 맨유 VAR 판정 비판",
+    "source": "men",
+    "publishedAt": "2026-11-09T08:21:17.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "aston-villa"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "램멘스"
+    ],
+    "playerTags": [],
+    "author": "Dan Burnham",
+    "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 3,
   "sourceCount": 13,
-  "score": 1.72,
+  "score": 1.31,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3175,6 +2166,2339 @@
    "viaQuote": false
   },
   "headline": "Man Utd score twice in stoppage-time to share points in eight-goal thriller"
+ },
+ {
+  "slug": "chelsea-sunderland-2026-11-08",
+  "mode": "llm",
+  "titleKo": "첼시 대 선덜랜드 경기 선발 논쟁",
+  "createdAt": "2026-11-04T19:00:00.000Z",
+  "updatedAt": "2026-11-09T08:13:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "조던 헨더슨",
+   "에미 마르티네스",
+   "주앙 아호카",
+   "에스테방",
+   "모이세스 카이세도",
+   "이스테방",
+   "그라니트 자카",
+   "모건 로저스",
+   "브로비",
+   "콜윌",
+   "르 페",
+   "콜 파머",
+   "브라이언 브로비"
+  ],
+  "sig": [
+   "jordan",
+   "henderson",
+   "sunderland"
+  ],
+  "articles": [
+   {
+    "id": "994bf5dffcf9",
+    "url": "https://www.footballinsider247.com/chelsea/chelsea-should-axe-jordan-henderson-vs-sunderland-and-start-78-duel-winner",
+    "title": "Chelsea should axe Jordan Henderson vs Sunderland and start 78% duel winner",
+    "ko": "첼시, 선덜랜드전 조던 헨더슨 대신 78% 경합승 선수 선발 주장",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "조던 헨더슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "326c856ec0a2",
+    "url": "https://www.football.london/chelsea-fc/news/emi-martinez-decision-one-chelsea-34861936",
+    "title": "Emi Martinez decision and one other Chelsea change Xabi Alonso will consider for Sunderland",
+    "ko": "Emi Martinez 결정 포함, 사비 알론소 선덜랜드전 첼시 변화 고려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-05T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에미 마르티네스"
+    ],
+    "playerTags": [],
+    "author": "Bobby Vincent",
+    "transfer": null
+   },
+   {
+    "id": "0104a53c5f4b",
+    "url": "https://www.footballinsider247.com/sunderland/jules-ahoka-sunderland-star-with-100-and-89-stats-can-save-regis-le-bris-vs-chelsea-verdict",
+    "title": "Jules Ahoka: Sunderland star with 100% and 89% stats can save Regis Le Bris vs Chelsea - verdict",
+    "ko": "선덜랜드 주앙 아호카, 첼시전 르 브리스 구할 수 있다는 평가",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-06T19:20:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주앙 아호카"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "05d946d16e34",
+    "url": "https://www.football.london/chelsea-fc/news/chelsea-injury-update-sunderland-alonso-34876903",
+    "title": "Nine players set to miss Sunderland vs Chelsea as Xabi Alonso gives injury update",
+    "ko": "알론소, 선덜랜드전 첼시 결장 선수 9명 부상 업데이트",
+    "source": "fblondon",
+    "publishedAt": "2026-11-07T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Wakefield",
+    "transfer": null
+   },
+   {
+    "id": "c90e674044ac",
+    "url": "https://www.thesun.co.uk/sport/40915368/sunderland-chelsea-bet-builder-tip-paddy-power/",
+    "title": "Sunderland vs Chelsea: Our 7/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+    "ko": "선덜랜드 대 첼시 베트 빌더 추천 배당",
+    "source": "sun",
+    "publishedAt": "2026-11-08T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "d66ca105f664",
+    "url": "https://www.football.london/chelsea-fc/news/predicted-chelsea-team-vs-sunderland-34875016",
+    "title": "Predicted Chelsea team vs Sunderland as Estevao Willian and Moises Caicedo decisions made",
+    "ko": "첼시 대 선덜랜드 예상 선발, 에스테방·카이세도 결정",
+    "source": "fblondon",
+    "publishedAt": "2026-11-08T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에스테방",
+     "모이세스 카이세도"
+    ],
+    "playerTags": [
+     "moises-caicedo",
+     "estevao"
+    ],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "c81f771faf2d",
+    "url": "https://www.thesun.co.uk/sport/40912402/sunderland-chelsea-predictions-bets/",
+    "title": "Sunderland vs Chelsea | Premier League predictions, preview and free bets",
+    "ko": "선덜랜드 대 첼시 프리미어리그 프리뷰·예상 및 무료 베팅",
+    "source": "sun",
+    "publishedAt": "2026-11-08T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "01d20b88a271",
+    "url": "https://www.skysports.com/football/sunderland-vs-chelsea/live/559543",
+    "title": "Henderson returns for Chelsea to face former side Sunderland LIVE!",
+    "ko": "헨더슨 복귀, 전 소속팀 선덜랜드 상대 첼시 선발",
+    "source": "sky",
+    "publishedAt": "2026-11-08T12:33:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3fe9a563ed50",
+    "url": "https://www.football.london/chelsea-fc/news/breaking-chelsea-team-news-sunderland-34880354",
+    "title": "Xabi Alonso makes two Chelsea changes for Sunderland clash as Estevao decision confirmed",
+    "ko": "사비 알론소, 선덜랜드전 첼시 두 곳 교체…이스테방 기용 확정",
+    "source": "fblondon",
+    "publishedAt": "2026-11-08T12:47:28.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "이스테방"
+    ],
+    "playerTags": [
+     "estevao"
+    ],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "14d46af9b19d",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/20261108-125359-sunderland-chelsea-em-direto",
+    "title": "Sunderland-Chelsea, em direto",
+    "ko": "선덜랜드 대 첼시 경기 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-08T12:53:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dd44e68ea67a",
+    "url": "https://as.com/futbol/internacional/sunderland-chelsea-en-directo-premier-league-hoy-en-vivo-f202611-n/",
+    "title": "Sunderland - Chelsea, en directo: Premier League, hoy en vivo",
+    "ko": "첼시 대 선덜랜드 경기 실시간 중계",
+    "source": "as",
+    "publishedAt": "2026-11-08T13:41:53.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "9d4c099668b0",
+    "url": "https://www.thesun.co.uk/sport/40958869/granit-xhaka-forced-off-sunderland-chelsea-injury/",
+    "title": "Granit Xhaka forced off after just THREE MINUTES in Sunderland vs Chelsea clash and heads straight down tunnel",
+    "ko": "작사 엑하, 선덜랜드전 3분 만에 교체되어 라커룸行",
+    "source": "sun",
+    "publishedAt": "2026-11-08T14:21:52.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "그라니트 자카"
+    ],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "7618c6440886",
+    "url": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
+    "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
+    "ko": "첼시, 최하위 선덜랜드에 패배…미지근한 경기력",
+    "source": "sky",
+    "publishedAt": "2026-11-08T16:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e96960a699b6",
+    "url": "https://www.football.london/chelsea-fc/news/chelsea-player-ratings-vs-sunderland-34880498",
+    "title": "Chelsea player ratings vs Sunderland as 3/10 bullied and Cole Palmer elusive",
+    "ko": "첼시 대 선덜랜드 선수 평점, 팔머는 존재감 미미",
+    "source": "fblondon",
+    "publishedAt": "2026-11-08T16:01:07.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "5635decdf350",
+    "url": "https://www.thesun.co.uk/sport/40959448/sunderland-beat-chelsea-enzo-le-fee/",
+    "title": "Sunderland 1 Chelsea 0: Brobbey’s controversial penalty incident sees Blues go into international break on losing run",
+    "ko": "선덜랜드 1-0 첼시: 브로비 논란의 페널티 장면, 첼시 연패 속 A매치 휴식기 돌입",
+    "source": "sun",
+    "publishedAt": "2026-11-08T16:02:11.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Gary Stonehouse",
+    "transfer": null
+   },
+   {
+    "id": "9fb58890da5e",
+    "url": "https://www.football.london/chelsea-fc/news/chelsea-penalty-brobbey-palmer-var-34881456",
+    "title": "Chelsea handed Cole Palmer and Brian Brobbey penalty VAR verdicts after controversial decisions",
+    "ko": "첼시, 팔머·브로비에 페널티 VAR 판정 논란",
+    "source": "fblondon",
+    "publishedAt": "2026-11-08T16:02:11.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "콜 파머",
+     "브라이언 브로비"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Kieran Horn",
+    "transfer": null
+   },
+   {
+    "id": "8272707d40f1",
+    "url": "https://www.thesun.co.uk/sport/40958747/chelsea-ratings-morgan-rogers-struggles-pep-chavarria-shines/",
+    "title": "Chelsea ratings: Morgan Rogers struggles leading the line as Pep Chavarria a bright spark in otherwise toothless attack",
+    "ko": "첼시 평점: 모건 로저스 최전방 고전, 샤바리아만 빛나",
+    "source": "sun",
+    "publishedAt": "2026-11-08T16:04:04.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "모건 로저스"
+    ],
+    "playerTags": [
+     "morgan-rogers"
+    ],
+    "author": "Mitchell Hall",
+    "transfer": null
+   },
+   {
+    "id": "c5cde6f7237c",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
+    "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
+    "ko": "브로비, 콜윌과의 맞대결 승리…선덜랜드 첼시 격파 선수 평점",
+    "source": "bbc",
+    "publishedAt": "2026-11-08T16:13:36.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브로비",
+     "콜윌"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b200894041a4",
+    "url": "https://www.footballinsider247.com/chelsea/match/ref-watch-three-jarred-gillett-blunders-in-sunderland-vs-chelsea",
+    "title": "Ref Watch: Three Jarred Gillett blunders in Sunderland vs Chelsea",
+    "ko": "선덜랜드 대 첼시 경기서 심판 실책 3건 지적",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T16:13:48.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f98345ec196f",
+    "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
+    "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
+    "ko": "르 페 페널티킥에 첼시 충격, 선덜랜드 끈질긴 반격",
+    "source": "guardian",
+    "publishedAt": "2026-11-08T16:16:34.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "르 페"
+    ],
+    "playerTags": [],
+    "author": "Andy Brassell at the Stadium of Light",
+    "transfer": null
+   },
+   {
+    "id": "e49266a12980",
+    "url": "https://www.football.london/chelsea-fc/news/breaking-chelsea-sunderland-var-controversy-34881673",
+    "title": "Xabi Alonso furiously points finger at his Chelsea players after Sunderland VAR controversy",
+    "ko": "사비 알론소, 선덜랜드전 VAR 논란 뒤 첼시 선수들에게 분노",
+    "source": "fblondon",
+    "publishedAt": "2026-11-08T16:32:11.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "d4705c4112ef",
+    "url": "https://www.footballinsider247.com/chelsea/jordan-hendersons-reception-xabi-alonso-fury-four-things-you-may-have-missed-from-sunderlands-win-over-chelsea",
+    "title": "Jordan Henderson's reception, Xabi Alonso fury: Four things you may have missed from Sunderland's win over Chelsea",
+    "ko": "선덜랜드, 첼시 격파 뒤 헨더슨 환영·알론소 분노 등 주요 장면",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T16:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "조던 헨더슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "624eaba7086f",
+    "url": "https://www.footballinsider247.com/chelsea/when-you-look-at-the-video-ex-refs-chief-shares-cole-palmer-penalty-verdict-after-re-analysing-chelsea-vs-sunderland-footage",
+    "title": "'When you look at the video...' - Ex-refs chief shares Cole Palmer penalty verdict after re-analysing Chelsea vs Sunderland footage",
+    "ko": "전 심판장, 첼시-선덜랜드전 콜 파머 페널티 재분석 판정",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T18:11:57.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a39f0da293b5",
+    "url": "https://www.footballinsider247.com/sunderland/ex-refs-chief-var-should-have-intervened-over-sunderland-penalty-in-win-vs-chelsea",
+    "title": "Ex-refs chief: VAR should have 'intervened' over Sunderland penalty in win vs Chelsea",
+    "ko": "전 심판장 '첼시전 선덜랜드 페널티, VAR 개입했어야'",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T19:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "25cafca68474",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
+    "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
+    "ko": "최하위 선덜랜드, 첼시 꺾고 바닥 탈출",
+    "source": "bbc",
+    "publishedAt": "2026-11-08T19:58:31.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f192eeca88d0",
+    "url": "https://www.football.london/chelsea-fc/news/cole-palmer-fails-test-xabi-34881895",
+    "title": "Cole Palmer fails test as Xabi Alonso surrenders 'Mourinho moment' and Chelsea miss unsung hero",
+    "ko": "콜 파머, 알론소 체제 첼시 시험대",
+    "source": "fblondon",
+    "publishedAt": "2026-11-09T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "2dd86dc6a996",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/xabi-alonso-critico-apos-derrota-com-o-sunderland-nao-mereciamos-mais-do-que-um-ponto",
+    "title": "Xabi Alonso crítico após derrota com o Sunderland: «Não merecíamos mais do que um ponto»",
+    "ko": "알론소, 선덜랜드전 패배 후 '승점 1점 이상은 안 됐다' 비판",
+    "source": "record",
+    "publishedAt": "2026-11-09T08:13:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 8,
+  "score": 2.85,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "moises-caicedo",
+   "estevao",
+   "cole-palmer",
+   "morgan-rogers"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-04T19:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Struggling Sunderland beat Chelsea to move off bottom of Premier League"
+ },
+ {
+  "slug": "antonio-nusa-arsenal-transfer",
+  "mode": "llm",
+  "titleKo": "누사 아스널 이적 관심 및 이슈",
+  "createdAt": "2026-11-08T06:30:00.000Z",
+  "updatedAt": "2026-11-09T08:04:57.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "안토니오 누사",
+   "누사"
+  ],
+  "sig": [
+   "antonio",
+   "nusa"
+  ],
+  "articles": [
+   {
+    "id": "3d2338e5255b",
+    "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-antonio-nusa-transfer-leipzig-34879549",
+    "title": "Arsenal face instant £58m Antonio Nusa transfer issue as January plans emerge",
+    "ko": "아스널, 누사 영입 관련 58m 파운드 이슈 직면…1월 계획 부상",
+    "source": "fblondon",
+    "publishedAt": "2026-11-08T06:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "안토니오 누사"
+    ],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": {
+     "player": "안토니오 누사",
+     "from": null,
+     "to": "아스널"
+    }
+   },
+   {
+    "id": "00cf9a5680e8",
+    "url": "https://www.footballinsider247.com/arsenal/antonio-nusa-just-reached-a-new-level-arsenal-cannot-hesitate-over-january-deal",
+    "title": "Antonio Nusa just reached a new level, Arsenal cannot hesitate over January deal",
+    "ko": "누사, 새 수준 도달…아스널 1월 계약 주저하면 안 돼",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-09T08:04:57.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "누사"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "누사",
+     "from": null,
+     "to": "아스널"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.46,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "3d2338e5255b",
+    "at": "2026-11-08T06:30:00.000Z",
+    "source": "fblondon",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "안토니오 누사",
+   "from": null,
+   "to": "아스널"
+  },
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-08T06:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Arsenal face instant £58m Antonio Nusa transfer issue as January plans emerge"
+ },
+ {
+  "slug": "atletico-barcelona-2026-11-07",
+  "mode": "llm",
+  "titleKo": "아틀레티코 대 바르셀로나 라리가 경기",
+  "createdAt": "2026-11-07T09:11:36.000Z",
+  "updatedAt": "2026-11-09T07:51:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "barcelona",
+   "atletico",
+   "bayern"
+  ],
+  "players": [
+   "라민 야말",
+   "훌리안 알바레스",
+   "에릭 가르시아",
+   "안드레아스 크리스텐센",
+   "페르민 로페스",
+   "바리오스",
+   "훌리안",
+   "페르민"
+  ],
+  "sig": [
+   "lamine",
+   "yamal",
+   "metropolitano"
+  ],
+  "articles": [
+   {
+    "id": "0073884afe47",
+    "url": "https://as.com/futbol/primera/la-revancha-de-lamine-yamal-en-el-metropolitano-f202611-n/",
+    "title": "La revancha de Lamine Yamal en el Metropolitano",
+    "ko": "라민 야말, 메트로폴리타노에서 설욕 노린다",
+    "source": "as",
+    "publishedAt": "2026-11-07T09:11:36.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라민 야말"
+    ],
+    "playerTags": [
+     "lamine-yamal"
+    ],
+    "author": "Sergi de Juan",
+    "transfer": null
+   },
+   {
+    "id": "39808dbd9738",
+    "url": "https://as.com/futbol/primera/el-atleti-barca-de-las-mil-caras-f202611-n/",
+    "title": "El Atleti-Barça de las mil caras",
+    "ko": "아틀레티코-바르사 맞대결, 여러 얼굴 보여준 경기 회고",
+    "source": "as",
+    "publishedAt": "2026-11-07T09:39:26.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Juan Jiménez",
+    "transfer": null
+   },
+   {
+    "id": "668636eaf70f",
+    "url": "https://as.com/futbol/primera/el-atleti-con-todo-salvo-el-cuti-f202611-n/",
+    "title": "El Atleti, con todo salvo el Cuti",
+    "ko": "아틀레티코, 쿠티 제외하고 전력 총동원",
+    "source": "as",
+    "publishedAt": "2026-11-07T11:16:02.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jesús Colino",
+    "transfer": null
+   },
+   {
+    "id": "f79859bf8c91",
+    "url": "https://as.com/futbol/primera/simeone-preve-sufrimiento-el-barca-es-el-mejor-f202611-n/",
+    "title": "Simeone prevé sufrimiento: “El Barça es muy bueno, posiblemente el mejor”",
+    "ko": "시메오네, 바르사는 매우 강하다며 고통 예고",
+    "source": "as",
+    "publishedAt": "2026-11-07T11:57:27.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jesús Colino",
+    "transfer": null
+   },
+   {
+    "id": "215924f743a4",
+    "url": "https://as.com/futbol/primera/ruedas-de-prensa-de-simeone-y-hansi-flick-previa-del-atletico-barcelona-en-directo-f202611-d/",
+    "title": "Ruedas de prensa de Simeone y Hansi Flick: previa del Atlético-Barcelona, en directo",
+    "ko": "시메오네·플릭 기자회견 정리, 아틀레티코-바르셀로나 전 실시간",
+    "source": "as",
+    "publishedAt": "2026-11-07T12:01:35.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alejandro Soto",
+    "transfer": null
+   },
+   {
+    "id": "6a72610c461a",
+    "url": "https://as.com/futbol/videos/la-respuesta-de-simeone-sobre-julian-antes-del-barca-no-pudo-ser-mas-contundente-f202611-v/",
+    "title": "La respuesta de Simeone sobre Julián antes del Barça: no pudo ser más contundente",
+    "ko": "시메오네, 바르사전 앞두고 훌리안 관련 단호한 답변",
+    "source": "as",
+    "publishedAt": "2026-11-07T12:38:34.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "e88bb87d6f06",
+    "url": "https://www.lequipe.fr/Football/Actualites/Eric-garcia-et-andreas-christensen-de-retour-dans-le-groupe-du-fc-barcelone-pour-le-choc-contre-l-atletico-de-madrid-en-liga/1741914#at_medium=RSS_feeds",
+    "title": "Eric Garcia et Andreas Christensen de retour dans le groupe du FC Barcelone pour le choc contre l'Atlético de Madrid en Liga",
+    "ko": "에릭 가르시아·크리스텐센, 바르셀로나 아틀레티코전 명단 복귀",
+    "source": "lequipe",
+    "publishedAt": "2026-11-07T14:03:00.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에릭 가르시아",
+     "안드레아스 크리스텐센"
+    ],
+    "playerTags": [],
+    "author": "Matteo Amghar",
+    "transfer": null
+   },
+   {
+    "id": "fd36fdfc3242",
+    "url": "https://as.com/futbol/primera/alberola-467-amarillas-por-partido-se-estrena-en-un-atleti-barca-f202611-n/",
+    "title": "Alberola, 4,67 amarillas por partido, se estrena en un Atleti-Barça",
+    "ko": "알베롤라, 아틀레티 대 바르사 더비 데뷔 예정",
+    "source": "as",
+    "publishedAt": "2026-11-07T18:04:39.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Juan Jiménez",
+    "transfer": null
+   },
+   {
+    "id": "14e6025200c0",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atletico-madrid-barcelone-en-liga/1741653#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Atlético de Madrid-FC Barcelone en Liga ?",
+    "ko": "아틀레티코 대 바르셀로나 라리가 경기 중계 시간·채널은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T07:33:00.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "9aedded7774a",
+    "url": "https://www.theguardian.com/football/2026/nov/08/julian-alvarezs-atletico-redemption-arc-in-full-focus-for-visit-of-barcelona",
+    "title": "Julián Alvarez’s Atlético redemption arc in full focus for visit of Barcelona",
+    "ko": "알바레스, 친정 아틀레티코 상대로 바르셀로나전 복귀전",
+    "source": "guardian",
+    "publishedAt": "2026-11-08T08:00:35.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": "Sid Lowe in Madrid",
+    "transfer": null
+   },
+   {
+    "id": "bff10cf485b4",
+    "url": "https://as.com/futbol/primera/atletico-barcelona-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+    "title": "Atlético-Barcelona, en directo: LaLiga EA Sports, hoy en vivo",
+    "ko": "아틀레티코-바르셀로나 라리가 경기 실시간 중계",
+    "source": "as",
+    "publishedAt": "2026-11-08T12:15:01.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alberto P. Sierra",
+    "transfer": null
+   },
+   {
+    "id": "548469fadc44",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/20261108-131641-atletico-madrid-barcelona-em-direto",
+    "title": "Atlético Madrid-Barcelona, em direto",
+    "ko": "아틀레티코 마드리드 대 바르셀로나 라이브",
+    "source": "record",
+    "publishedAt": "2026-11-08T18:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5f7df72a5162",
+    "url": "https://www.kicker.de/atl-madrid-gegen-barcelona-2026-la-liga-5223903/spielbericht#omrss",
+    "title": "LIVE! Nach Bayern-Pleite: Atletico gegen Spitzenreiter Barcelona gefordert",
+    "ko": "바이에른 패배 후 아틀레티코, 선두 바르셀로나 상대",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T18:57:17.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona",
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7c538ede3526",
+    "url": "https://www.lequipe.fr/Football/match-direct/championnat-d-espagne/2026-2027/atletico-de-madrid-fc-barcelone-live/693187#at_medium=RSS_feeds",
+    "title": "Les compos d'Atlético de Madrid-FC Barcelone",
+    "ko": "아틀레티코 대 바르셀로나 선발 라인업 공개",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T19:37:00.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3f3cd517126b",
+    "url": "https://as.com/futbol/primera/polemica-analisis-y-reacciones-del-atletico-barcelona-de-laliga-ea-sports-f202611-d/",
+    "title": "Polémica, análisis y reacciones del Atlético - Barcelona de LaLiga EA Sports",
+    "ko": "아틀레티코 대 바르셀로나 라리가 경기 논란과 반응 분석",
+    "source": "as",
+    "publishedAt": "2026-11-08T20:01:24.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Raúl Ramírez",
+    "transfer": null
+   },
+   {
+    "id": "ddddd38eebfb",
+    "url": "https://www.kicker.de/blitzsauber-gekontert-simeone-trifft-zur-atletico-fuehrung-1269930/video#omrss",
+    "title": "Blitzsauber gekontert: Simeone trifft zur Atletico-Führung",
+    "ko": "시메오네, 아틀레티코 선제골 직접 성공",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T20:16:44.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "af67fc893fb2",
+    "url": "https://www.kicker.de/geniale-vorlage-von-lamine-yamal-fermin-dreht-partie-mit-doppelpack-1269957/video#omrss",
+    "title": "Geniale Vorlage von Lamine Yamal: Fermin dreht Partie mit Doppelpack",
+    "ko": "페르민 로페스 멀티골 뒤 라민 야말 패스 조명",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T21:32:20.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민 로페스",
+     "라민 야말"
+    ],
+    "playerTags": [
+     "lamine-yamal"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "24a71748d3ce",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-fc-barcelone-remporte-le-choc-de-liga-contre-l-atletico-de-madrid-grace-a-un-double-de-fermin-lopez/1742385#at_medium=RSS_feeds",
+    "title": "Le FC Barcelone remporte le choc de Liga contre l'Atlético de Madrid grâce à un doublé de Fermin Lopez",
+    "ko": "바르셀로나, 페르민 로페스 멀티골로 아틀레티코 격파",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T21:56:35.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민 로페스"
+    ],
+    "playerTags": [],
+    "author": "Antoine Maumon de Longevialle",
+    "transfer": null
+   },
+   {
+    "id": "f2fe0d370b35",
+    "url": "https://www.nytimes.com/athletic/7764835/2026/11/08/atletico-madrid-barcelona-result-reaction-analysis/",
+    "title": "Atletico Madrid 1 Barcelona 2: Fermin Lopez's double seals key comeback victory",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-08T21:57:37.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민 로페스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "aab8d5ae6a2a",
+    "url": "https://as.com/futbol/videos/resumen-y-goles-del-atletico-de-madrid-vs-barcelona-jornada-12-de-laliga-ea-sports-f202611-v/",
+    "title": "Resumen y goles del Atlético de Madrid vs. Barcelona, jornada 12 de LaLiga EA Sports",
+    "ko": "아틀레티코 대 바르셀로나 하이라이트, 라리가 12라운드",
+    "source": "as",
+    "publishedAt": "2026-11-08T21:58:26.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "LALIGA",
+    "transfer": null
+   },
+   {
+    "id": "eb7a67089c1c",
+    "url": "https://as.com/futbol/primera/atletico-fue-bonito-mientras-duro-f202611-n/",
+    "title": "Atlético, fue bonito mientras duró",
+    "ko": "아틀레티코, 바르셀로나전 좋았던 시간 회고",
+    "source": "as",
+    "publishedAt": "2026-11-08T21:59:46.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "F.J. Díaz",
+    "transfer": null
+   },
+   {
+    "id": "6c7fde06c66e",
+    "url": "https://as.com/futbol/primera/1x1-del-atletico-barrios-no-es-suficiente-julian-es-presa-de-la-desconfianza-f202611-n/",
+    "title": "1x1 del Atlético: Barrios no es suficiente, Julián es presa de la desconfianza",
+    "ko": "아틀레티코 1대1 평점, 바리오스 부족·훌리안 부진",
+    "source": "as",
+    "publishedAt": "2026-11-08T22:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바리오스",
+     "훌리안"
+    ],
+    "playerTags": [],
+    "author": "Sergio Picos",
+    "transfer": null
+   },
+   {
+    "id": "dcf640149ce5",
+    "url": "https://as.com/futbol/primera/julian-perdona-fermin-no-f202611-n/",
+    "title": "Julián perdona y Fermín, no",
+    "ko": "훌리안 놓치고 페르민은 해결…아틀레티코 바르셀로나전 쓴맛",
+    "source": "as",
+    "publishedAt": "2026-11-08T22:09:43.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "훌리안 알바레스",
+     "페르민 로페스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": "Patricia Cazón",
+    "transfer": null
+   },
+   {
+    "id": "eea86373bc87",
+    "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+    "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+    "ko": "바르셀로나, 페르민 로페스 멀티골로 아틀레티코 꺾고 선두 도약",
+    "source": "guardian",
+    "publishedAt": "2026-11-08T22:27:50.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민 로페스"
+    ],
+    "playerTags": [],
+    "author": "Sid Lowe at the Riyadh Air Metropolitano",
+    "transfer": null
+   },
+   {
+    "id": "a015a1bdca71",
+    "url": "https://as.com/futbol/aprobados-y-suspensos-del-barca-ante-el-atletico-fermin-hace-de-julian-f202611-n/",
+    "title": "Aprobados y suspensos del Barça ante el Atlético: Fermín hace de Julián",
+    "ko": "바르사, 아틀레티코전 선수 평점 …페르민이 훌리안 역할",
+    "source": "as",
+    "publishedAt": "2026-11-08T22:31:49.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민"
+    ],
+    "playerTags": [],
+    "author": "Javier Miguel",
+    "transfer": null
+   },
+   {
+    "id": "0deb8a842b4e",
+    "url": "https://www.kicker.de/doppelter-fermin-barca-dreht-rueckstand-gegen-atletico-1269982/video#omrss",
+    "title": "Doppelter Fermin: Barca dreht Rückstand gegen Atletico",
+    "ko": "페르민 두 골, 바르셀로나 아틀레티코 상대 역전",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T22:52:24.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f62a20afe0c8",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+    "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+    "ko": "바르셀로나, 페르민 두 골로 아틀레티코 격파 역전승",
+    "source": "bbc",
+    "publishedAt": "2026-11-08T23:41:30.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b4357d7a0ac8",
+    "url": "https://www.lequipe.fr/Football/Actualites/Auteur-d-un-double-face-a-l-atletico-de-madrid-fermin-lopez-est-un-joyau-dans-l-ombre-des-stars-du-fc-barcelone/1742415#at_medium=RSS_feeds",
+    "title": "Auteur d'un doublé face à l'Atlético de Madrid, Fermin Lopez est un joyau dans l'ombre des stars du FC Barcelone",
+    "ko": "페르민 로페스, 아틀레티코 상대 멀티골로 바르사 핵심 자원 부상",
+    "source": "lequipe",
+    "publishedAt": "2026-11-09T06:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페르민 로페스"
+    ],
+    "playerTags": [],
+    "author": "Antoine Simonneau",
+    "transfer": null
+   },
+   {
+    "id": "5c0324b999a1",
+    "url": "https://www.record.pt/internacional/paises/espanha/atletico-madrid/detalhe/o-reencontro-de-julian-alvarez-com-o-barcelona-assobios-falhanco-assistencia-e-defesa-de-simeone",
+    "title": "O reencontro de Julián Álvarez com o Barcelona: assobios, falhanço, assistência e defesa de Simeone",
+    "ko": "훌리안 알바레스, 옛 바르셀로나戰서 야유 속 도움",
+    "source": "record",
+    "publishedAt": "2026-11-09T07:51:00.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico",
+     "barcelona"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 7,
+  "sourceCount": 7,
+  "score": 3.55,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "lamine-yamal",
+   "julian-alvarez"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-07T09:11:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "Barcelona fight back to beat Atleti as Fermin scores twice"
+ },
+ {
+  "slug": "newcastle-manager-future",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 야이슬레 감독 거취 논란",
+  "createdAt": "2026-11-03T07:50:00.000Z",
+  "updatedAt": "2026-11-09T07:45:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "newcastle",
+   "everton"
+  ],
+  "players": [
+   "션 스테이어",
+   "엘랑가",
+   "바리",
+   "파비안 셰어",
+   "션 스테우르",
+   "하비 반스",
+   "번",
+   "잭 머피"
+  ],
+  "sig": [
+   "steur",
+   "matthias",
+   "jaissle"
+  ],
+  "articles": [
+   {
+    "id": "019ff1459e58",
+    "url": "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report",
+    "title": "Newcastle unrest grows as Barry and Everton give Jaissle another headache",
+    "ko": "뉴캐슬 내부 불만 확산, 에버턴 승리로 자이슬 감독 또 골치",
+    "source": "guardian",
+    "publishedAt": "2026-11-02T22:04:11.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바리"
+    ],
+    "playerTags": [],
+    "author": "Miles Starforth at St James' Park",
+    "transfer": null,
+    "clubs": [
+     "newcastle",
+     "everton"
+    ]
+   },
+   {
+    "id": "eea1440dd780",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-says-newcastle-united-34853455",
+    "title": "Matthias Jaissle says Newcastle United stars IGNORED tactical plan in alarming Press conference",
+    "ko": "야이슬레, 뉴캐슬 선수들이 전술 계획 무시했다고 발언",
+    "source": "chronicle",
+    "publishedAt": "2026-11-02T23:07:24.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "7692e63cc79f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
+    "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+    "ko": "뉴캐슬 홈 부진 계속, 야이슬레 감독 고전",
+    "source": "bbc",
+    "publishedAt": "2026-11-02T23:53:46.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "77526a94be9a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/sean-steur-crowd-chant-highlights-34852541",
+    "title": "Sean Steur crowd chant highlights Newcastle decision Matthias Jaissle can no longer shy away from",
+    "ko": "뉴캐슬, 야이슬레 감독 결정 피하기 어려운 상황",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T07:50:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "션 스테우르"
+    ],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "5acc00adadaf",
+    "url": "https://www.thesun.co.uk/sport/40891432/matthias-jaissle-tactics-note-pitch-newcastle-everton/",
+    "title": "Sky Sports cameras show discarded Newcastle tactics note on pitch as boss Jaissle accuses stars of ‘ignoring’ gameplan",
+    "ko": "뉴캐슬 경기장에 버려진 전술 메모, 야이슬레 감독 선수들 무시 비판",
+    "source": "sun",
+    "publishedAt": "2026-11-03T09:44:53.000Z",
+    "credited": "스카이 스포츠",
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "James Graham",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "7325a0c5cb8a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/fabian-schar-dumps-matthias-jaissles-34853509",
+    "title": "Fabian Schar dumps Matthias Jaissle's tactical note as Newcastle United's extreme plan backfires",
+    "ko": "파비안 셰어, 뉴캐슬 전술 메모 무시하며 전술 실패 지적",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T10:00:00.000Z",
+    "credited": null,
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파비안 셰어"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "71728d1ef71d",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-make-firm-matthias-jaissle-sack-call-after-fans-rage-expert",
+    "title": "Newcastle make 'firm' Matthias Jaissle sack call after fans rage - expert",
+    "ko": "뉴캐슬, 야이슬레 경질 요구 쇄도에 감독 교체 검토 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-03T13:30:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "fd747920caa6",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-clocks-turned-back-mike-34854424",
+    "title": "Newcastle clocks have turned back to Mike Ashley era with sheer dross being served up",
+    "ko": "뉴캐슬, 마이크 애슐리 시대로 회귀한 듯한 부진한 경기력 지적",
+    "source": "chronicle",
+    "publishedAt": "2026-11-03T18:00:00.000Z",
+    "credited": null,
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "a9c26c413ed6",
+    "url": "https://www.thesun.co.uk/sport/40905522/newcastle-legend-returns-manager/",
+    "title": "Newcastle legend, 46, returns to former club as new manager after cigar-smoking icon snubbed shock job offer",
+    "ko": "뉴캐슬 레전드, 옛 구단 감독으로 복귀 예정",
+    "source": "sun",
+    "publishedAt": "2026-11-03T22:35:58.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4073ec3cb72c",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/never-thought-would-say-matthias-34855540",
+    "title": "I never thought I would say this about Matthias Jaissle's Newcastle United",
+    "ko": "뉴캐슬 야이슬레 감독 체제 평가 변화 조명",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stuart Jamieson",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4d0c4929449d",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-make-matthias-jaissle-34858287",
+    "title": "Newcastle United make Matthias Jaissle future decision as PIF face eye-watering bill",
+    "ko": "뉴캐슬, 야이슬레 거취 결정…PIF 막대한 청구서 직면",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T10:00:00.000Z",
+    "credited": null,
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null,
+    "clubs": [
+     "newcastle"
+    ]
+   },
+   {
+    "id": "4617c563c7ff",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/pifs-backing-matthias-jaissle-comes-34862835",
+    "title": "Why PIF's backing of Matthias Jaissle comes with an asterisk as Newcastle boss still in danger",
+    "ko": "PIF의 야이슬레 지지에 단서…뉴캐슬 감독 여전히 위기",
+    "source": "chronicle",
+    "publishedAt": "2026-11-04T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "41bbc96a581a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/under-fire-matthias-jaissle-given-34861619",
+    "title": "Under-fire Matthias Jaissle given Newcastle United ultimatum after leadership issue",
+    "ko": "뉴캐슬 야이슬레, 리더십 문제 후 최후통첩",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "5089214aa643",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-discovers-old-eddie-34865542",
+    "title": "Matthias Jaissle discovers old Eddie Howe problem at Newcastle United ahead of 2027 reboot",
+    "ko": "뉴캐슬, 제이슬 감독 체제에서 하우 시절 문제 재확인",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T12:09:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "4f748de6d154",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-live-newcastle-united-34866847",
+    "title": "Matthias Jaissle LIVE - Newcastle United boss on pressure, critics, injuries and Fulham response",
+    "ko": "뉴캐슬 야이슬레 감독, 압박·비판·부상·풀럼전 대응 밝혀",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T13:56:58.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null
+   },
+   {
+    "id": "f11c4b873854",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-shuts-down-talk-34867448",
+    "title": "Matthias Jaissle shuts down talk of Newcastle United dressing room unrest with 'unity' message",
+    "ko": "야이슬레, 뉴캐슬 라커룸 불화설 일축…\"단결\" 강조",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T15:13:24.000Z",
+    "credited": "크로니클 라이브",
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "d998c2c5b855",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/rock-star-rocky-road-heres-34868889",
+    "title": "From rock star to rocky road - here's how Matthias Jaissle can come through his greatest challenge",
+    "ko": "야이슬레, 최대 위기 극복 방법은…뉴캐슬 감독 분석",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T17:57:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null
+   },
+   {
+    "id": "fed5ecfd42e7",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-concerned-about-harvey-barnes-he-could-cost-matthias-jaissle-his-job-expert",
+    "title": "Newcastle 'concerned' about Harvey Barnes, he could cost Matthias Jaissle his job - expert",
+    "ko": "뉴캐슬, 하비 반스 우려…야이슬레 경질 위기 거론",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-05T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "하비 반스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "10a46138be6e",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-in-eye-storm-34869467",
+    "title": "Matthias Jaissle 'in eye of the storm' as he retains Newcastle United support amid circus backdrop",
+    "ko": "뉴캐슬 야이슬레, 서커스 같은 분위기 속 팬들의 지지 유지",
+    "source": "chronicle",
+    "publishedAt": "2026-11-05T19:06:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null
+   },
+   {
+    "id": "c27882bf215c",
+    "url": "https://www.mirror.co.uk/sport/football/news/matthias-jaissle-newcastle-players-sack-37848502",
+    "title": "Matthias Jaissle responds to Newcastle sack pressure after players left 'confused'",
+    "ko": "마티아스 야이슬레, 뉴캐슬 경질 압박에 응답",
+    "source": "mirror",
+    "publishedAt": "2026-11-05T20:45:27.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   },
+   {
+    "id": "ff491c2cc5aa",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-boss-matthias-jaissle-could-be-first-premier-league-manager-sacked-sources",
+    "title": "Newcastle boss Matthias Jaissle could be first Premier League manager sacked - Sources",
+    "ko": "뉴캐슬 야이슬레 감독, 프리미어리그 첫 경질 후보로 거론",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-06T09:22:17.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8a5b7a0eca11",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/duncan-ferguson-sends-worrying-matthias-34871616",
+    "title": "Duncan Ferguson sends worrying Matthias Jaissle message after 'battering'",
+    "ko": "던컨 퍼거슨, 야이슬레 '구타' 후 우려 메시지",
+    "source": "chronicle",
+    "publishedAt": "2026-11-06T16:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stuart Jamieson",
+    "transfer": null
+   },
+   {
+    "id": "799861f0eafd",
+    "url": "https://www.theguardian.com/football/2026/nov/06/matthias-jaissle-caught-in-the-storm-as-newcastle-struggle-without-european-fix",
+    "title": "Matthias Jaissle caught in the storm as Newcastle struggle without European fix",
+    "ko": "뉴캐슬, 유럽대회 없이 고전하며 제이슬레 압박",
+    "source": "guardian",
+    "publishedAt": "2026-11-06T19:00:49.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Louise Taylor",
+    "transfer": null
+   },
+   {
+    "id": "3fb8429ffe47",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/dan-burn-answers-burning-matthias-34872478",
+    "title": "Dan Burn answers burning Matthias Jaissle question as he calls out Newcastle United 'mentality'",
+    "ko": "번, 뉴캐슬의 \"멘털\" 지적에 답변… 야이슬레 질문 언급",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "번"
+    ],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null
+   },
+   {
+    "id": "204f6efcc4e5",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissles-two-word-plea-34871179",
+    "title": "Matthias Jaissle's two-word plea to Newcastle United stars after week of turmoil on Tyneside",
+    "ko": "야이슬레, 격동의 주간 뒤 뉴캐슬 선수들에게 짧은 호소",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "4ff1d19e2eb5",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-issues-deadline-success-34877207",
+    "title": "Matthias Jaissle issues deadline for success at Newcastle United and drops formation hint",
+    "ko": "야이슬레, 뉴캐슬 성공 시한 제시하며 포메이션 힌트",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T11:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "9bea088892d3",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-drop-three-surprises-34878317",
+    "title": "Newcastle United drop THREE surprises as Matthias Jaissle gets ruthless with £35m man axed",
+    "ko": "뉴캐슬, 예이슬레 감독 체제서 3명 제외…35m 파운드 선수 방출",
+    "source": "chronicle",
+    "publishedAt": "2026-11-07T14:00:24.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "8bad59f1e024",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/what-egocentric-ref-rob-jones-34879502",
+    "title": "What egocentric ref Rob Jones told angry Matthias Jaissle as Newcastle boss faces touchline ban",
+    "ko": "뉴캐슬 야이슬레, 터치라인 징계 위기…심판과 충돌",
+    "source": "chronicle",
+    "publishedAt": "2026-11-08T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "cfc4044f988d",
+    "url": "https://www.footballinsider247.com/newcastle-united/keep-an-eye-on-this-journalist-drops-newcastle-dressing-room-verdict",
+    "title": "'Keep an eye on this…' - Journalist drops Newcastle dressing room verdict",
+    "ko": "뉴캐슬 라커룸 평가 놓고 기자 주목 당부",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T11:20:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e795e0e6e12a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/eddie-howe-out-newcastle-united-34872072",
+    "title": "Eddie Howe got out of Newcastle United at the right time - he saw the writing on the wall",
+    "ko": "하우, 뉴캐슬 떠난 시점이 적절했다는 평가",
+    "source": "chronicle",
+    "publishedAt": "2026-11-08T16:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stuart Jamieson",
+    "transfer": null
+   },
+   {
+    "id": "8f3c4d6fb520",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/stubborn-matthias-jaissle-lacks-newcastle-34879963",
+    "title": "Stubborn Matthias Jaissle lacks Newcastle United tools so must change plans",
+    "ko": "뉴캐슬, 야이슬레 전술 변화 필요…고집 지적 칼럼",
+    "source": "chronicle",
+    "publishedAt": "2026-11-08T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null
+   },
+   {
+    "id": "a658d15619c7",
+    "url": "https://www.footballinsider247.com/newcastle-united/sources-newcastle-make-clear-matthias-jaissle-sack-call",
+    "title": "Sources: Newcastle make clear Matthias Jaissle sack call",
+    "ko": "뉴캐슬, 마티아스 자일 경질 방침 확고한 것으로 전해져",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-08T19:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cf93d2ba27dc",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-explains-how-newcastle-34880186",
+    "title": "Matthias Jaissle explains how Newcastle United tactics row was lost in translation",
+    "ko": "뉴캐슬 전술 논쟁, 통역 과정에서 오해 빚어져",
+    "source": "chronicle",
+    "publishedAt": "2026-11-09T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "0c76b9d32ee1",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/jacob-murphy-explains-what-matthias-34879821",
+    "title": "Jacob Murphy reveals what Matthias Jaissle's 'vertical football' at Newcastle should look like",
+    "ko": "머피, 뉴캐슬 아이슬레 감독의 수직 축구 방향 설명",
+    "source": "chronicle",
+    "publishedAt": "2026-11-09T07:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "잭 머피"
+    ],
+    "playerTags": [],
+    "author": "Sean McCormick",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 1.27,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스카이 스포츠",
+   "at": "2026-11-02T22:04:11.000Z",
+   "viaQuote": true
+  },
+  "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle"
+ },
+ {
+  "slug": "lens-marseille-2026-11-08",
+  "mode": "llm",
+  "titleKo": "렌스 대 마르세유 경기",
+  "createdAt": "2026-11-08T20:10:36.000Z",
+  "updatedAt": "2026-11-09T07:41:36.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "marseille"
+  ],
+  "players": [
+   "토뱅",
+   "아민 구이리",
+   "타우뱅",
+   "바이두",
+   "드 랑주",
+   "야닉 카위자크",
+   "케일리안 압달라"
+  ],
+  "sig": [
+   "tor",
+   "thauvin",
+   "minute"
+  ],
+  "articles": [
+   {
+    "id": "86df24debd0b",
+    "url": "https://www.kicker.de/lens-marseille-tor-zum-1-1-durch-thauvin-in-der-20-minute-1269926/video#omrss",
+    "title": "Lens - Marseille: Tor zum 1:1 durch Thauvin in der 20. Minute",
+    "ko": "렌스 대 마르세유, 20분 토뱅 동점골로 1-1",
+    "source": "kicker",
+    "publishedAt": "2026-11-08T20:10:36.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "토뱅"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "55127422c3de",
+    "url": "https://www.lequipe.fr/Football/Actualites/Lens-om-le-but-gag-d-amine-gouiri-au-bout-de-deux-minutes-apres-une-grosse-erreur-defensive-de-la-defense-lensoise/1742336#at_medium=RSS_feeds",
+    "title": "Lens-OM : le but gag d'Amine Gouiri au bout de deux minutes après une grosse erreur défensive de la défense lensoise",
+    "ko": "아민 구이리, 렌스전 2분 만에 득점하며 마르세유 선제골",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T20:15:35.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "아민 구이리"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "14138178e380",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-superbe-but-de-florian-thauvin-contre-l-om-en-video/1742374#at_medium=RSS_feeds",
+    "title": "Le superbe but de Florian Thauvin contre l'OM en vidéo",
+    "ko": "타우뱅의 멋진 골, 마르세유전 영상으로 다시 조명",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T21:22:42.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "타우뱅"
+    ],
+    "playerTags": [],
+    "author": "Cyril Olivès",
+    "transfer": null
+   },
+   {
+    "id": "a7ba5b46038f",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-om-enfonce-lens-et-prend-la-quatrieme-place-de-ligue-1/1742378#at_medium=RSS_feeds",
+    "title": "L'OM enfonce Lens et prend la quatrième place de Ligue 1",
+    "ko": "마르세유, 렌스 꺾고 리그1 4위 도약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T21:40:23.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cyril Olivès",
+    "transfer": null
+   },
+   {
+    "id": "1021f1e63e76",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lens-om-baidoo-malheureux-de-lange-precieux/1742398#at_medium=RSS_feeds",
+    "title": "Les notes de Lens-OM : Baidoo malheureux, De Lange précieux",
+    "ko": "렌스-OM 평점, 바이두 불운·드 랑주 빛나",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T22:51:14.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바이두",
+     "드 랑주"
+    ],
+    "playerTags": [],
+    "author": "Simon Bolle",
+    "transfer": null
+   },
+   {
+    "id": "dc8a821a38c2",
+    "url": "https://www.lequipe.fr/Football/Actualites/Bruno-genesio-apres-lens-om-il-faut-savourer-mais-il-faut-etre-vigilants/1742401#at_medium=RSS_feeds",
+    "title": "Bruno Genesio, après Lens-OM : « Il faut savourer, mais il faut être vigilants »",
+    "ko": "게네시오, 렌스-OM 후 '만끽하되 경계해야'",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T23:04:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Simon Bolle",
+    "transfer": null
+   },
+   {
+    "id": "593af409857b",
+    "url": "https://www.lequipe.fr/Football/Actualites/Yannick-cahuzac-pose-un-constat-lucide-apres-la-defaite-de-lens-contre-l-om-on-est-malades/1742402#at_medium=RSS_feeds",
+    "title": "Yannick Cahuzac pose un constat lucide après la défaite de Lens contre l'OM : « On est malades »",
+    "ko": "야닉 카위자크, 렌스 OM전 패배 후 \"우리는 병들었다\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-08T23:09:39.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "야닉 카위자크"
+    ],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "6a6ec78bd17a",
+    "url": "https://www.lequipe.fr/Football/Actualites/Video-le-but-de-la-victoire-de-l-om-a-lens-inscrit-par-keylianne-abdallah-de-retour-apres-sa-retrogradation-en-equipe-reserve/1742434#at_medium=RSS_feeds",
+    "title": "Vidéo : le but de la victoire de l'OM à Lens inscrit par Keylianne Abdallah, de retour après sa rétrogradation en équipe réserve",
+    "ko": "마르세유, 렌스 원정 승리…케일리안 압달라 결승골",
+    "source": "lequipe",
+    "publishedAt": "2026-11-09T07:41:36.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "케일리안 압달라"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.25,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-08T20:10:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "Vidéo : le but de la victoire de l'OM à Lens inscrit par Keylianne Abdallah, de retour après sa rétrogradation en équipe réserve"
+ },
+ {
+  "slug": "porto-reboleira-2026-11-08",
+  "mode": "llm",
+  "titleKo": "포르투 레이보리아 원정 경기 결과",
+  "createdAt": "2026-11-08T22:36:52.000Z",
+  "updatedAt": "2026-11-09T07:40:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [
+   "슈옐데루프",
+   "파블리디스"
+  ],
+  "sig": [
+   "schjelderup",
+   "pavlidis",
+   "reboleira"
+  ],
+  "articles": [
+   {
+    "id": "d614a5c69bf2",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/cruzamento-milimetrico-de-trivela-de-schjelderup-e-pavlidis-resolveu-na-reboleira-aos-90-4",
+    "title": "Cruzamento milimétrico de trivela de Schjelderup e Pavlidis resolveu na Reboleira aos 90'+4",
+    "ko": "포르투, 레이보리아에서 슈옐데루프·파블리디스 연결로 극적 결승골",
+    "source": "record",
+    "publishedAt": "2026-11-08T22:36:52.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "슈옐데루프",
+     "파블리디스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7e0bc2a25950",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/pavlidis-fez-explodir-a-festa-benfiquista-na-reboleira-mas-deixa-aviso-temos-de-ser-melhores",
+    "title": "Pavlidis fez explodir a festa benfiquista na Reboleira, mas deixa aviso: «Temos de ser melhores»",
+    "ko": "파블리디스 결승골, 레보리아 원정 벤피카 축제 분위기",
+    "source": "record",
+    "publishedAt": "2026-11-08T22:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "파블리디스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bfcda90fd524",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/as-reacoes-a-vitoria-do-benfica-na-reboleira-nao-foi-um-jogo-fantastico",
+    "title": "As reações à vitória do Benfica na Reboleira: «Não foi um jogo fantástico...»",
+    "ko": "벤피카, 레이보리아 원정 승리 후 반응 엇갈려",
+    "source": "record",
+    "publishedAt": "2026-11-09T07:40:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.3,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-08T22:36:52.000Z",
+   "viaQuote": false
+  },
+  "headline": "As reações à vitória do Benfica na Reboleira: «Não foi um jogo fantástico...»"
+ },
+ {
+  "slug": "gabriel-mec-injury",
+  "mode": "llm",
+  "titleKo": "가브리엘 메크 근육 부상",
+  "createdAt": "2026-11-09T07:27:00.000Z",
+  "updatedAt": "2026-11-09T07:27:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [
+   "가브리엘"
+  ],
+  "sig": [
+   "mec"
+  ],
+  "articles": [
+   {
+    "id": "65c82b292b11",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/gabriel-mec-sofreu-lesao-muscular-na-coxa-esquerda",
+    "title": "Gabriel Mec sofreu lesão muscular na coxa esquerda",
+    "ko": "가브리엘 메시, 왼쪽 허벅지 근육 부상",
+    "source": "record",
+    "publishedAt": "2026-11-09T07:27:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.38,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-09T07:27:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Gabriel Mec sofreu lesão muscular na coxa esquerda"
  },
  {
   "slug": "arsenal-hull-2026-11-07",
@@ -3846,7 +5170,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 0.49,
+  "score": 0.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3862,572 +5186,6 @@
    "viaQuote": false
   },
   "headline": "Arsenal should have been awarded penalty against Hull - Cann"
- },
- {
-  "slug": "chelsea-sunderland-2026-11-08",
-  "mode": "llm",
-  "titleKo": "첼시 대 선덜랜드 경기 선발 논쟁",
-  "createdAt": "2026-11-04T19:00:00.000Z",
-  "updatedAt": "2026-11-09T07:00:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "조던 헨더슨",
-   "에미 마르티네스",
-   "주앙 아호카",
-   "에스테방",
-   "모이세스 카이세도",
-   "이스테방",
-   "그라니트 자카",
-   "모건 로저스",
-   "브로비",
-   "콜윌",
-   "르 페",
-   "콜 파머",
-   "브라이언 브로비"
-  ],
-  "sig": [
-   "jordan",
-   "henderson",
-   "sunderland"
-  ],
-  "articles": [
-   {
-    "id": "994bf5dffcf9",
-    "url": "https://www.footballinsider247.com/chelsea/chelsea-should-axe-jordan-henderson-vs-sunderland-and-start-78-duel-winner",
-    "title": "Chelsea should axe Jordan Henderson vs Sunderland and start 78% duel winner",
-    "ko": "첼시, 선덜랜드전 조던 헨더슨 대신 78% 경합승 선수 선발 주장",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "조던 헨더슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "326c856ec0a2",
-    "url": "https://www.football.london/chelsea-fc/news/emi-martinez-decision-one-chelsea-34861936",
-    "title": "Emi Martinez decision and one other Chelsea change Xabi Alonso will consider for Sunderland",
-    "ko": "Emi Martinez 결정 포함, 사비 알론소 선덜랜드전 첼시 변화 고려",
-    "source": "fblondon",
-    "publishedAt": "2026-11-05T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에미 마르티네스"
-    ],
-    "playerTags": [],
-    "author": "Bobby Vincent",
-    "transfer": null
-   },
-   {
-    "id": "0104a53c5f4b",
-    "url": "https://www.footballinsider247.com/sunderland/jules-ahoka-sunderland-star-with-100-and-89-stats-can-save-regis-le-bris-vs-chelsea-verdict",
-    "title": "Jules Ahoka: Sunderland star with 100% and 89% stats can save Regis Le Bris vs Chelsea - verdict",
-    "ko": "선덜랜드 주앙 아호카, 첼시전 르 브리스 구할 수 있다는 평가",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-06T19:20:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주앙 아호카"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "05d946d16e34",
-    "url": "https://www.football.london/chelsea-fc/news/chelsea-injury-update-sunderland-alonso-34876903",
-    "title": "Nine players set to miss Sunderland vs Chelsea as Xabi Alonso gives injury update",
-    "ko": "알론소, 선덜랜드전 첼시 결장 선수 9명 부상 업데이트",
-    "source": "fblondon",
-    "publishedAt": "2026-11-07T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Wakefield",
-    "transfer": null
-   },
-   {
-    "id": "c90e674044ac",
-    "url": "https://www.thesun.co.uk/sport/40915368/sunderland-chelsea-bet-builder-tip-paddy-power/",
-    "title": "Sunderland vs Chelsea: Our 7/1 bet builder tip, plus get £50 in free bets | Paddy Power",
-    "ko": "선덜랜드 대 첼시 베트 빌더 추천 배당",
-    "source": "sun",
-    "publishedAt": "2026-11-08T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "d66ca105f664",
-    "url": "https://www.football.london/chelsea-fc/news/predicted-chelsea-team-vs-sunderland-34875016",
-    "title": "Predicted Chelsea team vs Sunderland as Estevao Willian and Moises Caicedo decisions made",
-    "ko": "첼시 대 선덜랜드 예상 선발, 에스테방·카이세도 결정",
-    "source": "fblondon",
-    "publishedAt": "2026-11-08T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에스테방",
-     "모이세스 카이세도"
-    ],
-    "playerTags": [
-     "moises-caicedo",
-     "estevao"
-    ],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "c81f771faf2d",
-    "url": "https://www.thesun.co.uk/sport/40912402/sunderland-chelsea-predictions-bets/",
-    "title": "Sunderland vs Chelsea | Premier League predictions, preview and free bets",
-    "ko": "선덜랜드 대 첼시 프리미어리그 프리뷰·예상 및 무료 베팅",
-    "source": "sun",
-    "publishedAt": "2026-11-08T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "01d20b88a271",
-    "url": "https://www.skysports.com/football/sunderland-vs-chelsea/live/559543",
-    "title": "Henderson returns for Chelsea to face former side Sunderland LIVE!",
-    "ko": "헨더슨 복귀, 전 소속팀 선덜랜드 상대 첼시 선발",
-    "source": "sky",
-    "publishedAt": "2026-11-08T12:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3fe9a563ed50",
-    "url": "https://www.football.london/chelsea-fc/news/breaking-chelsea-team-news-sunderland-34880354",
-    "title": "Xabi Alonso makes two Chelsea changes for Sunderland clash as Estevao decision confirmed",
-    "ko": "사비 알론소, 선덜랜드전 첼시 두 곳 교체…이스테방 기용 확정",
-    "source": "fblondon",
-    "publishedAt": "2026-11-08T12:47:28.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "이스테방"
-    ],
-    "playerTags": [
-     "estevao"
-    ],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "14d46af9b19d",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/20261108-125359-sunderland-chelsea-em-direto",
-    "title": "Sunderland-Chelsea, em direto",
-    "ko": "선덜랜드 대 첼시 경기 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-08T12:53:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dd44e68ea67a",
-    "url": "https://as.com/futbol/internacional/sunderland-chelsea-en-directo-premier-league-hoy-en-vivo-f202611-n/",
-    "title": "Sunderland - Chelsea, en directo: Premier League, hoy en vivo",
-    "ko": "첼시 대 선덜랜드 경기 실시간 중계",
-    "source": "as",
-    "publishedAt": "2026-11-08T13:41:53.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "As.com As.com",
-    "transfer": null
-   },
-   {
-    "id": "9d4c099668b0",
-    "url": "https://www.thesun.co.uk/sport/40958869/granit-xhaka-forced-off-sunderland-chelsea-injury/",
-    "title": "Granit Xhaka forced off after just THREE MINUTES in Sunderland vs Chelsea clash and heads straight down tunnel",
-    "ko": "작사 엑하, 선덜랜드전 3분 만에 교체되어 라커룸行",
-    "source": "sun",
-    "publishedAt": "2026-11-08T14:21:52.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "그라니트 자카"
-    ],
-    "playerTags": [],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "7618c6440886",
-    "url": "https://www.skysports.com/football/sunderland-vs-chelsea/report/559543",
-    "title": "Tepid Chelsea beaten by Sunderland who move off bottom",
-    "ko": "첼시, 최하위 선덜랜드에 패배…미지근한 경기력",
-    "source": "sky",
-    "publishedAt": "2026-11-08T16:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e96960a699b6",
-    "url": "https://www.football.london/chelsea-fc/news/chelsea-player-ratings-vs-sunderland-34880498",
-    "title": "Chelsea player ratings vs Sunderland as 3/10 bullied and Cole Palmer elusive",
-    "ko": "첼시 대 선덜랜드 선수 평점, 팔머는 존재감 미미",
-    "source": "fblondon",
-    "publishedAt": "2026-11-08T16:01:07.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "5635decdf350",
-    "url": "https://www.thesun.co.uk/sport/40959448/sunderland-beat-chelsea-enzo-le-fee/",
-    "title": "Sunderland 1 Chelsea 0: Brobbey’s controversial penalty incident sees Blues go into international break on losing run",
-    "ko": "선덜랜드 1-0 첼시: 브로비 논란의 페널티 장면, 첼시 연패 속 A매치 휴식기 돌입",
-    "source": "sun",
-    "publishedAt": "2026-11-08T16:02:11.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Gary Stonehouse",
-    "transfer": null
-   },
-   {
-    "id": "9fb58890da5e",
-    "url": "https://www.football.london/chelsea-fc/news/chelsea-penalty-brobbey-palmer-var-34881456",
-    "title": "Chelsea handed Cole Palmer and Brian Brobbey penalty VAR verdicts after controversial decisions",
-    "ko": "첼시, 팔머·브로비에 페널티 VAR 판정 논란",
-    "source": "fblondon",
-    "publishedAt": "2026-11-08T16:02:11.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "콜 파머",
-     "브라이언 브로비"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Kieran Horn",
-    "transfer": null
-   },
-   {
-    "id": "8272707d40f1",
-    "url": "https://www.thesun.co.uk/sport/40958747/chelsea-ratings-morgan-rogers-struggles-pep-chavarria-shines/",
-    "title": "Chelsea ratings: Morgan Rogers struggles leading the line as Pep Chavarria a bright spark in otherwise toothless attack",
-    "ko": "첼시 평점: 모건 로저스 최전방 고전, 샤바리아만 빛나",
-    "source": "sun",
-    "publishedAt": "2026-11-08T16:04:04.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "모건 로저스"
-    ],
-    "playerTags": [
-     "morgan-rogers"
-    ],
-    "author": "Mitchell Hall",
-    "transfer": null
-   },
-   {
-    "id": "c5cde6f7237c",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss",
-    "title": "Brobbey wins Colwill battle - player ratings for Sunderland's win over Chelsea",
-    "ko": "브로비, 콜윌과의 맞대결 승리…선덜랜드 첼시 격파 선수 평점",
-    "source": "bbc",
-    "publishedAt": "2026-11-08T16:13:36.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브로비",
-     "콜윌"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b200894041a4",
-    "url": "https://www.footballinsider247.com/chelsea/match/ref-watch-three-jarred-gillett-blunders-in-sunderland-vs-chelsea",
-    "title": "Ref Watch: Three Jarred Gillett blunders in Sunderland vs Chelsea",
-    "ko": "선덜랜드 대 첼시 경기서 심판 실책 3건 지적",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T16:13:48.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f98345ec196f",
-    "url": "https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report",
-    "title": "Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland",
-    "ko": "르 페 페널티킥에 첼시 충격, 선덜랜드 끈질긴 반격",
-    "source": "guardian",
-    "publishedAt": "2026-11-08T16:16:34.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "르 페"
-    ],
-    "playerTags": [],
-    "author": "Andy Brassell at the Stadium of Light",
-    "transfer": null
-   },
-   {
-    "id": "e49266a12980",
-    "url": "https://www.football.london/chelsea-fc/news/breaking-chelsea-sunderland-var-controversy-34881673",
-    "title": "Xabi Alonso furiously points finger at his Chelsea players after Sunderland VAR controversy",
-    "ko": "사비 알론소, 선덜랜드전 VAR 논란 뒤 첼시 선수들에게 분노",
-    "source": "fblondon",
-    "publishedAt": "2026-11-08T16:32:11.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "d4705c4112ef",
-    "url": "https://www.footballinsider247.com/chelsea/jordan-hendersons-reception-xabi-alonso-fury-four-things-you-may-have-missed-from-sunderlands-win-over-chelsea",
-    "title": "Jordan Henderson's reception, Xabi Alonso fury: Four things you may have missed from Sunderland's win over Chelsea",
-    "ko": "선덜랜드, 첼시 격파 뒤 헨더슨 환영·알론소 분노 등 주요 장면",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T16:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "조던 헨더슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "624eaba7086f",
-    "url": "https://www.footballinsider247.com/chelsea/when-you-look-at-the-video-ex-refs-chief-shares-cole-palmer-penalty-verdict-after-re-analysing-chelsea-vs-sunderland-footage",
-    "title": "'When you look at the video...' - Ex-refs chief shares Cole Palmer penalty verdict after re-analysing Chelsea vs Sunderland footage",
-    "ko": "전 심판장, 첼시-선덜랜드전 콜 파머 페널티 재분석 판정",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T18:11:57.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a39f0da293b5",
-    "url": "https://www.footballinsider247.com/sunderland/ex-refs-chief-var-should-have-intervened-over-sunderland-penalty-in-win-vs-chelsea",
-    "title": "Ex-refs chief: VAR should have 'intervened' over Sunderland penalty in win vs Chelsea",
-    "ko": "전 심판장 '첼시전 선덜랜드 페널티, VAR 개입했어야'",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T19:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "25cafca68474",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-    "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-    "ko": "최하위 선덜랜드, 첼시 꺾고 바닥 탈출",
-    "source": "bbc",
-    "publishedAt": "2026-11-08T19:58:31.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f192eeca88d0",
-    "url": "https://www.football.london/chelsea-fc/news/cole-palmer-fails-test-xabi-34881895",
-    "title": "Cole Palmer fails test as Xabi Alonso surrenders 'Mourinho moment' and Chelsea miss unsung hero",
-    "ko": "콜 파머, 알론소 체제 첼시 시험대",
-    "source": "fblondon",
-    "publishedAt": "2026-11-09T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Jake Stokes",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 8,
-  "score": 1.6,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "moises-caicedo",
-   "estevao",
-   "cole-palmer",
-   "morgan-rogers"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-04T19:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Struggling Sunderland beat Chelsea to move off bottom of Premier League"
  },
  {
   "slug": "murillo-man-utd-transfer",
@@ -4502,7 +5260,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.48,
+  "score": 0.38,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4566,7 +5324,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.6,
+  "score": 1.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4635,7 +5393,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.35,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4715,7 +5473,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.38,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4993,7 +5751,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.57,
+  "score": 1.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5781,7 +6539,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 1.59,
+  "score": 1.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5914,7 +6672,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.49,
+  "score": 1.19,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5966,7 +6724,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.15,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6128,7 +6886,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.83,
+  "score": 0.66,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -6632,7 +7390,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 10,
-  "score": 1.35,
+  "score": 1.07,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6715,7 +7473,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.35,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6827,7 +7585,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.71,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7137,7 +7895,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7219,7 +7977,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.95,
+  "score": 0.76,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7340,7 +8098,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.73,
+  "score": 0.58,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -10630,7 +11388,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 15,
-  "score": 1.8,
+  "score": 1.43,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10711,7 +11469,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.13,
+  "score": 0.9,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10891,7 +11649,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 1.13,
+  "score": 0.9,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11108,7 +11866,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.95,
+  "score": 0.76,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11124,303 +11882,6 @@
   "aliases": [
    "estrela-benfica-2026-11-08"
   ]
- },
- {
-  "slug": "szoboszlai-injury",
-  "mode": "llm",
-  "titleKo": "소보슬라이 부상 판단 임박, 리버풀 악재 우려",
-  "createdAt": "2026-11-09T01:00:00.000Z",
-  "updatedAt": "2026-11-09T01:00:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "liverpool"
-  ],
-  "players": [
-   "도미니크 소보슬러이"
-  ],
-  "sig": [
-   "iraola",
-   "dominik",
-   "szoboszlai"
-  ],
-  "articles": [
-   {
-    "id": "3bf7f0bba822",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-hints-liverpool-take-34880338",
-    "title": "Andoni Iraola hints Liverpool will take Dominik Szoboszlai injury decision - 'Last thing we need'",
-    "ko": "소보슬라이 부상 판단 임박, 이라올라 \"지금 가장 필요 없는 일\"",
-    "source": "lecho",
-    "publishedAt": "2026-11-09T01:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "도미니크 소보슬러이"
-    ],
-    "playerTags": [
-     "dominik-szoboszlai"
-    ],
-    "author": "Paul Gorst",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.57,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "dominik-szoboszlai"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-09T01:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Andoni Iraola hints Liverpool will take Dominik Szoboszlai injury decision - 'Last thing we need'"
- },
- {
-  "slug": "crystal-palace-manager-future",
-  "mode": "llm",
-  "titleKo": "크리스털 팰리스 감독 경질 압박 논란",
-  "createdAt": "2026-11-03T17:58:59.000Z",
-  "updatedAt": "2026-11-08T23:53:08.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "crystal-palace"
-  ],
-  "players": [],
-  "sig": [
-   "tuchel",
-   "england",
-   "anthony",
-   "barry",
-   "pierre",
-   "sage"
-  ],
-  "articles": [
-   {
-    "id": "2552add11586",
-    "url": "https://www.mirror.co.uk/sport/football/news/crystal-palace-manager-anthony-barry-37839405",
-    "title": "Thomas Tuchel's No.2 Anthony Barry emerges as frontrunner for Crystal Palace job",
-    "ko": "앤서니 배리, 크리스털 팰리스 감독직 유력 후보로 부상",
-    "source": "mirror",
-    "publishedAt": "2026-11-03T16:07:45.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Gorst",
-    "transfer": null,
-    "clubs": [
-     "crystal-palace"
-    ]
-   },
-   {
-    "id": "22de5b389881",
-    "url": "https://www.thesun.co.uk/sport/40898641/anthony-barry-crystal-palace-job-england-thomas-tuchel/",
-    "title": "Thomas Tuchel’s England assistant Anthony Barry ‘frontrunner for Crystal Palace job with Pierre Sage under pressure’",
-    "ko": "튀헬 잉글랜드 코치 배리, 크리스털 팰리스 감독직 유력 후보",
-    "source": "sun",
-    "publishedAt": "2026-11-03T17:58:59.000Z",
-    "credited": null,
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null,
-    "clubs": [
-     "crystal-palace"
-    ]
-   },
-   {
-    "id": "8aa884f91fb5",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-downfall-traced-back-to-two-players-by-ex-chief-scout",
-    "title": "Crystal Palace downfall traced back to two players by ex-chief scout",
-    "ko": "크리스털 팰리스 몰락, 전 스카우트 책임자가 선수 두 명 지목",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-03T20:00:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "crystal-palace"
-    ]
-   },
-   {
-    "id": "30d281c5c27b",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-hold-preliminary-talks-with-thomas-frank",
-    "title": "Sources: Crystal Palace hold preliminary talks with Thomas Frank",
-    "ko": "크리스털 팰리스, 토마스 프랑크와 예비 접촉 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-04T18:48:17.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cd1b8a3a0170",
-    "url": "https://www.mirror.co.uk/sport/football/news/pierre-sage-crystal-palace-sack-37856231",
-    "title": "Defiant Pierre Sage responds to sack pressure after Crystal Palace hit rock bottom",
-    "ko": "사주, 크리스털 팰리스 바닥 성적 속 경질 압박에 반박",
-    "source": "mirror",
-    "publishedAt": "2026-11-08T17:41:27.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Cross",
-    "transfer": null
-   },
-   {
-    "id": "9321706e9119",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&at_campaign=rss",
-    "title": "Palace consider replacing Sage with Frank among contenders",
-    "ko": "팰리스, 세이지 대체 후보로 프랭크 검토",
-    "source": "bbc",
-    "publishedAt": "2026-11-08T20:49:40.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "770820ed44c7",
-    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
-    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
-    "ko": "프랭크, 크리스털 팰리스 감독 최有력 후보…세이지 해고 유력",
-    "source": "sky",
-    "publishedAt": "2026-11-08T20:56:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a112f3e13ad5",
-    "url": "https://www.thesun.co.uk/sport/40962840/crystal-palace-ready-to-sack-pierre-sage/",
-    "title": "Crystal Palace ‘ready to sack Pierre Sage’ after woeful start to season with two immediate frontrunners to replace him",
-    "ko": "크리스털 팰리스, 부진 속 사주 감독 경질 준비 보도",
-    "source": "sun",
-    "publishedAt": "2026-11-08T21:12:46.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jo Aujla",
-    "transfer": null
-   },
-   {
-    "id": "0042e68b98e4",
-    "url": "https://www.lequipe.fr/Football/Video/Premier-league-pierre-sage-sur-son-avenir-mon-poste-n-est-pas-ce-qu-il-y-a-de-plus-important/20245182#at_medium=RSS_feeds",
-    "title": "Pierre Sage sur son avenir : « Mon poste n’est pas ce qu’il y a de plus important »",
-    "ko": "피에르 세이지, 자신의 거취에 \"감독직이 가장 중요한 건 아니다\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T22:07:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "05820fa1a29c",
-    "url": "https://www.theguardian.com/football/2026/nov/08/crystal-palace-pierre-sage-thomas-frank-main-candidate-manager-selhurst-park",
-    "title": "Crystal Palace poised to sack Pierre Sage and target Frank after Liverpool defeat",
-    "ko": "크리스털 팰리스, 리버풀 패배 후 세이지 경질 임박…프랭크 물망",
-    "source": "guardian",
-    "publishedAt": "2026-11-08T22:12:58.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ed Aarons",
-    "transfer": null
-   },
-   {
-    "id": "6465b7103b79",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&at_campaign=rss",
-    "title": "'A horrible place to be' - What's gone wrong for Palace?",
-    "ko": "팰리스 무엇이 잘못됐나, '끔찍한 상황'",
-    "source": "bbc",
-    "publishedAt": "2026-11-08T23:53:08.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 7,
-  "score": 1.47,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-03T16:07:45.000Z",
-   "viaQuote": false
-  },
-  "headline": "'A horrible place to be' - What's gone wrong for Palace?"
  },
  {
   "slug": "santa-clara-gil-vicente-2026-11-08",
@@ -11505,7 +11966,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11557,7 +12018,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11698,7 +12159,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.38,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11752,7 +12213,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11803,7 +12264,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11936,9 +12397,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.91,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12035,7 +12496,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12086,7 +12547,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12159,7 +12620,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12212,7 +12673,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12282,9 +12743,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.62,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12333,7 +12794,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12380,9 +12841,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12436,9 +12897,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12531,9 +12992,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.3,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12594,9 +13055,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12639,9 +13100,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12701,9 +13162,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12803,9 +13264,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12858,9 +13319,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12920,9 +13381,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13245,9 +13706,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 6,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13323,9 +13784,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13382,9 +13843,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13434,9 +13895,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13516,9 +13977,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13590,9 +14051,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15919,351 +16380,6 @@
    "viaQuote": false
   },
   "headline": "Liverpool have rediscovered their character under Andoni Iraola - but horror stat needs addressing"
- },
- {
-  "slug": "neuer-injury",
-  "mode": "llm",
-  "titleKo": "노이어 기록 달성 직후 또 부상",
-  "createdAt": "2026-11-03T23:21:27.000Z",
-  "updatedAt": "2026-11-08T17:46:55.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "bayern",
-   "mainz"
-  ],
-  "players": [
-   "노이어",
-   "요주아 키미히",
-   "우르비그",
-   "마누엘 노이어"
-  ],
-  "sig": [
-   "habe",
-   "morgen",
-   "schmerzen",
-   "gehen"
-  ],
-  "articles": [
-   {
-    "id": "c55ca8f3a10c",
-    "url": "https://www.tz.de/sport/fc-bayern/manuel-neuer-gibt-emotionale-einblicke-in-seine-verletzungspause-94572895.html",
-    "title": "Manuel Neuer gibt emotionale Einblicke in seine Verletzungspause",
-    "ko": "노이어, 부상 공백 중 솔직한 속내 공개",
-    "source": "tz",
-    "publishedAt": "2026-11-03T22:59:23.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "d264c16c5f1c",
-    "url": "https://www.kicker.de/neuer-gesteht-habe-auch-heute-morgen-wieder-schmerzen-beim-gehen-gehabt-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Habe auch heute Morgen wieder Schmerzen beim Gehen gehabt\"",
-    "ko": "노이어 \"오늘 아침에도 걸을 때 통증 있었다\" 고백",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "7b016211a0e7",
-    "url": "https://www.kicker.de/neuer-gesteht-hatte-auch-heute-morgen-wieder-schmerzen-beim-gehen-1268274/artikel#omrss",
-    "title": "Neuer gesteht: \"Hatte auch heute Morgen wieder Schmerzen beim Gehen\"",
-    "ko": "노이어 \"오늘 아침에도 걸을 때 통증이 있었다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-03T23:21:27.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": [
-     "bayern"
-    ]
-   },
-   {
-    "id": "dfbef57c2979",
-    "url": "https://www.tz.de/sport/fc-bayern/neuer-jubilaeum-endet-vorzeitig-mit-naechster-verletzung-zr-94579049.html",
-    "title": "Neuer-Jubiläum endet vorzeitig mit nächster Verletzung",
-    "ko": "노이어 기록 달성 직후 또 부상, 복귀 일정 차질",
-    "source": "tz",
-    "publishedAt": "2026-11-07T16:29:22.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Sebastian Isbaner",
-    "transfer": null
-   },
-   {
-    "id": "e505e1df42e1",
-    "url": "https://www.theguardian.com/football/2026/nov/07/european-football-bayern-beat-mainz-but-neuers-record-breaking-day-turns-sour",
-    "title": "European football: Bayern beat Mainz but Neuer’s record-breaking day turns sour",
-    "ko": "바이에른, 마인츠 격파…노이어 기록일 부상으로 씁쓸",
-    "source": "guardian",
-    "publishedAt": "2026-11-07T17:13:48.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern",
-     "mainz"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Reuters",
-    "transfer": null
-   },
-   {
-    "id": "27db21e03d04",
-    "url": "https://www.kicker.de/kimmich-hat-bei-neuer-kein-gutes-gefuehl-wenn-er-rausgeht-dann-ist-es-wahrscheinlich-etwas-ernsthaftes-1269459/artikel#omrss",
-    "title": "Kimmich hat bei Neuer kein gutes Gefühl: \"Wenn er rausgeht, dann ist es wahrscheinlich etwas Ernsthaftes\"",
-    "ko": "키미히 \"노이어 교체 아웃이면 심각할 것\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T17:19:20.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "요주아 키미히",
-     "노이어"
-    ],
-    "playerTags": [
-     "joshua-kimmich"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3ee5baaf7f75",
-    "url": "https://www.kicker.de/neuer-sucht-spezialisten-auf-und-muss-sich-fragen-gefallen-lassen-1269677/artikel#omrss",
-    "title": "Neuer sucht Spezialisten auf - und muss sich Fragen gefallen lassen",
-    "ko": "노이어, 전문의 찾아 나서…질문 쏟아져",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T09:45:35.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cdff9cd1ea38",
-    "url": "https://www.tz.de/sport/fc-bayern/muss-bayern-nach-erneuter-neuer-verletzung-auf-urbig-setzen-94579382.html",
-    "title": "Muss Bayern nach der nächsten Neuer-Verletzung auf Urbig setzen? Eberl wird deutlich",
-    "ko": "노이어 또 부상, 바이에른 우르비그 선발 불가피하나",
-    "source": "tz",
-    "publishedAt": "2026-11-08T09:55:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어",
-     "우르비그"
-    ],
-    "playerTags": [],
-    "author": "Manuel Bonke",
-    "transfer": null
-   },
-   {
-    "id": "f21c7bf3c395",
-    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/neuer-sofre-nova-lesao-em-dia-historico-no-bayern",
-    "title": "Neuer sofre nova lesão em dia histórico no Bayern",
-    "ko": "노이어, 역사적인 날 바이에른서 또 부상",
-    "source": "record",
-    "publishedAt": "2026-11-08T09:58:55.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3381668a14e7",
-    "url": "https://www.kicker.de/sehnenteilriss-im-fuss-neuer-fehlt-bayern-erneut-1269512/artikel#omrss",
-    "title": "Sehnenteilriss im Fuß: Neuer fehlt Bayern erneut",
-    "ko": "노이어, 발 힘줄 부상으로 바이에른 이탈",
-    "source": "kicker",
-    "publishedAt": "2026-11-08T12:41:58.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마누엘 노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "4bb86afcc436",
-    "url": "https://as.com/futbol/internacional/neuer-no-levanta-cabeza-f202611-n/",
-    "title": "Neuer no levanta cabeza",
-    "ko": "노이어, 부진에서 좀처럼 벗어나지 못해",
-    "source": "as",
-    "publishedAt": "2026-11-08T13:25:37.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "José Carlos Menzel",
-    "transfer": null
-   },
-   {
-    "id": "c4d96470e1d0",
-    "url": "https://www.lequipe.fr/Football/Actualites/Nouveau-coup-dur-pour-le-bayern-munich-et-manuel-neuer-victime-d-une-dechirure-partielle-d-un-tendon-au-pied-droit/1742209#at_medium=RSS_feeds",
-    "title": "Nouveau coup dur pour le Bayern Munich et Manuel Neuer, victime d'une déchirure partielle d'un tendon au pied droit",
-    "ko": "노이어, 오른발 힘줄 부분 파열로 또 부상",
-    "source": "lequipe",
-    "publishedAt": "2026-11-08T13:52:43.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Arthur Verdelet",
-    "transfer": null
-   },
-   {
-    "id": "0a6a3d371324",
-    "url": "https://www.tz.de/sport/fc-bayern/vaterfigur-manuel-neuer-muss-jetzt-groesse-zeigen-94580037.html",
-    "title": "Der tz-Kommentar zu Manuel Neuer: Die Vaterfigur muss jetzt Größe zeigen!",
-    "ko": "tz 칼럼 \"노이어, 이제 위엄 보여줄 때\"",
-    "source": "tz",
-    "publishedAt": "2026-11-08T17:14:32.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마누엘 노이어"
-    ],
-    "playerTags": [],
-    "author": "Manuel Bonke",
-    "transfer": null
-   },
-   {
-    "id": "9d0586132996",
-    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/manuel-neuer-sofreu-uma-rotura-parcial-do-tendao-do-pe",
-    "title": "Manuel Neuer sofreu uma rotura parcial do tendão do pé",
-    "ko": "노이어, 발 힘줄 부분 파열 진단",
-    "source": "record",
-    "publishedAt": "2026-11-08T17:16:51.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마누엘 노이어"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b313aae7dea5",
-    "url": "https://www.tz.de/sport/fc-bayern/verletzter-manuel-neuer-wendet-sich-mit-botschaft-an-bayern-fans-94580072.html",
-    "title": "Neuer wendet sich nach Verletzung mit kämpferischer Botschaft an Bayern-Fans",
-    "ko": "노이어, 부상 뒤 바이에른 팬에게 투지 메시지",
-    "source": "tz",
-    "publishedAt": "2026-11-08T17:46:55.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Stefan Schmid",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 6,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "joshua-kimmich"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-03T22:59:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Neuer wendet sich nach Verletzung mit kämpferischer Botschaft an Bayern-Fans"
  },
  {
   "slug": "liverpool-arsenal-2026-11-08",
