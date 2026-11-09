@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T14:48:15.898Z",
+ "updatedAt": "2026-11-09T15:51:22.245Z",
  "hot": [
   "carrick-manager-future",
   "oviedo-manager-appointment",
@@ -27,25 +27,26 @@
   "2026-11-06",
   "2026-11-07",
   "2026-11-08",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 71,
-   "added": 1,
+   "items": 74,
+   "added": 5,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 3,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,13 +82,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 78
   },
   "fblondon": {
@@ -99,13 +100,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -129,13 +130,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -147,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -159,13 +160,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 4,
    "authorRate": 93
   },
   "star": {
@@ -177,13 +178,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 0,
+   "items": 11,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -210,7 +211,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 13
+   "count": 14
   },
   {
    "name": "프레스티아니",
@@ -229,6 +230,10 @@
    "count": 10
   },
   {
+   "name": "도르구",
+   "count": 8
+  },
+  {
    "name": "해밀턴",
    "count": 8
   },
@@ -242,10 +247,6 @@
   },
   {
    "name": "바레바",
-   "count": 7
-  },
-  {
-   "name": "도르구",
    "count": 7
   },
   {
@@ -310,8 +311,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 245,
-  "singleArticleRate": 35,
+  "recentIssues": 243,
+  "singleArticleRate": 34,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -319,7 +320,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 36
+    "count": 37
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -403,11 +404,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르쿠 시우바",
-     "count": 5
+     "ko": "마르코 실바",
+     "count": 4
     },
     {
-     "ko": "마르코 실바",
+     "ko": "마르쿠 시우바",
      "count": 4
     },
     {
@@ -609,24 +610,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 5
-    },
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -682,6 +665,24 @@
     },
     {
      "ko": "튈레망스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "투헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -761,6 +762,20 @@
     {
      "ko": "파리오리",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 4
+    },
+    {
+     "ko": "샤비",
+     "count": 1
     }
    ]
   },
@@ -909,24 +924,6 @@
    ]
   },
   {
-   "en": "Gosens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "고센스",
-     "count": 2
-    },
-    {
-     "ko": "괴스엔스",
-     "count": 1
-    },
-    {
-     "ko": "고젠스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -1013,6 +1010,24 @@
    ]
   },
   {
+   "en": "Noni Madueke",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마두에케",
+     "count": 2
+    },
+    {
+     "ko": "노니 마두에케",
+     "count": 1
+    },
+    {
+     "ko": "노니 매덕스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ivan Leko",
    "dictionary": null,
    "variants": [
@@ -1022,24 +1037,6 @@
     },
     {
      "ko": "이보 레코",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jobe Bellingham",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이브 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "조베 벨링엄",
-     "count": 1
-    },
-    {
-     "ko": "잡 벨링엄",
      "count": 1
     }
    ]
@@ -1082,20 +1079,6 @@
     },
     {
      "ko": "잔루이지 도나룸마",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Emi Martinez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에미 마르티네스",
-     "count": 2
-    },
-    {
-     "ko": "에밀리아노 마르티네스",
      "count": 1
     }
    ]
@@ -1279,6 +1262,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Uli Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "울리 회네스",
+     "count": 2
+    },
+    {
+     "ko": "회이네스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1325,6 +1322,10 @@
   "2026-11-09": {
    "collected": 936,
    "llm": 936
+  },
+  "2026-11-10": {
+   "collected": 38,
+   "llm": 38
   }
  },
  "llmErrors": []

@@ -1,10 +1,311 @@
 [
  {
+  "slug": "gabriel-man-utd-transfer",
+  "mode": "llm",
+  "titleKo": "맨유 J.J. 가브리엘 영입 관심",
+  "createdAt": "2026-11-08T05:30:00.000Z",
+  "updatedAt": "2026-11-09T15:40:09.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "man-utd",
+   "real-madrid"
+  ],
+  "players": [
+   "J.J. 가브리엘",
+   "JJ 가브리엘"
+  ],
+  "sig": [
+   "mourinho",
+   "gabriel"
+  ],
+  "articles": [
+   {
+    "id": "762678de410e",
+    "url": "https://www.mirror.co.uk/sport/football/news/mourinho-man-utd-jj-gabriel-37844941",
+    "title": "Jose Mourinho's first act as Man Utd boss offers JJ Gabriel hope after transfer wish granted",
+    "ko": "무리뉴, 맨유 감독 첫 결정으로 제이제이 가브리엘 이적 희망 실현 암시",
+    "source": "mirror",
+    "publishedAt": "2026-11-08T05:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "맨유"
+    }
+   },
+   {
+    "id": "f73c795f22e8",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-utd-mourinho-34866000",
+    "title": "Jose Mourinho has told JJ Gabriel what he wants to hear as Man United exit nears",
+    "ko": "무리뉴, JJ 가브리엘에게 원하는 말 전달…맨유 이적 임박",
+    "source": "men",
+    "publishedAt": "2026-11-08T06:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "맨유"
+    }
+   },
+   {
+    "id": "e898cf212c78",
+    "url": "https://as.com/futbol/internacional/el-plan-jj-gabriel-al-detalle-f202611-n/",
+    "title": "El plan JJ Gabriel, al detalle",
+    "ko": "JJ 가브리엘 영입 계획 자세히 조명",
+    "source": "as",
+    "publishedAt": "2026-11-09T10:36:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "J.J. 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Aritz Gabilondo",
+    "transfer": {
+     "player": "J.J. 가브리엘",
+     "from": null,
+     "to": "맨유"
+    }
+   },
+   {
+    "id": "a51a89ec9909",
+    "url": "https://www.thesun.co.uk/sport/40966513/real-madrid-jj-gabriel-manchester-united-father/",
+    "title": "Real Madrid surprised by JJ Gabriel comment ahead of Man Utd exit with club wary of dad’s reputation",
+    "ko": "JJ 가브리엘 발언에 레알 당황, 맨유 이탈 임박",
+    "source": "sun",
+    "publishedAt": "2026-11-09T15:40:09.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Samuel Luckhurst",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 4,
+  "score": 1.39,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "762678de410e",
+    "at": "2026-11-08T05:30:00.000Z",
+    "source": "mirror",
+    "from": null,
+    "to": "interest"
+   },
+   {
+    "id": "f73c795f22e8",
+    "at": "2026-11-08T06:30:00.000Z",
+    "source": "men",
+    "from": "interest",
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": {
+   "from": "interest",
+   "to": "negotiation",
+   "at": "2026-11-08T06:30:00.000Z",
+   "source": "men"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "J.J. 가브리엘",
+   "from": "맨유",
+   "to": "맨유"
+  },
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-08T05:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "El plan JJ Gabriel, al detalle"
+ },
+ {
+  "slug": "gabriel-mec-injury",
+  "mode": "llm",
+  "titleKo": "가브리엘 메크 근육 부상",
+  "createdAt": "2026-11-09T07:27:00.000Z",
+  "updatedAt": "2026-11-09T15:36:57.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [
+   "가브리엘",
+   "가브리엘 메크"
+  ],
+  "sig": [
+   "mec"
+  ],
+  "articles": [
+   {
+    "id": "65c82b292b11",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/gabriel-mec-sofreu-lesao-muscular-na-coxa-esquerda",
+    "title": "Gabriel Mec sofreu lesão muscular na coxa esquerda",
+    "ko": "가브리엘 메시, 왼쪽 허벅지 근육 부상",
+    "source": "record",
+    "publishedAt": "2026-11-09T07:27:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6ce345119815",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/gabriel-mec-faz-tratamento-nas-folgas-mas-dificilmente-sera-opcao-contra-o-paredes",
+    "title": "Gabriel Mec faz tratamento nas folgas mas dificilmente será opção contra o Paredes",
+    "ko": "가브리엘 메크, 휴식 중 치료…파레데스전 출전 어려울 듯",
+    "source": "record",
+    "publishedAt": "2026-11-09T15:36:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "가브리엘 메크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.47,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-09T07:27:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Gabriel Mec faz tratamento nas folgas mas dificilmente será opção contra o Paredes"
+ },
+ {
+  "slug": "bednarek-injury",
+  "mode": "llm",
+  "titleKo": "베드나레크 부상 우려",
+  "createdAt": "2026-11-08T20:26:00.000Z",
+  "updatedAt": "2026-11-09T15:24:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "베드나레크"
+  ],
+  "sig": [
+   "bednarek",
+   "não"
+  ],
+  "articles": [
+   {
+    "id": "440135abe323",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/farioli-preocupado-com-bednarek-nao-conseguia-ver-quando-deixou-o-relvado",
+    "title": "Farioli preocupado com Bednarek: «Não conseguia ver quando deixou o relvado...»",
+    "ko": "파리오리 \"베드나레크 상태 걱정, 경기장 떠나는 것 못 봐\"",
+    "source": "record",
+    "publishedAt": "2026-11-08T20:26:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "베드나레크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d10f3ebfc1e9",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/bednarek-adia-chegada-a-selecao-da-polonia-depois-de-susto-em-guimaraes",
+    "title": "Bednarek adia chegada à Seleção da Polónia depois de susto em Guimarães",
+    "ko": "베드나레크, 기마랑이스 부상 우려로 폴란드 대표팀 합류 연기",
+    "source": "record",
+    "publishedAt": "2026-11-09T15:24:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "베드나레크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.85,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-08T20:26:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bednarek adia chegada à Seleção da Polónia depois de susto em Guimarães"
+ },
+ {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭, 맨유 감독 행보 힌트",
   "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-09T14:30:41.000Z",
+  "updatedAt": "2026-11-09T15:01:13.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -704,11 +1005,47 @@
     "playerTags": [],
     "author": "Matthew Abbott, Ben Crawford",
     "transfer": null
+   },
+   {
+    "id": "48a8230f5d08",
+    "url": "https://www.skysports.com/football/news/12040/13610134/manchester-united-the-key-questions-with-michael-carricks-future-still-up-in-the-air-at-old-trafford",
+    "title": "What now for Man Utd and Carrick?",
+    "ko": "맨유와 캐릭, 이제 어떻게 되나",
+    "source": "sky",
+    "publishedAt": "2026-11-09T15:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "32ce3cc2c022",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-cult-hero-slams-34885517",
+    "title": "Manchester United cult hero slams current squad and gives Michael Carrick sack verdict",
+    "ko": "맨유 전설, 현 스쿼드 비판하며 캐릭 경질 의견",
+    "source": "men",
+    "publishedAt": "2026-11-09T15:01:13.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Flintham",
+    "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 8,
   "sourceCount": 12,
-  "score": 6.11,
+  "score": 6.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -773,7 +1110,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.86,
+  "score": 1.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -890,7 +1227,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 5.91,
+  "score": 4.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1025,7 +1362,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 5,
+  "score": 4.17,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1083,7 +1420,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.84,
+  "score": 1.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1447,7 +1784,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.09,
+  "score": 0.91,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -1500,7 +1837,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.77,
+  "score": 1.47,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1620,7 +1957,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.54,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2011,7 +2348,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.5,
+  "score": 0.42,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2678,7 +3015,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.48,
+  "score": 0.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2821,7 +3158,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 3.99,
+  "score": 3.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2902,7 +3239,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.51,
+  "score": 1.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3590,7 +3927,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.96,
+  "score": 0.8,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3647,7 +3984,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.88,
+  "score": 0.73,
   "topTier": 3,
   "stageHistory": [
    {
@@ -3951,7 +4288,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 9,
-  "score": 2.19,
+  "score": 1.82,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4546,7 +4883,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 1.59,
+  "score": 1.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4667,7 +5004,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.14,
+  "score": 1.78,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5634,7 +5971,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 14,
-  "score": 1.08,
+  "score": 0.9,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5724,7 +6061,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.23,
+  "score": 1.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6428,7 +6765,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 12,
-  "score": 1.39,
+  "score": 1.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6534,7 +6871,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7248,7 +7585,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 1.21,
+  "score": 1.01,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7299,7 +7636,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.21,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7417,7 +7754,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.2,
+  "score": 1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7517,7 +7854,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.17,
+  "score": 0.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7608,7 +7945,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.61,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7754,7 +8091,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 1.38,
+  "score": 1.15,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7814,7 +8151,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.12,
+  "score": 0.93,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7863,7 +8200,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.11,
+  "score": 0.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7917,7 +8254,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.06,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7992,7 +8329,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.05,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11298,7 +11635,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 15,
-  "score": 1.62,
+  "score": 1.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11683,7 +12020,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.03,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11793,7 +12130,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.31,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11854,7 +12191,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11922,7 +12259,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11996,7 +12333,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.99,
+  "score": 0.82,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12009,137 +12346,6 @@
    "viaQuote": false
   },
   "headline": "Kein Spieler in Normalform: Der FCA ist in Leipzig chancenlos"
- },
- {
-  "slug": "gabriel-man-utd-transfer",
-  "mode": "llm",
-  "titleKo": "맨유 J.J. 가브리엘 영입 관심",
-  "createdAt": "2026-11-08T05:30:00.000Z",
-  "updatedAt": "2026-11-09T10:36:00.000Z",
-  "category": "transfer",
-  "stage": "negotiation",
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [
-   "J.J. 가브리엘",
-   "JJ 가브리엘"
-  ],
-  "sig": [
-   "mourinho",
-   "gabriel"
-  ],
-  "articles": [
-   {
-    "id": "762678de410e",
-    "url": "https://www.mirror.co.uk/sport/football/news/mourinho-man-utd-jj-gabriel-37844941",
-    "title": "Jose Mourinho's first act as Man Utd boss offers JJ Gabriel hope after transfer wish granted",
-    "ko": "무리뉴, 맨유 감독 첫 결정으로 제이제이 가브리엘 이적 희망 실현 암시",
-    "source": "mirror",
-    "publishedAt": "2026-11-08T05:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Fasika Zelealem",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": null,
-     "to": "맨유"
-    }
-   },
-   {
-    "id": "f73c795f22e8",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-utd-mourinho-34866000",
-    "title": "Jose Mourinho has told JJ Gabriel what he wants to hear as Man United exit nears",
-    "ko": "무리뉴, JJ 가브리엘에게 원하는 말 전달…맨유 이적 임박",
-    "source": "men",
-    "publishedAt": "2026-11-08T06:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Fasika Zelealem",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "맨유"
-    }
-   },
-   {
-    "id": "e898cf212c78",
-    "url": "https://as.com/futbol/internacional/el-plan-jj-gabriel-al-detalle-f202611-n/",
-    "title": "El plan JJ Gabriel, al detalle",
-    "ko": "JJ 가브리엘 영입 계획 자세히 조명",
-    "source": "as",
-    "publishedAt": "2026-11-09T10:36:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "J.J. 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Aritz Gabilondo",
-    "transfer": {
-     "player": "J.J. 가브리엘",
-     "from": null,
-     "to": "맨유"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 3,
-  "score": 0.97,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "762678de410e",
-    "at": "2026-11-08T05:30:00.000Z",
-    "source": "mirror",
-    "from": null,
-    "to": "interest"
-   },
-   {
-    "id": "f73c795f22e8",
-    "at": "2026-11-08T06:30:00.000Z",
-    "source": "men",
-    "from": "interest",
-    "to": "negotiation"
-   }
-  ],
-  "stageChange": {
-   "from": "interest",
-   "to": "negotiation",
-   "at": "2026-11-08T06:30:00.000Z",
-   "source": "men"
-  },
-  "playerTags": [],
-  "transfer": {
-   "player": "J.J. 가브리엘",
-   "from": null,
-   "to": "맨유"
-  },
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-08T05:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "El plan JJ Gabriel, al detalle"
  },
  {
   "slug": "man-utd-manager-future-20261102",
@@ -12470,7 +12676,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.28,
+  "score": 0.23,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13003,7 +13209,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 10,
-  "score": 0.71,
+  "score": 0.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13080,7 +13286,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.39,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13141,7 +13347,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.27,
+  "score": 1.06,
   "topTier": 1,
   "stageHistory": [
    {
@@ -13212,7 +13418,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13271,7 +13477,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.82,
+  "score": 0.68,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13352,7 +13558,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.77,
+  "score": 0.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13717,7 +13923,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.76,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13804,7 +14010,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14452,7 +14658,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 1.07,
+  "score": 0.89,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14653,7 +14859,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.58,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14746,7 +14952,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14759,61 +14965,6 @@
    "viaQuote": false
   },
   "headline": "As reações à vitória do Benfica na Reboleira: «Não foi um jogo fantástico...»"
- },
- {
-  "slug": "gabriel-mec-injury",
-  "mode": "llm",
-  "titleKo": "가브리엘 메크 근육 부상",
-  "createdAt": "2026-11-09T07:27:00.000Z",
-  "updatedAt": "2026-11-09T07:27:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [
-   "가브리엘"
-  ],
-  "sig": [
-   "mec"
-  ],
-  "articles": [
-   {
-    "id": "65c82b292b11",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/gabriel-mec-sofreu-lesao-muscular-na-coxa-esquerda",
-    "title": "Gabriel Mec sofreu lesão muscular na coxa esquerda",
-    "ko": "가브리엘 메시, 왼쪽 허벅지 근육 부상",
-    "source": "record",
-    "publishedAt": "2026-11-09T07:27:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.56,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-09T07:27:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Gabriel Mec sofreu lesão muscular na coxa esquerda"
  },
  {
   "slug": "murillo-man-utd-transfer",
@@ -14888,7 +15039,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.16,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -14952,7 +15103,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15021,7 +15172,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15101,7 +15252,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15379,7 +15530,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16167,7 +16318,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16300,7 +16451,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.48,
+  "score": 0.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16462,7 +16613,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.22,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -16538,7 +16689,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16650,7 +16801,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.42,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16960,7 +17111,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17035,7 +17186,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.37,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17215,7 +17366,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.37,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [
    {
@@ -18821,58 +18972,6 @@
    "viaQuote": false
   },
   "headline": "Sorgen um Karius und Gosens: Schalke verliert auch in Hoffenheim"
- },
- {
-  "slug": "bednarek-injury",
-  "mode": "llm",
-  "titleKo": "베드나레크 부상 우려",
-  "createdAt": "2026-11-08T20:26:00.000Z",
-  "updatedAt": "2026-11-08T20:26:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "베드나레크"
-  ],
-  "sig": [
-   "bednarek",
-   "não"
-  ],
-  "articles": [
-   {
-    "id": "440135abe323",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/farioli-preocupado-com-bednarek-nao-conseguia-ver-quando-deixou-o-relvado",
-    "title": "Farioli preocupado com Bednarek: «Não conseguia ver quando deixou o relvado...»",
-    "ko": "파리오리 \"베드나레크 상태 걱정, 경기장 떠나는 것 못 봐\"",
-    "source": "record",
-    "publishedAt": "2026-11-08T20:26:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "베드나레크"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-08T20:26:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Farioli preocupado com Bednarek: «Não conseguia ver quando deixou o relvado...»"
  },
  {
   "slug": "girona-almeria-2026-11-08",
