@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T15:51:22.245Z",
+ "updatedAt": "2026-11-09T16:55:21.736Z",
  "hot": [
-  "carrick-manager-future",
   "oviedo-manager-appointment",
-  "alisson-liverpool-transfer",
-  "musiala-injury",
-  "crystal-palace-manager-future"
+  "carrick-manager-future",
+  "aberdeen-manager-future",
+  "cubarsi-golden-boy-award",
+  "alisson-liverpool-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -33,20 +33,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 74,
-   "added": 5,
+   "items": 76,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 64,
-   "added": 0,
+   "items": 63,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,25 +88,25 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 78
+   "added": 4,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -124,19 +124,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,13 +148,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "chronicle": {
@@ -165,64 +165,56 @@
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 4,
-   "authorRate": 93
+   "items": 29,
+   "added": 7,
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 2,
+   "items": 12,
+   "added": 5,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
-   "name": "헤수스 데 미겔",
-   "count": 21
-  },
-  {
-   "name": "잭 그릴리시",
-   "count": 17
-  },
-  {
-   "name": "오워노",
-   "count": 16
-  },
-  {
-   "name": "알리송",
-   "count": 15
-  },
-  {
    "name": "노이어",
    "count": 15
   },
   {
-   "name": "JJ 가브리엘",
-   "count": 14
+   "name": "알리송",
+   "count": 12
   },
   {
-   "name": "프레스티아니",
+   "name": "헤수스 데 미겔",
+   "count": 12
+  },
+  {
+   "name": "잭 그릴리시",
    "count": 11
   },
   {
-   "name": "그릴리시",
+   "name": "조브 벨링엄",
    "count": 10
   },
   {
-   "name": "조브 벨링엄",
+   "name": "JJ 가브리엘",
+   "count": 10
+  },
+  {
+   "name": "프레스티아니",
    "count": 10
   },
   {
@@ -231,19 +223,15 @@
   },
   {
    "name": "도르구",
-   "count": 8
+   "count": 9
   },
   {
    "name": "해밀턴",
    "count": 8
   },
   {
-   "name": "돈나룸마",
-   "count": 7
-  },
-  {
-   "name": "조엘 페레이라",
-   "count": 7
+   "name": "그릴리시",
+   "count": 8
   },
   {
    "name": "바레바",
@@ -262,26 +250,6 @@
    "count": 7
   },
   {
-   "name": "트레솔디",
-   "count": 6
-  },
-  {
-   "name": "데 미겔",
-   "count": 6
-  },
-  {
-   "name": "노리스",
-   "count": 6
-  },
-  {
-   "name": "바르콜라",
-   "count": 6
-  },
-  {
-   "name": "콘사",
-   "count": 6
-  },
-  {
    "name": "아민 구이리",
    "count": 6
   },
@@ -298,20 +266,52 @@
    "count": 6
   },
   {
-   "name": "카레타스",
+   "name": "콘사",
    "count": 5
   },
   {
-   "name": "퓔크루크",
+   "name": "돈나룸마",
    "count": 5
   },
   {
-   "name": "모히아",
+   "name": "듀스버리홀",
    "count": 5
+  },
+  {
+   "name": "오워노",
+   "count": 5
+  },
+  {
+   "name": "웨인 루니",
+   "count": 5
+  },
+  {
+   "name": "뤼디거",
+   "count": 5
+  },
+  {
+   "name": "티에르노 배리",
+   "count": 5
+  },
+  {
+   "name": "파블로 파지스",
+   "count": 5
+  },
+  {
+   "name": "노리스",
+   "count": 5
+  },
+  {
+   "name": "달롯",
+   "count": 5
+  },
+  {
+   "name": "바르콜라",
+   "count": 4
   }
  ],
  "issueHealth": {
-  "recentIssues": 243,
+  "recentIssues": 246,
   "singleArticleRate": 34,
   "broad": [
    {
@@ -320,7 +320,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 37
+    "count": 40
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -331,10 +331,6 @@
     "count": 31
    },
    {
-    "slug": "de-miguel-incident",
-    "count": 29
-   },
-   {
     "slug": "atletico-barcelona-2026-11-07",
     "count": 29
    },
@@ -343,8 +339,12 @@
     "count": 29
    },
    {
+    "slug": "de-miguel-incident",
+    "count": 28
+   },
+   {
     "slug": "chelsea-sunderland-2026-11-08",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
@@ -356,7 +356,7 @@
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
-    "count": 17
+    "count": 18
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -379,7 +379,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -596,20 +596,6 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 6
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -666,6 +652,20 @@
     {
      "ko": "튈레망스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 5
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 2
     }
    ]
   },
@@ -1324,8 +1324,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 38,
-   "llm": 38
+   "collected": 100,
+   "llm": 100
   }
  },
  "llmErrors": []
