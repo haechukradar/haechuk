@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T00:04:01.849Z",
+ "updatedAt": "2026-11-09T01:17:38.989Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
   "carrick-manager-future",
   "crystal-palace-manager-future",
   "man-utd-aston-villa-2026-11-05",
-  "fiorentina-juventus-2026-11-08"
+  "crystal-palace-liverpool-2026-11-07"
  ],
  "days": [
   "2026-10-18",
@@ -33,13 +33,13 @@
   "bbc": {
    "ok": true,
    "items": 67,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 63,
-   "added": 1,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
@@ -105,7 +105,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -182,7 +182,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -225,6 +225,10 @@
    "count": 9
   },
   {
+   "name": "프레스티아니",
+   "count": 8
+  },
+  {
    "name": "해밀턴",
    "count": 8
   },
@@ -234,10 +238,6 @@
   },
   {
    "name": "조엘 페레이라",
-   "count": 7
-  },
-  {
-   "name": "프레스티아니",
    "count": 7
   },
   {
@@ -310,7 +310,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 252,
+  "recentIssues": 254,
   "singleArticleRate": 37,
   "broad": [
    {
@@ -467,20 +467,6 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 10
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -498,7 +484,21 @@
     },
     {
      "ko": "마르코 시우바",
-     "count": 1
+     "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 10
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 4
     }
    ]
   },
@@ -861,11 +861,11 @@
      "count": 1
     },
     {
-     "ko": "야닉 카위작",
+     "ko": "야닉 카위자크",
      "count": 1
     },
     {
-     "ko": "야닉 카위자크",
+     "ko": "야닉 카위작",
      "count": 1
     }
    ]
@@ -1097,24 +1097,6 @@
    ]
   },
   {
-   "en": "Trey Nyoni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트레이 뇨니",
-     "count": 2
-    },
-    {
-     "ko": "니오니",
-     "count": 1
-    },
-    {
-     "ko": "뇨니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Circati",
    "dictionary": null,
    "variants": [
@@ -1319,6 +1301,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "퀼뤼흐",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1363,8 +1359,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 548,
-   "llm": 548
+   "collected": 558,
+   "llm": 558
   }
  },
  "llmErrors": []
