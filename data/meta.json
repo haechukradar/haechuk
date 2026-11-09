@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-09T18:44:02.139Z",
+ "updatedAt": "2026-11-09T19:42:02.798Z",
  "hot": [
   "carrick-manager-future",
-  "cubarsi-golden-boy-award",
   "oviedo-manager-appointment",
+  "cubarsi-golden-boy-award",
   "aberdeen-manager-future",
   "van-dijk-injury"
  ],
@@ -33,8 +33,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 78,
-   "added": 1,
+   "items": 80,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -46,7 +46,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,13 +82,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 1,
    "authorRate": 76
   },
   "fblondon": {
@@ -106,13 +106,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -136,7 +136,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -160,13 +160,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -178,13 +178,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 15,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -195,19 +195,19 @@
   },
   {
    "name": "알리송",
-   "count": 12
+   "count": 13
   },
   {
    "name": "헤수스 데 미겔",
    "count": 12
   },
   {
-   "name": "잭 그릴리시",
+   "name": "조브 벨링엄",
    "count": 11
   },
   {
-   "name": "조브 벨링엄",
-   "count": 10
+   "name": "잭 그릴리시",
+   "count": 11
   },
   {
    "name": "JJ 가브리엘",
@@ -302,11 +302,11 @@
    "count": 5
   },
   {
-   "name": "은메차",
+   "name": "마누엘 노이어",
    "count": 5
   },
   {
-   "name": "달롯",
+   "name": "은메차",
    "count": 5
   }
  ],
@@ -320,7 +320,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 42
+    "count": 43
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -340,7 +340,7 @@
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
-    "count": 27
+    "count": 26
    },
    {
     "slug": "de-miguel-incident",
@@ -356,7 +356,7 @@
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
-    "count": 19
+    "count": 21
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -364,10 +364,6 @@
    },
    {
     "slug": "vitoria-guimaraes-porto-2026-11-08",
-    "count": 15
-   },
-   {
-    "slug": "everton-coventry-2026-11-06",
     "count": 15
    }
   ]
@@ -383,7 +379,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "아이슬레",
@@ -518,6 +514,40 @@
    ]
   },
   {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "한스 바나켄",
+     "count": 3
+    },
+    {
+     "ko": "한스 반아케르",
+     "count": 1
+    },
+    {
+     "ko": "바나켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반라켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아캔",
+     "count": 1
+    },
+    {
+     "ko": "한스 반케",
+     "count": 1
+    },
+    {
+     "ko": "한스 반아나켄",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
@@ -588,40 +618,6 @@
    ]
   },
   {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 바나켄",
-     "count": 2
-    },
-    {
-     "ko": "한스 반아케르",
-     "count": 1
-    },
-    {
-     "ko": "바나켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 반라켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아캔",
-     "count": 1
-    },
-    {
-     "ko": "한스 반케",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아나켄",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Youri Tielemans",
    "dictionary": null,
    "variants": [
@@ -661,24 +657,6 @@
     },
     {
      "ko": "모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -902,6 +880,24 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 2
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 1
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Alisson Becker",
    "dictionary": null,
    "variants": [
@@ -911,6 +907,20 @@
     },
     {
      "ko": "알리송 베커",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pablo Pagis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파블로 파지스",
+     "count": 3
+    },
+    {
+     "ko": "파블로 파지",
      "count": 1
     }
    ]
@@ -1029,6 +1039,20 @@
     },
     {
      "ko": "노니 매덕스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mamadou Diakhon",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마마두 디아콘",
+     "count": 3
+    },
+    {
+     "ko": "마무두 디아콘",
      "count": 1
     }
    ]
@@ -1196,24 +1220,6 @@
    ]
   },
   {
-   "en": "Charlie",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "찰리 새비지",
-     "count": 1
-    },
-    {
-     "ko": "찰리 사비지",
-     "count": 1
-    },
-    {
-     "ko": "찰리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gouweleeuw",
    "dictionary": null,
    "variants": [
@@ -1255,20 +1261,6 @@
     },
     {
      "ko": "칼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Russo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "러소",
-     "count": 2
-    },
-    {
-     "ko": "루소",
      "count": 1
     }
    ]
@@ -1320,8 +1312,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 192,
-   "llm": 192
+   "collected": 232,
+   "llm": 232
   }
  },
  "llmErrors": []
