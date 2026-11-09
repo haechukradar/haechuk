@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T05:40:59.552Z",
+ "updatedAt": "2026-11-09T06:46:13.123Z",
  "hot": [
   "atletico-barcelona-2026-11-07",
   "carrick-manager-future",
-  "crystal-palace-manager-future",
-  "man-utd-aston-villa-2026-11-05",
-  "grealish-discipline"
+  "vicens-lyon-appointment",
+  "crystal-palace-liverpool-2026-11-07",
+  "crystal-palace-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -33,7 +33,7 @@
   "bbc": {
    "ok": true,
    "items": 67,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -45,7 +45,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -57,7 +57,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,14 +81,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 82
+   "added": 4,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -99,7 +99,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -129,13 +129,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -147,7 +147,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -159,7 +159,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -226,7 +226,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 8
+   "count": 9
   },
   {
    "name": "해밀턴",
@@ -273,6 +273,10 @@
    "count": 6
   },
   {
+   "name": "페르민 로페스",
+   "count": 6
+  },
+  {
    "name": "카레타스",
    "count": 5
   },
@@ -303,19 +307,15 @@
   {
    "name": "티에르노 배리",
    "count": 5
-  },
-  {
-   "name": "티에르노 바리",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 253,
+  "recentIssues": 254,
   "singleArticleRate": 37,
   "broad": [
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 37
+    "count": 38
    },
    {
     "slug": "de-miguel-incident",
@@ -335,7 +335,7 @@
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
-    "count": 27
+    "count": 28
    },
    {
     "slug": "carrick-manager-future",
@@ -355,7 +355,7 @@
    },
    {
     "slug": "crystal-palace-liverpool-2026-11-07",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
@@ -432,7 +432,7 @@
     },
     {
      "ko": "토마스 투헬",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "튀헬",
@@ -611,6 +611,40 @@
    ]
   },
   {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "래먼스",
+     "count": 2
+    },
+    {
+     "ko": "세네 라멘스",
+     "count": 1
+    },
+    {
+     "ko": "센네 라메스",
+     "count": 1
+    },
+    {
+     "ko": "람멘스",
+     "count": 1
+    },
+    {
+     "ko": "래미언스",
+     "count": 1
+    },
+    {
+     "ko": "센 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "라먼스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -729,36 +763,6 @@
    ]
   },
   {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "래먼스",
-     "count": 2
-    },
-    {
-     "ko": "센네 라메스",
-     "count": 1
-    },
-    {
-     "ko": "람멘스",
-     "count": 1
-    },
-    {
-     "ko": "래미언스",
-     "count": 1
-    },
-    {
-     "ko": "센 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "세네 라멘스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -809,6 +813,20 @@
     {
      "ko": "루카 윌리엄스-바닛",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 4
+    },
+    {
+     "ko": "파리오리",
+     "count": 2
     }
    ]
   },
@@ -871,20 +889,6 @@
     {
      "ko": "야닉 카위작",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 3
-    },
-    {
-     "ko": "파리오리",
-     "count": 2
     }
    ]
   },
@@ -1363,8 +1367,8 @@
    "llm": 923
   },
   "2026-11-09": {
-   "collected": 583,
-   "llm": 583
+   "collected": 607,
+   "llm": 607
   }
  },
  "llmErrors": []
