@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T21:24:31.343Z",
+ "updatedAt": "2026-11-10T22:10:24.554Z",
  "hot": [
   "carrick-manager-future",
+  "pochettino-man-utd-manager-future",
   "hacken-chelsea-2026-11-10",
-  "nmecha-discipline",
-  "mctominay-injury",
-  "real-madrid-paris-fc-2026-11-10"
+  "bayern-psg-women-2026-11-10",
+  "mctominay-injury"
  ],
  "days": [
   "2026-10-18",
@@ -34,7 +34,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
+   "items": 82,
    "added": 1,
    "authorRate": 0
   },
@@ -47,7 +47,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,19 +83,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 86
+   "added": 6,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -107,13 +107,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -167,7 +167,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 1,
    "authorRate": 90
   },
   "star": {
@@ -179,13 +179,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 1,
+   "items": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -312,12 +312,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 290,
-  "singleArticleRate": 49,
+  "recentIssues": 281,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 99
+    "count": 100
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -811,24 +811,6 @@
    ]
   },
   {
-   "en": "Marvin Compper",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르빈 콤퍼",
-     "count": 1
-    },
-    {
-     "ko": "마빈 콤퍼",
-     "count": 1
-    },
-    {
-     "ko": "마빈 컴퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -874,24 +856,6 @@
     },
     {
      "ko": "로드리고 무니즈",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제니오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 즈네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 주네지오",
      "count": 1
     }
    ]
@@ -1063,6 +1027,20 @@
    ]
   },
   {
+   "en": "Marvin Compper",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르빈 콤퍼",
+     "count": 1
+    },
+    {
+     "ko": "마빈 콤퍼",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Djeidi Gassama",
    "dictionary": null,
    "variants": [
@@ -1173,6 +1151,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Vozinha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "보지냐",
+     "count": 1
+    },
+    {
+     "ko": "보쟁가",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1225,8 +1217,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 297,
-   "llm": 2929
+   "collected": 318,
+   "llm": 2950
   }
  },
  "llmErrors": []
