@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T17:23:40.499Z",
+ "updatedAt": "2026-11-10T18:10:17.574Z",
  "hot": [
   "carrick-manager-future",
+  "konsa-injury",
   "kompany-health-incident",
   "nmecha-discipline",
-  "konsa-injury",
-  "prestianni-discipline"
+  "mctominay-injury"
  ],
  "days": [
   "2026-10-18",
@@ -59,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,13 +89,13 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 84
+   "added": 3,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -107,7 +107,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -167,7 +167,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 2,
    "authorRate": 93
   },
   "star": {
@@ -184,8 +184,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 0,
+   "items": 11,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -299,20 +299,20 @@
    "count": 8
   },
   {
+   "name": "티에르노 바리",
+   "count": 8
+  },
+  {
    "name": "은메차",
    "count": 8
   },
   {
    "name": "페르민",
    "count": 8
-  },
-  {
-   "name": "카마빙가",
-   "count": 7
   }
  ],
  "issueHealth": {
-  "recentIssues": 302,
+  "recentIssues": 304,
   "singleArticleRate": 51,
   "broad": [
    {
@@ -333,15 +333,15 @@
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "de-miguel-incident",
-    "count": 18
+    "count": 17
    }
   ]
  },
@@ -352,7 +352,11 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 9
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 2
     },
     {
      "ko": "자이슬레",
@@ -360,10 +364,6 @@
     },
     {
      "ko": "마티아스 자이슬레",
-     "count": 1
-    },
-    {
-     "ko": "마티아스 야이슬레",
      "count": 1
     },
     {
@@ -585,6 +585,28 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르제 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르지 제수스",
+     "count": 2
+    },
+    {
+     "ko": "호르헤 제주스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Fermin",
    "dictionary": null,
    "variants": [
@@ -626,20 +648,6 @@
     },
     {
      "ko": "카를루스 비센스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세이지",
-     "count": 5
-    },
-    {
-     "ko": "사지",
      "count": 1
     }
    ]
@@ -699,19 +707,15 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
+   "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
     {
-     "ko": "조르제 제수스",
-     "count": 2
+     "ko": "티에르노 바리",
+     "count": 4
     },
     {
-     "ko": "조르즈 제수스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제주스",
+     "ko": "티에르노 배리",
      "count": 1
     }
    ]
@@ -726,6 +730,20 @@
     },
     {
      "ko": "삼수 소아레스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세이지",
+     "count": 4
+    },
+    {
+     "ko": "사지",
      "count": 1
     }
    ]
@@ -762,34 +780,6 @@
     },
     {
      "ko": "마빈 컴퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jacob Murphy",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이콥 머피",
-     "count": 3
-    },
-    {
-     "ko": "제이컵 머피",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 3
-    },
-    {
-     "ko": "티에르노 배리",
      "count": 1
     }
    ]
@@ -1067,6 +1057,24 @@
    ]
   },
   {
+   "en": "Hugo Cuypers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "휴고 퀴퍼스",
+     "count": 1
+    },
+    {
+     "ko": "휴고 쿠이퍼스",
+     "count": 1
+    },
+    {
+     "ko": "위고 퀴퍼스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Reinaldo Teixeira",
    "dictionary": null,
    "variants": [
@@ -1229,8 +1237,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 135,
-   "llm": 2767
+   "collected": 169,
+   "llm": 2801
   }
  },
  "llmErrors": []
