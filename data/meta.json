@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-10T03:30:05.188Z",
+ "updatedAt": "2026-11-10T04:27:39.430Z",
  "hot": [
   "carrick-manager-future",
+  "man-utd-manager-future-20261102",
   "birmingham-affairs-tom-brady-stake",
   "cubarsi-golden-boy-award",
-  "netherlands-match-bus-incident",
   "van-dijk-injury"
  ],
  "days": [
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -100,7 +100,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -142,7 +142,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "hln": {
@@ -246,6 +246,10 @@
    "count": 7
   },
   {
+   "name": "트로사르",
+   "count": 7
+  },
+  {
    "name": "페르민 로페스",
    "count": 7
   },
@@ -263,10 +267,6 @@
   },
   {
    "name": "이타쿠라",
-   "count": 6
-  },
-  {
-   "name": "트로사르",
    "count": 6
   },
   {
@@ -316,22 +316,22 @@
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 52
+    "count": 53
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 47
+    "count": 46
    },
    {
     "slug": "arsenal-hull-2026-11-07",
     "count": 33
    },
    {
-    "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 31
+    "slug": "atletico-barcelona-2026-11-07",
+    "count": 30
    },
    {
-    "slug": "atletico-barcelona-2026-11-07",
+    "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 30
    },
    {
@@ -814,6 +814,20 @@
    ]
   },
   {
+   "en": "Samuel Soares",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사무엘 소아레스",
+     "count": 4
+    },
+    {
+     "ko": "사무엘 소아르스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -985,20 +999,6 @@
     },
     {
      "ko": "마무두 디아콘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 3
-    },
-    {
-     "ko": "사무엘 소아르스",
      "count": 1
     }
    ]
@@ -1230,6 +1230,20 @@
    ]
   },
   {
+   "en": "Guehi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게히",
+     "count": 2
+    },
+    {
+     "ko": "게이",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Arda Güler",
    "dictionary": null,
    "variants": [
@@ -1239,24 +1253,6 @@
     },
     {
      "ko": "귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 슈어",
-     "count": 1
-    },
-    {
-     "ko": "션 스테르",
-     "count": 1
-    },
-    {
-     "ko": "션 스퇴르",
      "count": 1
     }
    ]
@@ -1308,8 +1304,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 365,
-   "llm": 365
+   "collected": 375,
+   "llm": 375
   }
  },
  "llmErrors": []
