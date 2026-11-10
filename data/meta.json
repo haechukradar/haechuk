@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T20:43:25.932Z",
+ "updatedAt": "2026-11-10T21:24:31.343Z",
  "hot": [
   "carrick-manager-future",
   "hacken-chelsea-2026-11-10",
@@ -41,7 +41,7 @@
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,7 +89,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 86
   },
   "fblondon": {
@@ -107,13 +107,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -167,7 +167,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 2,
    "authorRate": 90
   },
   "star": {
@@ -312,12 +312,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 295,
+  "recentIssues": 290,
   "singleArticleRate": 49,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 97
+    "count": 99
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -487,28 +487,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 3
-    },
-    {
-     "ko": "퀼크루그",
-     "count": 3
-    },
-    {
-     "ko": "풀크루그",
-     "count": 1
-    },
-    {
-     "ko": "퀼크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Youri Tielemans",
    "dictionary": null,
    "variants": [
@@ -541,6 +519,28 @@
     {
      "ko": "무시알라",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퀼크루그",
+     "count": 3
+    },
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "풀크루그",
+     "count": 1
+    },
+    {
+     "ko": "퀼크루크",
+     "count": 1
     }
    ]
   },
@@ -723,24 +723,6 @@
    ]
   },
   {
-   "en": "Marvin Compper",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르빈 콤퍼",
-     "count": 2
-    },
-    {
-     "ko": "마빈 콤퍼",
-     "count": 1
-    },
-    {
-     "ko": "마빈 컴퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Óskarsson",
    "dictionary": null,
    "variants": [
@@ -829,6 +811,24 @@
    ]
   },
   {
+   "en": "Marvin Compper",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르빈 콤퍼",
+     "count": 1
+    },
+    {
+     "ko": "마빈 콤퍼",
+     "count": 1
+    },
+    {
+     "ko": "마빈 컴퍼",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -892,20 +892,6 @@
     },
     {
      "ko": "브루노 주네지오",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rodrigo Mora",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "로드리구 모라",
-     "count": 2
-    },
-    {
-     "ko": "로드리고 모라",
      "count": 1
     }
    ]
@@ -1173,6 +1159,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Dan Burn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "댄 번",
+     "count": 1
+    },
+    {
+     "ko": "던 번",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1225,8 +1225,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 280,
-   "llm": 2912
+   "collected": 297,
+   "llm": 2929
   }
  },
  "llmErrors": []
