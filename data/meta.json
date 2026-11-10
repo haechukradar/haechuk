@@ -1,12 +1,11 @@
 {
- "updatedAt": "2026-11-10T17:01:10.317Z",
+ "updatedAt": "2026-11-10T17:23:40.499Z",
  "hot": [
   "carrick-manager-future",
   "kompany-health-incident",
-  "carrick-manager-future",
   "nmecha-discipline",
   "konsa-injury",
-  "man-utd-affairs-ratcliffe-criticism"
+  "prestianni-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -53,14 +52,14 @@
   },
   "espn": {
    "ok": true,
-   "items": 18,
+   "items": 0,
    "added": 0,
-   "authorRate": 94
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -72,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -84,13 +83,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 84
   },
   "fblondon": {
@@ -108,7 +107,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -126,31 +125,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -162,7 +161,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -180,7 +179,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
@@ -221,7 +220,7 @@
   },
   {
    "name": "알리송",
-   "count": 19
+   "count": 20
   },
   {
    "name": "데 미겔",
@@ -230,6 +229,10 @@
   {
    "name": "프레스티아니",
    "count": 17
+  },
+  {
+   "name": "티에르노 배리",
+   "count": 11
   },
   {
    "name": "콘사",
@@ -246,10 +249,6 @@
   {
    "name": "보글",
    "count": 11
-  },
-  {
-   "name": "티에르노 배리",
-   "count": 10
   },
   {
    "name": "리산드로 마르티네스",
@@ -313,8 +312,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 298,
-  "singleArticleRate": 48,
+  "recentIssues": 302,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -341,16 +340,8 @@
     "count": 19
    },
    {
-    "slug": "crystal-palace-manager-future",
-    "count": 18
-   },
-   {
     "slug": "de-miguel-incident",
     "count": 18
-   },
-   {
-    "slug": "kompany-health-incident",
-    "count": 16
    }
   ]
  },
@@ -361,7 +352,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "자이슬레",
@@ -382,34 +373,12 @@
    ]
   },
   {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 바나켄",
-     "count": 5
-    },
-    {
-     "ko": "바나켄",
-     "count": 4
-    },
-    {
-     "ko": "한스 반아켄",
-     "count": 2
-    },
-    {
-     "ko": "반악넨",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "세이지",
@@ -430,6 +399,28 @@
     {
      "ko": "피에르 사게",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바나켄",
+     "count": 4
+    },
+    {
+     "ko": "한스 바나켄",
+     "count": 4
+    },
+    {
+     "ko": "한스 반아켄",
+     "count": 3
+    },
+    {
+     "ko": "반악넨",
+     "count": 2
     }
    ]
   },
@@ -475,10 +466,6 @@
     },
     {
      "ko": "젠 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "한스 반아켄",
      "count": 1
     }
    ]
@@ -712,32 +699,6 @@
    ]
   },
   {
-   "en": "Jess Thorup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "예스 소르프",
-     "count": 2
-    },
-    {
-     "ko": "조프 토프",
-     "count": 1
-    },
-    {
-     "ko": "예스 토어프",
-     "count": 1
-    },
-    {
-     "ko": "요스 소르프",
-     "count": 1
-    },
-    {
-     "ko": "토르프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -806,33 +767,29 @@
    ]
   },
   {
-   "en": "Rodrigo Muniz",
+   "en": "Jacob Murphy",
    "dictionary": null,
    "variants": [
     {
-     "ko": "로드리고 무니스",
+     "ko": "제이콥 머피",
      "count": 3
     },
     {
-     "ko": "로드리고 무니즈",
+     "ko": "제이컵 머피",
      "count": 1
     }
    ]
   },
   {
-   "en": "Yannick Cahuzac",
+   "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
     {
-     "ko": "얀니크 카위작",
-     "count": 2
+     "ko": "티에르노 바리",
+     "count": 3
     },
     {
-     "ko": "야닉 카쥐크",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위자크",
+     "ko": "티에르노 배리",
      "count": 1
     }
    ]
@@ -944,20 +901,6 @@
    ]
   },
   {
-   "en": "Jacob Murphy",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이콥 머피",
-     "count": 2
-    },
-    {
-     "ko": "제이컵 머피",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "El Mala",
    "dictionary": null,
    "variants": [
@@ -976,19 +919,15 @@
    ]
   },
   {
-   "en": "Jan Virgili",
+   "en": "Rodrigo Muniz",
    "dictionary": null,
    "variants": [
     {
-     "ko": "얀 비르갈리",
-     "count": 1
+     "ko": "로드리고 무니스",
+     "count": 2
     },
     {
-     "ko": "얀 비르길리",
-     "count": 1
-    },
-    {
-     "ko": "버질리",
+     "ko": "로드리고 무니즈",
      "count": 1
     }
    ]
@@ -1068,42 +1007,6 @@
    ]
   },
   {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 스테르",
-     "count": 1
-    },
-    {
-     "ko": "스티어",
-     "count": 1
-    },
-    {
-     "ko": "션 스테우르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디웁스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lammens",
    "dictionary": null,
    "variants": [
@@ -1127,6 +1030,20 @@
     },
     {
      "ko": "슈옐데루프",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yannick Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "얀니크 카위작",
+     "count": 2
+    },
+    {
+     "ko": "야닉 카위자크",
      "count": 1
     }
    ]
@@ -1234,33 +1151,29 @@
    ]
   },
   {
-   "en": "Kiernan Dewsbury-Hall",
+   "en": "Arsene Wenger",
    "dictionary": null,
    "variants": [
     {
-     "ko": "키어냔 듀스버리홀",
+     "ko": "웽거",
      "count": 1
     },
     {
-     "ko": "디우즈버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디우스버리홀",
+     "ko": "벵거",
      "count": 1
     }
    ]
   },
   {
-   "en": "Xavi",
+   "en": "Uli Hoeneß",
    "dictionary": null,
    "variants": [
     {
-     "ko": "사비",
-     "count": 2
+     "ko": "울리 회네스",
+     "count": 1
     },
     {
-     "ko": "샤비",
+     "ko": "울리 회이네스",
      "count": 1
     }
    ]
@@ -1316,8 +1229,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 114,
-   "llm": 2746
+   "collected": 135,
+   "llm": 2767
   }
  },
  "llmErrors": []
