@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T22:51:52.901Z",
+ "updatedAt": "2026-11-10T23:26:59.087Z",
  "hot": [
   "carrick-manager-future",
   "man-city-inter-2026-11-10",
+  "mctominay-injury",
   "pochettino-man-utd-manager-future",
-  "hacken-chelsea-2026-11-10",
-  "bayern-psg-women-2026-11-10"
+  "hacken-chelsea-2026-11-10"
  ],
  "days": [
   "2026-10-18",
@@ -35,19 +35,19 @@
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -89,8 +89,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 88
+   "added": 7,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
@@ -101,7 +101,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "lecho": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -167,7 +167,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
@@ -184,7 +184,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -355,15 +355,15 @@
      "count": 2
     },
     {
+     "ko": "피에르 사게",
+     "count": 2
+    },
+    {
      "ko": "피에르 세이지",
      "count": 1
     },
     {
      "ko": "사지",
-     "count": 1
-    },
-    {
-     "ko": "피에르 사게",
      "count": 1
     }
    ]
@@ -853,6 +853,20 @@
    ]
   },
   {
+   "en": "Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카위작",
+     "count": 2
+    },
+    {
+     "ko": "카위자크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Schjelderup",
    "dictionary": null,
    "variants": [
@@ -1143,20 +1157,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게네시오",
-     "count": 1
-    },
-    {
-     "ko": "제네시오",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1209,8 +1209,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 332,
-   "llm": 2964
+   "collected": 346,
+   "llm": 2978
   }
  },
  "llmErrors": []
