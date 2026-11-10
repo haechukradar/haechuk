@@ -1,10 +1,11 @@
 {
- "updatedAt": "2026-11-10T11:32:06.481Z",
+ "updatedAt": "2026-11-10T12:35:02.446Z",
  "hot": [
-  "man-utd-manager-future-20261102",
   "carrick-manager-future",
-  "thomas-frank-crystal-palace-appointment",
-  "birmingham-affairs-tom-brady-stake"
+  "konsa-injury",
+  "man-utd-manager-future-20261102",
+  "birmingham-affairs-tom-brady-stake",
+  "thomas-frank-crystal-palace-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -32,20 +33,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 0,
+   "items": 83,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,37 +82,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 84
+   "added": 2,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 83
   },
   "waz": {
@@ -129,13 +130,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -147,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -165,25 +166,25 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 5,
-   "authorRate": 100
+   "added": 6,
+   "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 2,
+   "items": 9,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -213,6 +214,10 @@
    "count": 11
   },
   {
+   "name": "보글",
+   "count": 11
+  },
+  {
    "name": "도르구",
    "count": 10
   },
@@ -221,11 +226,11 @@
    "count": 10
   },
   {
-   "name": "보글",
-   "count": 10
+   "name": "그릴리시",
+   "count": 9
   },
   {
-   "name": "그릴리시",
+   "name": "톰 브래디",
    "count": 9
   },
   {
@@ -233,8 +238,8 @@
    "count": 8
   },
   {
-   "name": "톰 브래디",
-   "count": 8
+   "name": "콘사",
+   "count": 7
   },
   {
    "name": "바레바",
@@ -281,10 +286,6 @@
    "count": 6
   },
   {
-   "name": "콘사",
-   "count": 5
-  },
-  {
    "name": "듀스버리홀",
    "count": 5
   },
@@ -297,25 +298,25 @@
    "count": 5
   },
   {
+   "name": "댄 번",
+   "count": 5
+  },
+  {
    "name": "뤼디거",
    "count": 5
   },
   {
    "name": "마티스 텔",
    "count": 5
-  },
-  {
-   "name": "티에르노 배리",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 246,
-  "singleArticleRate": 37,
+  "recentIssues": 253,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 66
+    "count": 74
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -323,26 +324,26 @@
    },
    {
     "slug": "arsenal-hull-2026-11-07",
-    "count": 32
+    "count": 31
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 28
    },
    {
-    "slug": "atletico-barcelona-2026-11-07",
-    "count": 27
-   },
-   {
     "slug": "chelsea-sunderland-2026-11-08",
     "count": 26
    },
    {
-    "slug": "leeds-tottenham-2026-11-07",
-    "count": 26
+    "slug": "crystal-palace-liverpool-2026-11-07",
+    "count": 25
    },
    {
-    "slug": "crystal-palace-liverpool-2026-11-07",
+    "slug": "atletico-barcelona-2026-11-07",
+    "count": 25
+   },
+   {
+    "slug": "leeds-tottenham-2026-11-07",
     "count": 25
    },
    {
@@ -351,7 +352,7 @@
    },
    {
     "slug": "de-miguel-incident",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
@@ -691,19 +692,41 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "듀스버리홀",
+     "count": 2
+    },
+    {
+     "ko": "키어냔 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디우스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디우즈버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
     {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
      "ko": "조르즈 제수스",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "호르헤 헤수스",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 제수스",
      "count": 1
     }
    ]
@@ -789,15 +812,15 @@
      "count": 1
     },
     {
+     "ko": "예스 토어프",
+     "count": 1
+    },
+    {
      "ko": "요스 소르프",
      "count": 1
     },
     {
      "ko": "토르프",
-     "count": 1
-    },
-    {
-     "ko": "예스 토어프",
      "count": 1
     }
    ]
@@ -842,24 +865,6 @@
     },
     {
      "ko": "작카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "듀스버리홀",
-     "count": 2
-    },
-    {
-     "ko": "키어냔 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디우스버리홀",
      "count": 1
     }
    ]
@@ -1145,6 +1150,24 @@
    ]
   },
   {
+   "en": "Kniat",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "니아트",
+     "count": 1
+    },
+    {
+     "ko": "크니아트",
+     "count": 1
+    },
+    {
+     "ko": "키니아트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "José Juan Romero",
    "dictionary": null,
    "variants": [
@@ -1245,20 +1268,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Arda Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아르다 귈러",
-     "count": 2
-    },
-    {
-     "ko": "귈레르",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1307,8 +1316,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 606,
-   "llm": 606
+   "collected": 659,
+   "llm": 659
   }
  },
  "llmErrors": []
