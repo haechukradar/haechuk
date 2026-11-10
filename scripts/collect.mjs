@@ -9,7 +9,8 @@ import { ACCURACY, PIPELINE } from '../config/site.mjs';
 import { RESOLUTIONS } from '../config/resolutions.mjs';
 import { fetchFeed, normalizeUrl } from './lib/rss.mjs';
 import { classify, tagClubs } from './lib/rules.mjs';
-import { enrichBatch, llmAvailable, validIssueKey, PROMPT_VERSION, llmErrors } from './lib/enrich.mjs';
+import { enrichBatch, llmAvailable, validIssueKey, PROMPT_VERSION, llmErrors, sameClubKo } from './lib/enrich.mjs';
+import { loadRosters, saveRosters, learn, confirmedClub } from './lib/rosters.mjs';
 import { assignIssues, pickHot, scoreIssue, mergeDuplicateIssues } from './lib/issues.mjs';
 import { runAccuracy } from './lib/accuracy.mjs';
 
@@ -142,6 +143,8 @@ async function main() {
 
   // 2. 한국어 가공: 규칙 태깅 후 LLM 보강 (최신순, 1회 상한)
   for (const a of fresh) ruleEnrich(a);
+  const rostersFile = path.join(DATA, 'rosters.json');
+  await loadRosters(rostersFile); // 기사에서 학습한 선수 현재 소속
   const issuesFile = path.join(DATA, 'issues.json');
   const issues = new Map((await readJson(issuesFile, [])).map((i) => [i.slug, i]));
 
@@ -179,6 +182,7 @@ async function main() {
           a.issue = null;
         }
         applyLlm(a, r);
+        learn(r.player_clubs, a.publishedAt, sameClubKo); // 같은 실행의 다음 배치부터 반영
         llmCount++;
       }
       // 같은 실행 안의 다음 배치가 새 이슈 key를 재사용할 수 있게 즉시 배정
@@ -186,6 +190,21 @@ async function main() {
     }
   }
   console.log(`가공: LLM ${llmCount}건${llmAvailable() ? '' : ' (LLM 미사용 — 규칙 기반)'}`);
+
+  // 학습한 현재 소속과 대조: 이미 그 클럽 소속인 선수의 "이적" 기사는 지난 이적이므로 이적에서 제외 (LLM 재호출 없이 매 실행)
+  let pastMoves = 0;
+  for (const a of known.values()) {
+    if (a.category !== 'transfer' || !a.transfer?.player) continue;
+    const club = confirmedClub(a.transfer.player);
+    if (!club || !sameClubKo(a.transfer.to, club)) continue;
+    if (a.issue) {
+      const old = issues.get(a.issue);
+      if (old) old.articles = old.articles.filter((x) => x.id !== a.id);
+    }
+    Object.assign(a, { category: 'other', stage: null, transfer: null, issue: null, issueKey: null, issueTitleKo: null });
+    pastMoves++;
+  }
+  if (pastMoves) console.log(`이미 소속된 클럽으로의 "이적" 기사 ${pastMoves}건을 이적에서 제외`);
 
   // 선수 태깅 (사전 변경 시 최근 기사에도 반영되도록 매번 전체 재태깅)
   const candidates = {};
@@ -307,6 +326,7 @@ async function main() {
     await writeJson(path.join(ARTICLES_DIR, `${day}.json`), list);
   }
   await writeJson(issuesFile, issueList);
+  await saveRosters(rostersFile);
 
   const days = [...new Set([...allDays, ...touched])].sort();
   const meta = await readJson(path.join(DATA, 'meta.json'), {});

@@ -7,6 +7,7 @@ import { SOURCE_BY_ID, isOwnSource } from '../../config/sources.mjs';
 import { PIPELINE } from '../../config/site.mjs';
 import { PLAYERS } from '../../config/players.mjs';
 import { fixNames, NAME_HINTS, NAMES, nameKey } from '../../config/names.mjs';
+import { confirmedClub, rosterHint } from './rosters.mjs';
 
 // 원문 이름 → 사전 한글 표기 (선수 사전 + 인명 표기 사전)
 const DICT = new Map();
@@ -36,7 +37,7 @@ for (const p of PLAYERS) {
 }
 const squashKo = (s) => (s ?? '').replace(/\s+/g, '');
 // 클럽 한글명이 같은 클럽인지 (맨시티 ↔ 맨체스터 시티 같은 약칭은 앞부분 포함으로)
-const sameClubKo = (a, b) => {
+export const sameClubKo = (a, b) => {
   const x = squashKo(a), y = squashKo(b);
   return !!x && !!y && (x === y || x.startsWith(y) || y.startsWith(x));
 };
@@ -62,6 +63,10 @@ const ItemSchema = z.object({
   transfer_player: z.string().nullable().describe('이적 기사일 때 이적 대상 선수 (한국어 표기)'),
   transfer_from: z.string().nullable().describe('이적 기사일 때 현 소속 클럽 (한국어 표기, 확인 불가 시 null)'),
   transfer_to: z.string().nullable().describe('이적 기사일 때 행선지 클럽 (한국어 표기, 확인 불가 시 null)'),
+  transfer_evidence: z.string().nullable().describe('이적 기사일 때, 이적이 지금 진행 중이거나 이번에 막 완료됐음을 보여주는 제목 속 구절(원문 그대로). 없으면 null'),
+  player_clubs: z
+    .array(z.object({ player: z.string(), club: z.string() }))
+    .describe('제목이 "현재 그 클럽 소속"임을 보여주는 선수와 클럽(한국어 표기). 이적설의 행선지는 넣지 않는다'),
   name_map: z
     .array(z.object({ en: z.string(), ko: z.string() }))
     .describe('제목에 나온 인명(선수·감독·구단 인사)의 원문 표기와 ko에 쓴 한국어 표기'),
@@ -110,6 +115,9 @@ const SYSTEM = `너는 해외축구 뉴스 편집 보조다. 해외 매체 기�
 - issue_title_ko: 이 이슈를 대표하는 한국어 제목(30자 안팎, 위 규칙 동일). issue_key가 null이면 null.
 - name_map: 제목에 나온 인명마다 {en: 제목의 원문 표기, ko: 요약에 쓴 한국어 표기}. 인명이 없으면 빈 배열.
 - transfer_player / transfer_from / transfer_to: 이적 기사일 때 대상 선수, 현 소속 클럽, 행선지 클럽(한국어 표기). 제목에서 확인되지 않으면 null. 이적 기사가 아니면 모두 null.
+- transfer_evidence: 이적 기사로 분류했다면 그 근거가 되는 제목 속 구절을 원문 그대로 옮긴다. 근거는 앞으로의 움직임이나 이번 확정을 나타내는 동사·표현이어야 한다(예: "eye", "bid for", "in talks", "agree", "set to join", "close in on", "here we go", "completes move", "signs for"). 이미 끝난 이적을 가리키는 명사 표현("after X transfer", "following £123m transfer", "£123m man", "new signing", "since joining", "X experiment")은 근거가 아니며, 그런 기사는 이적 기사가 아니다(category other, stage·transfer_* null). 근거가 없으면 이적 기사로 분류하지 않는다.
+- player_clubs: 제목이 선수의 "현재" 소속을 보여주면 {player, club}(한국어 표기)으로 적는다. 예: "Liverpool star Barcola", "Barcola's Liverpool form", 경기 평점·라인업·부상·인터뷰 기사에서 그 팀 선수로 나온 경우. 이적설의 행선지, 과거 소속, 상대 팀 선수 추측은 넣지 않는다. 확실하지 않으면 빈 배열.
+- 인명 표기 목록 뒤의 "최근 기사로 확인된 소속"도 현재 소속이다. 그 클럽으로 가는 이적은 이미 끝난 이적이다.
 
 입력 순서와 i 값을 그대로 유지해 모든 기사에 대해 결과를 낸다.`;
 
@@ -118,7 +126,21 @@ const STAGES = new Set(['interest', 'negotiation', 'agreement', 'done', 'collaps
 const LEAGUES = new Set(['epl', 'laliga', 'seriea', 'bundesliga', 'ligue1', 'other']);
 const SLUGS = new Set(CLUB_SLUGS);
 
-function normalize(raw, sourceId) {
+// 이적 분류·단계·이적 이슈 키 제거
+function stripTransfer(item) {
+  item.category = 'other';
+  item.stage = null;
+  item.transfer_player = item.transfer_from = item.transfer_to = null;
+  if (/-transfer$/.test(String(item.issue_key ?? ''))) item.issue_key = item.issue_title_ko = null;
+}
+
+const looseText = (s) => (s ?? '').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9가-힣]+/g, ' ').trim();
+const evidenceInTitle = (ev, title) => {
+  const e = looseText(ev);
+  return e.length >= 3 && looseText(title).includes(e);
+};
+
+function normalize(raw, sourceId, title) {
   // 저장 직전 인명 오표기 교정 (표기 사전 config/names.mjs)
   const item = {
     ...raw,
@@ -137,15 +159,16 @@ function normalize(raw, sourceId) {
     item.transfer_player = item.transfer_from = item.transfer_to = null;
     if (/-transfer$/.test(String(item.issue_key ?? ''))) item.issue_key = item.issue_title_ko = null;
   }
-  // 선수 사전의 현재 소속으로 이적 방향 점검: 이미 그 클럽 소속이면 지난 이적, 출발지가 다르면 현재 소속으로 교정
+  // 이적 근거 구절이 없거나 제목에 없는 문구면 이적 기사가 아님 (지난 이적을 "transfer" 명사로만 언급한 경우 등)
+  if (item.category === 'transfer' && !evidenceInTitle(item.transfer_evidence, title)) stripTransfer(item);
+  // 출발지와 행선지가 같은 클럽이면 이적이 아님 (예: 맨유 → 맨유)
+  if (item.category === 'transfer' && sameClubKo(item.transfer_from, item.transfer_to)) stripTransfer(item);
+  // 현재 소속으로 이적 방향 점검 (선수 사전 → 없으면 기사에서 학습한 소속): 이미 그 클럽 소속이면 지난 이적, 출발지가 다르면 현재 소속으로 교정
   const known = PLAYER_BY_KO.get(item.transfer_player);
-  const current = known && CLUB_BY_SLUG[known.club]?.ko;
+  const current = (known && CLUB_BY_SLUG[known.club]?.ko) || confirmedClub(item.transfer_player);
   if (item.category === 'transfer' && current) {
     if (sameClubKo(item.transfer_to, current)) {
-      item.category = 'other';
-      item.stage = null;
-      item.transfer_player = item.transfer_from = item.transfer_to = null;
-      if (/-transfer$/.test(String(item.issue_key ?? ''))) item.issue_key = item.issue_title_ko = null;
+      stripTransfer(item);
     } else if (item.transfer_from && !sameClubKo(item.transfer_from, current)) {
       item.transfer_from = current;
     }
@@ -188,7 +211,7 @@ const ISSUE_KEY_RE = /^[a-z0-9]+(-[a-z0-9]+)*-(transfer|contract|manager-future|
 export const validIssueKey = (key) => typeof key === 'string' && ISSUE_KEY_RE.test(key.trim().toLowerCase());
 
 // 지시문 버전: 지시문을 고치면 올린다. --reenrich 는 이전 버전으로 가공된 기사만 다시 가공
-export const PROMPT_VERSION = 7;
+export const PROMPT_VERSION = 8;
 
 let client;
 // 이번 실행의 API 오류 (meta.json 의 llmErrors 로 남겨 원인 확인)
@@ -241,7 +264,7 @@ async function requestBatch(articles, activeIssues) {
       messages: [
         {
           role: 'user',
-          content: `오늘 날짜(UTC): ${today}\n클럽 slug 목록: ${CLUB_SLUGS.join(', ')}\n인명 표기: ${PLAYER_NAMES}\n\n기존 이슈(key\\t제목):\n${issues}\n\n기사 목록(i\\t[매체/언어] 제목):\n${lines.join('\n')}`,
+          content: `오늘 날짜(UTC): ${today}\n클럽 slug 목록: ${CLUB_SLUGS.join(', ')}\n인명 표기: ${PLAYER_NAMES}\n최근 기사로 확인된 소속: ${rosterHint() || '(없음)'}\n\n기존 이슈(key\\t제목):\n${issues}\n\n기사 목록(i\\t[매체/언어] 제목):\n${lines.join('\n')}`,
         },
       ],
     });
@@ -253,7 +276,7 @@ async function requestBatch(articles, activeIssues) {
     const out = new Map();
     for (const item of res.parsed_output.items) {
       const a = articles[item.i];
-      if (a) out.set(a.id, normalize(item, a.source));
+      if (a) out.set(a.id, normalize(item, a.source, a.title));
     }
     return out;
   } catch (err) {
