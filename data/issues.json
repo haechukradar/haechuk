@@ -1,10 +1,158 @@
 [
  {
+  "slug": "julian-alvarez-barcelona-transfer",
+  "mode": "llm",
+  "titleKo": "훌리안 알바레스 바르셀로나 이적설 종결",
+  "createdAt": "2026-11-08T19:29:27.000Z",
+  "updatedAt": "2026-11-10T10:28:01.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "barcelona",
+   "atletico"
+  ],
+  "players": [
+   "훌리안 알바레스",
+   "알렉스 바이아"
+  ],
+  "sig": [
+   "julián"
+  ],
+  "articles": [
+   {
+    "id": "e8125f12f746",
+    "url": "https://as.com/futbol/primera/laporta-el-tema-de-julian-esta-zanjado-f202611-n/",
+    "title": "Laporta: “El tema de Julián está zanjado”",
+    "ko": "라포르타 '훌리안 건은 끝났다'",
+    "source": "as",
+    "publishedAt": "2026-11-08T19:29:27.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "collapsed",
+    "players": [
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": "Patricia Cazón",
+    "transfer": {
+     "player": "훌리안 알바레스",
+     "from": null,
+     "to": "바르셀로나"
+    }
+   },
+   {
+    "id": "e8661fef9223",
+    "url": "https://as.com/futbol/videos/el-motivo-por-el-que-julian-alvarez-aparecio-en-la-fila-del-barca-f202611-v/",
+    "title": "El motivo por el que Julián Alvarez apareció en la fila del Barça",
+    "ko": "훌리안 알바레스, 바르셀로나 관중석에 나타난 이유",
+    "source": "as",
+    "publishedAt": "2026-11-09T16:22:11.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "1a4e84a72c5a",
+    "url": "https://as.com/futbol/primera/simeone-julian-no-va-a-salir-f202611-n/",
+    "title": "Simeone: “Julián no va a salir”",
+    "ko": "시메오네 “훌리안, 떠나지 않는다”",
+    "source": "as",
+    "publishedAt": "2026-11-09T21:16:57.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": "AS Atlético",
+    "transfer": {
+     "player": "훌리안 알바레스",
+     "from": "아틀레티코 마드리드",
+     "to": null
+    }
+   },
+   {
+    "id": "db9fb6252eb4",
+    "url": "https://www.record.pt/internacional/paises/espanha/atletico-madrid/detalhe/alex-baena-sobre-julian-alvarez-e-estranho-quando-um-colega-diz-publicamente-que-quer-sair",
+    "title": "Álex Baena sobre Julián Álvarez: «É estranho quando um colega diz publicamente que quer sair»",
+    "ko": "알렉스 바이아, 훌리안 알바레스 이적 언급 '이상하다'",
+    "source": "record",
+    "publishedAt": "2026-11-10T10:28:01.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "알렉스 바이아",
+     "훌리안 알바레스"
+    ],
+    "playerTags": [
+     "julian-alvarez"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.95,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "e8125f12f746",
+    "at": "2026-11-08T19:29:27.000Z",
+    "source": "as",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "julian-alvarez"
+  ],
+  "transfer": {
+   "player": "훌리안 알바레스",
+   "from": "아틀레티코 마드리드",
+   "to": "바르셀로나"
+  },
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-08T19:29:27.000Z",
+   "viaQuote": false
+  },
+  "headline": "Álex Baena sobre Julián Álvarez: «É estranho quando um colega diz publicamente que quer sair»"
+ },
+ {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭, 맨유 감독 행보 힌트",
   "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-10T09:15:57.000Z",
+  "updatedAt": "2026-11-10T10:24:39.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -1321,11 +1469,47 @@
     "playerTags": [],
     "author": "Matthew Abbott",
     "transfer": null
+   },
+   {
+    "id": "35f7b65a6d25",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-sack-34888165",
+    "title": "7 pundits have their say on sacking Michael Carrick with opinions split on Man United boss",
+    "ko": "캐릭 경질 두고 전문가 7인 의견 엇갈려",
+    "source": "men",
+    "publishedAt": "2026-11-10T10:11:59.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": null
+   },
+   {
+    "id": "c806a3426de9",
+    "url": "https://www.dailystar.co.uk/sport/football/man-utd-decision-delay-explained-37861332",
+    "title": "Man Utd decision delay explained ahead of Michael Carrick sack announcement",
+    "ko": "맨유, 캐릭 경질 발표 앞두고 결정 지연 이유 보도",
+    "source": "star",
+    "publishedAt": "2026-11-10T10:24:39.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Cockerton",
+    "transfer": null
    }
   ],
-  "recentSources": 12,
+  "recentSources": 11,
   "sourceCount": 14,
-  "score": 5.7,
+  "score": 4.57,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1339,6 +1523,932 @@
    "viaQuote": true
   },
   "headline": "Man Utd expected to sack head coach Carrick"
+ },
+ {
+  "slug": "tel-injury",
+  "mode": "llm",
+  "titleKo": "마티스 텔 부상 상황",
+  "createdAt": "2026-11-10T10:23:26.000Z",
+  "updatedAt": "2026-11-10T10:23:26.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "tottenham"
+  ],
+  "players": [
+   "마티스 텔"
+  ],
+  "sig": [
+   "mathys",
+   "tel",
+   "french",
+   "federation"
+  ],
+  "articles": [
+   {
+    "id": "8dda23368056",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-huge-mathys-tel-injury-34888648",
+    "title": "Tottenham get huge Mathys Tel injury update as French Football Federation issue statement",
+    "ko": "토트넘, 마티스 텔 부상 관련 프랑스축구협회 발표 주목",
+    "source": "fblondon",
+    "publishedAt": "2026-11-10T10:23:26.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마티스 텔"
+    ],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.92,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-10T10:23:26.000Z",
+   "viaQuote": false
+  },
+  "headline": "Tottenham get huge Mathys Tel injury update as French Football Federation issue statement"
+ },
+ {
+  "slug": "birmingham-affairs-tom-brady-stake",
+  "mode": "llm",
+  "titleKo": "톰 브래디, 버밍엄 시티 투자자 지위 종료",
+  "createdAt": "2026-11-09T23:24:35.000Z",
+  "updatedAt": "2026-11-10T10:21:05.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "birmingham"
+  ],
+  "players": [
+   "톰 브래디"
+  ],
+  "sig": [
+   "nfl",
+   "tom",
+   "brady"
+  ],
+  "articles": [
+   {
+    "id": "f35c238b8573",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-legende-de-la-nfl-tom-brady-n-est-plus-actionnaire-de-birmingham-city/1742662#at_medium=RSS_feeds",
+    "title": "La légende de la NFL Tom Brady n'est plus actionnaire de Birmingham City",
+    "ko": "NFL 전설 톰 브래디, 버밍엄 시티 지분 정리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-09T23:24:35.000Z",
+    "credited": "레키프",
+    "clubs": [
+     "birmingham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "e7aa1cda0561",
+    "url": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
+    "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
+    "ko": "톰 브래디, 버밍엄 시티 투자 지분 정리",
+    "source": "guardian",
+    "publishedAt": "2026-11-09T23:30:38.000Z",
+    "credited": null,
+    "clubs": [
+     "birmingham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Reuters",
+    "transfer": null
+   },
+   {
+    "id": "4ec974ef3e36",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/adeus-inesperado-tom-brady-deixa-o-birmingham-numa-altura-em-que-o-clube-sonha-com-a-premier-league",
+    "title": "Adeus inesperado: Tom Brady deixa Birmingham numa altura em que o clube sonha com a Premier League",
+    "ko": "톰 브래디, 버밍엄 시티 투자 지위 떠나",
+    "source": "record",
+    "publishedAt": "2026-11-10T00:18:00.000Z",
+    "credited": null,
+    "clubs": [
+     "birmingham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "톰 브래디"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "99c90b6622c1",
+    "url": "https://www.thesun.co.uk/sport/40976092/why-tom-brady-quit-birmingham-city/",
+    "title": "Why has Tom Brady quit Birmingham City?",
+    "ko": "톰 브래디, 버밍엄 시티 떠난 이유는?",
+    "source": "sun",
+    "publishedAt": "2026-11-10T10:21:05.000Z",
+    "credited": null,
+    "clubs": [
+     "birmingham"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "톰 브래디"
+    ],
+    "playerTags": [],
+    "author": "Jimmy Grant",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 1.37,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레키프",
+   "at": "2026-11-09T23:24:35.000Z",
+   "viaQuote": true
+  },
+  "headline": "Adeus inesperado: Tom Brady deixa Birmingham numa altura em que o clube sonha com a Premier League"
+ },
+ {
+  "slug": "quadri-injury",
+  "mode": "llm",
+  "titleKo": "쿠아드리 뇌진탕 프로토콜 발동",
+  "createdAt": "2026-11-09T19:53:20.000Z",
+  "updatedAt": "2026-11-10T09:48:41.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "쿠아드리",
+   "콰드리"
+  ],
+  "sig": [],
+  "articles": [
+   {
+    "id": "efb18aafc7c1",
+    "url": "https://as.com/futbol/segunda/quadri-juega-12-minutos-y-se-activa-el-protocolo-de-conmociones-f202611-n/",
+    "title": "Quadri juega 12 minutos y se activa el protocolo de conmociones",
+    "ko": "키아리 쿠아드리 12분 출전 후 뇌진탕 프로토콜 발동",
+    "source": "as",
+    "publishedAt": "2026-11-09T19:53:20.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "쿠아드리"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null
+   },
+   {
+    "id": "d12a4709501e",
+    "url": "https://as.com/futbol/segunda/quadri-por-protocolo-de-conmociones-estara-siete-dias-sin-hacer-deporte-f202611-n/",
+    "title": "Quadri, por protocolo de conmociones, estará siete días sin hacer deporte",
+    "ko": "콰드리, 충격 프로토콜로 7일간 훈련 불가",
+    "source": "as",
+    "publishedAt": "2026-11-10T09:48:41.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "콰드리"
+    ],
+    "playerTags": [],
+    "author": "Marc Bernad Suelves",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.74,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-09T19:53:20.000Z",
+   "viaQuote": false
+  },
+  "headline": "Quadri, por protocolo de conmociones, estará siete días sin hacer deporte"
+ },
+ {
+  "slug": "anderlecht-club-brugge-2026-11-08",
+  "mode": "llm",
+  "titleKo": "안더레흐트 대 클럽 브뤼허 경기",
+  "createdAt": "2026-11-07T06:07:24.000Z",
+  "updatedAt": "2026-11-10T09:40:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "club-brugge"
+  ],
+  "players": [
+   "얀 비르길리",
+   "한스 반아케르",
+   "미하일로 츠베트코비치",
+   "한스 반아나켄",
+   "한스 반라켄",
+   "한스 반아캔",
+   "한스 반케"
+  ],
+  "sig": [
+   "anderlecht",
+   "louvière",
+   "frank",
+   "boeckx"
+  ],
+  "articles": [
+   {
+    "id": "9001e3ced4b9",
+    "url": "https://www.hln.be/belgisch-voetbal/je-bent-anderlecht-he-niet-la-louviere-analist-frank-boeckx-legt-uit-hoe-en-waarom-paars-wit-zondag-kan-winnen-van-club-brugge~a54188f6/",
+    "title": "“Je bent Anderlecht hè, niet La Louvière”: analist Frank Boeckx legt uit hoe en waarom paars-wit zondag kan winnen van Club Brugge",
+    "ko": "안더레흐트, 주말 클럽 브뤼허 격파 가능성 분석",
+    "source": "hln",
+    "publishedAt": "2026-11-07T06:07:24.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "c6920cdd5436",
+    "url": "https://www.hln.be/belgisch-voetbal/tactisch-expert-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
+    "title": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
+    "ko": "안더레흐트 대 클럽 브뤼허, 일요일 맞대결 승부 전망",
+    "source": "hln",
+    "publishedAt": "2026-11-07T06:16:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "9e1f50d58b30",
+    "url": "https://www.hln.be/belgisch-voetbal/analist-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
+    "title": "Analist Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
+    "ko": "프랭크 뵈크스, 안더레흐트가 일요일 클럽 브뤼허를 꺾을 방법 분석",
+    "source": "hln",
+    "publishedAt": "2026-11-07T06:16:00.000Z",
+    "credited": "프랭크 뵈크스",
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "e549f80f0357",
+    "url": "https://www.hln.be/jupiler-pro-league/live-club-brugge-zonder-jan-virgili-tegen-anderlecht-jonge-doelman-van-nxt-pijnlijk-in-de-fout-oude-bekende-flips-profiteert-heerlijk~ad78c7c0/",
+    "title": "LIVE. Club Brugge zonder Jan Virgili tegen Anderlecht - Jonge doelman van NXT pijnlijk in de fout, oude bekende Flips profiteert héérlijk",
+    "ko": "클럽 브뤼허, 안더레흐트전 라이브…유망 골키퍼 실수 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-07T17:42:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "얀 비르길리"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "2252b372fdf1",
+    "url": "https://www.hln.be/jupiler-pro-league/live-een-nederlaag-in-vorige-vijf-seizoenen-deze-statistiek-moet-anderlecht-vertrouwen-geven-richting-clash-op-jan-breydel~ad78c7c0/",
+    "title": "LIVE. Eén nederlaag in vorige vijf seizoenen: deze statistiek moet Anderlecht vertrouwen geven richting clash op Jan Breydel",
+    "ko": "안더레흐트, 얀 브레이델에서 클럽 브뤼허와 대결…최근 패배 적어",
+    "source": "hln",
+    "publishedAt": "2026-11-08T09:29:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "eba0582d504e",
+    "url": "https://www.hln.be/jupiler-pro-league/live-veel-wissels-bij-club-brugge-voor-clash-met-anderlecht-tresoldi-en-vermant-samen-in-de-spits-tsawa-vervangt-geschorste-potts~ad78c7c0/",
+    "title": "LIVE. Veel wissels bij Club Brugge voor clash met Anderlecht: Tresoldi en Vermant samen in de spits, Tsawa vervangt geschorste Potts",
+    "ko": "클럽 브뤼허, 안더레흐트전 선발 변화…포츠 결장",
+    "source": "hln",
+    "publishedAt": "2026-11-08T11:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "51a874b40097",
+    "url": "https://www.hln.be/jupiler-pro-league/live-veel-wissels-bij-club-brugge-voor-clash-met-anderlecht-tresoldi-en-vermant-samen-in-de-spits-hans-vanaken-speelt-met-speciaal-shirt~ad78c7c0/",
+    "title": "LIVE. Veel wissels bij Club Brugge voor clash met Anderlecht: Tresoldi en Vermant samen in de spits, Hans Vanaken speelt met speciaal shirt",
+    "ko": "클럽 브뤼허, 안더레흐트전 선발 대거 교체 라이브",
+    "source": "hln",
+    "publishedAt": "2026-11-08T12:10:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "15d90c50d926",
+    "url": "https://www.hln.be/belgisch-voetbal/de-duitser-viel-dramatisch-in-club-brugge-krijgt-heel-wat-zesjes-een-buis-bij-anderlecht~ae75fc78/",
+    "title": "“De Duitser viel dramatisch in”: Club Brugge krijgt heel wat ‘zesjes’, één buis bij Anderlecht",
+    "ko": "클럽 브뤼허, 안더레흐트전 평점 혹평 속 독일 선수 논란",
+    "source": "hln",
+    "publishedAt": "2026-11-08T14:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "151e18513bd7",
+    "url": "https://www.hln.be/belgisch-voetbal/hij-viel-dramatisch-in-een-buis-bij-anderlecht-club-brugge-krijgt-heel-wat-zessen~ae75fc78/",
+    "title": "“Hij viel dramatisch in”: één buis bij Anderlecht, Club Brugge krijgt heel wat zessen",
+    "ko": "\"드라마틱하게 교체 투입\"…안더레흐트 한 번의 슛, 클럽 브뤼허 여섯 차례 기회",
+    "source": "hln",
+    "publishedAt": "2026-11-08T14:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "580dbc2d0fe3",
+    "url": "https://www.hln.be/jupiler-pro-league/schaf-de-var-gewoon-af-dit-is-totaal-belachelijk-hans-vanaken-is-scherp-na-gelijkmaker-van-anderlecht-die-moest-afgekeurd-worden~ad78c7c0/",
+    "title": "“Schaf de VAR gewoon af, dit is totaal belachelijk”: Hans Vanaken is scherp na gelijkmaker van Anderlecht, die “moest afgekeurd worden”",
+    "ko": "반아케르, 안더레흐트 동점골 두고 VAR 비판",
+    "source": "hln",
+    "publishedAt": "2026-11-08T14:42:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "한스 반아케르"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "17056367a292",
+    "url": "https://www.hln.be/jupiler-pro-league/ik-wilde-niet-neergaan-mihajlo-cvetkovic-bezorgt-anderlecht-een-punt-tegen-club-brugge-na-discutabele-fase~ad78c7c0/",
+    "title": "“Ik wilde niet neergaan”: Mihajlo Cvetkovic bezorgt Anderlecht een punt tegen Club Brugge na discutabele fase",
+    "ko": "츠베트코비치 극적 동점골, 안더레흐트 승점 1 확보",
+    "source": "hln",
+    "publishedAt": "2026-11-08T15:08:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "미하일로 츠베트코비치"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "18648a9a3ccb",
+    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-niet-te-spreken-over-gelijkmaker-anderlecht~a04d4a15a/",
+    "title": "“Schaf de VAR gewoon af”: Hans Vanaken niet te spreken over gelijkmaker Anderlecht",
+    "ko": "반아나켄, 안더레흐트 동점골에 VAR 폐지 주장",
+    "source": "hln",
+    "publishedAt": "2026-11-08T15:09:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "한스 반아나켄"
+    ],
+    "playerTags": [],
+    "author": "Imar Vandenabeele",
+    "transfer": null
+   },
+   {
+    "id": "a12cf694e615",
+    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-niet-te-spreken-over-gelijkmaker-anderlecht-ook-club-brugge-coach-ivan-leko-haalt-uit~a04d4a15a/",
+    "title": "“Schaf de VAR gewoon af”: Hans Vanaken niet te spreken over gelijkmaker Anderlecht, ook Club Brugge-coach Ivan Leko haalt uit",
+    "ko": "반라켄, 앤더레흐트 동점골 VAR 판정에 불만 표출",
+    "source": "hln",
+    "publishedAt": "2026-11-08T15:48:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "한스 반라켄"
+    ],
+    "playerTags": [],
+    "author": "Imar Vandenabeele",
+    "transfer": null
+   },
+   {
+    "id": "95df472f3f3e",
+    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-en-club-brugge-coach-ivan-leko-halen-zwaar-uit-naar-arbitrage-over-gelijkmaker-anderlecht~a04d4a15a/",
+    "title": "“Schaf de VAR gewoon af”: Hans Vanaken en Club Brugge-coach Ivan Leko halen zwaar uit naar arbitrage over gelijkmaker Anderlecht",
+    "ko": "반아캔·레코 클럽 브뤼허, 안더레흐트 동점골 판정 강력 비판",
+    "source": "hln",
+    "publishedAt": "2026-11-08T15:48:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "한스 반아캔"
+    ],
+    "playerTags": [],
+    "author": "Imar Vandenabeele",
+    "transfer": null
+   },
+   {
+    "id": "fd5ae20f41ad",
+    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-en-club-brugge-coach-ivan-leko-halen-zwaar-uit-naar-de-arbitrage-over-gelijkmaker-anderlecht~a04d4a15a/",
+    "title": "“Schaf de VAR gewoon af”: Hans Vanaken en Club Brugge-coach Ivan Leko halen zwaar uit naar de arbitrage over gelijkmaker Anderlecht",
+    "ko": "반케·레코, 안더레흐트 동점골 판정에 VAR 비판",
+    "source": "hln",
+    "publishedAt": "2026-11-08T15:48:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "한스 반케"
+    ],
+    "playerTags": [],
+    "author": "Imar Vandenabeele",
+    "transfer": null
+   },
+   {
+    "id": "6716d6774bbb",
+    "url": "https://www.hln.be/club-brugge/hij-was-hier-om-de-show-te-stelen-ivan-leko-en-club-brugge-ergeren-zich-kapot-aan-arbitrage-tegen-anderlecht~ad494e84/",
+    "title": "“Hij was hier om de show te stelen”: Ivan Leko en Club Brugge ergeren zich kapot aan arbitrage tegen Anderlecht",
+    "ko": "클럽 브뤼허, 안더레흐트전 심판 판정에 격분",
+    "source": "hln",
+    "publishedAt": "2026-11-08T16:29:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tomas Taecke",
+    "transfer": null
+   },
+   {
+    "id": "c92428064027",
+    "url": "https://www.hln.be/jupiler-pro-league/we-gaan-de-lat-toch-hoger-leggen-dan-dit-hln-voetbalpodcast-geraakt-het-niet-eens-over-doelpunt-van-anderlecht-tegen-club-brugge~a33b5bb3/",
+    "title": "“We gaan de lat toch hoger leggen dan dit?”: HLN Voetbalpodcast geraakt het niet eens over doelpunt van Anderlecht tegen Club Brugge",
+    "ko": "HLN 팟캐스트, 안더레흐트 대 클럽 브뤼허 득점 장면 평가 엇갈려",
+    "source": "hln",
+    "publishedAt": "2026-11-09T14:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "36171943d481",
+    "url": "https://www.hln.be/anderlecht/krijgt-de-topper-nog-een-staartje-anderlecht-riskeert-forfaitnederlaag-na-fout-op-wedstrijdblad~a6299f36/",
+    "title": "Krijgt de topper nog een staartje? Anderlecht riskeert forfaitnederlaag na fout op wedstrijdblad",
+    "ko": "안더레흐트, 경기 명단 실수로 몰수패 위기",
+    "source": "hln",
+    "publishedAt": "2026-11-09T16:14:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kjell Doms",
+    "transfer": null
+   },
+   {
+    "id": "16734a03c6bb",
+    "url": "https://www.hln.be/anderlecht/krijgt-de-topper-nog-een-staartje-anderlecht-riskeert-forfaitnederlaag-na-fout-op-wedstrijdblad-club-brugge-heeft-dertig-dagen-om-klacht-in-te-dienen~a6299f36/",
+    "title": "Krijgt de topper nog een staartje? Anderlecht riskeert forfaitnederlaag na fout op wedstrijdblad, Club Brugge heeft dertig dagen om klacht in te dienen",
+    "ko": "안더레흐트, 클럽 브뤼허전 기록지 실수로 몰수패 위기",
+    "source": "hln",
+    "publishedAt": "2026-11-09T18:42:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kjell Doms",
+    "transfer": null
+   },
+   {
+    "id": "5189cd2fdcae",
+    "url": "https://www.hln.be/anderlecht/de-bal-ligt-in-het-kamp-van-club-brugge-blauw-zwart-heeft-dertig-dagen-om-klacht-in-te-dienen-na-fout-van-anderlecht-op-wedstrijdblad~a6299f36/",
+    "title": "De bal ligt in het kamp van Club Brugge: blauw-zwart heeft dertig dagen om klacht in te dienen na fout van Anderlecht op wedstrijdblad",
+    "ko": "클럽 브뤼허, 안더레흐트 명단 실수에 30일 내 제소 가능",
+    "source": "hln",
+    "publishedAt": "2026-11-09T19:14:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kjell Doms",
+    "transfer": null
+   },
+   {
+    "id": "e62c81843369",
+    "url": "https://www.hln.be/anderlecht/de-bal-ligt-in-het-kamp-van-club-brugge-blauw-zwart-heeft-30-dagen-om-klacht-in-te-dienen-na-fout-van-anderlecht-op-wedstrijdblad~a6299f36/",
+    "title": "De bal ligt in het kamp van Club Brugge: blauw-zwart heeft 30 dagen om klacht in te dienen na fout van Anderlecht op wedstrijdblad",
+    "ko": "클럽 브뤼허, 안더레흐트 명단 오류로 30일 내 이의 제기 가능",
+    "source": "hln",
+    "publishedAt": "2026-11-09T19:14:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kjell Doms",
+    "transfer": null
+   },
+   {
+    "id": "c17917310c94",
+    "url": "https://www.hln.be/belgisch-voetbal/exclusief-had-hij-het-tellertje-maar-gezien-dit-is-hoe-anderlecht-forfaitnederlaag-riskeerde-tegen-club-brugge~a7af77ae/",
+    "title": "EXCLUSIEF. Had hij het tellertje maar gezien: dit is hoe Anderlecht forfaitnederlaag riskeerde tegen Club Brugge",
+    "ko": "안더레흐트, 클럽 브뤼허전 몰수패 위기였던 사연 보도",
+    "source": "hln",
+    "publishedAt": "2026-11-09T19:34:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "d632c714fca3",
+    "url": "https://www.hln.be/belgisch-voetbal/exclusief-had-hij-het-tellertje-maar-gezien-dit-is-hoe-anderlecht-een-forfaitnederlaag-tegen-club-brugge-riskeerde~a7af77ae/",
+    "title": "EXCLUSIEF. Had hij het tellertje maar gezien: dit is hoe Anderlecht een forfaitnederlaag tegen Club Brugge riskeerde",
+    "ko": "안더레흐트, 클럽 브뤼허전 몰수패 위기 빠뜨린 실수 공개",
+    "source": "hln",
+    "publishedAt": "2026-11-09T19:49:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Yanko Beeckman",
+    "transfer": null
+   },
+   {
+    "id": "f98139b704cb",
+    "url": "https://www.hln.be/club-brugge/club-brugge-wil-dat-regels-worden-nageleefd-en-dient-klacht-in-bij-disciplinaire-raad-na-administratieve-fout-van-anderlecht~a3879aae/",
+    "title": "Club Brugge wil dat regels worden nageleefd en dient klacht in bij Disciplinaire Raad na administratieve fout van Anderlecht",
+    "ko": "클럽 브뤼허, 안더레흐트 행정 실수 후 징계위 제소",
+    "source": "hln",
+    "publishedAt": "2026-11-10T09:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.02,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "프랭크 뵈크스",
+   "at": "2026-11-07T06:07:24.000Z",
+   "viaQuote": true
+  },
+  "headline": "Club Brugge wil dat regels worden nageleefd en dient klacht in bij Disciplinaire Raad na administratieve fout van Anderlecht"
+ },
+ {
+  "slug": "szoboszlai-injury",
+  "mode": "llm",
+  "titleKo": "소보슬라이 부상 판단 임박, 리버풀 악재 우려",
+  "createdAt": "2026-11-09T01:00:00.000Z",
+  "updatedAt": "2026-11-10T09:31:04.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [
+   "도미니크 소보슬러이",
+   "도미니크 소보슬라이",
+   "소보슬라이"
+  ],
+  "sig": [
+   "iraola",
+   "dominik",
+   "szoboszlai"
+  ],
+  "articles": [
+   {
+    "id": "3bf7f0bba822",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-hints-liverpool-take-34880338",
+    "title": "Andoni Iraola hints Liverpool will take Dominik Szoboszlai injury decision - 'Last thing we need'",
+    "ko": "소보슬라이 부상 판단 임박, 이라올라 \"지금 가장 필요 없는 일\"",
+    "source": "lecho",
+    "publishedAt": "2026-11-09T01:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "도미니크 소보슬러이"
+    ],
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "0f1945f50544",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-injury-latest-official-34883007",
+    "title": "Dominik Szoboszlai injury latest as official statement released after Liverpool star forced off",
+    "ko": "소보슬라이 부상 관련 리버풀 공식 발표",
+    "source": "lecho",
+    "publishedAt": "2026-11-09T09:17:22.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "도미니크 소보슬러이"
+    ],
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "a49191015820",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+    "title": "Szoboszlai a doubt for Nations League conclusion",
+    "ko": "소보슬라이, 네이션스리그 마무리 출전 여부 불투명",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T16:25:33.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "도미니크 소보슬라이"
+    ],
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ac46d569934e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-injury-decision-made-34888585",
+    "title": "Dominik Szoboszlai injury decision made as new statement released after Liverpool setback",
+    "ko": "소보슬라이 부상 판단 확정, 리버풀 악재 이어져",
+    "source": "lecho",
+    "publishedAt": "2026-11-10T09:31:04.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "소보슬라이"
+    ],
+    "playerTags": [
+     "dominik-szoboszlai"
+    ],
+    "author": "Theo Squires",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.65,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "dominik-szoboszlai"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-09T01:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Szoboszlai a doubt for Nations League conclusion"
+ },
+ {
+  "slug": "gittens-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "첼시 지틀렌스 이적 결정 임박",
+  "createdAt": "2026-11-10T09:13:01.000Z",
+  "updatedAt": "2026-11-10T09:13:01.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "지틀렌스"
+  ],
+  "sig": [
+   "jamie",
+   "gittens"
+  ],
+  "articles": [
+   {
+    "id": "97c6803b8d79",
+    "url": "https://www.footballinsider247.com/chelsea/transfers/sources-chelsea-make-up-minds-over-jamie-gittens-january-move",
+    "title": "Sources: Chelsea make up minds over Jamie Gittens January move",
+    "ko": "첼시, 지틀렌스 1월 이적 결정 임박 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-10T09:13:01.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "지틀렌스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "지틀렌스",
+     "from": null,
+     "to": "첼시"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.47,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "97c6803b8d79",
+    "at": "2026-11-10T09:13:01.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "지틀렌스",
+   "from": null,
+   "to": "첼시"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-10T09:13:01.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Chelsea make up minds over Jamie Gittens January move"
  },
  {
   "slug": "porto-affairs-annual-report",
@@ -1397,7 +2507,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1460,7 +2570,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.72,
+  "score": 1.43,
   "topTier": 2,
   "stageHistory": [
    {
@@ -1579,7 +2689,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.66,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1691,7 +2801,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.64,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1776,7 +2886,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 2.43,
+  "score": 2.02,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1849,7 +2959,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.5,
+  "score": 1.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2025,7 +3135,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.38,
+  "score": 0.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2165,7 +3275,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.4,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2598,7 +3708,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.38,
+  "score": 0.32,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3323,7 +4433,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.28,
+  "score": 1.07,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4392,7 +5502,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 14,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4451,7 +5561,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.23,
+  "score": 1.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4511,7 +5621,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4582,7 +5692,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.08,
+  "score": 0.9,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4645,7 +5755,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.44,
+  "score": 1.2,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5380,7 +6490,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 1.42,
+  "score": 1.18,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5434,7 +6544,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.41,
+  "score": 1.17,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5997,7 +7107,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 10,
-  "score": 0.91,
+  "score": 0.76,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6164,7 +7274,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.89,
+  "score": 0.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6212,7 +7322,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.81,
+  "score": 0.68,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6593,7 +7703,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 1.16,
+  "score": 0.97,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6746,7 +7856,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.76,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6761,98 +7871,6 @@
    "viaQuote": false
   },
   "headline": "Khusanov, Guehi, Gvardiol - Man City injury news and return dates as duo withdraw from national teams"
- },
- {
-  "slug": "birmingham-affairs-tom-brady-stake",
-  "mode": "llm",
-  "titleKo": "톰 브래디, 버밍엄 시티 투자자 지위 종료",
-  "createdAt": "2026-11-09T23:24:35.000Z",
-  "updatedAt": "2026-11-10T00:18:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "birmingham"
-  ],
-  "players": [
-   "톰 브래디"
-  ],
-  "sig": [
-   "nfl",
-   "tom",
-   "brady"
-  ],
-  "articles": [
-   {
-    "id": "f35c238b8573",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-legende-de-la-nfl-tom-brady-n-est-plus-actionnaire-de-birmingham-city/1742662#at_medium=RSS_feeds",
-    "title": "La légende de la NFL Tom Brady n'est plus actionnaire de Birmingham City",
-    "ko": "NFL 전설 톰 브래디, 버밍엄 시티 지분 정리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-09T23:24:35.000Z",
-    "credited": "레키프",
-    "clubs": [
-     "birmingham"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "e7aa1cda0561",
-    "url": "https://www.theguardian.com/football/2026/nov/09/tom-brady-birmingham-city-investor-sale-exit",
-    "title": "Tom Brady ends tenure as investor in Birmingham City after three years",
-    "ko": "톰 브래디, 버밍엄 시티 투자 지분 정리",
-    "source": "guardian",
-    "publishedAt": "2026-11-09T23:30:38.000Z",
-    "credited": null,
-    "clubs": [
-     "birmingham"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Reuters",
-    "transfer": null
-   },
-   {
-    "id": "4ec974ef3e36",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/adeus-inesperado-tom-brady-deixa-o-birmingham-numa-altura-em-que-o-clube-sonha-com-a-premier-league",
-    "title": "Adeus inesperado: Tom Brady deixa Birmingham numa altura em que o clube sonha com a Premier League",
-    "ko": "톰 브래디, 버밍엄 시티 투자 지위 떠나",
-    "source": "record",
-    "publishedAt": "2026-11-10T00:18:00.000Z",
-    "credited": null,
-    "clubs": [
-     "birmingham"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "톰 브래디"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 0.96,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레키프",
-   "at": "2026-11-09T23:24:35.000Z",
-   "viaQuote": true
-  },
-  "headline": "Adeus inesperado: Tom Brady deixa Birmingham numa altura em que o clube sonha com a Premier League"
  },
  {
   "slug": "plymouth-parkway-berkhamsted-2026-11-08",
@@ -6888,7 +7906,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
+  "score": 0.49,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7054,7 +8072,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7069,6 +8087,127 @@
    "viaQuote": false
   },
   "headline": "Musiala may never return to his best - Hoeness"
+ },
+ {
+  "slug": "zubimendi-real-madrid-transfer",
+  "mode": "llm",
+  "titleKo": "수비멘디, 레알 마드리드 이적 관심",
+  "createdAt": "2026-11-09T17:43:58.000Z",
+  "updatedAt": "2026-11-09T23:39:08.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "real-madrid",
+   "atletico"
+  ],
+  "players": [
+   "수비멘디"
+  ],
+  "sig": [
+   "zubimendi",
+   "tuesday"
+  ],
+  "articles": [
+   {
+    "id": "0e7058ca65c7",
+    "url": "https://as.com/futbol/primera/zubimendi-se-pone-a-tiro-f202611-n/",
+    "title": "Zubimendi se pone a tiro",
+    "ko": "수비미디, 레알 마드리드 영입 대상으로 부상",
+    "source": "as",
+    "publishedAt": "2026-11-09T17:43:58.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "수비멘디"
+    ],
+    "playerTags": [],
+    "author": "Eduardo Burgos Rodríguez",
+    "transfer": {
+     "player": "수비멘디",
+     "from": null,
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "c91f119e536f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+    "title": "Atletico target Zubimendi move - Tuesday's gossip",
+    "ko": "아틀레티코, 수비멘디 영입 추진",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T21:13:37.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "수비멘디"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "수비멘디",
+     "from": null,
+     "to": "아틀레티코 마드리드"
+    }
+   },
+   {
+    "id": "9df1ecb867b8",
+    "url": "https://as.com/futbol/seleccion/baena-zubimendi-ojala-pueda-venir-f202611-n/",
+    "title": "Baena: “¿Zubimendi? Ojalá pueda venir\"",
+    "ko": "바에나 \"수비멘디? 와주면 좋겠다\"",
+    "source": "as",
+    "publishedAt": "2026-11-09T23:39:08.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "수비멘디"
+    ],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": {
+     "player": "수비멘디",
+     "from": null,
+     "to": "레알 마드리드"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.3,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "0e7058ca65c7",
+    "at": "2026-11-09T17:43:58.000Z",
+    "source": "as",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "수비멘디",
+   "from": null,
+   "to": "레알 마드리드"
+  },
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-09T17:43:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Baena: “¿Zubimendi? Ojalá pueda venir\""
  },
  {
   "slug": "cf-montreal-affairs-sale",
@@ -7104,7 +8243,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7151,7 +8290,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.33,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7228,9 +8367,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.17,
+  "score": 0,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -7364,9 +8503,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.29,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7424,9 +8563,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7484,9 +8623,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7551,9 +8690,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7655,9 +8794,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8434,227 +9573,6 @@
    "viaQuote": false
   },
   "headline": "Ministra da Saúde vai demitir presidente da ULS do Algarve"
- },
- {
-  "slug": "julian-alvarez-barcelona-transfer",
-  "mode": "llm",
-  "titleKo": "훌리안 알바레스 바르셀로나 이적설 종결",
-  "createdAt": "2026-11-08T19:29:27.000Z",
-  "updatedAt": "2026-11-09T21:16:57.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "barcelona",
-   "atletico"
-  ],
-  "players": [
-   "훌리안 알바레스"
-  ],
-  "sig": [
-   "julián"
-  ],
-  "articles": [
-   {
-    "id": "e8125f12f746",
-    "url": "https://as.com/futbol/primera/laporta-el-tema-de-julian-esta-zanjado-f202611-n/",
-    "title": "Laporta: “El tema de Julián está zanjado”",
-    "ko": "라포르타 '훌리안 건은 끝났다'",
-    "source": "as",
-    "publishedAt": "2026-11-08T19:29:27.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "collapsed",
-    "players": [
-     "훌리안 알바레스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": "Patricia Cazón",
-    "transfer": {
-     "player": "훌리안 알바레스",
-     "from": null,
-     "to": "바르셀로나"
-    }
-   },
-   {
-    "id": "e8661fef9223",
-    "url": "https://as.com/futbol/videos/el-motivo-por-el-que-julian-alvarez-aparecio-en-la-fila-del-barca-f202611-v/",
-    "title": "El motivo por el que Julián Alvarez apareció en la fila del Barça",
-    "ko": "훌리안 알바레스, 바르셀로나 관중석에 나타난 이유",
-    "source": "as",
-    "publishedAt": "2026-11-09T16:22:11.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "훌리안 알바레스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": "AStv",
-    "transfer": null
-   },
-   {
-    "id": "1a4e84a72c5a",
-    "url": "https://as.com/futbol/primera/simeone-julian-no-va-a-salir-f202611-n/",
-    "title": "Simeone: “Julián no va a salir”",
-    "ko": "시메오네 “훌리안, 떠나지 않는다”",
-    "source": "as",
-    "publishedAt": "2026-11-09T21:16:57.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "훌리안 알바레스"
-    ],
-    "playerTags": [
-     "julian-alvarez"
-    ],
-    "author": "AS Atlético",
-    "transfer": {
-     "player": "훌리안 알바레스",
-     "from": "아틀레티코 마드리드",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "e8125f12f746",
-    "at": "2026-11-08T19:29:27.000Z",
-    "source": "as",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "julian-alvarez"
-  ],
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": "아틀레티코 마드리드",
-   "to": "바르셀로나"
-  },
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-08T19:29:27.000Z",
-   "viaQuote": false
-  },
-  "headline": "Simeone: “Julián no va a salir”"
- },
- {
-  "slug": "zubimendi-real-madrid-transfer",
-  "mode": "llm",
-  "titleKo": "수비멘디, 레알 마드리드 이적 관심",
-  "createdAt": "2026-11-09T17:43:58.000Z",
-  "updatedAt": "2026-11-09T21:13:37.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "real-madrid",
-   "atletico"
-  ],
-  "players": [
-   "수비멘디"
-  ],
-  "sig": [
-   "zubimendi",
-   "tuesday"
-  ],
-  "articles": [
-   {
-    "id": "0e7058ca65c7",
-    "url": "https://as.com/futbol/primera/zubimendi-se-pone-a-tiro-f202611-n/",
-    "title": "Zubimendi se pone a tiro",
-    "ko": "수비미디, 레알 마드리드 영입 대상으로 부상",
-    "source": "as",
-    "publishedAt": "2026-11-09T17:43:58.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "수비멘디"
-    ],
-    "playerTags": [],
-    "author": "Eduardo Burgos Rodríguez",
-    "transfer": {
-     "player": "수비멘디",
-     "from": null,
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "c91f119e536f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
-    "title": "Atletico target Zubimendi move - Tuesday's gossip",
-    "ko": "아틀레티코, 수비멘디 영입 추진",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T21:13:37.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "수비멘디"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "수비멘디",
-     "from": null,
-     "to": "아틀레티코 마드리드"
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "0e7058ca65c7",
-    "at": "2026-11-09T17:43:58.000Z",
-    "source": "as",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "수비멘디",
-   "from": null,
-   "to": "레알 마드리드"
-  },
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-09T17:43:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Zubimendi se pone a tiro"
  },
  {
   "slug": "de-miguel-incident",
@@ -12093,55 +13011,6 @@
   "headline": "Insólito na 2.ª divisão holandesa: adeptos do De Graafschap bloqueiam autocarro da equipa"
  },
  {
-  "slug": "quadri-injury",
-  "mode": "llm",
-  "titleKo": "쿠아드리 뇌진탕 프로토콜 발동",
-  "createdAt": "2026-11-09T19:53:20.000Z",
-  "updatedAt": "2026-11-09T19:53:20.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "쿠아드리"
-  ],
-  "sig": [],
-  "articles": [
-   {
-    "id": "efb18aafc7c1",
-    "url": "https://as.com/futbol/segunda/quadri-juega-12-minutos-y-se-activa-el-protocolo-de-conmociones-f202611-n/",
-    "title": "Quadri juega 12 minutos y se activa el protocolo de conmociones",
-    "ko": "키아리 쿠아드리 12분 출전 후 뇌진탕 프로토콜 발동",
-    "source": "as",
-    "publishedAt": "2026-11-09T19:53:20.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "쿠아드리"
-    ],
-    "playerTags": [],
-    "author": "Marc Bernad Suelves",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-09T19:53:20.000Z",
-   "viaQuote": false
-  },
-  "headline": "Quadri juega 12 minutos y se activa el protocolo de conmociones"
- },
- {
   "slug": "araujo-liverpool-transfer-20261109",
   "mode": "llm",
   "titleKo": "리버풀 아라우호 이적 합의 보도",
@@ -12212,475 +13081,6 @@
    "viaQuote": false
   },
   "headline": "Liverpool and Ronald Araujo 'reach agreement on transfer decision' as defender shines again"
- },
- {
-  "slug": "anderlecht-club-brugge-2026-11-08",
-  "mode": "llm",
-  "titleKo": "안더레흐트 대 클럽 브뤼허 경기",
-  "createdAt": "2026-11-07T06:07:24.000Z",
-  "updatedAt": "2026-11-09T19:49:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "club-brugge"
-  ],
-  "players": [
-   "얀 비르길리",
-   "한스 반아케르",
-   "미하일로 츠베트코비치",
-   "한스 반아나켄",
-   "한스 반라켄",
-   "한스 반아캔",
-   "한스 반케"
-  ],
-  "sig": [
-   "anderlecht",
-   "louvière",
-   "frank",
-   "boeckx"
-  ],
-  "articles": [
-   {
-    "id": "9001e3ced4b9",
-    "url": "https://www.hln.be/belgisch-voetbal/je-bent-anderlecht-he-niet-la-louviere-analist-frank-boeckx-legt-uit-hoe-en-waarom-paars-wit-zondag-kan-winnen-van-club-brugge~a54188f6/",
-    "title": "“Je bent Anderlecht hè, niet La Louvière”: analist Frank Boeckx legt uit hoe en waarom paars-wit zondag kan winnen van Club Brugge",
-    "ko": "안더레흐트, 주말 클럽 브뤼허 격파 가능성 분석",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:07:24.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "c6920cdd5436",
-    "url": "https://www.hln.be/belgisch-voetbal/tactisch-expert-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
-    "title": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
-    "ko": "안더레흐트 대 클럽 브뤼허, 일요일 맞대결 승부 전망",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:16:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "9e1f50d58b30",
-    "url": "https://www.hln.be/belgisch-voetbal/analist-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
-    "title": "Analist Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
-    "ko": "프랭크 뵈크스, 안더레흐트가 일요일 클럽 브뤼허를 꺾을 방법 분석",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:16:00.000Z",
-    "credited": "프랭크 뵈크스",
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "e549f80f0357",
-    "url": "https://www.hln.be/jupiler-pro-league/live-club-brugge-zonder-jan-virgili-tegen-anderlecht-jonge-doelman-van-nxt-pijnlijk-in-de-fout-oude-bekende-flips-profiteert-heerlijk~ad78c7c0/",
-    "title": "LIVE. Club Brugge zonder Jan Virgili tegen Anderlecht - Jonge doelman van NXT pijnlijk in de fout, oude bekende Flips profiteert héérlijk",
-    "ko": "클럽 브뤼허, 안더레흐트전 라이브…유망 골키퍼 실수 주목",
-    "source": "hln",
-    "publishedAt": "2026-11-07T17:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "얀 비르길리"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "2252b372fdf1",
-    "url": "https://www.hln.be/jupiler-pro-league/live-een-nederlaag-in-vorige-vijf-seizoenen-deze-statistiek-moet-anderlecht-vertrouwen-geven-richting-clash-op-jan-breydel~ad78c7c0/",
-    "title": "LIVE. Eén nederlaag in vorige vijf seizoenen: deze statistiek moet Anderlecht vertrouwen geven richting clash op Jan Breydel",
-    "ko": "안더레흐트, 얀 브레이델에서 클럽 브뤼허와 대결…최근 패배 적어",
-    "source": "hln",
-    "publishedAt": "2026-11-08T09:29:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "eba0582d504e",
-    "url": "https://www.hln.be/jupiler-pro-league/live-veel-wissels-bij-club-brugge-voor-clash-met-anderlecht-tresoldi-en-vermant-samen-in-de-spits-tsawa-vervangt-geschorste-potts~ad78c7c0/",
-    "title": "LIVE. Veel wissels bij Club Brugge voor clash met Anderlecht: Tresoldi en Vermant samen in de spits, Tsawa vervangt geschorste Potts",
-    "ko": "클럽 브뤼허, 안더레흐트전 선발 변화…포츠 결장",
-    "source": "hln",
-    "publishedAt": "2026-11-08T11:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "51a874b40097",
-    "url": "https://www.hln.be/jupiler-pro-league/live-veel-wissels-bij-club-brugge-voor-clash-met-anderlecht-tresoldi-en-vermant-samen-in-de-spits-hans-vanaken-speelt-met-speciaal-shirt~ad78c7c0/",
-    "title": "LIVE. Veel wissels bij Club Brugge voor clash met Anderlecht: Tresoldi en Vermant samen in de spits, Hans Vanaken speelt met speciaal shirt",
-    "ko": "클럽 브뤼허, 안더레흐트전 선발 대거 교체 라이브",
-    "source": "hln",
-    "publishedAt": "2026-11-08T12:10:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "15d90c50d926",
-    "url": "https://www.hln.be/belgisch-voetbal/de-duitser-viel-dramatisch-in-club-brugge-krijgt-heel-wat-zesjes-een-buis-bij-anderlecht~ae75fc78/",
-    "title": "“De Duitser viel dramatisch in”: Club Brugge krijgt heel wat ‘zesjes’, één buis bij Anderlecht",
-    "ko": "클럽 브뤼허, 안더레흐트전 평점 혹평 속 독일 선수 논란",
-    "source": "hln",
-    "publishedAt": "2026-11-08T14:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "151e18513bd7",
-    "url": "https://www.hln.be/belgisch-voetbal/hij-viel-dramatisch-in-een-buis-bij-anderlecht-club-brugge-krijgt-heel-wat-zessen~ae75fc78/",
-    "title": "“Hij viel dramatisch in”: één buis bij Anderlecht, Club Brugge krijgt heel wat zessen",
-    "ko": "\"드라마틱하게 교체 투입\"…안더레흐트 한 번의 슛, 클럽 브뤼허 여섯 차례 기회",
-    "source": "hln",
-    "publishedAt": "2026-11-08T14:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "580dbc2d0fe3",
-    "url": "https://www.hln.be/jupiler-pro-league/schaf-de-var-gewoon-af-dit-is-totaal-belachelijk-hans-vanaken-is-scherp-na-gelijkmaker-van-anderlecht-die-moest-afgekeurd-worden~ad78c7c0/",
-    "title": "“Schaf de VAR gewoon af, dit is totaal belachelijk”: Hans Vanaken is scherp na gelijkmaker van Anderlecht, die “moest afgekeurd worden”",
-    "ko": "반아케르, 안더레흐트 동점골 두고 VAR 비판",
-    "source": "hln",
-    "publishedAt": "2026-11-08T14:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "한스 반아케르"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "17056367a292",
-    "url": "https://www.hln.be/jupiler-pro-league/ik-wilde-niet-neergaan-mihajlo-cvetkovic-bezorgt-anderlecht-een-punt-tegen-club-brugge-na-discutabele-fase~ad78c7c0/",
-    "title": "“Ik wilde niet neergaan”: Mihajlo Cvetkovic bezorgt Anderlecht een punt tegen Club Brugge na discutabele fase",
-    "ko": "츠베트코비치 극적 동점골, 안더레흐트 승점 1 확보",
-    "source": "hln",
-    "publishedAt": "2026-11-08T15:08:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "미하일로 츠베트코비치"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "18648a9a3ccb",
-    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-niet-te-spreken-over-gelijkmaker-anderlecht~a04d4a15a/",
-    "title": "“Schaf de VAR gewoon af”: Hans Vanaken niet te spreken over gelijkmaker Anderlecht",
-    "ko": "반아나켄, 안더레흐트 동점골에 VAR 폐지 주장",
-    "source": "hln",
-    "publishedAt": "2026-11-08T15:09:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "한스 반아나켄"
-    ],
-    "playerTags": [],
-    "author": "Imar Vandenabeele",
-    "transfer": null
-   },
-   {
-    "id": "a12cf694e615",
-    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-niet-te-spreken-over-gelijkmaker-anderlecht-ook-club-brugge-coach-ivan-leko-haalt-uit~a04d4a15a/",
-    "title": "“Schaf de VAR gewoon af”: Hans Vanaken niet te spreken over gelijkmaker Anderlecht, ook Club Brugge-coach Ivan Leko haalt uit",
-    "ko": "반라켄, 앤더레흐트 동점골 VAR 판정에 불만 표출",
-    "source": "hln",
-    "publishedAt": "2026-11-08T15:48:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "한스 반라켄"
-    ],
-    "playerTags": [],
-    "author": "Imar Vandenabeele",
-    "transfer": null
-   },
-   {
-    "id": "95df472f3f3e",
-    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-en-club-brugge-coach-ivan-leko-halen-zwaar-uit-naar-arbitrage-over-gelijkmaker-anderlecht~a04d4a15a/",
-    "title": "“Schaf de VAR gewoon af”: Hans Vanaken en Club Brugge-coach Ivan Leko halen zwaar uit naar arbitrage over gelijkmaker Anderlecht",
-    "ko": "반아캔·레코 클럽 브뤼허, 안더레흐트 동점골 판정 강력 비판",
-    "source": "hln",
-    "publishedAt": "2026-11-08T15:48:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "한스 반아캔"
-    ],
-    "playerTags": [],
-    "author": "Imar Vandenabeele",
-    "transfer": null
-   },
-   {
-    "id": "fd5ae20f41ad",
-    "url": "https://www.hln.be/belgisch-voetbal/schaf-de-var-gewoon-af-hans-vanaken-en-club-brugge-coach-ivan-leko-halen-zwaar-uit-naar-de-arbitrage-over-gelijkmaker-anderlecht~a04d4a15a/",
-    "title": "“Schaf de VAR gewoon af”: Hans Vanaken en Club Brugge-coach Ivan Leko halen zwaar uit naar de arbitrage over gelijkmaker Anderlecht",
-    "ko": "반케·레코, 안더레흐트 동점골 판정에 VAR 비판",
-    "source": "hln",
-    "publishedAt": "2026-11-08T15:48:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "한스 반케"
-    ],
-    "playerTags": [],
-    "author": "Imar Vandenabeele",
-    "transfer": null
-   },
-   {
-    "id": "6716d6774bbb",
-    "url": "https://www.hln.be/club-brugge/hij-was-hier-om-de-show-te-stelen-ivan-leko-en-club-brugge-ergeren-zich-kapot-aan-arbitrage-tegen-anderlecht~ad494e84/",
-    "title": "“Hij was hier om de show te stelen”: Ivan Leko en Club Brugge ergeren zich kapot aan arbitrage tegen Anderlecht",
-    "ko": "클럽 브뤼허, 안더레흐트전 심판 판정에 격분",
-    "source": "hln",
-    "publishedAt": "2026-11-08T16:29:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tomas Taecke",
-    "transfer": null
-   },
-   {
-    "id": "c92428064027",
-    "url": "https://www.hln.be/jupiler-pro-league/we-gaan-de-lat-toch-hoger-leggen-dan-dit-hln-voetbalpodcast-geraakt-het-niet-eens-over-doelpunt-van-anderlecht-tegen-club-brugge~a33b5bb3/",
-    "title": "“We gaan de lat toch hoger leggen dan dit?”: HLN Voetbalpodcast geraakt het niet eens over doelpunt van Anderlecht tegen Club Brugge",
-    "ko": "HLN 팟캐스트, 안더레흐트 대 클럽 브뤼허 득점 장면 평가 엇갈려",
-    "source": "hln",
-    "publishedAt": "2026-11-09T14:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "36171943d481",
-    "url": "https://www.hln.be/anderlecht/krijgt-de-topper-nog-een-staartje-anderlecht-riskeert-forfaitnederlaag-na-fout-op-wedstrijdblad~a6299f36/",
-    "title": "Krijgt de topper nog een staartje? Anderlecht riskeert forfaitnederlaag na fout op wedstrijdblad",
-    "ko": "안더레흐트, 경기 명단 실수로 몰수패 위기",
-    "source": "hln",
-    "publishedAt": "2026-11-09T16:14:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kjell Doms",
-    "transfer": null
-   },
-   {
-    "id": "16734a03c6bb",
-    "url": "https://www.hln.be/anderlecht/krijgt-de-topper-nog-een-staartje-anderlecht-riskeert-forfaitnederlaag-na-fout-op-wedstrijdblad-club-brugge-heeft-dertig-dagen-om-klacht-in-te-dienen~a6299f36/",
-    "title": "Krijgt de topper nog een staartje? Anderlecht riskeert forfaitnederlaag na fout op wedstrijdblad, Club Brugge heeft dertig dagen om klacht in te dienen",
-    "ko": "안더레흐트, 클럽 브뤼허전 기록지 실수로 몰수패 위기",
-    "source": "hln",
-    "publishedAt": "2026-11-09T18:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kjell Doms",
-    "transfer": null
-   },
-   {
-    "id": "5189cd2fdcae",
-    "url": "https://www.hln.be/anderlecht/de-bal-ligt-in-het-kamp-van-club-brugge-blauw-zwart-heeft-dertig-dagen-om-klacht-in-te-dienen-na-fout-van-anderlecht-op-wedstrijdblad~a6299f36/",
-    "title": "De bal ligt in het kamp van Club Brugge: blauw-zwart heeft dertig dagen om klacht in te dienen na fout van Anderlecht op wedstrijdblad",
-    "ko": "클럽 브뤼허, 안더레흐트 명단 실수에 30일 내 제소 가능",
-    "source": "hln",
-    "publishedAt": "2026-11-09T19:14:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kjell Doms",
-    "transfer": null
-   },
-   {
-    "id": "e62c81843369",
-    "url": "https://www.hln.be/anderlecht/de-bal-ligt-in-het-kamp-van-club-brugge-blauw-zwart-heeft-30-dagen-om-klacht-in-te-dienen-na-fout-van-anderlecht-op-wedstrijdblad~a6299f36/",
-    "title": "De bal ligt in het kamp van Club Brugge: blauw-zwart heeft 30 dagen om klacht in te dienen na fout van Anderlecht op wedstrijdblad",
-    "ko": "클럽 브뤼허, 안더레흐트 명단 오류로 30일 내 이의 제기 가능",
-    "source": "hln",
-    "publishedAt": "2026-11-09T19:14:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kjell Doms",
-    "transfer": null
-   },
-   {
-    "id": "c17917310c94",
-    "url": "https://www.hln.be/belgisch-voetbal/exclusief-had-hij-het-tellertje-maar-gezien-dit-is-hoe-anderlecht-forfaitnederlaag-riskeerde-tegen-club-brugge~a7af77ae/",
-    "title": "EXCLUSIEF. Had hij het tellertje maar gezien: dit is hoe Anderlecht forfaitnederlaag riskeerde tegen Club Brugge",
-    "ko": "안더레흐트, 클럽 브뤼허전 몰수패 위기였던 사연 보도",
-    "source": "hln",
-    "publishedAt": "2026-11-09T19:34:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "d632c714fca3",
-    "url": "https://www.hln.be/belgisch-voetbal/exclusief-had-hij-het-tellertje-maar-gezien-dit-is-hoe-anderlecht-een-forfaitnederlaag-tegen-club-brugge-riskeerde~a7af77ae/",
-    "title": "EXCLUSIEF. Had hij het tellertje maar gezien: dit is hoe Anderlecht een forfaitnederlaag tegen Club Brugge riskeerde",
-    "ko": "안더레흐트, 클럽 브뤼허전 몰수패 위기 빠뜨린 실수 공개",
-    "source": "hln",
-    "publishedAt": "2026-11-09T19:49:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "프랭크 뵈크스",
-   "at": "2026-11-07T06:07:24.000Z",
-   "viaQuote": true
-  },
-  "headline": "EXCLUSIEF. Had hij het tellertje maar gezien: dit is hoe Anderlecht een forfaitnederlaag tegen Club Brugge riskeerde"
  },
  {
   "slug": "las-palmas-eldense-2026-11-09",
@@ -16061,112 +16461,6 @@
    "viaQuote": false
   },
   "headline": "Manchester City’s weaknesses under Enzo Maresca are being exposed"
- },
- {
-  "slug": "szoboszlai-injury",
-  "mode": "llm",
-  "titleKo": "소보슬라이 부상 판단 임박, 리버풀 악재 우려",
-  "createdAt": "2026-11-09T01:00:00.000Z",
-  "updatedAt": "2026-11-09T16:25:33.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "liverpool"
-  ],
-  "players": [
-   "도미니크 소보슬러이",
-   "도미니크 소보슬라이"
-  ],
-  "sig": [
-   "iraola",
-   "dominik",
-   "szoboszlai"
-  ],
-  "articles": [
-   {
-    "id": "3bf7f0bba822",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-hints-liverpool-take-34880338",
-    "title": "Andoni Iraola hints Liverpool will take Dominik Szoboszlai injury decision - 'Last thing we need'",
-    "ko": "소보슬라이 부상 판단 임박, 이라올라 \"지금 가장 필요 없는 일\"",
-    "source": "lecho",
-    "publishedAt": "2026-11-09T01:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "도미니크 소보슬러이"
-    ],
-    "playerTags": [
-     "dominik-szoboszlai"
-    ],
-    "author": "Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "0f1945f50544",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-injury-latest-official-34883007",
-    "title": "Dominik Szoboszlai injury latest as official statement released after Liverpool star forced off",
-    "ko": "소보슬라이 부상 관련 리버풀 공식 발표",
-    "source": "lecho",
-    "publishedAt": "2026-11-09T09:17:22.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "도미니크 소보슬러이"
-    ],
-    "playerTags": [
-     "dominik-szoboszlai"
-    ],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "a49191015820",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
-    "title": "Szoboszlai a doubt for Nations League conclusion",
-    "ko": "소보슬라이, 네이션스리그 마무리 출전 여부 불투명",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T16:25:33.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "도미니크 소보슬라이"
-    ],
-    "playerTags": [
-     "dominik-szoboszlai"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "dominik-szoboszlai"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-09T01:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Szoboszlai a doubt for Nations League conclusion"
  },
  {
   "slug": "doumbia-sporting-transfer",
