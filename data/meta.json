@@ -1,9 +1,8 @@
 {
- "updatedAt": "2026-11-10T05:25:19.527Z",
+ "updatedAt": "2026-11-10T06:21:12.886Z",
  "hot": [
   "carrick-manager-future",
   "man-utd-manager-future-20261102",
-  "vicens-lyon-appointment",
   "birmingham-affairs-tom-brady-stake",
   "de-miguel-incident"
  ],
@@ -40,13 +39,13 @@
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +57,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -88,19 +87,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 78
+   "added": 4,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -136,7 +135,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,19 +147,19 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -178,7 +177,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
@@ -312,11 +311,11 @@
  ],
  "issueHealth": {
   "recentIssues": 248,
-  "singleArticleRate": 36,
+  "singleArticleRate": 37,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 53
+    "count": 55
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -351,12 +350,12 @@
     "count": 25
    },
    {
-    "slug": "anderlecht-club-brugge-2026-11-08",
-    "count": 23
-   },
-   {
     "slug": "valencia-real-madrid-2026-11-06",
     "count": 22
+   },
+   {
+    "slug": "anderlecht-club-brugge-2026-11-08",
+    "count": 20
    },
    {
     "slug": "fulham-newcastle-2026-11-08",
@@ -370,12 +369,34 @@
  },
  "nameReport": [
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 시우바",
+     "count": 5
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르쿠 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 12
+     "count": 11
     },
     {
      "ko": "마티아스 야이슬레",
@@ -388,28 +409,6 @@
     {
      "ko": "자일",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 5
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 5
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 3
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 3
     }
    ]
   },
@@ -526,6 +525,10 @@
     {
      "ko": "한스 반아나켄",
      "count": 1
+    },
+    {
+     "ko": "반아나켄",
+     "count": 1
     }
    ]
   },
@@ -627,24 +630,6 @@
     },
     {
      "ko": "호르헤 헤수스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 4
-    },
-    {
-     "ko": "데이비드 모예스",
-     "count": 1
-    },
-    {
-     "ko": "모이스",
      "count": 1
     }
    ]
@@ -755,6 +740,24 @@
     },
     {
      "ko": "티에르노 배리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 3
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 1
+    },
+    {
+     "ko": "모이스",
      "count": 1
     }
    ]
@@ -885,6 +888,24 @@
     },
     {
      "ko": "작카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "듀스버리홀",
+     "count": 2
+    },
+    {
+     "ko": "키어냔 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디우스버리홀",
      "count": 1
     }
    ]
@@ -1041,24 +1062,6 @@
     },
     {
      "ko": "오카포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Circati",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "서큐티",
-     "count": 1
-    },
-    {
-     "ko": "서클라티",
-     "count": 1
-    },
-    {
-     "ko": "치르카티",
      "count": 1
     }
    ]
@@ -1304,8 +1307,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 391,
-   "llm": 391
+   "collected": 411,
+   "llm": 411
   }
  },
  "llmErrors": []
