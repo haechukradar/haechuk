@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T13:50:52.851Z",
+ "updatedAt": "2026-11-10T14:45:16.214Z",
  "hot": [
+  "kompany-health-incident",
   "nmecha-discipline",
   "carrick-manager-future",
   "rc-lens-manager-future",
-  "konsa-injury",
-  "man-utd-manager-future-20261102"
+  "konsa-injury"
  ],
  "days": [
   "2026-10-18",
@@ -33,20 +33,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 3,
+   "items": 84,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
    "added": 1,
-   "authorRate": 96
+   "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 15,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,30 +89,30 @@
    "ok": true,
    "items": 50,
    "added": 4,
-   "authorRate": 86
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -130,31 +130,31 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -166,13 +166,13 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 2,
+   "added": 4,
    "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -183,8 +183,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 5,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -278,6 +278,10 @@
    "count": 6
   },
   {
+   "name": "니클라스 퓔크루크",
+   "count": 6
+  },
+  {
    "name": "은메차",
    "count": 6
   },
@@ -304,15 +308,11 @@
   {
    "name": "웨인 루니",
    "count": 5
-  },
-  {
-   "name": "댄 번",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 259,
-  "singleArticleRate": 40,
+  "recentIssues": 257,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -323,12 +323,12 @@
     "count": 46
    },
    {
-    "slug": "arsenal-hull-2026-11-07",
-    "count": 30
-   },
-   {
     "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 28
+   },
+   {
+    "slug": "arsenal-hull-2026-11-07",
+    "count": 27
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
@@ -340,10 +340,6 @@
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
-    "count": 24
-   },
-   {
-    "slug": "leeds-tottenham-2026-11-07",
     "count": 23
    },
    {
@@ -375,7 +371,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "아이슬레",
@@ -384,28 +380,6 @@
     {
      "ko": "자일",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 4
-    },
-    {
-     "ko": "마르코 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 3
     }
    ]
   },
@@ -552,6 +526,42 @@
    ]
   },
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 시우바",
+     "count": 4
+    },
+    {
+     "ko": "마르쿠 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 2
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 7
+    },
+    {
+     "ko": "퀼뤼흐",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Youri Tielemans",
    "dictionary": null,
    "variants": [
@@ -573,6 +583,20 @@
     },
     {
      "ko": "튈레망스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 6
+    },
+    {
+     "ko": "클로프",
      "count": 1
     }
    ]
@@ -602,20 +626,6 @@
     {
      "ko": "페르민 로페스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 5
-    },
-    {
-     "ko": "클로프",
-     "count": 1
     }
    ]
   },
@@ -684,20 +694,6 @@
     {
      "ko": "사주",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 3
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 2
     }
    ]
   },
@@ -882,20 +878,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 3
-    },
-    {
-     "ko": "퀼뤼흐",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Noni Madueke",
    "dictionary": null,
    "variants": [
@@ -910,6 +892,20 @@
     {
      "ko": "노니 매덕스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 2
+    },
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 2
     }
    ]
   },
@@ -1005,20 +1001,6 @@
     },
     {
      "ko": "이보 레코",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Okafor",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오카포르",
-     "count": 2
-    },
-    {
-     "ko": "오카포",
      "count": 1
     }
    ]
@@ -1252,6 +1234,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Mika Godts",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미카 고츠",
+     "count": 2
+    },
+    {
+     "ko": "미카 호츠",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1300,8 +1296,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 726,
-   "llm": 726
+   "collected": 758,
+   "llm": 758
   }
  },
  "llmErrors": []

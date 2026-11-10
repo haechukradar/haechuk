@@ -1,367 +1,55 @@
 [
  {
-  "slug": "raphinha-injury",
+  "slug": "lyon-u17-grenoble-incident",
   "mode": "llm",
-  "titleKo": "하피냐 대표팀 연이은 부상 우려",
-  "createdAt": "2026-11-09T11:07:50.000Z",
-  "updatedAt": "2026-11-10T13:32:29.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "하피냐"
-  ],
-  "sig": [
-   "raphinha",
-   "brasil"
-  ],
-  "articles": [
-   {
-    "id": "14e8482162f1",
-    "url": "https://as.com/futbol/primera/psicosis-con-raphinha-tres-viajes-con-brasil-en-2026-tres-lesiones-f202611-n/",
-    "title": "Psicosis con Raphinha: tres viajes con Brasil en 2026, tres lesiones",
-    "ko": "하피냐, 2026년 브라질 대표팀 세 차례 소집 후 세 차례 부상",
-    "source": "as",
-    "publishedAt": "2026-11-09T11:07:50.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": "Juan Jiménez",
-    "transfer": null
-   },
-   {
-    "id": "c01f16c3478b",
-    "url": "https://as.com/futbol/internacional/pacto-por-raphinha-f202611-n/",
-    "title": "Raphinha, caso límite",
-    "ko": "하피냐, 위험한 경계선에 놓여",
-    "source": "as",
-    "publishedAt": "2026-11-10T13:32:29.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "하피냐"
-    ],
-    "playerTags": [
-     "raphinha"
-    ],
-    "author": "Simón Escudero",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.9,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "raphinha"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-09T11:07:50.000Z",
-   "viaQuote": false
-  },
-  "headline": "Raphinha, caso límite"
- },
- {
-  "slug": "oviedo-manager-appointment",
-  "mode": "llm",
-  "titleKo": "오비에도 감독 교체, 라울 곤살레스 선임",
-  "createdAt": "2026-11-09T08:52:57.000Z",
-  "updatedAt": "2026-11-10T13:32:19.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "라울"
-  ],
-  "sig": [
-   "oviedo",
-   "calero",
-   "raúl",
-   "gonzález"
-  ],
-  "articles": [
-   {
-    "id": "069a63cf5dad",
-    "url": "https://as.com/futbol/segunda/el-oviedo-despide-a-calero-raul-gonzalez-sera-el-nuevo-entrenador-azul-f202611-n/",
-    "title": "El Oviedo despide a Calero: Raúl González será el nuevo entrenador azul",
-    "ko": "오비에도, 칼레로 경질…라울 곤살레스 신임 감독 선임",
-    "source": "as",
-    "publishedAt": "2026-11-09T08:52:57.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nacho Azparren Menéndez",
-    "transfer": null
-   },
-   {
-    "id": "779ccdc4c26b",
-    "url": "https://as.com/futbol/segunda/oficial-raul-gonzalez-nuevo-entrenador-del-oviedo-f202611-n/",
-    "title": "Oficial: Raúl González, nuevo entrenador del Oviedo",
-    "ko": "라울 곤살레스, 오비에도 신임 감독으로 공식 선임",
-    "source": "as",
-    "publishedAt": "2026-11-09T08:52:57.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nacho Azparren Menéndez",
-    "transfer": null
-   },
-   {
-    "id": "fdbe968f1708",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/oficial-raul-gonzalez-e-o-novo-treinador-do-real-oviedo",
-    "title": "Oficial: Raúl González é o novo treinador do Real Oviedo",
-    "ko": "레알 오비에도, 라울 곤살레스 감독 선임 공식 발표",
-    "source": "record",
-    "publishedAt": "2026-11-09T13:34:10.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5d1f9fc24353",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-legende-du-real-madrid-raul-va-lancer-sa-carriere-d-entraineur-professionnel-a-oviedo/1742491#at_medium=RSS_feeds",
-    "title": "La légende du Real Madrid Raul va lancer sa carrière d'entraîneur professionnel à Oviedo",
-    "ko": "라울, 오비에도에서 프로 감독 커리어 시작",
-    "source": "lequipe",
-    "publishedAt": "2026-11-09T13:56:02.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "d2721a4b148f",
-    "url": "https://www.kicker.de/offiziell-raul-wird-neuer-chefcoach-in-oviedo-1270178/artikel#omrss",
-    "title": "Offiziell: Raul wird neuer Chefcoach in Oviedo",
-    "ko": "라울, 오비에도 신임 감독 공식 선임",
-    "source": "kicker",
-    "publishedAt": "2026-11-09T14:21:59.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fb45b4398424",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
-    "title": "Real Madrid legend Raul named Real Oviedo manager",
-    "ko": "라울, 레알 오비에도 감독으로 선임",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T16:16:30.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "299528ed118d",
-    "url": "https://www.thesun.co.uk/sport/40972573/raul-real-madrid-transfer-news-oviedo/",
-    "title": "Real Madrid legend Raul lands first job in senior club management after six years with Los Blancos’ reserves",
-    "ko": "라울, 6년간 레알 마드리드 유스 지휘 후 첫 1군 감독직 확보",
-    "source": "sun",
-    "publishedAt": "2026-11-09T19:04:57.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "라울"
-    ],
-    "playerTags": [],
-    "author": "Kostas Lianos",
-    "transfer": null
-   },
-   {
-    "id": "f72264c3ad11",
-    "url": "https://as.com/futbol/segunda/raul-ya-ejerce-de-azul-si-me-veo-en-el-futuro-en-el-madrid-me-veo-estando-en-el-oviedo-f202611-n/",
-    "title": "Raúl ya ejerce de azul: “¿Si me veo en el futuro en el Madrid? Me veo estando en el Oviedo\"",
-    "ko": "라울 '레알 복귀 가능성은?'…'지금은 오비에도에 집중'",
-    "source": "as",
-    "publishedAt": "2026-11-10T13:30:35.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nacho Azparren Menéndez",
-    "transfer": null
-   },
-   {
-    "id": "b0c430210192",
-    "url": "https://as.com/futbol/fotorrelato/las-imagenes-del-primer-entrenamiento-de-raul-al-frente-del-real-oviedo-f202611-f/",
-    "title": "Las imágenes del primer entrenamiento de Raúl al frente del Real Oviedo",
-    "ko": "라울, 레알 오비에도 지휘 첫 훈련 현장",
-    "source": "as",
-    "publishedAt": "2026-11-10T13:32:19.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AS Fotografía",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 6,
-  "score": 1.89,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-09T08:52:57.000Z",
-   "viaQuote": false
-  },
-  "headline": "Real Madrid legend Raul named Real Oviedo manager"
- },
- {
-  "slug": "oldenburg-affairs-sanction",
-  "mode": "llm",
-  "titleKo": "올덴부르크 스포츠법원 징계",
-  "createdAt": "2026-11-10T13:26:47.000Z",
-  "updatedAt": "2026-11-10T13:26:47.000Z",
+  "titleKo": "리옹 U17 그르노블 원정 관중 위협",
+  "createdAt": "2026-11-09T19:31:08.000Z",
+  "updatedAt": "2026-11-10T14:31:27.000Z",
   "category": "other",
   "stage": null,
   "clubs": [],
   "players": [],
   "sig": [
-   "geldstrafe",
-   "sportgericht",
-   "oldenburg"
+   "u17",
+   "grenoble"
   ],
   "articles": [
    {
-    "id": "808543d1ccd7",
-    "url": "https://www.kicker.de/teilausschluss-und-maximale-geldstrafe-sportgericht-bestraft-oldenburg-hart-1270421/artikel#omrss",
-    "title": "Teilausschluss und maximale Geldstrafe: Sportgericht bestraft Oldenburg hart",
-    "ko": "올덴부르크, 스포츠 법원서 부분 출장 금지와 최고 벌금 처분",
-    "source": "kicker",
-    "publishedAt": "2026-11-10T13:26:47.000Z",
+    "id": "1a9ccc709ca6",
+    "url": "https://www.lequipe.fr/Football/Actualites/Les-u17-de-l-ol-menaces-a-grenoble-par-des-spectateurs-munis-d-armes-blanches-et-d-un-pistolet/1742613#at_medium=RSS_feeds",
+    "title": "Les U17 de l'OL menacés à Grenoble par des spectateurs munis d'armes blanches et d'un pistolet",
+    "ko": "리옹 U17, 그르노블 원정서 흉기 든 관중 위협",
+    "source": "lequipe",
+    "publishedAt": "2026-11-09T19:31:08.000Z",
     "credited": null,
     "clubs": [],
     "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": null,
+    "author": "Marius Veillerot",
+    "transfer": null
+   },
+   {
+    "id": "53d36114e955",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-olympique-lyonnais-communique-a-la-suite-de-l-incident-d-apres-match-concernant-son-equipe-u17/1742758#at_medium=RSS_feeds",
+    "title": "L'Olympique Lyonnais communique à la suite de l'incident d'après match concernant son équipe U17",
+    "ko": "리옹, U17 경기 후 사건 관련 공식 입장 발표",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T14:31:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Elliot Radix",
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.87,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-10T13:26:47.000Z",
-   "viaQuote": false
-  },
-  "headline": "Teilausschluss und maximale Geldstrafe: Sportgericht bestraft Oldenburg hart"
- },
- {
-  "slug": "rc-lens-manager-future",
-  "mode": "llm",
-  "titleKo": "RC 랑스 감독 경질",
-  "createdAt": "2026-11-10T10:44:11.000Z",
-  "updatedAt": "2026-11-10T13:25:11.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "yannick",
-   "cahuzac",
-   "lens"
-  ],
-  "articles": [
-   {
-    "id": "f6f21e8638db",
-    "url": "https://www.lequipe.fr/Football/Actualites/Yannick-cahuzac-limoge-de-son-poste-d-entraineur-du-rc-lens/1742708#at_medium=RSS_feeds",
-    "title": "Deux petits mois et puis s'en va : Yannick Cahuzac limogé de son poste d'entraîneur du RC Lens",
-    "ko": "RC 랑스, 카위자크 감독 2개월 만에 경질",
-    "source": "lequipe",
-    "publishedAt": "2026-11-10T10:44:11.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Loïc Tanzi",
-    "transfer": null
-   },
-   {
-    "id": "ca4e7c959edb",
-    "url": "https://www.record.pt/internacional/paises/franca/lens/detalhe/treinador-do-lens-nao-resiste-a-sequencia-terrivel-e-e-despedido-dois-meses-depois-de-assumir-o-cargo",
-    "title": "Treinador do Lens não resiste a sequência terrível e é despedido dois meses depois de assumir o cargo",
-    "ko": "RC 랑스, 연패 끝에 감독 경질 — 취임 두 달 만",
-    "source": "record",
-    "publishedAt": "2026-11-10T13:25:11.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 3.02,
+  "score": 1.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -370,68 +58,40 @@
   "firstReport": {
    "name": "레퀴프",
    "source": "lequipe",
-   "at": "2026-11-10T10:44:11.000Z",
+   "at": "2026-11-09T19:31:08.000Z",
    "viaQuote": false
   },
-  "headline": "Treinador do Lens não resiste a sequência terrível e é despedido dois meses depois de assumir o cargo"
+  "headline": "L'Olympique Lyonnais communique à la suite de l'incident d'après match concernant son équipe U17"
  },
  {
-  "slug": "aberdeen-manager-future",
+  "slug": "man-city-affairs-charges-20261109",
   "mode": "llm",
-  "titleKo": "애버딘 로빈슨 감독 거취 논란",
-  "createdAt": "2026-11-07T23:15:00.000Z",
-  "updatedAt": "2026-11-10T13:24:07.000Z",
-  "category": "manager",
+  "titleKo": "맨시티 혐의 조사 여파 논란",
+  "createdAt": "2026-11-09T11:55:00.000Z",
+  "updatedAt": "2026-11-10T14:22:45.000Z",
+  "category": "other",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "man-city"
+  ],
   "players": [],
   "sig": [
-   "premiership",
-   "robinson"
+   "fifa",
+   "infantino"
   ],
   "articles": [
    {
-    "id": "4a610e6ba84f",
-    "url": "https://www.bbc.co.uk/sounds/play/p0plvx32?at_medium=RSS&at_campaign=rss",
-    "title": "Listen: Premiership reaction as pressure mounts on Robinson",
-    "ko": "로빈슨 감독 압박 고조…프리미어 반응 들어보기",
-    "source": "bbc",
-    "publishedAt": "2026-11-07T23:15:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c1d719379a05",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
-    "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
-    "ko": "로빈슨 애버딘 감독, 경질 위기 속 잔류 가능성은",
-    "source": "bbc",
-    "publishedAt": "2026-11-08T00:04:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "40888455020c",
-    "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-    "title": "Scot Prem latest: Aberdeen won't rush Robinson decision",
-    "ko": "애버딘, 로빈슨 감독 결정 서두르지 않아",
+    "id": "dd1688fecf83",
+    "url": "https://www.skysports.com/football/news/12040/13610133/gary-neville",
+    "title": "Neville: Is Man City charges spotlight seeping into performances?",
+    "ko": "네빌, 맨시티 혐의 조명이 경기력에 영향 주는지 질문",
     "source": "sky",
-    "publishedAt": "2026-11-08T12:00:00.000Z",
+    "publishedAt": "2026-11-09T11:55:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "manager",
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -439,110 +99,122 @@
     "transfer": null
    },
    {
-    "id": "e4504412f219",
-    "url": "https://www.skysports.com/football/news/12040/13605319/stephen-robinson-aberdeen-sack-head-coach-with-club-11th-in-scottish-premiership-after-hibs-defeat",
-    "title": "Aberdeen sack Robinson",
-    "ko": "애버딘, 로빈슨 감독 경질",
-    "source": "sky",
-    "publishedAt": "2026-11-09T16:00:00.000Z",
+    "id": "b748722c0004",
+    "url": "https://www.thesun.co.uk/sport/40973885/man-city-players-crumbling-financial-sham-guilty-verdict/",
+    "title": "Man City’s players are crumbling under the guilt of £1billion financial ‘sham’ – even footballers don’t live in a vacuum",
+    "ko": "맨시티 선수들, 10억 파운드 재정 '사기' 의혹에 죄책감 호소",
+    "source": "sun",
+    "publishedAt": "2026-11-09T22:18:11.000Z",
     "credited": null,
-    "clubs": [],
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "595e786948a6",
+    "url": "https://www.thesun.co.uk/sport/40979759/fifa-hopeful-slams-man-city-handling/",
+    "title": "Premier League should be handling Man City guilty verdict better, says Fifa hopeful challenging Infantino for presidency",
+    "ko": "프리미어리그, 맨시티 유죄 판결 처리 더 잘해야…국제축구연맹 회장 도전 인사 주장",
+    "source": "sun",
+    "publishedAt": "2026-11-10T14:22:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jamie Gordon",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.56,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-09T11:55:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Neville: Is Man City charges spotlight seeping into performances?"
+ },
+ {
+  "slug": "kompany-health-incident",
+  "mode": "llm",
+  "titleKo": "콤파니 감독 건강 이상, 뮌헨 훈련장 포착",
+  "createdAt": "2026-11-10T11:05:00.000Z",
+  "updatedAt": "2026-11-10T14:17:04.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [],
+  "sig": [
+   "vincent",
+   "kompany"
+  ],
+  "articles": [
+   {
+    "id": "1cac2873fe5a",
+    "url": "https://www.hln.be/bundesliga/exclusief-de-eerste-beelden-van-gehavende-vincent-kompany-op-oefencomplex-van-bayern-munchen-na-hersenvliesirritatie~a546b0da/",
+    "title": "EXCLUSIEF. De eerste beelden van gehavende Vincent Kompany op oefencomplex van Bayern München na hersenvliesirritatie",
+    "ko": "콤파니, 뮌헨 훈련장서 뇌수막 자극 증상 포착 공개",
+    "source": "hln",
+    "publishedAt": "2026-11-10T11:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
     "category": "manager",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": null,
+    "author": "Niel Van Essche",
     "transfer": null
    },
    {
-    "id": "d75988b7d1ed",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-    "title": "Aberdeen sack Robinson after league slump",
-    "ko": "애버딘, 리그 부진 끝 로빈슨 감독 경질",
+    "id": "a82eeb53ce2b",
+    "url": "https://www.lequipe.fr/Football/Actualites/Un-peu-plus-de-deux-semaines-apres-son-hospitalisation-vincent-kompany-a-fait-son-retour-au-centre-d-entrainement-du-bayern-munich/1742747#at_medium=RSS_feeds",
+    "title": "Un peu plus de deux semaines après son hospitalisation, Vincent Kompany a fait son retour au centre d'entraînement du Bayern Munich",
+    "ko": "콤파니, 입원 2주 만에 바이에른 훈련장 복귀",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T14:04:36.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "32cab781c25e",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
+    "title": "Kompany back at Bayern training after collapse",
+    "ko": "콤파니, 쓰러진 뒤 2주 만에 바이에른 훈련장 복귀",
     "source": "bbc",
-    "publishedAt": "2026-11-09T16:46:11.000Z",
+    "publishedAt": "2026-11-10T14:17:04.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "79ebb4f9c502",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cqzjxrwgnlr1o?at_medium=RSS&at_campaign=rss",
-    "title": "'I believe in my ability' - Robinson's final interview as Aberdeen boss",
-    "ko": "로빈슨 애버딘 감독 마지막 인터뷰 '내 능력 믿는다'",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T17:04:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2187b9ce6443",
-    "url": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
-    "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
-    "ko": "로빈슨의 애버딘 시절 막 내린 대패",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T17:10:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "91162a0fa451",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
-    "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
-    "ko": "애버딘, 로빈슨 감독 실패 후 또 감독 물색",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T21:39:37.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2dd5d920141f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno?at_medium=RSS&at_campaign=rss",
-    "title": "Caldwell & McGlynn linked with Aberdeen job - gossip",
-    "ko": "애버딘, 칼드웰·맥글린 감독 후보로 거론 - 가십",
-    "source": "bbc",
-    "publishedAt": "2026-11-10T07:25:56.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d7251df5a6f4",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
-    "title": "Who are the main candidates for the Aberdeen job?",
-    "ko": "애버딘 감독직 후보는 누구?",
-    "source": "bbc",
-    "publishedAt": "2026-11-10T13:24:07.000Z",
-    "credited": null,
-    "clubs": [],
+    "clubs": [
+     "bayern"
+    ],
     "category": "manager",
     "stage": null,
     "players": [],
@@ -551,101 +223,28 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.99,
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 5.18,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-07T23:15:00.000Z",
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-10T11:05:00.000Z",
    "viaQuote": false
   },
-  "headline": "Who are the main candidates for the Aberdeen job?"
- },
- {
-  "slug": "tresoldi-bayern-transfer",
-  "mode": "llm",
-  "titleKo": "트레솔디 바이에른 뮌헨 관심",
-  "createdAt": "2026-11-10T13:13:22.000Z",
-  "updatedAt": "2026-11-10T13:13:22.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "트레솔디"
-  ],
-  "sig": [
-   "dfb",
-   "tresoldi",
-   "visier"
-  ],
-  "articles": [
-   {
-    "id": "7515e7bdf0f1",
-    "url": "https://www.tz.de/sport/fc-bayern/bruegge-torjaeger-nicolo-tresoldi-beim-fc-bayern-im-visier-94583242.html",
-    "title": "Nicht nur vom DFB umworben: Tresoldi beim FC Bayern im Visier",
-    "ko": "트레솔디, 뮌헨 관심 대상으로 떠올라",
-    "source": "tz",
-    "publishedAt": "2026-11-10T13:13:22.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "트레솔디"
-    ],
-    "playerTags": [],
-    "author": "Manuel Bonke, Philipp Kessler",
-    "transfer": {
-     "player": "트레솔디",
-     "from": null,
-     "to": "바이에른 뮌헨"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.79,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "7515e7bdf0f1",
-    "at": "2026-11-10T13:13:22.000Z",
-    "source": "tz",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "트레솔디",
-   "from": null,
-   "to": "바이에른 뮌헨"
-  },
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-10T13:13:22.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nicht nur vom DFB umworben: Tresoldi beim FC Bayern im Visier"
+  "headline": "Kompany back at Bayern training after collapse"
  },
  {
   "slug": "man-utd-affairs-ratcliffe-criticism",
   "mode": "llm",
   "titleKo": "래트클리프 체제 맨유 비판",
   "createdAt": "2026-11-10T13:05:18.000Z",
-  "updatedAt": "2026-11-10T13:05:18.000Z",
+  "updatedAt": "2026-11-10T14:06:06.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -674,11 +273,29 @@
     "playerTags": [],
     "author": "Tyrone Marshall",
     "transfer": null
+   },
+   {
+    "id": "302365c0ce40",
+    "url": "https://www.mirror.co.uk/sport/football/man-utd-jim-ratcliffe-failures-37862676",
+    "title": "Sir Jim Ratcliffe is the real problem at Man Utd - he's put clueless yes-men in charge",
+    "ko": "래트클리프가 맨유의 진짜 문제…무능한 예스맨들에게 권한 줘",
+    "source": "mirror",
+    "publishedAt": "2026-11-10T14:06:06.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.75,
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -693,410 +310,11 @@
   "headline": "Sir Jim Ratcliffe and his band of yes men have made Manchester United worse rather than better"
  },
  {
-  "slug": "felgueiras-manager-future",
-  "mode": "llm",
-  "titleKo": "펠구에이라스 감독 모레노 사임",
-  "createdAt": "2026-11-10T13:04:54.000Z",
-  "updatedAt": "2026-11-10T13:04:54.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "moreno",
-   "felgueiras"
-  ],
-  "articles": [
-   {
-    "id": "48b3f6b44221",
-    "url": "https://www.record.pt/futebol/futebol-nacional/2--liga/felgueiras/detalhe/oficial-moreno-ja-nao-e-treinador-do-felgueiras",
-    "title": "Oficial: Moreno já não é treinador do Felgueiras",
-    "ko": "모레노, 펠구에이라스 감독직에서 물러나",
-    "source": "record",
-    "publishedAt": "2026-11-10T13:04:54.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.75,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-10T13:04:54.000Z",
-   "viaQuote": false
-  },
-  "headline": "Oficial: Moreno já não é treinador do Felgueiras"
- },
- {
-  "slug": "newcastle-affairs-dressing-room-unrest",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 라커룸 내홍 격화",
-  "createdAt": "2026-11-10T13:00:00.000Z",
-  "updatedAt": "2026-11-10T13:00:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [],
-  "sig": [],
-  "articles": [
-   {
-    "id": "14f532da289e",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-senior-duo-told-to-come-forward-as-dressing-room-mutiny-intensifies-expert",
-    "title": "Newcastle senior duo told to 'come forward' as dressing room mutiny intensifies - expert",
-    "ko": "뉴캐슬 주전 선수들에 나서라는 요구, 라커룸 반발 격화",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-10T13:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.52,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-10T13:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Newcastle senior duo told to 'come forward' as dressing room mutiny intensifies - expert"
- },
- {
-  "slug": "bednarek-injury",
-  "mode": "llm",
-  "titleKo": "베드나레크 부상 우려",
-  "createdAt": "2026-11-08T20:26:00.000Z",
-  "updatedAt": "2026-11-10T12:59:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "베드나레크"
-  ],
-  "sig": [
-   "bednarek",
-   "não"
-  ],
-  "articles": [
-   {
-    "id": "440135abe323",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/farioli-preocupado-com-bednarek-nao-conseguia-ver-quando-deixou-o-relvado",
-    "title": "Farioli preocupado com Bednarek: «Não conseguia ver quando deixou o relvado...»",
-    "ko": "파리오리 \"베드나레크 상태 걱정, 경기장 떠나는 것 못 봐\"",
-    "source": "record",
-    "publishedAt": "2026-11-08T20:26:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "베드나레크"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d10f3ebfc1e9",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/bednarek-adia-chegada-a-selecao-da-polonia-depois-de-susto-em-guimaraes",
-    "title": "Bednarek adia chegada à Seleção da Polónia depois de susto em Guimarães",
-    "ko": "베드나레크, 기마랑이스 부상 우려로 폴란드 대표팀 합류 연기",
-    "source": "record",
-    "publishedAt": "2026-11-09T15:24:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "베드나레크"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ce38212887bc",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/bednarek-na-polonia-central-treina-de-forma-mais-leve-nos-proximos-dias-e-falha-jogo-com-a-romenia",
-    "title": "Bednarek na Polónia: central treina de forma mais leve nos próximos dias e falha jogo com a Roménia",
-    "ko": "베드나레크, 폴란드 대표팀서 가벼운 훈련… 루마니아전 결장",
-    "source": "record",
-    "publishedAt": "2026-11-10T12:59:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "베드나레크"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.72,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-08T20:26:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bednarek na Polónia: central treina de forma mais leve nos próximos dias e falha jogo com a Roménia"
- },
- {
-  "slug": "porto-sporting-2026-11-08",
-  "mode": "llm",
-  "titleKo": "포르투 대 스포르팅 경기",
-  "createdAt": "2026-11-09T06:01:00.000Z",
-  "updatedAt": "2026-11-10T12:48:41.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [],
-  "sig": [
-   "farioli"
-  ],
-  "articles": [
-   {
-    "id": "e8cde81c1757",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/sporting-e-a-barreira-final-rumo-a-novo-maximo-para-o-fc-porto-de-farioli",
-    "title": "Sporting é a barreira final rumo a novo máximo para o FC Porto de Farioli",
-    "ko": "파리올리 포르투, 스포르팅 격파하면 새 역대 최고 기록 도전",
-    "source": "record",
-    "publishedAt": "2026-11-09T06:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "84e1d592381b",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/ca-esperamos-o-sporting-no-dragao-a-9-pontos-adeptos-do-fc-porto-celebram-vitoria-em-guimaraes",
-    "title": "«Cá esperamos o Sporting no Dragão a 9 pontos»: adeptos do FC Porto celebram vitória em Guimarães",
-    "ko": "포르투 팬들, 기마랑이스 원정 승리 후 스포르팅전 기대감 표출",
-    "source": "record",
-    "publishedAt": "2026-11-09T06:56:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f9bf43f43544",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-divulga-preco-dos-bilhetes-para-o-classico-com-o-sporting",
-    "title": "FC Porto divulga preço dos bilhetes para o clássico com o Sporting",
-    "ko": "FC 포르투, 스포르팅전 입장권 가격 공개",
-    "source": "record",
-    "publishedAt": "2026-11-10T12:48:41.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.67,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-09T06:01:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "FC Porto divulga preço dos bilhetes para o clássico com o Sporting"
- },
- {
-  "slug": "nmecha-discipline",
-  "mode": "llm",
-  "titleKo": "은메차 세리머니 논란",
-  "createdAt": "2026-11-10T10:39:34.000Z",
-  "updatedAt": "2026-11-10T12:48:21.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "dortmund"
-  ],
-  "players": [
-   "펠릭스 은메차",
-   "은메차"
-  ],
-  "sig": [
-   "jürgen",
-   "klopp",
-   "felix",
-   "nmecha"
-  ],
-  "articles": [
-   {
-    "id": "b54353f2885e",
-    "url": "https://www.lequipe.fr/Football/Actualites/Celebration-associee-a-un-mouvement-evangelique-convoque-par-jurgen-klopp-felix-nmecha-dans-la-tourmente-apres-un-geste-polemique/1742707#at_medium=RSS_feeds",
-    "title": "Célébration associée à un mouvement évangélique, convoqué par Jürgen Klopp : Felix Nmecha dans la tourmente après un geste polémique",
-    "ko": "은메차, 종교 단체 관련 세리머니로 논란",
-    "source": "lequipe",
-    "publishedAt": "2026-11-10T10:39:34.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "펠릭스 은메차"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "a01eb1d04374",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o?at_medium=RSS&at_campaign=rss",
-    "title": "Dortmund fans' group criticises Nmecha celebration",
-    "ko": "도르트문트 서포터즈 단체, 은메차 세리머니 비판",
-    "source": "bbc",
-    "publishedAt": "2026-11-10T12:48:21.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "은메차"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 3.66,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-10T10:39:34.000Z",
-   "viaQuote": false
-  },
-  "headline": "Dortmund fans' group criticises Nmecha celebration"
- },
- {
-  "slug": "alanyaspor-manager-future",
-  "mode": "llm",
-  "titleKo": "알라냐스포르 감독 주앙 페레이라 해고",
-  "createdAt": "2026-11-10T12:42:08.000Z",
-  "updatedAt": "2026-11-10T12:42:08.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "turquia",
-   "joão",
-   "pereira",
-   "alanyaspor"
-  ],
-  "articles": [
-   {
-    "id": "2fcdaaf6a635",
-    "url": "https://www.record.pt/internacional/paises/turquia/detalhe/fim-da-linha-na-turquia-joao-pereira-despedido-do-alanyaspor",
-    "title": "Fim da linha na Turquia: João Pereira despedido do Alanyaspor",
-    "ko": "주앙 페레이라, 알라냐스포르 해고",
-    "source": "record",
-    "publishedAt": "2026-11-10T12:42:08.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.64,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-10T12:42:08.000Z",
-   "viaQuote": false
-  },
-  "headline": "Fim da linha na Turquia: João Pereira despedido do Alanyaspor"
- },
- {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭, 맨유 감독 행보 힌트",
   "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-10T12:37:39.000Z",
+  "updatedAt": "2026-11-10T13:58:30.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -2629,11 +1847,29 @@
     "playerTags": [],
     "author": "Harry Brent",
     "transfer": null
+   },
+   {
+    "id": "786d0d4d164a",
+    "url": "https://www.theguardian.com/football/video/2026/nov/10/carrick-on-the-brink-and-madrid-on-the-charge-under-mourinho-football-weekly-video",
+    "title": "Carrick on the brink and Madrid on the charge under Mourinho | Football Weekly video",
+    "ko": "캐릭 위기 속 맨유 벼랑 끝, 무리뉴 레알 상승세 조명",
+    "source": "guardian",
+    "publishedAt": "2026-11-10T13:58:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Guardian Staff",
+    "transfer": null
    }
   ],
   "recentSources": 7,
   "sourceCount": 14,
-  "score": 3.54,
+  "score": 3.03,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2647,6 +1883,1046 @@
    "viaQuote": true
   },
   "headline": "Man Utd expected to sack head coach Carrick"
+ },
+ {
+  "slug": "raphinha-injury",
+  "mode": "llm",
+  "titleKo": "하피냐 대표팀 연이은 부상 우려",
+  "createdAt": "2026-11-09T11:07:50.000Z",
+  "updatedAt": "2026-11-10T13:32:29.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "하피냐"
+  ],
+  "sig": [
+   "raphinha",
+   "brasil"
+  ],
+  "articles": [
+   {
+    "id": "14e8482162f1",
+    "url": "https://as.com/futbol/primera/psicosis-con-raphinha-tres-viajes-con-brasil-en-2026-tres-lesiones-f202611-n/",
+    "title": "Psicosis con Raphinha: tres viajes con Brasil en 2026, tres lesiones",
+    "ko": "하피냐, 2026년 브라질 대표팀 세 차례 소집 후 세 차례 부상",
+    "source": "as",
+    "publishedAt": "2026-11-09T11:07:50.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Juan Jiménez",
+    "transfer": null
+   },
+   {
+    "id": "c01f16c3478b",
+    "url": "https://as.com/futbol/internacional/pacto-por-raphinha-f202611-n/",
+    "title": "Raphinha, caso límite",
+    "ko": "하피냐, 위험한 경계선에 놓여",
+    "source": "as",
+    "publishedAt": "2026-11-10T13:32:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "하피냐"
+    ],
+    "playerTags": [
+     "raphinha"
+    ],
+    "author": "Simón Escudero",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.62,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "raphinha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-09T11:07:50.000Z",
+   "viaQuote": false
+  },
+  "headline": "Raphinha, caso límite"
+ },
+ {
+  "slug": "oviedo-manager-appointment",
+  "mode": "llm",
+  "titleKo": "오비에도 감독 교체, 라울 곤살레스 선임",
+  "createdAt": "2026-11-09T08:52:57.000Z",
+  "updatedAt": "2026-11-10T13:32:19.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "라울"
+  ],
+  "sig": [
+   "oviedo",
+   "calero",
+   "raúl",
+   "gonzález"
+  ],
+  "articles": [
+   {
+    "id": "069a63cf5dad",
+    "url": "https://as.com/futbol/segunda/el-oviedo-despide-a-calero-raul-gonzalez-sera-el-nuevo-entrenador-azul-f202611-n/",
+    "title": "El Oviedo despide a Calero: Raúl González será el nuevo entrenador azul",
+    "ko": "오비에도, 칼레로 경질…라울 곤살레스 신임 감독 선임",
+    "source": "as",
+    "publishedAt": "2026-11-09T08:52:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nacho Azparren Menéndez",
+    "transfer": null
+   },
+   {
+    "id": "779ccdc4c26b",
+    "url": "https://as.com/futbol/segunda/oficial-raul-gonzalez-nuevo-entrenador-del-oviedo-f202611-n/",
+    "title": "Oficial: Raúl González, nuevo entrenador del Oviedo",
+    "ko": "라울 곤살레스, 오비에도 신임 감독으로 공식 선임",
+    "source": "as",
+    "publishedAt": "2026-11-09T08:52:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nacho Azparren Menéndez",
+    "transfer": null
+   },
+   {
+    "id": "fdbe968f1708",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/oficial-raul-gonzalez-e-o-novo-treinador-do-real-oviedo",
+    "title": "Oficial: Raúl González é o novo treinador do Real Oviedo",
+    "ko": "레알 오비에도, 라울 곤살레스 감독 선임 공식 발표",
+    "source": "record",
+    "publishedAt": "2026-11-09T13:34:10.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5d1f9fc24353",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-legende-du-real-madrid-raul-va-lancer-sa-carriere-d-entraineur-professionnel-a-oviedo/1742491#at_medium=RSS_feeds",
+    "title": "La légende du Real Madrid Raul va lancer sa carrière d'entraîneur professionnel à Oviedo",
+    "ko": "라울, 오비에도에서 프로 감독 커리어 시작",
+    "source": "lequipe",
+    "publishedAt": "2026-11-09T13:56:02.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "d2721a4b148f",
+    "url": "https://www.kicker.de/offiziell-raul-wird-neuer-chefcoach-in-oviedo-1270178/artikel#omrss",
+    "title": "Offiziell: Raul wird neuer Chefcoach in Oviedo",
+    "ko": "라울, 오비에도 신임 감독 공식 선임",
+    "source": "kicker",
+    "publishedAt": "2026-11-09T14:21:59.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fb45b4398424",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0v1yj585o?at_medium=RSS&at_campaign=rss",
+    "title": "Real Madrid legend Raul named Real Oviedo manager",
+    "ko": "라울, 레알 오비에도 감독으로 선임",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T16:16:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "299528ed118d",
+    "url": "https://www.thesun.co.uk/sport/40972573/raul-real-madrid-transfer-news-oviedo/",
+    "title": "Real Madrid legend Raul lands first job in senior club management after six years with Los Blancos’ reserves",
+    "ko": "라울, 6년간 레알 마드리드 유스 지휘 후 첫 1군 감독직 확보",
+    "source": "sun",
+    "publishedAt": "2026-11-09T19:04:57.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "라울"
+    ],
+    "playerTags": [],
+    "author": "Kostas Lianos",
+    "transfer": null
+   },
+   {
+    "id": "f72264c3ad11",
+    "url": "https://as.com/futbol/segunda/raul-ya-ejerce-de-azul-si-me-veo-en-el-futuro-en-el-madrid-me-veo-estando-en-el-oviedo-f202611-n/",
+    "title": "Raúl ya ejerce de azul: “¿Si me veo en el futuro en el Madrid? Me veo estando en el Oviedo\"",
+    "ko": "라울 '레알 복귀 가능성은?'…'지금은 오비에도에 집중'",
+    "source": "as",
+    "publishedAt": "2026-11-10T13:30:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nacho Azparren Menéndez",
+    "transfer": null
+   },
+   {
+    "id": "b0c430210192",
+    "url": "https://as.com/futbol/fotorrelato/las-imagenes-del-primer-entrenamiento-de-raul-al-frente-del-real-oviedo-f202611-f/",
+    "title": "Las imágenes del primer entrenamiento de Raúl al frente del Real Oviedo",
+    "ko": "라울, 레알 오비에도 지휘 첫 훈련 현장",
+    "source": "as",
+    "publishedAt": "2026-11-10T13:32:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 1.61,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-09T08:52:57.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid legend Raul named Real Oviedo manager"
+ },
+ {
+  "slug": "oldenburg-affairs-sanction",
+  "mode": "llm",
+  "titleKo": "올덴부르크 스포츠법원 징계",
+  "createdAt": "2026-11-10T13:26:47.000Z",
+  "updatedAt": "2026-11-10T13:26:47.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "geldstrafe",
+   "sportgericht",
+   "oldenburg"
+  ],
+  "articles": [
+   {
+    "id": "808543d1ccd7",
+    "url": "https://www.kicker.de/teilausschluss-und-maximale-geldstrafe-sportgericht-bestraft-oldenburg-hart-1270421/artikel#omrss",
+    "title": "Teilausschluss und maximale Geldstrafe: Sportgericht bestraft Oldenburg hart",
+    "ko": "올덴부르크, 스포츠 법원서 부분 출장 금지와 최고 벌금 처분",
+    "source": "kicker",
+    "publishedAt": "2026-11-10T13:26:47.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.59,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-10T13:26:47.000Z",
+   "viaQuote": false
+  },
+  "headline": "Teilausschluss und maximale Geldstrafe: Sportgericht bestraft Oldenburg hart"
+ },
+ {
+  "slug": "rc-lens-manager-future",
+  "mode": "llm",
+  "titleKo": "RC 랑스 감독 경질",
+  "createdAt": "2026-11-10T10:44:11.000Z",
+  "updatedAt": "2026-11-10T13:25:11.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "yannick",
+   "cahuzac",
+   "lens"
+  ],
+  "articles": [
+   {
+    "id": "f6f21e8638db",
+    "url": "https://www.lequipe.fr/Football/Actualites/Yannick-cahuzac-limoge-de-son-poste-d-entraineur-du-rc-lens/1742708#at_medium=RSS_feeds",
+    "title": "Deux petits mois et puis s'en va : Yannick Cahuzac limogé de son poste d'entraîneur du RC Lens",
+    "ko": "RC 랑스, 카위자크 감독 2개월 만에 경질",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T10:44:11.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Loïc Tanzi",
+    "transfer": null
+   },
+   {
+    "id": "ca4e7c959edb",
+    "url": "https://www.record.pt/internacional/paises/franca/lens/detalhe/treinador-do-lens-nao-resiste-a-sequencia-terrivel-e-e-despedido-dois-meses-depois-de-assumir-o-cargo",
+    "title": "Treinador do Lens não resiste a sequência terrível e é despedido dois meses depois de assumir o cargo",
+    "ko": "RC 랑스, 연패 끝에 감독 경질 — 취임 두 달 만",
+    "source": "record",
+    "publishedAt": "2026-11-10T13:25:11.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.58,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-10T10:44:11.000Z",
+   "viaQuote": false
+  },
+  "headline": "Treinador do Lens não resiste a sequência terrível e é despedido dois meses depois de assumir o cargo"
+ },
+ {
+  "slug": "aberdeen-manager-future",
+  "mode": "llm",
+  "titleKo": "애버딘 로빈슨 감독 거취 논란",
+  "createdAt": "2026-11-07T23:15:00.000Z",
+  "updatedAt": "2026-11-10T13:24:07.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "premiership",
+   "robinson"
+  ],
+  "articles": [
+   {
+    "id": "4a610e6ba84f",
+    "url": "https://www.bbc.co.uk/sounds/play/p0plvx32?at_medium=RSS&at_campaign=rss",
+    "title": "Listen: Premiership reaction as pressure mounts on Robinson",
+    "ko": "로빈슨 감독 압박 고조…프리미어 반응 들어보기",
+    "source": "bbc",
+    "publishedAt": "2026-11-07T23:15:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c1d719379a05",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&at_campaign=rss",
+    "title": "'Curtains for Robinson' or can floundering Aberdeen boss survive?",
+    "ko": "로빈슨 애버딘 감독, 경질 위기 속 잔류 가능성은",
+    "source": "bbc",
+    "publishedAt": "2026-11-08T00:04:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "40888455020c",
+    "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+    "title": "Scot Prem latest: Aberdeen won't rush Robinson decision",
+    "ko": "애버딘, 로빈슨 감독 결정 서두르지 않아",
+    "source": "sky",
+    "publishedAt": "2026-11-08T12:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e4504412f219",
+    "url": "https://www.skysports.com/football/news/12040/13605319/stephen-robinson-aberdeen-sack-head-coach-with-club-11th-in-scottish-premiership-after-hibs-defeat",
+    "title": "Aberdeen sack Robinson",
+    "ko": "애버딘, 로빈슨 감독 경질",
+    "source": "sky",
+    "publishedAt": "2026-11-09T16:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d75988b7d1ed",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+    "title": "Aberdeen sack Robinson after league slump",
+    "ko": "애버딘, 리그 부진 끝 로빈슨 감독 경질",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T16:46:11.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "79ebb4f9c502",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cqzjxrwgnlr1o?at_medium=RSS&at_campaign=rss",
+    "title": "'I believe in my ability' - Robinson's final interview as Aberdeen boss",
+    "ko": "로빈슨 애버딘 감독 마지막 인터뷰 '내 능력 믿는다'",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T17:04:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2187b9ce6443",
+    "url": "https://www.bbc.co.uk/sport/videos/c3dxw181eqejo?at_medium=RSS&at_campaign=rss",
+    "title": "The heavy defeat that ended Robinson's Aberdeen tenure",
+    "ko": "로빈슨의 애버딘 시절 막 내린 대패",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T17:10:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "91162a0fa451",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko?at_medium=RSS&at_campaign=rss",
+    "title": "'Aberdeen hunt yet another manager after ill-fated Robinson reign'",
+    "ko": "애버딘, 로빈슨 감독 실패 후 또 감독 물색",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T21:39:37.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2dd5d920141f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno?at_medium=RSS&at_campaign=rss",
+    "title": "Caldwell & McGlynn linked with Aberdeen job - gossip",
+    "ko": "애버딘, 칼드웰·맥글린 감독 후보로 거론 - 가십",
+    "source": "bbc",
+    "publishedAt": "2026-11-10T07:25:56.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d7251df5a6f4",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
+    "title": "Who are the main candidates for the Aberdeen job?",
+    "ko": "애버딘 감독직 후보는 누구?",
+    "source": "bbc",
+    "publishedAt": "2026-11-10T13:24:07.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.84,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-07T23:15:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Who are the main candidates for the Aberdeen job?"
+ },
+ {
+  "slug": "tresoldi-bayern-transfer",
+  "mode": "llm",
+  "titleKo": "트레솔디 바이에른 뮌헨 관심",
+  "createdAt": "2026-11-10T13:13:22.000Z",
+  "updatedAt": "2026-11-10T13:13:22.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "트레솔디"
+  ],
+  "sig": [
+   "dfb",
+   "tresoldi",
+   "visier"
+  ],
+  "articles": [
+   {
+    "id": "7515e7bdf0f1",
+    "url": "https://www.tz.de/sport/fc-bayern/bruegge-torjaeger-nicolo-tresoldi-beim-fc-bayern-im-visier-94583242.html",
+    "title": "Nicht nur vom DFB umworben: Tresoldi beim FC Bayern im Visier",
+    "ko": "트레솔디, 뮌헨 관심 대상으로 떠올라",
+    "source": "tz",
+    "publishedAt": "2026-11-10T13:13:22.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "트레솔디"
+    ],
+    "playerTags": [],
+    "author": "Manuel Bonke, Philipp Kessler",
+    "transfer": {
+     "player": "트레솔디",
+     "from": null,
+     "to": "바이에른 뮌헨"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.53,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "7515e7bdf0f1",
+    "at": "2026-11-10T13:13:22.000Z",
+    "source": "tz",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "트레솔디",
+   "from": null,
+   "to": "바이에른 뮌헨"
+  },
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-10T13:13:22.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nicht nur vom DFB umworben: Tresoldi beim FC Bayern im Visier"
+ },
+ {
+  "slug": "felgueiras-manager-future",
+  "mode": "llm",
+  "titleKo": "펠구에이라스 감독 모레노 사임",
+  "createdAt": "2026-11-10T13:04:54.000Z",
+  "updatedAt": "2026-11-10T13:04:54.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "moreno",
+   "felgueiras"
+  ],
+  "articles": [
+   {
+    "id": "48b3f6b44221",
+    "url": "https://www.record.pt/futebol/futebol-nacional/2--liga/felgueiras/detalhe/oficial-moreno-ja-nao-e-treinador-do-felgueiras",
+    "title": "Oficial: Moreno já não é treinador do Felgueiras",
+    "ko": "모레노, 펠구에이라스 감독직에서 물러나",
+    "source": "record",
+    "publishedAt": "2026-11-10T13:04:54.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.5,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-10T13:04:54.000Z",
+   "viaQuote": false
+  },
+  "headline": "Oficial: Moreno já não é treinador do Felgueiras"
+ },
+ {
+  "slug": "newcastle-affairs-dressing-room-unrest",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 라커룸 내홍 격화",
+  "createdAt": "2026-11-10T13:00:00.000Z",
+  "updatedAt": "2026-11-10T13:00:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [],
+  "sig": [],
+  "articles": [
+   {
+    "id": "14f532da289e",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-senior-duo-told-to-come-forward-as-dressing-room-mutiny-intensifies-expert",
+    "title": "Newcastle senior duo told to 'come forward' as dressing room mutiny intensifies - expert",
+    "ko": "뉴캐슬 주전 선수들에 나서라는 요구, 라커룸 반발 격화",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-10T13:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.44,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-10T13:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle senior duo told to 'come forward' as dressing room mutiny intensifies - expert"
+ },
+ {
+  "slug": "bednarek-injury",
+  "mode": "llm",
+  "titleKo": "베드나레크 부상 우려",
+  "createdAt": "2026-11-08T20:26:00.000Z",
+  "updatedAt": "2026-11-10T12:59:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "베드나레크"
+  ],
+  "sig": [
+   "bednarek",
+   "não"
+  ],
+  "articles": [
+   {
+    "id": "440135abe323",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/farioli-preocupado-com-bednarek-nao-conseguia-ver-quando-deixou-o-relvado",
+    "title": "Farioli preocupado com Bednarek: «Não conseguia ver quando deixou o relvado...»",
+    "ko": "파리오리 \"베드나레크 상태 걱정, 경기장 떠나는 것 못 봐\"",
+    "source": "record",
+    "publishedAt": "2026-11-08T20:26:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "베드나레크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d10f3ebfc1e9",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/bednarek-adia-chegada-a-selecao-da-polonia-depois-de-susto-em-guimaraes",
+    "title": "Bednarek adia chegada à Seleção da Polónia depois de susto em Guimarães",
+    "ko": "베드나레크, 기마랑이스 부상 우려로 폴란드 대표팀 합류 연기",
+    "source": "record",
+    "publishedAt": "2026-11-09T15:24:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "베드나레크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ce38212887bc",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/bednarek-na-polonia-central-treina-de-forma-mais-leve-nos-proximos-dias-e-falha-jogo-com-a-romenia",
+    "title": "Bednarek na Polónia: central treina de forma mais leve nos próximos dias e falha jogo com a Roménia",
+    "ko": "베드나레크, 폴란드 대표팀서 가벼운 훈련… 루마니아전 결장",
+    "source": "record",
+    "publishedAt": "2026-11-10T12:59:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "베드나레크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.47,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-08T20:26:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bednarek na Polónia: central treina de forma mais leve nos próximos dias e falha jogo com a Roménia"
+ },
+ {
+  "slug": "porto-sporting-2026-11-08",
+  "mode": "llm",
+  "titleKo": "포르투 대 스포르팅 경기",
+  "createdAt": "2026-11-09T06:01:00.000Z",
+  "updatedAt": "2026-11-10T12:48:41.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [],
+  "sig": [
+   "farioli"
+  ],
+  "articles": [
+   {
+    "id": "e8cde81c1757",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/sporting-e-a-barreira-final-rumo-a-novo-maximo-para-o-fc-porto-de-farioli",
+    "title": "Sporting é a barreira final rumo a novo máximo para o FC Porto de Farioli",
+    "ko": "파리올리 포르투, 스포르팅 격파하면 새 역대 최고 기록 도전",
+    "source": "record",
+    "publishedAt": "2026-11-09T06:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "84e1d592381b",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/ca-esperamos-o-sporting-no-dragao-a-9-pontos-adeptos-do-fc-porto-celebram-vitoria-em-guimaraes",
+    "title": "«Cá esperamos o Sporting no Dragão a 9 pontos»: adeptos do FC Porto celebram vitória em Guimarães",
+    "ko": "포르투 팬들, 기마랑이스 원정 승리 후 스포르팅전 기대감 표출",
+    "source": "record",
+    "publishedAt": "2026-11-09T06:56:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f9bf43f43544",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-divulga-preco-dos-bilhetes-para-o-classico-com-o-sporting",
+    "title": "FC Porto divulga preço dos bilhetes para o clássico com o Sporting",
+    "ko": "FC 포르투, 스포르팅전 입장권 가격 공개",
+    "source": "record",
+    "publishedAt": "2026-11-10T12:48:41.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.43,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-09T06:01:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "FC Porto divulga preço dos bilhetes para o clássico com o Sporting"
+ },
+ {
+  "slug": "nmecha-discipline",
+  "mode": "llm",
+  "titleKo": "은메차 세리머니 논란",
+  "createdAt": "2026-11-10T10:39:34.000Z",
+  "updatedAt": "2026-11-10T12:48:21.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "dortmund"
+  ],
+  "players": [
+   "펠릭스 은메차",
+   "은메차"
+  ],
+  "sig": [
+   "jürgen",
+   "klopp",
+   "felix",
+   "nmecha"
+  ],
+  "articles": [
+   {
+    "id": "b54353f2885e",
+    "url": "https://www.lequipe.fr/Football/Actualites/Celebration-associee-a-un-mouvement-evangelique-convoque-par-jurgen-klopp-felix-nmecha-dans-la-tourmente-apres-un-geste-polemique/1742707#at_medium=RSS_feeds",
+    "title": "Célébration associée à un mouvement évangélique, convoqué par Jürgen Klopp : Felix Nmecha dans la tourmente après un geste polémique",
+    "ko": "은메차, 종교 단체 관련 세리머니로 논란",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T10:39:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "펠릭스 은메차"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "a01eb1d04374",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm3696yy9z64o?at_medium=RSS&at_campaign=rss",
+    "title": "Dortmund fans' group criticises Nmecha celebration",
+    "ko": "도르트문트 서포터즈 단체, 은메차 세리머니 비판",
+    "source": "bbc",
+    "publishedAt": "2026-11-10T12:48:21.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "은메차"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.12,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-10T10:39:34.000Z",
+   "viaQuote": false
+  },
+  "headline": "Dortmund fans' group criticises Nmecha celebration"
+ },
+ {
+  "slug": "alanyaspor-manager-future",
+  "mode": "llm",
+  "titleKo": "알라냐스포르 감독 주앙 페레이라 해고",
+  "createdAt": "2026-11-10T12:42:08.000Z",
+  "updatedAt": "2026-11-10T12:42:08.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "turquia",
+   "joão",
+   "pereira",
+   "alanyaspor"
+  ],
+  "articles": [
+   {
+    "id": "2fcdaaf6a635",
+    "url": "https://www.record.pt/internacional/paises/turquia/detalhe/fim-da-linha-na-turquia-joao-pereira-despedido-do-alanyaspor",
+    "title": "Fim da linha na Turquia: João Pereira despedido do Alanyaspor",
+    "ko": "주앙 페레이라, 알라냐스포르 해고",
+    "source": "record",
+    "publishedAt": "2026-11-10T12:42:08.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.4,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-10T12:42:08.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fim da linha na Turquia: João Pereira despedido do Alanyaspor"
  },
  {
   "slug": "prestianni-discipline",
@@ -2722,7 +2998,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.61,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2786,7 +3062,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.54,
+  "score": 1.31,
   "topTier": 2,
   "stageHistory": [
    {
@@ -2858,7 +3134,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.45,
+  "score": 0.39,
   "topTier": 4,
   "stageHistory": [
    {
@@ -2921,7 +3197,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.45,
+  "score": 0.39,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -3113,7 +3389,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 2.61,
+  "score": 2.23,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3176,7 +3452,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.24,
   "topTier": 2,
   "stageHistory": [
    {
@@ -3246,7 +3522,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.24,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3308,7 +3584,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 4,
   "stageHistory": [
    {
@@ -3384,7 +3660,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.37,
   "topTier": 4,
   "stageHistory": [
    {
@@ -3529,7 +3805,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 0.75,
+  "score": 0.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3579,7 +3855,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.36,
+  "score": 1.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3643,7 +3919,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4110,7 +4386,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 9,
-  "score": 2.46,
+  "score": 2.11,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4134,58 +4410,6 @@
    "man-utd-manager-future-20261109",
    "man-utd-manager-future-20261110"
   ]
- },
- {
-  "slug": "kompany-health-incident",
-  "mode": "llm",
-  "titleKo": "콤파니 감독 건강 이상, 뮌헨 훈련장 포착",
-  "createdAt": "2026-11-10T11:05:00.000Z",
-  "updatedAt": "2026-11-10T11:05:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [],
-  "sig": [
-   "vincent",
-   "kompany"
-  ],
-  "articles": [
-   {
-    "id": "1cac2873fe5a",
-    "url": "https://www.hln.be/bundesliga/exclusief-de-eerste-beelden-van-gehavende-vincent-kompany-op-oefencomplex-van-bayern-munchen-na-hersenvliesirritatie~a546b0da/",
-    "title": "EXCLUSIEF. De eerste beelden van gehavende Vincent Kompany op oefencomplex van Bayern München na hersenvliesirritatie",
-    "ko": "콤파니, 뮌헨 훈련장서 뇌수막 자극 증상 포착 공개",
-    "source": "hln",
-    "publishedAt": "2026-11-10T11:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Niel Van Essche",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.74,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-10T11:05:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "EXCLUSIEF. De eerste beelden van gehavende Vincent Kompany op oefencomplex van Bayern München na hersenvliesirritatie"
  },
  {
   "slug": "newcastle-affairs-pif-withdrawal",
@@ -4224,7 +4448,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.22,
+  "score": 1.04,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4299,7 +4523,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.22,
+  "score": 1.04,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4354,7 +4578,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.21,
+  "score": 1.04,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4414,7 +4638,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4471,7 +4695,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -4605,7 +4829,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.11,
+  "score": 0.95,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4677,7 +4901,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.1,
+  "score": 0.94,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4745,7 +4969,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.99,
+  "score": 0.85,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5233,7 +5457,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.5,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5283,7 +5507,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.5,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5410,7 +5634,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.94,
+  "score": 0.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5472,7 +5696,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.23,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5555,7 +5779,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5618,7 +5842,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.82,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5737,7 +5961,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.79,
+  "score": 0.68,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5849,7 +6073,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.78,
+  "score": 0.67,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5934,7 +6158,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.16,
+  "score": 0.99,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6007,7 +6231,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.71,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6147,7 +6371,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6580,7 +6804,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.18,
+  "score": 0.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7305,7 +7529,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.61,
+  "score": 0.52,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8374,7 +8598,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 14,
-  "score": 0.18,
+  "score": 0.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8433,7 +8657,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
+  "score": 0.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8493,7 +8717,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.17,
+  "score": 0.14,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8564,7 +8788,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8627,7 +8851,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9362,7 +9586,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 0.67,
+  "score": 0.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9416,7 +9640,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.67,
+  "score": 0.57,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9979,7 +10203,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 10,
-  "score": 0.43,
+  "score": 0.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10146,7 +10370,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10194,7 +10418,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10336,7 +10560,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11118,73 +11342,6 @@
    "viaQuote": false
   },
   "headline": "Roberto D’Aversa vai assumir o leme do Sassuolo"
- },
- {
-  "slug": "man-city-affairs-charges-20261109",
-  "mode": "llm",
-  "titleKo": "맨시티 혐의 조사 여파 논란",
-  "createdAt": "2026-11-09T11:55:00.000Z",
-  "updatedAt": "2026-11-09T22:18:11.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-city"
-  ],
-  "players": [],
-  "sig": [],
-  "articles": [
-   {
-    "id": "dd1688fecf83",
-    "url": "https://www.skysports.com/football/news/12040/13610133/gary-neville",
-    "title": "Neville: Is Man City charges spotlight seeping into performances?",
-    "ko": "네빌, 맨시티 혐의 조명이 경기력에 영향 주는지 질문",
-    "source": "sky",
-    "publishedAt": "2026-11-09T11:55:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b748722c0004",
-    "url": "https://www.thesun.co.uk/sport/40973885/man-city-players-crumbling-financial-sham-guilty-verdict/",
-    "title": "Man City’s players are crumbling under the guilt of £1billion financial ‘sham’ – even footballers don’t live in a vacuum",
-    "ko": "맨시티 선수들, 10억 파운드 재정 '사기' 의혹에 죄책감 호소",
-    "source": "sun",
-    "publishedAt": "2026-11-09T22:18:11.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-09T11:55:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Neville: Is Man City charges spotlight seeping into performances?"
  },
  {
   "slug": "van-dijk-injury",
@@ -15675,54 +15832,6 @@
    "viaQuote": false
   },
   "headline": "Milan vai renovar contrato com Yanus Musah"
- },
- {
-  "slug": "lyon-u17-grenoble-incident",
-  "mode": "llm",
-  "titleKo": "리옹 U17 그르노블 원정 관중 위협",
-  "createdAt": "2026-11-09T19:31:08.000Z",
-  "updatedAt": "2026-11-09T19:31:08.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "u17",
-   "grenoble"
-  ],
-  "articles": [
-   {
-    "id": "1a9ccc709ca6",
-    "url": "https://www.lequipe.fr/Football/Actualites/Les-u17-de-l-ol-menaces-a-grenoble-par-des-spectateurs-munis-d-armes-blanches-et-d-un-pistolet/1742613#at_medium=RSS_feeds",
-    "title": "Les U17 de l'OL menacés à Grenoble par des spectateurs munis d'armes blanches et d'un pistolet",
-    "ko": "리옹 U17, 그르노블 원정서 흉기 든 관중 위협",
-    "source": "lequipe",
-    "publishedAt": "2026-11-09T19:31:08.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Marius Veillerot",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-09T19:31:08.000Z",
-   "viaQuote": false
-  },
-  "headline": "Les U17 de l'OL menacés à Grenoble par des spectateurs munis d'armes blanches et d'un pistolet"
  },
  {
   "slug": "jobe-bellingham-newcastle-transfer",
@@ -76701,56 +76810,6 @@
    "viaQuote": false
   },
   "headline": "Wirtz, Munoz, Szoboszlai - Liverpool injury news and return dates for Chelsea Carabao Cup tie"
- },
- {
-  "slug": "milne-injury",
-  "mode": "llm",
-  "titleKo": "밀른, 부상으로 시즌 아웃",
-  "createdAt": "2026-10-27T13:58:04.000Z",
-  "updatedAt": "2026-10-27T13:58:04.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "Milne"
-  ],
-  "sig": [
-   "hearts"
-  ],
-  "articles": [
-   {
-    "id": "6d2b84e8470e",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6gr8zzewz5ko?at_medium=RSS&at_campaign=rss",
-    "title": "Milne out for season as Hearts' injury woes continue",
-    "ko": "힐스, 부상 여파로 시즌 아웃",
-    "source": "bbc",
-    "publishedAt": "2026-10-27T13:58:04.000Z",
-    "credited": null,
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "Milne"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-10-27T13:58:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Milne out for season as Hearts' injury woes continue"
  },
  {
   "slug": "otorbi-contract",
