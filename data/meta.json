@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T12:35:02.446Z",
+ "updatedAt": "2026-11-10T13:50:52.851Z",
  "hot": [
+  "nmecha-discipline",
   "carrick-manager-future",
+  "rc-lens-manager-future",
   "konsa-injury",
-  "man-utd-manager-future-20261102",
-  "birmingham-affairs-tom-brady-stake",
-  "thomas-frank-crystal-palace-appointment"
+  "man-utd-manager-future-20261102"
  ],
  "days": [
   "2026-10-18",
@@ -40,7 +40,7 @@
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 2,
+   "added": 1,
    "authorRate": 96
   },
   "sky": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 15,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,19 +82,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 88
+   "added": 4,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -106,7 +106,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -130,31 +130,31 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -166,24 +166,24 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 6,
+   "added": 2,
    "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 12,
    "added": 5,
    "authorRate": 0
   }
@@ -198,6 +198,10 @@
    "count": 14
   },
   {
+   "name": "프레스티아니",
+   "count": 13
+  },
+  {
    "name": "헤수스 데 미겔",
    "count": 13
   },
@@ -207,10 +211,6 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 11
-  },
-  {
-   "name": "프레스티아니",
    "count": 11
   },
   {
@@ -278,7 +278,15 @@
    "count": 6
   },
   {
+   "name": "은메차",
+   "count": 6
+  },
+  {
    "name": "달롯",
+   "count": 6
+  },
+  {
+   "name": "쿰베디",
    "count": 6
   },
   {
@@ -300,23 +308,15 @@
   {
    "name": "댄 번",
    "count": 5
-  },
-  {
-   "name": "뤼디거",
-   "count": 5
-  },
-  {
-   "name": "마티스 텔",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 253,
-  "singleArticleRate": 39,
+  "recentIssues": 259,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 74
+    "count": 75
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -324,7 +324,7 @@
    },
    {
     "slug": "arsenal-hull-2026-11-07",
-    "count": 31
+    "count": 30
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
@@ -340,31 +340,23 @@
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
-    "count": 25
+    "count": 24
    },
    {
     "slug": "leeds-tottenham-2026-11-07",
-    "count": 25
+    "count": 23
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
     "count": 21
    },
    {
-    "slug": "de-miguel-incident",
-    "count": 20
-   },
-   {
     "slug": "valencia-real-madrid-2026-11-06",
     "count": 20
    },
    {
-    "slug": "man-utd-manager-future-20261102",
-    "count": 15
-   },
-   {
-    "slug": "fulham-newcastle-2026-11-08",
-    "count": 15
+    "slug": "de-miguel-incident",
+    "count": 19
    },
    {
     "slug": "vitoria-guimaraes-porto-2026-11-08",
@@ -374,34 +366,12 @@
  },
  "nameReport": [
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 4
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -414,6 +384,28 @@
     {
      "ko": "자일",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 4
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 3
     }
    ]
   },
@@ -460,20 +452,6 @@
     {
      "ko": "센 람멘스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Julian",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 6
-    },
-    {
-     "ko": "훌리안",
-     "count": 5
     }
    ]
   },
@@ -534,6 +512,20 @@
     {
      "ko": "사주 감독",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안",
+     "count": 5
+    },
+    {
+     "ko": "훌리안 알바레스",
+     "count": 5
     }
    ]
   },
@@ -642,6 +634,24 @@
    ]
   },
   {
+   "en": "Nmecha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "은메차",
+     "count": 4
+    },
+    {
+     "ko": "은머차",
+     "count": 1
+    },
+    {
+     "ko": "음에차",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Farioli",
    "dictionary": null,
    "variants": [
@@ -692,28 +702,6 @@
    ]
   },
   {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "듀스버리홀",
-     "count": 2
-    },
-    {
-     "ko": "키어냔 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디우스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "디우즈버리홀",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -745,24 +733,6 @@
     },
     {
      "ko": "뮈지알라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nmecha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "은메차",
-     "count": 3
-    },
-    {
-     "ko": "은머차",
-     "count": 1
-    },
-    {
-     "ko": "음에차",
      "count": 1
     }
    ]
@@ -821,64 +791,6 @@
     },
     {
      "ko": "토르프",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브뤼노 주네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 제네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 게네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 주네지오",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Granit Xhaka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "차카 자카",
-     "count": 1
-    },
-    {
-     "ko": "그라니트 자카",
-     "count": 1
-    },
-    {
-     "ko": "그라니트 샤카",
-     "count": 1
-    },
-    {
-     "ko": "작카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 3
-    },
-    {
-     "ko": "배리",
      "count": 1
     }
    ]
@@ -1016,6 +928,28 @@
    ]
   },
   {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키어냔 듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "듀스버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디우즈버리홀",
+     "count": 1
+    },
+    {
+     "ko": "디우스버리홀",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -1117,6 +1051,24 @@
     },
     {
      "ko": "시베야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Granit Xhaka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "그라니트 자카",
+     "count": 1
+    },
+    {
+     "ko": "그라니트 샤카",
+     "count": 1
+    },
+    {
+     "ko": "작카",
      "count": 1
     }
    ]
@@ -1268,6 +1220,38 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Arda Güler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아르다 귈러",
+     "count": 2
+    },
+    {
+     "ko": "귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브루노 제네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 게네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 주네지오",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1316,8 +1300,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 659,
-   "llm": 659
+   "collected": 726,
+   "llm": 726
   }
  },
  "llmErrors": []
