@@ -1853,31 +1853,6 @@
   ]
  },
  {
-  "id": "2182f9a2d6ba",
-  "url": "https://www.thesun.co.uk/sport/40045824/free-bets-football-sign-up-midnite-offer/",
-  "title": "Get £30 in free bets for football when you sign up and stake £10 with Midnite",
-  "source": "sun",
-  "publishedAt": "2026-11-03T13:30:07.000Z",
-  "author": "Craig Mahood",
-  "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "미드나이트 베팅 무료 베팅 30파운드 프로모션",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "otherClubs": [],
-  "players": [],
-  "managers": [],
-  "league": null,
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "issue": null,
-  "promptVersion": 7,
-  "offTopic": true
- },
- {
   "id": "5f9ebfcdc8d5",
   "url": "https://as.com/futbol/champions/barcelona-aston-villa-hoy-en-directo-jornada-4-de-fase-liga-champions-league-en-vivo-f202611-d/",
   "title": "Barcelona - Aston Villa hoy, en directo: jornada 4 de fase liga, Champions League en vivo",
@@ -2058,11 +2033,12 @@
   "publishedAt": "2026-11-03T13:23:06.000Z",
   "author": "Theo Squires",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "제라드, 알렉산더아놀드 리버풀 복귀 주장…'내 잘못이었다'",
+  "ko": "제라드, 알렉산더아놀드 리버풀 복귀설에 \"내 잘못된 말\" 언급",
   "category": "other",
   "stage": null,
   "clubs": [
-   "liverpool"
+   "liverpool",
+   "real-madrid"
   ],
   "otherClubs": [],
   "players": [
@@ -2079,16 +2055,16 @@
   "playerVia": {
    "trent-alexander-arnold": "fullname"
   },
-  "issue": "alexander-arnold-liverpool-relationship",
-  "promptVersion": 7,
+  "issue": null,
+  "promptVersion": 8,
   "names": [
-   [
-    "Trent Alexander-Arnold",
-    "트렌트 알렉산더아놀드"
-   ],
    [
     "Steven Gerrard",
     "스티븐 제라드"
+   ],
+   [
+    "Trent Alexander-Arnold",
+    "트렌트 알렉산더아놀드"
    ]
   ]
  },
@@ -2867,7 +2843,7 @@
   "publishedAt": "2026-11-03T13:02:17.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨시티, 1월 전에 아이트누리 제안 수락할 것이라는 이적 전문가 보도",
+  "ko": "맨시티, 1월 전 아이트-누리 제안 수락 가능성 전망",
   "category": "transfer",
   "stage": "agreement",
   "clubs": [
@@ -2875,25 +2851,21 @@
   ],
   "otherClubs": [],
   "players": [
-   "아이트누리"
+   "라얀 아이트-누리"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "아이트누리",
-   "from": null,
-   "to": "맨시티"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": "ait-nouri-man-city-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Rayan Ait-Nouri",
-    "아이트누리"
+    "라얀 아이트-누리"
    ]
   ]
  },
@@ -2971,40 +2943,6 @@
   ]
  },
  {
-  "id": "40888455020c",
-  "url": "https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
-  "title": "Scot Prem latest: O'Neill and Celtic board face tough questions from fans",
-  "source": "sky",
-  "publishedAt": "2026-11-03T13:00:00.000Z",
-  "author": null,
-  "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "셀틱, 오닐 감독과 이사회에 팬들의 거센 질문",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "otherClubs": [
-   "celtic"
-  ],
-  "players": [],
-  "managers": [
-   "오닐"
-  ],
-  "league": "other",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "issue": "celtic-manager-future",
-  "promptVersion": 7,
-  "names": [
-   [
-    "O'Neill",
-    "오닐"
-   ]
-  ]
- },
- {
   "id": "1319afdffac4",
   "url": "https://www.skysports.com/f1/news/12040/13607228/liam-lawson-admits-no-assurance-given-to-him-of-retaining-racing-bulls-seat-for-2027-formula-1-season",
   "title": "Lawson admits 'no assurance' of retaining Racing Bulls seat",
@@ -3045,7 +2983,7 @@
   "publishedAt": "2026-11-03T13:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "미겔 시에라, 다음 여름 리즈 합류 가능성 가장 높다는 보도",
+  "ko": "미겔 시에라, 다음 여름 리즈 합류 가능성 높아",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
@@ -3067,7 +3005,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "sierra-leeds-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Miguel Sierra",
@@ -3727,14 +3665,15 @@
   "publishedAt": "2026-11-03T12:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "토트넘, 루카스 베르그발 관련 계획 수립…바르셀로나 소식 겹쳐",
+  "ko": "토트넘, 루카스 베르그발 관련 계획 마련 보도",
   "category": "transfer",
-  "stage": "interest",
+  "stage": "negotiation",
   "clubs": [
-   "tottenham",
-   "barcelona"
+   "tottenham"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Barcelona"
+  ],
   "players": [
    "루카스 베르그발"
   ],
@@ -3744,13 +3683,13 @@
   "enrichedBy": "llm",
   "transfer": {
    "player": "루카스 베르그발",
-   "from": null,
-   "to": "토트넘"
+   "from": "토트넘",
+   "to": "바르셀로나"
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "bergvall-tottenham-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Lucas Bergvall",
@@ -3908,9 +3847,9 @@
   "publishedAt": "2026-11-03T12:25:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨시티 강등 시 홀란 영입 후보에 아스널 포함 주장",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "맨시티 강등 시 홀란 영입 후보 4개 구단 중 아스널 포함",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "arsenal",
    "man-city"
@@ -3923,19 +3862,15 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "엘링 홀란",
-   "from": "맨체스터 시티",
-   "to": "아스널"
-  },
+  "transfer": null,
   "playerTags": [
    "erling-haaland"
   ],
   "playerVia": {
    "erling-haaland": "fullname"
   },
-  "issue": "haaland-arsenal-transfer",
-  "promptVersion": 7,
+  "issue": null,
+  "promptVersion": 8,
   "names": [
    [
     "Erling Haaland",
@@ -4141,29 +4076,29 @@
   "publishedAt": "2026-11-03T12:11:07.000Z",
   "author": "Ross Gregory",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "브로비, 선덜랜드 잔류 이유 밝혀 이적 관심 일축",
+  "ko": "브로비, 선덜랜드 이적 관심 속 미래 결정 이유 밝혀",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [
-   "선덜랜드"
+   "Sunderland"
   ],
   "players": [
-   "브로비"
+   "브라이언 브로비"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "브로비",
+   "player": "브라이언 브로비",
    "from": "선덜랜드",
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "brobbey-sunderland-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Brian Brobbey",
@@ -5058,7 +4993,7 @@
   "publishedAt": "2026-11-03T11:43:47.000Z",
   "author": "Kieran Horn",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "발데, 이적 조건 수락…맨유 3300만 파운드 수비수 소식 전해져",
+  "ko": "발데, 맨유 이적 조건 수락 보도…3300만 파운드 수비수 소식도",
   "category": "transfer",
   "stage": "agreement",
   "clubs": [
@@ -5080,7 +5015,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "balde-man-utd-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Alejandro Balde",
@@ -5371,32 +5306,6 @@
   "players": [],
   "managers": [],
   "league": "other",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "issue": null,
-  "promptVersion": 7
- },
- {
-  "id": "7eaf86248da9",
-  "url": "https://www.thesun.co.uk/sport/39220790/man-united-premier-league-ticket-hotel-packages-old-trafford/",
-  "title": "Man Utd tickets plus hotels and VIP hospitality packages for Champions League and Premier League games at Old Trafford",
-  "source": "sun",
-  "publishedAt": "2026-11-03T11:33:23.000Z",
-  "author": "Mark Fleming",
-  "collectedAt": "2026-11-03T13:47:42.496Z",
-  "ko": "올드 트래퍼드 챔피언스리그·프리미어리그 티켓 및 호텔·VIP 패키지 안내",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "otherClubs": [],
-  "players": [],
-  "managers": [],
-  "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
@@ -6929,9 +6838,9 @@
   "publishedAt": "2026-11-03T10:09:47.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨유, 1월 이반 토니 영입 결정 임박",
+  "ko": "맨유, 1월 이반 토니 관련 결정 내려",
   "category": "transfer",
-  "stage": "agreement",
+  "stage": "negotiation",
   "clubs": [
    "man-utd"
   ],
@@ -6945,13 +6854,13 @@
   "enrichedBy": "llm",
   "transfer": {
    "player": "이반 토니",
-   "from": null,
-   "to": "맨유"
+   "from": "맨유",
+   "to": null
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "toney-man-utd-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Ivan Toney",
@@ -7316,33 +7225,33 @@
   "publishedAt": "2026-11-03T09:59:45.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "셀틱, 루크 맥코완 1월 이적 허용 가능성",
+  "ko": "셀틱, 1월 루크 맥카운 이적 문 열어둬",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [
-   "celtic"
+   "Celtic"
   ],
   "players": [
-   "루크 맥코완"
+   "루크 맥카운"
   ],
   "managers": [],
   "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "루크 맥코완",
+   "player": "루크 맥카운",
    "from": "셀틱",
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "mccowan-celtic-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Luke McCowan",
-    "루크 맥코완"
+    "루크 맥카운"
    ]
   ]
  },
@@ -7712,7 +7621,7 @@
   "publishedAt": "2026-11-03T09:43:51.000Z",
   "author": "Mark Whiley, Maria Ortega",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 레알의 문제 덕에 내년 주니오르 영입 가능성",
+  "ko": "아스널, 레알 마드리드 사정으로 내년 비니시우스 영입 기회 전망",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -7724,7 +7633,7 @@
    "비니시우스 주니오르"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
@@ -7739,11 +7648,11 @@
    "vinicius-junior": "fullname"
   },
   "issue": "vinicius-arsenal-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Vinicius Jr",
-    "주니오르"
+    "비니시우스 주니오르"
    ]
   ]
  },
@@ -8031,9 +7940,9 @@
   "publishedAt": "2026-11-03T09:28:59.000Z",
   "author": "Danny Rust",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "제라드 \"마르티네스가 문제 일으켜\" 첼시전 퇴장 후 맨유 이적 노린다는 주장",
-  "category": "transfer",
-  "stage": "negotiation",
+  "ko": "제라드, 맨유 리산드로 마르티네스 이적 상황 언급",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "man-utd",
    "chelsea"
@@ -8046,15 +7955,11 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "리산드로 마르티네스",
-   "from": "맨유",
-   "to": null
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "martinez-man-utd-transfer",
-  "promptVersion": 7,
+  "issue": null,
+  "promptVersion": 8,
   "names": [
    [
     "Steven Gerrard",
@@ -8753,45 +8658,6 @@
   ]
  },
  {
-  "id": "d7f7f5c04d5e",
-  "url": "https://www.skysports.com/football/live-blog/12040/13210475/west-ham-latest-news",
-  "title": "West Ham latest: Your views as Parker lined up to replace Nuno",
-  "source": "sky",
-  "publishedAt": "2026-11-03T08:50:00.000Z",
-  "author": null,
-  "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "웨스트햄, 누노 대체자로 파커 유력 — 팬 반응은?",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "west-ham"
-  ],
-  "otherClubs": [],
-  "players": [],
-  "managers": [
-   "누노 에스피리투 산투",
-   "스콧 파커"
-  ],
-  "league": "epl",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "issue": "parker-west-ham-appointment",
-  "promptVersion": 7,
-  "names": [
-   [
-    "Nuno",
-    "누노"
-   ],
-   [
-    "Parker",
-    "파커"
-   ]
-  ]
- },
- {
   "id": "ea9afb484c76",
   "url": "https://www.nytimes.com/athletic/7749986/2026/11/03/tenerife-player-jesus-de-miguel-dies/",
   "title": "Tenerife player Jesus de Miguel dies in hospital after on-pitch collision",
@@ -8944,7 +8810,7 @@
   "publishedAt": "2026-11-03T08:38:32.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "레알 마드리드, 아스널 좌측 수비수 칼라피오리 주시",
+  "ko": "레알 마드리드, 아스널 좌측 풀백 칼라피오리 주시",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -8956,7 +8822,7 @@
    "칼라피오리"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
@@ -8967,7 +8833,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "calafiori-real-madrid-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Calafiori",
@@ -9094,15 +8960,14 @@
   "publishedAt": "2026-11-03T08:36:58.000Z",
   "author": "Will Schofield, Mark Whiley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨유, 바이에른 유망주와 접촉 보도…카릭은 선수 옹호",
+  "ko": "맨유, 바이에른 뮌헨 유망주와 접촉 보도…캐릭은 선수 옹호",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
-   "man-utd"
+   "man-utd",
+   "bayern"
   ],
-  "otherClubs": [
-   "바이에른 뮌헨"
-  ],
+  "otherClubs": [],
   "players": [],
   "managers": [
    "캐릭"
@@ -9113,8 +8978,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "man-utd-wonderkid-transfer",
-  "promptVersion": 7,
+  "issue": null,
+  "promptVersion": 8,
   "names": [
    [
     "Michael Carrick",
@@ -9421,33 +9286,29 @@
   "publishedAt": "2026-11-03T08:04:45.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "셀틱, 10대 유망주 더움비아 영입 주목",
+  "ko": "셀틱, 10대 선수 두움비아 주시 보도",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [
-   "celtic"
+   "Celtic"
   ],
-  "players": [],
+  "players": [
+   "두움비아"
+  ],
   "managers": [],
   "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "더움비아",
+   "player": "두움비아",
    "from": null,
    "to": "셀틱"
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "doumbia-celtic-transfer",
-  "promptVersion": 7,
-  "names": [
-   [
-    "Doumbia",
-    "더움비아"
-   ]
-  ]
+  "promptVersion": 8
  },
  {
   "id": "2cb50eb3bbfe",
@@ -9737,7 +9598,7 @@
   "publishedAt": "2026-11-03T07:38:33.000Z",
   "author": "Mark Whiley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨유, 맞교환 이적 성사되면 1월 영입 문 열려",
+  "ko": "맨유, 교환 거래로 두 문제 해결…1월 이적 문 열려",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [
@@ -9752,8 +9613,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "man-utd-swap-transfer",
-  "promptVersion": 7
+  "issue": null,
+  "promptVersion": 8
  },
  {
   "id": "b29be645458c",
@@ -11173,33 +11034,33 @@
   "publishedAt": "2026-11-03T06:00:00.000Z",
   "author": "Theo Squires",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아라우호, 리버풀 미래 결정 시점에 대한 힌트 내놔",
+  "ko": "아라우호, 리버풀 미래 결정 시점 암시",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "interest",
   "clubs": [
    "liverpool"
   ],
   "otherClubs": [],
   "players": [
-   "아라우호"
+   "로날드 아라우호"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "아라우호",
+   "player": "로날드 아라우호",
    "from": "리버풀",
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
-  "issue": "araujo-liverpool-contract",
-  "promptVersion": 7,
+  "issue": null,
+  "promptVersion": 8,
   "names": [
    [
     "Ronald Araujo",
-    "아라우호"
+    "로날드 아라우호"
    ]
   ]
  },
@@ -12016,16 +11877,16 @@
   "publishedAt": "2026-11-03T04:30:00.000Z",
   "author": "Mark Whiley",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "맨유, 유망주와 접촉 소식…캐릭은 선수의 헌신도 문제 언급",
+  "ko": "맨유, 신예 선수와 접촉 보도…캐릭은 헌신도 해명",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "interest",
   "clubs": [
    "man-utd"
   ],
   "otherClubs": [],
   "players": [],
   "managers": [
-   "마이클 캐릭"
+   "캐릭"
   ],
   "league": "epl",
   "credited": null,
@@ -12033,8 +11894,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "man-utd-wonderkid-transfer",
-  "promptVersion": 7,
+  "issue": null,
+  "promptVersion": 8,
   "names": [
    [
     "Michael Carrick",
@@ -12947,7 +12808,7 @@
   "publishedAt": "2026-11-02T22:48:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 1월 이적시장 앞두고 크루피·일디즈 주시",
+  "ko": "아스널, 1월 크루피·일디즈 주시 보도",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -12955,15 +12816,15 @@
   ],
   "otherClubs": [],
   "players": [
-   "크루피",
+   "엘리 주니어 크루피",
    "케난 일디즈"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "크루피",
+   "player": "엘리 주니어 크루피",
    "from": null,
    "to": "아스널"
   },
@@ -12974,7 +12835,7 @@
    "kenan-yildiz": "short"
   },
   "issue": "kroupi-arsenal-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Kroupi",
@@ -12982,7 +12843,7 @@
    ],
    [
     "Yildiz",
-    "일디즈"
+    "케난 일디즈"
    ]
   ]
  },
@@ -13397,7 +13258,7 @@
   "publishedAt": "2026-11-02T22:24:56.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 1월 크루피 영입 추진… 화요일 이적 가십 정리",
+  "ko": "아스널, 1월 크루피 영입 원해 — 화요일 가십",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -13405,21 +13266,21 @@
   ],
   "otherClubs": [],
   "players": [
-   "크루피"
+   "엘리 주니어 크루피"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "크루피",
+   "player": "엘리 주니어 크루피",
    "from": null,
    "to": "아스널"
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "kroupi-arsenal-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Kroupi",

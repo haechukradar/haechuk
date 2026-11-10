@@ -866,7 +866,7 @@
   "publishedAt": "2026-11-06T14:31:32.000Z",
   "author": null,
   "collectedAt": "2026-11-06T14:47:14.071Z",
-  "ko": "일리치, 유니온 베를린 복귀 가능성… 기대는 낮춰야",
+  "ko": "일리치, 우니온 베를린 복귀 가능성…\"너무 기대하지 마라\"",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -877,17 +877,17 @@
    "일리치"
   ],
   "managers": [],
-  "league": "bundesliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
    "player": "일리치",
    "from": null,
-   "to": "유니온 베를린"
+   "to": "우니온 베를린"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Ilic",
@@ -1244,15 +1244,14 @@
   "publishedAt": "2026-11-06T14:26:46.000Z",
   "author": "Fasika Zelealem",
   "collectedAt": "2026-11-06T14:47:14.071Z",
-  "ko": "앤서니 고든, 바르셀로나행 입장 번복… 뉴캐슬 이적 몇 달 만에 보류",
+  "ko": "앤서니 고든, 뉴캐슬 이적 몇 달 만에 바르셀로나行 계획 보류",
   "category": "transfer",
   "stage": "collapsed",
   "clubs": [
-   "newcastle"
+   "newcastle",
+   "barcelona"
   ],
-  "otherClubs": [
-   "Barcelona"
-  ],
+  "otherClubs": [],
   "players": [
    "앤서니 고든"
   ],
@@ -1271,14 +1270,18 @@
   "playerVia": {
    "anthony-gordon": "fullname"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Anthony Gordon",
     "앤서니 고든"
+   ],
+   [
+    "Barcelona",
+    "바르셀로나"
    ]
   ],
-  "issue": "gordon-barcelona-transfer"
+  "issue": "anthony-gordon-barcelona-transfer"
  },
  {
   "id": "f4871194a1d3",
@@ -6145,25 +6148,24 @@
   "publishedAt": "2026-11-06T11:51:37.000Z",
   "author": "Amie Wilson",
   "collectedAt": "2026-11-06T12:40:34.448Z",
-  "ko": "바이에른, 맨유 거절당한 은구모하 영입 검토 보도",
+  "ko": "바이에른, 은구모하 영입 추진…맨유 스타에게 거절당한 뒤",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
-   "bayern"
+   "bayern",
+   "man-utd"
   ],
-  "otherClubs": [
-   "맨체스터 유나이티드"
-  ],
+  "otherClubs": [],
   "players": [
-   "리오 은구모하"
+   "은구모하"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "리오 은구모하",
-   "from": null,
+   "player": "은구모하",
+   "from": "리버풀",
    "to": "바이에른 뮌헨"
   },
   "playerTags": [
@@ -6172,14 +6174,18 @@
   "playerVia": {
    "rio-ngumoha": "fullname"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Rio Ngumoha",
-    "리오 은구모하"
+    "은구모하"
+   ],
+   [
+    "Man United",
+    "맨유"
    ]
   ],
-  "issue": "ngumoha-bayern-transfer"
+  "issue": "rio-ngumoha-bayern-transfer"
  },
  {
   "id": "818d5090501f",
@@ -9129,9 +9135,9 @@
   "publishedAt": "2026-11-06T10:26:29.000Z",
   "author": null,
   "collectedAt": "2026-11-06T10:53:36.626Z",
-  "ko": "레인저스 라이얼 캐머런 관련 두 가지 선택지 보유",
+  "ko": "레인저스, 라이얼 캐머런 관련 \"두 가지 선택지\" 보유",
   "category": "transfer",
-  "stage": "interest",
+  "stage": "negotiation",
   "clubs": [],
   "otherClubs": [
    "Rangers"
@@ -9141,7 +9147,7 @@
   ],
   "managers": [],
   "league": "other",
-  "credited": null,
+  "credited": "키스 와이니스(X)",
   "enrichedBy": "llm",
   "transfer": {
    "player": "라이얼 캐머런",
@@ -9150,7 +9156,7 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Keith Wyness",
@@ -9407,7 +9413,7 @@
   "publishedAt": "2026-11-06T10:18:33.000Z",
   "author": "Paul Wheelock",
   "collectedAt": "2026-11-06T10:53:36.626Z",
-  "ko": "전 리버풀 스타, '과대평가' 바르콜라 발언 반박하며 1억 2300만 파운드 선수 옹호",
+  "ko": "전 리버풀 스타, '과대평가' 비판에 바르콜라 적극 옹호",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -9418,20 +9424,20 @@
    "바르콜라"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Bradley Barcola",
-    "브래들리 바르콜라"
+    "바르콜라"
    ]
   ],
-  "issue": "barcola-liverpool-transfer"
+  "issue": null
  },
  {
   "id": "159e0a15d42b",
@@ -10563,9 +10569,9 @@
   "publishedAt": "2026-11-06T09:35:08.000Z",
   "author": "Patrick Austen-Hardy",
   "collectedAt": "2026-11-06T09:53:10.207Z",
-  "ko": "JJ 가브리엘, 네 개 구단과 접촉…맨유 선수와 완전 합의",
-  "category": "transfer",
-  "stage": "agreement",
+  "ko": "JJ 가브리엘, 네 개 구단과 접촉…맨유와 합의 완료",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "man-utd"
   ],
@@ -10577,21 +10583,17 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "JJ 가브리엘",
-   "from": "맨유",
-   "to": null
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
     "JJ 가브리엘"
    ]
   ],
-  "issue": "gabriel-real-madrid-transfer"
+  "issue": null
  },
  {
   "id": "d583d88813b4",
@@ -11070,35 +11072,37 @@
   "publishedAt": "2026-11-06T09:12:53.000Z",
   "author": "Amie Wilson",
   "collectedAt": "2026-11-06T09:53:10.207Z",
-  "ko": "케이 레이시 두고 잉글랜드와 라이벌 감독 경쟁",
+  "ko": "쉐이 레이시, 라이벌 감독 표적…잉글랜드, 맨유 신성 놓고 경쟁",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
    "man-utd"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "England"
+  ],
   "players": [
-   "셰이 레이시"
+   "쉐이 레이시"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "셰이 레이시",
-   "from": null,
+   "player": "쉐이 레이시",
+   "from": "맨유",
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Shea Lacey",
-    "셰이 레이시"
+    "쉐이 레이시"
    ]
   ],
-  "issue": "lacey-england-transfer"
+  "issue": "shea-lacey-transfer"
  },
  {
   "id": "942df01fe397",
@@ -11265,7 +11269,7 @@
   "publishedAt": "2026-11-06T09:06:00.000Z",
   "author": "Bob Faesen",
   "collectedAt": "2026-11-06T09:53:10.207Z",
-  "ko": "레알 마드리드, 맨유 슈퍼 유망주 JJ 가브리엘 영입 합의 근접",
+  "ko": "레알 마드리드, 맨유 신성 JJ 가브리엘 계약 근접",
   "category": "transfer",
   "stage": "agreement",
   "clubs": [
@@ -11287,14 +11291,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
     "JJ 가브리엘"
    ]
   ],
-  "issue": "gabriel-real-madrid-transfer"
+  "issue": "gabriel-man-utd-transfer"
  },
  {
   "id": "09ced2bb5f8e",
@@ -14190,35 +14194,31 @@
   "publishedAt": "2026-11-06T06:00:00.000Z",
   "author": "Ian Doyle",
   "collectedAt": "2026-11-06T06:26:50.041Z",
-  "ko": "리버풀 팬들, 바르콜라 이적 관련 반응 자제 당부",
-  "category": "transfer",
-  "stage": "negotiation",
+  "ko": "리버풀 팬들, 바르콜라 이적 후 자제 촉구…\"사람들이 의문 제기할 것\"",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "liverpool"
   ],
   "otherClubs": [],
   "players": [
-   "브래들리 바르콜라"
+   "바르콜라"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "브래들리 바르콜라",
-   "from": null,
-   "to": "리버풀"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Bradley Barcola",
-    "브래들리 바르콜라"
+    "바르콜라"
    ]
   ],
-  "issue": "barcola-liverpool-transfer"
+  "issue": null
  },
  {
   "id": "35da5137f3da",
@@ -16589,7 +16589,7 @@
   "publishedAt": "2026-11-05T23:08:29.000Z",
   "author": "Patricia Cazón",
   "collectedAt": "2026-11-06T05:26:20.305Z",
-  "ko": "아틀레티코, 오블락 후계자로 베ltrán 검토",
+  "ko": "아틀레티코, 오블락 후계자로 베ltrán 고려",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -16606,11 +16606,11 @@
   "transfer": {
    "player": "베ltrán",
    "from": null,
-   "to": "아틀레티코"
+   "to": "아틀레티코 마드리드"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Beltrán",
@@ -16621,7 +16621,7 @@
     "오블락"
    ]
   ],
-  "issue": "beltran-atletico-transfer"
+  "issue": null
  },
  {
   "id": "f8eda92397ac",
@@ -19482,9 +19482,9 @@
   "publishedAt": "2026-11-05T21:20:09.000Z",
   "author": "Matthew Abbott",
   "collectedAt": "2026-11-05T21:38:19.642Z",
-  "ko": "JJ 가브리엘 이적 진전에 규정 변경 요구, 맨유 확정 대기",
-  "category": "transfer",
-  "stage": "agreement",
+  "ko": "JJ 가브리엘, 규정 변경 요구 확산…맨유 최종 확정 대기",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "man-utd"
   ],
@@ -19496,21 +19496,17 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "JJ 가브리엘",
-   "from": null,
-   "to": null
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
     "JJ 가브리엘"
    ]
   ],
-  "issue": "gabriel-real-madrid-transfer"
+  "issue": null
  },
  {
   "id": "e64b6207b89d",
@@ -20436,7 +20432,7 @@
   "publishedAt": "2026-11-05T20:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-05T21:38:19.642Z",
-  "ko": "맨유, 1월 앞두고 마테타 영입 검토 보도",
+  "ko": "맨유, 1월 앞두고 마테타 영입 검토 중",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -20447,8 +20443,8 @@
    "마테타"
   ],
   "managers": [],
-  "league": "epl",
-  "credited": null,
+  "league": "other",
+  "credited": "Football Insider 전문가",
   "enrichedBy": "llm",
   "transfer": {
    "player": "마테타",
@@ -20457,7 +20453,7 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Jean-Philippe Mateta",
@@ -27883,32 +27879,35 @@
   "publishedAt": "2026-11-05T15:53:38.000Z",
   "author": "Simon Collings",
   "collectedAt": "2026-11-05T16:11:41.528Z",
-  "ko": "아스널, 노르웨이 유망주 누사 주목하나 1월 이적에 장애물",
+  "ko": "아스널, 맨시티전 득점한 노르웨이 신성 누사 주시…1월 이적 장애물",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
-   "arsenal"
+   "arsenal",
+   "man-city"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Norway"
+  ],
   "players": [
-   "안토니우 누사"
+   "누사"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "안토니우 누사",
+   "player": "누사",
    "from": null,
    "to": "아스널"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Antonio Nusa",
-    "안토니우 누사"
+    "누사"
    ]
   ],
   "issue": "nusa-arsenal-transfer"
@@ -29333,7 +29332,7 @@
   "publishedAt": "2026-11-05T15:01:33.000Z",
   "author": "Mark Wakefield",
   "collectedAt": "2026-11-05T15:06:31.569Z",
-  "ko": "리버풀, 로날두 아라우호 영입 호재…새 에이전트 구단 수뇌부와 만나",
+  "ko": "리버풀, 아라우호 영입 호재…에이전트 구단 수뇌부와 만나",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [
@@ -29341,24 +29340,24 @@
   ],
   "otherClubs": [],
   "players": [
-   "로날두 아라우호"
+   "아라우호"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "로날두 아라우호",
+   "player": "아라우호",
    "from": null,
    "to": "리버풀"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Ronald Araujo",
-    "로날두 아라우호"
+    "아라우호"
    ]
   ],
   "issue": "araujo-liverpool-transfer"

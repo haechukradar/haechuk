@@ -576,29 +576,31 @@
   "publishedAt": "2026-10-27T12:58:59.000Z",
   "author": "FERNANDO ÁLVAREZ",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "오트로비, 발렌시아와 2031년까지 재계약",
+  "ko": "오토르비, 발렌시아와 2031년까지 재계약",
   "category": "transfer",
   "stage": "done",
   "clubs": [],
   "otherClubs": [
-   "Valencia"
+   "발렌시아"
   ],
   "players": [
-   "오트로비"
+   "오토르비"
   ],
   "managers": [],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "오트로비",
-   "from": null,
-   "to": "발렌시아"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "otorbi-contract",
-  "promptVersion": 3
+  "issue": "otorbi-valencia-contract",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Otorbi",
+    "오토르비"
+   ]
+  ]
  },
  {
   "id": "39713e43ff5b",
@@ -1783,7 +1785,7 @@
   "publishedAt": "2026-10-27T09:09:05.000Z",
   "author": "Abbie Meehan, Cameron Winstanley",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "아르테타, 줄리안 알바레스 이적 결정 확인 후 아스널 영입 시동",
+  "ko": "아스널, 알바레스 이적 결정 소식에 입찰 나서",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [
@@ -1791,18 +1793,17 @@
   ],
   "otherClubs": [],
   "players": [
-   "훌리안 알바레스",
-   "미켈 아르테타"
+   "훌리안 알바레스"
   ],
   "managers": [
-   "미켈 아르테타"
+   "아르테타"
   ],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
    "player": "훌리안 알바레스",
-   "from": null,
+   "from": "아틀레티코 마드리드",
    "to": "아스널"
   },
   "playerTags": [
@@ -1811,8 +1812,18 @@
   "playerVia": {
    "julian-alvarez": "fullname"
   },
-  "issue": "alvarez-arsenal-transfer",
-  "promptVersion": 3
+  "issue": "julian-alvarez-barcelona-transfer",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Mikel Arteta",
+    "아르테타"
+   ],
+   [
+    "Julian Alvarez",
+    "훌리안 알바레스"
+   ]
+  ]
  },
  {
   "id": "f7a7a0c49747",

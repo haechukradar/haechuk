@@ -891,7 +891,7 @@
   "publishedAt": "2026-11-02T13:18:20.000Z",
   "author": "Tom Canton",
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "아스널, 크루피 영입 난항…유럽 엘리트 클럽 경쟁 가세",
+  "ko": "아스널, 프랑스 유망주 크루피 영입 경쟁 난항",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -899,25 +899,25 @@
   ],
   "otherClubs": [],
   "players": [
-   "크루피"
+   "엘리 주니어 크루피"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "크루피",
+   "player": "엘리 주니어 크루피",
    "from": null,
    "to": "아스널"
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "kroupi-arsenal-transfer",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Eli Junior Kroupi",
-    "크루피"
+    "엘리 주니어 크루피"
    ]
   ]
  },
@@ -1756,12 +1756,14 @@
   "publishedAt": "2026-11-02T11:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "선덜랜드, 브로비 장기 계약 체결",
-  "category": "transfer",
-  "stage": "done",
-  "clubs": [],
+  "ko": "선더랜드, 브로비와 장기 계약 체결",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "tottenham"
+  ],
   "otherClubs": [
-   "선덜랜드"
+   "Sunderland"
   ],
   "players": [
    "브로비"
@@ -1770,15 +1772,11 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "브로비",
-   "from": null,
-   "to": "선덜랜드"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "issue": "brobbey-sunderland-contract",
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Brobbey",
@@ -2177,30 +2175,6 @@
     "마르티네스"
    ]
   ]
- },
- {
-  "id": "612fbdfccab4",
-  "url": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
-  "title": "Which Premier League players are set for yellow card suspensions?",
-  "source": "bbc",
-  "publishedAt": "2026-11-02T09:58:42.000Z",
-  "author": null,
-  "collectedAt": "2026-11-03T13:46:03.032Z",
-  "ko": "프리미어리그 옐로카드 누적 출장정지 대상 선수는?",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "otherClubs": [],
-  "players": [],
-  "managers": [],
-  "league": "epl",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "issue": null,
-  "promptVersion": 7
  },
  {
   "id": "9179464f652e",

@@ -33,7 +33,7 @@ function ruleMatchScore(sigA, seed) {
   return shared >= 2 && shared / union >= 0.3 ? shared / union : 0;
 }
 
-function toIssueArticle(a) {
+export function toIssueArticle(a) {
   return {
     id: a.id,
     url: a.url,
@@ -94,10 +94,25 @@ const normTitle = (t) => (t ?? '').replace(/[\s·,.'"‘’“”…]/g, '');
  * 기사 수가 많은 쪽으로 합치고, 사라진 키는 aliases 에 남긴다. 반환: 병합 건수
  */
 export function mergeDuplicateIssues(issues, now = Date.now()) {
+  // 1) 한국어 이슈 제목이 같은 이슈 2) 같은 선수·같은 행선지 이적 이슈 (키가 출발 클럽·행선지로 갈린 경우, 예: gabriel-man-utd / gabriel-real-madrid)
+  return mergeBy(issues, now, (i) => (i.titleKo ? 'title:' + normTitle(i.titleKo) : null)) + mergeBy(issues, now, transferKey);
+}
+
+// 이적 이슈 동일성 키: 선수 성(한글 마지막 어절) + 행선지 클럽
+function transferKey(i) {
+  const t = i.transfer;
+  if (i.category !== 'transfer' || !t?.player || !t?.to) return null;
+  const last = t.player.replace(/[^가-힣a-zA-Z0-9 ]/g, '').trim().split(/\s+/).at(-1);
+  const to = t.to.replace(/\s+/g, '');
+  return last && to ? `transfer:${last}>${to}` : null;
+}
+
+function mergeBy(issues, now, keyOf) {
   const groups = new Map();
   for (const i of issues.values()) {
-    if (i.mode !== 'llm' || !i.titleKo || now - ts(i.updatedAt) > PIPELINE.issueMergeWindowHours * H) continue;
-    const k = normTitle(i.titleKo);
+    if (i.mode !== 'llm' || now - ts(i.updatedAt) > PIPELINE.issueMergeWindowHours * H) continue;
+    const k = keyOf(i);
+    if (!k) continue;
     if (!groups.has(k)) groups.set(k, []);
     groups.get(k).push(i);
   }

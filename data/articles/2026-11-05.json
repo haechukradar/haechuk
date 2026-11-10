@@ -1032,33 +1032,33 @@
   "publishedAt": "2026-11-05T14:20:32.000Z",
   "author": "Loïc Tanzi",
   "collectedAt": "2026-11-05T15:06:31.569Z",
-  "ko": "프랑크푸르트, 노팅엄 포레스트의 칼리뮈엔도 복귀 추진",
+  "ko": "프랑크푸르트, 노팅엄 포레스트의 칼리뮈엔두 복귀 추진",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [
-   "frankfurt",
-   "nottingham-forest"
+   "Eintracht Frankfurt",
+   "Nottingham Forest"
   ],
   "players": [
-   "아르노 칼리뮈엔도"
+   "칼리뮈엔두"
   ],
   "managers": [],
-  "league": "other",
+  "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "아르노 칼리뮈엔도",
+   "player": "칼리뮈엔두",
    "from": "노팅엄 포레스트",
    "to": "프랑크푸르트"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Arnaud Kalimuendo",
-    "아르노 칼리뮈엔도"
+    "칼리뮈엔두"
    ]
   ],
   "issue": "kalimuendo-frankfurt-transfer"
@@ -1193,7 +1193,7 @@
   "publishedAt": "2026-11-05T14:14:23.000Z",
   "author": null,
   "collectedAt": "2026-11-05T15:06:31.569Z",
-  "ko": "바이에른, 유망주 코드요-에보라와 장기 재계약",
+  "ko": "바이에른, 공격 유망주 코자-에보라와 장기 계약",
   "category": "transfer",
   "stage": "done",
   "clubs": [
@@ -1201,27 +1201,27 @@
   ],
   "otherClubs": [],
   "players": [
-   "코드요-에보라"
+   "코자-에보라"
   ],
   "managers": [],
-  "league": "bundesliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "코드요-에보라",
-   "from": "바이에른 뮌헨",
+   "player": "코자-에보라",
+   "from": null,
    "to": "바이에른 뮌헨"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Codjo-Evora",
-    "코드요-에보라"
+    "코자-에보라"
    ]
   ],
-  "issue": "codjo-evora-contract"
+  "issue": "codjo-evora-bayern-contract"
  },
  {
   "id": "6615e4138639",
@@ -1622,8 +1622,8 @@
   "author": null,
   "collectedAt": "2026-11-05T14:10:06.063Z",
   "ko": "하피냐, 바르셀로나와 2030년까지 재계약",
-  "category": "transfer",
-  "stage": "done",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
@@ -1635,25 +1635,21 @@
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "하피냐",
-   "from": null,
-   "to": null
-  },
+  "transfer": null,
   "playerTags": [
    "raphinha"
   ],
   "playerVia": {
    "raphinha": "short"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Raphinha",
     "하피냐"
    ]
   ],
-  "issue": "raphinha-contract"
+  "issue": "raphinha-barcelona-contract"
  },
  {
   "id": "cf276891a6bd",
@@ -2985,9 +2981,9 @@
   "publishedAt": "2026-11-05T13:03:31.000Z",
   "author": "Elliot Radix",
   "collectedAt": "2026-11-05T14:10:06.063Z",
-  "ko": "하피냐, 2030년까지 바르셀로나 재계약",
-  "category": "transfer",
-  "stage": "done",
+  "ko": "바르셀로나, 하피냐 2030년까지 계약 연장",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
@@ -3006,14 +3002,14 @@
   "playerVia": {
    "raphinha": "short"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Raphinha",
     "하피냐"
    ]
   ],
-  "issue": "raphinha-contract"
+  "issue": "raphinha-barcelona-contract"
  },
  {
   "id": "f5ba3cee7f32",
@@ -3023,7 +3019,7 @@
   "publishedAt": "2026-11-05T13:03:23.000Z",
   "author": null,
   "collectedAt": "2026-11-05T14:10:06.063Z",
-  "ko": "바시, 맨유 제안 수락 고민 중이라는 보도",
+  "ko": "캘빈 바시, 맨유 제안 수락 고민 중",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -3031,24 +3027,24 @@
   ],
   "otherClubs": [],
   "players": [
-   "칼빈 바시"
+   "캘빈 바시"
   ],
   "managers": [],
   "league": "epl",
-  "credited": null,
+  "credited": "Football Insider 전문가",
   "enrichedBy": "llm",
   "transfer": {
-   "player": "칼빈 바시",
+   "player": "캘빈 바시",
    "from": null,
    "to": "맨유"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Calvin Bassey",
-    "칼빈 바시"
+    "캘빈 바시"
    ]
   ],
   "issue": "bassey-man-utd-transfer"
@@ -3147,18 +3143,18 @@
   "publishedAt": "2026-11-05T12:58:43.000Z",
   "author": "PABLO LÓPEZ RIQUELME",
   "collectedAt": "2026-11-05T14:10:06.063Z",
-  "ko": "프랑크푸르트, 상가레 영입에 관심",
+  "ko": "프랑크푸르트, 부바 상가레 영입에 관심",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [
-   "프랑크푸르트"
+   "Eintracht Frankfurt"
   ],
   "players": [
    "부바 상가레"
   ],
   "managers": [],
-  "league": "bundesliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
@@ -3168,7 +3164,7 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Buba Sangaré",
@@ -3491,8 +3487,8 @@
   "author": "Amie Wilson",
   "collectedAt": "2026-11-05T14:10:06.063Z",
   "ko": "그릴리시 에버턴 합의, 모예스 감독 대응 주목",
-  "category": "transfer",
-  "stage": "agreement",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "everton"
   ],
@@ -3506,11 +3502,7 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "잭 그릴리시",
-   "from": null,
-   "to": "에버턴"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
   "promptVersion": 7,
@@ -3524,7 +3516,7 @@
     "데이비드 모예스"
    ]
   ],
-  "issue": "grealish-discipline"
+  "issue": null
  },
  {
   "id": "672224d40156",
@@ -3699,9 +3691,9 @@
   "publishedAt": "2026-11-05T12:50:13.000Z",
   "author": "Nathan Ridley",
   "collectedAt": "2026-11-05T12:52:27.831Z",
-  "ko": "이라올라, 바르콜라 실험 실패…리버풀 1억 2300만 파운드 고민",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "이라올라의 바르콜라 실험 실패…리버풀 1억 2300만 파운드 딜레마",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "liverpool"
   ],
@@ -3715,14 +3707,10 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "브래들리 바르콜라",
-   "from": null,
-   "to": "리버풀"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Andoni Iraola",
@@ -3733,7 +3721,7 @@
     "브래들리 바르콜라"
    ]
   ],
-  "issue": "barcola-liverpool-transfer"
+  "issue": null
  },
  {
   "id": "432d0885d230",
@@ -3982,14 +3970,14 @@
   "publishedAt": "2026-11-05T12:44:00.000Z",
   "author": "Bobby Vincent",
   "collectedAt": "2026-11-05T12:52:27.831Z",
-  "ko": "첼시, 알렉산더아놀드 영입 지시…레알 마드리드 답답함 지속",
+  "ko": "첼시, 알렉산더아놀드 영입 지시…레알 마드리드 불만 지속",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
    "chelsea"
   ],
   "otherClubs": [
-   "레알 마드리드"
+   "Real Madrid"
   ],
   "players": [
    "트렌트 알렉산더아놀드"
@@ -4009,14 +3997,14 @@
   "playerVia": {
    "trent-alexander-arnold": "fullname"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Trent Alexander-Arnold",
     "트렌트 알렉산더아놀드"
    ]
   ],
-  "issue": "alexander-arnold-chelsea-transfer"
+  "issue": null
  },
  {
   "id": "cd04371cff2f",
@@ -4114,7 +4102,7 @@
   "publishedAt": "2026-11-05T12:36:51.000Z",
   "author": "Jack Rosser",
   "collectedAt": "2026-11-05T12:52:27.831Z",
-  "ko": "첼시, 1월 이적시장 알렉스 스콧 1순위…1억 파운드",
+  "ko": "첼시, 1월 이적시장 1억 파운드 알렉스 스콧 영입 최우선 목표",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -4135,14 +4123,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Alex Scott",
     "알렉스 스콧"
    ]
   ],
-  "issue": "alex-scott-chelsea-transfer"
+  "issue": null
  },
  {
   "id": "867a672e1fa1",
@@ -4152,35 +4140,35 @@
   "publishedAt": "2026-11-05T12:35:46.000Z",
   "author": "Mark Whiley",
   "collectedAt": "2026-11-05T12:52:27.831Z",
-  "ko": "레알 마드리드, 가브리엘 실수 반복 방지 계획…맨유 영입 경쟁",
+  "ko": "레알, 맨유 JJ 가브리엘 영입 후 아스널 실수 반복 피하기 계획",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "done",
   "clubs": [
    "real-madrid",
    "man-utd"
   ],
   "otherClubs": [
-   "아스널"
+   "Arsenal"
   ],
   "players": [
-   "J.J. 가브리엘"
+   "JJ 가브리엘"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "J.J. 가브리엘",
-   "from": "아스널",
+   "player": "JJ 가브리엘",
+   "from": "맨유",
    "to": "레알 마드리드"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
-    "J.J. 가브리엘"
+    "JJ 가브리엘"
    ]
   ],
   "issue": "gabriel-real-madrid-transfer"
@@ -4303,7 +4291,7 @@
   "publishedAt": "2026-11-05T12:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-05T14:10:06.063Z",
-  "ko": "뉴캐슬, 1월 이적시장 이반 토니 영입 노린다는 보도",
+  "ko": "뉴캐슬, 1월 이반 토니 영입 노린다",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -4324,14 +4312,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Ivan Toney",
     "이반 토니"
    ]
   ],
-  "issue": "toney-newcastle-transfer"
+  "issue": null
  },
  {
   "id": "f3a4db8e10b3",
@@ -5124,36 +5112,33 @@
   "publishedAt": "2026-11-05T12:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-05T12:52:27.831Z",
-  "ko": "리즈, 맨시티 이탈 후 제임스 트래퍼드 영입 위기 우려",
-  "category": "transfer",
-  "stage": "collapsed",
-  "clubs": [],
+  "ko": "리즈, 맨시티 이탈 후 제임스 트래포드 잔류 불투명",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-city"
+  ],
   "otherClubs": [
-   "리즈 유나이티드",
-   "맨체스터 시티"
+   "Leeds"
   ],
   "players": [
-   "제임스 트래퍼드"
+   "제임스 트래포드"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "제임스 트래퍼드",
-   "from": "맨체스터 시티",
-   "to": "리즈 유나이티드"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "James Trafford",
-    "제임스 트래퍼드"
+    "제임스 트래포드"
    ]
   ],
-  "issue": "trafford-leeds-transfer"
+  "issue": null
  },
  {
   "id": "dab5a6fd13c2",
@@ -6385,9 +6370,9 @@
   "publishedAt": "2026-11-05T11:27:12.000Z",
   "author": "Mark Whiley",
   "collectedAt": "2026-11-05T11:47:39.984Z",
-  "ko": "JJ 가브리엘 영입 계획 드러나… 레알, 맨유 선수 영입 실수 반복 우려",
+  "ko": "레알, 맨유 JJ 가브리엘 영입 후 실수 반복 우려 속 계획 드러나",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "done",
   "clubs": [
    "real-madrid",
    "man-utd"
@@ -6397,17 +6382,17 @@
    "JJ 가브리엘"
   ],
   "managers": [],
-  "league": "laliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
    "player": "JJ 가브리엘",
-   "from": null,
+   "from": "맨유",
    "to": "레알 마드리드"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
@@ -6613,8 +6598,8 @@
   "author": null,
   "collectedAt": "2026-11-05T11:47:39.984Z",
   "ko": "바르셀로나, 주장 하피냐와 2030년까지 재계약",
-  "category": "transfer",
-  "stage": "done",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
@@ -6633,14 +6618,14 @@
   "playerVia": {
    "raphinha": "short"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Raphinha",
     "하피냐"
    ]
   ],
-  "issue": "raphinha-contract"
+  "issue": "raphinha-barcelona-contract"
  },
  {
   "id": "d4e76faa7842",
@@ -6815,35 +6800,35 @@
   "publishedAt": "2026-11-05T11:13:45.000Z",
   "author": "F.J. Díaz",
   "collectedAt": "2026-11-05T12:52:27.831Z",
-  "ko": "카르도주, 바르셀로나 이적 근접",
+  "ko": "카르도소, 바르셀로나행 관심",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "interest",
   "clubs": [
    "barcelona"
   ],
   "otherClubs": [],
   "players": [
-   "카르도주"
+   "카르도소"
   ],
   "managers": [],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "카르도주",
+   "player": "카르도소",
    "from": null,
    "to": "바르셀로나"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Cardoso",
-    "카르도주"
+    "카르도소"
    ]
   ],
-  "issue": "cardoso-barcelona-transfer"
+  "issue": null
  },
  {
   "id": "56b7b43433ee",
@@ -7179,40 +7164,6 @@
   "playerTags": [],
   "playerVia": {},
   "promptVersion": 7,
-  "issue": null
- },
- {
-  "id": "d5300078647e",
-  "url": "https://www.lequipe.fr/Football/Actualites/Huit-matches-et-un-bilan-deja-decevant-yannick-cahuzac-fait-moins-bien-que-ses-predecesseurs-sur-le-banc-de-lens/1741307#at_medium=RSS_feeds",
-  "title": "Huit matches et un bilan déjà décevant : Yannick Cahuzac fait moins bien que ses prédécesseurs sur le banc de Lens",
-  "source": "lequipe",
-  "publishedAt": "2026-11-05T11:03:08.000Z",
-  "author": "Louis Rousseau",
-  "collectedAt": "2026-11-05T11:47:39.984Z",
-  "ko": "카즈삭, 8경기 만에 기대 이하 성적…RC 랑스 전임자보다 부진",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "otherClubs": [
-   "RC 랑스"
-  ],
-  "players": [],
-  "managers": [
-   "이안니크 카쥐크"
-  ],
-  "league": "ligue1",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "promptVersion": 7,
-  "names": [
-   [
-    "Yannick Cahuzac",
-    "이안니크 카쥐크"
-   ]
-  ],
   "issue": null
  },
  {
@@ -11462,7 +11413,7 @@
   "publishedAt": "2026-11-05T08:25:00.000Z",
   "author": null,
   "collectedAt": "2026-11-05T08:51:08.067Z",
-  "ko": "리브라멘토 영입전, 아스널·맨시티도 참전 보도",
+  "ko": "아스널과 맨시티, 리버모어 영입 경쟁 속 뉴캐슬 소식",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -11472,27 +11423,27 @@
   ],
   "otherClubs": [],
   "players": [
-   "티노 리브라멘토"
+   "티노 리빙스턴"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "티노 리브라멘토",
-   "from": "뉴캐슬",
+   "player": "티노 리빙스턴",
+   "from": null,
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Tino Livramento",
-    "티노 리브라멘토"
+    "티노 리빙스턴"
    ]
   ],
-  "issue": "livramento-newcastle-transfer"
+  "issue": null
  },
  {
   "id": "1afa3b493c9f",
@@ -11719,34 +11670,6 @@
    ]
   ],
   "issue": "kane-contract"
- },
- {
-  "id": "6af56d8762cc",
-  "url": "https://rp-online.de/sport/fussball/borussia/hamburger-sv-borussia-moenchengladbach-liveticker-zum-spiel_aid-79115875",
-  "title": "Liveticker zum Spiel: Borussia ist am Freitag beim Hamburger SV gefordert",
-  "source": "rp",
-  "publishedAt": "2026-11-05T08:13:00.000Z",
-  "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
-  "collectedAt": "2026-11-05T08:51:08.067Z",
-  "ko": "묀헨글라트바흐, 금요일 함부르크 원정 라이브 중계",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "gladbach"
-  ],
-  "otherClubs": [
-   "Hamburger SV"
-  ],
-  "players": [],
-  "managers": [],
-  "league": "other",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "promptVersion": 7,
-  "issue": "gladbach-hamburger-2026-11-07"
  },
  {
   "id": "465240060f0a",
@@ -13546,9 +13469,9 @@
   "publishedAt": "2026-11-05T06:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-05T07:49:28.206Z",
-  "ko": "맨유, 래시포드 이적으로 입을 손실 규모 보도",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "스테판 보르손, 맨유가 마커스 래시포드 이적으로 잃을 금액 계산",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "man-utd"
   ],
@@ -13558,31 +13481,27 @@
   ],
   "managers": [],
   "league": "epl",
-  "credited": null,
+  "credited": "스테판 보르손",
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "마커스 래시포드",
-   "from": "바르셀로나",
-   "to": null
-  },
+  "transfer": null,
   "playerTags": [
    "marcus-rashford"
   ],
   "playerVia": {
    "marcus-rashford": "fullname"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Stefan Borson",
-    "스테판 보슨"
+    "스테판 보르손"
    ],
    [
     "Marcus Rashford",
     "마커스 래시포드"
    ]
   ],
-  "issue": "rashford-man-utd-transfer"
+  "issue": null
  },
  {
   "id": "b950cdc00b19",
@@ -25343,7 +25262,7 @@
   "publishedAt": "2026-11-04T18:51:31.000Z",
   "author": "Henry Tomlinson",
   "collectedAt": "2026-11-04T19:49:54.254Z",
-  "ko": "맨유, 아이트누리 영입에 큰 호재…맨시티 선수 측 '재능 낭비' 발언",
+  "ko": "맨유, 아이트 누리 영입 호재…맨시티 선수 측 '재능 낭비 불가'",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -25365,14 +25284,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Rayan Ait-Nouri",
     "라얀 아이트누리"
    ]
   ],
-  "issue": "ait-nouri-man-utd-transfer"
+  "issue": null
  },
  {
   "id": "1947f9333bdb",
@@ -26595,35 +26514,35 @@
   "publishedAt": "2026-11-04T18:16:06.000Z",
   "author": "Arthur Verdelet",
   "collectedAt": "2026-11-04T18:46:32.208Z",
-  "ko": "기아넬리 임불라, 2년 만에 보베와 계약 체결",
+  "ko": "지아넬리 임뷜라, 리저널2 보베로 이적 계약",
   "category": "transfer",
   "stage": "done",
   "clubs": [],
   "otherClubs": [
-   "보베"
+   "Beauvais"
   ],
   "players": [
-   "기아넬리 임불라"
+   "지아넬리 임뷜라"
   ],
   "managers": [],
   "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "기아넬리 임불라",
+   "player": "지아넬리 임뷜라",
    "from": null,
    "to": "보베"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Giannelli Imbula",
-    "기아넬리 임불라"
+    "지아넬리 임뷜라"
    ]
   ],
-  "issue": "imbula-beauvais-transfer"
+  "issue": null
  },
  {
   "id": "f21ab3415588",
@@ -27128,18 +27047,18 @@
   "publishedAt": "2026-11-04T18:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-04T18:46:32.208Z",
-  "ko": "레인저스 유망주 핀들레이 커티스에 복수 구단 관심",
+  "ko": "레인저스 떠오르는 유망주 핀들레이 커티스에 클럽들 관심",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [
-   "레인저스"
+   "Rangers"
   ],
   "players": [
    "핀들레이 커티스"
   ],
   "managers": [],
-  "league": null,
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
@@ -27149,14 +27068,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Findlay Curtis",
     "핀들레이 커티스"
    ]
   ],
-  "issue": "curtis-rangers-transfer"
+  "issue": null
  },
  {
   "id": "0048b2799be3",
@@ -31431,9 +31350,9 @@
   "publishedAt": "2026-11-04T15:34:38.000Z",
   "author": "Sergi de Juan",
   "collectedAt": "2026-11-04T15:53:01.034Z",
-  "ko": "하피냐, 2030년까지 재계약",
-  "category": "transfer",
-  "stage": "done",
+  "ko": "하피냐, 2030년까지 바르셀로나 잔류 계약",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
@@ -31452,14 +31371,14 @@
   "playerVia": {
    "raphinha": "short"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Raphinha",
     "하피냐"
    ]
   ],
-  "issue": "raphinha-contract"
+  "issue": "raphinha-barcelona-contract"
  },
  {
   "id": "74e99c4444e9",
@@ -31648,19 +31567,19 @@
   "publishedAt": "2026-11-04T15:25:53.000Z",
   "author": null,
   "collectedAt": "2026-11-04T15:53:01.034Z",
-  "ko": "JJ 가브리엘, 레알 마드리드 이적 합의 후 맨유 보상금 공개",
+  "ko": "맨유, JJ 가브리엘 레알행 합의 후 보상금 공개",
   "category": "transfer",
   "stage": "agreement",
   "clubs": [
-   "real-madrid",
-   "man-utd"
+   "man-utd",
+   "real-madrid"
   ],
   "otherClubs": [],
   "players": [
    "JJ 가브리엘"
   ],
   "managers": [],
-  "league": "laliga",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
@@ -31670,7 +31589,7 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
@@ -31836,9 +31755,9 @@
   "publishedAt": "2026-11-04T15:22:00.000Z",
   "author": null,
   "collectedAt": "2026-11-04T16:46:32.321Z",
-  "ko": "맨유 유망주 JJ 가브리엘, 레알 마드리드행 가능성 점검",
+  "ko": "맨유 10대 JJ 가브리엘, 레알행 떠나야 할까",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "interest",
   "clubs": [
    "man-utd",
    "real-madrid"
@@ -31848,7 +31767,7 @@
    "JJ 가브리엘"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
@@ -31858,7 +31777,7 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",

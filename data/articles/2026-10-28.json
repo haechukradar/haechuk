@@ -576,33 +576,35 @@
   "publishedAt": "2026-10-28T14:01:13.000Z",
   "author": "Tom Hamilton",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "풀리식, AC밀란과 새 계약 임박",
-  "category": "transfer",
-  "stage": "agreement",
-  "clubs": [
-   "ac-milan"
+  "ko": "풀리식, AC 밀란과 새 계약 체결 임박",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [
+   "AC Milan"
   ],
-  "otherClubs": [],
   "players": [
-   "크리스천 풀리식"
+   "풀리식"
   ],
   "managers": [],
   "league": "seriea",
-  "credited": "파브리치오 로마노(X)",
+  "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "크리스천 풀리식",
-   "from": "AC밀란",
-   "to": "AC밀란"
-  },
+  "transfer": null,
   "playerTags": [
    "christian-pulisic"
   ],
   "playerVia": {
    "christian-pulisic": "short"
   },
-  "issue": "pulisic-ac-milan-transfer",
-  "promptVersion": 3
+  "issue": "pulisic-ac-milan-contract",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Pulisic",
+    "풀리식"
+   ]
+  ]
  },
  {
   "id": "892b5b377873",
@@ -640,33 +642,37 @@
   "publishedAt": "2026-10-28T14:01:13.000Z",
   "author": "Sam Marsden",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "바르셀로나, 알바레스 접근 관련 669달러 벌금",
-  "category": "transfer",
-  "stage": "collapsed",
+  "ko": "바르셀로나, 알바레스 접촉 관련 669달러 벌금",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Atletico Madrid"
+  ],
   "players": [
-   "훌리안 알바레스"
+   "알바레스"
   ],
   "managers": [],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": null,
-   "to": "바르셀로나"
-  },
+  "transfer": null,
   "playerTags": [
    "julian-alvarez"
   ],
   "playerVia": {
    "julian-alvarez": "llm"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "barcelona-affairs-alvarez-approach-fine",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Álvarez",
+    "알바레스"
+   ]
+  ]
  },
  {
   "id": "5f26e98701ba",
@@ -1007,7 +1013,7 @@
   "publishedAt": "2026-10-28T13:48:27.000Z",
   "author": "Stuart Jamieson",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "뉴캐슬, 1월 이적 행보로 다시 살아날 수 있어",
+  "ko": "뉴캐슬, 1월 이적으로 분위기 반전 기대",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -1023,7 +1029,7 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "newcastle-january-transfer",
-  "promptVersion": 3
+  "promptVersion": 8
  },
  {
   "id": "3c41487bb677",
@@ -1172,7 +1178,7 @@
   "publishedAt": "2026-10-28T13:44:16.000Z",
   "author": "Nathan Ridley",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "리버풀, 1월 이적 협상 착수, 알렉스 스콧 경쟁서 선두로 부상",
+  "ko": "리버풀, 1월 이적 협상 착수…알렉스 스콧 영입 경쟁서 선두",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -1194,7 +1200,13 @@
   "playerTags": [],
   "playerVia": {},
   "issue": "alex-scott-liverpool-transfer",
-  "promptVersion": 3
+  "promptVersion": 8,
+  "names": [
+   [
+    "Alex Scott",
+    "알렉스 스콧"
+   ]
+  ]
  },
  {
   "id": "0bb5fb0cf05c",
@@ -1775,15 +1787,15 @@
   "publishedAt": "2026-10-28T13:14:20.000Z",
   "author": "Jake Stokes",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "아스널, 이적 평가 주목…아르테타 '프리미엄' 문제 직면",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "아르테타, 요케레스 이적 판단 두고 '프리미엄' 문제 직면",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "arsenal"
   ],
   "otherClubs": [],
   "players": [
-   "빅토르 요케레스"
+   "요케레스"
   ],
   "managers": [
    "아르테타"
@@ -1791,19 +1803,25 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "빅토르 요케레스",
-   "from": null,
-   "to": "아스널"
-  },
+  "transfer": null,
   "playerTags": [
    "viktor-gyokeres"
   ],
   "playerVia": {
    "viktor-gyokeres": "fullname"
   },
-  "issue": "gyokeres-arsenal-transfer",
-  "promptVersion": 3
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Viktor Gyokeres",
+    "요케레스"
+   ],
+   [
+    "Mikel Arteta",
+    "아르테타"
+   ]
+  ]
  },
  {
   "id": "ab0c6d464f37",
@@ -2902,7 +2920,7 @@
   "publishedAt": "2026-10-28T12:10:45.000Z",
   "author": "Rahman Osman",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "리버풀, 래미니 카마라 측 접촉 가능성…첼시는 알렉스 스콧 주시",
+  "ko": "리버풀, 라민 카마라 측 접촉…첼시는 알렉스 스콧에 주목",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -2910,20 +2928,33 @@
    "chelsea"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "라민 카마라",
+   "알렉스 스콧"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "알렉스 스콧",
+   "player": "라민 카마라",
    "from": null,
    "to": "리버풀"
   },
   "playerTags": [],
   "playerVia": {},
-  "issue": "liverpool-alex-scott-transfer",
-  "promptVersion": 3
+  "issue": "camara-liverpool-transfer",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Lamine Camara",
+    "라민 카마라"
+   ],
+   [
+    "Alex Scott",
+    "알렉스 스콧"
+   ]
+  ]
  },
  {
   "id": "8ad2d1e927d3",
@@ -3094,7 +3125,7 @@
   "publishedAt": "2026-10-28T12:01:27.000Z",
   "author": null,
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "알바레스 이적 관련 바르셀로나에 602유로 벌금",
+  "ko": "바르사, 알바레스 접근 문제로 602유로 벌금",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -3102,7 +3133,7 @@
   ],
   "otherClubs": [],
   "players": [
-   "훌리안 알바레스"
+   "알바레스"
   ],
   "managers": [],
   "league": "laliga",
@@ -3115,8 +3146,14 @@
   "playerVia": {
    "julian-alvarez": "llm"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "barcelona-affairs-alvarez-approach-fine",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Alvarez",
+    "알바레스"
+   ]
+  ]
  },
  {
   "id": "50708b3b5b65",
@@ -3153,7 +3190,7 @@
   "publishedAt": "2026-10-28T12:00:00.000Z",
   "author": null,
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "레인저스, 파레스 게지미스 영입 위한 새 인센티브 제시",
+  "ko": "레인저스, 파레스 게제미스 영입 새 인센티브 제시",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [],
@@ -3161,21 +3198,27 @@
    "Rangers"
   ],
   "players": [
-   "파레스 게지미스"
+   "파레스 게제미스"
   ],
   "managers": [],
   "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "파레스 게지미스",
+   "player": "파레스 게제미스",
    "from": null,
    "to": "레인저스"
   },
   "playerTags": [],
   "playerVia": {},
   "issue": "ghedjemis-rangers-transfer",
-  "promptVersion": 3
+  "promptVersion": 8,
+  "names": [
+   [
+    "Fares Ghedjemis",
+    "파레스 게제미스"
+   ]
+  ]
  },
  {
   "id": "35c2f18c171d",
@@ -3889,33 +3932,35 @@
   "publishedAt": "2026-10-28T11:27:34.000Z",
   "author": null,
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "리버풀, 맥얼리스터 영입 거래 성사 시도",
-  "category": "transfer",
-  "stage": "negotiation",
+  "ko": "리버풀, 맥알리스터와 계약 성사 시도",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "liverpool"
   ],
   "otherClubs": [],
   "players": [
-   "알렉시스 맥알리스터"
+   "맥알리스터"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "알렉시스 맥알리스터",
-   "from": null,
-   "to": "리버풀"
-  },
+  "transfer": null,
   "playerTags": [
    "alexis-mac-allister"
   ],
   "playerVia": {
    "alexis-mac-allister": "fullname"
   },
-  "issue": "mac-allister-liverpool-transfer",
-  "promptVersion": 3
+  "issue": "mac-allister-liverpool-contract",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Alexis Mac Allister",
+    "맥알리스터"
+   ]
+  ]
  },
  {
   "id": "b2d3d5fe3027",
@@ -4576,41 +4621,6 @@
   "promptVersion": 3
  },
  {
-  "id": "d0fd49e0d02c",
-  "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-  "title": "Man Utd latest: Should Fernandes start at Chelsea? VOTE!",
-  "source": "sky",
-  "publishedAt": "2026-10-28T11:00:00.000Z",
-  "author": null,
-  "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "맨유 페르난데스, 첼시전 선발 기용 여부 독자 투표",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "chelsea"
-  ],
-  "otherClubs": [],
-  "players": [
-   "브루노 페르난데스"
-  ],
-  "managers": [
-   "캐릭"
-  ],
-  "league": "epl",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [
-   "bruno-fernandes"
-  ],
-  "playerVia": {
-   "bruno-fernandes": "llm"
-  },
-  "issue": null,
-  "promptVersion": 3
- },
- {
   "id": "c2ff64e0d8a8",
   "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/maritimo/detalhe/samu-silva-feliz-em-israel-estou-numa-zona-muito-tranquila-e-pacifica",
   "title": "Samú Silva feliz em Israel: «Estou numa zona muito tranquila e pacífica»",
@@ -4754,9 +4764,9 @@
   "publishedAt": "2026-10-28T10:49:14.000Z",
   "author": "Jake Stokes",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "리버풀, 헨더슨 첼시 이적 건 관여 안 한 이유 설명",
-  "category": "transfer",
-  "stage": "done",
+  "ko": "리버풀, 헨더슨 첼시行 막지 않은 이유 설명",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "liverpool",
    "chelsea"
@@ -4765,19 +4775,27 @@
   "players": [
    "조던 헨더슨"
   ],
-  "managers": [],
+  "managers": [
+   "이라올라"
+  ],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "조던 헨더슨",
-   "from": null,
-   "to": "첼시"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "henderson-chelsea-transfer",
-  "promptVersion": 3
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Jordan Henderson",
+    "조던 헨더슨"
+   ],
+   [
+    "Andoni Iraola",
+    "이라올라"
+   ]
+  ]
  },
  {
   "id": "c905d9e21a29",
@@ -5172,9 +5190,9 @@
   "publishedAt": "2026-10-28T10:33:57.000Z",
   "author": "Mark Whiley",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "첼시, 36세 조던 헨더슨 영입…리버풀 팬 분노",
-  "category": "transfer",
-  "stage": "done",
+  "ko": "첼시, 36세 헨더슨 영입에 리버풀 팬 분노",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "chelsea",
    "liverpool"
@@ -5187,15 +5205,17 @@
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "조던 헨더슨",
-   "from": "리버풀",
-   "to": "첼시"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "henderson-chelsea-transfer",
-  "promptVersion": 3
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Jordan Henderson",
+    "조던 헨더슨"
+   ]
+  ]
  },
  {
   "id": "629663b59617",
@@ -5655,16 +5675,16 @@
   "publishedAt": "2026-10-28T10:00:00.000Z",
   "author": "Lee Ryder",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "뉴캐슬, 2027년 이적시장 대형 보강 기대",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "뉴캐슬 마티아스 야이슬레, 2027년 이적 보강 기대",
+  "category": "manager",
+  "stage": null,
   "clubs": [
    "newcastle"
   ],
   "otherClubs": [],
   "players": [],
   "managers": [
-   "마티아스 야일레"
+   "마티아스 야이슬레"
   ],
   "league": "epl",
   "credited": null,
@@ -5672,8 +5692,14 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "newcastle-january-transfer",
-  "promptVersion": 3
+  "issue": "newcastle-manager-future",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Matthias Jaissle",
+    "마티아스 야이슬레"
+   ]
+  ]
  },
  {
   "id": "1bd9adc05d96",
@@ -6076,7 +6102,7 @@
   "publishedAt": "2026-10-28T09:31:16.000Z",
   "author": null,
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "아스널, 첼시, 맨시티 PSG 도ueh 주시",
+  "ko": "아스널·첼시·맨시티, PSG 두에 주시",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -6091,12 +6117,12 @@
    "두에"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
    "player": "두에",
-   "from": "PSG",
+   "from": "파리 생제르맹",
    "to": null
   },
   "playerTags": [
@@ -6106,7 +6132,13 @@
    "desire-doue": "short"
   },
   "issue": "doue-psg-transfer",
-  "promptVersion": 3
+  "promptVersion": 8,
+  "names": [
+   [
+    "Doué",
+    "두에"
+   ]
+  ]
  },
  {
   "id": "76dfa314bf2e",
@@ -6820,27 +6852,31 @@
   "publishedAt": "2026-10-28T08:36:34.000Z",
   "author": null,
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "리버풀, 자케 영입에 베팅했고 성과 나는 중",
-  "category": "transfer",
-  "stage": "done",
+  "ko": "리버풀, 자케 영입 도박 결실 중",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "liverpool"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "자케"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "자케",
-   "from": null,
-   "to": "리버풀"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "jacquet-liverpool-transfer",
-  "promptVersion": 3
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Jacquet",
+    "자케"
+   ]
+  ]
  },
  {
   "id": "b41aa54471d9",
@@ -8778,35 +8814,37 @@
   "publishedAt": "2026-10-28T05:30:00.000Z",
   "author": "Scott Trotter",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "바르셀로나, 알바레스 이적 불만에 황당한 벌금",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "바르셀로나, 알바레스 접근 관련 우스꽝스러운 벌금",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
   "otherClubs": [
-   "Atletico"
+   "Atletico Madrid"
   ],
   "players": [
-   "훌리안 알바레스"
+   "알바레스"
   ],
   "managers": [],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": "아틀레티코 마드리드",
-   "to": "바르셀로나"
-  },
+  "transfer": null,
   "playerTags": [
    "julian-alvarez"
   ],
   "playerVia": {
    "julian-alvarez": "fullname"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "barcelona-affairs-alvarez-approach-fine",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Julian Alvarez",
+    "알바레스"
+   ]
+  ]
  },
  {
   "id": "66519003a664",
@@ -9012,7 +9050,7 @@
   "publishedAt": "2026-10-28T05:00:00.000Z",
   "author": "Tom Sunderland",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "조던 헨더슨, 첼시 팬 놀라게 한 제스처로 리버풀 팬 격분",
+  "ko": "조던 헨더슨, 첼시 팬 놀라게 한 제스처 화제",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -9030,8 +9068,14 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "henderson-chelsea-transfer",
-  "promptVersion": 3
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Jordan Henderson",
+    "조던 헨더슨"
+   ]
+  ]
  },
  {
   "id": "4bb6cf71f960",
@@ -9555,9 +9599,9 @@
   "publishedAt": "2026-10-27T23:37:19.000Z",
   "author": "Rédaction",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "스페인축구협회, 바르셀로나에 602유로 벌금 부과",
-  "category": "transfer",
-  "stage": "collapsed",
+  "ko": "스페인축구협회, 바르사에 602유로 벌금 부과",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
@@ -9569,19 +9613,21 @@
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": null,
-   "to": "바르셀로나"
-  },
+  "transfer": null,
   "playerTags": [
    "julian-alvarez"
   ],
   "playerVia": {
    "julian-alvarez": "fullname"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "barcelona-affairs-alvarez-approach-fine",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Julian Alvarez",
+    "훌리안 알바레스"
+   ]
+  ]
  },
  {
   "id": "3b4b961da0cb",
@@ -9647,35 +9693,37 @@
   "publishedAt": "2026-10-27T23:18:47.000Z",
   "author": "Reuters",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "바르셀로나, 알바레스 접근 건으로 503파운드 벌금",
-  "category": "transfer",
-  "stage": "collapsed",
+  "ko": "바르셀로나, 알바레스 접촉 관련 503파운드 벌금",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
   "otherClubs": [
-   "Atlético Madrid"
+   "Atletico Madrid"
   ],
   "players": [
-   "훌리안 알바레스"
+   "알바레스"
   ],
   "managers": [],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": "아틀레티코 마드리드",
-   "to": "바르셀로나"
-  },
+  "transfer": null,
   "playerTags": [
    "julian-alvarez"
   ],
   "playerVia": {
    "julian-alvarez": "llm"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "barcelona-affairs-alvarez-approach-fine",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Álvarez",
+    "알바레스"
+   ]
+  ]
  },
  {
   "id": "65392118e542",
@@ -10511,9 +10559,9 @@
   "publishedAt": "2026-10-27T21:38:20.000Z",
   "author": null,
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "바르셀로나, 알바레스 접근 관련 벌금 503파운드",
-  "category": "transfer",
-  "stage": "collapsed",
+  "ko": "바르셀로나, 알바레스 접근 관련 £503 벌금 부과",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "barcelona"
   ],
@@ -10525,19 +10573,21 @@
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": null,
-   "to": "바르셀로나"
-  },
+  "transfer": null,
   "playerTags": [
    "julian-alvarez"
   ],
   "playerVia": {
    "julian-alvarez": "llm"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "julian-alvarez-barcelona-transfer",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Alvarez",
+    "훌리안 알바레스"
+   ]
+  ]
  },
  {
   "id": "e128ba2e0c5c",
@@ -10652,36 +10702,6 @@
   "playerVia": {
    "kylian-mbappe": "short",
    "lamine-yamal": "short"
-  },
-  "issue": "kane-ballon-dor-award",
-  "promptVersion": 3
- },
- {
-  "id": "91156c7b2356",
-  "url": "https://www.lequipe.fr/collection/podcasts/serie/big-5/#at_medium=RSS_feeds",
-  "title": "Harry Kane, reculer pour mieux régner",
-  "source": "lequipe",
-  "publishedAt": "2026-10-27T21:29:00.000Z",
-  "author": null,
-  "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "해리 케인, 물러서서 더 크게 군림하다",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "otherClubs": [],
-  "players": [
-   "해리 케인"
-  ],
-  "managers": [],
-  "league": "ligue1",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [
-   "harry-kane"
-  ],
-  "playerVia": {
-   "harry-kane": "fullname"
   },
   "issue": "kane-ballon-dor-award",
   "promptVersion": 3
@@ -11260,11 +11280,12 @@
   "publishedAt": "2026-10-27T19:42:00.000Z",
   "author": "Imar Vandenabeele, Johannes De Rijcke",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "알바레스 공개 구애 후 바르셀로나 상징적 벌금 602유로",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "바르셀로나, 알바레스 공개 구애 상징 벌금 602유로",
+  "category": "other",
+  "stage": null,
   "clubs": [
-   "barcelona"
+   "barcelona",
+   "atletico"
   ],
   "otherClubs": [],
   "players": [
@@ -11274,19 +11295,21 @@
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "훌리안 알바레스",
-   "from": null,
-   "to": "바르셀로나"
-  },
+  "transfer": null,
   "playerTags": [
    "julian-alvarez"
   ],
   "playerVia": {
    "julian-alvarez": "fullname"
   },
-  "issue": "alvarez-barcelona-transfer",
-  "promptVersion": 3
+  "issue": "julian-alvarez-barcelona-transfer",
+  "promptVersion": 8,
+  "names": [
+   [
+    "Julian Alvarez",
+    "훌리안 알바레스"
+   ]
+  ]
  },
  {
   "id": "7c68b9e5403a",
@@ -11573,9 +11596,9 @@
   "publishedAt": "2026-10-27T18:00:00.000Z",
   "author": "John Gibson",
   "collectedAt": "2026-10-28T14:06:04.720Z",
-  "ko": "뉴캐슬, 10번 자리 해법 찾았지만 무상으로 잃을 수도",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "뉴캐슬, 10번 해법 찾았지만 무상으로 잃을 수도",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "newcastle"
   ],
@@ -11588,8 +11611,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": "newcastle-january-transfer",
-  "promptVersion": 3
+  "issue": null,
+  "promptVersion": 8
  },
  {
   "id": "6a845a105166",

@@ -1856,36 +1856,37 @@
   "publishedAt": "2026-11-07T14:16:14.000Z",
   "author": "Danny Rust",
   "collectedAt": "2026-11-07T14:33:58.961Z",
-  "ko": "JJ 가브리엘, 레알 마드리드행 걸림돌…16세 선수 스페인 도착해 이적 마무리 시도",
+  "ko": "가브리엘 맨유→레알 이적, 16세 선수 스페인 도착 후 난항",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [
-   "man-utd",
-   "real-madrid"
+   "man-utd"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Real Madrid"
+  ],
   "players": [
-   "JJ 가브리엘"
+   "J.J. 가브리엘"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "JJ 가브리엘",
+   "player": "J.J. 가브리엘",
    "from": "맨유",
    "to": "레알 마드리드"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "JJ Gabriel",
-    "JJ 가브리엘"
+    "J.J. 가브리엘"
    ]
   ],
-  "issue": "gabriel-real-madrid-transfer"
+  "issue": "gabriel-man-utd-transfer"
  },
  {
   "id": "5e9f8eec2d08",
@@ -4615,35 +4616,31 @@
   "publishedAt": "2026-11-07T12:16:32.000Z",
   "author": "Theo Squires",
   "collectedAt": "2026-11-07T12:59:00.279Z",
-  "ko": "바르콜라, 1억 2300만 파운드 이적 뒤 리버풀 폼 논란에 답하다",
-  "category": "transfer",
-  "stage": "done",
+  "ko": "바르콜라, 1억 2300만 파운드 이적 후 리버풀 폼 관련 발언",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "liverpool"
   ],
   "otherClubs": [],
   "players": [
-   "바르콜라"
+   "브래들리 바르콜라"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "바르콜라",
-   "from": null,
-   "to": "리버풀"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Bradley Barcola",
-    "바르콜라"
+    "브래들리 바르콜라"
    ]
   ],
-  "issue": "barcola-liverpool-transfer"
+  "issue": null
  },
  {
   "id": "2349bcaa01f0",
@@ -6423,7 +6420,7 @@
   "publishedAt": "2026-11-07T10:59:33.000Z",
   "author": "Javier Miguel",
   "collectedAt": "2026-11-07T12:04:51.528Z",
-  "ko": "에릭과 크리스텐센, 아틀레티코행 청신호",
+  "ko": "에릭·크리스텐센 아틀레티코 영입 청신호",
   "category": "transfer",
   "stage": "agreement",
   "clubs": [
@@ -6441,7 +6438,7 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Eric",
@@ -6452,7 +6449,7 @@
     "크리스텐센"
    ]
   ],
-  "issue": "eric-christensen-atletico-transfer"
+  "issue": null
  },
  {
   "id": "2b6a58a522d3",
@@ -8564,35 +8561,35 @@
   "publishedAt": "2026-11-07T09:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-07T09:54:26.114Z",
-  "ko": "아이트누리, 맨시티에서 사실상 끝났다는 보도",
+  "ko": "아이트 누리, 맨시티에서 사실상 끝났다는 보도",
   "category": "transfer",
-  "stage": "interest",
+  "stage": "agreement",
   "clubs": [
    "man-city"
   ],
   "otherClubs": [],
   "players": [
-   "아이트누리"
+   "라얀 아이트 누리"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "아이트누리",
-   "from": "맨체스터 시티",
+   "player": "라얀 아이트 누리",
+   "from": "맨시티",
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Rayan Ait-Nouri",
-    "아이트누리"
+    "라얀 아이트 누리"
    ]
   ],
-  "issue": "ait-nouri-man-city-transfer"
+  "issue": null
  },
  {
   "id": "a5c3a3fe5a9a",
@@ -8602,7 +8599,7 @@
   "publishedAt": "2026-11-07T09:00:00.000Z",
   "author": null,
   "collectedAt": "2026-11-07T09:54:26.114Z",
-  "ko": "에버턴, 1500만 파운드 크베라제 영입 관심 보도",
+  "ko": "에버턴, 조르지 크베라체 영입 15m 파운드 추진 전망",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -8610,27 +8607,27 @@
   ],
   "otherClubs": [],
   "players": [
-   "크베라제"
+   "조르지 크베라체"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "크베라제",
+   "player": "조르지 크베라체",
    "from": null,
    "to": "에버턴"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Giorgi Kveradze",
-    "크베라제"
+    "조르지 크베라체"
    ]
   ],
-  "issue": "kveradze-everton-transfer"
+  "issue": null
  },
  {
   "id": "dca7971ccbd4",
@@ -8896,30 +8893,26 @@
   "publishedAt": "2026-11-07T08:35:00.000Z",
   "author": null,
   "collectedAt": "2026-11-07T09:03:58.697Z",
-  "ko": "스테판 보슨 “맨시티, 리즈에서 트래퍼드 재영입 가능성 믿기 어려워”",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "보슨, 맨시티의 리즈 제임스 트래퍼드 재영입 가능성에 의문",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "man-city"
   ],
   "otherClubs": [
-   "Leeds United"
+   "Leeds"
   ],
   "players": [
-   "트래퍼드"
+   "제임스 트래퍼드"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "트래퍼드",
-   "from": "리즈 유나이티드",
-   "to": "맨시티"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Stefan Borson",
@@ -8927,10 +8920,10 @@
    ],
    [
     "James Trafford",
-    "트래퍼드"
+    "제임스 트래퍼드"
    ]
   ],
-  "issue": "trafford-man-city-transfer"
+  "issue": null
  },
  {
   "id": "5a6d2b8c0337",
@@ -9697,9 +9690,9 @@
   "publishedAt": "2026-11-07T07:45:00.000Z",
   "author": null,
   "collectedAt": "2026-11-07T08:14:25.784Z",
-  "ko": "맨유, 1월 수비수 영입 계획 가속화",
+  "ko": "맨유, 1월 수비수 영입 계획 가속",
   "category": "transfer",
-  "stage": "interest",
+  "stage": "negotiation",
   "clubs": [
    "man-utd"
   ],
@@ -9712,8 +9705,8 @@
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
-  "issue": "bassey-man-utd-transfer"
+  "promptVersion": 8,
+  "issue": null
  },
  {
   "id": "7de5001ddb28",
@@ -9812,7 +9805,7 @@
   "publishedAt": "2026-11-07T07:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-07T08:14:25.784Z",
-  "ko": "리버풀, 바르트 페르브루현 영입 주시",
+  "ko": "리버풀, 바트 페르브루헌 영입으로 관심 전환",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -9820,27 +9813,27 @@
   ],
   "otherClubs": [],
   "players": [
-   "바르트 페르브루현"
+   "바트 페르브루헌"
   ],
   "managers": [],
-  "league": "other",
+  "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "바르트 페르브루현",
+   "player": "바트 페르브루헌",
    "from": null,
    "to": "리버풀"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Bart Verbruggen",
-    "바르트 페르브루현"
+    "바트 페르브루헌"
    ]
   ],
-  "issue": "verbruggen-liverpool-transfer"
+  "issue": null
  },
  {
   "id": "da0b047576e2",
@@ -9952,12 +9945,12 @@
   "publishedAt": "2026-11-07T07:25:00.000Z",
   "author": null,
   "collectedAt": "2026-11-07T08:14:25.784Z",
-  "ko": "레인저스, 라스킨 1월 이적 저지 나서",
+  "ko": "레인저스, 니콜라스 라스킨의 1월 이적 저지 방침",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "collapsed",
   "clubs": [],
   "otherClubs": [
-   "레인저스"
+   "Rangers"
   ],
   "players": [
    "니콜라스 라스킨"
@@ -9973,14 +9966,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Nicolas Raskin",
     "니콜라스 라스킨"
    ]
   ],
-  "issue": "raskin-rangers-transfer"
+  "issue": null
  },
  {
   "id": "c1a604b436ca",
@@ -10864,13 +10857,13 @@
   "publishedAt": "2026-11-07T06:31:03.000Z",
   "author": "Conrado Valle",
   "collectedAt": "2026-11-07T08:14:25.784Z",
-  "ko": "알치라, 카를로스 에스피 영입 위해 발렌시아에 두 차례 제안",
-  "category": "transfer",
-  "stage": "negotiation",
+  "ko": "알시라, 카를로스 에스피에게 발렌시아 이적을 두 차례 제안",
+  "category": "other",
+  "stage": null,
   "clubs": [],
   "otherClubs": [
-   "알치라",
-   "발렌시아"
+   "Alzira",
+   "Valencia"
   ],
   "players": [
    "카를로스 에스피"
@@ -10879,21 +10872,17 @@
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "카를로스 에스피",
-   "from": null,
-   "to": "발렌시아"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Carlos Espí",
     "카를로스 에스피"
    ]
   ],
-  "issue": "espi-valencia-transfer"
+  "issue": null
  },
  {
   "id": "28e345212b89",
@@ -11027,33 +11016,33 @@
   "publishedAt": "2026-11-07T06:17:43.000Z",
   "author": "Fernando S. Tavero",
   "collectedAt": "2026-11-07T08:14:25.784Z",
-  "ko": "프리미어리그, 하코보 주시",
+  "ko": "프리미어리그가 하콥을 노린다는 보도",
   "category": "transfer",
   "stage": "interest",
   "clubs": [],
   "otherClubs": [],
   "players": [
-   "하코보"
+   "하콥"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "하코보",
+   "player": "하콥",
    "from": null,
    "to": null
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Jacobo",
-    "하코보"
+    "하콥"
    ]
   ],
-  "issue": "jacobo-premier-transfer"
+  "issue": null
  },
  {
   "id": "c6920cdd5436",
@@ -14580,9 +14569,9 @@
   "publishedAt": "2026-11-06T22:30:00.000Z",
   "author": null,
   "collectedAt": "2026-11-06T23:21:01.770Z",
-  "ko": "맨유, 발데 영입 경쟁서 호재 전해져",
-  "category": "transfer",
-  "stage": "interest",
+  "ko": "맨유, 바르셀로나 레프트백 알렉스 발데 영입 추진에 호재",
+  "category": "other",
+  "stage": null,
   "clubs": [
    "man-utd"
   ],
@@ -14590,27 +14579,23 @@
    "Barcelona"
   ],
   "players": [
-   "알레한드로 발데"
+   "알렉스 발데"
   ],
   "managers": [],
   "league": "laliga",
   "credited": null,
   "enrichedBy": "llm",
-  "transfer": {
-   "player": "알레한드로 발데",
-   "from": "바르셀로나",
-   "to": "맨유"
-  },
+  "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Alejandro Balde",
     "알레한드로 발데"
    ]
   ],
-  "issue": "balde-man-utd-transfer"
+  "issue": null
  },
  {
   "id": "df5c2a2c4303",
@@ -16003,6 +15988,34 @@
   "issue": "toulouse-strasbourg-2026-11-06"
  },
  {
+  "id": "6af56d8762cc",
+  "url": "https://rp-online.de/sport/fussball/borussia/hamburger-sv-borussia-moenchengladbach-liveticker-zum-spiel_aid-79115875",
+  "title": "Liveticker zum Nachlesen: Schluss in Hamburg – Borussia verliert in Unterzahl beim HSV",
+  "source": "rp",
+  "publishedAt": "2026-11-06T21:23:00.000Z",
+  "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
+  "collectedAt": "2026-11-09T16:55:21.736Z",
+  "ko": "묀헨글라트바흐, 함부르크 원정서 수적 열세 끝 패배",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "gladbach"
+  ],
+  "otherClubs": [
+   "Hamburger SV"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "bundesliga",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 7,
+  "issue": "hamburg-gladbach-2026-11-08"
+ },
+ {
   "id": "e94d13fc634f",
   "url": "https://rp-online.de/sport/fussball/borussia/borussia-verliert-nach-itakura-platzverweiss-1-3-beim-hamburger-sv_aid-157962835",
   "title": "Nach Itakura-Platzverweis: Borussia verpasst in Hamburg den nächsten Punktgewinn",
@@ -16037,34 +16050,6 @@
    ]
   ],
   "issue": "gladbach-hamburger-2026-11-07"
- },
- {
-  "id": "6af56d8762cc",
-  "url": "https://rp-online.de/sport/fussball/borussia/hamburger-sv-borussia-moenchengladbach-liveticker-zum-spiel_aid-79115875",
-  "title": "Liveticker zum Nachlesen: Schluss in Hamburg – Borussia verliert in Unterzahl beim HSV",
-  "source": "rp",
-  "publishedAt": "2026-11-06T21:23:00.000Z",
-  "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
-  "collectedAt": "2026-11-09T16:55:21.736Z",
-  "ko": "묀헨글라트바흐, 함부르크 원정서 수적 열세 끝 패배",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "gladbach"
-  ],
-  "otherClubs": [
-   "Hamburger SV"
-  ],
-  "players": [],
-  "managers": [],
-  "league": "bundesliga",
-  "credited": null,
-  "enrichedBy": "llm",
-  "transfer": null,
-  "playerTags": [],
-  "playerVia": {},
-  "promptVersion": 7,
-  "issue": "hamburg-gladbach-2026-11-08"
  },
  {
   "id": "06cdeaa57d80",
@@ -16264,14 +16249,14 @@
   "publishedAt": "2026-11-06T21:08:04.000Z",
   "author": null,
   "collectedAt": "2026-11-06T21:12:39.624Z",
-  "ko": "스즈키 영입 관심 레알 마드리드·PSG, 토요일 이적 가십",
+  "ko": "레알 마드리드·PSG, 스즈키 관심",
   "category": "transfer",
   "stage": "interest",
-  "clubs": [],
-  "otherClubs": [
-   "레알 마드리드",
-   "파리 생제르맹"
+  "clubs": [
+   "real-madrid",
+   "psg"
   ],
+  "otherClubs": [],
   "players": [
    "스즈키"
   ],
@@ -16286,14 +16271,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Suzuki",
     "스즈키"
    ]
   ],
-  "issue": "suzuki-real-madrid-transfer"
+  "issue": null
  },
  {
   "id": "561e8546a3f2",
@@ -17129,14 +17114,16 @@
   "publishedAt": "2026-11-06T20:12:47.000Z",
   "author": "Mark Wakefield",
   "collectedAt": "2026-11-06T20:27:22.923Z",
-  "ko": "아스널, 알바레스 대체자 영입 확정 보도…이적료 8300만 파운드",
+  "ko": "아스널, '차세대 훌리안 알바레스' 83m 파운드 영입 확정",
   "category": "transfer",
   "stage": "done",
   "clubs": [
    "arsenal"
   ],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "훌리안 알바레스"
+  ],
   "managers": [],
   "league": "epl",
   "credited": null,
@@ -17148,8 +17135,14 @@
   "playerVia": {
    "julian-alvarez": "fullname"
   },
-  "promptVersion": 7,
-  "issue": "arsenal-julian-alvarez-replacement-transfer"
+  "promptVersion": 8,
+  "issue": null,
+  "names": [
+   [
+    "Julian Alvarez",
+    "훌리안 알바레스"
+   ]
+  ]
  },
  {
   "id": "18cad3726beb",
@@ -17921,7 +17914,7 @@
   "publishedAt": "2026-11-06T19:48:03.000Z",
   "author": null,
   "collectedAt": "2026-11-06T20:27:22.923Z",
-  "ko": "크리스털 팰리스, 코너 갤러거 재회 관심",
+  "ko": "크리스털 팰리스, 콘어 갤러거 재회 관심",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -17929,27 +17922,27 @@
   ],
   "otherClubs": [],
   "players": [
-   "코너 갤러거"
+   "콘어 갤러거"
   ],
   "managers": [],
   "league": "epl",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "코너 갤러거",
+   "player": "콘어 갤러거",
    "from": null,
    "to": "크리스털 팰리스"
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Conor Gallagher",
-    "코너 갤러거"
+    "콘어 갤러거"
    ]
   ],
-  "issue": "gallagher-crystal-palace-transfer"
+  "issue": null
  },
  {
   "id": "d7e280bd4027",
@@ -18671,9 +18664,9 @@
   "publishedAt": "2026-11-06T19:18:16.000Z",
   "author": null,
   "collectedAt": "2026-11-06T19:36:34.591Z",
-  "ko": "마우로 이카르디, 유벤투스 복귀에 근접",
+  "ko": "마우로 이카르디, 유벤투스 합류 근접",
   "category": "transfer",
-  "stage": "negotiation",
+  "stage": "agreement",
   "clubs": [
    "juventus"
   ],
@@ -18692,14 +18685,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Mauro Icardi",
     "마우로 이카르디"
    ]
   ],
-  "issue": "icardi-juventus-transfer"
+  "issue": null
  },
  {
   "id": "cc631506373a",
@@ -19725,24 +19718,26 @@
   "publishedAt": "2026-11-06T18:36:10.000Z",
   "author": "Mark Wakefield",
   "collectedAt": "2026-11-06T19:36:34.591Z",
-  "ko": "주드 벨링엄, JJ 가브리엘 이적에 개입… 맨유 보상금 액수 드러나",
+  "ko": "벨링엄, JJ 가브리엘 이적에 개입 보도, 맨유 보상금 액수 드러나",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [
    "man-utd"
   ],
-  "otherClubs": [],
+  "otherClubs": [
+   "Real Madrid"
+  ],
   "players": [
    "주드 벨링엄",
-   "JJ 가브리엘"
+   "J.J. 가브리엘"
   ],
   "managers": [],
-  "league": "epl",
+  "league": "other",
   "credited": null,
   "enrichedBy": "llm",
   "transfer": {
-   "player": "JJ 가브리엘",
-   "from": null,
+   "player": "J.J. 가브리엘",
+   "from": "맨유",
    "to": "레알 마드리드"
   },
   "playerTags": [
@@ -19751,7 +19746,7 @@
   "playerVia": {
    "jude-bellingham": "fullname"
   },
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Jude Bellingham",
@@ -19759,10 +19754,10 @@
    ],
    [
     "JJ Gabriel",
-    "JJ 가브리엘"
+    "J.J. 가브리엘"
    ]
   ],
-  "issue": "gabriel-real-madrid-transfer"
+  "issue": "gabriel-man-utd-transfer"
  },
  {
   "id": "db4964c0ebeb",
@@ -23311,7 +23306,7 @@
   "publishedAt": "2026-11-06T16:30:00.000Z",
   "author": "Mark Whiley",
   "collectedAt": "2026-11-06T17:31:30.400Z",
-  "ko": "뉴캐슬, 윌 랭크셔 영입 노리며 7100만 파운드 미드필더 재차 주시",
+  "ko": "뉴캐슬, 윌 랭크셔 영입 목표 및 7,100만 파운드 미드필더 재관심",
   "category": "transfer",
   "stage": "interest",
   "clubs": [
@@ -23332,14 +23327,14 @@
   },
   "playerTags": [],
   "playerVia": {},
-  "promptVersion": 7,
+  "promptVersion": 8,
   "names": [
    [
     "Will Lankshear",
     "윌 랭크셔"
    ]
   ],
-  "issue": "lankshear-newcastle-transfer"
+  "issue": null
  },
  {
   "id": "5fd618eb02e9",

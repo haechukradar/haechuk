@@ -25,14 +25,15 @@ export async function loadRosters(file) {
 
 export const saveRosters = (file) => writeFile(file, JSON.stringify(rosters, null, 1) + '\n');
 
-function find(name) {
+function findKey(name) {
   const k = squash(name);
   if (!k) return null;
-  if (rosters[k]) return rosters[k];
+  if (rosters[k]) return k;
   // 성만 같은 다른 선수와 섞이지 않도록 후보가 하나일 때만
-  const hits = Object.entries(rosters).filter(([key]) => sameName(key, k));
-  return hits.length === 1 ? hits[0][1] : null;
+  const hits = Object.keys(rosters).filter((key) => sameName(key, k));
+  return hits.length === 1 ? hits[0] : null;
 }
+const find = (name) => rosters[findKey(name)] ?? null;
 
 /** 확인된 현재 소속 (한국어 클럽명) 또는 null */
 export function confirmedClub(name) {
@@ -44,9 +45,10 @@ export function confirmedClub(name) {
 export function learn(pairs, at, sameClub) {
   for (const { player, club } of pairs ?? []) {
     if (!player || !club) continue;
-    const k = squash(player);
+    // 성만 쓴 표기와 전체 이름을 같은 선수로 (후보가 하나일 때만)
+    const k = rosters[squash(player)] ? squash(player) : findKey(player) ?? squash(player);
     const cur = rosters[k];
-    if (cur && sameClub(cur.club, club)) Object.assign(cur, { count: cur.count + 1, last: at > cur.last ? at : cur.last });
+    if (cur && sameClub(cur.club, club)) Object.assign(cur, { count: cur.count + 1, last: at > cur.last ? at : cur.last, name: player.length > cur.name.length ? player : cur.name });
     else if (!cur || at > cur.last) rosters[k] = { name: player, club, count: 1, last: at }; // 더 최근 기사가 다른 소속이면 이적한 것
   }
 }

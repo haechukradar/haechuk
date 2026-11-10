@@ -5,13 +5,13 @@ import { SOURCES, SOURCE_BY_ID } from '../config/sources.mjs';
 import { CLUB_BY_SLUG } from '../config/clubs.mjs';
 import { tagPlayersDetailed, unknownPlayers, PLAYERS } from '../config/players.mjs';
 import { NAMES, nameKey } from '../config/names.mjs';
-import { ACCURACY, PIPELINE } from '../config/site.mjs';
+import { ACCURACY, PIPELINE, TRANSFERS } from '../config/site.mjs';
 import { RESOLUTIONS } from '../config/resolutions.mjs';
 import { fetchFeed, normalizeUrl } from './lib/rss.mjs';
 import { classify, tagClubs } from './lib/rules.mjs';
 import { enrichBatch, llmAvailable, validIssueKey, PROMPT_VERSION, llmErrors, sameClubKo } from './lib/enrich.mjs';
 import { loadRosters, saveRosters, learn, confirmedClub } from './lib/rosters.mjs';
-import { assignIssues, pickHot, scoreIssue, mergeDuplicateIssues } from './lib/issues.mjs';
+import { assignIssues, pickHot, scoreIssue, mergeDuplicateIssues, toIssueArticle } from './lib/issues.mjs';
 import { runAccuracy } from './lib/accuracy.mjs';
 
 const DATA = path.resolve('data');
@@ -31,10 +31,11 @@ const writeJson = (file, data) => writeFile(file, JSON.stringify(data, null, 1) 
 // KST 기준 날짜 (아카이브 일자 구분)
 const kstDate = (iso) => new Date(Date.parse(iso) + 9 * H).toISOString().slice(0, 10);
 
-async function loadRecentArticles() {
+async function loadRecentArticles(extraDays = []) {
   await mkdir(ARTICLES_DIR, { recursive: true });
   const files = (await readdir(ARTICLES_DIR)).filter((f) => f.endsWith('.json')).sort();
-  const recent = files.slice(-(PIPELINE.recentDays + 2));
+  const extra = new Set(extraDays.map((d) => `${d}.json`));
+  const recent = [...new Set([...files.slice(-(PIPELINE.recentDays + 2)), ...files.filter((f) => extra.has(f))])].sort();
   const byDay = new Map();
   for (const f of recent) byDay.set(f.replace('.json', ''), await readJson(path.join(ARTICLES_DIR, f), []));
   return { byDay, allDays: files.map((f) => f.replace('.json', '')) };
@@ -101,7 +102,21 @@ async function main() {
     console.warn('   프로젝트 폴더의 .env 파일에 ANTHROPIC_API_KEY=키 를 넣어 두면 자동으로 읽습니다.');
     console.warn('');
   }
-  const { byDay, allDays } = await loadRecentArticles();
+  // 이적 보드 기간(최근 활동 TRANSFERS.activeDays일) 이적 이슈의 기사는 날짜와 상관없이 불러옴 (학습한 소속과 매번 대조)
+  // --reenrich-transfers: 그 기사들을 현재 지시문으로 다시 가공
+  const reenrichTransfers = process.argv.includes('--reenrich-transfers');
+  const transferIds = new Set();
+  const extraDays = [];
+  {
+    for (const i of await readJson(path.join(DATA, 'issues.json'), [])) {
+      if (i.category !== 'transfer' || Date.now() - Date.parse(i.updatedAt) > TRANSFERS.activeDays * 24 * H) continue;
+      for (const a of i.articles) {
+        transferIds.add(a.id);
+        extraDays.push(kstDate(a.publishedAt));
+      }
+    }
+  }
+  const { byDay, allDays } = await loadRecentArticles(extraDays);
   const known = new Map();
   for (const list of byDay.values()) for (const a of list) known.set(a.id, a);
   const knownUrls = new Set([...known.values()].map((a) => normalizeUrl(a.url)));
@@ -156,13 +171,14 @@ async function main() {
   const pending = [...known.values()]
     .filter((a) => !fresh.includes(a) && a.enrichedBy === 'rule' && within(a, reenrich ? PIPELINE.maxItemAgeHours : 24))
     .sort(byNewest);
-  const outdated = reenrich
+  const outdated = reenrich || reenrichTransfers
     ? [...known.values()]
-        .filter((a) => !fresh.includes(a) && a.enrichedBy === 'llm' && a.promptVersion !== PROMPT_VERSION && within(a, PIPELINE.maxItemAgeHours))
+        .filter((a) => !fresh.includes(a) && a.enrichedBy === 'llm' && a.promptVersion !== PROMPT_VERSION)
+        .filter((a) => (reenrich && within(a, PIPELINE.maxItemAgeHours)) || transferIds.has(a.id))
         .sort(byNewest)
     : [];
   const queue = [...fresh.sort(byNewest), ...pending, ...outdated].slice(0, PIPELINE.maxEnrichPerRun);
-  if (reenrich) console.log(`다시 가공 대상: 미가공 ${pending.length}건, 이전 지시문 ${outdated.length}건 (이번 실행 최대 ${PIPELINE.maxEnrichPerRun}건)`);
+  if (reenrich || reenrichTransfers) console.log(`다시 가공 대상: 미가공 ${pending.length}건, 이전 지시문 ${outdated.length}건 (이번 실행 최대 ${PIPELINE.maxEnrichPerRun}건)`);
   let llmCount = 0;
   if (queue.length && llmAvailable()) {
     for (let i = 0; i < queue.length && llmAvailable(); i += PIPELINE.enrichBatchSize) {
@@ -272,11 +288,15 @@ async function main() {
 
   // 4. 점수 산정 + 정리
   for (const [slug, issue] of issues) {
-    // 이슈에 담긴 기사 사본을 최신 가공 결과로 맞춤 (기사 단위 티어 계산에 클럽·인용 출처가 쓰임)
-    for (const x of issue.articles) {
+    // 이슈에 담긴 기사 사본을 최신 가공 결과로 맞춤 (다시 가공된 분류·단계·이적 대상·티어 근거 반영)
+    // 다시 가공으로 다른 이슈로 옮겨졌거나 이슈에서 빠진 기사는 사본을 지움
+    issue.articles = issue.articles.filter((x) => {
       const a = known.get(x.id);
-      if (a) Object.assign(x, { clubs: a.clubs ?? [], credited: a.credited ?? null });
-    }
+      if (!a) return true; // 불러오지 않은 오래된 기사는 그대로
+      if (a.issue !== slug && !(issue.aliases ?? []).includes(a.issue)) return false;
+      Object.assign(x, toIssueArticle(a));
+      return true;
+    });
     if (issue.articles.length === 0) {
       issues.delete(slug);
       continue;
