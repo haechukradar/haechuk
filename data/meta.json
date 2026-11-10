@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T22:10:24.554Z",
+ "updatedAt": "2026-11-10T22:51:52.901Z",
  "hot": [
   "carrick-manager-future",
+  "man-city-inter-2026-11-10",
   "pochettino-man-utd-manager-future",
   "hacken-chelsea-2026-11-10",
-  "bayern-psg-women-2026-11-10",
-  "mctominay-injury"
+  "bayern-psg-women-2026-11-10"
  ],
  "days": [
   "2026-10-18",
@@ -34,20 +34,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
+   "items": 84,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 0,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,25 +83,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 0,
    "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "lecho": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -167,8 +167,8 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
-   "authorRate": 90
+   "added": 2,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -179,12 +179,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 6,
    "added": 0,
    "authorRate": 0
   }
@@ -255,6 +255,10 @@
    "count": 10
   },
   {
+   "name": "반 다이크",
+   "count": 10
+  },
+  {
    "name": "웨인 루니",
    "count": 10
   },
@@ -268,10 +272,6 @@
   },
   {
    "name": "마두에케",
-   "count": 9
-  },
-  {
-   "name": "반 다이크",
    "count": 9
   },
   {
@@ -312,7 +312,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 281,
+  "recentIssues": 273,
   "singleArticleRate": 48,
   "broad": [
    {
@@ -487,24 +487,6 @@
    ]
   },
   {
-   "en": "Youri Tielemans",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "틸레망스",
-     "count": 4
-    },
-    {
-     "ko": "틸레만스",
-     "count": 2
-    },
-    {
-     "ko": "유리 틸레망스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Musiala",
    "dictionary": null,
    "variants": [
@@ -541,6 +523,24 @@
     {
      "ko": "퀼크루크",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Youri Tielemans",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "틸레망스",
+     "count": 3
+    },
+    {
+     "ko": "틸레만스",
+     "count": 2
+    },
+    {
+     "ko": "유리 틸레망스",
+     "count": 2
     }
    ]
   },
@@ -582,28 +582,6 @@
     },
     {
      "ko": "빅토르 브루누",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르지 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 제주스",
      "count": 1
     }
    ]
@@ -705,19 +683,19 @@
    ]
   },
   {
-   "en": "Hoeneß",
+   "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
     {
-     "ko": "회이네스",
+     "ko": "조르즈 제수스",
      "count": 2
     },
     {
-     "ko": "회네스",
-     "count": 1
+     "ko": "조르지 제수스",
+     "count": 2
     },
     {
-     "ko": "회그네스",
+     "ko": "호르헤 제주스",
      "count": 1
     }
    ]
@@ -783,15 +761,15 @@
    ]
   },
   {
-   "en": "Granit Xhaka",
+   "en": "Hoeneß",
    "dictionary": null,
    "variants": [
     {
-     "ko": "샤카",
+     "ko": "회이네스",
      "count": 2
     },
     {
-     "ko": "자카",
+     "ko": "회네스",
      "count": 1
     }
    ]
@@ -999,6 +977,20 @@
    ]
   },
   {
+   "en": "Granit Xhaka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "샤카",
+     "count": 1
+    },
+    {
+     "ko": "자카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vanaken",
    "dictionary": null,
    "variants": [
@@ -1111,20 +1103,6 @@
    ]
   },
   {
-   "en": "Filipe Coelho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "필리프 코엘류",
-     "count": 1
-    },
-    {
-     "ko": "필리페 코엘류",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pierre Kalulu",
    "dictionary": null,
    "variants": [
@@ -1162,6 +1140,20 @@
     },
     {
      "ko": "보쟁가",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게네시오",
+     "count": 1
+    },
+    {
+     "ko": "제네시오",
      "count": 1
     }
    ]
@@ -1217,8 +1209,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 318,
-   "llm": 2950
+   "collected": 332,
+   "llm": 2964
   }
  },
  "llmErrors": []
