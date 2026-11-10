@@ -1,9 +1,10 @@
 {
- "updatedAt": "2026-11-10T10:37:18.397Z",
+ "updatedAt": "2026-11-10T11:32:06.481Z",
  "hot": [
+  "man-utd-manager-future-20261102",
   "carrick-manager-future",
-  "birmingham-affairs-tom-brady-stake",
-  "thomas-frank-crystal-palace-appointment"
+  "thomas-frank-crystal-palace-appointment",
+  "birmingham-affairs-tom-brady-stake"
  ],
  "days": [
   "2026-10-18",
@@ -31,20 +32,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 1,
+   "items": 81,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 2,
+   "added": 1,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 17,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -80,14 +81,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 82
+   "added": 5,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -104,13 +105,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -128,7 +129,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -152,7 +153,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -163,26 +164,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 4,
+   "items": 28,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 1,
+   "items": 11,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -193,7 +194,7 @@
   },
   {
    "name": "알리송",
-   "count": 13
+   "count": 14
   },
   {
    "name": "헤수스 데 미겔",
@@ -224,11 +225,11 @@
    "count": 10
   },
   {
-   "name": "해밀턴",
-   "count": 8
+   "name": "그릴리시",
+   "count": 9
   },
   {
-   "name": "그릴리시",
+   "name": "해밀턴",
    "count": 8
   },
   {
@@ -256,6 +257,10 @@
    "count": 7
   },
   {
+   "name": "돈나룸마",
+   "count": 6
+  },
+  {
    "name": "아민 구이리",
    "count": 6
   },
@@ -277,10 +282,6 @@
   },
   {
    "name": "콘사",
-   "count": 5
-  },
-  {
-   "name": "돈나룸마",
    "count": 5
   },
   {
@@ -309,8 +310,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 242,
-  "singleArticleRate": 36,
+  "recentIssues": 246,
+  "singleArticleRate": 37,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -325,19 +326,19 @@
     "count": 32
    },
    {
-    "slug": "leeds-tottenham-2026-11-07",
-    "count": 29
-   },
-   {
     "slug": "nottingham-forest-man-city-2026-11-05",
     "count": 28
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
-    "count": 28
+    "count": 27
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
+    "count": 26
+   },
+   {
+    "slug": "leeds-tottenham-2026-11-07",
     "count": 26
    },
    {
@@ -357,6 +358,10 @@
     "count": 20
    },
    {
+    "slug": "man-utd-manager-future-20261102",
+    "count": 15
+   },
+   {
     "slug": "fulham-newcastle-2026-11-08",
     "count": 15
    },
@@ -367,28 +372,6 @@
   ]
  },
  "nameReport": [
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 10
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 4
-    },
-    {
-     "ko": "아이슬레",
-     "count": 1
-    },
-    {
-     "ko": "자일",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Marco Silva",
    "dictionary": null,
@@ -412,6 +395,28 @@
    ]
   },
   {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 9
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 4
+    },
+    {
+     "ko": "아이슬레",
+     "count": 1
+    },
+    {
+     "ko": "자일",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
@@ -421,6 +426,10 @@
     },
     {
      "ko": "래먼스",
+     "count": 2
+    },
+    {
+     "ko": "람멘스",
      "count": 2
     },
     {
@@ -441,10 +450,6 @@
     },
     {
      "ko": "센네 라메스",
-     "count": 1
-    },
-    {
-     "ko": "람멘스",
      "count": 1
     },
     {
@@ -608,24 +613,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 3
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 2
-    },
-    {
-     "ko": "제이제이 가브리엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Klopp",
    "dictionary": null,
    "variants": [
@@ -686,6 +673,20 @@
     {
      "ko": "사주",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 3
+    },
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 2
     }
    ]
   },
@@ -771,6 +772,32 @@
     },
     {
      "ko": "사무엘 소아르스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jess Thorup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조프 토프",
+     "count": 1
+    },
+    {
+     "ko": "예스 소르프",
+     "count": 1
+    },
+    {
+     "ko": "요스 소르프",
+     "count": 1
+    },
+    {
+     "ko": "토르프",
+     "count": 1
+    },
+    {
+     "ko": "예스 토어프",
      "count": 1
     }
    ]
@@ -984,6 +1011,38 @@
    ]
   },
   {
+   "en": "Yannick Cahuzac",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야닉 카위자크",
+     "count": 2
+    },
+    {
+     "ko": "카위작",
+     "count": 1
+    },
+    {
+     "ko": "야닉 카위작",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alisson Becker",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알리송",
+     "count": 3
+    },
+    {
+     "ko": "알리송 베커",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gosens",
    "dictionary": null,
    "variants": [
@@ -993,28 +1052,6 @@
     },
     {
      "ko": "고젠스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jess Thorup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조프 토프",
-     "count": 1
-    },
-    {
-     "ko": "예스 소르프",
-     "count": 1
-    },
-    {
-     "ko": "요스 소르프",
-     "count": 1
-    },
-    {
-     "ko": "토르프",
      "count": 1
     }
    ]
@@ -1043,20 +1080,6 @@
     },
     {
      "ko": "오카포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스-반렛",
      "count": 1
     }
    ]
@@ -1150,6 +1173,20 @@
    ]
   },
   {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "돈나룸마",
+     "count": 2
+    },
+    {
+     "ko": "잔루이지 도나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Eberl",
    "dictionary": null,
    "variants": [
@@ -1222,42 +1259,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Sean Steur",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "션 슈어",
-     "count": 1
-    },
-    {
-     "ko": "션 스테르",
-     "count": 1
-    },
-    {
-     "ko": "션 스퇴르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카위작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위자크",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위작",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1306,8 +1307,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 563,
-   "llm": 563
+   "collected": 606,
+   "llm": 606
   }
  },
  "llmErrors": []
