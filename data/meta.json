@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T18:10:17.574Z",
+ "updatedAt": "2026-11-10T19:02:55.426Z",
  "hot": [
   "carrick-manager-future",
+  "pochettino-man-utd-manager-future",
   "konsa-injury",
   "kompany-health-incident",
-  "nmecha-discipline",
-  "mctominay-injury"
+  "nmecha-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -35,13 +35,13 @@
   "bbc": {
    "ok": true,
    "items": 85,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 55,
-   "added": 0,
+   "items": 56,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
@@ -83,19 +83,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 19,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,14 +161,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
    "added": 2,
-   "authorRate": 93
+   "authorRate": 90
   },
   "star": {
    "ok": true,
@@ -179,13 +179,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 11,
-   "added": 6,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -287,6 +287,10 @@
    "count": 9
   },
   {
+   "name": "해밀턴",
+   "count": 8
+  },
+  {
    "name": "트로사르",
    "count": 8
   },
@@ -305,19 +309,15 @@
   {
    "name": "은메차",
    "count": 8
-  },
-  {
-   "name": "페르민",
-   "count": 8
   }
  ],
  "issueHealth": {
-  "recentIssues": 304,
+  "recentIssues": 297,
   "singleArticleRate": 51,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 95
+    "count": 97
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -341,7 +341,7 @@
    },
    {
     "slug": "de-miguel-incident",
-    "count": 17
+    "count": 16
    }
   ]
  },
@@ -571,42 +571,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 4
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르제 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르지 제수스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Fermin",
    "dictionary": null,
    "variants": [
@@ -617,6 +581,20 @@
     {
      "ko": "페르민 로페스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 4
+    },
+    {
+     "ko": "J.J. 가브리엘",
+     "count": 2
     }
    ]
   },
@@ -635,19 +613,23 @@
    ]
   },
   {
-   "en": "Carlos Vicens",
+   "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
     {
-     "ko": "비센스",
-     "count": 3
-    },
-    {
-     "ko": "카를로스 비센스",
+     "ko": "조르즈 제수스",
      "count": 2
     },
     {
-     "ko": "카를루스 비센스",
+     "ko": "조르지 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 1
+    },
+    {
+     "ko": "호르헤 제주스",
      "count": 1
     }
    ]
@@ -663,6 +645,20 @@
     {
      "ko": "페르민",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Samuel Soares",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사무엘 소아레스",
+     "count": 5
+    },
+    {
+     "ko": "삼수 소아레스",
+     "count": 1
     }
    ]
   },
@@ -716,20 +712,6 @@
     },
     {
      "ko": "티에르노 배리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 4
-    },
-    {
-     "ko": "삼수 소아레스",
      "count": 1
     }
    ]
@@ -1039,6 +1021,24 @@
    ]
   },
   {
+   "en": "Marcus Thuram",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마커스 튀람",
+     "count": 1
+    },
+    {
+     "ko": "마르쿠스 튀람",
+     "count": 1
+    },
+    {
+     "ko": "마르퀴스 튀람",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Brian Brobbey",
    "dictionary": null,
    "variants": [
@@ -1070,6 +1070,20 @@
     },
     {
      "ko": "위고 퀴퍼스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Éli Junior Kroupi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엘리 주니어 크루피",
+     "count": 2
+    },
+    {
+     "ko": "엘리 주니어 쿠프이",
      "count": 1
     }
    ]
@@ -1171,20 +1185,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Uli Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "울리 회네스",
-     "count": 1
-    },
-    {
-     "ko": "울리 회이네스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1237,8 +1237,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 169,
-   "llm": 2801
+   "collected": 206,
+   "llm": 2838
   }
  },
  "llmErrors": []
