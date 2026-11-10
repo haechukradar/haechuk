@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-09T23:51:17.661Z",
+ "updatedAt": "2026-11-10T00:41:10.285Z",
  "hot": [
   "carrick-manager-future",
-  "cubarsi-golden-boy-award",
   "birmingham-affairs-tom-brady-stake",
+  "cubarsi-golden-boy-award",
   "musiala-injury",
   "oviedo-manager-appointment"
  ],
@@ -34,19 +34,19 @@
   "bbc": {
    "ok": true,
    "items": 77,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -88,7 +88,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 74
   },
   "fblondon": {
@@ -136,7 +136,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -183,7 +183,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 2,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -250,6 +250,10 @@
    "count": 7
   },
   {
+   "name": "톰 브래디",
+   "count": 7
+  },
+  {
    "name": "아민 구이리",
    "count": 6
   },
@@ -263,10 +267,6 @@
   },
   {
    "name": "트로사르",
-   "count": 6
-  },
-  {
-   "name": "톰 브래디",
    "count": 6
   },
   {
@@ -1096,20 +1096,6 @@
    ]
   },
   {
-   "en": "Ricardo Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리카르도 실바",
-     "count": 2
-    },
-    {
-     "ko": "리카르두 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gouweleeuw",
    "dictionary": null,
    "variants": [
@@ -1256,6 +1242,24 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 슈어",
+     "count": 1
+    },
+    {
+     "ko": "션 스테르",
+     "count": 1
+    },
+    {
+     "ko": "션 스퇴르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1304,8 +1308,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 353,
-   "llm": 353
+   "collected": 357,
+   "llm": 357
   }
  },
  "llmErrors": []
