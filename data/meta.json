@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T04:27:39.430Z",
+ "updatedAt": "2026-11-10T05:25:19.527Z",
  "hot": [
   "carrick-manager-future",
   "man-utd-manager-future-20261102",
+  "vicens-lyon-appointment",
   "birmingham-affairs-tom-brady-stake",
-  "cubarsi-golden-boy-award",
-  "van-dijk-injury"
+  "de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "marca": {
@@ -88,8 +88,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 74
+   "added": 2,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -100,20 +100,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 83
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -136,13 +136,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -154,7 +154,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -178,7 +178,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -270,6 +270,10 @@
    "count": 6
   },
   {
+   "name": "브로비",
+   "count": 6
+  },
+  {
    "name": "콘사",
    "count": 5
   },
@@ -304,15 +308,11 @@
   {
    "name": "노리스",
    "count": 5
-  },
-  {
-   "name": "마누엘 노이어",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 246,
-  "singleArticleRate": 35,
+  "recentIssues": 248,
+  "singleArticleRate": 36,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -327,11 +327,11 @@
     "count": 33
    },
    {
-    "slug": "atletico-barcelona-2026-11-07",
-    "count": 30
+    "slug": "nottingham-forest-man-city-2026-11-05",
+    "count": 31
    },
    {
-    "slug": "nottingham-forest-man-city-2026-11-05",
+    "slug": "atletico-barcelona-2026-11-07",
     "count": 30
    },
    {
@@ -340,15 +340,15 @@
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
-    "count": 27
+    "count": 26
+   },
+   {
+    "slug": "crystal-palace-liverpool-2026-11-07",
+    "count": 25
    },
    {
     "slug": "de-miguel-incident",
     "count": 25
-   },
-   {
-    "slug": "crystal-palace-liverpool-2026-11-07",
-    "count": 24
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
@@ -1078,24 +1078,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 1
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 1
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gouweleeuw",
    "dictionary": null,
    "variants": [
@@ -1256,6 +1238,24 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 슈어",
+     "count": 1
+    },
+    {
+     "ko": "션 스테르",
+     "count": 1
+    },
+    {
+     "ko": "션 스퇴르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1304,8 +1304,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 375,
-   "llm": 375
+   "collected": 391,
+   "llm": 391
   }
  },
  "llmErrors": []
