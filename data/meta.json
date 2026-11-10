@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T19:59:18.928Z",
+ "updatedAt": "2026-11-10T20:43:25.932Z",
  "hot": [
   "carrick-manager-future",
+  "hacken-chelsea-2026-11-10",
   "nmecha-discipline",
-  "endrick-sporting-transfer",
-  "vicens-lyon-appointment",
-  "rio-ngumoha-bayern-transfer"
+  "mctominay-injury",
+  "real-madrid-paris-fc-2026-11-10"
  ],
  "days": [
   "2026-10-18",
@@ -35,19 +35,19 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 2,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 14,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,19 +83,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 2,
-   "authorRate": 84
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -107,7 +107,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -179,13 +179,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 14,
-   "added": 4,
+   "items": 13,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -312,8 +312,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 297,
-  "singleArticleRate": 50,
+  "recentIssues": 295,
+  "singleArticleRate": 49,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -459,20 +459,6 @@
    ]
   },
   {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 6
-    },
-    {
-     "ko": "훌리안",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -483,6 +469,20 @@
     {
      "ko": "마르쿠 실바",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 6
+    },
+    {
+     "ko": "훌리안",
+     "count": 3
     }
    ]
   },
@@ -523,20 +523,6 @@
     {
      "ko": "유리 틸레망스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 6
-    },
-    {
-     "ko": "클로프",
-     "count": 1
     }
    ]
   },
@@ -1173,6 +1159,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Pierre Kalulu",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 칼룰루",
+     "count": 1
+    },
+    {
+     "ko": "피에르 칼뤼",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1225,8 +1225,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 260,
-   "llm": 2892
+   "collected": 280,
+   "llm": 2912
   }
  },
  "llmErrors": []
