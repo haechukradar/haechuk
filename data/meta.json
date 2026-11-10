@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-10T06:21:12.886Z",
+ "updatedAt": "2026-11-10T07:42:29.634Z",
  "hot": [
   "carrick-manager-future",
+  "thomas-frank-crystal-palace-appointment",
   "man-utd-manager-future-20261102",
-  "birmingham-affairs-tom-brady-stake",
-  "de-miguel-incident"
+  "birmingham-affairs-tom-brady-stake"
  ],
  "days": [
   "2026-10-18",
@@ -32,20 +32,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 0,
+   "items": 81,
+   "added": 7,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
-   "added": 1,
+   "items": 56,
+   "added": 0,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -81,37 +81,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
-   "authorRate": 100
+   "added": 1,
+   "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -135,13 +135,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -165,7 +165,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -177,13 +177,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 6,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -269,6 +269,10 @@
    "count": 6
   },
   {
+   "name": "달롯",
+   "count": 6
+  },
+  {
    "name": "브로비",
    "count": 6
   },
@@ -303,19 +307,15 @@
   {
    "name": "파블로 파지스",
    "count": 5
-  },
-  {
-   "name": "노리스",
-   "count": 5
   }
  ],
  "issueHealth": {
-  "recentIssues": 248,
-  "singleArticleRate": 37,
+  "recentIssues": 246,
+  "singleArticleRate": 36,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 55
+    "count": 57
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -327,7 +327,7 @@
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 31
+    "count": 30
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -351,7 +351,7 @@
    },
    {
     "slug": "valencia-real-madrid-2026-11-06",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "anderlecht-club-brugge-2026-11-08",
@@ -396,11 +396,11 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "아이슬레",
@@ -473,34 +473,12 @@
    ]
   },
   {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 5
-    },
-    {
-     "ko": "세이지",
-     "count": 4
-    },
-    {
-     "ko": "피에르 세이지",
-     "count": 1
-    },
-    {
-     "ko": "사주 감독",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
     {
      "ko": "한스 바나켄",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "한스 반아케르",
@@ -533,16 +511,38 @@
    ]
   },
   {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 5
+    },
+    {
+     "ko": "세이지",
+     "count": 4
+    },
+    {
+     "ko": "피에르 세이지",
+     "count": 1
+    },
+    {
+     "ko": "사주 감독",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
     {
-     "ko": "디오고 달롯",
+     "ko": "달롯",
      "count": 4
     },
     {
-     "ko": "달롯",
-     "count": 3
+     "ko": "디오고 달롯",
+     "count": 4
     },
     {
      "ko": "디오구 달롯",
@@ -799,6 +799,24 @@
    ]
   },
   {
+   "en": "Nmecha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "은메차",
+     "count": 3
+    },
+    {
+     "ko": "은머차",
+     "count": 1
+    },
+    {
+     "ko": "음에차",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -826,24 +844,6 @@
     },
     {
      "ko": "사무엘 소아르스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스-반렛",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스-바닛",
      "count": 1
     }
    ]
@@ -938,20 +938,6 @@
     },
     {
      "ko": "마빈 콤퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nmecha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "은메차",
-     "count": 3
-    },
-    {
-     "ko": "은머차",
      "count": 1
     }
    ]
@@ -1062,6 +1048,20 @@
     },
     {
      "ko": "오카포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 2
+    },
+    {
+     "ko": "루카 윌리엄스-반렛",
      "count": 1
     }
    ]
@@ -1307,8 +1307,8 @@
    "llm": 936
   },
   "2026-11-10": {
-   "collected": 411,
-   "llm": 411
+   "collected": 449,
+   "llm": 449
   }
  },
  "llmErrors": []
