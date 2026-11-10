@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T19:02:55.426Z",
+ "updatedAt": "2026-11-10T19:59:18.928Z",
  "hot": [
   "carrick-manager-future",
-  "pochettino-man-utd-manager-future",
-  "konsa-injury",
-  "kompany-health-incident",
-  "nmecha-discipline"
+  "nmecha-discipline",
+  "endrick-sporting-transfer",
+  "vicens-lyon-appointment",
+  "rio-ngumoha-bayern-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -34,14 +34,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 85,
+   "items": 83,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 1,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 14,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,19 +83,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 2,
-   "authorRate": 86
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -107,7 +107,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -167,7 +167,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 1,
    "authorRate": 90
   },
   "star": {
@@ -179,13 +179,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 1,
+   "items": 14,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -313,7 +313,7 @@
  ],
  "issueHealth": {
   "recentIssues": 297,
-  "singleArticleRate": 51,
+  "singleArticleRate": 50,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -332,53 +332,19 @@
     "count": 20
    },
    {
-    "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 18
-   },
-   {
     "slug": "atletico-barcelona-2026-11-07",
     "count": 18
-   },
-   {
-    "slug": "de-miguel-incident",
-    "count": 16
    }
   ]
  },
  "nameReport": [
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 9
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 2
-    },
-    {
-     "ko": "자이슬레",
-     "count": 1
-    },
-    {
-     "ko": "마티아스 자이슬레",
-     "count": 1
-    },
-    {
-     "ko": "재슬레",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "세이지",
@@ -421,6 +387,28 @@
     {
      "ko": "반악넨",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 9
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 2
+    },
+    {
+     "ko": "마티아스 자이슬레",
+     "count": 1
+    },
+    {
+     "ko": "재슬레",
+     "count": 1
     }
    ]
   },
@@ -905,20 +893,6 @@
    ]
   },
   {
-   "en": "Irankunda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이란쿤다",
-     "count": 2
-    },
-    {
-     "ko": "이라쿤다",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Bruno Genesio",
    "dictionary": null,
    "variants": [
@@ -946,34 +920,6 @@
     },
     {
      "ko": "로드리고 모라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 2
-    },
-    {
-     "ko": "던 번",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mika Godts",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미카 고츠",
-     "count": 2
-    },
-    {
-     "ko": "미카 흐흐츠",
      "count": 1
     }
    ]
@@ -1029,11 +975,11 @@
      "count": 1
     },
     {
-     "ko": "마르쿠스 튀람",
+     "ko": "마르퀴스 튀람",
      "count": 1
     },
     {
-     "ko": "마르퀴스 튀람",
+     "ko": "마르쿠스 튀람",
      "count": 1
     }
    ]
@@ -1075,7 +1021,7 @@
    ]
   },
   {
-   "en": "Éli Junior Kroupi",
+   "en": "Eli Junior Kroupi",
    "dictionary": null,
    "variants": [
     {
@@ -1112,20 +1058,6 @@
     },
     {
      "ko": "무리요",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Karl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "칼",
-     "count": 1
-    },
-    {
-     "ko": "카를",
      "count": 1
     }
    ]
@@ -1185,6 +1117,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Uli Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "울리 회네스",
+     "count": 1
+    },
+    {
+     "ko": "울리 회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Benjamin Nygren",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "벤야민 뉘그렌",
+     "count": 1
+    },
+    {
+     "ko": "베냐민 뉴그렌",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Irankunda",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이란쿤다",
+     "count": 1
+    },
+    {
+     "ko": "이라쿤다",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Filipe Coelho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "필리프 코엘류",
+     "count": 1
+    },
+    {
+     "ko": "필리페 코엘류",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1237,8 +1225,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 206,
-   "llm": 2838
+   "collected": 260,
+   "llm": 2892
   }
  },
  "llmErrors": []
