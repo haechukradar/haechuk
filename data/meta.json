@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T14:45:16.214Z",
+ "updatedAt": "2026-11-10T15:38:02.407Z",
  "hot": [
   "kompany-health-incident",
   "nmecha-discipline",
   "carrick-manager-future",
-  "rc-lens-manager-future",
-  "konsa-injury"
+  "man-city-affairs-charges-20261109",
+  "crystal-palace-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -28,13 +28,14 @@
   "2026-11-07",
   "2026-11-08",
   "2026-11-09",
-  "2026-11-10"
+  "2026-11-10",
+  "2026-11-11"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -46,7 +47,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,38 +83,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 83
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -130,13 +131,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,26 +149,26 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 4,
-   "authorRate": 96
+   "items": 29,
+   "added": 5,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -178,13 +179,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 1,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -311,12 +312,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 257,
-  "singleArticleRate": 39,
+  "recentIssues": 260,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 75
+    "count": 74
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -324,7 +325,7 @@
    },
    {
     "slug": "nottingham-forest-man-city-2026-11-05",
-    "count": 28
+    "count": 27
    },
    {
     "slug": "arsenal-hull-2026-11-07",
@@ -355,6 +356,10 @@
     "count": 19
    },
    {
+    "slug": "crystal-palace-manager-future",
+    "count": 15
+   },
+   {
     "slug": "vitoria-guimaraes-porto-2026-11-08",
     "count": 15
    }
@@ -379,6 +384,28 @@
     },
     {
      "ko": "자일",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 7
+    },
+    {
+     "ko": "세이지",
+     "count": 4
+    },
+    {
+     "ko": "피에르 세이지",
+     "count": 1
+    },
+    {
+     "ko": "사주 감독",
      "count": 1
     }
    ]
@@ -463,28 +490,6 @@
     },
     {
      "ko": "반아나켄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 5
-    },
-    {
-     "ko": "세이지",
-     "count": 4
-    },
-    {
-     "ko": "피에르 세이지",
-     "count": 1
-    },
-    {
-     "ko": "사주 감독",
      "count": 1
     }
    ]
@@ -644,6 +649,24 @@
    ]
   },
   {
+   "en": "Musiala",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무시알라",
+     "count": 3
+    },
+    {
+     "ko": "뮈지알라",
+     "count": 2
+    },
+    {
+     "ko": "자말 무시알라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nmecha",
    "dictionary": null,
    "variants": [
@@ -716,24 +739,6 @@
    ]
   },
   {
-   "en": "Musiala",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무시알라",
-     "count": 3
-    },
-    {
-     "ko": "자말 무시알라",
-     "count": 1
-    },
-    {
-     "ko": "뮈지알라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -748,6 +753,20 @@
     {
      "ko": "비토르 브루누",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alisson Becker",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알리송",
+     "count": 3
+    },
+    {
+     "ko": "알리송 베커",
+     "count": 2
     }
    ]
   },
@@ -964,20 +983,6 @@
    ]
   },
   {
-   "en": "Alisson Becker",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "알리송",
-     "count": 3
-    },
-    {
-     "ko": "알리송 베커",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gosens",
    "dictionary": null,
    "variants": [
@@ -1144,20 +1149,6 @@
    ]
   },
   {
-   "en": "Eberl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에베를",
-     "count": 2
-    },
-    {
-     "ko": "에벌",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Patrick Videira",
    "dictionary": null,
    "variants": [
@@ -1248,6 +1239,24 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Sean Steur",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "션 슈어",
+     "count": 1
+    },
+    {
+     "ko": "션 스테르",
+     "count": 1
+    },
+    {
+     "ko": "션 스퇴르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1298,6 +1307,10 @@
   "2026-11-10": {
    "collected": 758,
    "llm": 758
+  },
+  "2026-11-11": {
+   "collected": 38,
+   "llm": 38
   }
  },
  "llmErrors": []
