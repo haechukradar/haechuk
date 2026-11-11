@@ -1,11 +1,10 @@
 {
- "updatedAt": "2026-11-11T09:28:24.766Z",
+ "updatedAt": "2026-11-11T10:28:56.911Z",
  "hot": [
-  "carrick-manager-future",
   "pochettino-man-utd-manager-future",
+  "carrick-manager-future",
   "mctominay-injury",
-  "newcastle-manager-future",
-  "man-city-inter-2026-11-10"
+  "newcastle-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -47,7 +46,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -59,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,25 +82,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 4,
    "authorRate": 96
   },
   "lecho": {
@@ -131,25 +130,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -173,19 +172,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 2,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -312,12 +311,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 266,
+  "recentIssues": 265,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 112
+    "count": 111
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -334,6 +333,10 @@
    {
     "slug": "atletico-barcelona-2026-11-07",
     "count": 17
+   },
+   {
+    "slug": "pochettino-man-utd-manager-future",
+    "count": 15
    }
   ]
  },
@@ -617,20 +620,6 @@
    ]
   },
   {
-   "en": "Walter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "월터",
-     "count": 4
-    },
-    {
-     "ko": "발터",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sage",
    "dictionary": null,
    "variants": [
@@ -658,6 +647,20 @@
     },
     {
      "ko": "호르헤 제주스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Walter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "월터",
+     "count": 3
+    },
+    {
+     "ko": "발터",
      "count": 1
     }
    ]
@@ -1213,8 +1216,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 494,
-   "llm": 3126
+   "collected": 523,
+   "llm": 3155
   }
  },
  "llmErrors": []

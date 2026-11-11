@@ -1,5 +1,423 @@
 [
  {
+  "slug": "fahrner-injury",
+  "mode": "llm",
+  "titleKo": "파너 부상으로 수주 결장",
+  "createdAt": "2026-11-11T10:20:34.000Z",
+  "updatedAt": "2026-11-11T10:20:34.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "fahrner",
+   "saarbrücken"
+  ],
+  "articles": [
+   {
+    "id": "e0d9fd473635",
+    "url": "https://www.kicker.de/stammkraft-fahrner-fehlt-dem-1-fc-saarbruecken-wochenlang-1270620/artikel#omrss",
+    "title": "Stammkraft Fahrner fehlt dem 1. FC Saarbrücken wochenlang",
+    "ko": "파너, 1. FC 자르브뤼켄 몇 주간 결장",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T10:20:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.95,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-11T10:20:34.000Z",
+   "viaQuote": false
+  },
+  "headline": "Stammkraft Fahrner fehlt dem 1. FC Saarbrücken wochenlang"
+ },
+ {
+  "slug": "pochettino-man-utd-manager-future",
+  "mode": "llm",
+  "titleKo": "포체티노 맨유 감독 부임설",
+  "createdAt": "2026-11-10T17:08:58.000Z",
+  "updatedAt": "2026-11-11T10:00:36.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "tottenham",
+   "chelsea"
+  ],
+  "players": [
+   "안토니 로빈슨",
+   "로빈슨"
+  ],
+  "sig": [
+   "pochettino",
+   "antonee",
+   "robinson"
+  ],
+  "articles": [
+   {
+    "id": "1b2f149c713e",
+    "url": "https://www.nytimes.com/athletic/7770289/2026/11/10/mauricio-pochettino-manchester-united-antonee-robinson-usmnt/",
+    "title": "USMNT unaffected by Pochettino-to-Manchester United reports, Antonee Robinson says",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-10T17:08:58.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "안토니 로빈슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "08a7e7ac88bb",
+    "url": "https://www.mirror.co.uk/sport/football/news/carrick-manchester-united-sack-pochettino-37863852",
+    "title": "Damning total cost of Man Utd sacking Michael Carrick for Mauricio Pochettino",
+    "ko": "맨유, 캐릭 경질 후 포체티노 선임에 든 막대한 비용",
+    "source": "mirror",
+    "publishedAt": "2026-11-10T18:24:41.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "d32b6e3bacb8",
+    "url": "https://www.lequipe.fr/Football/Video/Etats-unis-antonee-robinson-reagit-aux-rumeurs-d-un-depart-de-pochettino-a-manchester-united-nous-avons-beaucoup-de-chance-d-avoir-un-entraineur-de-classe-mondi/20245300#at_medium=RSS_feeds",
+    "title": "Robinson réagit aux rumeurs d’un départ de Pochettino",
+    "ko": "로빈슨, 포체티노 경질설에 반응",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T21:17:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "로빈슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "82b01ea848a1",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/mauricio-pochettino-could-raid-tottenham-34889791",
+    "title": "Mauricio Pochettino could raid Tottenham and Chelsea for five stars if he takes Man Utd job",
+    "ko": "포체티노, 맨유 감독 부임 시 토트넘·첼시 스타 5명 영입 가능성",
+    "source": "fblondon",
+    "publishedAt": "2026-11-11T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "tottenham",
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "b461606192f0",
+    "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
+    "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
+    "ko": "맨유, 포체티노 계약 합의 근접…캐릭 출근",
+    "source": "sky",
+    "publishedAt": "2026-11-11T08:28:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "23bad2c11a6c",
+    "url": "https://www.thesun.co.uk/sport/40986772/man-utd-pochettino-manager-carrick-sacked/",
+    "title": "Man Utd finalising deal for Mauricio Pochettino to become new manager with Michael Carrick set to be sacked",
+    "ko": "맨유, 포체티노 영입 마무리…캐릭 경질 임박",
+    "source": "sun",
+    "publishedAt": "2026-11-11T08:31:51.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jamie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "164dbc74fbd0",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37864650",
+    "title": "Man Utd finalising Mauricio Pochettino deal to replace Michael Carrick as manager",
+    "ko": "맨유, 포체티노와 계약 마무리 단계…캐릭 대체",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T08:35:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   },
+   {
+    "id": "4e2563b61240",
+    "url": "https://www.skysports.com/football/news/12040/13610578/manchester-united-and-mauricio-pochettino-would-argentine-be-the-perfect-fit-or-just-another-manager-to-fall-foul-of-old-trafford-chaos",
+    "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
+    "ko": "맨유의 포체티노 추적, 원점으로 돌아와…성공할까",
+    "source": "sky",
+    "publishedAt": "2026-11-11T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "242896db49e7",
+    "url": "https://www.nytimes.com/athletic/7770113/2026/11/11/mauricio-pochettino-manchester-united-tactics/",
+    "title": "What Mauricio Pochettino could bring to Man Utd: Leadership, tactical flexibility and a trust in youth",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T09:15:11.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dec01fd95ea7",
+    "url": "https://www.hln.be/premier-league/in-afwachting-van-besluit-over-michael-carrick-manchester-united-nadert-akkoord-met-mauricio-pochettino-als-mogelijke-opvolger~ae1a71bc/",
+    "title": "In afwachting van besluit over Michael Carrick: “Manchester United nadert akkoord met Mauricio Pochettino als mogelijke opvolger”",
+    "ko": "캐릭 거취 결정 앞두고 맨유, 포체티노와 합의 근접 보도",
+    "source": "hln",
+    "publishedAt": "2026-11-11T09:22:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Niel Van Essche, Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "dba6d203b61a",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-could-hire-four-34893633",
+    "title": "Man United could hire four backroom staff for Mauricio Pochettino if he replaces Michael Carrick",
+    "ko": "맨유, 포체티노 부임 시 코치진 네 명 추가 채용 가능",
+    "source": "men",
+    "publishedAt": "2026-11-11T09:25:09.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "141b245cf4a6",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-mauricio-pochettino-right-man-34893771",
+    "title": "POLL: Is Mauricio Pochettino the right man for Manchester United if Michael Carrick is sacked?",
+    "ko": "캐릭 경질 시 포체티노가 맨유 적임자인지 독자 투표",
+    "source": "men",
+    "publishedAt": "2026-11-11T09:29:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "15eff89fdb5d",
+    "url": "https://www.footballinsider247.com/manchester-united/next-manager/sources-man-united-agree-mauricio-pochettino-terms-three-others-heading-to-old-trafford",
+    "title": "Sources: Man United agree Mauricio Pochettino terms, three others heading to Old Trafford",
+    "ko": "맨유, 포체티노와 조건 합의 보도…감독 교체 임박",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-11T09:31:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "539cc0269218",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34893744",
+    "title": "Mauricio Pochettino's promise about Man United and huge clue over first arrival",
+    "ko": "포체티노, 맨유 관련 약속과 첫 영입 힌트",
+    "source": "men",
+    "publishedAt": "2026-11-11T09:44:21.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "31a02f3c967f",
+    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+    "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
+    "ko": "포체티노의 맨유 관심, 미국 시장에 파장",
+    "source": "guardian",
+    "publishedAt": "2026-11-11T10:00:36.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jeff Rueter",
+    "transfer": null
+   }
+  ],
+  "recentSources": 9,
+  "sourceCount": 10,
+  "score": 10.62,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-10T17:08:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "What Mauricio Pochettino could bring to Man Utd: Leadership, tactical flexibility and a trust in youth"
+ },
+ {
+  "slug": "hincapie-injury",
+  "mode": "llm",
+  "titleKo": "힌카피에 이중 부상 상태",
+  "createdAt": "2026-11-11T09:50:30.000Z",
+  "updatedAt": "2026-11-11T09:50:30.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "피에로 힌카피에"
+  ],
+  "sig": [
+   "piero",
+   "hincapie"
+  ],
+  "articles": [
+   {
+    "id": "53ef3f70d638",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-news-piero-hincapie-injury-34894259",
+    "title": "Arsenal star Piero Hincapie clarifies injury status after double blow and freak accident",
+    "ko": "힌카피에, 이중 부상 및 사고 후 상태 설명",
+    "source": "fblondon",
+    "publishedAt": "2026-11-11T09:50:30.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "피에로 힌카피에"
+    ],
+    "playerTags": [],
+    "author": "Ryan Taylor",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.79,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-11T09:50:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Arsenal star Piero Hincapie clarifies injury status after double blow and freak accident"
+ },
+ {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭 맨유 감독 거취, 포체티노 부임 임박",
@@ -2336,7 +2754,7 @@
   ],
   "recentSources": 8,
   "sourceCount": 17,
-  "score": 11.02,
+  "score": 9.25,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2349,212 +2767,6 @@
    "viaQuote": false
   },
   "headline": "Man Utd open talks with Pochettino about replacing Carrick"
- },
- {
-  "slug": "pochettino-man-utd-manager-future",
-  "mode": "llm",
-  "titleKo": "포체티노 맨유 감독 부임설",
-  "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-11T09:15:11.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "tottenham",
-   "chelsea"
-  ],
-  "players": [
-   "안토니 로빈슨",
-   "로빈슨"
-  ],
-  "sig": [
-   "pochettino",
-   "antonee",
-   "robinson"
-  ],
-  "articles": [
-   {
-    "id": "1b2f149c713e",
-    "url": "https://www.nytimes.com/athletic/7770289/2026/11/10/mauricio-pochettino-manchester-united-antonee-robinson-usmnt/",
-    "title": "USMNT unaffected by Pochettino-to-Manchester United reports, Antonee Robinson says",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-10T17:08:58.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "안토니 로빈슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "08a7e7ac88bb",
-    "url": "https://www.mirror.co.uk/sport/football/news/carrick-manchester-united-sack-pochettino-37863852",
-    "title": "Damning total cost of Man Utd sacking Michael Carrick for Mauricio Pochettino",
-    "ko": "맨유, 캐릭 경질 후 포체티노 선임에 든 막대한 비용",
-    "source": "mirror",
-    "publishedAt": "2026-11-10T18:24:41.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "d32b6e3bacb8",
-    "url": "https://www.lequipe.fr/Football/Video/Etats-unis-antonee-robinson-reagit-aux-rumeurs-d-un-depart-de-pochettino-a-manchester-united-nous-avons-beaucoup-de-chance-d-avoir-un-entraineur-de-classe-mondi/20245300#at_medium=RSS_feeds",
-    "title": "Robinson réagit aux rumeurs d’un départ de Pochettino",
-    "ko": "로빈슨, 포체티노 경질설에 반응",
-    "source": "lequipe",
-    "publishedAt": "2026-11-10T21:17:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "로빈슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "82b01ea848a1",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/mauricio-pochettino-could-raid-tottenham-34889791",
-    "title": "Mauricio Pochettino could raid Tottenham and Chelsea for five stars if he takes Man Utd job",
-    "ko": "포체티노, 맨유 감독 부임 시 토트넘·첼시 스타 5명 영입 가능성",
-    "source": "fblondon",
-    "publishedAt": "2026-11-11T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "tottenham",
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null
-   },
-   {
-    "id": "b461606192f0",
-    "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
-    "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
-    "ko": "맨유, 포체티노 계약 합의 근접…캐릭 출근",
-    "source": "sky",
-    "publishedAt": "2026-11-11T08:28:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "23bad2c11a6c",
-    "url": "https://www.thesun.co.uk/sport/40986772/man-utd-pochettino-manager-carrick-sacked/",
-    "title": "Man Utd finalising deal for Mauricio Pochettino to become new manager with Michael Carrick set to be sacked",
-    "ko": "맨유, 포체티노 영입 마무리…캐릭 경질 임박",
-    "source": "sun",
-    "publishedAt": "2026-11-11T08:31:51.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jamie Gordon",
-    "transfer": null
-   },
-   {
-    "id": "164dbc74fbd0",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37864650",
-    "title": "Man Utd finalising Mauricio Pochettino deal to replace Michael Carrick as manager",
-    "ko": "맨유, 포체티노와 계약 마무리 단계…캐릭 대체",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T08:35:08.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": null
-   },
-   {
-    "id": "4e2563b61240",
-    "url": "https://www.skysports.com/football/news/12040/13610578/manchester-united-and-mauricio-pochettino-would-argentine-be-the-perfect-fit-or-just-another-manager-to-fall-foul-of-old-trafford-chaos",
-    "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
-    "ko": "맨유의 포체티노 추적, 원점으로 돌아와…성공할까",
-    "source": "sky",
-    "publishedAt": "2026-11-11T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "242896db49e7",
-    "url": "https://www.nytimes.com/athletic/7770113/2026/11/11/mauricio-pochettino-manchester-united-tactics/",
-    "title": "What Mauricio Pochettino could bring to Man Utd: Leadership, tactical flexibility and a trust in youth",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-11T09:15:11.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 6,
-  "score": 6.69,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-10T17:08:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "What Mauricio Pochettino could bring to Man Utd: Leadership, tactical flexibility and a trust in youth"
  },
  {
   "slug": "mctominay-injury",
@@ -2739,9 +2951,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 3,
   "sourceCount": 8,
-  "score": 3.6,
+  "score": 2.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2797,7 +3009,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.81,
+  "score": 1.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2879,7 +3091,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.51,
+  "score": 1.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3123,7 +3335,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3464,7 +3676,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4282,7 +4494,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 1.2,
+  "score": 1,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4366,7 +4578,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.33,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4435,7 +4647,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.3,
+  "score": 1.09,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4500,7 +4712,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.3,
+  "score": 1.09,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4563,7 +4775,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.21,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4622,7 +4834,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4740,7 +4952,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 1.44,
+  "score": 1.21,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4789,7 +5001,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.41,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4888,7 +5100,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4950,7 +5162,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5077,7 +5289,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.33,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5199,9 +5411,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5292,9 +5504,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.7,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5406,9 +5618,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5509,9 +5721,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
