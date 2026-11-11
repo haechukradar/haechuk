@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T12:24:05.511Z",
+ "updatedAt": "2026-11-11T13:42:58.900Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "carrick-manager-future",
   "liverpool-arsenal-2026-11-10",
   "mbappe-injury",
-  "courtois-mourinho-relationship"
+  "man-utd-affairs-ratcliffe-criticism"
  ],
  "days": [
   "2026-10-18",
@@ -34,8 +34,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 84,
-   "added": 4,
+   "items": 83,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -59,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,13 +83,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 3,
    "authorRate": 94
   },
   "fblondon": {
@@ -101,13 +101,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 16,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,20 +155,20 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
-   "authorRate": 97
+   "added": 5,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -179,13 +179,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
-   "added": 1,
+   "items": 12,
+   "added": 9,
    "authorRate": 0
   }
  },
@@ -263,16 +263,16 @@
    "count": 10
   },
   {
+   "name": "마두에케",
+   "count": 10
+  },
+  {
    "name": "반 다이크",
    "count": 10
   },
   {
    "name": "도르구",
    "count": 10
-  },
-  {
-   "name": "마두에케",
-   "count": 9
   },
   {
    "name": "그라벤베르흐",
@@ -303,40 +303,36 @@
    "count": 8
   },
   {
-   "name": "트루빈",
+   "name": "수비멘디",
    "count": 8
   },
   {
-   "name": "티에르노 바리",
+   "name": "트루빈",
    "count": 8
   }
  ],
  "issueHealth": {
-  "recentIssues": 261,
+  "recentIssues": 256,
   "singleArticleRate": 46,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 113
+    "count": 114
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 38
+    "count": 37
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 20
-   },
-   {
-    "slug": "chelsea-sunderland-2026-11-08",
-    "count": 17
+    "count": 25
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
     "count": 16
    },
    {
-    "slug": "crystal-palace-liverpool-2026-11-07",
+    "slug": "crystal-palace-manager-future",
     "count": 15
    }
   ]
@@ -449,11 +445,11 @@
      "count": 4
     },
     {
-     "ko": "한스 바나켄",
-     "count": 4
+     "ko": "한스 반아켄",
+     "count": 2
     },
     {
-     "ko": "한스 반아켄",
+     "ko": "한스 바나켄",
      "count": 2
     },
     {
@@ -635,20 +631,6 @@
    ]
   },
   {
-   "en": "Walter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "월터",
-     "count": 3
-    },
-    {
-     "ko": "발터",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Óskarsson",
    "dictionary": null,
    "variants": [
@@ -705,6 +687,38 @@
    ]
   },
   {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 2
+    },
+    {
+     "ko": "데이비드 모이스",
+     "count": 1
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Woltemade",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "볼테마데",
+     "count": 3
+    },
+    {
+     "ko": "우데모",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -732,34 +746,6 @@
     },
     {
      "ko": "구웰레이우",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Civeja",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "시베야",
-     "count": 2
-    },
-    {
-     "ko": "치베자",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Uli Hoeness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "울리 회네스",
-     "count": 2
-    },
-    {
-     "ko": "회체스",
      "count": 1
     }
    ]
@@ -807,20 +793,6 @@
    ]
   },
   {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 2
-    },
-    {
-     "ko": "데이비드 모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -830,6 +802,20 @@
     },
     {
      "ko": "야닉 카위자크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Walter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "월터",
+     "count": 2
+    },
+    {
+     "ko": "발터",
      "count": 1
     }
    ]
@@ -977,57 +963,15 @@
    ]
   },
   {
-   "en": "Vanaken",
+   "en": "Uli Hoeness",
    "dictionary": null,
    "variants": [
     {
-     "ko": "반아케",
+     "ko": "회체스",
      "count": 1
     },
     {
-     "ko": "바나켄",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Eliezer Mayenda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엘리에제르 마옌다",
-     "count": 1
-    },
-    {
-     "ko": "엘리에제 마옌다",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Djeidi Gassama",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디제이디 가사마",
-     "count": 1
-    },
-    {
-     "ko": "지아이디 가사마",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Arsene Wenger",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "웽거",
-     "count": 1
-    },
-    {
-     "ko": "벵거",
+     "ko": "울리 회네스",
      "count": 1
     }
    ]
@@ -1157,6 +1101,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Joshua Zirkzee",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "체르클레",
+     "count": 1
+    },
+    {
+     "ko": "지르크지",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브루노 즈네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 주네지오",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Zor",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "촐",
+     "count": 1
+    },
+    {
+     "ko": "조르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "El-Mala",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엘말라",
+     "count": 1
+    },
+    {
+     "ko": "엘-말라",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1209,8 +1209,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 608,
-   "llm": 3240
+   "collected": 677,
+   "llm": 3309
   }
  },
  "llmErrors": []
