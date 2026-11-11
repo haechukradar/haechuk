@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T15:32:04.698Z",
+ "updatedAt": "2026-11-11T16:27:20.498Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "carrick-manager-future",
@@ -35,20 +35,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 0,
+   "items": 84,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 2,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -60,7 +60,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -72,7 +72,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -84,25 +84,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 92
+   "added": 3,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 96
   },
   "lecho": {
@@ -114,7 +114,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 3,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -132,13 +132,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -168,25 +168,25 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 2,
    "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -276,6 +276,10 @@
    "count": 10
   },
   {
+   "name": "돈나룸마",
+   "count": 10
+  },
+  {
    "name": "도르구",
    "count": 10
   },
@@ -285,10 +289,6 @@
   },
   {
    "name": "트로사르",
-   "count": 9
-  },
-  {
-   "name": "돈나룸마",
    "count": 9
   },
   {
@@ -313,20 +313,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 244,
-  "singleArticleRate": 47,
+  "recentIssues": 242,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 113
+    "count": 116
+   },
+   {
+    "slug": "pochettino-man-utd-manager-future",
+    "count": 37
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
     "count": 33
-   },
-   {
-    "slug": "pochettino-man-utd-manager-future",
-    "count": 32
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -339,36 +339,6 @@
   ]
  },
  "nameReport": [
-  {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 7
-    },
-    {
-     "ko": "세이지",
-     "count": 3
-    },
-    {
-     "ko": "피에르 사지",
-     "count": 2
-    },
-    {
-     "ko": "피에르 사게",
-     "count": 2
-    },
-    {
-     "ko": "피에르 세이지",
-     "count": 1
-    },
-    {
-     "ko": "사지",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Matthias Jaissle",
    "dictionary": null,
@@ -387,6 +357,32 @@
     },
     {
      "ko": "재슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 7
+    },
+    {
+     "ko": "세이지",
+     "count": 3
+    },
+    {
+     "ko": "피에르 사게",
+     "count": 2
+    },
+    {
+     "ko": "피에르 사지",
+     "count": 1
+    },
+    {
+     "ko": "피에르 세이지",
      "count": 1
     }
    ]
@@ -447,28 +443,6 @@
     },
     {
      "ko": "마르쿠 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바나켄",
-     "count": 3
-    },
-    {
-     "ko": "한스 반아켄",
-     "count": 2
-    },
-    {
-     "ko": "반악넨",
-     "count": 2
-    },
-    {
-     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -622,15 +596,19 @@
    ]
   },
   {
-   "en": "Sage",
+   "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
     {
-     "ko": "세이지",
-     "count": 4
+     "ko": "한스 반아켄",
+     "count": 2
     },
     {
-     "ko": "사지",
+     "ko": "반악넨",
+     "count": 2
+    },
+    {
+     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -780,6 +758,20 @@
    ]
   },
   {
+   "en": "Senny Mayulu",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세니 마율루",
+     "count": 2
+    },
+    {
+     "ko": "세니 마윜루",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
@@ -821,24 +813,6 @@
     },
     {
      "ko": "마르쿠스 튀람",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Brian Brobbey",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브라이언 브로베이",
-     "count": 1
-    },
-    {
-     "ko": "브라이언 브로비",
-     "count": 1
-    },
-    {
-     "ko": "브로비",
      "count": 1
     }
    ]
@@ -1006,20 +980,6 @@
    ]
   },
   {
-   "en": "Adrien Rabiot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아드리앙 라비오",
-     "count": 1
-    },
-    {
-     "ko": "아드리앵 라비오",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Asllani",
    "dictionary": null,
    "variants": [
@@ -1029,20 +989,6 @@
     },
     {
      "ko": "아슬라니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Patrick Videira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "패트릭 비에이라",
-     "count": 1
-    },
-    {
-     "ko": "파트리크 비데이라",
      "count": 1
     }
    ]
@@ -1146,15 +1092,57 @@
    ]
   },
   {
-   "en": "Rodrigo Muniz",
+   "en": "Brian Brobbey",
    "dictionary": null,
    "variants": [
     {
-     "ko": "로드리고 무니즈",
+     "ko": "브라이언 브로베이",
      "count": 1
     },
     {
-     "ko": "로드리고 무니스",
+     "ko": "브로비",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Conor Gallagher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "코너 갤러거",
+     "count": 1
+    },
+    {
+     "ko": "콘어 갤러거",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diogo Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오고 코스타",
+     "count": 1
+    },
+    {
+     "ko": "디오구 코스타",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mika Godts",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미카 흐흐츠",
+     "count": 1
+    },
+    {
+     "ko": "미카 고츠",
      "count": 1
     }
    ]
@@ -1214,8 +1202,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 37,
-   "llm": 37
+   "collected": 82,
+   "llm": 82
   }
  },
  "llmErrors": []
