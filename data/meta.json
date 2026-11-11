@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T06:08:36.681Z",
+ "updatedAt": "2026-11-11T07:25:46.288Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
   "mctominay-injury",
-  "carrick-manager-future",
+  "pochettino-man-utd-manager-future",
   "man-city-inter-2026-11-10",
-  "hacken-chelsea-2026-11-10"
+  "carrick-manager-future",
+  "bayern-psg-women-2026-11-10"
  ],
  "days": [
   "2026-10-18",
@@ -35,13 +35,13 @@
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 56,
-   "added": 0,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
@@ -59,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,31 +83,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 2,
    "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -131,25 +131,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -184,8 +184,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 6,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -317,19 +317,19 @@
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 100
+    "count": 101
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
     "count": 39
    },
    {
-    "slug": "chelsea-sunderland-2026-11-08",
+    "slug": "crystal-palace-liverpool-2026-11-07",
     "count": 19
    },
    {
-    "slug": "crystal-palace-liverpool-2026-11-07",
-    "count": 19
+    "slug": "chelsea-sunderland-2026-11-08",
+    "count": 18
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -374,11 +374,11 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "마티아스 자이슬레",
@@ -487,6 +487,28 @@
    ]
   },
   {
+   "en": "Youri Tielemans",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "틸레망스",
+     "count": 3
+    },
+    {
+     "ko": "틸레만스",
+     "count": 2
+    },
+    {
+     "ko": "유리 틸레망스",
+     "count": 2
+    },
+    {
+     "ko": "유리 틸르망스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Musiala",
    "dictionary": null,
    "variants": [
@@ -523,24 +545,6 @@
     {
      "ko": "퀼크루크",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Youri Tielemans",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "틸레망스",
-     "count": 3
-    },
-    {
-     "ko": "틸레만스",
-     "count": 2
-    },
-    {
-     "ko": "유리 틸레망스",
-     "count": 2
     }
    ]
   },
@@ -627,20 +631,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 4
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sage",
    "dictionary": null,
    "variants": [
@@ -668,6 +658,24 @@
     },
     {
      "ko": "호르헤 제주스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 2
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 1
+    },
+    {
+     "ko": "데이비드 모이스",
      "count": 1
     }
    ]
@@ -710,6 +718,20 @@
     },
     {
      "ko": "티에르노 배리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "JJ Gabriel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "JJ 가브리엘",
+     "count": 3
+    },
+    {
+     "ko": "J.J. 가브리엘",
      "count": 1
     }
    ]
@@ -784,24 +806,6 @@
     },
     {
      "ko": "회체스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데이비드 모예스",
-     "count": 1
-    },
-    {
-     "ko": "데이비드 모이스",
-     "count": 1
-    },
-    {
-     "ko": "모예스",
      "count": 1
     }
    ]
@@ -953,15 +957,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "아우렐리앙 추아메니",
+     "count": 1
+    },
+    {
      "ko": "오렐리앵 추아메니",
      "count": 1
     },
     {
      "ko": "튀아메니",
-     "count": 1
-    },
-    {
-     "ko": "아우렐리앙 추아메니",
      "count": 1
     }
    ]
@@ -1213,8 +1217,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 400,
-   "llm": 3032
+   "collected": 434,
+   "llm": 3066
   }
  },
  "llmErrors": []
