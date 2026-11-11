@@ -1,8 +1,9 @@
 {
- "updatedAt": "2026-11-11T10:28:56.911Z",
+ "updatedAt": "2026-11-11T11:26:19.887Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "carrick-manager-future",
+  "liverpool-arsenal-2026-11-10",
   "mctominay-injury",
   "newcastle-manager-future"
  ],
@@ -34,7 +35,7 @@
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -46,7 +47,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -70,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,31 +83,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 2,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -124,19 +125,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,37 +149,37 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 3,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -215,7 +216,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 20
+   "count": 21
   },
   {
    "name": "알리송",
@@ -242,7 +243,15 @@
    "count": 11
   },
   {
+   "name": "웨인 루니",
+   "count": 11
+  },
+  {
    "name": "달롯",
+   "count": 11
+  },
+  {
+   "name": "트레솔디",
    "count": 11
   },
   {
@@ -255,14 +264,6 @@
   },
   {
    "name": "반 다이크",
-   "count": 10
-  },
-  {
-   "name": "웨인 루니",
-   "count": 10
-  },
-  {
-   "name": "트레솔디",
    "count": 10
   },
   {
@@ -311,12 +312,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 265,
-  "singleArticleRate": 48,
+  "recentIssues": 262,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 111
+    "count": 113
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
@@ -336,7 +337,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 15
+    "count": 16
    }
   ]
  },
@@ -666,24 +667,6 @@
    ]
   },
   {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 2
-    },
-    {
-     "ko": "데이비드 모예스",
-     "count": 1
-    },
-    {
-     "ko": "데이비드 모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Óskarsson",
    "dictionary": null,
    "variants": [
@@ -851,6 +834,20 @@
     },
     {
      "ko": "슈옐데루프",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 2
+    },
+    {
+     "ko": "데이비드 모이스",
      "count": 1
     }
    ]
@@ -1026,20 +1023,6 @@
    ]
   },
   {
-   "en": "Marvin Compper",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르빈 콤퍼",
-     "count": 1
-    },
-    {
-     "ko": "마빈 콤퍼",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Djeidi Gassama",
    "dictionary": null,
    "variants": [
@@ -1164,6 +1147,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "De Jong",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 용",
+     "count": 1
+    },
+    {
+     "ko": "더용",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1216,8 +1213,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 523,
-   "llm": 3155
+   "collected": 569,
+   "llm": 3201
   }
  },
  "llmErrors": []
