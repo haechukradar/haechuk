@@ -1,124 +1,17 @@
 [
  {
-  "slug": "kompany-health-incident",
-  "mode": "llm",
-  "titleKo": "콤파니 감독 건강 이상, 뮌헨 훈련장 포착",
-  "createdAt": "2026-11-10T11:05:00.000Z",
-  "updatedAt": "2026-11-11T14:26:40.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "노이어"
-  ],
-  "sig": [
-   "vincent",
-   "kompany"
-  ],
-  "articles": [
-   {
-    "id": "1cac2873fe5a",
-    "url": "https://www.hln.be/bundesliga/exclusief-de-eerste-beelden-van-gehavende-vincent-kompany-op-oefencomplex-van-bayern-munchen-na-hersenvliesirritatie~a546b0da/",
-    "title": "EXCLUSIEF. De eerste beelden van gehavende Vincent Kompany op oefencomplex van Bayern München na hersenvliesirritatie",
-    "ko": "독점: 뇌수막 염증 후 콤파니, 바이에른 훈련장서 첫 포착",
-    "source": "hln",
-    "publishedAt": "2026-11-10T11:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Niel Van Essche",
-    "transfer": null
-   },
-   {
-    "id": "a82eeb53ce2b",
-    "url": "https://www.lequipe.fr/Football/Actualites/Un-peu-plus-de-deux-semaines-apres-son-hospitalisation-vincent-kompany-a-fait-son-retour-au-centre-d-entrainement-du-bayern-munich/1742747#at_medium=RSS_feeds",
-    "title": "Un peu plus de deux semaines après son hospitalisation, Vincent Kompany a fait son retour au centre d'entraînement du Bayern Munich",
-    "ko": "콤파니 감독, 입원 2주 만에 바이에른 훈련장 복귀",
-    "source": "lequipe",
-    "publishedAt": "2026-11-10T14:04:36.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "32cab781c25e",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
-    "title": "Kompany back at Bayern training after collapse",
-    "ko": "콤파니, 쓰러진 뒤 바이에른 훈련 복귀",
-    "source": "bbc",
-    "publishedAt": "2026-11-10T14:17:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "53ed004ce3d2",
-    "url": "https://www.tz.de/sport/fc-bayern/kompany-erstmals-wieder-beim-bayern-training-dabei-94585314.html",
-    "title": "Kompany erstmals wieder beim Bayern-Training dabei und Neuer empfängt ihn mit Krücken",
-    "ko": "콤파니 바이에른 훈련 복귀, 노이어가 목발로 맞이",
-    "source": "tz",
-    "publishedAt": "2026-11-11T14:26:40.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "노이어"
-    ],
-    "playerTags": [],
-    "author": "Manuel Bonke",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 4,
-  "score": 1.94,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-10T11:05:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Kompany back at Bayern training after collapse"
- },
- {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임설",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-11T14:08:02.000Z",
+  "updatedAt": "2026-11-11T15:11:51.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
    "man-utd",
    "tottenham",
-   "chelsea"
+   "chelsea",
+   "liverpool"
   ],
   "players": [
    "안토니 로빈슨",
@@ -639,6 +532,22 @@
     "transfer": null
    },
    {
+    "id": "62daa255f08d",
+    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
+    "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
+    "ko": "포체티노, 또 한 번의 큰 모험 준비",
+    "source": "guardian",
+    "publishedAt": "2026-11-11T13:58:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Bassam",
+    "transfer": null
+   },
+   {
     "id": "7b1d2fb05a52",
     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-been-told-what-34894497",
     "title": "Manchester United have been told what they wanted to hear about Mauricio Pochettino",
@@ -655,11 +564,48 @@
     "playerTags": [],
     "author": "Jack Flintham",
     "transfer": null
+   },
+   {
+    "id": "267dc3191758",
+    "url": "https://www.dailystar.co.uk/sport/football/mauricio-pochettino-agrees-man-utd-37867021",
+    "title": "Mauricio Pochettino agrees Man Utd deal with Michael Carrick hours away from sack",
+    "ko": "포체티노, 맨유와 합의…카릭 해고 직전",
+    "source": "star",
+    "publishedAt": "2026-11-11T15:03:48.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jeremy Cross",
+    "transfer": null
+   },
+   {
+    "id": "313158d3c564",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-man-utd-liverpool-34897223",
+    "title": "Mauricio Pochettino's record against Liverpool and Andoni Iraola as Man Utd close in on deal",
+    "ko": "포체티노, 리버풀 상대 기록과 이라올라 비교…맨유 계약 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-11T15:11:51.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
    }
   ],
-  "recentSources": 11,
-  "sourceCount": 12,
-  "score": 9.08,
+  "recentSources": 13,
+  "sourceCount": 14,
+  "score": 10.19,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -672,6 +618,495 @@
    "viaQuote": false
   },
   "headline": "Pochettino a decade in Man Utd's making - but Carrick deserves better"
+ },
+ {
+  "slug": "liverpool-arsenal-2026-11-10",
+  "mode": "llm",
+  "titleKo": "리버풀 대 아스널 페널티 판정 논란",
+  "createdAt": "2026-11-11T10:27:36.000Z",
+  "updatedAt": "2026-11-11T15:03:29.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "arsenal",
+   "liverpool"
+  ],
+  "players": [
+   "알렉산데르 이삭"
+  ],
+  "sig": [
+   "alexander",
+   "isak"
+  ],
+  "articles": [
+   {
+    "id": "e28e8f475634",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-news-liverpool-isak-timber-34894645",
+    "title": "Arsenal receive Premier League panel verdict on controversial Liverpool incident",
+    "ko": "아스널, 리버풀전 논란 장면에 프리미어리그 패널 판정 통보",
+    "source": "fblondon",
+    "publishedAt": "2026-11-11T10:27:36.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ryan Taylor",
+    "transfer": null
+   },
+   {
+    "id": "2e90278490e5",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-liverpool-penalty-arsenal-34894581",
+    "title": "Liverpool sent final Alexander Isak penalty verdict as Premier League panel reach agreement",
+    "ko": "이삭 페널티 판정 최종 결론, 프리미어리그 패널 합의",
+    "source": "lecho",
+    "publishedAt": "2026-11-11T10:28:59.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "알렉산데르 이삭"
+    ],
+    "playerTags": [
+     "alexander-isak"
+    ],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "63c18e5cfea6",
+    "url": "https://www.skysports.com/football/news/12040/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
+    "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
+    "ko": "독립 패널 \"리버풀, 아스널전 페널티 잘못 거부\" 판정",
+    "source": "sky",
+    "publishedAt": "2026-11-11T10:33:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ffea4a9edf10",
+    "url": "https://www.thesun.co.uk/sport/40988378/liverpool-arsenal-penalty-var-fail/",
+    "title": "Liverpool should have had penalty in 1-0 defeat to Arsenal as Premier League reveal VAR failed to intervene",
+    "ko": "리버풀, 아스널전 0-1 패배에서 페널티 놓쳐…VAR 개입 실패 인정",
+    "source": "sun",
+    "publishedAt": "2026-11-11T12:06:36.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Dan King",
+    "transfer": null
+   },
+   {
+    "id": "642e87ace6c8",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-women-look-end-winless-34897362",
+    "title": "Liverpool Women look to end winless run after controversial Arsenal defeat",
+    "ko": "리버풀 여자팀, 논란의 아스널전 패배 후 무승 탈출 노려",
+    "source": "lecho",
+    "publishedAt": "2026-11-11T15:03:29.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alex Ridout",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 2.84,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "alexander-isak"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-11T10:27:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "Liverpool Women look to end winless run after controversial Arsenal defeat"
+ },
+ {
+  "slug": "bradley-injury",
+  "mode": "llm",
+  "titleKo": "브래들리 복귀 차질",
+  "createdAt": "2026-11-11T14:46:52.000Z",
+  "updatedAt": "2026-11-11T14:46:52.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [
+   "코너 브래들리"
+  ],
+  "sig": [
+   "bradley"
+  ],
+  "articles": [
+   {
+    "id": "ec68e78617ad",
+    "url": "https://www.footballinsider247.com/liverpool/match/conor-bradleys-liverpool-comeback-suffers-unexpected-setback-verdict",
+    "title": "Conor Bradley's Liverpool comeback suffers unexpected setback - verdict",
+    "ko": "콘어 브래들리 리버풀 복귀에 예상치 못한 차질",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-11T14:46:52.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "코너 브래들리"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-11T14:46:52.000Z",
+   "viaQuote": false
+  },
+  "headline": "Conor Bradley's Liverpool comeback suffers unexpected setback - verdict"
+ },
+ {
+  "slug": "rouen-player-death-incident",
+  "mode": "llm",
+  "titleKo": "루앙 유망주 훈련 중 사망",
+  "createdAt": "2026-11-11T14:45:38.000Z",
+  "updatedAt": "2026-11-11T14:45:38.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "rouen"
+  ],
+  "articles": [
+   {
+    "id": "19343cb157a8",
+    "url": "https://www.lequipe.fr/Football/Actualites/Un-jeune-joueur-de-22-ans-forme-a-rouen-meurt-d-une-crise-cardiaque-a-l-entrainement/1742972#at_medium=RSS_feeds",
+    "title": "Un jeune joueur de 22 ans formé à Rouen meurt d'une crise cardiaque à l'entraînement",
+    "ko": "루앙 출신 22세 유망주, 훈련 중 심장마비로 사망",
+    "source": "lequipe",
+    "publishedAt": "2026-11-11T14:45:38.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Audrey Quétard",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.75,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-11T14:45:38.000Z",
+   "viaQuote": false
+  },
+  "headline": "Un jeune joueur de 22 ans formé à Rouen meurt d'une crise cardiaque à l'entraînement"
+ },
+ {
+  "slug": "mbappe-injury",
+  "mode": "llm",
+  "titleKo": "음바페 대표팀 훈련 결장",
+  "createdAt": "2026-11-11T10:21:18.000Z",
+  "updatedAt": "2026-11-11T14:32:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "킬리안 음바페",
+   "음바페"
+  ],
+  "sig": [
+   "kylian",
+   "mbappé",
+   "ligue",
+   "italie"
+  ],
+  "articles": [
+   {
+    "id": "b1b37ebec8fd",
+    "url": "https://www.lequipe.fr/Football/Actualites/Bleus-kylian-mbappe-absent-de-la-seance-et-en-soins-a-la-veille-du-match-de-ligue-des-nations-contre-l-italie/1742943#at_medium=RSS_feeds",
+    "title": "Bleus : Kylian Mbappé absent de la séance et en soins à la veille du match de Ligue des nations contre l'Italie",
+    "ko": "음바페, 프랑스 대표팀 훈련 결장…이탈리아전 앞두고 치료",
+    "source": "lequipe",
+    "publishedAt": "2026-11-11T10:21:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "Hugo Delom",
+    "transfer": null
+   },
+   {
+    "id": "2bc887e5caa3",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/mais-dores-de-cabeca-para-zidane-mbappe-falha-treino-e-esta-em-duvida-para-jogo-com-a-italia",
+    "title": "Mais dores de cabeça para Zidane: Mbappé falha treino e está em dúvida para jogo com a Itália",
+    "ko": "지단 고민 깊어져, 음바페 훈련 결장 이탈리아전 불투명",
+    "source": "record",
+    "publishedAt": "2026-11-11T11:27:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "edf806446610",
+    "url": "https://www.lequipe.fr/Football/Actualites/Equipe-de-france-victime-d-une-gene-aux-ischios-kylian-mbappe-vers-un-forfait-contre-l-italie/1742956#at_medium=RSS_feeds",
+    "title": "Bleus : victime d'une gêne aux ischios, Kylian Mbappé vers un forfait contre l'Italie",
+    "ko": "음바페 햄스트링 부상, 이탈리아전 결장 우려",
+    "source": "lequipe",
+    "publishedAt": "2026-11-11T11:42:49.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "Loïc Tanzi",
+    "transfer": null
+   },
+   {
+    "id": "58313a13dc38",
+    "url": "https://www.hln.be/buitenlands-voetbal/nog-meer-kopzorgen-voor-zinedine-zidane-kylian-mbappe-kampt-met-hamstringblessure-en-moet-wellicht-passen-voor-kraker-tegen-italie~a0325bbd/",
+    "title": "Nog meer kopzorgen voor Zinedine Zidane: “Kylian Mbappé kampt met hamstringblessure en moet wellicht passen voor kraker tegen Italië”",
+    "ko": "지단 감독, 음바페 햄스트링 부상으로 이탈리아전 결장 우려",
+    "source": "hln",
+    "publishedAt": "2026-11-11T12:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "eeab61877628",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-bleus-kylian-mbappe-absent-de-l-entrainement-zinedine-zidane-participe-au-toro/20245335#at_medium=RSS_feeds",
+    "title": "Mbappé absent de l'entraînement, Zidane participe au toro",
+    "ko": "음바페 훈련 결장, 지단은 토로 참여",
+    "source": "lequipe",
+    "publishedAt": "2026-11-11T14:32:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 2.45,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "kylian-mbappe"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-11T10:21:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Mbappé absent de l'entraînement, Zidane participe au toro"
+ },
+ {
+  "slug": "kompany-health-incident",
+  "mode": "llm",
+  "titleKo": "콤파니 감독 건강 이상, 뮌헨 훈련장 포착",
+  "createdAt": "2026-11-10T11:05:00.000Z",
+  "updatedAt": "2026-11-11T14:26:40.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "노이어"
+  ],
+  "sig": [
+   "vincent",
+   "kompany"
+  ],
+  "articles": [
+   {
+    "id": "1cac2873fe5a",
+    "url": "https://www.hln.be/bundesliga/exclusief-de-eerste-beelden-van-gehavende-vincent-kompany-op-oefencomplex-van-bayern-munchen-na-hersenvliesirritatie~a546b0da/",
+    "title": "EXCLUSIEF. De eerste beelden van gehavende Vincent Kompany op oefencomplex van Bayern München na hersenvliesirritatie",
+    "ko": "독점: 뇌수막 염증 후 콤파니, 바이에른 훈련장서 첫 포착",
+    "source": "hln",
+    "publishedAt": "2026-11-10T11:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Niel Van Essche",
+    "transfer": null
+   },
+   {
+    "id": "a82eeb53ce2b",
+    "url": "https://www.lequipe.fr/Football/Actualites/Un-peu-plus-de-deux-semaines-apres-son-hospitalisation-vincent-kompany-a-fait-son-retour-au-centre-d-entrainement-du-bayern-munich/1742747#at_medium=RSS_feeds",
+    "title": "Un peu plus de deux semaines après son hospitalisation, Vincent Kompany a fait son retour au centre d'entraînement du Bayern Munich",
+    "ko": "콤파니 감독, 입원 2주 만에 바이에른 훈련장 복귀",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T14:04:36.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "32cab781c25e",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c674p4el33wno?at_medium=RSS&at_campaign=rss",
+    "title": "Kompany back at Bayern training after collapse",
+    "ko": "콤파니, 쓰러진 뒤 바이에른 훈련 복귀",
+    "source": "bbc",
+    "publishedAt": "2026-11-10T14:17:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "53ed004ce3d2",
+    "url": "https://www.tz.de/sport/fc-bayern/kompany-erstmals-wieder-beim-bayern-training-dabei-94585314.html",
+    "title": "Kompany erstmals wieder beim Bayern-Training dabei und Neuer empfängt ihn mit Krücken",
+    "ko": "콤파니 바이에른 훈련 복귀, 노이어가 목발로 맞이",
+    "source": "tz",
+    "publishedAt": "2026-11-11T14:26:40.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "노이어"
+    ],
+    "playerTags": [],
+    "author": "Manuel Bonke",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 4,
+  "score": 1.66,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-10T11:05:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Kompany back at Bayern training after collapse"
  },
  {
   "slug": "barrenetxea-injury",
@@ -768,7 +1203,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 3.17,
+  "score": 2.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1604,7 +2039,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.49,
+  "score": 0.42,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4045,7 +4480,7 @@
   ],
   "recentSources": 10,
   "sourceCount": 17,
-  "score": 6.49,
+  "score": 5.54,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4337,7 +4772,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.47,
+  "score": 0.4,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4716,7 +5151,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.17,
+  "score": 0.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4786,7 +5221,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4910,7 +5345,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 2.02,
+  "score": 1.72,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5075,7 +5510,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.76,
+  "score": 1.51,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5169,7 +5604,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5228,7 +5663,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.33,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5253,243 +5688,6 @@
    "viaQuote": false
   },
   "headline": "Sources: Rangers make Vanja Dragojevic January transfer decision"
- },
- {
-  "slug": "liverpool-arsenal-2026-11-10",
-  "mode": "llm",
-  "titleKo": "리버풀 대 아스널 페널티 판정 논란",
-  "createdAt": "2026-11-11T10:27:36.000Z",
-  "updatedAt": "2026-11-11T12:06:36.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "arsenal",
-   "liverpool"
-  ],
-  "players": [
-   "알렉산데르 이삭"
-  ],
-  "sig": [
-   "alexander",
-   "isak"
-  ],
-  "articles": [
-   {
-    "id": "e28e8f475634",
-    "url": "https://www.football.london/arsenal-fc/news/arsenal-news-liverpool-isak-timber-34894645",
-    "title": "Arsenal receive Premier League panel verdict on controversial Liverpool incident",
-    "ko": "아스널, 리버풀전 논란 장면에 프리미어리그 패널 판정 통보",
-    "source": "fblondon",
-    "publishedAt": "2026-11-11T10:27:36.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ryan Taylor",
-    "transfer": null
-   },
-   {
-    "id": "2e90278490e5",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-liverpool-penalty-arsenal-34894581",
-    "title": "Liverpool sent final Alexander Isak penalty verdict as Premier League panel reach agreement",
-    "ko": "이삭 페널티 판정 최종 결론, 프리미어리그 패널 합의",
-    "source": "lecho",
-    "publishedAt": "2026-11-11T10:28:59.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "알렉산데르 이삭"
-    ],
-    "playerTags": [
-     "alexander-isak"
-    ],
-    "author": "Amie Wilson",
-    "transfer": null
-   },
-   {
-    "id": "63c18e5cfea6",
-    "url": "https://www.skysports.com/football/news/12040/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel",
-    "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
-    "ko": "독립 패널 \"리버풀, 아스널전 페널티 잘못 거부\" 판정",
-    "source": "sky",
-    "publishedAt": "2026-11-11T10:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ffea4a9edf10",
-    "url": "https://www.thesun.co.uk/sport/40988378/liverpool-arsenal-penalty-var-fail/",
-    "title": "Liverpool should have had penalty in 1-0 defeat to Arsenal as Premier League reveal VAR failed to intervene",
-    "ko": "리버풀, 아스널전 0-1 패배에서 페널티 놓쳐…VAR 개입 실패 인정",
-    "source": "sun",
-    "publishedAt": "2026-11-11T12:06:36.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Dan King",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 3.33,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "alexander-isak"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-11T10:27:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Liverpool incorrectly denied pen vs Arsenal says independent panel"
- },
- {
-  "slug": "mbappe-injury",
-  "mode": "llm",
-  "titleKo": "음바페 대표팀 훈련 결장",
-  "createdAt": "2026-11-11T10:21:18.000Z",
-  "updatedAt": "2026-11-11T12:00:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "킬리안 음바페",
-   "음바페"
-  ],
-  "sig": [
-   "kylian",
-   "mbappé",
-   "ligue",
-   "italie"
-  ],
-  "articles": [
-   {
-    "id": "b1b37ebec8fd",
-    "url": "https://www.lequipe.fr/Football/Actualites/Bleus-kylian-mbappe-absent-de-la-seance-et-en-soins-a-la-veille-du-match-de-ligue-des-nations-contre-l-italie/1742943#at_medium=RSS_feeds",
-    "title": "Bleus : Kylian Mbappé absent de la séance et en soins à la veille du match de Ligue des nations contre l'Italie",
-    "ko": "음바페, 프랑스 대표팀 훈련 결장…이탈리아전 앞두고 치료",
-    "source": "lequipe",
-    "publishedAt": "2026-11-11T10:21:18.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "Hugo Delom",
-    "transfer": null
-   },
-   {
-    "id": "2bc887e5caa3",
-    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/mais-dores-de-cabeca-para-zidane-mbappe-falha-treino-e-esta-em-duvida-para-jogo-com-a-italia",
-    "title": "Mais dores de cabeça para Zidane: Mbappé falha treino e está em dúvida para jogo com a Itália",
-    "ko": "지단 고민 깊어져, 음바페 훈련 결장 이탈리아전 불투명",
-    "source": "record",
-    "publishedAt": "2026-11-11T11:27:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "edf806446610",
-    "url": "https://www.lequipe.fr/Football/Actualites/Equipe-de-france-victime-d-une-gene-aux-ischios-kylian-mbappe-vers-un-forfait-contre-l-italie/1742956#at_medium=RSS_feeds",
-    "title": "Bleus : victime d'une gêne aux ischios, Kylian Mbappé vers un forfait contre l'Italie",
-    "ko": "음바페 햄스트링 부상, 이탈리아전 결장 우려",
-    "source": "lequipe",
-    "publishedAt": "2026-11-11T11:42:49.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "Loïc Tanzi",
-    "transfer": null
-   },
-   {
-    "id": "58313a13dc38",
-    "url": "https://www.hln.be/buitenlands-voetbal/nog-meer-kopzorgen-voor-zinedine-zidane-kylian-mbappe-kampt-met-hamstringblessure-en-moet-wellicht-passen-voor-kraker-tegen-italie~a0325bbd/",
-    "title": "Nog meer kopzorgen voor Zinedine Zidane: “Kylian Mbappé kampt met hamstringblessure en moet wellicht passen voor kraker tegen Italië”",
-    "ko": "지단 감독, 음바페 햄스트링 부상으로 이탈리아전 결장 우려",
-    "source": "hln",
-    "publishedAt": "2026-11-11T12:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.87,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "kylian-mbappe"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-11T10:21:18.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bleus : victime d'une gêne aux ischios, Kylian Mbappé vers un forfait contre l'Italie"
  },
  {
   "slug": "courtois-mourinho-relationship",
@@ -5551,7 +5749,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.98,
+  "score": 1.69,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5660,7 +5858,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.15,
+  "score": 0.98,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5708,7 +5906,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5756,7 +5954,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.95,
+  "score": 0.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5812,7 +6010,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6011,7 +6209,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 1.25,
+  "score": 1.06,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6093,7 +6291,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.62,
+  "score": 0.53,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6337,7 +6535,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.18,
+  "score": 0.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6422,7 +6620,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.16,
+  "score": 0.14,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6491,7 +6689,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6556,7 +6754,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6629,7 +6827,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {

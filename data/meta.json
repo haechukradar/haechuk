@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T14:37:15.050Z",
+ "updatedAt": "2026-11-11T15:32:04.698Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "carrick-manager-future",
@@ -29,7 +29,8 @@
   "2026-11-08",
   "2026-11-09",
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "feeds": {
   "bbc": {
@@ -41,13 +42,13 @@
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 0,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +72,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,37 +84,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 94
+   "added": 2,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 3,
    "authorRate": 88
   },
   "waz": {
@@ -125,7 +126,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -137,7 +138,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -149,31 +150,31 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 5,
-   "authorRate": 93
+   "added": 3,
+   "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
@@ -184,8 +185,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 2,
+   "items": 12,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -204,7 +205,7 @@
   },
   {
    "name": "노이어",
-   "count": 26
+   "count": 27
   },
   {
    "name": "그릴리시",
@@ -232,7 +233,7 @@
   },
   {
    "name": "웨인 루니",
-   "count": 12
+   "count": 13
   },
   {
    "name": "조브 벨링엄",
@@ -312,20 +313,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 249,
+  "recentIssues": 244,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 114
+    "count": 113
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 37
+    "count": 33
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 29
+    "count": 32
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -396,7 +397,7 @@
    "variants": [
     {
      "ko": "람멘스",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "세네 라먼스",
@@ -437,28 +438,6 @@
    ]
   },
   {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바나켄",
-     "count": 4
-    },
-    {
-     "ko": "한스 반아켄",
-     "count": 2
-    },
-    {
-     "ko": "한스 바나켄",
-     "count": 2
-    },
-    {
-     "ko": "반악넨",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -468,6 +447,28 @@
     },
     {
      "ko": "마르쿠 실바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바나켄",
+     "count": 3
+    },
+    {
+     "ko": "한스 반아켄",
+     "count": 2
+    },
+    {
+     "ko": "반악넨",
+     "count": 2
+    },
+    {
+     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -492,7 +493,7 @@
    "variants": [
     {
      "ko": "틸레망스",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "틸레만스",
@@ -737,24 +738,6 @@
    ]
   },
   {
-   "en": "Gouweleeuw",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "하우웰레우",
-     "count": 1
-    },
-    {
-     "ko": "구벨레우",
-     "count": 1
-    },
-    {
-     "ko": "구웰레이우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lammens",
    "dictionary": null,
    "variants": [
@@ -976,6 +959,20 @@
     },
     {
      "ko": "보쟁가",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gouweleeuw",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구벨레우",
+     "count": 1
+    },
+    {
+     "ko": "구웰레이우",
      "count": 1
     }
    ]
@@ -1215,6 +1212,10 @@
   "2026-11-11": {
    "collected": 711,
    "llm": 3343
+  },
+  "2026-11-12": {
+   "collected": 37,
+   "llm": 37
   }
  },
  "llmErrors": []
