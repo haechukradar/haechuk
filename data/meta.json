@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-11T05:08:46.472Z",
+ "updatedAt": "2026-11-11T06:08:36.681Z",
  "hot": [
+  "pochettino-man-utd-manager-future",
+  "mctominay-injury",
   "carrick-manager-future",
   "man-city-inter-2026-11-10",
-  "mctominay-injury",
-  "pochettino-man-utd-manager-future",
   "hacken-chelsea-2026-11-10"
  ],
  "days": [
@@ -47,7 +47,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -59,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,25 +89,25 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 4,
    "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -131,7 +131,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -143,13 +143,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -161,7 +161,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -179,7 +179,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -312,7 +312,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 268,
+  "recentIssues": 267,
   "singleArticleRate": 48,
   "broad": [
    {
@@ -321,15 +321,15 @@
    },
    {
     "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 41
+    "count": 39
    },
    {
     "slug": "chelsea-sunderland-2026-11-08",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "crystal-palace-liverpool-2026-11-07",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -369,6 +369,28 @@
    ]
   },
   {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 10
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 2
+    },
+    {
+     "ko": "마티아스 자이슬레",
+     "count": 1
+    },
+    {
+     "ko": "재슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -387,28 +409,6 @@
     {
      "ko": "반악넨",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 9
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 2
-    },
-    {
-     "ko": "마티아스 자이슬레",
-     "count": 1
-    },
-    {
-     "ko": "재슬레",
-     "count": 1
     }
    ]
   },
@@ -559,34 +559,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 4
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Vitor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 5
-    },
-    {
-     "ko": "빅토르 브루누",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Fermín López",
    "dictionary": null,
    "variants": [
@@ -655,15 +627,15 @@
    ]
   },
   {
-   "en": "Thierno Barry",
+   "en": "JJ Gabriel",
    "dictionary": null,
    "variants": [
     {
-     "ko": "티에르노 바리",
+     "ko": "JJ 가브리엘",
      "count": 4
     },
     {
-     "ko": "티에르노 배리",
+     "ko": "J.J. 가브리엘",
      "count": 1
     }
    ]
@@ -724,6 +696,34 @@
     },
     {
      "ko": "하버츠",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 바리",
+     "count": 3
+    },
+    {
+     "ko": "티에르노 배리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 3
+    },
+    {
+     "ko": "빅토르 브루누",
      "count": 1
     }
    ]
@@ -949,6 +949,24 @@
    ]
   },
   {
+   "en": "Aurélien Tchouaméni",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오렐리앵 추아메니",
+     "count": 1
+    },
+    {
+     "ko": "튀아메니",
+     "count": 1
+    },
+    {
+     "ko": "아우렐리앙 추아메니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Eli Junior Kroupi",
    "dictionary": null,
    "variants": [
@@ -1103,15 +1121,29 @@
    ]
   },
   {
-   "en": "Irankunda",
+   "en": "Scally",
    "dictionary": null,
    "variants": [
     {
-     "ko": "이란쿤다",
+     "ko": "스칼리",
      "count": 1
     },
     {
-     "ko": "이라쿤다",
+     "ko": "스캘리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Aguirre",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아게이레",
+     "count": 1
+    },
+    {
+     "ko": "아기레",
      "count": 1
     }
    ]
@@ -1126,34 +1158,6 @@
     },
     {
      "ko": "피에르 칼뤼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 1
-    },
-    {
-     "ko": "던 번",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vozinha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "보지냐",
-     "count": 1
-    },
-    {
-     "ko": "보쟁가",
      "count": 1
     }
    ]
@@ -1209,8 +1213,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 374,
-   "llm": 3006
+   "collected": 400,
+   "llm": 3032
   }
  },
  "llmErrors": []
