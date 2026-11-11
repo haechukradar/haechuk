@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T18:20:07.598Z",
+ "updatedAt": "2026-11-11T19:28:54.294Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "carrick-manager-future",
@@ -36,19 +36,19 @@
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 0,
+   "added": 3,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -72,7 +72,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -90,8 +90,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 86
+   "added": 6,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -138,7 +138,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 18,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,13 +162,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 5,
+   "added": 1,
    "authorRate": 86
   },
   "star": {
@@ -180,13 +180,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -237,7 +237,7 @@
   },
   {
    "name": "트레솔디",
-   "count": 12
+   "count": 13
   },
   {
    "name": "조브 벨링엄",
@@ -313,24 +313,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 240,
-  "singleArticleRate": 47,
+  "recentIssues": 241,
+  "singleArticleRate": 46,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 117
+    "count": 111
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 40
-   },
-   {
-    "slug": "man-utd-aston-villa-2026-11-05",
-    "count": 27
-   },
-   {
-    "slug": "atletico-barcelona-2026-11-07",
-    "count": 16
+    "count": 42
    }
   ]
  },
@@ -376,13 +368,37 @@
    ]
   },
   {
-   "en": "Senne Lammens",
+   "en": "Marco Silva",
    "dictionary": null,
    "variants": [
     {
-     "ko": "람멘스",
-     "count": 3
+     "ko": "마르코 실바",
+     "count": 9
     },
+    {
+     "ko": "마르쿠 실바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 6
+    },
+    {
+     "ko": "훌리안",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
     {
      "ko": "세네 라먼스",
      "count": 1
@@ -410,34 +426,6 @@
     {
      "ko": "젠 라멘스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 9
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 6
-    },
-    {
-     "ko": "훌리안",
-     "count": 2
     }
    ]
   },
@@ -550,19 +538,19 @@
    ]
   },
   {
-   "en": "Youri Tielemans",
+   "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
     {
-     "ko": "틸레망스",
-     "count": 2
+     "ko": "세니 마율루",
+     "count": 3
     },
     {
-     "ko": "틸레만스",
-     "count": 2
+     "ko": "세니 마유루",
+     "count": 1
     },
     {
-     "ko": "유리 틸르망스",
+     "ko": "세니 마윜루",
      "count": 1
     }
    ]
@@ -632,24 +620,6 @@
    ]
   },
   {
-   "en": "Senny Mayulu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세니 마율루",
-     "count": 2
-    },
-    {
-     "ko": "세니 마유루",
-     "count": 1
-    },
-    {
-     "ko": "세니 마윜루",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -677,6 +647,62 @@
     },
     {
      "ko": "우데모",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 3
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Aguirre",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아게이레",
+     "count": 2
+    },
+    {
+     "ko": "아기레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dan Burn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "던 번",
+     "count": 2
+    },
+    {
+     "ko": "댄 번",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Youri Tielemans",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "틸레망스",
+     "count": 2
+    },
+    {
+     "ko": "유리 틸르망스",
      "count": 1
     }
    ]
@@ -710,34 +736,6 @@
    ]
   },
   {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "얀니크 카위작",
-     "count": 2
-    },
-    {
-     "ko": "야닉 카위자크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Walter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "월터",
-     "count": 2
-    },
-    {
-     "ko": "발터",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Filipe Coelho",
    "dictionary": null,
    "variants": [
@@ -747,52 +745,6 @@
     },
     {
      "ko": "필리페 코엘루",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marcus Thuram",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마커스 튀람",
-     "count": 1
-    },
-    {
-     "ko": "마르퀴스 튀람",
-     "count": 1
-    },
-    {
-     "ko": "마르쿠스 튀람",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kniat",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크니아트",
-     "count": 2
-    },
-    {
-     "ko": "니아트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 2
-    },
-    {
-     "ko": "델라 푸엔테",
      "count": 1
     }
    ]
@@ -816,6 +768,20 @@
    ]
   },
   {
+   "en": "Kniat",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크니아트",
+     "count": 2
+    },
+    {
+     "ko": "니아트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
@@ -825,6 +791,20 @@
     },
     {
      "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "막시 아라우호",
+     "count": 2
+    },
+    {
+     "ko": "마시 아라우호",
      "count": 1
     }
    ]
@@ -857,6 +837,20 @@
     },
     {
      "ko": "포콘볼리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마르크 판 봄멜",
      "count": 1
     }
    ]
@@ -922,20 +916,6 @@
    ]
   },
   {
-   "en": "Aguirre",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아게이레",
-     "count": 1
-    },
-    {
-     "ko": "아기레",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pierre Kalulu",
    "dictionary": null,
    "variants": [
@@ -964,15 +944,15 @@
    ]
   },
   {
-   "en": "Dan Burn",
+   "en": "Lammens",
    "dictionary": null,
    "variants": [
     {
-     "ko": "댄 번",
+     "ko": "라먼스",
      "count": 1
     },
     {
-     "ko": "던 번",
+     "ko": "라머스",
      "count": 1
     }
    ]
@@ -987,20 +967,6 @@
     },
     {
      "ko": "보쟁가",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gouweleeuw",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구벨레우",
-     "count": 1
-    },
-    {
-     "ko": "구웰레이우",
      "count": 1
     }
    ]
@@ -1062,15 +1028,15 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
+   "en": "Yannick Cahuzac",
    "dictionary": null,
    "variants": [
     {
-     "ko": "브루노 즈네시오",
+     "ko": "야닉 카위자크",
      "count": 1
     },
     {
-     "ko": "브루노 주네지오",
+     "ko": "얀니크 카위작",
      "count": 1
     }
    ]
@@ -1090,29 +1056,15 @@
    ]
   },
   {
-   "en": "Buchanan",
+   "en": "Walter",
    "dictionary": null,
    "variants": [
     {
-     "ko": "부카난",
+     "ko": "월터",
      "count": 1
     },
     {
-     "ko": "부캐넌",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 1
-    },
-    {
-     "ko": "빅토르 브루누",
+     "ko": "발터",
      "count": 1
     }
    ]
@@ -1127,6 +1079,34 @@
     },
     {
      "ko": "디오구 코스타",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mika Godts",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미카 흐흐츠",
+     "count": 1
+    },
+    {
+     "ko": "미카 고츠",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Merson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "메르손",
+     "count": 1
+    },
+    {
+     "ko": "메르슨",
      "count": 1
     }
    ]
@@ -1186,8 +1166,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 183,
-   "llm": 183
+   "collected": 226,
+   "llm": 226
   }
  },
  "llmErrors": []

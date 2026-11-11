@@ -4,10 +4,12 @@
   "mode": "llm",
   "titleKo": "프랑크푸르트 대 에인트호번 경기",
   "createdAt": "2026-11-11T18:09:19.000Z",
-  "updatedAt": "2026-11-11T18:09:19.000Z",
+  "updatedAt": "2026-11-11T19:22:00.000Z",
   "category": "match",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "gladbach"
+  ],
   "players": [],
   "sig": [
    "erst",
@@ -33,12 +35,30 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "33857d9e44e7",
+    "url": "https://www.kicker.de/erst-rot-dann-eigentor-eindhoven-ebnet-frankfurts-frauen-den-weg-ins-viertelfinale-1270760/artikel#omrss",
+    "title": "Erst Rot, dann Eigentor: Eindhoven ebnet Frankfurts Frauen den Weg ins Viertelfinale",
+    "ko": "프랑크푸르트 여자팀, 퇴장 뒤 자책골 허용하며 에인트호번에 패배 위기",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T19:22:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
-  "topTier": 4,
+  "score": 1.59,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
@@ -49,89 +69,22 @@
    "at": "2026-11-11T18:09:19.000Z",
    "viaQuote": false
   },
-  "headline": "LIVE! Erst Rot, dann Eigentor: Eindhoven bisher in Frankfurt vom Pech verfolgt"
- },
- {
-  "slug": "keny-arroyo-cruzeiro-transfer",
-  "mode": "llm",
-  "titleKo": "케니 아로요 크루제이루 이적 조건",
-  "createdAt": "2026-11-11T18:08:00.000Z",
-  "updatedAt": "2026-11-11T18:08:00.000Z",
-  "category": "transfer",
-  "stage": "negotiation",
-  "clubs": [],
-  "players": [
-   "케니 아로요"
-  ],
-  "sig": [
-   "keny",
-   "arroyo"
-  ],
-  "articles": [
-   {
-    "id": "9d6610be3c6c",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/cruzeiro-define-condicoes-por-keny-arroyo-45-milhoes-de-euros-e-so-sai-no-verao",
-    "title": "Cruzeiro define condições por Keny Arroyo: 45 milhões de euros e só sai no verão",
-    "ko": "크루제이루, 케니 아로요 이적 조건 4500만 유로 제시",
-    "source": "record",
-    "publishedAt": "2026-11-11T18:08:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "케니 아로요"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "케니 아로요",
-     "from": null,
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.93,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "9d6610be3c6c",
-    "at": "2026-11-11T18:08:00.000Z",
-    "source": "record",
-    "from": null,
-    "to": "negotiation"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "케니 아로요",
-   "from": null,
-   "to": null
-  },
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-11T18:08:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Cruzeiro define condições por Keny Arroyo: 45 milhões de euros e só sai no verão"
+  "headline": "Erst Rot, dann Eigentor: Eindhoven ebnet Frankfurts Frauen den Weg ins Viertelfinale"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임설",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-11T18:03:33.000Z",
+  "updatedAt": "2026-11-11T19:18:18.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
    "man-utd",
    "tottenham",
    "chelsea",
-   "liverpool"
+   "liverpool",
+   "man-city"
   ],
   "players": [
    "안토니 로빈슨",
@@ -866,11 +819,48 @@
     "playerTags": [],
     "author": "Aaron Morris",
     "transfer": null
+   },
+   {
+    "id": "90225a9c2c9f",
+    "url": "https://www.nytimes.com/athletic/7773820/2026/11/11/pep-guardiola-pochettino-manchester-united-usmnt-coach-candidate/",
+    "title": "Pep Guardiola expected to be a top USMNT target if Manchester United snares Pochettino",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T18:58:22.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9f1ee063820b",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-manchester-united-carrick-34898845",
+    "title": "Mauricio Pochettino to make immediate change to Man United manager's office",
+    "ko": "포체티노, 맨유 감독실 즉각 변화 준비",
+    "source": "men",
+    "publishedAt": "2026-11-11T19:18:18.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
    }
   ],
   "recentSources": 13,
   "sourceCount": 14,
-  "score": 7.31,
+  "score": 5.99,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -882,7 +872,267 @@
    "at": "2026-11-10T17:08:58.000Z",
    "viaQuote": false
   },
-  "headline": "Manchester United target Mauricio Pochettino expected to take USMNT games vs. Haiti"
+  "headline": "Pep Guardiola expected to be a top USMNT target if Manchester United snares Pochettino"
+ },
+ {
+  "slug": "kane-award",
+  "mode": "llm",
+  "titleKo": "케인 발롱도르 수상 소감",
+  "createdAt": "2026-11-11T16:44:58.000Z",
+  "updatedAt": "2026-11-11T18:50:10.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "해리 케인",
+   "케인"
+  ],
+  "sig": [
+   "kane"
+  ],
+  "articles": [
+   {
+    "id": "5f91c9ed5491",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+    "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+    "ko": "케인의 동화 같은 성공, 리더십과 역할 모델 평가",
+    "source": "bbc",
+    "publishedAt": "2026-11-11T16:44:58.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ed95307e04b0",
+    "url": "https://www.kicker.de/kane-ueber-ballon-d-or-sieg-magischer-moment-1270769/video#omrss",
+    "title": "Kane über Ballon-d'Or-Sieg: \"Magischer Moment\"",
+    "ko": "케인, 발롱도르 수상 소감 \"마법 같은 순간\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T16:53:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0967ab7f5579",
+    "url": "https://www.kicker.de/tuchel-ueber-kane-ballon-d-or-ist-in-guten-haenden-1270798/video#omrss",
+    "title": "Tuchel über Kane: Ballon d'Or \"ist in guten Händen\"",
+    "ko": "투헬, 케인의 발롱도르 수상 가능성에 \"좋은 손에 있다\"고 평가",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T18:50:10.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.15,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "harry-kane"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-11T16:44:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Leader, role model, extraordinary - how Kane's 'fairytale' came true"
+ },
+ {
+  "slug": "ohl-koge-2026-11-11",
+  "mode": "llm",
+  "titleKo": "OHL 대 쾨게 경기",
+  "createdAt": "2026-11-11T18:45:00.000Z",
+  "updatedAt": "2026-11-11T18:45:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "ohl",
+   "køge"
+  ],
+  "articles": [
+   {
+    "id": "6b8be0f76b13",
+    "url": "https://www.hln.be/vrouwenvoetbal/live-de-vreugde-is-van-korte-duur-kort-na-openingsgoal-ohl-komt-koge-alweer-langszij~a09f8d9e/",
+    "title": "LIVE. De vreugde is van korte duur: kort na openingsgoal OHL komt Køge alweer langszij",
+    "ko": "OHL, 쾨게에 선제골 허용 후 바로 동점 내줘 라이브 중계",
+    "source": "hln",
+    "publishedAt": "2026-11-11T18:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-11T18:45:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "LIVE. De vreugde is van korte duur: kort na openingsgoal OHL komt Køge alweer langszij"
+ },
+ {
+  "slug": "le-havre-manager-appointment-20261111",
+  "mode": "llm",
+  "titleKo": "르아브르 신임 감독 이스마엘 유력",
+  "createdAt": "2026-11-11T18:31:39.000Z",
+  "updatedAt": "2026-11-11T18:31:39.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "ismaël",
+   "havre"
+  ],
+  "articles": [
+   {
+    "id": "77f1733782cb",
+    "url": "https://www.lequipe.fr/Football/Actualites/Valerien-ismael-en-passe-de-devenir-le-nouvel-entraineur-du-havre/1743024#at_medium=RSS_feeds",
+    "title": "Valérien Ismaël en passe de devenir le nouvel entraîneur du Havre",
+    "ko": "발레리앙 이스마엘, 르아브르 신임 감독 유력",
+    "source": "lequipe",
+    "publishedAt": "2026-11-11T18:31:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sébastien Buron",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.7,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-11T18:31:39.000Z",
+   "viaQuote": false
+  },
+  "headline": "Valérien Ismaël en passe de devenir le nouvel entraîneur du Havre"
+ },
+ {
+  "slug": "keny-arroyo-cruzeiro-transfer",
+  "mode": "llm",
+  "titleKo": "케니 아로요 크루제이루 이적 조건",
+  "createdAt": "2026-11-11T18:08:00.000Z",
+  "updatedAt": "2026-11-11T18:08:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [],
+  "players": [
+   "케니 아로요"
+  ],
+  "sig": [
+   "keny",
+   "arroyo"
+  ],
+  "articles": [
+   {
+    "id": "9d6610be3c6c",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/cruzeiro-define-condicoes-por-keny-arroyo-45-milhoes-de-euros-e-so-sai-no-verao",
+    "title": "Cruzeiro define condições por Keny Arroyo: 45 milhões de euros e só sai no verão",
+    "ko": "크루제이루, 케니 아로요 이적 조건 4500만 유로 제시",
+    "source": "record",
+    "publishedAt": "2026-11-11T18:08:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "케니 아로요"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "케니 아로요",
+     "from": null,
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.58,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "9d6610be3c6c",
+    "at": "2026-11-11T18:08:00.000Z",
+    "source": "record",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "케니 아로요",
+   "from": null,
+   "to": null
+  },
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-11T18:08:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Cruzeiro define condições por Keny Arroyo: 45 milhões de euros e só sai no verão"
  },
  {
   "slug": "man-city-affairs-charges-20261109",
@@ -1014,7 +1264,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 1.99,
+  "score": 1.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1098,7 +1348,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.46,
   "topTier": 4,
   "stageHistory": [
    {
@@ -1195,7 +1445,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.46,
   "topTier": 4,
   "stageHistory": [
    {
@@ -1276,7 +1526,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.84,
+  "score": 1.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1355,7 +1605,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.3,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1480,7 +1730,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.6,
+  "score": 0.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1542,7 +1792,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.44,
   "topTier": 4,
   "stageHistory": [
    {
@@ -1618,7 +1868,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 3.48,
+  "score": 2.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4132,7 +4382,7 @@
   ],
   "recentSources": 11,
   "sourceCount": 18,
-  "score": 4.27,
+  "score": 3.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4183,7 +4433,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.74,
+  "score": 1.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4242,7 +4492,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.43,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4404,7 +4654,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.7,
+  "score": 1.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4459,7 +4709,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.5,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -4510,7 +4760,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4560,7 +4810,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.96,
+  "score": 0.79,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -4702,7 +4952,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 1.23,
+  "score": 1.01,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4798,7 +5048,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.39,
+  "score": 1.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4811,81 +5061,6 @@
    "viaQuote": false
   },
   "headline": "Le gardien de Côme Robert Sanchez sort indemne d'un accident au volant d'une Ferrari sur le circuit de Nürburgring"
- },
- {
-  "slug": "kane-award",
-  "mode": "llm",
-  "titleKo": "케인 발롱도르 수상 소감",
-  "createdAt": "2026-11-11T16:44:58.000Z",
-  "updatedAt": "2026-11-11T16:53:35.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "해리 케인"
-  ],
-  "sig": [
-   "kane"
-  ],
-  "articles": [
-   {
-    "id": "5f91c9ed5491",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
-    "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-    "ko": "케인의 동화 같은 성공, 리더십과 역할 모델 평가",
-    "source": "bbc",
-    "publishedAt": "2026-11-11T16:44:58.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ed95307e04b0",
-    "url": "https://www.kicker.de/kane-ueber-ballon-d-or-sieg-magischer-moment-1270769/video#omrss",
-    "title": "Kane über Ballon-d'Or-Sieg: \"Magischer Moment\"",
-    "ko": "케인, 발롱도르 수상 소감 \"마법 같은 순간\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-11T16:53:35.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 3.84,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "harry-kane"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-11T16:44:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Leader, role model, extraordinary - how Kane's 'fairytale' came true"
  },
  {
   "slug": "la-louviere-manager-appointment",
@@ -4923,7 +5098,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.76,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -4979,7 +5154,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.36,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -5039,7 +5214,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.19,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5103,7 +5278,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.19,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5257,7 +5432,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 1.45,
+  "score": 1.19,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5318,7 +5493,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.43,
+  "score": 1.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5435,7 +5610,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 2.12,
+  "score": 1.74,
   "topTier": 1,
   "stageHistory": [
    {
@@ -5554,7 +5729,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.4,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5695,7 +5870,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.33,
+  "score": 1.09,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5755,7 +5930,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [
    {
@@ -5818,7 +5993,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.23,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5952,7 +6127,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 1.75,
+  "score": 1.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6009,7 +6184,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6056,7 +6231,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.08,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6197,7 +6372,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.51,
+  "score": 1.24,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6307,7 +6482,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 1.02,
+  "score": 0.84,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6416,7 +6591,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.67,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7250,9 +7425,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.26,
+  "score": 0.23,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7543,7 +7718,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.25,
+  "score": 0.2,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7922,7 +8097,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7992,7 +8167,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8157,7 +8332,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.93,
+  "score": 0.76,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8251,7 +8426,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.21,
+  "score": 0.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8310,7 +8485,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.17,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8396,7 +8571,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.04,
+  "score": 0.85,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8446,7 +8621,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8494,7 +8669,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.5,
+  "score": 0.41,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8550,7 +8725,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.46,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8747,9 +8922,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.65,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8831,7 +9006,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.33,
+  "score": 0.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9075,7 +9250,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9158,9 +9333,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9227,9 +9402,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9292,9 +9467,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9365,9 +9540,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
