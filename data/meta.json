@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T13:42:58.900Z",
+ "updatedAt": "2026-11-11T14:37:15.050Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "carrick-manager-future",
   "liverpool-arsenal-2026-11-10",
-  "mbappe-injury",
-  "man-utd-affairs-ratcliffe-criticism"
+  "barrenetxea-injury",
+  "mbappe-injury"
  ],
  "days": [
   "2026-10-18",
@@ -35,13 +35,13 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
@@ -59,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,19 +83,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -107,13 +107,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -125,7 +125,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -137,7 +137,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 16,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -149,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -161,7 +161,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -173,19 +173,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 9,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -204,7 +204,7 @@
   },
   {
    "name": "노이어",
-   "count": 25
+   "count": 26
   },
   {
    "name": "그릴리시",
@@ -231,6 +231,10 @@
    "count": 17
   },
   {
+   "name": "웨인 루니",
+   "count": 12
+  },
+  {
    "name": "조브 벨링엄",
    "count": 12
   },
@@ -240,10 +244,6 @@
   },
   {
    "name": "콘사",
-   "count": 11
-  },
-  {
-   "name": "웨인 루니",
    "count": 11
   },
   {
@@ -271,12 +271,12 @@
    "count": 10
   },
   {
-   "name": "도르구",
+   "name": "그라벤베르흐",
    "count": 10
   },
   {
-   "name": "그라벤베르흐",
-   "count": 9
+   "name": "도르구",
+   "count": 10
   },
   {
    "name": "헤수스 오워노",
@@ -312,8 +312,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 256,
-  "singleArticleRate": 46,
+  "recentIssues": 249,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -325,7 +325,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 25
+    "count": 29
    },
    {
     "slug": "atletico-barcelona-2026-11-07",
@@ -374,7 +374,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -599,20 +599,6 @@
    ]
   },
   {
-   "en": "Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세이지",
-     "count": 4
-    },
-    {
-     "ko": "사지",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -626,6 +612,24 @@
     },
     {
      "ko": "호르헤 제주스",
+     "count": 1
+    },
+    {
+     "ko": "조르제 주제",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세이지",
+     "count": 4
+    },
+    {
+     "ko": "사지",
      "count": 1
     }
    ]
@@ -921,62 +925,6 @@
    ]
   },
   {
-   "en": "Murillo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 1
-    },
-    {
-     "ko": "무리요",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Granit Xhaka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "샤카",
-     "count": 1
-    },
-    {
-     "ko": "자카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 1
-    },
-    {
-     "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Uli Hoeness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회체스",
-     "count": 1
-    },
-    {
-     "ko": "울리 회네스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Aguirre",
    "dictionary": null,
    "variants": [
@@ -1157,6 +1105,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jonas De Roeck",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조날 드 로에크",
+     "count": 1
+    },
+    {
+     "ko": "조나스 데 뢰크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mamadou Coulibaly",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마무두 쿨리발리",
+     "count": 1
+    },
+    {
+     "ko": "마마두 쿨리발리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Buchanan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부카난",
+     "count": 1
+    },
+    {
+     "ko": "부캐넌",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rodrigo Muniz",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "로드리고 무니즈",
+     "count": 1
+    },
+    {
+     "ko": "로드리고 무니스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1209,8 +1213,8 @@
    "llm": 758
   },
   "2026-11-11": {
-   "collected": 677,
-   "llm": 3309
+   "collected": 711,
+   "llm": 3343
   }
  },
  "llmErrors": []
