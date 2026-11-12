@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-12T19:38:27.945Z",
+ "updatedAt": "2026-11-12T20:29:45.285Z",
  "hot": [
+  "barcelona-arsenal-2026-11-12",
   "carrick-manager-future",
+  "scaloni-argentina-contract",
   "england-croatia-2026-11-12",
-  "pochettino-man-utd-manager-future",
-  "crystal-palace-manager-future",
   "italy-france-2026-11-12"
  ],
  "days": [
@@ -36,20 +36,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
+   "items": 80,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 10,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,31 +85,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 10,
+   "added": 6,
    "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -139,7 +139,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -163,31 +163,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 7,
-   "authorRate": 89
+   "added": 3,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 13,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -273,6 +273,10 @@
    "count": 11
   },
   {
+   "name": "돈나룸마",
+   "count": 11
+  },
+  {
    "name": "보글",
    "count": 11
   },
@@ -293,10 +297,6 @@
    "count": 10
   },
   {
-   "name": "돈나룸마",
-   "count": 10
-  },
-  {
    "name": "도르구",
    "count": 10
   },
@@ -314,16 +314,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 219,
-  "singleArticleRate": 46,
+  "recentIssues": 217,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 135
+    "count": 136
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 97
+    "count": 99
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -404,7 +404,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 3
+     "count": 5
     },
     {
      "ko": "마르크 판 봄멜",
@@ -439,6 +439,20 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 4
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -448,10 +462,6 @@
     },
     {
      "ko": "조르즈 제수스",
-     "count": 1
-    },
-    {
-     "ko": "호르헤 제주스",
      "count": 1
     },
     {
@@ -465,15 +475,19 @@
    ]
   },
   {
-   "en": "De la Fuente",
+   "en": "Peter Shilton",
    "dictionary": null,
    "variants": [
     {
-     "ko": "데 라 푸엔테",
-     "count": 4
+     "ko": "피터 쉴턴",
+     "count": 2
     },
     {
-     "ko": "델라 푸엔테",
+     "ko": "셜턴",
+     "count": 2
+    },
+    {
+     "ko": "피터 쇼턴",
      "count": 1
     }
    ]
@@ -520,24 +534,6 @@
     },
     {
      "ko": "구스타부 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반악넨",
-     "count": 2
-    },
-    {
-     "ko": "한스 반아켄",
-     "count": 1
-    },
-    {
-     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -603,24 +599,6 @@
    ]
   },
   {
-   "en": "Peter Shilton",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피터 쉴턴",
-     "count": 2
-    },
-    {
-     "ko": "셜턴",
-     "count": 1
-    },
-    {
-     "ko": "피터 쇼턴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gary Neville",
    "dictionary": null,
    "variants": [
@@ -676,24 +654,6 @@
     },
     {
      "ko": "발레리앵 이스마엘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hugo Cuypers",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "휴고 퀴퍼스",
-     "count": 1
-    },
-    {
-     "ko": "휴고 쿠이퍼스",
-     "count": 1
-    },
-    {
-     "ko": "위고 퀴퍼스",
      "count": 1
     }
    ]
@@ -777,6 +737,20 @@
    ]
   },
   {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반악넨",
+     "count": 2
+    },
+    {
+     "ko": "한스 반아켄",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -800,6 +774,20 @@
     },
     {
      "ko": "마시 아라우호",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉴데루프",
+     "count": 2
+    },
+    {
+     "ko": "쉐르델루프",
      "count": 1
     }
    ]
@@ -877,11 +865,11 @@
      "count": 1
     },
     {
-     "ko": "귈레르",
+     "ko": "귀데르",
      "count": 1
     },
     {
-     "ko": "귀데르",
+     "ko": "귈레르",
      "count": 1
     }
    ]
@@ -896,6 +884,24 @@
     },
     {
      "ko": "엘리 주니어 쿠프이",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alan Shearer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앨런 셔러",
+     "count": 1
+    },
+    {
+     "ko": "앨런 셰어러",
+     "count": 1
+    },
+    {
+     "ko": "앨런 시어러",
      "count": 1
     }
    ]
@@ -989,6 +995,20 @@
    ]
   },
   {
+   "en": "Hugo Cuypers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "휴고 퀴퍼스",
+     "count": 1
+    },
+    {
+     "ko": "위고 퀴퍼스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Merson",
    "dictionary": null,
    "variants": [
@@ -1045,20 +1065,6 @@
    ]
   },
   {
-   "en": "Quadri",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콰드리",
-     "count": 1
-    },
-    {
-     "ko": "쿠아드리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jamie Gittens",
    "dictionary": null,
    "variants": [
@@ -1110,20 +1116,6 @@
     },
     {
      "ko": "파블리디",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diomande",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오만데",
-     "count": 1
-    },
-    {
-     "ko": "디오망드",
      "count": 1
     }
    ]
@@ -1187,8 +1179,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 326,
-   "llm": 326
+   "collected": 375,
+   "llm": 375
   }
  },
  "llmErrors": []
