@@ -10,6 +10,7 @@ import { boardIssues } from '../lib/transfers.mjs';
 import { LEAGUES, CLUBS } from '../../config/clubs.mjs';
 import { PLAYERS, KOREAN_PLAYERS, isKorean } from '../../config/players.mjs';
 import { clubBadge, clubBadgeByName } from '../../config/badges.mjs';
+import { photoFor } from '../lib/photos.mjs';
 
 const { meta, issues, issueBySlug } = loadData();
 const now = Date.now();
@@ -28,7 +29,8 @@ const career = loadCareerQuizzes().published[0];
 // 이적 레이더: 주목도 상위 6건 (출발 → 행선지 배지 + 단계 막대)
 const radar = board.slice(0, 6).map((b: any) => {
   const t = b.issue.transfer ?? {};
-  return { slug: b.issue.slug, stage: b.stage, player: t.player ?? b.issue.titleKo, title: b.issue.titleKo, from: clubBadgeByName(t.from), to: clubBadgeByName(t.to), sources: b.issue.sourceCount, hot: b.hot };
+  const photo = photoFor({ slug: b.issue.playerTags?.[0], ko: t.player });
+  return { slug: b.issue.slug, stage: b.stage, player: t.player ?? b.issue.titleKo, title: b.issue.titleKo, from: clubBadgeByName(t.from), to: clubBadgeByName(t.to), sources: b.issue.sourceCount, hot: b.hot, photo };
 });
 
 // 코리안리거: 최근 24시간 보도 수 (많은 순, 보도 없는 선수는 뒤로)
@@ -38,7 +40,7 @@ for (const a of recent) {
   if (Date.parse(a.publishedAt) < dayAgo) continue;
   for (const t of a.playerTags ?? []) if (isKorean(t)) krCount.set(t, (krCount.get(t) ?? 0) + 1);
 }
-const koreans = KOREAN_PLAYERS.map((p: any) => ({ ...p, n: krCount.get(p.slug) ?? 0, b: clubBadge(p.club) }))
+const koreans = KOREAN_PLAYERS.map((p: any) => ({ ...p, n: krCount.get(p.slug) ?? 0, b: clubBadge(p.club), photo: photoFor({ slug: p.slug }) }))
   .sort((a: any, b: any) => b.n - a.n)
   .slice(0, 8);
 ---
@@ -71,14 +73,17 @@ const koreans = KOREAN_PLAYERS.map((p: any) => ({ ...p, n: krCount.get(p.slug) ?
         {radar.map((r: any) => (
           <li>
             <a href={`/issue/${r.slug}`}>
-              <span class="route">
-                <span class:list={['badge rdot', { 'badge-plain': !r.from?.bg }]} style={r.from?.bg ? `background:${r.from.bg};color:${r.from.fg}` : undefined} title={r.from?.ko ?? '미상'}>{r.from?.text ?? '?'}</span>
-                <span class="rarrow" aria-hidden="true">→</span>
-                <span class:list={['badge rdot', { 'badge-plain': !r.to?.bg }]} style={r.to?.bg ? `background:${r.to.bg};color:${r.to.fg}` : undefined} title={r.to?.ko ?? '미상'}>{r.to?.text ?? '?'}</span>
-              </span>
+              {r.photo
+                ? <img class="rphoto" src={r.photo.file} alt="" width="48" height="48" loading="lazy" title={`사진: ${r.photo.author} / ${r.photo.license}`} />
+                : <span class:list={['badge rphoto', { 'badge-plain': !r.to?.bg }]} style={r.to?.bg ? `background:${r.to.bg};color:${r.to.fg}` : undefined}>{(r.player ?? '?')[0]}</span>}
               <span class="rbody">
                 <strong>{r.player}{r.hot && ' 🔥'}</strong>
-                <span class="rsub">{r.from?.ko ?? '?'} → {r.to?.ko ?? '?'} · {r.sources}개 매체</span>
+                <span class="route">
+                  <span class:list={['badge rdot', { 'badge-plain': !r.from?.bg }]} style={r.from?.bg ? `background:${r.from.bg};color:${r.from.fg}` : undefined} title={r.from?.ko ?? '미상'}>{r.from?.text ?? '?'}</span>
+                  <span class="rarrow" aria-hidden="true">→</span>
+                  <span class:list={['badge rdot', { 'badge-plain': !r.to?.bg }]} style={r.to?.bg ? `background:${r.to.bg};color:${r.to.fg}` : undefined} title={r.to?.ko ?? '미상'}>{r.to?.text ?? '?'}</span>
+                  <span class="rsub">{r.from?.ko ?? '?'} → {r.to?.ko ?? '?'} · {r.sources}개 매체</span>
+                </span>
               </span>
               <StageBar stage={r.stage} />
             </a>
@@ -86,6 +91,7 @@ const koreans = KOREAN_PLAYERS.map((p: any) => ({ ...p, n: krCount.get(p.slug) ?
         ))}
       </ul>
     ) : <p class="empty">진행 중인 이적설이 없습니다.</p>}
+    <p class="photo-credit">선수 사진: 위키미디어 공용 (CC 라이선스) · <a href="/credits">출처 보기</a></p>
   </section>
  </div>
 
@@ -101,13 +107,16 @@ const koreans = KOREAN_PLAYERS.map((p: any) => ({ ...p, n: krCount.get(p.slug) ?
       {koreans.map((p: any) => (
         <li>
           <a href={`/player/${p.slug}`} class:list={{ quiet: !p.n }}>
-            <span class:list={['badge kr-ava', { 'badge-plain': !p.b.bg }]} style={p.b.bg ? `background:${p.b.bg};color:${p.b.fg}` : undefined}>{p.ko[0]}</span>
+            {p.photo
+              ? <img class="kr-ava kr-photo" src={p.photo.file} alt="" width="48" height="48" loading="lazy" style={p.b.bg ? `--ring:${p.b.bg}` : undefined} title={`사진: ${p.photo.author} / ${p.photo.license}`} />
+              : <span class:list={['badge kr-ava', { 'badge-plain': !p.b.bg }]} style={p.b.bg ? `background:${p.b.bg};color:${p.b.fg}` : undefined}>{p.ko[0]}</span>}
             <span class="kr-name">{p.ko}</span>
             <span class="kr-n">{p.n ? `오늘 ${p.n}건` : '조용함'}</span>
           </a>
         </li>
       ))}
     </ul>
+    <p class="photo-credit">선수 사진: 위키미디어 공용 (CC 라이선스) · <a href="/credits">출처 보기</a></p>
   </section>
  </div>
 

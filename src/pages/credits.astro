@@ -1,0 +1,23 @@
+---
+// 사진 출처: 위키미디어 공용 자유 라이선스 사진의 작성자·라이선스 표시 (라이선스 조건)
+import Layout from '../layouts/Layout.astro';
+import { allPhotos } from '../lib/photos.mjs';
+const photos = allPhotos();
+---
+
+<Layout title="사진 출처" description="사이트에 쓰인 선수 사진의 작성자와 라이선스">
+  <h1 class="page-title">사진 출처 <small>위키미디어 공용 자유 라이선스</small></h1>
+  <p class="muted small">선수 사진은 위키미디어 공용(Wikimedia Commons)에 자유 라이선스로 공개된 사진을 작게 줄여 사용합니다. 사진마다 작성자와 라이선스는 아래와 같습니다. 기사 사진은 쓰지 않습니다.</p>
+  <ul class="credits">
+    {photos.map((p: any) => (
+      <li>
+        <img src={p.file} alt={p.ko} width="40" height="40" loading="lazy" />
+        <span>
+          <b>{p.ko}</b><br />
+          사진: <a href={p.page} target="_blank" rel="noopener nofollow">{p.author}</a> ·{' '}
+          {p.licenseUrl ? <a href={p.licenseUrl} target="_blank" rel="noopener nofollow">{p.license}</a> : p.license}
+        </span>
+      </li>
+    ))}
+  </ul>
+</Layout>
