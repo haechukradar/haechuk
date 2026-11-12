@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T23:41:57.408Z",
+ "updatedAt": "2026-11-12T00:35:49.555Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "man-utd-affairs-ratcliffe-criticism",
+  "mbappe-injury",
   "carrick-manager-future",
-  "kane-award",
-  "liverpool-arsenal-2026-11-10"
+  "kane-award"
  ],
  "days": [
   "2026-10-18",
@@ -36,7 +36,7 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -48,7 +48,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -72,7 +72,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -91,7 +91,7 @@
    "ok": true,
    "items": 50,
    "added": 2,
-   "authorRate": 78
+   "authorRate": 74
   },
   "fblondon": {
    "ok": true,
@@ -138,7 +138,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -150,7 +150,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -168,7 +168,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 0,
    "authorRate": 86
   },
   "star": {
@@ -185,7 +185,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -313,7 +313,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
+  "recentIssues": 231,
   "singleArticleRate": 45,
   "broad": [
    {
@@ -401,20 +401,6 @@
     },
     {
      "ko": "라맨스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 6
-    },
-    {
-     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -587,6 +573,20 @@
     },
     {
      "ko": "데이비드 모예스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -976,6 +976,20 @@
    ]
   },
   {
+   "en": "Dani Rebollo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레볼레이라",
+     "count": 1
+    },
+    {
+     "ko": "다니 헤볼로",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Costa",
    "dictionary": null,
    "variants": [
@@ -1100,20 +1114,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Kieran McKenna",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥케나",
-     "count": 1
-    },
-    {
-     "ko": "키런 매케나",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1170,8 +1170,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 329,
-   "llm": 329
+   "collected": 337,
+   "llm": 337
   }
  },
  "llmErrors": []
