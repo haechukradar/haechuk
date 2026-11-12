@@ -1,10 +1,13 @@
 ---
 // 이슈 카드: 여러 매체 보도를 하나로 묶은 단위
+// 글을 줄이고 시각 요소로: 관련 클럽 배지, 보도 매체 점(티어 색), 이적이면 단계 진행 막대
 import { sourceOf } from '../lib/data.mjs';
-import { bestReport } from '../../config/tiers.mjs';
-import { STAGE_LABEL, CATEGORY_LABEL, stageChangeInfo, isRecentChange } from '../lib/labels.mjs';
+import { bestReport, tierOf } from '../../config/tiers.mjs';
+import { CATEGORY_LABEL, stageChangeInfo, isRecentChange } from '../lib/labels.mjs';
 import { commentaryFor } from '../../config/commentary.mjs';
 import { PIPELINE } from '../../config/site.mjs';
+import ClubDots from './ClubDots.astro';
+import StageBar from './StageBar.astro';
 
 interface Props {
   issue: any;
@@ -18,28 +21,38 @@ const best = bestReport(issue.articles);
 const last = issue.articles.at(-1);
 const commentary = commentaryFor(issue.slug);
 const change = isRecentChange(issue.stageChange) ? stageChangeInfo(issue.stageChange) : null;
+// 매체마다 점 하나, 그 매체 보도 중 가장 높은 기사 티어 색
+const sourceTiers = new Map<string, number>();
+for (const a of issue.articles) sourceTiers.set(a.source, Math.min(sourceTiers.get(a.source) ?? 4, tierOf(a)));
+const dots = [...sourceTiers.values()].sort((a, b) => a - b);
 ---
 
 <a class:list={['issue', { hot, hero }]} href={`/issue/${issue.slug}`} data-clubs={issue.clubs.join(' ')} data-tier={issue.topTier} data-hot={issue.recentSources >= PIPELINE.hotMinSources ? '1' : '0'}>
   <div class="issue-head">
     {rank && <span class="rank">{rank}</span>}
-    {hot && <span class="fire" title="다매체 동시 보도">🔥</span>}
-    {issue.stage ? <span class={`stage stage-${issue.stage}`}>{STAGE_LABEL[issue.stage]}</span> : <span class="cat">{CATEGORY_LABEL[issue.category] ?? '일반'}</span>}
     <strong class="issue-title">{title}</strong>
   </div>
-  {issue.titleKo && <p class="orig">{issue.headline}</p>}
+  {hero && issue.titleKo && <p class="orig clamp1">{issue.headline}</p>}
+  <div class="issue-vis">
+    <ClubDots clubs={issue.clubs} size={hero ? 30 : 24} />
+    {issue.stage ? <StageBar stage={issue.stage} compact={!hero} /> : <span class="cat">{CATEGORY_LABEL[issue.category] ?? '일반'}</span>}
+    <span class="sdots" title={`${issue.sourceCount}개 매체 보도 · 최고 T${best.tier} ${best.name}`}>
+      {dots.slice(0, 12).map((t) => <i class={`sdot t${t}`} />)}
+      <b>{issue.sourceCount}</b>
+    </span>
+  </div>
   {
     change && (
       <p class={`change change-${change.kind}`}>
-        {change.icon} 단계 {change.kind === 'up' ? '진전' : '변화'}: {change.text} · <time data-ts={issue.stageChange.at} datetime={issue.stageChange.at}></time>
+        {change.icon} {change.text} · <time data-ts={issue.stageChange.at} datetime={issue.stageChange.at}></time>
       </p>
     )
   }
   {commentary && <span class="commentary-badge" role="link" tabindex="0" data-href={commentary.url}>📝 심층 해설 (SPOCHAT) →</span>}
   <div class="meta">
-    <span>{issue.sourceCount}개 매체</span>
-    <span class={`tier tier-${best.tier}`}>최고 T{best.tier} · {best.name}{best.note && ` (${best.note})`}</span>
-    <span>최초: {issue.firstReport.name}{sourceOf(issue.firstReport.source ?? '').paywall ? ' 🔒' : ''}</span>
+    {hot && <span class="fire" title="다매체 동시 보도">🔥</span>}
+    <span class={`tier tier-${best.tier}`}>T{best.tier} · {best.name}</span>
+    <span>최초 {issue.firstReport.name}{sourceOf(issue.firstReport.source ?? '').paywall ? ' 🔒' : ''}</span>
     <time data-ts={last.publishedAt} datetime={last.publishedAt}></time>
   </div>
 </a>

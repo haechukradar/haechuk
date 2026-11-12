@@ -159,6 +159,21 @@ export function clubBadge(slug) {
   return { text: slug.slice(0, 3).toUpperCase(), bg: null, fg: null, ko: slug };
 }
 
+// 한글 클럽명(LLM이 뽑은 이적 출발·행선지) → 배지. 사전에 없으면 무채색 배지에 이름 앞 두 글자
+const squashKo = (x) => (x ?? '').replace(/\s+/g, '');
+const KO_INDEX = [
+  ...Object.keys(CLUB_BADGE).map((slug) => [squashKo(CLUB_BY_SLUG[slug]?.ko), slug]),
+  ...Object.entries(EXTRA_BADGE).map(([slug, e]) => [squashKo(e[2]), slug]),
+].filter(([k]) => k);
+const KO_ALIAS = { 맨유: 'man-utd', 맨시티: 'man-city', 레알: 'real-madrid', 바르사: 'barcelona', 아틀레티코: 'atletico', 바이에른: 'bayern', 도르트문트: 'dortmund' };
+export function clubBadgeByName(name) {
+  const k = squashKo(name);
+  if (!k) return null;
+  const slug = KO_ALIAS[k] ?? KO_INDEX.find(([ko]) => ko === k)?.[1] ?? KO_INDEX.find(([ko]) => ko.startsWith(k) || k.startsWith(ko))?.[1];
+  if (slug) return clubBadge(slug);
+  return { text: name.replace(/\s+/g, '').slice(0, 2), bg: null, fg: null, ko: name };
+}
+
 // 클럽이 없는 기사: 리그 약칭 (무채색). 리그도 없으면 빈 배지 → 공 아이콘
 const LEAGUE_BADGE = { epl: 'EPL', laliga: 'LIGA', seriea: 'SA', bundesliga: 'BUN', ligue1: 'L1' };
 

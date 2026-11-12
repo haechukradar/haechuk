@@ -1,0 +1,20 @@
+---
+// 클럽 배지 묶음 (겹친 동그라미) — 이슈·이적 카드의 관련 클럽 표시
+import { clubBadge } from '../../config/badges.mjs';
+
+interface Props {
+  clubs: string[];
+  max?: number;
+  size?: number;
+}
+const { clubs, max = 3, size = 26 } = Astro.props;
+const list = [...new Set(clubs)].slice(0, max).map((c) => clubBadge(c));
+---
+
+{list.length > 0 && (
+  <span class="cdots" style={`--d:${size}px`}>
+    {list.map((b) => (
+      <span class:list={['badge cdot', { 'badge-plain': !b.bg }]} style={b.bg ? `background:${b.bg};color:${b.fg}` : undefined} title={b.ko}>{b.text}</span>
+    ))}
+  </span>
+)}

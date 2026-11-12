@@ -1,0 +1,21 @@
+---
+// 이적 단계 진행 막대: 관심 → 협상 → 합의 → 확정 4칸 (결렬은 빨간 막대)
+interface Props {
+  stage: string | null;
+  compact?: boolean;
+}
+const { stage, compact = false } = Astro.props;
+const STEPS = ['interest', 'negotiation', 'agreement', 'done'];
+const LABEL: Record<string, string> = { interest: '관심', negotiation: '협상', agreement: '합의', done: '확정', collapsed: '결렬' };
+const at = STEPS.indexOf(stage ?? '');
+const collapsed = stage === 'collapsed';
+---
+
+{stage && (
+  <span class:list={['sbar', { compact, collapsed }]} title={`이적 단계: ${LABEL[stage] ?? stage}`}>
+    <span class="sbar-track" aria-hidden="true">
+      {STEPS.map((s, n) => <i class:list={[{ on: collapsed || n <= at }, `s-${collapsed ? 'collapsed' : STEPS[Math.max(at, 0)]}`]} />)}
+    </span>
+    <span class="sbar-label">{LABEL[stage] ?? stage}</span>
+  </span>
+)}

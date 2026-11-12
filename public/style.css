@@ -449,3 +449,92 @@ a.player-tile { flex-direction: column; justify-content: flex-start; }
 @media (max-width: 440px) {
   .nav a.nav-archive { display: none; }
 }
+
+/* ── 대시보드형 화면 (메인): 연회색 바탕 + 흰 카드 구역, 글 대신 숫자·배지·진행 막대 ── */
+:root { --canvas: #f1f2f4; --panel: #ffffff; --panel-line: #e3e5e8; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme='light']) { --canvas: #0e0e0e; --panel: #1b1b1b; --panel-line: #2c2c2c; } }
+body.dash { background: var(--canvas); }
+body.dash .top { background: var(--bg); }
+.panel { background: var(--panel); border: 1px solid var(--panel-line); border-radius: 12px; padding: 18px 18px 6px; margin-bottom: 16px; }
+.panel .sec { font-size: 18px; line-height: 24px; }
+.panel .feed, .panel .issues { border-top: 0; }
+.panel .card:last-child, .panel .issue:last-child { border-bottom: 0; }
+
+.kpis { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin: 20px 0 16px; }
+.kpi { display: flex; flex-direction: column; gap: 2px; padding: 14px 16px; background: var(--panel); border: 1px solid var(--panel-line); border-radius: 12px; text-decoration: none; color: var(--text); }
+.kpi-label { font-size: 13px; line-height: 18px; color: var(--text-2); font-weight: 600; }
+.kpi-num { font-size: 30px; line-height: 38px; font-weight: 800; letter-spacing: -0.02em; }
+.kpi-q { font-size: 22px; }
+.kpi-sub { font-size: 12px; line-height: 16px; color: var(--text-3); }
+a.kpi:hover { border-color: var(--text-3); }
+.kpi-cta { background: var(--hero); border-color: var(--hero); color: #fff; }
+.kpi-cta .kpi-label, .kpi-cta .kpi-sub { color: rgba(255, 255, 255, 0.75); }
+
+.home { grid-template-areas: 'mine side' 'radar side' 'latest side'; column-gap: 16px; }
+.home-radar { grid-area: radar; }
+body.dash .home-mine section:first-child, body.dash .home-side section:first-child { margin-top: 0; }
+body.dash .hint { margin: 0 0 16px; }
+
+/* 이적 단계 진행 막대 */
+.sbar { display: inline-flex; align-items: center; gap: 6px; }
+.sbar-track { display: inline-flex; gap: 2px; }
+.sbar-track i { width: 14px; height: 6px; border-radius: 2px; background: var(--line-strong); }
+.sbar.compact .sbar-track i { width: 10px; height: 5px; }
+.sbar-track i.on.s-interest { background: #8a8a8a; }
+.sbar-track i.on.s-negotiation { background: #f08c00; }
+.sbar-track i.on.s-agreement { background: #7b5cd6; }
+.sbar-track i.on.s-done { background: #1f9d55; }
+.sbar.collapsed .sbar-track i { background: #e03131; }
+.sbar-label { font-size: 12px; line-height: 16px; font-weight: 700; color: var(--text-2); }
+
+/* 클럽 배지 묶음, 보도 매체 점 */
+.cdots { display: inline-flex; }
+.cdot { width: var(--d); height: var(--d); font-size: 8px; margin: 0; border: 2px solid var(--panel); }
+.cdot + .cdot { margin-left: -6px; }
+.issue-vis { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; margin-top: 8px; }
+.sdots { display: inline-flex; align-items: center; gap: 2px; }
+.sdot { width: 7px; height: 7px; border-radius: 50%; background: var(--line-strong); }
+.sdot.t1 { background: #2b3a55; }
+.sdot.t2 { background: #6b7a99; }
+.sdot.t3 { background: #c9a227; }
+.sdot.t4 { background: #c4c4c4; }
+.sdots b { margin-left: 4px; font-size: 12px; line-height: 16px; color: var(--text-2); }
+.issue.hero .sdots b, .issue.hero .sbar-label { color: rgba(255, 255, 255, 0.85); }
+.issue.hero .cdot { border-color: var(--hero); }
+.issue .meta { margin-top: 8px; }
+.clamp1 { display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* 이적 레이더 */
+.radar { list-style: none; margin: 0; padding: 0; }
+.radar li + li { border-top: 1px solid var(--line); }
+.radar a { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 12px; padding: 10px 0; text-decoration: none; color: var(--text); }
+.radar .route { display: inline-flex; align-items: center; gap: 4px; }
+.rdot { width: 30px; height: 30px; font-size: 9px; margin: 0; }
+.rarrow { color: var(--text-3); font-size: 13px; }
+.rbody { display: flex; flex-direction: column; min-width: 0; }
+.rbody strong { font-size: 15px; line-height: 20px; font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.rsub { font-size: 12px; line-height: 16px; color: var(--text-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.radar a:hover strong { text-decoration: underline; text-underline-offset: 3px; }
+
+/* 코리안리거 */
+.kr-grid { list-style: none; margin: 0 0 12px; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px 6px; }
+.kr-grid a { display: flex; flex-direction: column; align-items: center; gap: 3px; text-decoration: none; color: var(--text); text-align: center; }
+.kr-ava { width: 44px; height: 44px; font-size: 17px; margin: 0; }
+.kr-name { font-size: 12px; line-height: 16px; font-weight: 600; }
+.kr-n { font-size: 11px; line-height: 14px; color: var(--blue); font-weight: 700; }
+.kr-grid a.quiet .kr-ava { opacity: 0.45; }
+.kr-grid a.quiet .kr-n { color: var(--text-3); font-weight: 500; }
+
+/* 뉴스 카드: 원문 제목은 한 줄로 흐리게 (요약 아래 원문 병기 원칙은 유지) */
+.card .orig { display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; color: var(--text-3); font-size: 12px; line-height: 18px; }
+
+@media (max-width: 1023px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 767px) {
+  .panel { padding: 14px 14px 4px; border-radius: 10px; }
+  .kpis { gap: 8px; margin-top: 12px; }
+  .kpi { padding: 12px; }
+  .kpi-num { font-size: 24px; line-height: 30px; }
+  .kpi-q { font-size: 18px; }
+  .radar a { grid-template-columns: auto minmax(0, 1fr); }
+  .radar .sbar { grid-column: 2; }
+}

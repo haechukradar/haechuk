@@ -4,22 +4,56 @@ import NewsCard from '../components/NewsCard.astro';
 import IssueCard from '../components/IssueCard.astro';
 import FeedFilter from '../components/FeedFilter.astro';
 import FilterEmpty from '../components/FilterEmpty.astro';
-import { loadData, recentArticles } from '../lib/data.mjs';
+import StageBar from '../components/StageBar.astro';
+import { loadData, recentArticles, loadCareerQuizzes } from '../lib/data.mjs';
+import { boardIssues } from '../lib/transfers.mjs';
 import { LEAGUES, CLUBS } from '../../config/clubs.mjs';
-import { PLAYERS, isKorean } from '../../config/players.mjs';
+import { PLAYERS, KOREAN_PLAYERS, isKorean } from '../../config/players.mjs';
+import { clubBadge, clubBadgeByName } from '../../config/badges.mjs';
 
-const { meta, issueBySlug } = loadData();
+const { meta, issues, issueBySlug } = loadData();
+const now = Date.now();
 const hot = meta.hot.map((s: string) => issueBySlug.get(s)).filter(Boolean);
-const feed = recentArticles(3).slice(0, 300);
-const koreanFeed = recentArticles(3).filter((a: any) => (a.playerTags ?? a.koreans ?? []).some(isKorean)).slice(0, 3);
+const recent = recentArticles(3);
+const feed = recent.slice(0, 300);
 const clubNames = Object.fromEntries(CLUBS.map((c) => [c.slug, c.ko]));
 const playerNames = Object.fromEntries(PLAYERS.map((p) => [p.slug, p.ko]));
+
+// 숫자 요약
+const collected24h = recent.filter((a: any) => Date.parse(a.publishedAt) >= now - 24 * 3600_000).length;
+const board = boardIssues(issues, now);
+const activeDeals = board.filter((b: any) => b.stage === 'negotiation' || b.stage === 'agreement').length;
+const career = loadCareerQuizzes().published[0];
+
+// 이적 레이더: 주목도 상위 6건 (출발 → 행선지 배지 + 단계 막대)
+const radar = board.slice(0, 6).map((b: any) => {
+  const t = b.issue.transfer ?? {};
+  return { slug: b.issue.slug, stage: b.stage, player: t.player ?? b.issue.titleKo, title: b.issue.titleKo, from: clubBadgeByName(t.from), to: clubBadgeByName(t.to), sources: b.issue.sourceCount, hot: b.hot };
+});
+
+// 코리안리거: 최근 24시간 보도 수 (많은 순, 보도 없는 선수는 뒤로)
+const dayAgo = now - 24 * 3600_000;
+const krCount = new Map<string, number>();
+for (const a of recent) {
+  if (Date.parse(a.publishedAt) < dayAgo) continue;
+  for (const t of a.playerTags ?? []) if (isKorean(t)) krCount.set(t, (krCount.get(t) ?? 0) + 1);
+}
+const koreans = KOREAN_PLAYERS.map((p: any) => ({ ...p, n: krCount.get(p.slug) ?? 0, b: clubBadge(p.club) }))
+  .sort((a: any, b: any) => b.n - a.n)
+  .slice(0, 8);
 ---
 
-<Layout wide>
+<Layout wide dash>
+<div class="kpis">
+  <div class="kpi"><span class="kpi-label">최근 24시간 기사</span><b class="kpi-num">{collected24h.toLocaleString()}</b><span class="kpi-sub">26개 해외 매체 실시간 수집</span></div>
+  <a class="kpi" href="/transfers"><span class="kpi-label">협상·합의 단계 이적설</span><b class="kpi-num">{activeDeals}</b><span class="kpi-sub">진행 중 전체 {board.length}건 →</span></a>
+  <div class="kpi"><span class="kpi-label">지금 뜨는 이슈</span><b class="kpi-num">{hot.length}</b><span class="kpi-sub">12시간 다매체 동시 보도</span></div>
+  {career && <a class="kpi kpi-cta" href="/quiz/career"><span class="kpi-label">오늘의 퀴즈</span><b class="kpi-num kpi-q">나 누구게?</b><span class="kpi-sub">커리어 퀴즈 · {career.level} →</span></a>}
+</div>
+
 <div class="home">
  <div class="home-mine">
-  <section id="my-clubs" hidden>
+  <section class="panel" id="my-clubs" hidden>
     <h2 class="sec">⭐ 내 클럽·선수 소식 <small id="my-clubs-names"></small></h2>
     <div class="feed" id="my-feed"></div>
     <p class="empty" id="my-empty" hidden>최근 3일간 내 클럽·선수 소식이 없습니다.</p>
@@ -29,28 +63,56 @@ const playerNames = Object.fromEntries(PLAYERS.map((p) => [p.slug, p.ko]));
   </p>
  </div>
 
- <div class="home-side">
+ <div class="home-radar">
+  <section class="panel">
+    <h2 class="sec">이적 레이더 <small><a href="/transfers">이적 현황 전체 →</a></small></h2>
+    {radar.length ? (
+      <ul class="radar">
+        {radar.map((r: any) => (
+          <li>
+            <a href={`/issue/${r.slug}`}>
+              <span class="route">
+                <span class:list={['badge rdot', { 'badge-plain': !r.from?.bg }]} style={r.from?.bg ? `background:${r.from.bg};color:${r.from.fg}` : undefined} title={r.from?.ko ?? '미상'}>{r.from?.text ?? '?'}</span>
+                <span class="rarrow" aria-hidden="true">→</span>
+                <span class:list={['badge rdot', { 'badge-plain': !r.to?.bg }]} style={r.to?.bg ? `background:${r.to.bg};color:${r.to.fg}` : undefined} title={r.to?.ko ?? '미상'}>{r.to?.text ?? '?'}</span>
+              </span>
+              <span class="rbody">
+                <strong>{r.player}{r.hot && ' 🔥'}</strong>
+                <span class="rsub">{r.from?.ko ?? '?'} → {r.to?.ko ?? '?'} · {r.sources}개 매체</span>
+              </span>
+              <StageBar stage={r.stage} />
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : <p class="empty">진행 중인 이적설이 없습니다.</p>}
+  </section>
+ </div>
 
-  <section>
-    <h2 class="sec">🔥 지금 뜨는 이슈 <small>최근 12시간 다매체 동시 보도 기준</small></h2>
+ <div class="home-side">
+  <section class="panel">
+    <h2 class="sec">🔥 지금 뜨는 이슈</h2>
     {hot.length ? <div class="issues">{hot.map((i: any, n: number) => <IssueCard issue={i} rank={n + 1} hot hero={n === 0} />)}</div> : <p class="empty">아직 집계된 핫 트렌드가 없습니다.</p>}
   </section>
 
-  {
-    koreanFeed.length > 0 && (
-      <section>
-        <h2 class="sec">
-          🇰🇷 코리안리거 <small><a href="/korean">전체 보기 →</a></small>
-        </h2>
-        <div class="feed">{koreanFeed.map((a: any) => <NewsCard a={a} />)}</div>
-      </section>
-    )
-  }
-
+  <section class="panel">
+    <h2 class="sec">🇰🇷 코리안리거 <small><a href="/korean">전체 →</a></small></h2>
+    <ul class="kr-grid">
+      {koreans.map((p: any) => (
+        <li>
+          <a href={`/player/${p.slug}`} class:list={{ quiet: !p.n }}>
+            <span class:list={['badge kr-ava', { 'badge-plain': !p.b.bg }]} style={p.b.bg ? `background:${p.b.bg};color:${p.b.fg}` : undefined}>{p.ko[0]}</span>
+            <span class="kr-name">{p.ko}</span>
+            <span class="kr-n">{p.n ? `오늘 ${p.n}건` : '조용함'}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
  </div>
 
  <div class="home-latest">
-  <section>
+  <section class="panel">
     <h2 class="sec">최신 뉴스 <small>해외 원 소스 실시간</small></h2>
     <FeedFilter target="feed" />
     <div class="chips" id="league-filter">
