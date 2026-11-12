@@ -1,11 +1,10 @@
 {
- "updatedAt": "2026-11-12T10:13:20.730Z",
+ "updatedAt": "2026-11-12T11:16:31.920Z",
  "hot": [
-  "gladbach-mohya-affairs-future",
-  "pochettino-man-utd-manager-future",
   "carrick-manager-future",
-  "olise-cold-italy-2026-11-12",
-  "man-utd-affairs-ratcliffe-criticism"
+  "pochettino-man-utd-manager-future",
+  "gladbach-mohya-affairs-future",
+  "kane-award"
  ],
  "days": [
   "2026-10-18",
@@ -35,20 +34,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 86,
-   "added": 0,
+   "items": 85,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 0,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -60,7 +59,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -72,7 +71,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -84,19 +83,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 74
+   "added": 4,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "men": {
@@ -108,7 +107,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -132,13 +131,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -150,7 +149,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -168,13 +167,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
-   "authorRate": 93
+   "added": 5,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
@@ -185,8 +184,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 6,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -284,6 +283,10 @@
    "count": 10
   },
   {
+   "name": "수비멘디",
+   "count": 10
+  },
+  {
    "name": "도르구",
    "count": 10
   },
@@ -300,29 +303,25 @@
    "count": 9
   },
   {
-   "name": "수비멘디",
+   "name": "윌 랭크셔",
    "count": 9
   },
   {
    "name": "페르민",
    "count": 9
-  },
-  {
-   "name": "쿠바르시",
-   "count": 9
   }
  ],
  "issueHealth": {
-  "recentIssues": 234,
+  "recentIssues": 229,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 101
+    "count": 117
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 64
+    "count": 70
    },
    {
     "slug": "birmingham-affairs-tom-brady-stake",
@@ -354,6 +353,20 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 9
+    },
+    {
+     "ko": "파울로 폰세카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -362,26 +375,8 @@
      "count": 5
     },
     {
-     "ko": "세이지",
-     "count": 2
-    },
-    {
      "ko": "피에르 사게",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 8
-    },
-    {
-     "ko": "파울로 폰세카",
-     "count": 1
     }
    ]
   },
@@ -407,6 +402,20 @@
     },
     {
      "ko": "조르제 제수스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Zubimendi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수비멘디",
+     "count": 5
+    },
+    {
+     "ko": "주비멘디",
      "count": 1
     }
    ]
@@ -462,20 +471,6 @@
    ]
   },
   {
-   "en": "JJ Gabriel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "JJ 가브리엘",
-     "count": 4
-    },
-    {
-     "ko": "J.J. 가브리엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Martin Zubimendi",
    "dictionary": null,
    "variants": [
@@ -508,20 +503,6 @@
    ]
   },
   {
-   "en": "Zubimendi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수비멘디",
-     "count": 4
-    },
-    {
-     "ko": "주비멘디",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -549,28 +530,6 @@
     },
     {
      "ko": "하버츠",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세네 라먼스",
-     "count": 1
-    },
-    {
-     "ko": "제너 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "젠 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "라맨스",
      "count": 1
     }
    ]
@@ -622,6 +581,20 @@
     {
      "ko": "세니 마윜루",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Célia Gouveia",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셀리아 구베이아",
+     "count": 2
+    },
+    {
+     "ko": "셀리아 고베이아",
+     "count": 2
     }
    ]
   },
@@ -682,38 +655,6 @@
    ]
   },
   {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 2
-    },
-    {
-     "ko": "티에르노 배리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라먼스",
-     "count": 1
-    },
-    {
-     "ko": "라맨스",
-     "count": 1
-    },
-    {
-     "ko": "라머스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hugo Cuypers",
    "dictionary": null,
    "variants": [
@@ -741,6 +682,24 @@
     },
     {
      "ko": "니아트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제너 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "젠 라멘스",
+     "count": 1
+    },
+    {
+     "ko": "라맨스",
      "count": 1
     }
    ]
@@ -912,20 +871,6 @@
    ]
   },
   {
-   "en": "Célia Gouveia",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셀리아 구베이아",
-     "count": 2
-    },
-    {
-     "ko": "셀리아 고베이아",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Luis de la Fuente",
    "dictionary": null,
    "variants": [
@@ -995,20 +940,6 @@
     },
     {
      "ko": "훌리안",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vozinha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "보지냐",
-     "count": 1
-    },
-    {
-     "ko": "보쟁가",
      "count": 1
     }
    ]
@@ -1110,6 +1041,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Quadri",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콰드리",
+     "count": 1
+    },
+    {
+     "ko": "쿠아드리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jamie Gittens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제이미 기튼스",
+     "count": 1
+    },
+    {
+     "ko": "지틀렌스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rodrigo Mora",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "로드리고 모라",
+     "count": 1
+    },
+    {
+     "ko": "호드리구 모라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kieran McKenna",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥케나",
+     "count": 1
+    },
+    {
+     "ko": "키런 매케나",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1166,8 +1153,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 532,
-   "llm": 532
+   "collected": 585,
+   "llm": 585
   }
  },
  "llmErrors": []
