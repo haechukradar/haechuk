@@ -4,7 +4,7 @@
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임설",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-12T05:00:00.000Z",
+  "updatedAt": "2026-11-12T06:30:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -1009,11 +1009,48 @@
     "playerTags": [],
     "author": "Tyrone Marshall",
     "transfer": null
+   },
+   {
+    "id": "22cefdd5366c",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-move-manchester-united-34897015",
+    "title": "Mauricio Pochettino move to Manchester United highlights familiar problem for Liverpool",
+    "ko": "포체티노 맨유行 움직임, 리버풀의 익숙한 문제 부각",
+    "source": "lecho",
+    "publishedAt": "2026-11-12T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "ac97d0b7b6c1",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-wonderkids-34895422",
+    "title": "Mauricio Pochettino could unlock six wonderkids to save Man United millions if he joins club",
+    "ko": "포체티노 맨유 부임 시 유망주 6명으로 수백만 파운드 절약 가능",
+    "source": "men",
+    "publishedAt": "2026-11-12T06:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Harry Brent",
+    "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 6,
   "sourceCount": 14,
-  "score": 1.32,
+  "score": 2.98,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1028,6 +1065,132 @@
    "viaQuote": false
   },
   "headline": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino"
+ },
+ {
+  "slug": "mikey-moore-rangers-transfer",
+  "mode": "llm",
+  "titleKo": "미키 무어 레인저스 이적 희망",
+  "createdAt": "2026-11-12T06:00:00.000Z",
+  "updatedAt": "2026-11-12T06:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "tottenham"
+  ],
+  "players": [
+   "미키 무어"
+  ],
+  "sig": [
+   "moore",
+   "rangers"
+  ],
+  "articles": [
+   {
+    "id": "799d684348b0",
+    "url": "https://www.football.london/tottenham-hotspur-fc/transfer-news/mikey-moore-makes-rangers-dream-34897963",
+    "title": "Mikey Moore makes Rangers 'dream' transfer wish as Tottenham loan decision explained",
+    "ko": "무어, 레인저스 이적 희망…토트넘 임대 결정 설명",
+    "source": "fblondon",
+    "publishedAt": "2026-11-12T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "미키 무어"
+    ],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": {
+     "player": "미키 무어",
+     "from": "토트넘",
+     "to": "레인저스"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.76,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "799d684348b0",
+    "at": "2026-11-12T06:00:00.000Z",
+    "source": "fblondon",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "미키 무어",
+   "from": "토트넘",
+   "to": "레인저스"
+  },
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-12T06:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Mikey Moore makes Rangers 'dream' transfer wish as Tottenham loan decision explained"
+ },
+ {
+  "slug": "benfica-affairs-political-costs",
+  "mode": "llm",
+  "titleKo": "벤피카 정치적 비용 부담 논란",
+  "createdAt": "2026-11-12T05:46:00.000Z",
+  "updatedAt": "2026-11-12T05:46:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [],
+  "sig": [
+   "gouveia",
+   "sporting",
+   "todos",
+   "benfica"
+  ],
+  "articles": [
+   {
+    "id": "cd2aa0c0a21d",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/detalhe/celia-gouveia-sporting-e-fc-porto-foram-muito-inteligentes-todos-os-custos-politicos-serao-do-benfica",
+    "title": "Célia Gouveia: «Sporting e FC Porto foram muito inteligentes. Todos os custos políticos serão do Benfica»",
+    "ko": "스포르팅·포르투 정치적 영향 언급, 벤피카 비용 부담 전망 (포르투갈 축구 행정 논란)",
+    "source": "record",
+    "publishedAt": "2026-11-12T05:46:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.69,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-12T05:46:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Célia Gouveia: «Sporting e FC Porto foram muito inteligentes. Todos os custos políticos serão do Benfica»"
  },
  {
   "slug": "van-dijk-liverpool-contract",
@@ -1122,7 +1285,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.77,
+  "score": 1.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1137,6 +1300,59 @@
    "viaQuote": false
   },
   "headline": "Alisson Becker and Virgil van Dijk agreement reached as Liverpool contract message sent"
+ },
+ {
+  "slug": "norway-wales-2026-11-12",
+  "mode": "llm",
+  "titleKo": "노르웨이 대 웨일스 경기 전망",
+  "createdAt": "2026-11-12T04:32:42.000Z",
+  "updatedAt": "2026-11-12T04:32:42.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "제임스"
+  ],
+  "sig": [
+   "james",
+   "norwegian",
+   "oslo"
+  ],
+  "articles": [
+   {
+    "id": "81d95c8f7aad",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss",
+    "title": "Wales' James warns of Norwegian revenge in Oslo",
+    "ko": "웨일스 제임스, 오슬로에서 노르웨이 복수 경고",
+    "source": "bbc",
+    "publishedAt": "2026-11-12T04:32:42.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "제임스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.05,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-12T04:32:42.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wales' James warns of Norwegian revenge in Oslo"
  },
  {
   "slug": "prestianni-benfica-contract",
@@ -1175,7 +1391,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.05,
   "topTier": 2,
   "stageHistory": [
    {
@@ -1234,7 +1450,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.03,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1281,7 +1497,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.64,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1374,7 +1590,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1387,6 +1603,67 @@
    "viaQuote": false
   },
   "headline": "Paulo Freitas feliz com a vitória do FC Porto frente ao Benfica: «Premiados com um golo de talento»"
+ },
+ {
+  "slug": "olise-cold-italy-2026-11-12",
+  "mode": "llm",
+  "titleKo": "올리세 감기 이탈 우려, 이탈리아 대표팀 농담",
+  "createdAt": "2026-11-11T23:02:53.000Z",
+  "updatedAt": "2026-11-11T23:02:53.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "올리세"
+  ],
+  "sig": [
+   "mancini",
+   "olise",
+   "erkältung"
+  ],
+  "articles": [
+   {
+    "id": "ab58ca3744bc",
+    "url": "https://www.kicker.de/italien-coach-mancini-scherzt-olise-erkaeltung-waere-doch-toll-1270872/video#omrss",
+    "title": "Italien-Coach Mancini scherzt: Olise-Erkältung \"wäre doch toll\"",
+    "ko": "만치니 감독, 올리세 감기 두고 농담 던져",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T23:02:53.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "올리세"
+    ],
+    "playerTags": [
+     "michael-olise"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "michael-olise"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-11T23:02:53.000Z",
+   "viaQuote": false
+  },
+  "headline": "Italien-Coach Mancini scherzt: Olise-Erkältung \"wäre doch toll\""
  },
  {
   "slug": "man-utd-affairs-ratcliffe-criticism",
@@ -1552,7 +1829,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 0.8,
+  "score": 0.67,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1613,7 +1890,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.55,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [
    {
@@ -1690,7 +1967,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [
    {
@@ -1761,7 +2038,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.39,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1824,7 +2101,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [
    {
@@ -1937,7 +2214,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2791,7 +3068,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2997,7 +3274,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 4,
-  "score": 0.89,
+  "score": 0.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3068,7 +3345,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3221,7 +3498,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3311,7 +3588,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3398,7 +3675,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 2,
   "stageHistory": [
    {
@@ -3506,7 +3783,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3554,9 +3831,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -3602,9 +3879,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3658,9 +3935,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -3814,9 +4091,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3898,9 +4175,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -3995,9 +4272,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -4076,9 +4353,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4155,9 +4432,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,

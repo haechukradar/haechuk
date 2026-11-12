@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T05:42:43.330Z",
+ "updatedAt": "2026-11-12T06:45:13.745Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "mbappe-injury",
@@ -33,8 +33,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 0,
+   "items": 85,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
@@ -46,7 +46,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -58,7 +58,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -88,13 +88,13 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 74
+   "added": 2,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -106,13 +106,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -148,7 +148,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -160,7 +160,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -178,7 +178,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -294,6 +294,10 @@
    "count": 9
   },
   {
+   "name": "수비멘디",
+   "count": 9
+  },
+  {
    "name": "페르민",
    "count": 9
   },
@@ -304,15 +308,11 @@
   {
    "name": "모히아",
    "count": 8
-  },
-  {
-   "name": "트레이 뇨니",
-   "count": 8
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
-  "singleArticleRate": 47,
+  "recentIssues": 236,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -320,7 +320,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 54
+    "count": 56
    }
   ]
  },
@@ -402,36 +402,6 @@
    ]
   },
   {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세네 라먼스",
-     "count": 1
-    },
-    {
-     "ko": "램멘스",
-     "count": 1
-    },
-    {
-     "ko": "센 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "제너 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "젠 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "라맨스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -490,6 +460,32 @@
    ]
   },
   {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세네 라먼스",
+     "count": 1
+    },
+    {
+     "ko": "램멘스",
+     "count": 1
+    },
+    {
+     "ko": "제너 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "젠 라멘스",
+     "count": 1
+    },
+    {
+     "ko": "라맨스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
@@ -503,24 +499,6 @@
     },
     {
      "ko": "세니 마윜루",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 3
-    },
-    {
-     "ko": "데이비드 모이스",
-     "count": 1
-    },
-    {
-     "ko": "데이비드 모예스",
      "count": 1
     }
    ]
@@ -900,6 +878,20 @@
    ]
   },
   {
+   "en": "Mikey Moore",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미키 무어",
+     "count": 2
+    },
+    {
+     "ko": "마이키 무어",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Reinaldo Teixeira",
    "dictionary": null,
    "variants": [
@@ -993,20 +985,6 @@
     },
     {
      "ko": "더용",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Asllani",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아스라니",
-     "count": 1
-    },
-    {
-     "ko": "아슬라니",
      "count": 1
     }
    ]
@@ -1108,6 +1086,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Quadri",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콰드리",
+     "count": 1
+    },
+    {
+     "ko": "쿠아드리",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1164,8 +1156,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 377,
-   "llm": 377
+   "collected": 404,
+   "llm": 404
   }
  },
  "llmErrors": []
