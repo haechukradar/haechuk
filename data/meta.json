@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T16:15:41.269Z",
+ "updatedAt": "2026-11-12T16:42:02.831Z",
  "hot": [
+  "pochettino-man-utd-manager-future",
   "crystal-palace-manager-future",
   "carrick-manager-future",
-  "pochettino-man-utd-manager-future",
-  "korea-national-team-affairs-dressing-room",
-  "man-utd-affairs-crisis-overview"
+  "gladbach-liege-2026-11-10",
+  "korea-national-team-affairs-dressing-room"
  ],
  "days": [
   "2026-10-18",
@@ -36,8 +36,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 1,
+   "items": 84,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -54,14 +54,14 @@
   },
   "espn": {
    "ok": true,
-   "items": 25,
-   "added": 20,
-   "authorRate": 84
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,14 +85,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 78
+   "added": 2,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -103,13 +103,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -139,7 +139,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -157,19 +157,19 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
@@ -181,13 +181,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -314,16 +314,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
-  "singleArticleRate": 45,
+  "recentIssues": 227,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 136
+    "count": 135
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 87
+    "count": 89
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -413,6 +413,32 @@
    ]
   },
   {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 3
+    },
+    {
+     "ko": "마르크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 보멜",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -434,28 +460,6 @@
     },
     {
      "ko": "조르제 제수스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 3
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 봄멜",
      "count": 1
     }
    ]
@@ -737,19 +741,15 @@
    ]
   },
   {
-   "en": "Völler",
+   "en": "Nazinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "볼러",
-     "count": 1
+     "ko": "나지뉴",
+     "count": 2
     },
     {
-     "ko": "푈러",
-     "count": 1
-    },
-    {
-     "ko": "뮐러",
+     "ko": "나지뇨",
      "count": 1
     }
    ]
@@ -842,6 +842,20 @@
     },
     {
      "ko": "레이나우두 테이셰이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "개리 네빌",
+     "count": 2
+    },
+    {
+     "ko": "게리 네빌",
      "count": 1
     }
    ]
@@ -1033,20 +1047,6 @@
    ]
   },
   {
-   "en": "Dele Alli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데일 알리",
-     "count": 1
-    },
-    {
-     "ko": "델레 알리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pavlidis",
    "dictionary": null,
    "variants": [
@@ -1175,8 +1175,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 111,
-   "llm": 111
+   "collected": 140,
+   "llm": 140
   }
  },
  "llmErrors": []
