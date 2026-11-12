@@ -1,7 +1,9 @@
 {
- "updatedAt": "2026-11-12T09:10:45.192Z",
+ "updatedAt": "2026-11-12T10:13:20.730Z",
  "hot": [
+  "gladbach-mohya-affairs-future",
   "pochettino-man-utd-manager-future",
+  "carrick-manager-future",
   "olise-cold-italy-2026-11-12",
   "man-utd-affairs-ratcliffe-criticism"
  ],
@@ -34,19 +36,19 @@
   "bbc": {
    "ok": true,
    "items": 86,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 2,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -82,25 +84,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 74
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -112,7 +114,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -130,13 +132,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -148,13 +150,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -165,26 +167,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 5,
+   "items": 29,
+   "added": 3,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 3,
+   "items": 13,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -239,7 +241,7 @@
   },
   {
    "name": "조브 벨링엄",
-   "count": 12
+   "count": 13
   },
   {
    "name": "티에르노 배리",
@@ -260,6 +262,10 @@
   {
    "name": "보글",
    "count": 11
+  },
+  {
+   "name": "모히아",
+   "count": 10
   },
   {
    "name": "리산드로 마르티네스",
@@ -304,23 +310,19 @@
   {
    "name": "쿠바르시",
    "count": 9
-  },
-  {
-   "name": "이스테방",
-   "count": 8
   }
  ],
  "issueHealth": {
-  "recentIssues": 235,
+  "recentIssues": 234,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 99
+    "count": 101
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 57
+    "count": 64
    },
    {
     "slug": "birmingham-affairs-tom-brady-stake",
@@ -335,7 +337,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "마티아스 야이슬레",
@@ -384,28 +386,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퀼크루그",
-     "count": 3
-    },
-    {
-     "ko": "풀크루그",
-     "count": 1
-    },
-    {
-     "ko": "퓔크루크",
-     "count": 1
-    },
-    {
-     "ko": "퀼크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -442,6 +422,24 @@
     {
      "ko": "튀헬",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퀼크루그",
+     "count": 3
+    },
+    {
+     "ko": "풀크루그",
+     "count": 1
+    },
+    {
+     "ko": "퀼크루크",
+     "count": 1
     }
    ]
   },
@@ -716,20 +714,6 @@
    ]
   },
   {
-   "en": "Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카위작",
-     "count": 2
-    },
-    {
-     "ko": "카위자크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hugo Cuypers",
    "dictionary": null,
    "variants": [
@@ -813,6 +797,24 @@
     },
     {
      "ko": "마시 아라우호",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Völler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "볼러",
+     "count": 1
+    },
+    {
+     "ko": "푈러",
+     "count": 1
+    },
+    {
+     "ko": "뮐러",
      "count": 1
     }
    ]
@@ -905,6 +907,20 @@
     },
     {
      "ko": "레이나우두 테이셰이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Célia Gouveia",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셀리아 구베이아",
+     "count": 2
+    },
+    {
+     "ko": "셀리아 고베이아",
      "count": 1
     }
    ]
@@ -1094,20 +1110,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Quadri",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콰드리",
-     "count": 1
-    },
-    {
-     "ko": "쿠아드리",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1164,8 +1166,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 490,
-   "llm": 490
+   "collected": 532,
+   "llm": 532
   }
  },
  "llmErrors": []

@@ -1,104 +1,117 @@
 [
  {
-  "slug": "haaland-barcelona-transfer",
+  "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
-  "titleKo": "홀란 바르셀로나 이적설",
-  "createdAt": "2026-11-12T08:38:49.000Z",
-  "updatedAt": "2026-11-12T08:38:49.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "barcelona"
-  ],
-  "players": [
-   "엘링 홀란"
-  ],
-  "sig": [],
-  "articles": [
-   {
-    "id": "39eab533a8f6",
-    "url": "https://as.com/futbol/internacional/haaland-ira-al-barca-f202611-n/",
-    "title": "“Haaland irá al Barça”",
-    "ko": "\"하이란트, 바르셀로나行\"…AS 보도 제목",
-    "source": "as",
-    "publishedAt": "2026-11-12T08:38:49.000Z",
-    "credited": null,
-    "clubs": [
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "엘링 홀란"
-    ],
-    "playerTags": [
-     "erling-haaland"
-    ],
-    "author": "Aritz Gabilondo",
-    "transfer": {
-     "player": "엘링 홀란",
-     "from": "맨체스터 시티",
-     "to": "바르셀로나"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.82,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "39eab533a8f6",
-    "at": "2026-11-12T08:38:49.000Z",
-    "source": "as",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "erling-haaland"
-  ],
-  "transfer": {
-   "player": "엘링 홀란",
-   "from": "맨체스터 시티",
-   "to": "바르셀로나"
-  },
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-12T08:38:49.000Z",
-   "viaQuote": false
-  },
-  "headline": "“Haaland irá al Barça”"
- },
- {
-  "slug": "xabi-alonso-chelsea-manager-future",
-  "mode": "llm",
-  "titleKo": "사비 알론소 첼시 감독 거취 논란",
-  "createdAt": "2026-11-12T08:35:00.000Z",
-  "updatedAt": "2026-11-12T08:35:00.000Z",
+  "titleKo": "포체티노 맨유 감독 부임설",
+  "createdAt": "2026-11-10T17:08:58.000Z",
+  "updatedAt": "2026-11-12T10:01:58.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
-   "chelsea"
+   "man-utd",
+   "tottenham",
+   "chelsea",
+   "liverpool",
+   "man-city"
   ],
-  "players": [],
+  "players": [
+   "안토니 로빈슨",
+   "로빈슨",
+   "해리 케인",
+   "크리스티안 에릭센"
+  ],
   "sig": [
-   "xabi",
-   "alonso"
+   "pochettino",
+   "antonee",
+   "robinson"
   ],
   "articles": [
    {
-    "id": "c8247c306ea9",
-    "url": "https://www.footballinsider247.com/chelsea/expert-reveals-the-trap-xabi-alonso-has-fallen-into-at-chelsea-it-could-cost-him-his-job",
-    "title": "Expert reveals the 'trap' Xabi Alonso has fallen into at Chelsea, it could cost him his job",
-    "ko": "첼시 사비 알론소, 자리 위협할 '함정' 지적",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-12T08:35:00.000Z",
+    "id": "1b2f149c713e",
+    "url": "https://www.nytimes.com/athletic/7770289/2026/11/10/mauricio-pochettino-manchester-united-antonee-robinson-usmnt/",
+    "title": "USMNT unaffected by Pochettino-to-Manchester United reports, Antonee Robinson says",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-10T17:08:58.000Z",
     "credited": null,
     "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "안토니 로빈슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "08a7e7ac88bb",
+    "url": "https://www.mirror.co.uk/sport/football/news/carrick-manchester-united-sack-pochettino-37863852",
+    "title": "Damning total cost of Man Utd sacking Michael Carrick for Mauricio Pochettino",
+    "ko": "맨유, 캐릭 경질 후 포체티노 선임에 든 막대한 비용",
+    "source": "mirror",
+    "publishedAt": "2026-11-10T18:24:41.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "d32b6e3bacb8",
+    "url": "https://www.lequipe.fr/Football/Video/Etats-unis-antonee-robinson-reagit-aux-rumeurs-d-un-depart-de-pochettino-a-manchester-united-nous-avons-beaucoup-de-chance-d-avoir-un-entraineur-de-classe-mondi/20245300#at_medium=RSS_feeds",
+    "title": "Robinson réagit aux rumeurs d’un départ de Pochettino",
+    "ko": "로빈슨, 포체티노 경질설에 반응",
+    "source": "lequipe",
+    "publishedAt": "2026-11-10T21:17:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "로빈슨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "82b01ea848a1",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/mauricio-pochettino-could-raid-tottenham-34889791",
+    "title": "Mauricio Pochettino could raid Tottenham and Chelsea for five stars if he takes Man Utd job",
+    "ko": "포체티노, 맨유 감독 부임 시 토트넘·첼시 스타 5명 영입 가능성",
+    "source": "fblondon",
+    "publishedAt": "2026-11-11T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "tottenham",
      "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "b461606192f0",
+    "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
+    "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
+    "ko": "맨유, 포체티노 계약 합의 근접…캐릭 출근",
+    "source": "sky",
+    "publishedAt": "2026-11-11T08:28:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
     ],
     "category": "manager",
     "stage": null,
@@ -106,30 +119,1106 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "23bad2c11a6c",
+    "url": "https://www.thesun.co.uk/sport/40986772/man-utd-pochettino-manager-carrick-sacked/",
+    "title": "Man Utd finalising deal for Mauricio Pochettino to become new manager with Michael Carrick set to be sacked",
+    "ko": "맨유, 포체티노 영입 마무리…캐릭 경질 임박",
+    "source": "sun",
+    "publishedAt": "2026-11-11T08:31:51.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jamie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "164dbc74fbd0",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37864650",
+    "title": "Man Utd finalising Mauricio Pochettino deal to replace Michael Carrick as manager",
+    "ko": "맨유, 포체티노와 계약 마무리 단계…캐릭 대체",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T08:35:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   },
+   {
+    "id": "4e2563b61240",
+    "url": "https://www.skysports.com/football/news/12040/13610578/manchester-united-and-mauricio-pochettino-would-argentine-be-the-perfect-fit-or-just-another-manager-to-fall-foul-of-old-trafford-chaos",
+    "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
+    "ko": "맨유의 포체티노 추적, 원점으로 돌아와…성공할까",
+    "source": "sky",
+    "publishedAt": "2026-11-11T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "242896db49e7",
+    "url": "https://www.nytimes.com/athletic/7770113/2026/11/11/mauricio-pochettino-manchester-united-tactics/",
+    "title": "What Mauricio Pochettino could bring to Man Utd: Leadership, tactical flexibility and a trust in youth",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T09:15:11.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dec01fd95ea7",
+    "url": "https://www.hln.be/premier-league/in-afwachting-van-besluit-over-michael-carrick-manchester-united-nadert-akkoord-met-mauricio-pochettino-als-mogelijke-opvolger~ae1a71bc/",
+    "title": "In afwachting van besluit over Michael Carrick: “Manchester United nadert akkoord met Mauricio Pochettino als mogelijke opvolger”",
+    "ko": "캐릭 거취 결정 앞두고 맨유, 포체티노와 합의 근접 보도",
+    "source": "hln",
+    "publishedAt": "2026-11-11T09:22:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Niel Van Essche, Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "dba6d203b61a",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-could-hire-four-34893633",
+    "title": "Man United could hire four backroom staff for Mauricio Pochettino if he replaces Michael Carrick",
+    "ko": "맨유, 포체티노 부임 시 코치진 네 명 추가 채용 가능",
+    "source": "men",
+    "publishedAt": "2026-11-11T09:25:09.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "141b245cf4a6",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-mauricio-pochettino-right-man-34893771",
+    "title": "POLL: Is Mauricio Pochettino the right man for Manchester United if Michael Carrick is sacked?",
+    "ko": "캐릭 경질 시 포체티노가 맨유 적임자인지 독자 투표",
+    "source": "men",
+    "publishedAt": "2026-11-11T09:29:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "15eff89fdb5d",
+    "url": "https://www.footballinsider247.com/manchester-united/next-manager/sources-man-united-agree-mauricio-pochettino-terms-three-others-heading-to-old-trafford",
+    "title": "Sources: Man United agree Mauricio Pochettino terms, three others heading to Old Trafford",
+    "ko": "맨유, 포체티노와 조건 합의 보도…감독 교체 임박",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-11T09:31:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "539cc0269218",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34893744",
+    "title": "Mauricio Pochettino's promise about Man United and huge clue over first arrival",
+    "ko": "포체티노, 맨유 관련 약속과 첫 영입 힌트",
+    "source": "men",
+    "publishedAt": "2026-11-11T09:44:21.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "31a02f3c967f",
+    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
+    "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
+    "ko": "포체티노의 맨유 관심, 미국 시장에 파장",
+    "source": "guardian",
+    "publishedAt": "2026-11-11T10:00:36.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jeff Rueter",
+    "transfer": null
+   },
+   {
+    "id": "a595e5e48f77",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-acted-disgracefully-mauricio-34893796",
+    "title": "Manchester United have acted disgracefully as Mauricio Pochettino breakthrough nears",
+    "ko": "맨유, 포체티노 영입 임박…과정 두고 비판 제기",
+    "source": "men",
+    "publishedAt": "2026-11-11T10:42:36.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "a1d07ee03821",
+    "url": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
+    "title": "Man Utd strike Poch agreement as Carrick takes training",
+    "ko": "맨유, 포체티노와 합의 도달…캐릭은 훈련 지휘",
+    "source": "sky",
+    "publishedAt": "2026-11-11T12:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "30dd78cc0759",
+    "url": "https://www.thesun.co.uk/sport/40989891/man-utd-mauricio-pochettino-new-manager-unai-emery-players/",
+    "title": "Man Utd stars expect Mauricio Pochettino to be new boss but ‘some wanted Premier League manager to take over’",
+    "ko": "맨유 선수들 포체티노 신임 감독 예상…일부는 프리미어리그 감독 원해",
+    "source": "sun",
+    "publishedAt": "2026-11-11T12:14:03.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Anthony Chapman",
+    "transfer": null
+   },
+   {
+    "id": "272a3592a807",
+    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-manager-37865525",
+    "title": "Man Utd is a huge gamble for Mauricio Pochettino - but they are a match made in heaven",
+    "ko": "포체티노 맨유行은 큰 도박…그래도 천생연분이라는 평가",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T12:17:04.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross",
+    "transfer": null
+   },
+   {
+    "id": "bb89033f5279",
+    "url": "https://www.hln.be/premier-league/eventuele-opvolger-voor-michael-carrick-staat-al-klaar-manchester-united-bereikt-principeakkoord-met-mauricio-pochettino~ae1a71bc/",
+    "title": "Eventuele opvolger voor Michael Carrick staat al klaar: “Manchester United bereikt principeakkoord met Mauricio Pochettino”",
+    "ko": "맨유, 포체티노와 principle 합의…캐릭 후임 유력",
+    "source": "hln",
+    "publishedAt": "2026-11-11T12:18:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Niel Van Essche, Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "965de00b550e",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-mauricio-pochettino-34895627",
+    "title": "Man United decide first Mauricio Pochettino signing as three Premier League players lined up",
+    "ko": "맨유, 포체티노 체제 첫 영입 결정…프리미어리그 3명 후보",
+    "source": "men",
+    "publishedAt": "2026-11-11T12:32:23.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [],
+    "playerTags": [],
+    "author": "Patrick Austen-Hardy",
+    "transfer": null
+   },
+   {
+    "id": "af5ed9bc1a25",
+    "url": "https://www.skysports.com/football/news/12040/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
+    "title": "Is Pochettino a short-term fix? Man Utd pursuit of Carrick replacement questioned",
+    "ko": "포체티노, 단기 해법인가? 맨유의 캐릭 후임 추진 의문",
+    "source": "sky",
+    "publishedAt": "2026-11-11T12:44:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2b8e47668ee3",
+    "url": "https://www.thesun.co.uk/sport/40989569/pochettino-man-utd-manager-ferguson-carrick/",
+    "title": "Pochettino wields iron fist in velvet glove and has Fergie’s approval but one thing must change as Man Utd manager",
+    "ko": "포체티노, 맨유 감독으로 강압적 리더십 — 페르디난드 승인, 한 가지 바뀌어야",
+    "source": "sun",
+    "publishedAt": "2026-11-11T12:56:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Luckhurst",
+    "transfer": null
+   },
+   {
+    "id": "cc8a50ec1c81",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
+    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+    "ko": "포체티노, 맨유 감독 부임 준비 속 캐릭은 더 나은 대우 받아야",
+    "source": "bbc",
+    "publishedAt": "2026-11-11T12:58:17.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bf97be03ebd4",
+    "url": "https://www.thesun.co.uk/sport/40988954/man-utd-winners-losers-mauricio-pochettino-shaw-mount-martinez/",
+    "title": "Man Utd’s winners and losers if Pochettino is appointed as two new signings could be in big trouble",
+    "ko": "포체티노 맨유 부임 시 승자와 패자, 신입 영입 두 명 위기 가능성",
+    "source": "sun",
+    "publishedAt": "2026-11-11T13:18:01.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "d7d14afc4b7d",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-usa-37866436",
+    "title": "Mauricio Pochettino ready to accept Man Utd offer as Red Devils open talks with USA",
+    "ko": "포체티노, 맨유 제안 수락 준비 보도…맨유 미국과 협상 시작",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T13:26:09.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross",
+    "transfer": null
+   },
+   {
+    "id": "1803a08dcdb6",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/ingleses-garantem-que-mauricio-pochettino-ja-tem-acordo-verbal-com-o-manchester-united",
+    "title": "Ingleses garantem que Mauricio Pochettino já tem acordo verbal com o Manchester United",
+    "ko": "영국 매체 \"포체티노, 맨유와 구두 합의 완료\" 보도",
+    "source": "record",
+    "publishedAt": "2026-11-11T13:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e35cc4fe53f8",
+    "url": "https://www.thesun.co.uk/sport/40991584/mauricio-pochettino-man-utd-usa-training-goodbye/",
+    "title": "Fans think Mauricio Pochettino is saying goodbye in USA training as he is seen for first time since Man Utd links",
+    "ko": "포체티노, 미국 훈련 복귀 포착…맨유 연결설 이후 첫 공개",
+    "source": "sun",
+    "publishedAt": "2026-11-11T13:44:02.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Anthony Chapman",
+    "transfer": null
+   },
+   {
+    "id": "81c552f99f46",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34896068",
+    "title": "Man United board’s ‘private agreement’ ridiculed as Mauricio Pochettino sent clear message",
+    "ko": "맨유 이사회 '비밀 합의' 비판, 포체티노 명확한 메시지 전달",
+    "source": "men",
+    "publishedAt": "2026-11-11T13:53:31.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "62daa255f08d",
+    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
+    "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
+    "ko": "포체티노, 또 한 번의 큰 모험 준비",
+    "source": "guardian",
+    "publishedAt": "2026-11-11T13:58:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Bassam",
+    "transfer": null
+   },
+   {
+    "id": "7b1d2fb05a52",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-been-told-what-34894497",
+    "title": "Manchester United have been told what they wanted to hear about Mauricio Pochettino",
+    "ko": "맨유, 포체티노에 대해 듣고 싶던 말 전해 들어",
+    "source": "men",
+    "publishedAt": "2026-11-11T14:08:02.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jack Flintham",
+    "transfer": null
+   },
+   {
+    "id": "267dc3191758",
+    "url": "https://www.dailystar.co.uk/sport/football/mauricio-pochettino-agrees-man-utd-37867021",
+    "title": "Mauricio Pochettino agrees Man Utd deal with Michael Carrick hours away from sack",
+    "ko": "포체티노, 맨유와 합의…카릭 해고 직전",
+    "source": "star",
+    "publishedAt": "2026-11-11T15:03:48.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jeremy Cross",
+    "transfer": null
+   },
+   {
+    "id": "313158d3c564",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-man-utd-liverpool-34897223",
+    "title": "Mauricio Pochettino's record against Liverpool and Andoni Iraola as Man Utd close in on deal",
+    "ko": "포체티노, 리버풀 상대 기록과 이라올라 비교…맨유 계약 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-11T15:11:51.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "9990d010c954",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-united-mauricio-pochettino-manager-37867162",
+    "title": "Man Utd’s useless owners mean Mauricio Pochettino can instantly get whatever he wants",
+    "ko": "맨유 구단주들 탓에 포체티노, 원하는 건 뭐든 얻을 수 있어",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T15:31:13.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Andy Dunn",
+    "transfer": null
+   },
+   {
+    "id": "f44562f96e5f",
+    "url": "https://www.football.london/chelsea-fc/news/mauricio-pochettino-already-made-chelsea-34897666",
+    "title": "Mauricio Pochettino has already made Chelsea feelings perfectly clear ahead of Man Utd appointment",
+    "ko": "포체티노, 맨유 부임 앞두고 첼시 향한 속마음 드러내",
+    "source": "fblondon",
+    "publishedAt": "2026-11-11T15:42:04.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea",
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Bobby Vincent",
+    "transfer": null
+   },
+   {
+    "id": "1396ecce2933",
+    "url": "https://www.nytimes.com/athletic/7773134/2026/11/11/mauricio-pochettino-man-united-challenge-job/",
+    "title": "Mauricio Pochettino and Man United: A poisoned chalice or dream restoration job?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T16:02:09.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "239e1526ca03",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-squad-pochettino-emery-37867232",
+    "title": "Man Utd players 'wanted Unai Emery' as Mauricio Pochettino closes in on job",
+    "ko": "맨유 선수들 \"우나이 에메리 원했다\"…포체티노 부임 임박",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T16:03:37.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null
+   },
+   {
+    "id": "283185ec0e83",
+    "url": "https://www.footballinsider247.com/manchester-united/next-manager/mauricio-pochettino-to-provide-short-term-man-united-solution-after-agreement-club-adviser",
+    "title": "Mauricio Pochettino to provide ‘short-term’ Man United ‘solution’ after agreement - club adviser",
+    "ko": "포체티노, 합의 후 맨유 단기 해법 될 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-11T16:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a660f7cac221",
+    "url": "https://www.nytimes.com/athletic/7773683/2026/11/11/usmnt-vs-haiti-pochettino-manchester-united/",
+    "title": "Manchester United target Mauricio Pochettino expected to take USMNT games vs. Haiti",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T17:48:52.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "855b1c329d32",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-carrick-sack-pochettino-34898725",
+    "title": "Mauricio Pochettino cancellation confirmed as Man United decide on next manager move",
+    "ko": "포체티노 맨유 감독 부임 취소 확정, 후임 결정 나서",
+    "source": "men",
+    "publishedAt": "2026-11-11T18:03:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "90225a9c2c9f",
+    "url": "https://www.nytimes.com/athletic/7773820/2026/11/11/pep-guardiola-pochettino-manchester-united-usmnt-coach-candidate/",
+    "title": "Pep Guardiola expected to be a top USMNT target if Manchester United snares Pochettino",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T18:58:22.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9f1ee063820b",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-manchester-united-carrick-34898845",
+    "title": "Mauricio Pochettino to make immediate change to Man United manager's office",
+    "ko": "포체티노, 맨유 감독실 즉각 변화 준비",
+    "source": "men",
+    "publishedAt": "2026-11-11T19:18:18.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "d9f5f12e966b",
+    "url": "https://www.thesun.co.uk/sport/40995985/pep-guardiola-usmnt-target-mauricio-pochettino/",
+    "title": "Pep Guardiola ‘top target’ for USMNT to replace Man Utd-bound Mauricio Pochettino with Man City legend ‘intrigued’",
+    "ko": "USMNT 차기 감독 후보에 과르디올라…포체티노 공백 대비",
+    "source": "sun",
+    "publishedAt": "2026-11-11T19:48:42.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Emillia Hawkins",
+    "transfer": null
+   },
+   {
+    "id": "1ccefda443fa",
+    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-usa-man-utd-37867913",
+    "title": "What Mauricio Pochettino told USA team as Man Utd braced for frustration with new boss",
+    "ko": "포체티노가 미국 대표팀에 전한 말은?",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T19:56:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null
+   },
+   {
+    "id": "ac12383eb564",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-mauricio-pochettino-pep-guardiola-34898990",
+    "title": "Pep Guardiola issue instantly emerges as Man United close on Mauricio Pochettino agreement",
+    "ko": "맨유, 포체티노 감독 합의 임박…과르디올라 이슈도 부상",
+    "source": "men",
+    "publishedAt": "2026-11-11T20:00:14.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matthew Abbott",
+    "transfer": null
+   },
+   {
+    "id": "6f387b8f0766",
+    "url": "https://www.nytimes.com/athletic/7772824/2026/11/11/mauricio-pochettino-manchester-united-us-soccer/",
+    "title": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-11T20:20:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f276bd281774",
+    "url": "https://www.mirror.co.uk/sport/football/news/guardiola-usa-pochettino-man-utd-37868110",
+    "title": "Pep Guardiola thrust into Man Utd manager saga after being made 'top target'",
+    "ko": "과르디올라, 맨유 감독 후보 '1순위'로 떠올라",
+    "source": "mirror",
+    "publishedAt": "2026-11-11T21:07:21.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null
+   },
+   {
+    "id": "2fa95877ca0e",
+    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+    "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
+    "ko": "포체티노 맨유 부임, 과연 성공할 수 있을까",
+    "source": "guardian",
+    "publishedAt": "2026-11-11T21:10:31.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Barney Ronay",
+    "transfer": null
+   },
+   {
+    "id": "1e2b844c8614",
+    "url": "https://www.thesun.co.uk/sport/40996168/man-utd-flops-mauricio-pochettino-gacon-fitness-test/",
+    "title": "Man Utd flops in for brutal reality check as Mauricio Pochettino makes players follow ‘Gacon test’ fitness regime",
+    "ko": "포체티노 맨유 훈련 강도 강화…'가콘 테스트' 도입 파문",
+    "source": "sun",
+    "publishedAt": "2026-11-11T21:47:48.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Barclay",
+    "transfer": null
+   },
+   {
+    "id": "fcc516c8fdeb",
+    "url": "https://www.thesun.co.uk/sport/40996557/man-utd-pochettino-fury-liverpool/",
+    "title": "‘Disgraceful.. shambles’ – Fans furious as Man Utd ‘allow Pochettino to finish international break’ as Liverpool looms",
+    "ko": "맨유, 국제대표팀 휴식기 포체티노에게 마무리 허용 논란",
+    "source": "sun",
+    "publishedAt": "2026-11-11T22:03:13.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Emillia Hawkins",
+    "transfer": null
+   },
+   {
+    "id": "2e7093bb6313",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-manchester-united-manager-34899105",
+    "title": "Mauricio Pochettino's Man United timeline decided as Avram Glazer has final say",
+    "ko": "포체티노 맨유 부임 일정, 애브럼 글레이저 최종 결정권 쥐어",
+    "source": "men",
+    "publishedAt": "2026-11-11T22:32:53.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "2d60534d6aac",
+    "url": "https://www.thesun.co.uk/sport/40996968/harry-kane-premier-league-return-mauricio-pochettino-man-utd/",
+    "title": "Harry Kane drops biggest hint yet he may return to Premier League with old boss Mauricio Pochettino set for Man Utd job",
+    "ko": "케인, 포체티노 맨유行 속 프리미어리그 복귀 암시",
+    "source": "sun",
+    "publishedAt": "2026-11-11T22:52:15.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Tony Robertson",
+    "transfer": null
+   },
+   {
+    "id": "276be673ac66",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettinos-link-glazers-manchester-34897060",
+    "title": "Mauricio Pochettino's link to the Glazers as Manchester United job beckons",
+    "ko": "포체티노, 글레이저 가문 인연 속 맨유 감독 부임 임박",
+    "source": "men",
+    "publishedAt": "2026-11-12T04:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "5ff98cf39b4c",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-fitness-test-could-34897090",
+    "title": "The Mauricio Pochettino fitness test that could make or break some Manchester United careers",
+    "ko": "포체티노 체력 테스트, 맨유 일부 선수 커리어 좌우할 수도",
+    "source": "men",
+    "publishedAt": "2026-11-12T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "22cefdd5366c",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-move-manchester-united-34897015",
+    "title": "Mauricio Pochettino move to Manchester United highlights familiar problem for Liverpool",
+    "ko": "포체티노 맨유行 움직임, 리버풀의 익숙한 문제 부각",
+    "source": "lecho",
+    "publishedAt": "2026-11-12T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "ac97d0b7b6c1",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-wonderkids-34895422",
+    "title": "Mauricio Pochettino could unlock six wonderkids to save Man United millions if he joins club",
+    "ko": "포체티노 맨유 부임 시 유망주 6명으로 수백만 파운드 절약 가능",
+    "source": "men",
+    "publishedAt": "2026-11-12T06:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Harry Brent",
+    "transfer": null
+   },
+   {
+    "id": "6e1aa1cbc782",
+    "url": "https://www.dailystar.co.uk/sport/football/mauricio-pochettino-manchester-united-usa-37868597",
+    "title": "Mauricio Pochettino's message to USA stars revealed as Man Utd face immediate frustration",
+    "ko": "포체티노, 미국 선수들에게 전한 메시지 공개…맨유 즉각적 좌절감 직면",
+    "source": "star",
+    "publishedAt": "2026-11-12T07:42:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Meade, Cameron Winstanley",
+    "transfer": null
+   },
+   {
+    "id": "397ddb1caf52",
+    "url": "https://www.footballinsider247.com/manchester-united/man-united-ex-coach-mauricio-pochettino-isnt-the-amazing-manager-everyone-says-were-making-a-mistake",
+    "title": "Man United ex-coach: Mauricio Pochettino 'isn't the amazing manager everyone says, we're making a mistake'",
+    "ko": "전 맨유 코치 '포체티노, 모두가 말하는 명장 아냐…실수하는 것'",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T09:14:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4e44721d6348",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-players-mauricio-pochettino-37868822",
+    "title": "Man Utd players in bust-up as Mauricio Pochettino 'secret' causes fury",
+    "ko": "포체티노 '비밀' 행보에 맨유 선수들 분노…내분 조짐",
+    "source": "mirror",
+    "publishedAt": "2026-11-12T09:24:17.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "ae972e5b1d19",
+    "url": "https://www.thesun.co.uk/sport/40998621/gary-neville-warning-mauricio-pochettino-reject-man-utd-job/",
+    "title": "Gary Neville tells Mauricio Pochettino to REJECT Man Utd job unless he’s given promise of two signings in January",
+    "ko": "네빌, 포체티노에게 맨유 감독직 거절 조언…1월 영입 약속 요구",
+    "source": "sun",
+    "publishedAt": "2026-11-12T09:25:55.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "dbfac0bf8bd9",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-manager-34899662",
+    "title": "Man United make major concession after Mauricio Pochettino verbal agreement reached",
+    "ko": "맨유, 포체티노와 구두 합의 후 큰 양보 제시",
+    "source": "men",
+    "publishedAt": "2026-11-12T09:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Victor",
+    "transfer": null
+   },
+   {
+    "id": "69c6da57fc17",
+    "url": "https://www.footballinsider247.com/manchester-united/unearthed-christian-eriksens-mauricio-pochettino-insight-will-be-music-to-man-united-ears",
+    "title": "Unearthed: Christian Eriksen's Mauricio Pochettino insight will be music to Man United ears",
+    "ko": "에릭센이 전한 포체티노 통찰, 맨유 팬 반길 내용",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T09:51:26.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "크리스티안 에릭센"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "18fb11c823a3",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-squad-mauricio-pochettino-34899960",
+    "title": "Man United's 'secret' Mauricio Pochettino offer and player bust-up revealed",
+    "ko": "맨유, 포체티노에 제시한 '비밀' 제안과 선수 간 충돌 공개",
+    "source": "men",
+    "publishedAt": "2026-11-12T10:01:24.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "e18652fae41f",
+    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-snub-man-utd-37868973",
+    "title": "Mauricio Pochettino told to SNUB Man Utd job unless he can sign two players",
+    "ko": "포체티노, 맨유 감독 부임 전 선수 2명 영입 조건 요구 가능성",
+    "source": "mirror",
+    "publishedAt": "2026-11-12T10:01:58.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Victor",
+    "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.54,
-  "topTier": 4,
+  "recentSources": 6,
+  "sourceCount": 14,
+  "score": 2.73,
+  "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [],
+  "playerTags": [
+   "harry-kane"
+  ],
   "transfer": null,
   "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-12T08:35:00.000Z",
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-10T17:08:58.000Z",
    "viaQuote": false
   },
-  "headline": "Expert reveals the 'trap' Xabi Alonso has fallen into at Chelsea, it could cost him his job"
+  "headline": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino"
  },
  {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭 맨유 감독 거취, 포체티노 부임 임박",
   "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-12T08:33:25.000Z",
+  "updatedAt": "2026-11-12T09:35:55.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -2656,11 +3745,47 @@
     "playerTags": [],
     "author": "Tyrone Marshall, Ben Husband",
     "transfer": null
+   },
+   {
+    "id": "ad28205c583c",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-bosses-arrive-carrington-34899628",
+    "title": "Manchester United bosses arrive at Carrington for showdown talks with Michael Carrick",
+    "ko": "맨유 수뇌부, 캐릭과 면담 위해 캐링턴 방문",
+    "source": "men",
+    "publishedAt": "2026-11-12T09:10:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "3c0f0bbc090c",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-carrick-sacked-manchester-united-37802615",
+    "title": "Michael Carrick finally 'sacked' by Man Utd as Mauricio Pochettino accepts job",
+    "ko": "맨유, 캐릭 경질 확정 후 포체티노 부임 수락",
+    "source": "star",
+    "publishedAt": "2026-11-12T09:35:55.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield, Cameron Winstanley",
+    "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 3,
   "sourceCount": 18,
-  "score": 0.47,
+  "score": 2.6,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2672,6 +3797,774 @@
    "viaQuote": true
   },
   "headline": "Man United's dreadful handling of Carrick is no way to treat anyone. But it's also not a surprise"
+ },
+ {
+  "slug": "gladbach-mohya-affairs-future",
+  "mode": "llm",
+  "titleKo": "묀헨글라트바흐 모히아 거취 전망",
+  "createdAt": "2026-11-08T16:48:00.000Z",
+  "updatedAt": "2026-11-12T09:34:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "gladbach",
+   "leverkusen"
+  ],
+  "players": [
+   "모히아",
+   "와엘 모히아",
+   "모히야"
+  ],
+  "sig": [
+   "podcast",
+   "hoffnung",
+   "mohyas",
+   "zukunft"
+  ],
+  "articles": [
+   {
+    "id": "5be7d5dff10d",
+    "url": "https://rp-online.de/podcasts/fohlenfutter/borussia-moenchengladbach-podcast-eine-frage-der-hoffnung-und-mohyas-tolle-geschichte_aid-158031889",
+    "title": "Fohlenfutter-Podcast: Was Gladbach Hoffnung macht, was sie trübt und wie es Mohyas Zukunft steht",
+    "ko": "묀헨글라트바흐, 희망과 우려 점검하며 모히아 거취 전망",
+    "source": "rp",
+    "publishedAt": "2026-11-08T16:48:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "모히아"
+    ],
+    "playerTags": [],
+    "author": "Karsten Kellermann",
+    "transfer": null
+   },
+   {
+    "id": "89debe9e6320",
+    "url": "https://www.kicker.de/wer-ist-eigentlich-wael-mohya-1270167/video#omrss",
+    "title": "Wer ist eigentlich Wael Mohya?",
+    "ko": "바엘 모히아는 누구인가",
+    "source": "kicker",
+    "publishedAt": "2026-11-09T13:11:56.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "바엘 모히아"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9bdd587997b0",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-instagram-kommentar-bei-mohya-post-fans-kollegen-kritiker-und-forderer_aid-158219441",
+    "title": "Instagram-Kommentare zeigen es: Was Mohyas Nominierung für ihn und Gladbach bedeutet",
+    "ko": "모히아 발탁이 그에게 의미하는 것, 인스타 댓글 반응",
+    "source": "rp",
+    "publishedAt": "2026-11-11T19:56:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "모히아"
+    ],
+    "playerTags": [],
+    "author": "Karsten Kellermann",
+    "transfer": null
+   },
+   {
+    "id": "85829c476afe",
+    "url": "https://www.kicker.de/klopp-streicht-mohya-aus-aufgebot-gegen-serbien-1270935/artikel#omrss",
+    "title": "Klopp streicht Mohya aus Aufgebot gegen Serbien",
+    "ko": "클롭, 세르비아전 명단에서 모히아 제외",
+    "source": "kicker",
+    "publishedAt": "2026-11-12T09:13:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "모히아"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "95f90d7460fd",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-mohya-gegen-serbien-nicht-im-dfb-kader-posts-zeigen-was-die-nominierung-bedeutet_aid-158219441",
+    "title": "Klopp verzichtet auf 17-Jährigen: Ohne Mohya gegen Serbien – Was die DFB-Nominierung für ihn und Borussia bedeutet",
+    "ko": "클롭, 17세 모히아 제외하고 세르비아전 명단 구성",
+    "source": "rp",
+    "publishedAt": "2026-11-12T09:34:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "모히아"
+    ],
+    "playerTags": [],
+    "author": "Karsten Kellermann",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.47,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "RP 온라인 (묀헨글라트바흐)",
+   "source": "rp",
+   "at": "2026-11-08T16:48:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Klopp verzichtet auf 17-Jährigen: Ohne Mohya gegen Serbien – Was die DFB-Nominierung für ihn und Borussia bedeutet"
+ },
+ {
+  "slug": "benfica-affairs-centralization",
+  "mode": "llm",
+  "titleKo": "벤피카 집중 체제 우려 논란",
+  "createdAt": "2026-11-12T09:31:00.000Z",
+  "updatedAt": "2026-11-12T09:31:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "joão",
+   "almeida",
+   "benfica"
+  ],
+  "articles": [
+   {
+    "id": "6f38bf321f5c",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/rafael-joao-almeida-a-centralizacao-pode-representar-uma-perda-muito-significativa-para-o-benfica",
+    "title": "Rafael João Almeida: «A centralização pode representar uma perda muito significativa para o Benfica»",
+    "ko": "벤피카 이적 집중 체제 우려 제기",
+    "source": "record",
+    "publishedAt": "2026-11-12T09:31:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.77,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-12T09:31:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rafael João Almeida: «A centralização pode representar uma perda muito significativa para o Benfica»"
+ },
+ {
+  "slug": "musiala-injury",
+  "mode": "llm",
+  "titleKo": "뮈지알라 질환 우려",
+  "createdAt": "2026-11-08T11:55:29.000Z",
+  "updatedAt": "2026-11-12T09:27:13.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "자말 무시알라",
+   "무시알라",
+   "뮈지알라"
+  ],
+  "sig": [
+   "musiala",
+   "tiene"
+  ],
+  "articles": [
+   {
+    "id": "19f555e52273",
+    "url": "https://as.com/futbol/internacional/preocupacion-por-musiala-no-sabemos-si-volvera-a-ser-el-de-antes-f202611-n/",
+    "title": "Preocupación por Musiala: “Tiene una enfermedad no fácilmente curable”",
+    "ko": "뮈지알라 질환 우려…“쉽게 치유되지 않는 병”",
+    "source": "as",
+    "publishedAt": "2026-11-08T11:55:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "뮈지알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "José Carlos Menzel",
+    "transfer": null
+   },
+   {
+    "id": "35a647208bc7",
+    "url": "https://www.thesun.co.uk/sport/40958292/jamal-musiala-illness-bayern-munich-uli-hoeness/",
+    "title": "Bayern chief Uli Hoeness admits Jamal Musiala suffering from ‘illness that cannot simply be cured’",
+    "ko": "회체스 바이에른 회장, 무시알라 '치유되지 않는 질환' 인정",
+    "source": "sun",
+    "publishedAt": "2026-11-08T14:05:04.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "a3ad1ea23c26",
+    "url": "https://www.lequipe.fr/Football/Actualites/Uli-hoeness-a-propos-de-l-etat-de-sante-de-jamal-musiala-il-est-impossible-de-savoir-s-il-retrouvera-un-jour-son-niveau/1742447#at_medium=RSS_feeds",
+    "title": "Uli Hoeness à propos de l'état de santé de Jamal Musiala : « Il est impossible de savoir s'il retrouvera un jour son niveau »",
+    "ko": "회네스, 무시알라 상태 언급 \"예전 수준 회복 불가능할 수도\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-09T10:14:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Elliot Radix",
+    "transfer": null
+   },
+   {
+    "id": "e5ad34346136",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
+    "title": "Musiala may never return to his best - Hoeness",
+    "ko": "회이네스 '무시알라, 전성기 기량 회복 못 할 수도'",
+    "source": "bbc",
+    "publishedAt": "2026-11-09T11:01:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "15a7868f900a",
+    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/musiala-preocupa-bayern-nao-sei-se-algum-dia-voltara-a-atingir-o-nivel-que-tinha",
+    "title": "Musiala preocupa Bayern: «Não sei se algum dia voltará a atingir o nível que tinha»",
+    "ko": "무시알라 건강 우려…바이에른 '예전 수준 회복할지 모르겠다'",
+    "source": "record",
+    "publishedAt": "2026-11-09T23:40:46.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c6ba8ff6d044",
+    "url": "https://www.tz.de/sport/fc-bayern/sammer-schaltet-sich-nach-hoeness-schelte-in-musiala-debatte-ein-94583573.html",
+    "title": "„Eine Katastrophe“: Sammer lässt mit emotionalem Musiala-Statement aufhorchen",
+    "ko": "잠머, 뮈지알라 관련 감성적 발언으로 주목",
+    "source": "tz",
+    "publishedAt": "2026-11-10T15:13:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Isabella Strehmann",
+    "transfer": null
+   },
+   {
+    "id": "73d33e762618",
+    "url": "https://www.kicker.de/voeller-staerkt-musiala-kein-grund-skeptisch-zu-sein-1270933/artikel#omrss",
+    "title": "Völler stärkt Musiala: \"Kein Grund, skeptisch zu sein\"",
+    "ko": "뮐러 뮌헨 감독, 무시알라 믿음 강조 '회의할 이유 없다'",
+    "source": "kicker",
+    "publishedAt": "2026-11-12T09:27:13.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 7,
+  "score": 1.75,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jamal-musiala"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-08T11:55:29.000Z",
+   "viaQuote": false
+  },
+  "headline": "Musiala may never return to his best - Hoeness"
+ },
+ {
+  "slug": "zulte-waregem-manager-future",
+  "mode": "llm",
+  "titleKo": "즐테 바레헴 감독 자진 사임",
+  "createdAt": "2026-11-11T17:03:51.000Z",
+  "updatedAt": "2026-11-12T09:14:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "michael",
+   "beale",
+   "zulte",
+   "waregem"
+  ],
+  "articles": [
+   {
+    "id": "5224546e5828",
+    "url": "https://www.hln.be/zulte-waregem/nog-een-trainerswissel-michael-beale-dient-zelf-ontslag-in-bij-zulte-waregem-na-0-op-18~acdcfa93/",
+    "title": "Nog een trainerswissel: Michael Beale dient zelf ontslag in bij Zulte Waregem na 0 op 18",
+    "ko": "즈울테 바레헴, 0승 18패 부진 속 마이클 베일 자진 사임",
+    "source": "hln",
+    "publishedAt": "2026-11-11T17:03:51.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Gianni Seeuws",
+    "transfer": null
+   },
+   {
+    "id": "9b83a900cafd",
+    "url": "https://www.hln.be/zulte-waregem/nu-ook-officieel-michael-beale-stapt-op-als-trainer-van-zulte-waregem-na-0-op-18~acdcfa93/",
+    "title": "Nu ook officieel: Michael Beale stapt op als trainer van Zulte Waregem na 0 op 18",
+    "ko": "제лк 베일, 0승 18패 후 즈울테 바레헴 감독직 사임 확정",
+    "source": "hln",
+    "publishedAt": "2026-11-12T09:14:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Gianni Seeuws",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.01,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-11T17:03:51.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nu ook officieel: Michael Beale stapt op als trainer van Zulte Waregem na 0 op 18"
+ },
+ {
+  "slug": "de-bruyne-napoli-transfer",
+  "mode": "llm",
+  "titleKo": "더브라위너 나폴리 이적 가능성",
+  "createdAt": "2026-11-10T08:41:53.000Z",
+  "updatedAt": "2026-11-12T09:11:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "napoli",
+   "man-utd"
+  ],
+  "players": [
+   "케빈 더브라위너",
+   "더브라위너",
+   "라스무스 회일룬"
+  ],
+  "sig": [
+   "dragão",
+   "bruyne",
+   "nápoles"
+  ],
+  "articles": [
+   {
+    "id": "91156c7b2356",
+    "url": "https://www.lequipe.fr/collection/podcasts/serie/big-5/#at_medium=RSS_feeds",
+    "title": "De Bruyne à Naples, le crépuscule d'un géant",
+    "ko": "더브라위너 나폴리 시절, 거인의 황혼",
+    "source": "lequipe",
+    "publishedAt": "2026-11-07T21:07:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "더브라위너"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5672183a828f",
+    "url": "https://www.record.pt/internacional/paises/italia/napoles/detalhe/insultos-no-dragao-foram-a-gota-de-agua-de-bruyne-pode-deixar-napoles-ja-em-janeiro",
+    "title": "Insultos no Dragão foram a gota de água: De Bruyne pode deixar Nápoles já em janeiro",
+    "ko": "더브라위너, 1월 나폴리 이탈 가능성",
+    "source": "record",
+    "publishedAt": "2026-11-10T08:41:53.000Z",
+    "credited": null,
+    "clubs": [
+     "napoli"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "더브라위너"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "더브라위너",
+     "from": "나폴리",
+     "to": null
+    }
+   },
+   {
+    "id": "1d3033615902",
+    "url": "https://www.thesun.co.uk/sport/40980935/kevin-de-bruyne-quit-napoli-rasmus-hojlund-clash/",
+    "title": "Kevin De Bruyne ‘set to leave Napoli on free transfer after clash with Man Utd flop Rasmus Hojlund’",
+    "ko": "더브라위너, 나폴리 떠나 자유계약 이적 가능성",
+    "source": "sun",
+    "publishedAt": "2026-11-10T18:33:21.000Z",
+    "credited": null,
+    "clubs": [
+     "napoli",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "케빈 더브라위너",
+     "라스무스 회일룬"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "케빈 더브라위너",
+     "from": "나폴리",
+     "to": null
+    }
+   },
+   {
+    "id": "0f4fce5a94db",
+    "url": "https://www.hln.be/voetbal/nu-psv-vol-voor-kevin-de-bruyne-gaat-moeten-belgische-topclubs-ook-hun-kans-wagen~a20d8330e/",
+    "title": "Nu PSV vol voor Kevin De Bruyne gaat: moeten Belgische topclubs ook hun kans wagen?",
+    "ko": "PSV, 더브라위너 영입에 전력…벨기에 빅클럽도 도전할까",
+    "source": "hln",
+    "publishedAt": "2026-11-12T09:11:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "케빈 더브라위너"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": "Jordi De Koninck",
+    "transfer": {
+     "player": "케빈 더브라위너",
+     "from": "나폴리",
+     "to": "PSV"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 4,
+  "score": 1,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "5672183a828f",
+    "at": "2026-11-10T08:41:53.000Z",
+    "source": "record",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "kevin-de-bruyne"
+  ],
+  "transfer": {
+   "player": "케빈 더브라위너",
+   "from": "나폴리",
+   "to": "PSV"
+  },
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-07T21:07:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Insultos no Dragão foram a gota de água: De Bruyne pode deixar Nápoles já em janeiro"
+ },
+ {
+  "slug": "haaland-barcelona-transfer",
+  "mode": "llm",
+  "titleKo": "홀란 바르셀로나 이적설",
+  "createdAt": "2026-11-12T08:38:49.000Z",
+  "updatedAt": "2026-11-12T08:38:49.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "barcelona"
+  ],
+  "players": [
+   "엘링 홀란"
+  ],
+  "sig": [],
+  "articles": [
+   {
+    "id": "39eab533a8f6",
+    "url": "https://as.com/futbol/internacional/haaland-ira-al-barca-f202611-n/",
+    "title": "“Haaland irá al Barça”",
+    "ko": "\"하이란트, 바르셀로나行\"…AS 보도 제목",
+    "source": "as",
+    "publishedAt": "2026-11-12T08:38:49.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": "Aritz Gabilondo",
+    "transfer": {
+     "player": "엘링 홀란",
+     "from": "맨체스터 시티",
+     "to": "바르셀로나"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.52,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "39eab533a8f6",
+    "at": "2026-11-12T08:38:49.000Z",
+    "source": "as",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "erling-haaland"
+  ],
+  "transfer": {
+   "player": "엘링 홀란",
+   "from": "맨체스터 시티",
+   "to": "바르셀로나"
+  },
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-12T08:38:49.000Z",
+   "viaQuote": false
+  },
+  "headline": "“Haaland irá al Barça”"
+ },
+ {
+  "slug": "sevilla-affairs-finance",
+  "mode": "llm",
+  "titleKo": "세비야 6년 누적 적자 2억 5천만 유로",
+  "createdAt": "2026-11-12T08:35:27.000Z",
+  "updatedAt": "2026-11-12T08:35:27.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "sevilla"
+  ],
+  "articles": [
+   {
+    "id": "3d643d94b050",
+    "url": "https://as.com/futbol/primera/mas-ruina-del-sevilla-250-millones-de-perdidas-en-6-anos-f202611-n/",
+    "title": "Más ruina del Sevilla: 250 millones de pérdidas en 6 años",
+    "ko": "세비야, 6년간 누적 적자 2억 5천만 유로 기록",
+    "source": "as",
+    "publishedAt": "2026-11-12T08:35:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José A. Espina",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.51,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-12T08:35:27.000Z",
+   "viaQuote": false
+  },
+  "headline": "Más ruina del Sevilla: 250 millones de pérdidas en 6 años"
+ },
+ {
+  "slug": "xabi-alonso-chelsea-manager-future",
+  "mode": "llm",
+  "titleKo": "사비 알론소 첼시 감독 거취 논란",
+  "createdAt": "2026-11-12T08:35:00.000Z",
+  "updatedAt": "2026-11-12T08:35:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [],
+  "sig": [
+   "xabi",
+   "alonso"
+  ],
+  "articles": [
+   {
+    "id": "c8247c306ea9",
+    "url": "https://www.footballinsider247.com/chelsea/expert-reveals-the-trap-xabi-alonso-has-fallen-into-at-chelsea-it-could-cost-him-his-job",
+    "title": "Expert reveals the 'trap' Xabi Alonso has fallen into at Chelsea, it could cost him his job",
+    "ko": "첼시 사비 알론소, 자리 위협할 '함정' 지적",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T08:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.45,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-12T08:35:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Expert reveals the 'trap' Xabi Alonso has fallen into at Chelsea, it could cost him his job"
  },
  {
   "slug": "kane-award",
@@ -2773,7 +4666,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.63,
+  "score": 1.36,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3051,7 +4944,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 2.34,
+  "score": 1.95,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3178,7 +5071,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.63,
+  "score": 1.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3191,1091 +5084,6 @@
    "viaQuote": false
   },
   "headline": "Las opciones de la Real para suplir a Barrenenetxea"
- },
- {
-  "slug": "pochettino-man-utd-manager-future",
-  "mode": "llm",
-  "titleKo": "포체티노 맨유 감독 부임설",
-  "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-12T07:42:44.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "tottenham",
-   "chelsea",
-   "liverpool",
-   "man-city"
-  ],
-  "players": [
-   "안토니 로빈슨",
-   "로빈슨",
-   "해리 케인"
-  ],
-  "sig": [
-   "pochettino",
-   "antonee",
-   "robinson"
-  ],
-  "articles": [
-   {
-    "id": "1b2f149c713e",
-    "url": "https://www.nytimes.com/athletic/7770289/2026/11/10/mauricio-pochettino-manchester-united-antonee-robinson-usmnt/",
-    "title": "USMNT unaffected by Pochettino-to-Manchester United reports, Antonee Robinson says",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-10T17:08:58.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "안토니 로빈슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "08a7e7ac88bb",
-    "url": "https://www.mirror.co.uk/sport/football/news/carrick-manchester-united-sack-pochettino-37863852",
-    "title": "Damning total cost of Man Utd sacking Michael Carrick for Mauricio Pochettino",
-    "ko": "맨유, 캐릭 경질 후 포체티노 선임에 든 막대한 비용",
-    "source": "mirror",
-    "publishedAt": "2026-11-10T18:24:41.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "d32b6e3bacb8",
-    "url": "https://www.lequipe.fr/Football/Video/Etats-unis-antonee-robinson-reagit-aux-rumeurs-d-un-depart-de-pochettino-a-manchester-united-nous-avons-beaucoup-de-chance-d-avoir-un-entraineur-de-classe-mondi/20245300#at_medium=RSS_feeds",
-    "title": "Robinson réagit aux rumeurs d’un départ de Pochettino",
-    "ko": "로빈슨, 포체티노 경질설에 반응",
-    "source": "lequipe",
-    "publishedAt": "2026-11-10T21:17:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "로빈슨"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "82b01ea848a1",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/mauricio-pochettino-could-raid-tottenham-34889791",
-    "title": "Mauricio Pochettino could raid Tottenham and Chelsea for five stars if he takes Man Utd job",
-    "ko": "포체티노, 맨유 감독 부임 시 토트넘·첼시 스타 5명 영입 가능성",
-    "source": "fblondon",
-    "publishedAt": "2026-11-11T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "tottenham",
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null
-   },
-   {
-    "id": "b461606192f0",
-    "url": "https://www.skysports.com/football/news/12040/13610862/mauricio-pochettino-man-utd-close-to-agreeing-deal-with-michael-carricks-potential-successor-ahead-of-monaco-meeting",
-    "title": "Man Utd close to agreeing Poch deal as Carrick reports for work",
-    "ko": "맨유, 포체티노 계약 합의 근접…캐릭 출근",
-    "source": "sky",
-    "publishedAt": "2026-11-11T08:28:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "23bad2c11a6c",
-    "url": "https://www.thesun.co.uk/sport/40986772/man-utd-pochettino-manager-carrick-sacked/",
-    "title": "Man Utd finalising deal for Mauricio Pochettino to become new manager with Michael Carrick set to be sacked",
-    "ko": "맨유, 포체티노 영입 마무리…캐릭 경질 임박",
-    "source": "sun",
-    "publishedAt": "2026-11-11T08:31:51.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jamie Gordon",
-    "transfer": null
-   },
-   {
-    "id": "164dbc74fbd0",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37864650",
-    "title": "Man Utd finalising Mauricio Pochettino deal to replace Michael Carrick as manager",
-    "ko": "맨유, 포체티노와 계약 마무리 단계…캐릭 대체",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T08:35:08.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": null
-   },
-   {
-    "id": "4e2563b61240",
-    "url": "https://www.skysports.com/football/news/12040/13610578/manchester-united-and-mauricio-pochettino-would-argentine-be-the-perfect-fit-or-just-another-manager-to-fall-foul-of-old-trafford-chaos",
-    "title": "Man Utd's Pochettino pursuit comes full circle - but would it work?",
-    "ko": "맨유의 포체티노 추적, 원점으로 돌아와…성공할까",
-    "source": "sky",
-    "publishedAt": "2026-11-11T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "242896db49e7",
-    "url": "https://www.nytimes.com/athletic/7770113/2026/11/11/mauricio-pochettino-manchester-united-tactics/",
-    "title": "What Mauricio Pochettino could bring to Man Utd: Leadership, tactical flexibility and a trust in youth",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-11T09:15:11.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dec01fd95ea7",
-    "url": "https://www.hln.be/premier-league/in-afwachting-van-besluit-over-michael-carrick-manchester-united-nadert-akkoord-met-mauricio-pochettino-als-mogelijke-opvolger~ae1a71bc/",
-    "title": "In afwachting van besluit over Michael Carrick: “Manchester United nadert akkoord met Mauricio Pochettino als mogelijke opvolger”",
-    "ko": "캐릭 거취 결정 앞두고 맨유, 포체티노와 합의 근접 보도",
-    "source": "hln",
-    "publishedAt": "2026-11-11T09:22:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Niel Van Essche, Johannes De Rijcke",
-    "transfer": null
-   },
-   {
-    "id": "dba6d203b61a",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-could-hire-four-34893633",
-    "title": "Man United could hire four backroom staff for Mauricio Pochettino if he replaces Michael Carrick",
-    "ko": "맨유, 포체티노 부임 시 코치진 네 명 추가 채용 가능",
-    "source": "men",
-    "publishedAt": "2026-11-11T09:25:09.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston",
-    "transfer": null
-   },
-   {
-    "id": "141b245cf4a6",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-mauricio-pochettino-right-man-34893771",
-    "title": "POLL: Is Mauricio Pochettino the right man for Manchester United if Michael Carrick is sacked?",
-    "ko": "캐릭 경질 시 포체티노가 맨유 적임자인지 독자 투표",
-    "source": "men",
-    "publishedAt": "2026-11-11T09:29:47.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "15eff89fdb5d",
-    "url": "https://www.footballinsider247.com/manchester-united/next-manager/sources-man-united-agree-mauricio-pochettino-terms-three-others-heading-to-old-trafford",
-    "title": "Sources: Man United agree Mauricio Pochettino terms, three others heading to Old Trafford",
-    "ko": "맨유, 포체티노와 조건 합의 보도…감독 교체 임박",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-11T09:31:45.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "539cc0269218",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34893744",
-    "title": "Mauricio Pochettino's promise about Man United and huge clue over first arrival",
-    "ko": "포체티노, 맨유 관련 약속과 첫 영입 힌트",
-    "source": "men",
-    "publishedAt": "2026-11-11T09:44:21.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ben Crawford",
-    "transfer": null
-   },
-   {
-    "id": "31a02f3c967f",
-    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-usmnt",
-    "title": "Pochettino’s Manchester United interest is as natural as it is disruptive to the US",
-    "ko": "포체티노의 맨유 관심, 미국 시장에 파장",
-    "source": "guardian",
-    "publishedAt": "2026-11-11T10:00:36.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jeff Rueter",
-    "transfer": null
-   },
-   {
-    "id": "a595e5e48f77",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-acted-disgracefully-mauricio-34893796",
-    "title": "Manchester United have acted disgracefully as Mauricio Pochettino breakthrough nears",
-    "ko": "맨유, 포체티노 영입 임박…과정 두고 비판 제기",
-    "source": "men",
-    "publishedAt": "2026-11-11T10:42:36.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston",
-    "transfer": null
-   },
-   {
-    "id": "a1d07ee03821",
-    "url": "https://www.skysports.com/football/news/12040/13610949/mauricio-pochettino-man-utd-strike-agreement-with-michael-carricks-potential-successor",
-    "title": "Man Utd strike Poch agreement as Carrick takes training",
-    "ko": "맨유, 포체티노와 합의 도달…캐릭은 훈련 지휘",
-    "source": "sky",
-    "publishedAt": "2026-11-11T12:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "30dd78cc0759",
-    "url": "https://www.thesun.co.uk/sport/40989891/man-utd-mauricio-pochettino-new-manager-unai-emery-players/",
-    "title": "Man Utd stars expect Mauricio Pochettino to be new boss but ‘some wanted Premier League manager to take over’",
-    "ko": "맨유 선수들 포체티노 신임 감독 예상…일부는 프리미어리그 감독 원해",
-    "source": "sun",
-    "publishedAt": "2026-11-11T12:14:03.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Anthony Chapman",
-    "transfer": null
-   },
-   {
-    "id": "272a3592a807",
-    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-manager-37865525",
-    "title": "Man Utd is a huge gamble for Mauricio Pochettino - but they are a match made in heaven",
-    "ko": "포체티노 맨유行은 큰 도박…그래도 천생연분이라는 평가",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T12:17:04.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Cross",
-    "transfer": null
-   },
-   {
-    "id": "bb89033f5279",
-    "url": "https://www.hln.be/premier-league/eventuele-opvolger-voor-michael-carrick-staat-al-klaar-manchester-united-bereikt-principeakkoord-met-mauricio-pochettino~ae1a71bc/",
-    "title": "Eventuele opvolger voor Michael Carrick staat al klaar: “Manchester United bereikt principeakkoord met Mauricio Pochettino”",
-    "ko": "맨유, 포체티노와 principle 합의…캐릭 후임 유력",
-    "source": "hln",
-    "publishedAt": "2026-11-11T12:18:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Niel Van Essche, Johannes De Rijcke",
-    "transfer": null
-   },
-   {
-    "id": "965de00b550e",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-mauricio-pochettino-34895627",
-    "title": "Man United decide first Mauricio Pochettino signing as three Premier League players lined up",
-    "ko": "맨유, 포체티노 체제 첫 영입 결정…프리미어리그 3명 후보",
-    "source": "men",
-    "publishedAt": "2026-11-11T12:32:23.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [],
-    "playerTags": [],
-    "author": "Patrick Austen-Hardy",
-    "transfer": null
-   },
-   {
-    "id": "af5ed9bc1a25",
-    "url": "https://www.skysports.com/football/news/12040/13611004/mauricio-pochettino-manchester-uniteds-approach-for-former-tottenham-and-chelsea-boss-questioned",
-    "title": "Is Pochettino a short-term fix? Man Utd pursuit of Carrick replacement questioned",
-    "ko": "포체티노, 단기 해법인가? 맨유의 캐릭 후임 추진 의문",
-    "source": "sky",
-    "publishedAt": "2026-11-11T12:44:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2b8e47668ee3",
-    "url": "https://www.thesun.co.uk/sport/40989569/pochettino-man-utd-manager-ferguson-carrick/",
-    "title": "Pochettino wields iron fist in velvet glove and has Fergie’s approval but one thing must change as Man Utd manager",
-    "ko": "포체티노, 맨유 감독으로 강압적 리더십 — 페르디난드 승인, 한 가지 바뀌어야",
-    "source": "sun",
-    "publishedAt": "2026-11-11T12:56:45.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Samuel Luckhurst",
-    "transfer": null
-   },
-   {
-    "id": "cc8a50ec1c81",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
-    "title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-    "ko": "포체티노, 맨유 감독 부임 준비 속 캐릭은 더 나은 대우 받아야",
-    "source": "bbc",
-    "publishedAt": "2026-11-11T12:58:17.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bf97be03ebd4",
-    "url": "https://www.thesun.co.uk/sport/40988954/man-utd-winners-losers-mauricio-pochettino-shaw-mount-martinez/",
-    "title": "Man Utd’s winners and losers if Pochettino is appointed as two new signings could be in big trouble",
-    "ko": "포체티노 맨유 부임 시 승자와 패자, 신입 영입 두 명 위기 가능성",
-    "source": "sun",
-    "publishedAt": "2026-11-11T13:18:01.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "d7d14afc4b7d",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-usa-37866436",
-    "title": "Mauricio Pochettino ready to accept Man Utd offer as Red Devils open talks with USA",
-    "ko": "포체티노, 맨유 제안 수락 준비 보도…맨유 미국과 협상 시작",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T13:26:09.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Cross",
-    "transfer": null
-   },
-   {
-    "id": "1803a08dcdb6",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/ingleses-garantem-que-mauricio-pochettino-ja-tem-acordo-verbal-com-o-manchester-united",
-    "title": "Ingleses garantem que Mauricio Pochettino já tem acordo verbal com o Manchester United",
-    "ko": "영국 매체 \"포체티노, 맨유와 구두 합의 완료\" 보도",
-    "source": "record",
-    "publishedAt": "2026-11-11T13:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e35cc4fe53f8",
-    "url": "https://www.thesun.co.uk/sport/40991584/mauricio-pochettino-man-utd-usa-training-goodbye/",
-    "title": "Fans think Mauricio Pochettino is saying goodbye in USA training as he is seen for first time since Man Utd links",
-    "ko": "포체티노, 미국 훈련 복귀 포착…맨유 연결설 이후 첫 공개",
-    "source": "sun",
-    "publishedAt": "2026-11-11T13:44:02.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Anthony Chapman",
-    "transfer": null
-   },
-   {
-    "id": "81c552f99f46",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34896068",
-    "title": "Man United board’s ‘private agreement’ ridiculed as Mauricio Pochettino sent clear message",
-    "ko": "맨유 이사회 '비밀 합의' 비판, 포체티노 명확한 메시지 전달",
-    "source": "men",
-    "publishedAt": "2026-11-11T13:53:31.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null
-   },
-   {
-    "id": "62daa255f08d",
-    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-football-daily-newsletter",
-    "title": "Football Daily | Mauricio Pochettino readies his jungle outfit for another big adventure",
-    "ko": "포체티노, 또 한 번의 큰 모험 준비",
-    "source": "guardian",
-    "publishedAt": "2026-11-11T13:58:30.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tom Bassam",
-    "transfer": null
-   },
-   {
-    "id": "7b1d2fb05a52",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-been-told-what-34894497",
-    "title": "Manchester United have been told what they wanted to hear about Mauricio Pochettino",
-    "ko": "맨유, 포체티노에 대해 듣고 싶던 말 전해 들어",
-    "source": "men",
-    "publishedAt": "2026-11-11T14:08:02.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jack Flintham",
-    "transfer": null
-   },
-   {
-    "id": "267dc3191758",
-    "url": "https://www.dailystar.co.uk/sport/football/mauricio-pochettino-agrees-man-utd-37867021",
-    "title": "Mauricio Pochettino agrees Man Utd deal with Michael Carrick hours away from sack",
-    "ko": "포체티노, 맨유와 합의…카릭 해고 직전",
-    "source": "star",
-    "publishedAt": "2026-11-11T15:03:48.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jeremy Cross",
-    "transfer": null
-   },
-   {
-    "id": "313158d3c564",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-man-utd-liverpool-34897223",
-    "title": "Mauricio Pochettino's record against Liverpool and Andoni Iraola as Man Utd close in on deal",
-    "ko": "포체티노, 리버풀 상대 기록과 이라올라 비교…맨유 계약 임박",
-    "source": "lecho",
-    "publishedAt": "2026-11-11T15:11:51.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null
-   },
-   {
-    "id": "9990d010c954",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-united-mauricio-pochettino-manager-37867162",
-    "title": "Man Utd’s useless owners mean Mauricio Pochettino can instantly get whatever he wants",
-    "ko": "맨유 구단주들 탓에 포체티노, 원하는 건 뭐든 얻을 수 있어",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T15:31:13.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Andy Dunn",
-    "transfer": null
-   },
-   {
-    "id": "f44562f96e5f",
-    "url": "https://www.football.london/chelsea-fc/news/mauricio-pochettino-already-made-chelsea-34897666",
-    "title": "Mauricio Pochettino has already made Chelsea feelings perfectly clear ahead of Man Utd appointment",
-    "ko": "포체티노, 맨유 부임 앞두고 첼시 향한 속마음 드러내",
-    "source": "fblondon",
-    "publishedAt": "2026-11-11T15:42:04.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea",
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bobby Vincent",
-    "transfer": null
-   },
-   {
-    "id": "1396ecce2933",
-    "url": "https://www.nytimes.com/athletic/7773134/2026/11/11/mauricio-pochettino-man-united-challenge-job/",
-    "title": "Mauricio Pochettino and Man United: A poisoned chalice or dream restoration job?",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-11T16:02:09.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "239e1526ca03",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-squad-pochettino-emery-37867232",
-    "title": "Man Utd players 'wanted Unai Emery' as Mauricio Pochettino closes in on job",
-    "ko": "맨유 선수들 \"우나이 에메리 원했다\"…포체티노 부임 임박",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T16:03:37.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Samuel Meade",
-    "transfer": null
-   },
-   {
-    "id": "283185ec0e83",
-    "url": "https://www.footballinsider247.com/manchester-united/next-manager/mauricio-pochettino-to-provide-short-term-man-united-solution-after-agreement-club-adviser",
-    "title": "Mauricio Pochettino to provide ‘short-term’ Man United ‘solution’ after agreement - club adviser",
-    "ko": "포체티노, 합의 후 맨유 단기 해법 될 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-11T16:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a660f7cac221",
-    "url": "https://www.nytimes.com/athletic/7773683/2026/11/11/usmnt-vs-haiti-pochettino-manchester-united/",
-    "title": "Manchester United target Mauricio Pochettino expected to take USMNT games vs. Haiti",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-11T17:48:52.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "855b1c329d32",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-carrick-sack-pochettino-34898725",
-    "title": "Mauricio Pochettino cancellation confirmed as Man United decide on next manager move",
-    "ko": "포체티노 맨유 감독 부임 취소 확정, 후임 결정 나서",
-    "source": "men",
-    "publishedAt": "2026-11-11T18:03:33.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "90225a9c2c9f",
-    "url": "https://www.nytimes.com/athletic/7773820/2026/11/11/pep-guardiola-pochettino-manchester-united-usmnt-coach-candidate/",
-    "title": "Pep Guardiola expected to be a top USMNT target if Manchester United snares Pochettino",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-11T18:58:22.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "man-city"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9f1ee063820b",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-manchester-united-carrick-34898845",
-    "title": "Mauricio Pochettino to make immediate change to Man United manager's office",
-    "ko": "포체티노, 맨유 감독실 즉각 변화 준비",
-    "source": "men",
-    "publishedAt": "2026-11-11T19:18:18.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "d9f5f12e966b",
-    "url": "https://www.thesun.co.uk/sport/40995985/pep-guardiola-usmnt-target-mauricio-pochettino/",
-    "title": "Pep Guardiola ‘top target’ for USMNT to replace Man Utd-bound Mauricio Pochettino with Man City legend ‘intrigued’",
-    "ko": "USMNT 차기 감독 후보에 과르디올라…포체티노 공백 대비",
-    "source": "sun",
-    "publishedAt": "2026-11-11T19:48:42.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "man-city"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Emillia Hawkins",
-    "transfer": null
-   },
-   {
-    "id": "1ccefda443fa",
-    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-usa-man-utd-37867913",
-    "title": "What Mauricio Pochettino told USA team as Man Utd braced for frustration with new boss",
-    "ko": "포체티노가 미국 대표팀에 전한 말은?",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T19:56:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Samuel Meade",
-    "transfer": null
-   },
-   {
-    "id": "ac12383eb564",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-mauricio-pochettino-pep-guardiola-34898990",
-    "title": "Pep Guardiola issue instantly emerges as Man United close on Mauricio Pochettino agreement",
-    "ko": "맨유, 포체티노 감독 합의 임박…과르디올라 이슈도 부상",
-    "source": "men",
-    "publishedAt": "2026-11-11T20:00:14.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "man-city"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matthew Abbott",
-    "transfer": null
-   },
-   {
-    "id": "6f387b8f0766",
-    "url": "https://www.nytimes.com/athletic/7772824/2026/11/11/mauricio-pochettino-manchester-united-us-soccer/",
-    "title": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-11T20:20:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f276bd281774",
-    "url": "https://www.mirror.co.uk/sport/football/news/guardiola-usa-pochettino-man-utd-37868110",
-    "title": "Pep Guardiola thrust into Man Utd manager saga after being made 'top target'",
-    "ko": "과르디올라, 맨유 감독 후보 '1순위'로 떠올라",
-    "source": "mirror",
-    "publishedAt": "2026-11-11T21:07:21.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "man-city"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Samuel Meade",
-    "transfer": null
-   },
-   {
-    "id": "2fa95877ca0e",
-    "url": "https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
-    "title": "Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay",
-    "ko": "포체티노 맨유 부임, 과연 성공할 수 있을까",
-    "source": "guardian",
-    "publishedAt": "2026-11-11T21:10:31.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Barney Ronay",
-    "transfer": null
-   },
-   {
-    "id": "1e2b844c8614",
-    "url": "https://www.thesun.co.uk/sport/40996168/man-utd-flops-mauricio-pochettino-gacon-fitness-test/",
-    "title": "Man Utd flops in for brutal reality check as Mauricio Pochettino makes players follow ‘Gacon test’ fitness regime",
-    "ko": "포체티노 맨유 훈련 강도 강화…'가콘 테스트' 도입 파문",
-    "source": "sun",
-    "publishedAt": "2026-11-11T21:47:48.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tom Barclay",
-    "transfer": null
-   },
-   {
-    "id": "fcc516c8fdeb",
-    "url": "https://www.thesun.co.uk/sport/40996557/man-utd-pochettino-fury-liverpool/",
-    "title": "‘Disgraceful.. shambles’ – Fans furious as Man Utd ‘allow Pochettino to finish international break’ as Liverpool looms",
-    "ko": "맨유, 국제대표팀 휴식기 포체티노에게 마무리 허용 논란",
-    "source": "sun",
-    "publishedAt": "2026-11-11T22:03:13.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Emillia Hawkins",
-    "transfer": null
-   },
-   {
-    "id": "2e7093bb6313",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-manchester-united-manager-34899105",
-    "title": "Mauricio Pochettino's Man United timeline decided as Avram Glazer has final say",
-    "ko": "포체티노 맨유 부임 일정, 애브럼 글레이저 최종 결정권 쥐어",
-    "source": "men",
-    "publishedAt": "2026-11-11T22:32:53.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "2d60534d6aac",
-    "url": "https://www.thesun.co.uk/sport/40996968/harry-kane-premier-league-return-mauricio-pochettino-man-utd/",
-    "title": "Harry Kane drops biggest hint yet he may return to Premier League with old boss Mauricio Pochettino set for Man Utd job",
-    "ko": "케인, 포체티노 맨유行 속 프리미어리그 복귀 암시",
-    "source": "sun",
-    "publishedAt": "2026-11-11T22:52:15.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Tony Robertson",
-    "transfer": null
-   },
-   {
-    "id": "276be673ac66",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettinos-link-glazers-manchester-34897060",
-    "title": "Mauricio Pochettino's link to the Glazers as Manchester United job beckons",
-    "ko": "포체티노, 글레이저 가문 인연 속 맨유 감독 부임 임박",
-    "source": "men",
-    "publishedAt": "2026-11-12T04:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Steven Railston",
-    "transfer": null
-   },
-   {
-    "id": "5ff98cf39b4c",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-fitness-test-could-34897090",
-    "title": "The Mauricio Pochettino fitness test that could make or break some Manchester United careers",
-    "ko": "포체티노 체력 테스트, 맨유 일부 선수 커리어 좌우할 수도",
-    "source": "men",
-    "publishedAt": "2026-11-12T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall",
-    "transfer": null
-   },
-   {
-    "id": "22cefdd5366c",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-move-manchester-united-34897015",
-    "title": "Mauricio Pochettino move to Manchester United highlights familiar problem for Liverpool",
-    "ko": "포체티노 맨유行 움직임, 리버풀의 익숙한 문제 부각",
-    "source": "lecho",
-    "publishedAt": "2026-11-12T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   },
-   {
-    "id": "ac97d0b7b6c1",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-wonderkids-34895422",
-    "title": "Mauricio Pochettino could unlock six wonderkids to save Man United millions if he joins club",
-    "ko": "포체티노 맨유 부임 시 유망주 6명으로 수백만 파운드 절약 가능",
-    "source": "men",
-    "publishedAt": "2026-11-12T06:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Harry Brent",
-    "transfer": null
-   },
-   {
-    "id": "6e1aa1cbc782",
-    "url": "https://www.dailystar.co.uk/sport/football/mauricio-pochettino-manchester-united-usa-37868597",
-    "title": "Mauricio Pochettino's message to USA stars revealed as Man Utd face immediate frustration",
-    "ko": "포체티노, 미국 선수들에게 전한 메시지 공개…맨유 즉각적 좌절감 직면",
-    "source": "star",
-    "publishedAt": "2026-11-12T07:42:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Samuel Meade, Cameron Winstanley",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 14,
-  "score": 2.02,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "harry-kane"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-10T17:08:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Manchester United make formal contact with U.S. Soccer over Mauricio Pochettino"
  },
  {
   "slug": "newcastle-manager-future",
@@ -5135,7 +5943,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.46,
+  "score": 0.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5447,7 +6255,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 2.13,
+  "score": 1.78,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5510,7 +6318,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.4,
+  "score": 1.17,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5601,7 +6409,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.74,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5978,7 +6786,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.41,
+  "score": 0.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6039,7 +6847,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.15,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6105,7 +6913,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.11,
+  "score": 0.92,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6212,7 +7020,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.97,
+  "score": 0.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6267,7 +7075,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.34,
+  "score": 1.12,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6318,7 +7126,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6377,7 +7185,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.56,
+  "score": 0.47,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6424,7 +7232,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6517,7 +7325,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6695,7 +7503,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6754,9 +7562,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6831,9 +7639,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6902,9 +7710,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6992,107 +7800,6 @@
    "viaQuote": false
   },
   "headline": "Beşiktaş'ta Oumar Solet sesleri! Scout ekibinin önerisi..."
- },
- {
-  "slug": "gladbach-mohya-affairs-future",
-  "mode": "llm",
-  "titleKo": "묀헨글라트바흐 모히아 거취 전망",
-  "createdAt": "2026-11-08T16:48:00.000Z",
-  "updatedAt": "2026-11-11T19:56:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "gladbach",
-   "leverkusen"
-  ],
-  "players": [
-   "모히아",
-   "와엘 모히아",
-   "모히야"
-  ],
-  "sig": [
-   "podcast",
-   "hoffnung",
-   "mohyas",
-   "zukunft"
-  ],
-  "articles": [
-   {
-    "id": "5be7d5dff10d",
-    "url": "https://rp-online.de/podcasts/fohlenfutter/borussia-moenchengladbach-podcast-eine-frage-der-hoffnung-und-mohyas-tolle-geschichte_aid-158031889",
-    "title": "Fohlenfutter-Podcast: Was Gladbach Hoffnung macht, was sie trübt und wie es Mohyas Zukunft steht",
-    "ko": "묀헨글라트바흐, 희망과 우려 점검하며 모히아 거취 전망",
-    "source": "rp",
-    "publishedAt": "2026-11-08T16:48:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "모히아"
-    ],
-    "playerTags": [],
-    "author": "Karsten Kellermann",
-    "transfer": null
-   },
-   {
-    "id": "89debe9e6320",
-    "url": "https://www.kicker.de/wer-ist-eigentlich-wael-mohya-1270167/video#omrss",
-    "title": "Wer ist eigentlich Wael Mohya?",
-    "ko": "바엘 모히아는 누구인가",
-    "source": "kicker",
-    "publishedAt": "2026-11-09T13:11:56.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "바엘 모히아"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9bdd587997b0",
-    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-instagram-kommentar-bei-mohya-post-fans-kollegen-kritiker-und-forderer_aid-158219441",
-    "title": "Instagram-Kommentare zeigen es: Was Mohyas Nominierung für ihn und Gladbach bedeutet",
-    "ko": "모히아 발탁이 그에게 의미하는 것, 인스타 댓글 반응",
-    "source": "rp",
-    "publishedAt": "2026-11-11T19:56:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "모히아"
-    ],
-    "playerTags": [],
-    "author": "Karsten Kellermann",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "RP 온라인 (묀헨글라트바흐)",
-   "source": "rp",
-   "at": "2026-11-08T16:48:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Instagram-Kommentare zeigen es: Was Mohyas Nominierung für ihn und Gladbach bedeutet"
  },
  {
   "slug": "mbappe-injury",
@@ -9006,56 +9713,6 @@
    "viaQuote": false
   },
   "headline": "Jesús Owono tem castigo pesado à vista: guarda-redes pode ser banido do futebol espanhol"
- },
- {
-  "slug": "zulte-waregem-manager-future",
-  "mode": "llm",
-  "titleKo": "즐테 바레헴 감독 자진 사임",
-  "createdAt": "2026-11-11T17:03:51.000Z",
-  "updatedAt": "2026-11-11T17:03:51.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "michael",
-   "beale",
-   "zulte",
-   "waregem"
-  ],
-  "articles": [
-   {
-    "id": "5224546e5828",
-    "url": "https://www.hln.be/zulte-waregem/nog-een-trainerswissel-michael-beale-dient-zelf-ontslag-in-bij-zulte-waregem-na-0-op-18~acdcfa93/",
-    "title": "Nog een trainerswissel: Michael Beale dient zelf ontslag in bij Zulte Waregem na 0 op 18",
-    "ko": "즈울테 바레헴, 0승 18패 부진 속 마이클 베일 자진 사임",
-    "source": "hln",
-    "publishedAt": "2026-11-11T17:03:51.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Gianni Seeuws",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-11T17:03:51.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nog een trainerswissel: Michael Beale dient zelf ontslag in bij Zulte Waregem na 0 op 18"
  },
  {
   "slug": "sanchez-crash-incident",
@@ -14949,134 +15606,6 @@
   "headline": "Selecionador da Polónia faz atualização sobre Bednarek"
  },
  {
-  "slug": "de-bruyne-napoli-transfer",
-  "mode": "llm",
-  "titleKo": "더브라위너 나폴리 이적 가능성",
-  "createdAt": "2026-11-10T08:41:53.000Z",
-  "updatedAt": "2026-11-10T18:33:21.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "napoli",
-   "man-utd"
-  ],
-  "players": [
-   "케빈 더브라위너",
-   "더브라위너",
-   "라스무스 회일룬"
-  ],
-  "sig": [
-   "dragão",
-   "bruyne",
-   "nápoles"
-  ],
-  "articles": [
-   {
-    "id": "91156c7b2356",
-    "url": "https://www.lequipe.fr/collection/podcasts/serie/big-5/#at_medium=RSS_feeds",
-    "title": "De Bruyne à Naples, le crépuscule d'un géant",
-    "ko": "더브라위너 나폴리 시절, 거인의 황혼",
-    "source": "lequipe",
-    "publishedAt": "2026-11-07T21:07:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "더브라위너"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5672183a828f",
-    "url": "https://www.record.pt/internacional/paises/italia/napoles/detalhe/insultos-no-dragao-foram-a-gota-de-agua-de-bruyne-pode-deixar-napoles-ja-em-janeiro",
-    "title": "Insultos no Dragão foram a gota de água: De Bruyne pode deixar Nápoles já em janeiro",
-    "ko": "더브라위너, 1월 나폴리 이탈 가능성",
-    "source": "record",
-    "publishedAt": "2026-11-10T08:41:53.000Z",
-    "credited": null,
-    "clubs": [
-     "napoli"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "더브라위너"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "더브라위너",
-     "from": "나폴리",
-     "to": null
-    }
-   },
-   {
-    "id": "1d3033615902",
-    "url": "https://www.thesun.co.uk/sport/40980935/kevin-de-bruyne-quit-napoli-rasmus-hojlund-clash/",
-    "title": "Kevin De Bruyne ‘set to leave Napoli on free transfer after clash with Man Utd flop Rasmus Hojlund’",
-    "ko": "더브라위너, 나폴리 떠나 자유계약 이적 가능성",
-    "source": "sun",
-    "publishedAt": "2026-11-10T18:33:21.000Z",
-    "credited": null,
-    "clubs": [
-     "napoli",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "케빈 더브라위너",
-     "라스무스 회일룬"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "케빈 더브라위너",
-     "from": "나폴리",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 3,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "5672183a828f",
-    "at": "2026-11-10T08:41:53.000Z",
-    "source": "record",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "kevin-de-bruyne"
-  ],
-  "transfer": {
-   "player": "더브라위너",
-   "from": "나폴리",
-   "to": null
-  },
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-07T21:07:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Insultos no Dragão foram a gota de água: De Bruyne pode deixar Nápoles já em janeiro"
- },
- {
   "slug": "thuram-injury",
   "mode": "llm",
   "titleKo": "튀람 부상 이탈",
@@ -17758,174 +18287,6 @@
    "viaQuote": false
   },
   "headline": "Struggling Sunderland beat Chelsea to move off bottom of Premier League"
- },
- {
-  "slug": "musiala-injury",
-  "mode": "llm",
-  "titleKo": "뮈지알라 질환 우려",
-  "createdAt": "2026-11-08T11:55:29.000Z",
-  "updatedAt": "2026-11-10T15:13:30.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "자말 무시알라",
-   "무시알라",
-   "뮈지알라"
-  ],
-  "sig": [
-   "musiala",
-   "tiene"
-  ],
-  "articles": [
-   {
-    "id": "19f555e52273",
-    "url": "https://as.com/futbol/internacional/preocupacion-por-musiala-no-sabemos-si-volvera-a-ser-el-de-antes-f202611-n/",
-    "title": "Preocupación por Musiala: “Tiene una enfermedad no fácilmente curable”",
-    "ko": "뮈지알라 질환 우려…“쉽게 치유되지 않는 병”",
-    "source": "as",
-    "publishedAt": "2026-11-08T11:55:29.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "뮈지알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "José Carlos Menzel",
-    "transfer": null
-   },
-   {
-    "id": "35a647208bc7",
-    "url": "https://www.thesun.co.uk/sport/40958292/jamal-musiala-illness-bayern-munich-uli-hoeness/",
-    "title": "Bayern chief Uli Hoeness admits Jamal Musiala suffering from ‘illness that cannot simply be cured’",
-    "ko": "회체스 바이에른 회장, 무시알라 '치유되지 않는 질환' 인정",
-    "source": "sun",
-    "publishedAt": "2026-11-08T14:05:04.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "a3ad1ea23c26",
-    "url": "https://www.lequipe.fr/Football/Actualites/Uli-hoeness-a-propos-de-l-etat-de-sante-de-jamal-musiala-il-est-impossible-de-savoir-s-il-retrouvera-un-jour-son-niveau/1742447#at_medium=RSS_feeds",
-    "title": "Uli Hoeness à propos de l'état de santé de Jamal Musiala : « Il est impossible de savoir s'il retrouvera un jour son niveau »",
-    "ko": "회네스, 무시알라 상태 언급 \"예전 수준 회복 불가능할 수도\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-09T10:14:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Elliot Radix",
-    "transfer": null
-   },
-   {
-    "id": "e5ad34346136",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cw78p8dp0keeo?at_medium=RSS&at_campaign=rss",
-    "title": "Musiala may never return to his best - Hoeness",
-    "ko": "회이네스 '무시알라, 전성기 기량 회복 못 할 수도'",
-    "source": "bbc",
-    "publishedAt": "2026-11-09T11:01:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "15a7868f900a",
-    "url": "https://www.record.pt/internacional/paises/alemanha/bayern-munique/detalhe/musiala-preocupa-bayern-nao-sei-se-algum-dia-voltara-a-atingir-o-nivel-que-tinha",
-    "title": "Musiala preocupa Bayern: «Não sei se algum dia voltará a atingir o nível que tinha»",
-    "ko": "무시알라 건강 우려…바이에른 '예전 수준 회복할지 모르겠다'",
-    "source": "record",
-    "publishedAt": "2026-11-09T23:40:46.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c6ba8ff6d044",
-    "url": "https://www.tz.de/sport/fc-bayern/sammer-schaltet-sich-nach-hoeness-schelte-in-musiala-debatte-ein-94583573.html",
-    "title": "„Eine Katastrophe“: Sammer lässt mit emotionalem Musiala-Statement aufhorchen",
-    "ko": "잠머, 뮈지알라 관련 감성적 발언으로 주목",
-    "source": "tz",
-    "publishedAt": "2026-11-10T15:13:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Isabella Strehmann",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 6,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "jamal-musiala"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-08T11:55:29.000Z",
-   "viaQuote": false
-  },
-  "headline": "Musiala may never return to his best - Hoeness"
  },
  {
   "slug": "chelsea-affairs-leak-warning",
