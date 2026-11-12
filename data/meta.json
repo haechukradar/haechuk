@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T17:35:42.963Z",
+ "updatedAt": "2026-11-12T18:30:58.423Z",
  "hot": [
   "carrick-manager-future",
   "pochettino-man-utd-manager-future",
   "crystal-palace-manager-future",
   "turkey-belgium-2026-11-12",
-  "vigar-incident"
+  "barcelona-arsenal-2026-11-12"
  ],
  "days": [
   "2026-10-18",
@@ -36,18 +36,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 2,
+   "items": 81,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 58,
+   "added": 4,
+   "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,31 +91,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 74
+   "added": 7,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -125,13 +127,13 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -143,19 +145,19 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -166,26 +168,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
+   "items": 28,
    "added": 3,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 5,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -207,19 +209,19 @@
    "count": 28
   },
   {
+   "name": "프레스티아니",
+   "count": 25
+  },
+  {
+   "name": "잭 그릴리시",
+   "count": 24
+  },
+  {
    "name": "JJ 가브리엘",
    "count": 24
   },
   {
-   "name": "프레스티아니",
-   "count": 24
-  },
-  {
    "name": "그릴리시",
-   "count": 23
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 23
   },
   {
@@ -232,18 +234,18 @@
   },
   {
    "name": "트레솔디",
-   "count": 16
+   "count": 17
   },
   {
    "name": "이스테방",
    "count": 14
   },
   {
-   "name": "웨인 루니",
-   "count": 13
+   "name": "조브 벨링엄",
+   "count": 14
   },
   {
-   "name": "조브 벨링엄",
+   "name": "웨인 루니",
    "count": 13
   },
   {
@@ -312,7 +314,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
+  "recentIssues": 218,
   "singleArticleRate": 46,
   "broad": [
    {
@@ -325,7 +327,7 @@
    },
    {
     "slug": "crystal-palace-manager-future",
-    "count": 18
+    "count": 17
    },
    {
     "slug": "birmingham-affairs-tom-brady-stake",
@@ -380,7 +382,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "마티아스 야이슬레",
@@ -643,6 +645,38 @@
     {
      "ko": "셀리아 구베이아",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Arda Guler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아르다 귀러",
+     "count": 2
+    },
+    {
+     "ko": "귈러",
+     "count": 1
+    },
+    {
+     "ko": "아르다 귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Valérien Ismaël",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "발레리앙 이스마엘",
+     "count": 3
+    },
+    {
+     "ko": "발레리앵 이스마엘",
+     "count": 1
     }
    ]
   },
@@ -1085,34 +1119,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Zion Suzuki",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스즈키 지온",
-     "count": 1
-    },
-    {
-     "ko": "제이온 스즈키",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vlahovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "블라호비치",
-     "count": 1
-    },
-    {
-     "ko": "플라호비치",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1173,8 +1179,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 203,
-   "llm": 203
+   "collected": 254,
+   "llm": 254
   }
  },
  "llmErrors": []
