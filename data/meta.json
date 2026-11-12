@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T20:29:45.285Z",
+ "updatedAt": "2026-11-12T21:22:01.421Z",
  "hot": [
   "barcelona-arsenal-2026-11-12",
-  "carrick-manager-future",
   "scaloni-argentina-contract",
-  "england-croatia-2026-11-12",
-  "italy-france-2026-11-12"
+  "italy-france-2026-11-12",
+  "carrick-manager-future",
+  "england-croatia-2026-11-12"
  ],
  "days": [
   "2026-10-18",
@@ -37,31 +37,31 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 7,
+   "authorRate": 88
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,13 +85,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 76
   },
   "fblondon": {
@@ -139,7 +139,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -163,7 +163,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -175,7 +175,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -186,8 +186,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 2,
+   "items": 11,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -249,6 +249,10 @@
    "count": 13
   },
   {
+   "name": "돈나룸마",
+   "count": 12
+  },
+  {
    "name": "수비멘디",
    "count": 12
   },
@@ -273,10 +277,6 @@
    "count": 11
   },
   {
-   "name": "돈나룸마",
-   "count": 11
-  },
-  {
    "name": "보글",
    "count": 11
   },
@@ -293,6 +293,10 @@
    "count": 10
   },
   {
+   "name": "해밀턴",
+   "count": 10
+  },
+  {
    "name": "윌 랭크셔",
    "count": 10
   },
@@ -305,17 +309,13 @@
    "count": 9
   },
   {
-   "name": "해밀턴",
-   "count": 9
-  },
-  {
    "name": "트로사르",
    "count": 9
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
-  "singleArticleRate": 47,
+  "recentIssues": 221,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -323,15 +323,11 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 99
+    "count": 100
    },
    {
     "slug": "crystal-palace-manager-future",
     "count": 18
-   },
-   {
-    "slug": "birmingham-affairs-tom-brady-stake",
-    "count": 15
    }
   ]
  },
@@ -539,20 +535,6 @@
    ]
   },
   {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 3
-    },
-    {
-     "ko": "삼수 소아레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
@@ -751,15 +733,15 @@
    ]
   },
   {
-   "en": "Marco Silva",
+   "en": "Samuel Soares",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르코 실바",
+     "ko": "사무엘 소아레스",
      "count": 2
     },
     {
-     "ko": "마르쿠 실바",
+     "ko": "삼수 소아레스",
      "count": 1
     }
    ]
@@ -793,20 +775,6 @@
    ]
   },
   {
-   "en": "Rio Ferdinand",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리오 퍼디난드",
-     "count": 2
-    },
-    {
-     "ko": "리오 퍼디낸드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Fresneda",
    "dictionary": null,
    "variants": [
@@ -834,6 +802,20 @@
     },
     {
      "ko": "포콘볼리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Conor Gallagher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "코너 갤러거",
+     "count": 2
+    },
+    {
+     "ko": "콘어 갤러거",
      "count": 1
     }
    ]
@@ -897,11 +879,11 @@
      "count": 1
     },
     {
-     "ko": "앨런 셰어러",
+     "ko": "앨런 시어러",
      "count": 1
     },
     {
-     "ko": "앨런 시어러",
+     "ko": "앨런 셰어러",
      "count": 1
     }
    ]
@@ -916,6 +898,20 @@
     },
     {
      "ko": "레이나우두 테이셰이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diomande",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오만데",
+     "count": 2
+    },
+    {
+     "ko": "디오망드",
      "count": 1
     }
    ]
@@ -1107,15 +1103,15 @@
    ]
   },
   {
-   "en": "Pavlidis",
+   "en": "Marco Silva",
    "dictionary": null,
    "variants": [
     {
-     "ko": "파블리디스",
+     "ko": "마르코 실바",
      "count": 1
     },
     {
-     "ko": "파블리디",
+     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -1179,8 +1175,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 375,
-   "llm": 375
+   "collected": 410,
+   "llm": 410
   }
  },
  "llmErrors": []
