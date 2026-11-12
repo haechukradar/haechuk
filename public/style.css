@@ -340,6 +340,22 @@ a.player-tile { flex-direction: column; justify-content: flex-start; }
 .qopt.picked.right { background: var(--green); color: #fff; }
 .qexplain { margin: 10px 0 0; font-size: 13px; line-height: 20px; font-weight: 400; color: var(--text-detail); }
 .qexplain a { color: var(--text-2); }
+/* 커리어 퀴즈: 클럽 경력 경로 (배지 + 화살표, 임대는 점선) */
+.career { padding: 16px; background: var(--box); border: 1px solid var(--line); border-radius: 4px; }
+.cpath { list-style: none; padding: 0; margin: 16px 0; display: flex; flex-wrap: wrap; align-items: flex-start; gap: 12px 0; }
+.cstep { display: flex; align-items: flex-start; }
+.carrow { width: 28px; text-align: center; margin-top: 14px; color: var(--text-3); font-size: 18px; line-height: 20px; }
+.cclub { display: flex; flex-direction: column; align-items: center; width: 76px; text-align: center; gap: 4px; }
+.cbadge { width: 48px; height: 48px; margin: 0; font-size: 12px; }
+.cstep.loan .cbadge { outline: 2px dashed var(--text-3); outline-offset: 2px; }
+.cname { font-size: 12px; line-height: 16px; font-weight: 600; color: var(--text); word-break: keep-all; }
+.ctag { font-size: 11px; line-height: 14px; color: var(--text-2); background: var(--line-strong); border-radius: 2px; padding: 0 4px; }
+.cyears { font-size: 11px; line-height: 14px; color: var(--text-detail); }
+.chints { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
+.chint:disabled { opacity: 0.45; cursor: default; }
+.chint-out { min-height: 20px; margin: 0 0 12px; color: var(--navy-text); font-weight: 600; }
+.cresult { margin-top: 12px; }
+.cverdict { margin: 0; font-size: 15px; }
 .qitem.is-right .qnum::after { content: ' ✓'; color: var(--green); }
 .qitem.is-wrong .qnum::after { content: ' ✗'; }
 .qresult { margin: 16px 0 0; padding: 18px; background: var(--box); border: 1px solid var(--line); border-radius: 4px; }

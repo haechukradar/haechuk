@@ -53,6 +53,20 @@ export const CLUB_BADGE = {
   monaco: ['ASM', '#E7242F'],
 };
 
+// 클럽 사전(config/clubs.mjs)에 없는 클럽: 퀴즈 등에서만 쓰는 배지 [약칭, 대표색, 한글명]
+export const EXTRA_BADGE = {
+  'sagan-tosu': ['TOS', '#1E9BD7', '사간 도스'],
+};
+
+/** 클럽 slug → { text, bg, fg, ko } (퀴즈 경력 경로 등) */
+export function clubBadge(slug) {
+  const c = CLUB_BADGE[slug];
+  if (c) return { text: c[0], bg: c[1], fg: inkFor(c[1]), ko: CLUB_BY_SLUG[slug]?.ko ?? slug };
+  const e = EXTRA_BADGE[slug];
+  if (e) return { text: e[0], bg: e[1], fg: inkFor(e[1]), ko: e[2] };
+  return { text: slug.slice(0, 3).toUpperCase(), bg: null, fg: null, ko: slug };
+}
+
 // 클럽이 없는 기사: 리그 약칭 (무채색). 리그도 없으면 빈 배지 → 공 아이콘
 const LEAGUE_BADGE = { epl: 'EPL', laliga: 'LIGA', seriea: 'SA', bundesliga: 'BUN', ligue1: 'L1' };
 
