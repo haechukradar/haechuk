@@ -26,6 +26,9 @@ export const NAMES = [
   { ko: '헤수스 데 미겔', en: ['Jesus de Miguel', 'Jesús de Miguel'], wrong: ['제수스 데 미겔', '헤수스 데 미구엘', '호세스 데 미겔', '지제스 데 미겔', '제수스 드 미겔'] },
   // 오표기가 잦은 선수 (정답 표기는 선수 사전과 같게)
   { ko: '살리바', en: ['Saliba', 'William Saliba'], wrong: [['윌리엄 사리바', '윌리엄 살리바'], '사리바'] },
+  { ko: '무시알라', en: ['Musiala', 'Jamal Musiala'], wrong: ['뮈지알라', '무지알라'] },
+  { ko: '매과이어', en: ['Maguire', 'Harry Maguire'], wrong: ['맥과이어', '맥과이아'] },
+  { ko: '수비멘디', en: ['Zubimendi', 'Martín Zubimendi', 'Martin Zubimendi'], wrong: ['주빈디', '주비멘디', '수빈디'] },
   { ko: '주앙 페드루', en: ['Joao Pedro', 'João Pedro'], wrong: ['조앙 페드루', '조앙 페드로', '주앙 페드로', '조아오 페드로'] },
   { ko: '요케레스', en: ['Gyokeres', 'Gyökeres'], wrong: ['교케레스', '기외케레시', '교케레시'] },
   { ko: '외데고르', en: ['Odegaard', 'Ødegaard'], wrong: ['오데가르드', '외데가르드'] },

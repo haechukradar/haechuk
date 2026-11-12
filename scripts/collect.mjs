@@ -4,7 +4,7 @@ import path from 'node:path';
 import { SOURCES, SOURCE_BY_ID } from '../config/sources.mjs';
 import { CLUB_BY_SLUG } from '../config/clubs.mjs';
 import { tagPlayersDetailed, unknownPlayers, PLAYERS } from '../config/players.mjs';
-import { NAMES, nameKey } from '../config/names.mjs';
+import { NAMES, nameKey, fixNames } from '../config/names.mjs';
 import { ACCURACY, PIPELINE, TRANSFERS } from '../config/site.mjs';
 import { RESOLUTIONS } from '../config/resolutions.mjs';
 import { fetchFeed, normalizeUrl } from './lib/rss.mjs';
@@ -207,6 +207,13 @@ async function main() {
   }
   console.log(`가공: LLM ${llmCount}건${llmAvailable() ? '' : ' (LLM 미사용 — 규칙 기반)'}`);
 
+  // 표기 사전(config/names.mjs)을 불러온 기사에도 적용 — 사전에 새 표기를 추가하면 기존 요약도 바로 교정
+  for (const a of known.values()) {
+    if (a.ko) a.ko = fixNames(a.ko);
+    if (a.players) a.players = a.players.map(fixNames);
+    if (a.transfer?.player) a.transfer.player = fixNames(a.transfer.player);
+  }
+
   // 학습한 현재 소속과 대조: 이미 그 클럽 소속인 선수의 "이적" 기사는 지난 이적이므로 이적에서 제외 (LLM 재호출 없이 매 실행)
   let pastMoves = 0;
   for (const a of known.values()) {
@@ -288,6 +295,7 @@ async function main() {
 
   // 4. 점수 산정 + 정리
   for (const [slug, issue] of issues) {
+    if (issue.titleKo) issue.titleKo = fixNames(issue.titleKo);
     // 이슈에 담긴 기사 사본을 최신 가공 결과로 맞춤 (다시 가공된 분류·단계·이적 대상·티어 근거 반영)
     // 다시 가공으로 다른 이슈로 옮겨졌거나 이슈에서 빠진 기사는 사본을 지움
     issue.articles = issue.articles.filter((x) => {

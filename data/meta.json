@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T15:38:35.374Z",
+ "updatedAt": "2026-11-12T16:15:41.269Z",
  "hot": [
   "crystal-palace-manager-future",
   "carrick-manager-future",
   "pochettino-man-utd-manager-future",
-  "musiala-injury",
-  "kane-award"
+  "korea-national-team-affairs-dressing-room",
+  "man-utd-affairs-crisis-overview"
  ],
  "days": [
   "2026-10-18",
@@ -36,7 +36,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 84,
+   "items": 83,
    "added": 1,
    "authorRate": 0
   },
@@ -49,14 +49,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 20,
+   "authorRate": 84
   },
   "athletic": {
    "ok": true,
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 18,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,37 +85,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 1,
-   "authorRate": 80
+   "authorRate": 78
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 2,
-   "authorRate": 100
-  },
-  "men": {
-   "ok": true,
-   "items": 25,
-   "added": 2,
-   "authorRate": 100
-  },
-  "lecho": {
    "ok": true,
    "items": 25,
    "added": 0,
    "authorRate": 100
   },
+  "men": {
+   "ok": true,
+   "items": 25,
+   "added": 1,
+   "authorRate": 100
+  },
+  "lecho": {
+   "ok": true,
+   "items": 25,
+   "added": 2,
+   "authorRate": 100
+  },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -133,7 +133,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -151,13 +151,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -169,7 +169,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 7,
+   "added": 3,
    "authorRate": 97
   },
   "star": {
@@ -181,12 +181,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 9,
    "added": 2,
    "authorRate": 0
   }
@@ -233,16 +233,24 @@
    "count": 17
   },
   {
-   "name": "웨인 루니",
-   "count": 13
+   "name": "트레솔디",
+   "count": 15
   },
   {
-   "name": "트레솔디",
+   "name": "이스테방",
+   "count": 14
+  },
+  {
+   "name": "웨인 루니",
    "count": 13
   },
   {
    "name": "조브 벨링엄",
    "count": 13
+  },
+  {
+   "name": "수비멘디",
+   "count": 12
   },
   {
    "name": "티에르노 배리",
@@ -289,10 +297,6 @@
    "count": 10
   },
   {
-   "name": "수비멘디",
-   "count": 10
-  },
-  {
    "name": "도르구",
    "count": 10
   },
@@ -307,27 +311,23 @@
   {
    "name": "트로사르",
    "count": 9
-  },
-  {
-   "name": "은메차",
-   "count": 9
   }
  ],
  "issueHealth": {
-  "recentIssues": 223,
-  "singleArticleRate": 48,
+  "recentIssues": 221,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 132
+    "count": 136
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 82
+    "count": 87
    },
    {
     "slug": "crystal-palace-manager-future",
-    "count": 18
+    "count": 19
    },
    {
     "slug": "birmingham-affairs-tom-brady-stake",
@@ -342,7 +342,7 @@
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "피에르 세이지",
@@ -391,6 +391,10 @@
     {
      "ko": "파울로 폰세카",
      "count": 1
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 1
     }
    ]
   },
@@ -405,28 +409,6 @@
     {
      "ko": "튀헬",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Martin Zubimendi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수비멘디",
-     "count": 3
-    },
-    {
-     "ko": "마르틴 수비멘디",
-     "count": 1
-    },
-    {
-     "ko": "주빈디",
-     "count": 1
-    },
-    {
-     "ko": "마르틴 주빈디",
-     "count": 1
     }
    ]
   },
@@ -457,20 +439,6 @@
    ]
   },
   {
-   "en": "Zubimendi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수비멘디",
-     "count": 5
-    },
-    {
-     "ko": "주비멘디",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -493,6 +461,20 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 4
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Samuel Soares",
    "dictionary": null,
    "variants": [
@@ -507,24 +489,6 @@
    ]
   },
   {
-   "en": "Musiala",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무시알라",
-     "count": 2
-    },
-    {
-     "ko": "뮈지알라",
-     "count": 2
-    },
-    {
-     "ko": "자말 무시알라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -534,20 +498,6 @@
     },
     {
      "ko": "퀼크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 3
-    },
-    {
-     "ko": "델라 푸엔테",
      "count": 1
     }
    ]
@@ -603,6 +553,20 @@
     {
      "ko": "세니 마윜루",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mikey Moore",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미키 무어",
+     "count": 2
+    },
+    {
+     "ko": "마이키 무어",
+     "count": 2
     }
    ]
   },
@@ -805,6 +769,20 @@
    ]
   },
   {
+   "en": "Di Salvo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디 살보",
+     "count": 2
+    },
+    {
+     "ko": "디살보",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pocognoli",
    "dictionary": null,
    "variants": [
@@ -850,20 +828,6 @@
     },
     {
      "ko": "엘리 주니어 쿠프이",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mikey Moore",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미키 무어",
-     "count": 2
-    },
-    {
-     "ko": "마이키 무어",
      "count": 1
     }
    ]
@@ -1083,6 +1047,20 @@
    ]
   },
   {
+   "en": "Pavlidis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파블리디스",
+     "count": 1
+    },
+    {
+     "ko": "파블리디",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -1120,6 +1098,20 @@
     },
     {
      "ko": "르나투 마린",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Zion Suzuki",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스즈키 지온",
+     "count": 1
+    },
+    {
+     "ko": "제이온 스즈키",
      "count": 1
     }
    ]
@@ -1183,8 +1175,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 58,
-   "llm": 58
+   "collected": 111,
+   "llm": 111
   }
  },
  "llmErrors": []
