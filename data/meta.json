@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-11-12T06:45:13.745Z",
+ "updatedAt": "2026-11-12T08:00:30.539Z",
  "hot": [
   "pochettino-man-utd-manager-future",
-  "mbappe-injury",
+  "olise-cold-italy-2026-11-12",
   "man-utd-affairs-ratcliffe-criticism"
  ],
  "days": [
@@ -33,20 +33,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 85,
+   "items": 86,
    "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
+   "items": 56,
    "added": 0,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,31 +82,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 9,
    "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -136,19 +136,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -166,13 +166,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 2,
    "authorRate": 86
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -183,8 +183,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 4,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -218,11 +218,11 @@
    "count": 22
   },
   {
-   "name": "잭 그릴리시",
-   "count": 21
+   "name": "알리송",
+   "count": 22
   },
   {
-   "name": "알리송",
+   "name": "잭 그릴리시",
    "count": 21
   },
   {
@@ -306,13 +306,13 @@
    "count": 9
   },
   {
-   "name": "모히아",
+   "name": "이스테방",
    "count": 8
   }
  ],
  "issueHealth": {
-  "recentIssues": 236,
-  "singleArticleRate": 48,
+  "recentIssues": 234,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -320,7 +320,11 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 56
+    "count": 57
+   },
+   {
+    "slug": "birmingham-affairs-tom-brady-stake",
+    "count": 15
    }
   ]
  },
@@ -331,18 +335,14 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "마티아스 자이슬레",
-     "count": 1
-    },
-    {
-     "ko": "재슬레",
      "count": 1
     }
    ]
@@ -536,6 +536,20 @@
    ]
   },
   {
+   "en": "Zubimendi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수비멘디",
+     "count": 4
+    },
+    {
+     "ko": "주비멘디",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -559,20 +573,6 @@
     },
     {
      "ko": "하버츠",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 바리",
-     "count": 3
-    },
-    {
-     "ko": "티에르노 배리",
      "count": 1
     }
    ]
@@ -610,6 +610,20 @@
    ]
   },
   {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 3
+    },
+    {
+     "ko": "마르크 판 봄멜",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Di Salvo",
    "dictionary": null,
    "variants": [
@@ -638,20 +652,6 @@
    ]
   },
   {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안",
-     "count": 2
-    },
-    {
-     "ko": "훌리안 알바레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Dan Burn",
    "dictionary": null,
    "variants": [
@@ -675,6 +675,20 @@
     },
     {
      "ko": "유리 틸르망스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 바리",
+     "count": 2
+    },
+    {
+     "ko": "티에르노 배리",
      "count": 1
     }
    ]
@@ -832,20 +846,6 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Aurélien Tchouaméni",
    "dictionary": null,
    "variants": [
@@ -906,6 +906,24 @@
    ]
   },
   {
+   "en": "Luis de la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    },
+    {
+     "ko": "루이스 데 라 푸엔테",
+     "count": 1
+    },
+    {
+     "ko": "루이스 델라푸엔테",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Robert Sanchez",
    "dictionary": null,
    "variants": [
@@ -943,6 +961,20 @@
     },
     {
      "ko": "오스카르손",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Julián",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "훌리안 알바레스",
+     "count": 1
+    },
+    {
+     "ko": "훌리안",
      "count": 1
     }
    ]
@@ -1072,34 +1104,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Javi Hernández",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "하비에르 에르난데스",
-     "count": 1
-    },
-    {
-     "ko": "하비 에르난데스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Quadri",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "콰드리",
-     "count": 1
-    },
-    {
-     "ko": "쿠아드리",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1156,8 +1160,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 404,
-   "llm": 404
+   "collected": 444,
+   "llm": 444
   }
  },
  "llmErrors": []
