@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T22:14:05.785Z",
+ "updatedAt": "2026-11-12T22:59:38.876Z",
  "hot": [
   "england-croatia-2026-11-12",
-  "barcelona-arsenal-2026-11-12",
   "italy-france-2026-11-12",
+  "barcelona-arsenal-2026-11-12",
   "scaloni-argentina-contract",
-  "carrick-manager-future"
+  "bruno-fernandes-contract"
  ],
  "days": [
   "2026-10-18",
@@ -36,8 +36,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 4,
+   "items": 79,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -49,7 +49,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,14 +85,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 15,
-   "authorRate": 72
+   "added": 7,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -109,7 +109,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -139,7 +139,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -163,7 +163,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -175,7 +175,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
@@ -186,7 +186,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
+   "items": 7,
    "added": 0,
    "authorRate": 0
   }
@@ -197,28 +197,28 @@
    "count": 70
   },
   {
-   "name": "오워노",
+   "name": "맥스 다우먼",
    "count": 32
   },
   {
-   "name": "맥스 다우먼",
-   "count": 31
+   "name": "오워노",
+   "count": 32
   },
   {
    "name": "노이어",
    "count": 28
   },
   {
+   "name": "그릴리시",
+   "count": 26
+  },
+  {
    "name": "잭 그릴리시",
    "count": 26
   },
   {
-   "name": "그릴리시",
-   "count": 25
-  },
-  {
    "name": "프레스티아니",
-   "count": 25
+   "count": 26
   },
   {
    "name": "JJ 가브리엘",
@@ -314,8 +314,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 223,
-  "singleArticleRate": 48,
+  "recentIssues": 222,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -323,19 +323,19 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 102
+    "count": 105
+   },
+   {
+    "slug": "italy-france-2026-11-12",
+    "count": 23
    },
    {
     "slug": "england-croatia-2026-11-12",
-    "count": 19
+    "count": 20
    },
    {
     "slug": "crystal-palace-manager-future",
     "count": 18
-   },
-   {
-    "slug": "italy-france-2026-11-12",
-    "count": 17
    }
   ]
  },
@@ -583,24 +583,6 @@
    ]
   },
   {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 2
-    },
-    {
-     "ko": "삼수 소아레스",
-     "count": 1
-    },
-    {
-     "ko": "사무엘 수아레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
@@ -781,15 +763,15 @@
    ]
   },
   {
-   "en": "Maxi Araújo",
+   "en": "Samuel Soares",
    "dictionary": null,
    "variants": [
     {
-     "ko": "막시 아라우호",
+     "ko": "사무엘 소아레스",
      "count": 2
     },
     {
-     "ko": "마시 아라우호",
+     "ko": "사무엘 수아레스",
      "count": 1
     }
    ]
@@ -1135,6 +1117,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Pedro Porro",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드로 포로",
+     "count": 1
+    },
+    {
+     "ko": "페드루 포로",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1195,8 +1191,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 457,
-   "llm": 457
+   "collected": 492,
+   "llm": 492
   }
  },
  "llmErrors": []
