@@ -1,9 +1,10 @@
 {
- "updatedAt": "2026-11-12T12:21:50.026Z",
+ "updatedAt": "2026-11-12T13:44:35.317Z",
  "hot": [
+  "crystal-palace-manager-future",
   "carrick-manager-future",
   "pochettino-man-utd-manager-future",
-  "gladbach-mohya-affairs-future",
+  "musiala-injury",
   "kane-award"
  ],
  "days": [
@@ -34,20 +35,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 85,
-   "added": 1,
+   "items": 84,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 1,
+   "added": 3,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -59,7 +60,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -71,7 +72,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -83,37 +84,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 3,
    "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -125,7 +126,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -137,7 +138,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,37 +156,37 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 4,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 3,
+   "items": 11,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -216,7 +217,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 22
+   "count": 23
   },
   {
    "name": "알리송",
@@ -279,6 +280,10 @@
    "count": 10
   },
   {
+   "name": "윌 랭크셔",
+   "count": 10
+  },
+  {
    "name": "돈나룸마",
    "count": 10
   },
@@ -303,25 +308,25 @@
    "count": 9
   },
   {
-   "name": "윌 랭크셔",
-   "count": 9
-  },
-  {
-   "name": "페르민",
+   "name": "은메차",
    "count": 9
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 49,
+  "recentIssues": 221,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 126
+    "count": 132
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 73
+    "count": 76
+   },
+   {
+    "slug": "crystal-palace-manager-future",
+    "count": 18
    },
    {
     "slug": "birmingham-affairs-tom-brady-stake",
@@ -330,6 +335,24 @@
   ]
  },
  "nameReport": [
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 7
+    },
+    {
+     "ko": "피에르 세이지",
+     "count": 6
+    },
+    {
+     "ko": "피에르 사게",
+     "count": 2
+    }
+   ]
+  },
   {
    "en": "Matthias Jaissle",
    "dictionary": null,
@@ -340,18 +363,14 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 2
+     "count": 3
     },
     {
-     "ko": "마티아스 자이슬레",
+     "ko": "마티아스 자이슬",
      "count": 1
     },
     {
      "ko": "매티아스 야이슬레",
-     "count": 1
-    },
-    {
-     "ko": "마티아스 자이슬",
      "count": 1
     }
    ]
@@ -362,7 +381,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "포폰세카",
@@ -375,15 +394,15 @@
    ]
   },
   {
-   "en": "Pierre Sage",
+   "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
-     "ko": "피에르 사주",
+     "ko": "투헬",
      "count": 5
     },
     {
-     "ko": "피에르 사게",
+     "ko": "튀헬",
      "count": 2
     }
    ]
@@ -429,16 +448,24 @@
    ]
   },
   {
-   "en": "Tuchel",
+   "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
-     "count": 4
+     "ko": "반 봄멜",
+     "count": 3
     },
     {
-     "ko": "튀헬",
-     "count": 2
+     "ko": "마르크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 1
     }
    ]
   },
@@ -456,24 +483,6 @@
     },
     {
      "ko": "퀼크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "한스 반아켄",
-     "count": 2
-    },
-    {
-     "ko": "반악넨",
-     "count": 2
-    },
-    {
-     "ko": "한스 바나켄",
      "count": 1
     }
    ]
@@ -511,24 +520,6 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 3
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 봄멜",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -561,6 +552,42 @@
    ]
   },
   {
+   "en": "Hans Vanaken",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반악넨",
+     "count": 2
+    },
+    {
+     "ko": "한스 반아켄",
+     "count": 1
+    },
+    {
+     "ko": "한스 바나켄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Musiala",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무시알라",
+     "count": 2
+    },
+    {
+     "ko": "자말 무시알라",
+     "count": 1
+    },
+    {
+     "ko": "뮈지알라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
@@ -574,6 +601,24 @@
     },
     {
      "ko": "세니 마윜루",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Peter Shilton",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피터 쉴턴",
+     "count": 2
+    },
+    {
+     "ko": "셜턴",
+     "count": 1
+    },
+    {
+     "ko": "피터 쇼턴",
      "count": 1
     }
    ]
@@ -607,20 +652,6 @@
    ]
   },
   {
-   "en": "Aguirre",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아게이레",
-     "count": 2
-    },
-    {
-     "ko": "아기레",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hugo Cuypers",
    "dictionary": null,
    "variants": [
@@ -634,6 +665,20 @@
     },
     {
      "ko": "위고 퀴퍼스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kiernan Dewsbury-Hall",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키어넌 듀스버리홀",
+     "count": 2
+    },
+    {
+     "ko": "키어넌 듀즈버리홀",
      "count": 1
     }
    ]
@@ -837,24 +882,6 @@
    ]
   },
   {
-   "en": "Peter Shilton",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피터 쉴턴",
-     "count": 1
-    },
-    {
-     "ko": "피터 쇼턴",
-     "count": 1
-    },
-    {
-     "ko": "셜턴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Luis de la Fuente",
    "dictionary": null,
    "variants": [
@@ -882,34 +909,6 @@
     },
     {
      "ko": "로베르 산체스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Óskarsson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "외스카르손",
-     "count": 1
-    },
-    {
-     "ko": "오스카르손",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Julián",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "훌리안 알바레스",
-     "count": 1
-    },
-    {
-     "ko": "훌리안",
      "count": 1
     }
    ]
@@ -980,20 +979,6 @@
     },
     {
      "ko": "위맷 아크다으",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 1
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
      "count": 1
     }
    ]
@@ -1083,6 +1068,20 @@
    ]
   },
   {
+   "en": "Rio Ferdinand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리오 퍼디난드",
+     "count": 1
+    },
+    {
+     "ko": "리오 퍼디낸드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -1106,6 +1105,20 @@
     },
     {
      "ko": "션 스퇴르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Renato Marin",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레나토 마린",
+     "count": 1
+    },
+    {
+     "ko": "르나투 마린",
      "count": 1
     }
    ]
@@ -1165,8 +1178,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 635,
-   "llm": 635
+   "collected": 700,
+   "llm": 700
   }
  },
  "llmErrors": []
