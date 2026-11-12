@@ -4,6 +4,8 @@ import Layout from '../../layouts/Layout.astro';
 import QuizPlayer from '../../components/QuizPlayer.astro';
 import { loadQuizzes } from '../../lib/data.mjs';
 import { GAME } from '../../../config/game.mjs';
+import { loadCareerQuizzes } from '../../lib/data.mjs';
+const career = loadCareerQuizzes().published[0];
 
 const quizzes = loadQuizzes();
 const latest = quizzes[0];
@@ -18,6 +20,13 @@ const latest = quizzes[0];
     <span id="grade-meta" class="muted small"></span>
     <a href="/me" class="small">내 기록 →</a>
   </div>
+
+  {career && (
+    <a class="career-cta" href="/quiz/career">
+      <span><strong>오늘의 커리어 퀴즈 · 나 누구게?</strong><br /><span class="muted small">클럽 경력만 보고 선수 맞히기 · 난이도 {career.level}</span></span>
+      <span aria-hidden="true">→</span>
+    </a>
+  )}
 
   {latest ? (
     <section>

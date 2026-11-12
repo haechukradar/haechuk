@@ -57,6 +57,12 @@ const media = Object.values(acc.sources ?? {})
     <p class="empty" id="quiz-empty" hidden>아직 푼 퀴즈가 없어요. <a href="/quiz">이번 주 퀴즈</a>부터 시작해 보세요.</p>
   </section>
 
+  <section>
+    <h2 class="sec">커리어 퀴즈 기록 <small>나 누구게?</small></h2>
+    <ul class="me-list" id="career-list"></ul>
+    <p class="empty" id="career-empty" hidden>아직 푼 커리어 퀴즈가 없어요. <a href="/quiz/career">오늘의 문제</a>를 풀어 보세요.</p>
+  </section>
+
   <p class="small"><button type="button" class="linkish" id="me-reset">기록 초기화</button></p>
   <div class="toast" id="me-toast" role="status" aria-live="polite" hidden>복사됐어요</div>
 </Layout>
@@ -86,7 +92,7 @@ const media = Object.values(acc.sources ?? {})
       $('me-acc').textContent = g.quizzes.length ? Math.round(g.accuracy * 100) + '%' : '-';
       var p = g.predictions;
       $('me-pred').textContent = p.rate === null ? (p.pending ? '판정 대기 ' + p.pending + '건' : '-') : Math.round(p.rate * 100) + '% (' + p.hits + '/' + (p.hits + p.misses) + ')';
-      $('me-break').textContent = '퀴즈 ' + g.breakdown.quiz + ' · 연속 ' + g.breakdown.streak + ' · 예측 ' + g.breakdown.predict;
+      $('me-break').textContent = '퀴즈 ' + g.breakdown.quiz + ' · 연속 ' + g.breakdown.streak + ' · 예측 ' + g.breakdown.predict + ' · 커리어 ' + g.breakdown.career;
 
       // 매체 적중률과 비교 (매체 표본이 충분할 때만)
       if (p.rate !== null && media.length) {
@@ -103,6 +109,13 @@ const media = Object.values(acc.sources ?? {})
           var info = issueInfo[x.slug];
           var now = info && info.s ? '<span class="stage stage-' + info.s + '">현재 ' + esc(stageLabel[info.s] || info.s) + '</span>' : '';
           return '<li><a href="/issue/' + encodeURIComponent(x.slug) + '">' + esc((info && info.t) || x.title || x.slug) + '</a><span class="me-tags">' + now + '<span class="cat">내 예측 ' + pickLabel[x.pick] + '</span><span class="pstat pstat-' + x.status + '">' + statusLabel[x.status] + '</span></span></li>';
+        })
+        .join('');
+
+      $('career-empty').hidden = g.career.list.length > 0;
+      $('career-list').innerHTML = g.career.list
+        .map(function (c) {
+          return '<li><a href="/quiz/career/' + c.id + '">' + c.id + ' · ' + esc(c.answer || '') + '</a><span class="me-tags"><span class="pstat pstat-' + (c.correct ? 'hit' : 'miss') + '">' + (c.correct ? '+' + c.points + '점' : '오답') + '</span>' + (c.correct ? '<span class="cat">' + (c.mode === 'input' ? '직접 입력' : '보기') + (c.hints ? ' · 힌트 ' + c.hints : '') + '</span>' : '') + '</span></li>';
         })
         .join('');
 

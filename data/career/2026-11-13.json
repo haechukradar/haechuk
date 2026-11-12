@@ -2,21 +2,65 @@
  "id": "2026-11-13",
  "level": "쉬움",
  "answer": "페르난도 토레스",
- "options": ["다비드 비야", "페르난도 토레스", "디에고 코스타", "페르난도 요렌테"],
+ "answerEn": "Fernando Torres",
+ "aliases": [
+  "Fernando Torres",
+  "Torres",
+  "토레스",
+  "페르난도 토레스"
+ ],
+ "options": [
+  "페르난도 요렌테",
+  "다비드 비야",
+  "디에고 코스타",
+  "페르난도 토레스"
+ ],
  "path": [
-  { "club": "atletico", "years": "2001–2007" },
-  { "club": "liverpool", "years": "2007–2011" },
-  { "club": "chelsea", "years": "2011–2015" },
-  { "club": "ac-milan", "years": "2014–2015", "loan": true },
-  { "club": "atletico", "years": "2015–2018", "return": true },
-  { "club": "sagan-tosu", "years": "2018–2019" }
+  {
+   "club": "atletico",
+   "years": "2001–2007"
+  },
+  {
+   "club": "liverpool",
+   "years": "2007–2011"
+  },
+  {
+   "club": "chelsea",
+   "years": "2011–2015"
+  },
+  {
+   "club": "ac-milan",
+   "years": "2014–2015",
+   "loan": true
+  },
+  {
+   "club": "atletico",
+   "years": "2015–2018",
+   "return": true
+  },
+  {
+   "club": "sagan-tosu",
+   "years": "2018–2019"
+  }
  ],
  "hints": [
-  { "label": "국적", "text": "스페인" },
-  { "label": "포지션", "text": "스트라이커" },
-  { "label": "시기", "text": "활약 연도 공개" }
+  {
+   "label": "국적",
+   "text": "스페인"
+  },
+  {
+   "label": "포지션",
+   "text": "스트라이커"
+  },
+  {
+   "label": "시기",
+   "text": "클럽별 활약 연도 공개"
+  }
  ],
  "explain": "아틀레티코 유스 출신으로 리버풀에서 전성기를 보낸 뒤 첼시로 이적했습니다. 밀란 임대를 거쳐 친정 아틀레티코로 돌아왔고, 일본 사간 도스에서 은퇴했습니다.",
- "sources": ["https://en.wikipedia.org/wiki/Fernando_Torres", "https://www.lfchistory.net/Players/Player/Profile/1186"],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Fernando_Torres",
+  "https://www.lfchistory.net/Players/Player/Profile/1186"
+ ],
  "verified": "2026-11-13"
 }

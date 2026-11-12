@@ -1,0 +1,145 @@
+---
+// 커리어 퀴즈 "나 누구게?" 1문제: 클럽 경력 경로 → 이름 입력(자동완성) 또는 보기 4개
+// 점수·기록은 public/game.js (GAME.careerUpdate) — 힌트를 적게 쓰고 직접 입력해 맞힐수록 높은 점수
+import { clubBadge } from '../../config/badges.mjs';
+import { GAME } from '../../config/game.mjs';
+
+interface Props {
+  q: any;
+  names: string[]; // 자동완성 후보
+}
+const { q, names } = Astro.props;
+const steps = q.path.map((s: any) => ({ ...s, b: clubBadge(s.club) }));
+const C = GAME.points.career;
+const listId = `career-names-${q.id}`;
+---
+
+<section class="career" data-id={q.id} data-answer={q.answer} data-aliases={JSON.stringify(q.aliases ?? [q.answer])}>
+  <p class="muted small">이 선수가 거쳐 간 클럽입니다. 누구일까요? · 난이도 {q.level}</p>
+
+  <ol class="cpath">
+    {steps.map((s: any, n: number) => (
+      <li class:list={['cstep', { loan: s.loan }]}>
+        {n > 0 && <span class="carrow" aria-hidden="true">{s.loan ? '⇢' : '→'}</span>}
+        <span class="cclub">
+          <span class="badge cbadge" style={s.b.bg ? `background:${s.b.bg};color:${s.b.fg}` : undefined}>{s.b.text}</span>
+          <span class="cname">{s.b.ko}</span>
+          {s.loan && <span class="ctag">임대</span>}
+          {s.return && !s.loan && <span class="ctag">복귀</span>}
+          {s.tag && <span class="ctag">{s.tag}</span>}
+          <span class="cyears" hidden>{s.years}</span>
+        </span>
+      </li>
+    ))}
+  </ol>
+
+  <div class="chints">
+    {q.hints.map((h: any, n: number) => (
+      <button type="button" class="fav-btn chint" data-n={n} data-text={h.text} data-years={h.label === '시기' ? '1' : undefined}>
+        힌트 {n + 1} · {h.label}
+      </button>
+    ))}
+  </div>
+  <p class="small chint-out" aria-live="polite"></p>
+
+  <form class="cinput" autocomplete="off">
+    <input type="text" class="cname-in" list={listId} placeholder="선수 이름 입력 (예: 손흥민)" aria-label="선수 이름" />
+    <button type="submit" class="fav-btn on">확인</button>
+    <datalist id={listId}>{names.map((n) => <option value={n} />)}</datalist>
+  </form>
+  <p class="small muted cinput-help">직접 입력해 맞히면 점수 {C.inputMultiplier}배 · 힌트 하나에 −{C.hintPenalty}점 · <button type="button" class="linkish cto-choice">보기 4개로 풀기</button></p>
+  <p class="small cmsg" aria-live="polite"></p>
+
+  <div class="qopts copts" hidden>
+    {q.options.map((o: string) => (
+      <button type="button" class="qopt" data-choice={o}>{o}</button>
+    ))}
+  </div>
+
+  <div class="cresult" hidden>
+    <p class="cverdict"></p>
+    <p class="qexplain">{q.explain}</p>
+    <p class="muted small">
+      경력 출처: {q.sources.map((u: string, i: number) => <><a href={u} target="_blank" rel="noopener nofollow">{new URL(u).hostname}</a>{i < q.sources.length - 1 && ', '}</>)}
+      · 확인 {q.verified}
+    </p>
+  </div>
+</section>
+
+<script is:inline>
+  // game.js(defer)가 실행된 뒤 시작
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.career').forEach(function (box) {
+      if (box.getAttribute('data-ready')) return;
+      box.setAttribute('data-ready', '1');
+      var id = box.getAttribute('data-id');
+      var answer = box.getAttribute('data-answer');
+      var norm = function (s) { return (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').normalize('NFC').replace(/[^a-z0-9가-힣]/g, ''); };
+      var aliases = JSON.parse(box.getAttribute('data-aliases')).map(norm);
+      var G = window.GAME;
+      var rec = function () { return G.careerRecord(id) || { hints: 0, mode: 'input', done: false }; };
+      var $ = function (sel) { return box.querySelector(sel); };
+
+      function showYears() { box.querySelectorAll('.cyears').forEach(function (y) { y.hidden = false; }); }
+      function render() {
+        var c = rec();
+        // 힌트: 순서대로 하나씩
+        var texts = [];
+        box.querySelectorAll('.chint').forEach(function (b) {
+          var n = Number(b.getAttribute('data-n'));
+          var open = n < c.hints;
+          b.disabled = open || n > c.hints || c.done;
+          if (open) {
+            texts.push(b.textContent.replace(/^힌트 \d+ · /, '') + ': ' + b.getAttribute('data-text'));
+            if (b.getAttribute('data-years')) showYears();
+          }
+        });
+        $('.chint-out').textContent = texts.join(' · ');
+        var choice = c.mode === 'choice';
+        $('.cinput').hidden = choice || c.done;
+        $('.cinput-help').hidden = choice || c.done;
+        $('.copts').hidden = !choice && !c.done;
+        if (c.done) {
+          showYears();
+          box.querySelectorAll('.qopt').forEach(function (b) {
+            var v = b.getAttribute('data-choice');
+            b.disabled = true;
+            if (v === answer) b.classList.add('right');
+            if (c.mode === 'choice' && v === c.pick) b.classList.add('picked', c.correct ? 'right' : 'wrong');
+          });
+          var pts = c.correct ? G.careerScore(c.hints, c.mode) : 0;
+          $('.cverdict').innerHTML = c.correct
+            ? '<b>정답! ' + answer + '</b> · +' + pts + '점' + (c.mode === 'input' ? ' (직접 입력)' : '') + (c.hints ? ' · 힌트 ' + c.hints + '개' : ' · 힌트 없이')
+            : '아쉬워요. 정답은 <b>' + answer + '</b>';
+          $('.cresult').hidden = false;
+          $('.cmsg').textContent = '';
+        }
+      }
+      box.addEventListener('click', function (e) {
+        var h = e.target.closest('.chint');
+        if (h && !h.disabled) { G.careerUpdate(id, { hints: Number(h.getAttribute('data-n')) + 1 }); render(); return; }
+        if (e.target.closest('.cto-choice')) { G.careerUpdate(id, { mode: 'choice' }); render(); return; }
+        var o = e.target.closest('.qopt');
+        if (o && !o.disabled && !rec().done) {
+          var pick = o.getAttribute('data-choice');
+          G.careerUpdate(id, { mode: 'choice', pick: pick, correct: pick === answer, done: true, answer: answer });
+          render();
+        }
+      });
+      $('.cinput').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var v = $('.cname-in').value;
+        if (!norm(v)) return;
+        if (aliases.indexOf(norm(v)) >= 0) {
+          G.careerUpdate(id, { mode: 'input', pick: v, correct: true, done: true, answer: answer });
+        } else {
+          // 직접 입력은 한 번: 틀리면 보기 4개로 넘어감
+          G.careerUpdate(id, { mode: 'choice', wrongInput: v });
+          $('.cmsg').textContent = '“' + v + '”은(는) 아니에요. 보기 중에서 골라 보세요.';
+        }
+        render();
+      });
+      render();
+    });
+  });
+</script>

@@ -54,6 +54,23 @@ export function loadQuizzes() {
     .filter(Boolean);
 }
 
+/**
+ * 커리어 퀴즈: 오늘(KST, 빌드 시점)까지 공개된 문제 (최신순). 미래 날짜 문제는 페이지를 만들지 않는다
+ * all: 자동완성 후보용 전체 문제 (정답·보기 이름)
+ */
+export function loadCareerQuizzes() {
+  const dir = path.join(DATA, 'career');
+  if (!existsSync(dir)) return { published: [], all: [] };
+  const today = new Date(Date.now() + 9 * 3600_000).toISOString().slice(0, 10);
+  const all = readdirSync(dir)
+    .filter((f) => f.endsWith('.json'))
+    .sort()
+    .reverse()
+    .map((f) => read(`career/${f}`, null))
+    .filter(Boolean);
+  return { published: all.filter((q) => q.id <= today), all };
+}
+
 /** 종료 판정된 이적 이슈 (적중률 기록의 최신 판정) — 이적 예측 채점용 */
 export function loadResolutions() {
   const latest = {};

@@ -355,6 +355,13 @@ a.player-tile { flex-direction: column; justify-content: flex-start; }
 .chint:disabled { opacity: 0.45; cursor: default; }
 .chint-out { min-height: 20px; margin: 0 0 12px; color: var(--navy-text); font-weight: 600; }
 .cresult { margin-top: 12px; }
+.cinput { display: flex; gap: 6px; margin: 4px 0 6px; }
+.cinput[hidden], .cinput-help[hidden] { display: none; }
+.cname-in { flex: 1; min-width: 0; height: 40px; padding: 0 12px; border: 1px solid var(--line-strong); border-radius: 4px; background: var(--bg); color: var(--text); font: inherit; font-size: 15px; }
+.cname-in:focus { outline: 2px solid var(--blue); outline-offset: -1px; }
+.cmsg { min-height: 20px; color: var(--red); margin: 0 0 8px; }
+.career-cta { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 16px; margin-bottom: 16px; background: var(--box); border: 1px solid var(--line); border-radius: 4px; text-decoration: none; color: var(--text); }
+.career-cta strong { font-size: 16px; }
 .cverdict { margin: 0; font-size: 15px; }
 .qitem.is-right .qnum::after { content: ' ✓'; color: var(--green); }
 .qitem.is-wrong .qnum::after { content: ' ✗'; }

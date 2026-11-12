@@ -15,6 +15,8 @@ export const GAME = {
     streakStep: 10, // 연속 참여 주차마다 추가 (2주 연속 +10, 3주 +20 …)
     streakMax: 50, // 연속 참여 보너스 상한
     predictHit: 30, // 이적 예측 적중
+    // 커리어 퀴즈(나 누구게?): 정답 기본 점수 - 힌트마다 감점 (최소 min), 이름을 직접 입력해 맞히면 배수
+    career: { base: 15, hintPenalty: 3, min: 6, inputMultiplier: 2 },
   },
   recentQuizzes: 4, // 등급 정답률 기준에 쓰는 최근 퀴즈 수
   quizSize: 8, // 주간 퀴즈 문제 수 (데이터가 부족하면 적게 출제)

@@ -1,0 +1,28 @@
+---
+// 오늘의 커리어 퀴즈 + 지난 문제 목록 (매일 KST 0시 이후 첫 빌드에서 새 문제 공개)
+import Layout from '../../../layouts/Layout.astro';
+import CareerQuiz from '../../../components/CareerQuiz.astro';
+import { loadCareerQuizzes } from '../../../lib/data.mjs';
+import { careerNames } from '../../../lib/career.mjs';
+
+const { published, all } = loadCareerQuizzes();
+const today = published[0];
+const past = published.slice(1);
+---
+
+<Layout title="나 누구게? · 커리어 퀴즈" description="클럽 경력만 보고 선수를 맞히는 매일 커리어 퀴즈. 힌트를 적게 쓸수록 높은 점수.">
+  <h1 class="page-title">나 누구게? <small>매일 새 커리어 퀴즈</small></h1>
+  {today ? <CareerQuiz q={today} names={careerNames(all)} /> : <p class="empty">아직 출제된 문제가 없습니다.</p>}
+
+  {past.length > 0 && (
+    <section>
+      <h2 class="sec">지난 문제</h2>
+      <ul class="quiz-archive">
+        {past.map((q: any) => (
+          <li><a href={`/quiz/career/${q.id}`}>{q.id} 커리어 퀴즈</a> <span class="muted small">· {q.level} · 클럽 {q.path.length}곳</span></li>
+        ))}
+      </ul>
+    </section>
+  )}
+  <p class="small"><a href="/quiz">이번 주 뉴스 퀴즈 →</a> · <a href="/me">내 기록 →</a></p>
+</Layout>

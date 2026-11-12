@@ -10,9 +10,9 @@
   function load() {
     try {
       var s = JSON.parse(localStorage.getItem(KEY) || '{}');
-      return { quiz: s.quiz || {}, predictions: s.predictions || {} };
+      return { quiz: s.quiz || {}, predictions: s.predictions || {}, career: s.career || {} };
     } catch (e) {
-      return { quiz: {}, predictions: {} };
+      return { quiz: {}, predictions: {}, career: {} };
     }
   }
   function save(s) {
@@ -74,7 +74,20 @@
     pred.rate = pred.hits + pred.misses ? pred.hits / (pred.hits + pred.misses) : null;
     pred.list.sort(function (a, b) { return Date.parse(b.at) - Date.parse(a.at); });
 
-    points = quizPoints + streakPoints + predictPoints;
+    // 커리어 퀴즈: 힌트를 적게 쓰고 이름을 직접 입력해 맞힐수록 높은 점수
+    var careerPoints = 0, career = { solved: 0, played: 0, list: [] };
+    Object.keys(s.career).sort().forEach(function (id) {
+      var c = s.career[id];
+      if (!c.done) return;
+      career.played++;
+      var pts = c.correct ? careerScore(c.hints, c.mode) : 0;
+      if (c.correct) career.solved++;
+      careerPoints += pts;
+      career.list.push({ id: id, answer: c.answer, correct: c.correct, hints: c.hints, mode: c.mode, points: pts });
+    });
+    career.list.reverse();
+
+    points = quizPoints + streakPoints + predictPoints + careerPoints;
     // 최근 퀴즈 정답률 (등급 조건)
     var recent = ids.slice(-CFG.recentQuizzes);
     var rc = 0, rt = 0;
@@ -89,7 +102,8 @@
     }
     return {
       points: points,
-      breakdown: { quiz: quizPoints, streak: streakPoints, predict: predictPoints },
+      breakdown: { quiz: quizPoints, streak: streakPoints, predict: predictPoints, career: careerPoints },
+      career: career,
       grade: grade,
       next: next,
       blocked: blocked, // 점수는 넘었지만 정답률 기준에 막힌 등급
@@ -99,6 +113,12 @@
       bestStreak: bestRun,
       predictions: pred,
     };
+  }
+
+  function careerScore(hints, mode) {
+    var C = CFG.points.career;
+    var p = Math.max(C.min, C.base - C.hintPenalty * (hints || 0));
+    return mode === 'input' ? p * C.inputMultiplier : p;
   }
 
   var before = null;
@@ -139,6 +159,23 @@
       return s.predictions[slug];
     },
     prediction: function (slug) { return load().predictions[slug] || null; },
-    reset: function () { save({ quiz: {}, predictions: {} }); },
+    /** 커리어 퀴즈 진행 기록 (힌트 수·답 방식). 답을 낸 뒤(done)에는 바꿀 수 없음 */
+    careerRecord: function (id) { return load().career[id] || null; },
+    careerUpdate: function (id, patch) {
+      var s = load();
+      var c = s.career[id] || { hints: 0, mode: 'input', done: false };
+      if (c.done) return c;
+      if (patch.done) before = before || compute().grade.key;
+      for (var k in patch) c[k] = patch[k];
+      s.career[id] = c;
+      save(s);
+      if (c.done) {
+        track('career_quiz_answer', { quiz_id: id, correct: !!c.correct, hints: c.hints, mode: c.mode });
+        checkGradeUp();
+      }
+      return c;
+    },
+    careerScore: careerScore,
+    reset: function () { save({ quiz: {}, predictions: {}, career: {} }); },
   };
 })();

@@ -1,0 +1,20 @@
+---
+// 지난 커리어 퀴즈 (공개된 날짜만)
+import Layout from '../../../layouts/Layout.astro';
+import CareerQuiz from '../../../components/CareerQuiz.astro';
+import { loadCareerQuizzes } from '../../../lib/data.mjs';
+import { careerNames } from '../../../lib/career.mjs';
+
+export function getStaticPaths() {
+  const { published, all } = loadCareerQuizzes();
+  const names = careerNames(all);
+  return published.map((q: any) => ({ params: { id: q.id }, props: { q, names } }));
+}
+const { q, names } = Astro.props;
+---
+
+<Layout title={`${q.id} 커리어 퀴즈`} description="클럽 경력만 보고 선수를 맞히는 커리어 퀴즈.">
+  <h1 class="page-title">나 누구게? <small>{q.id}</small></h1>
+  <CareerQuiz q={q} names={names} />
+  <p class="small"><a href="/quiz/career">오늘의 문제 →</a></p>
+</Layout>
