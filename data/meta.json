@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T14:38:40.761Z",
+ "updatedAt": "2026-11-12T15:38:35.374Z",
  "hot": [
   "crystal-palace-manager-future",
   "carrick-manager-future",
@@ -30,13 +30,14 @@
   "2026-11-09",
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -48,7 +49,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -60,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -72,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 18,
    "authorRate": 100
   },
   "gazzetta": {
@@ -84,19 +85,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 78
+   "added": 1,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -108,13 +109,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -132,13 +133,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -150,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -162,13 +163,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 7,
    "authorRate": 97
   },
   "star": {
@@ -180,13 +181,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -212,11 +213,11 @@
    "count": 24
   },
   {
-   "name": "그릴리시",
-   "count": 23
+   "name": "프레스티아니",
+   "count": 24
   },
   {
-   "name": "프레스티아니",
+   "name": "그릴리시",
    "count": 23
   },
   {
@@ -313,16 +314,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
-  "singleArticleRate": 47,
+  "recentIssues": 223,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 133
+    "count": 132
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 77
+    "count": 82
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -408,6 +409,28 @@
    ]
   },
   {
+   "en": "Martin Zubimendi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수비멘디",
+     "count": 3
+    },
+    {
+     "ko": "마르틴 수비멘디",
+     "count": 1
+    },
+    {
+     "ko": "주빈디",
+     "count": 1
+    },
+    {
+     "ko": "마르틴 주빈디",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -465,24 +488,6 @@
     },
     {
      "ko": "마크 반 봄멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Martin Zubimendi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수비멘디",
-     "count": 3
-    },
-    {
-     "ko": "마르틴 수비멘디",
-     "count": 1
-    },
-    {
-     "ko": "주빈디",
      "count": 1
     }
    ]
@@ -754,6 +759,20 @@
    ]
   },
   {
+   "en": "Rio Ferdinand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리오 퍼디난드",
+     "count": 2
+    },
+    {
+     "ko": "리오 퍼디낸드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Völler",
    "dictionary": null,
    "variants": [
@@ -1008,6 +1027,20 @@
    ]
   },
   {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "빅토르 브루누",
+     "count": 1
+    },
+    {
+     "ko": "비토르 브루노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rodrigo Mora",
    "dictionary": null,
    "variants": [
@@ -1050,20 +1083,6 @@
    ]
   },
   {
-   "en": "Rio Ferdinand",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리오 퍼디난드",
-     "count": 1
-    },
-    {
-     "ko": "리오 퍼디낸드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -1101,20 +1120,6 @@
     },
     {
      "ko": "르나투 마린",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Zion Suzuki",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스즈키 지온",
-     "count": 1
-    },
-    {
-     "ko": "제이온 스즈키",
      "count": 1
     }
    ]
@@ -1176,6 +1181,10 @@
   "2026-11-12": {
    "collected": 725,
    "llm": 725
+  },
+  "2026-11-13": {
+   "collected": 58,
+   "llm": 58
   }
  },
  "llmErrors": []
