@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T21:22:01.421Z",
+ "updatedAt": "2026-11-12T22:14:05.785Z",
  "hot": [
+  "england-croatia-2026-11-12",
   "barcelona-arsenal-2026-11-12",
-  "scaloni-argentina-contract",
   "italy-france-2026-11-12",
-  "carrick-manager-future",
-  "england-croatia-2026-11-12"
+  "scaloni-argentina-contract",
+  "carrick-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -37,31 +37,31 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 25,
-   "added": 7,
-   "authorRate": 88
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -91,8 +91,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 76
+   "added": 15,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
@@ -109,7 +109,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -139,7 +139,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
@@ -163,31 +163,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 3,
+   "added": 5,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 3,
+   "items": 8,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -209,20 +209,20 @@
    "count": 28
   },
   {
+   "name": "잭 그릴리시",
+   "count": 26
+  },
+  {
+   "name": "그릴리시",
+   "count": 25
+  },
+  {
    "name": "프레스티아니",
    "count": 25
   },
   {
-   "name": "잭 그릴리시",
-   "count": 24
-  },
-  {
    "name": "JJ 가브리엘",
    "count": 24
-  },
-  {
-   "name": "그릴리시",
-   "count": 23
   },
   {
    "name": "알리송",
@@ -314,20 +314,28 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
+  "recentIssues": 223,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 136
+    "count": 133
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 100
+    "count": 102
+   },
+   {
+    "slug": "england-croatia-2026-11-12",
+    "count": 19
    },
    {
     "slug": "crystal-palace-manager-future",
     "count": 18
+   },
+   {
+    "slug": "italy-france-2026-11-12",
+    "count": 17
    }
   ]
  },
@@ -356,7 +364,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "포폰세카",
@@ -421,6 +429,24 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 4
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -430,7 +456,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 2
+     "count": 3
     }
    ]
   },
@@ -466,6 +492,28 @@
     },
     {
      "ko": "조르제 제수스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세네 람멘스",
+     "count": 2
+    },
+    {
+     "ko": "제너 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "라맨스",
+     "count": 1
+    },
+    {
+     "ko": "센 람멘스",
      "count": 1
     }
    ]
@@ -530,6 +578,24 @@
     },
     {
      "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Samuel Soares",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사무엘 소아레스",
+     "count": 2
+    },
+    {
+     "ko": "삼수 소아레스",
+     "count": 1
+    },
+    {
+     "ko": "사무엘 수아레스",
      "count": 1
     }
    ]
@@ -669,24 +735,6 @@
    ]
   },
   {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제너 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "라맨스",
-     "count": 1
-    },
-    {
-     "ko": "센 람멘스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jürgen Klopp",
    "dictionary": null,
    "variants": [
@@ -733,20 +781,6 @@
    ]
   },
   {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 2
-    },
-    {
-     "ko": "삼수 소아레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Maxi Araújo",
    "dictionary": null,
    "variants": [
@@ -756,20 +790,6 @@
     },
     {
      "ko": "마시 아라우호",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉴데루프",
-     "count": 2
-    },
-    {
-     "ko": "쉐르델루프",
      "count": 1
     }
    ]
@@ -1175,8 +1195,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 410,
-   "llm": 410
+   "collected": 457,
+   "llm": 457
   }
  },
  "llmErrors": []
