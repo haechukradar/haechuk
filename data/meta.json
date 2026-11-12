@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T08:00:30.539Z",
+ "updatedAt": "2026-11-12T09:10:45.192Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "olise-cold-italy-2026-11-12",
@@ -34,19 +34,19 @@
   "bbc": {
    "ok": true,
    "items": 86,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 56,
-   "added": 0,
+   "items": 57,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -69,8 +69,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 2,
+   "items": 50,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -82,38 +82,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
-   "authorRate": 72
+   "added": 3,
+   "authorRate": 74
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 88
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -136,19 +136,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -165,9 +165,9 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 2,
-   "authorRate": 86
+   "items": 28,
+   "added": 5,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -183,8 +183,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
-   "added": 4,
+   "items": 7,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -311,8 +311,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 234,
-  "singleArticleRate": 47,
+  "recentIssues": 235,
+  "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -343,6 +343,10 @@
     },
     {
      "ko": "마티아스 자이슬레",
+     "count": 1
+    },
+    {
+     "ko": "매티아스 야이슬레",
      "count": 1
     }
    ]
@@ -428,6 +432,20 @@
    ]
   },
   {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 4
+    },
+    {
+     "ko": "튀헬",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Hans Vanaken",
    "dictionary": null,
    "variants": [
@@ -455,50 +473,6 @@
     },
     {
      "ko": "J.J. 가브리엘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세네 라먼스",
-     "count": 1
-    },
-    {
-     "ko": "램멘스",
-     "count": 1
-    },
-    {
-     "ko": "제너 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "젠 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "라맨스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senny Mayulu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세니 마율루",
-     "count": 3
-    },
-    {
-     "ko": "세니 마유루",
-     "count": 1
-    },
-    {
-     "ko": "세니 마윜루",
      "count": 1
     }
    ]
@@ -550,16 +524,20 @@
    ]
   },
   {
-   "en": "Tuchel",
+   "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
+     "ko": "반 봄멜",
      "count": 3
     },
     {
-     "ko": "튀헬",
-     "count": 2
+     "ko": "마르크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 봄멜",
+     "count": 1
     }
    ]
   },
@@ -573,6 +551,28 @@
     },
     {
      "ko": "하버츠",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세네 라먼스",
+     "count": 1
+    },
+    {
+     "ko": "제너 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "젠 라멘스",
+     "count": 1
+    },
+    {
+     "ko": "라맨스",
      "count": 1
     }
    ]
@@ -610,15 +610,19 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
+   "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
     {
-     "ko": "반 봄멜",
-     "count": 3
+     "ko": "세니 마율루",
+     "count": 2
     },
     {
-     "ko": "마르크 판 봄멜",
+     "ko": "세니 마유루",
+     "count": 1
+    },
+    {
+     "ko": "세니 마윜루",
      "count": 1
     }
    ]
@@ -910,15 +914,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "루이스 델라푸엔테",
+     "count": 1
+    },
+    {
      "ko": "델라 푸엔테",
      "count": 1
     },
     {
      "ko": "루이스 데 라 푸엔테",
-     "count": 1
-    },
-    {
-     "ko": "루이스 델라푸엔테",
      "count": 1
     }
    ]
@@ -989,34 +993,6 @@
     },
     {
      "ko": "보쟁가",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게네시오",
-     "count": 1
-    },
-    {
-     "ko": "제네시오",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De Jong",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 용",
-     "count": 1
-    },
-    {
-     "ko": "더용",
      "count": 1
     }
    ]
@@ -1104,6 +1080,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Javi Hernández",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "하비에르 에르난데스",
+     "count": 1
+    },
+    {
+     "ko": "하비 에르난데스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Quadri",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "콰드리",
+     "count": 1
+    },
+    {
+     "ko": "쿠아드리",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1160,8 +1164,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 444,
-   "llm": 444
+   "collected": 490,
+   "llm": 490
   }
  },
  "llmErrors": []

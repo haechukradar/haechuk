@@ -1,10 +1,135 @@
 [
  {
+  "slug": "haaland-barcelona-transfer",
+  "mode": "llm",
+  "titleKo": "홀란 바르셀로나 이적설",
+  "createdAt": "2026-11-12T08:38:49.000Z",
+  "updatedAt": "2026-11-12T08:38:49.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "barcelona"
+  ],
+  "players": [
+   "엘링 홀란"
+  ],
+  "sig": [],
+  "articles": [
+   {
+    "id": "39eab533a8f6",
+    "url": "https://as.com/futbol/internacional/haaland-ira-al-barca-f202611-n/",
+    "title": "“Haaland irá al Barça”",
+    "ko": "\"하이란트, 바르셀로나行\"…AS 보도 제목",
+    "source": "as",
+    "publishedAt": "2026-11-12T08:38:49.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": "Aritz Gabilondo",
+    "transfer": {
+     "player": "엘링 홀란",
+     "from": "맨체스터 시티",
+     "to": "바르셀로나"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.82,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "39eab533a8f6",
+    "at": "2026-11-12T08:38:49.000Z",
+    "source": "as",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "erling-haaland"
+  ],
+  "transfer": {
+   "player": "엘링 홀란",
+   "from": "맨체스터 시티",
+   "to": "바르셀로나"
+  },
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-12T08:38:49.000Z",
+   "viaQuote": false
+  },
+  "headline": "“Haaland irá al Barça”"
+ },
+ {
+  "slug": "xabi-alonso-chelsea-manager-future",
+  "mode": "llm",
+  "titleKo": "사비 알론소 첼시 감독 거취 논란",
+  "createdAt": "2026-11-12T08:35:00.000Z",
+  "updatedAt": "2026-11-12T08:35:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [],
+  "sig": [
+   "xabi",
+   "alonso"
+  ],
+  "articles": [
+   {
+    "id": "c8247c306ea9",
+    "url": "https://www.footballinsider247.com/chelsea/expert-reveals-the-trap-xabi-alonso-has-fallen-into-at-chelsea-it-could-cost-him-his-job",
+    "title": "Expert reveals the 'trap' Xabi Alonso has fallen into at Chelsea, it could cost him his job",
+    "ko": "첼시 사비 알론소, 자리 위협할 '함정' 지적",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T08:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.54,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-12T08:35:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Expert reveals the 'trap' Xabi Alonso has fallen into at Chelsea, it could cost him his job"
+ },
+ {
   "slug": "carrick-manager-future",
   "mode": "llm",
   "titleKo": "캐릭 맨유 감독 거취, 포체티노 부임 임박",
   "createdAt": "2026-11-06T14:38:16.000Z",
-  "updatedAt": "2026-11-12T07:45:32.000Z",
+  "updatedAt": "2026-11-12T08:33:25.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -2513,11 +2638,29 @@
     "playerTags": [],
     "author": "Tom Victor",
     "transfer": null
+   },
+   {
+    "id": "b5f8eac0f523",
+    "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-sacked-man-united-37868752",
+    "title": "Michael Carrick arrives at Man Utd's training ground with sack announcement imminent",
+    "ko": "캐릭, 맨유 훈련장 도착…경질 발표 임박",
+    "source": "mirror",
+    "publishedAt": "2026-11-12T08:33:25.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Ben Husband",
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 18,
-  "score": 0.57,
+  "score": 0.47,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2531,11 +2674,127 @@
   "headline": "Man United's dreadful handling of Carrick is no way to treat anyone. But it's also not a surprise"
  },
  {
+  "slug": "kane-award",
+  "mode": "llm",
+  "titleKo": "케인 발롱도르 수상 소감",
+  "createdAt": "2026-11-11T16:44:58.000Z",
+  "updatedAt": "2026-11-12T08:00:14.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "해리 케인",
+   "케인"
+  ],
+  "sig": [
+   "kane"
+  ],
+  "articles": [
+   {
+    "id": "5f91c9ed5491",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+    "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+    "ko": "케인의 동화 같은 성공, 리더십과 역할 모델 평가",
+    "source": "bbc",
+    "publishedAt": "2026-11-11T16:44:58.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ed95307e04b0",
+    "url": "https://www.kicker.de/kane-ueber-ballon-d-or-sieg-magischer-moment-1270769/video#omrss",
+    "title": "Kane über Ballon-d'Or-Sieg: \"Magischer Moment\"",
+    "ko": "케인, 발롱도르 수상 소감 \"마법 같은 순간\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T16:53:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0967ab7f5579",
+    "url": "https://www.kicker.de/tuchel-ueber-kane-ballon-d-or-ist-in-guten-haenden-1270798/video#omrss",
+    "title": "Tuchel über Kane: Ballon d'Or \"ist in guten Händen\"",
+    "ko": "투헬, 케인의 발롱도르 수상 가능성에 \"좋은 손에 있다\"고 평가",
+    "source": "kicker",
+    "publishedAt": "2026-11-11T18:50:10.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a7be0c62dc43",
+    "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-england-caps-record-career-in-numbers-charts",
+    "title": "Harry Kane’s England caps record: an illustrious career in numbers and charts",
+    "ko": "케인의 잉글랜드 A매치 기록, 수치로 본 경력",
+    "source": "guardian",
+    "publishedAt": "2026-11-12T08:00:14.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Andrew Beasley",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 1.63,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "harry-kane"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-11T16:44:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Leader, role model, extraordinary - how Kane's 'fairytale' came true"
+ },
+ {
   "slug": "aberdeen-manager-future",
   "mode": "llm",
   "titleKo": "애버딘 감독 거취 논란",
   "createdAt": "2026-11-07T23:15:00.000Z",
-  "updatedAt": "2026-11-12T07:44:49.000Z",
+  "updatedAt": "2026-11-12T08:00:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -2772,11 +3031,27 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "c649d6702a67",
+    "url": "https://www.bbc.co.uk/sounds/play/p0pmk9cf?at_medium=RSS&at_campaign=rss",
+    "title": "Podcast: What kind of boss do Aberdeen need & have Hibs turned a corner?",
+    "ko": "팟캐스트: 애버딘이 필요로 하는 감독 유형은",
+    "source": "bbc",
+    "publishedAt": "2026-11-12T08:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.57,
+  "score": 2.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2788,7 +3063,134 @@
    "at": "2026-11-07T19:40:00.000Z",
    "viaQuote": false
   },
-  "headline": "Who are the main candidates for the Aberdeen job?"
+  "headline": "Podcast: What kind of boss do Aberdeen need & have Hibs turned a corner?"
+ },
+ {
+  "slug": "barrenetxea-injury",
+  "mode": "llm",
+  "titleKo": "바레네체아 중상 부상, 수술 예정",
+  "createdAt": "2026-11-08T17:08:17.000Z",
+  "updatedAt": "2026-11-12T08:00:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "바레네체아",
+   "호르헤 데 프루토스"
+  ],
+  "sig": [
+   "selección",
+   "jorge",
+   "frutos"
+  ],
+  "articles": [
+   {
+    "id": "cb3abb2256d9",
+    "url": "https://as.com/futbol/barrenetxea-se-retira-lesionado-y-peligra-su-presencia-con-la-seleccion-f202611-n/",
+    "title": "Barrenetxea se retira lesionado y peligra su presencia con la Selección",
+    "ko": "바레네체아 부상 교체 아웃, 대표팀 합류 불투명",
+    "source": "as",
+    "publishedAt": "2026-11-08T17:08:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레네체아"
+    ],
+    "playerTags": [],
+    "author": "Marta Trabanca",
+    "transfer": null
+   },
+   {
+    "id": "0d2b2145e0a6",
+    "url": "https://as.com/futbol/barrenetxea-se-retira-lesionado-es-baja-en-la-seleccion-le-sustituye-jorge-de-frutos-f202611-n/",
+    "title": "Barrenetxea, lesionado, es baja en la Selección: le sustituye Jorge de Frutos",
+    "ko": "바레네체아 부상으로 대표팀 제외, 호르헤 데 프루토스 대체 발탁",
+    "source": "as",
+    "publishedAt": "2026-11-08T17:08:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레네체아",
+     "호르헤 데 프루토스"
+    ],
+    "playerTags": [],
+    "author": "Marta Trabanca,Marta Gonzalo",
+    "transfer": null
+   },
+   {
+    "id": "709e654cbce6",
+    "url": "https://as.com/futbol/primera/barrenetxea-sufre-una-lesion-severa-y-pasara-por-el-quirofano-f202611-n/",
+    "title": "Barrenetxea sufre una lesión severa y pasará por el quirófano",
+    "ko": "바레네체아, 중상으로 수술 받을 예정",
+    "source": "as",
+    "publishedAt": "2026-11-11T12:33:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레네체아"
+    ],
+    "playerTags": [],
+    "author": "Marta Gonzalo",
+    "transfer": null
+   },
+   {
+    "id": "c969896332cd",
+    "url": "https://www.record.pt/internacional/paises/espanha/real-sociedad/detalhe/barrenetxea-em-risco-para-o-resto-da-epoca-extremo-da-real-sociedad-revive-lesao-de-2022",
+    "title": "Barrenetxea em risco para o resto da época: extremo da Real Sociedad revive lesão de 2022",
+    "ko": "바레네체아, 올 시즌 잔여 경기 출전 위기 부상",
+    "source": "record",
+    "publishedAt": "2026-11-11T13:56:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레네체아"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3c57b4e43906",
+    "url": "https://as.com/futbol/primera/las-cartas-de-la-real-sociedad-para-suplir-a-barrenenetxea-f202611-n/",
+    "title": "Las opciones de la Real para suplir a Barrenenetxea",
+    "ko": "레알 소시에다드, 바레네체아 대체자 후보 검토",
+    "source": "as",
+    "publishedAt": "2026-11-12T08:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "바레네체아"
+    ],
+    "playerTags": [],
+    "author": "Marta Gonzalo",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.63,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-08T17:08:17.000Z",
+   "viaQuote": false
+  },
+  "headline": "Las opciones de la Real para suplir a Barrenenetxea"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
@@ -3857,9 +4259,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 4,
   "sourceCount": 14,
-  "score": 3.27,
+  "score": 2.02,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4733,7 +5135,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.57,
+  "score": 0.46,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5045,7 +5447,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 2.61,
+  "score": 2.13,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5108,7 +5510,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.71,
+  "score": 1.4,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5199,7 +5601,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.13,
+  "score": 1.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5576,7 +5978,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.5,
+  "score": 0.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5637,7 +6039,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.41,
+  "score": 1.15,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5703,7 +6105,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.36,
+  "score": 1.11,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5810,7 +6212,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.19,
+  "score": 0.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5865,7 +6267,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.65,
+  "score": 1.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5916,7 +6318,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.85,
+  "score": 0.69,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5975,7 +6377,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6022,7 +6424,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6115,7 +6517,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6293,7 +6695,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 0.54,
+  "score": 0.44,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6354,7 +6756,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6431,7 +6833,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6502,7 +6904,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6563,9 +6965,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7313,102 +7715,6 @@
    "viaQuote": false
   },
   "headline": "Everton vai tentar resgatar… Kevin De Bruyne"
- },
- {
-  "slug": "kane-award",
-  "mode": "llm",
-  "titleKo": "케인 발롱도르 수상 소감",
-  "createdAt": "2026-11-11T16:44:58.000Z",
-  "updatedAt": "2026-11-11T18:50:10.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "해리 케인",
-   "케인"
-  ],
-  "sig": [
-   "kane"
-  ],
-  "articles": [
-   {
-    "id": "5f91c9ed5491",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
-    "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-    "ko": "케인의 동화 같은 성공, 리더십과 역할 모델 평가",
-    "source": "bbc",
-    "publishedAt": "2026-11-11T16:44:58.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ed95307e04b0",
-    "url": "https://www.kicker.de/kane-ueber-ballon-d-or-sieg-magischer-moment-1270769/video#omrss",
-    "title": "Kane über Ballon-d'Or-Sieg: \"Magischer Moment\"",
-    "ko": "케인, 발롱도르 수상 소감 \"마법 같은 순간\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-11T16:53:35.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "0967ab7f5579",
-    "url": "https://www.kicker.de/tuchel-ueber-kane-ballon-d-or-ist-in-guten-haenden-1270798/video#omrss",
-    "title": "Tuchel über Kane: Ballon d'Or \"ist in guten Händen\"",
-    "ko": "투헬, 케인의 발롱도르 수상 가능성에 \"좋은 손에 있다\"고 평가",
-    "source": "kicker",
-    "publishedAt": "2026-11-11T18:50:10.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "harry-kane"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-11T16:44:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Leader, role model, extraordinary - how Kane's 'fairytale' came true"
  },
  {
   "slug": "ohl-koge-2026-11-11",
@@ -10288,115 +10594,6 @@
    "viaQuote": false
   },
   "headline": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace"
- },
- {
-  "slug": "barrenetxea-injury",
-  "mode": "llm",
-  "titleKo": "바레네체아 중상 부상, 수술 예정",
-  "createdAt": "2026-11-08T17:08:17.000Z",
-  "updatedAt": "2026-11-11T13:56:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "바레네체아",
-   "호르헤 데 프루토스"
-  ],
-  "sig": [
-   "selección",
-   "jorge",
-   "frutos"
-  ],
-  "articles": [
-   {
-    "id": "cb3abb2256d9",
-    "url": "https://as.com/futbol/barrenetxea-se-retira-lesionado-y-peligra-su-presencia-con-la-seleccion-f202611-n/",
-    "title": "Barrenetxea se retira lesionado y peligra su presencia con la Selección",
-    "ko": "바레네체아 부상 교체 아웃, 대표팀 합류 불투명",
-    "source": "as",
-    "publishedAt": "2026-11-08T17:08:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레네체아"
-    ],
-    "playerTags": [],
-    "author": "Marta Trabanca",
-    "transfer": null
-   },
-   {
-    "id": "0d2b2145e0a6",
-    "url": "https://as.com/futbol/barrenetxea-se-retira-lesionado-es-baja-en-la-seleccion-le-sustituye-jorge-de-frutos-f202611-n/",
-    "title": "Barrenetxea, lesionado, es baja en la Selección: le sustituye Jorge de Frutos",
-    "ko": "바레네체아 부상으로 대표팀 제외, 호르헤 데 프루토스 대체 발탁",
-    "source": "as",
-    "publishedAt": "2026-11-08T17:08:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레네체아",
-     "호르헤 데 프루토스"
-    ],
-    "playerTags": [],
-    "author": "Marta Trabanca,Marta Gonzalo",
-    "transfer": null
-   },
-   {
-    "id": "709e654cbce6",
-    "url": "https://as.com/futbol/primera/barrenetxea-sufre-una-lesion-severa-y-pasara-por-el-quirofano-f202611-n/",
-    "title": "Barrenetxea sufre una lesión severa y pasará por el quirófano",
-    "ko": "바레네체아, 중상으로 수술 받을 예정",
-    "source": "as",
-    "publishedAt": "2026-11-11T12:33:27.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레네체아"
-    ],
-    "playerTags": [],
-    "author": "Marta Gonzalo",
-    "transfer": null
-   },
-   {
-    "id": "c969896332cd",
-    "url": "https://www.record.pt/internacional/paises/espanha/real-sociedad/detalhe/barrenetxea-em-risco-para-o-resto-da-epoca-extremo-da-real-sociedad-revive-lesao-de-2022",
-    "title": "Barrenetxea em risco para o resto da época: extremo da Real Sociedad revive lesão de 2022",
-    "ko": "바레네체아, 올 시즌 잔여 경기 출전 위기 부상",
-    "source": "record",
-    "publishedAt": "2026-11-11T13:56:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "바레네체아"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-08T17:08:17.000Z",
-   "viaQuote": false
-  },
-  "headline": "Barrenetxea em risco para o resto da época: extremo da Real Sociedad revive lesão de 2022"
  },
  {
   "slug": "crystal-palace-manager-future",
