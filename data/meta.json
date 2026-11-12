@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T03:43:58.204Z",
+ "updatedAt": "2026-11-12T04:41:23.942Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "mbappe-injury",
@@ -102,7 +102,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "lecho": {
@@ -144,13 +144,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 6,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -313,8 +313,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 232,
-  "singleArticleRate": 46,
+  "recentIssues": 235,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -322,7 +322,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 52
+    "count": 53
    }
   ]
  },
@@ -578,20 +578,6 @@
    ]
   },
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -767,6 +753,20 @@
     },
     {
      "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 2
+    },
+    {
+     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -1074,6 +1074,20 @@
    ]
   },
   {
+   "en": "Jürgen Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 1
+    },
+    {
+     "ko": "클린스만",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Quadri",
    "dictionary": null,
    "variants": [
@@ -1097,20 +1111,6 @@
     },
     {
      "ko": "지틀렌스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rodrigo Mora",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "로드리고 모라",
-     "count": 1
-    },
-    {
-     "ko": "호드리구 모라",
      "count": 1
     }
    ]
@@ -1170,8 +1170,8 @@
    "llm": 3343
   },
   "2026-11-12": {
-   "collected": 346,
-   "llm": 346
+   "collected": 356,
+   "llm": 356
   }
  },
  "llmErrors": []
