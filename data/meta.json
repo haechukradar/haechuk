@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T22:59:38.876Z",
+ "updatedAt": "2026-11-12T23:41:35.398Z",
  "hot": [
   "england-croatia-2026-11-12",
   "italy-france-2026-11-12",
   "barcelona-arsenal-2026-11-12",
-  "scaloni-argentina-contract",
-  "bruno-fernandes-contract"
+  "palmer-england-relationship",
+  "kane-award"
  ],
  "days": [
   "2026-10-18",
@@ -37,19 +37,19 @@
   "bbc": {
    "ok": true,
    "items": 79,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 2,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,14 +85,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 76
+   "added": 2,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -103,7 +103,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -139,7 +139,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -169,24 +169,24 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 5,
-   "authorRate": 93
+   "added": 2,
+   "authorRate": 96
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 5,
    "added": 0,
    "authorRate": 0
   }
@@ -314,20 +314,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
+  "recentIssues": 221,
   "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 133
+    "count": 129
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 105
+    "count": 108
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 23
+    "count": 25
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -364,7 +364,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "포폰세카",
@@ -438,7 +438,7 @@
     },
     {
      "ko": "토마스 투헬",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "튀헬",
@@ -1105,20 +1105,6 @@
    ]
   },
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 1
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pedro Porro",
    "dictionary": null,
    "variants": [
@@ -1128,6 +1114,20 @@
     },
     {
      "ko": "페드루 포로",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Richard Ríos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리카르두 호스",
+     "count": 1
+    },
+    {
+     "ko": "리샤르드 리오스",
      "count": 1
     }
    ]
@@ -1191,8 +1191,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 492,
-   "llm": 492
+   "collected": 506,
+   "llm": 506
   }
  },
  "llmErrors": []
