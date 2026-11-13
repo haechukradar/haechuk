@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T06:28:37.623Z",
+ "updatedAt": "2026-11-13T07:50:07.565Z",
  "hot": [
-  "kane-award",
   "pochettino-man-utd-manager-future",
-  "england-croatia-2026-11-12",
-  "italy-france-2026-11-12",
-  "barcelona-arsenal-2026-11-12"
+  "van-dijk-liverpool-contract",
+  "kane-award",
+  "palmer-england-relationship",
+  "bruno-fernandes-contract"
  ],
  "days": [
   "2026-10-18",
@@ -36,20 +36,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 0,
+   "items": 81,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,19 +85,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 78
+   "added": 4,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -109,13 +109,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 83
   },
   "waz": {
@@ -133,13 +133,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -169,7 +169,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "star": {
@@ -181,13 +181,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 7,
+   "added": 7,
    "authorRate": 0
   }
  },
@@ -229,11 +229,11 @@
    "count": 22
   },
   {
-   "name": "데 미겔",
-   "count": 17
+   "name": "트레솔디",
+   "count": 18
   },
   {
-   "name": "트레솔디",
+   "name": "데 미겔",
    "count": 17
   },
   {
@@ -245,23 +245,23 @@
    "count": 14
   },
   {
+   "name": "티에르노 배리",
+   "count": 13
+  },
+  {
+   "name": "반 다이크",
+   "count": 13
+  },
+  {
    "name": "웨인 루니",
    "count": 13
   },
   {
-   "name": "티에르노 배리",
-   "count": 12
-  },
-  {
-   "name": "반 다이크",
-   "count": 12
+   "name": "수비멘디",
+   "count": 13
   },
   {
    "name": "돈나룸마",
-   "count": 12
-  },
-  {
-   "name": "수비멘디",
    "count": 12
   },
   {
@@ -314,20 +314,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 214,
+  "recentIssues": 215,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 125
+    "count": 124
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 112
+    "count": 116
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 33
+    "count": 36
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -335,7 +335,7 @@
    },
    {
     "slug": "crystal-palace-manager-future",
-    "count": 18
+    "count": 19
    }
   ]
  },
@@ -354,7 +354,7 @@
     },
     {
      "ko": "피에르 사게",
-     "count": 1
+     "count": 2
     }
    ]
   },
@@ -386,7 +386,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "마티아스 야이슬레",
@@ -470,29 +470,7 @@
     },
     {
      "ko": "델라 푸엔테",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르지 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수스",
-     "count": 1
-    },
-    {
-     "ko": "조르제 주제",
-     "count": 1
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 1
+     "count": 3
     }
    ]
   },
@@ -514,6 +492,46 @@
     },
     {
      "ko": "센 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "람멘스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모히아",
+     "count": 4
+    },
+    {
+     "ko": "모히야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르지 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르제 주제",
+     "count": 1
+    },
+    {
+     "ko": "조르제 제수스",
      "count": 1
     }
    ]
@@ -629,6 +647,24 @@
    ]
   },
   {
+   "en": "Pocognoli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포코뇰리",
+     "count": 2
+    },
+    {
+     "ko": "포코넬리",
+     "count": 1
+    },
+    {
+     "ko": "포콘볼리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mikey Moore",
    "dictionary": null,
    "variants": [
@@ -639,6 +675,20 @@
     {
      "ko": "마이키 무어",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 3
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 1
     }
    ]
   },
@@ -703,6 +753,24 @@
    ]
   },
   {
+   "en": "Hugo Cuypers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "휴고 퀴퍼스",
+     "count": 1
+    },
+    {
+     "ko": "위고 퀴퍼스",
+     "count": 1
+    },
+    {
+     "ko": "휴고 쿠이퍼스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kniat",
    "dictionary": null,
    "variants": [
@@ -726,42 +794,6 @@
     },
     {
      "ko": "클린스만",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kieran McKenna",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥케나",
-     "count": 1
-    },
-    {
-     "ko": "키런 매케나",
-     "count": 1
-    },
-    {
-     "ko": "키어런 매케나",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pocognoli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포코넬리",
-     "count": 1
-    },
-    {
-     "ko": "포코뇰리",
-     "count": 1
-    },
-    {
-     "ko": "포콘볼리",
      "count": 1
     }
    ]
@@ -840,20 +872,6 @@
     },
     {
      "ko": "엘리 주니어 쿠프이",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 배리",
-     "count": 2
-    },
-    {
-     "ko": "티에르노 바리",
      "count": 1
     }
    ]
@@ -949,11 +967,11 @@
      "count": 1
     },
     {
-     "ko": "헤수스 오웅고노",
+     "ko": "헤수스 오워노",
      "count": 1
     },
     {
-     "ko": "헤수스 오워노",
+     "ko": "헤수스 오웅고노",
      "count": 1
     }
    ]
@@ -1010,20 +1028,6 @@
     },
     {
      "ko": "미카 고츠",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hugo Cuypers",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "휴고 퀴퍼스",
-     "count": 1
-    },
-    {
-     "ko": "위고 퀴퍼스",
      "count": 1
     }
    ]
@@ -1113,20 +1117,6 @@
    ]
   },
   {
-   "en": "Rodrigo Mora",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "로드리고 모라",
-     "count": 1
-    },
-    {
-     "ko": "호드리구 모라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Richard Ríos",
    "dictionary": null,
    "variants": [
@@ -1136,6 +1126,20 @@
     },
     {
      "ko": "리샤르드 리오스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Liam Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리앰 델랍",
+     "count": 1
+    },
+    {
+     "ko": "리엄 델랍",
      "count": 1
     }
    ]
@@ -1199,8 +1203,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 579,
-   "llm": 579
+   "collected": 627,
+   "llm": 627
   }
  },
  "llmErrors": []
