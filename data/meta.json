@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T05:29:21.704Z",
+ "updatedAt": "2026-11-13T06:28:37.623Z",
  "hot": [
+  "kane-award",
   "pochettino-man-utd-manager-future",
   "england-croatia-2026-11-12",
   "italy-france-2026-11-12",
-  "barcelona-arsenal-2026-11-12",
-  "kane-award"
+  "barcelona-arsenal-2026-11-12"
  ],
  "days": [
   "2026-10-18",
@@ -49,7 +49,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,25 +85,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 82
+   "added": 2,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -133,13 +133,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -163,7 +163,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -194,7 +194,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 70
+   "count": 71
   },
   {
    "name": "맥스 다우먼",
@@ -222,7 +222,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 24
+   "count": 25
   },
   {
    "name": "알리송",
@@ -253,6 +253,10 @@
    "count": 12
   },
   {
+   "name": "반 다이크",
+   "count": 12
+  },
+  {
    "name": "돈나룸마",
    "count": 12
   },
@@ -266,10 +270,6 @@
   },
   {
    "name": "콘사",
-   "count": 11
-  },
-  {
-   "name": "반 다이크",
    "count": 11
   },
   {
@@ -293,6 +293,10 @@
    "count": 10
   },
   {
+   "name": "헤수스 오워노",
+   "count": 10
+  },
+  {
    "name": "해밀턴",
    "count": 10
   },
@@ -307,27 +311,23 @@
   {
    "name": "지단",
    "count": 10
-  },
-  {
-   "name": "헤수스 오워노",
-   "count": 9
   }
  ],
  "issueHealth": {
-  "recentIssues": 215,
+  "recentIssues": 214,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "carrick-manager-future",
-    "count": 129
+    "count": 125
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 111
+    "count": 112
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 31
+    "count": 33
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -408,7 +408,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "마르크 판 봄멜",
@@ -703,20 +703,6 @@
    ]
   },
   {
-   "en": "Kiernan Dewsbury-Hall",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키어넌 듀스버리홀",
-     "count": 2
-    },
-    {
-     "ko": "키어넌 듀즈버리홀",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kniat",
    "dictionary": null,
    "variants": [
@@ -758,20 +744,6 @@
     },
     {
      "ko": "키어런 매케나",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hans Vanaken",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반악넨",
-     "count": 2
-    },
-    {
-     "ko": "한스 반아켄",
      "count": 1
     }
    ]
@@ -969,6 +941,24 @@
    ]
   },
   {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헤수스 오우오노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오웅고노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오워노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Robert Sanchez",
    "dictionary": null,
    "variants": [
@@ -1135,6 +1125,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Richard Ríos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리카르두 호스",
+     "count": 1
+    },
+    {
+     "ko": "리샤르드 리오스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1195,8 +1199,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 561,
-   "llm": 561
+   "collected": 579,
+   "llm": 579
   }
  },
  "llmErrors": []
