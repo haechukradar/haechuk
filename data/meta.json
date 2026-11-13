@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T18:29:11.858Z",
+ "updatedAt": "2026-11-13T19:29:24.135Z",
  "hot": [
   "pochettino-man-utd-manager-future",
-  "bruno-fernandes-contract",
   "man-city-affairs-charges-20261109",
   "england-spain-2026-11-14",
-  "grealish-discipline"
+  "bruno-fernandes-contract",
+  "scotland-north-macedonia-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -37,14 +37,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
+   "items": 78,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 60,
-   "added": 1,
+   "items": 58,
+   "added": 4,
    "authorRate": 97
   },
   "sky": {
@@ -56,7 +56,7 @@
   "espn": {
    "ok": true,
    "items": 27,
-   "added": 14,
+   "added": 2,
    "authorRate": 89
   },
   "athletic": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 68
+   "added": 6,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
@@ -104,7 +104,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -116,8 +116,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 88
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 17,
    "authorRate": 0
   },
   "fotomac": {
@@ -170,13 +170,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 2,
    "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -188,7 +188,7 @@
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 197,
+  "recentIssues": 196,
   "singleArticleRate": 49,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 170
+    "count": 173
    },
    {
     "slug": "carrick-manager-future",
-    "count": 100
+    "count": 99
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -340,7 +340,7 @@
    },
    {
     "slug": "kane-award",
-    "count": 17
+    "count": 18
    }
   ]
  },
@@ -351,7 +351,7 @@
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "피에르 세이지",
@@ -364,6 +364,50 @@
     {
      "ko": "피에르 사지",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 6
+    },
+    {
+     "ko": "마르크 판 봄멜",
+     "count": 3
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마크 반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 보멜",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 3
+    },
+    {
+     "ko": "튀헬",
+     "count": 3
     }
    ]
   },
@@ -390,46 +434,16 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 6
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 3
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 보멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
+   "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 2
+     "count": 4
     }
    ]
   },
@@ -439,7 +453,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "포폰세카",
@@ -448,20 +462,6 @@
     {
      "ko": "파울루 퐁세카",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 5
-    },
-    {
-     "ko": "튀헬",
-     "count": 4
     }
    ]
   },
@@ -624,6 +624,42 @@
    ]
   },
   {
+   "en": "Gustavo Varela",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구스타보 바렐라",
+     "count": 3
+    },
+    {
+     "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉴데루프",
+     "count": 1
+    },
+    {
+     "ko": "셸더럽",
+     "count": 1
+    },
+    {
+     "ko": "쉐르델루프",
+     "count": 1
+    },
+    {
+     "ko": "셸더루프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -662,6 +698,24 @@
     {
      "ko": "셀리아 구베이아",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 2
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 1
+    },
+    {
+     "ko": "키스 와니스",
+     "count": 1
     }
    ]
   },
@@ -725,56 +779,6 @@
     },
     {
      "ko": "유리 틸레망스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 2
-    },
-    {
-     "ko": "구스타부 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "귀로",
-     "count": 1
-    },
-    {
-     "ko": "귀데르",
-     "count": 1
-    },
-    {
-     "ko": "귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉴데루프",
-     "count": 1
-    },
-    {
-     "ko": "셸더럽",
-     "count": 1
-    },
-    {
-     "ko": "쉐르델루프",
      "count": 1
     }
    ]
@@ -867,24 +871,6 @@
     },
     {
      "ko": "로베르 산체스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 1
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 1
-    },
-    {
-     "ko": "키스 와니스",
      "count": 1
     }
    ]
@@ -1048,48 +1034,6 @@
    ]
   },
   {
-   "en": "Carlos Vicens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 비센스",
-     "count": 1
-    },
-    {
-     "ko": "카를루스 비센스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kieran McKenna",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키런 매케나",
-     "count": 1
-    },
-    {
-     "ko": "키어런 매케나",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 1
-    },
-    {
-     "ko": "사무엘 수아레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
@@ -1141,6 +1085,62 @@
     },
     {
      "ko": "달리시",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mikey Moore",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미키 무어",
+     "count": 1
+    },
+    {
+     "ko": "마이키 무어",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Avram Glazer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "애브럼 글레이저",
+     "count": 1
+    },
+    {
+     "ko": "아브람 글레이저",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라맨스",
+     "count": 1
+    },
+    {
+     "ko": "라머스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kniat",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크니아트",
+     "count": 1
+    },
+    {
+     "ko": "니아트",
      "count": 1
     }
    ]
@@ -1208,8 +1208,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 164,
-   "llm": 164
+   "collected": 222,
+   "llm": 222
   }
  },
  "llmErrors": []
