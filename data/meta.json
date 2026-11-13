@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T22:55:06.433Z",
+ "updatedAt": "2026-11-13T23:33:00.275Z",
  "hot": [
   "jesus-owono-discipline",
   "netherlands-greece-2026-11-13",
   "pochettino-man-utd-manager-future",
   "man-city-affairs-charges-20261109",
-  "scotland-north-macedonia-2026-11-13"
+  "serbia-germany-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -37,32 +37,32 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 3,
+   "items": 76,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 25,
-   "added": 4,
-   "authorRate": 88
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 12,
-   "authorRate": 70
+   "added": 2,
+   "authorRate": 68
   },
   "fblondon": {
    "ok": true,
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -170,7 +170,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -187,7 +187,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -315,12 +315,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 200,
+  "recentIssues": 199,
   "singleArticleRate": 50,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 176
+    "count": 177
    },
    {
     "slug": "carrick-manager-future",
@@ -358,12 +358,12 @@
      "count": 6
     },
     {
-     "ko": "피에르 사게",
+     "ko": "피에르 사지",
      "count": 2
     },
     {
-     "ko": "피에르 사지",
-     "count": 2
+     "ko": "피에르 사게",
+     "count": 1
     }
    ]
   },
@@ -434,6 +434,28 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 7
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르제 주제",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 제수",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -462,28 +484,6 @@
     {
      "ko": "튀헬",
      "count": 4
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 6
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르제 주제",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 제수",
-     "count": 1
     }
    ]
   },
@@ -948,6 +948,20 @@
    ]
   },
   {
+   "en": "Treu",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "트라우",
+     "count": 1
+    },
+    {
+     "ko": "트로이",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
@@ -1142,20 +1156,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Antonio Nusa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니오 누사",
-     "count": 1
-    },
-    {
-     "ko": "안토니 누사",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1220,8 +1220,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 380,
-   "llm": 380
+   "collected": 398,
+   "llm": 398
   }
  },
  "llmErrors": []
