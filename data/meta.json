@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T12:52:08.565Z",
+ "updatedAt": "2026-11-13T14:04:41.028Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "bruno-fernandes-contract",
+  "carrick-manager-future",
   "kane-award",
-  "man-city-affairs-charges-20261109",
-  "carrick-manager-future"
+  "alfon-injury"
  ],
  "days": [
   "2026-10-18",
@@ -36,20 +36,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 0,
+   "items": 79,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
-   "authorRate": 98
+   "added": 1,
+   "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 10,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 16,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,38 +85,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 88
+   "added": 2,
+   "authorRate": 90
   },
   "waz": {
    "ok": true,
@@ -133,13 +133,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +151,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -163,31 +163,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 8,
+   "added": 5,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 6,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 7,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -205,12 +205,12 @@
    "count": 32
   },
   {
-   "name": "노이어",
+   "name": "그릴리시",
    "count": 28
   },
   {
-   "name": "그릴리시",
-   "count": 27
+   "name": "노이어",
+   "count": 28
   },
   {
    "name": "잭 그릴리시",
@@ -285,6 +285,10 @@
    "count": 11
   },
   {
+   "name": "지단",
+   "count": 11
+  },
+  {
    "name": "모히아",
    "count": 10
   },
@@ -307,19 +311,15 @@
   {
    "name": "도르구",
    "count": 10
-  },
-  {
-   "name": "지단",
-   "count": 10
   }
  ],
  "issueHealth": {
-  "recentIssues": 214,
+  "recentIssues": 211,
   "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 142
+    "count": 149
    },
    {
     "slug": "carrick-manager-future",
@@ -330,12 +330,12 @@
     "count": 38
    },
    {
-    "slug": "england-croatia-2026-11-12",
+    "slug": "crystal-palace-manager-future",
     "count": 20
    },
    {
-    "slug": "crystal-palace-manager-future",
-    "count": 19
+    "slug": "england-croatia-2026-11-12",
+    "count": 20
    },
    {
     "slug": "kane-award",
@@ -359,6 +359,10 @@
     {
      "ko": "피에르 사게",
      "count": 2
+    },
+    {
+     "ko": "피에르 사지",
+     "count": 1
     }
    ]
   },
@@ -368,7 +372,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "마티아스 야이슬레",
@@ -447,20 +451,6 @@
    ]
   },
   {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 5
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -470,6 +460,20 @@
     },
     {
      "ko": "튀헬",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "en": "De La Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 4
+    },
+    {
+     "ko": "델라 푸엔테",
      "count": 4
     }
    ]
@@ -600,6 +604,20 @@
     },
     {
      "ko": "피터 쇼턴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Valérien Ismaël",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "발레리앙 이스마엘",
+     "count": 4
+    },
+    {
+     "ko": "발레리앵 이스마엘",
      "count": 1
     }
    ]
@@ -743,38 +761,6 @@
     {
      "ko": "셀리아 구베이아",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Valérien Ismaël",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "발레리앙 이스마엘",
-     "count": 3
-    },
-    {
-     "ko": "발레리앵 이스마엘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hugo Cuypers",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "휴고 퀴퍼스",
-     "count": 1
-    },
-    {
-     "ko": "위고 퀴퍼스",
-     "count": 1
-    },
-    {
-     "ko": "휴고 쿠이퍼스",
-     "count": 1
     }
    ]
   },
@@ -1017,29 +1003,19 @@
    ]
   },
   {
-   "en": "Dani Rebollo",
+   "en": "Sérgio Krithinas",
    "dictionary": null,
    "variants": [
     {
-     "ko": "레볼레이라",
+     "ko": "크리티나스",
      "count": 1
     },
     {
-     "ko": "다니 헤볼로",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오고 코스타",
+     "ko": "세르지우 크리치나스",
      "count": 1
     },
     {
-     "ko": "디오구 코스타",
+     "ko": "세르지우 크리티나스",
      "count": 1
     }
    ]
@@ -1155,6 +1131,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Marcus Thuram",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르퀴스 튀람",
+     "count": 1
+    },
+    {
+     "ko": "마르쿠스 튀람",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hugo Cuypers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "위고 퀴퍼스",
+     "count": 1
+    },
+    {
+     "ko": "휴고 쿠이퍼스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1215,8 +1219,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 835,
-   "llm": 835
+   "collected": 898,
+   "llm": 898
   }
  },
  "llmErrors": []
