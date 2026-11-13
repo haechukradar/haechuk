@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T03:22:30.910Z",
+ "updatedAt": "2026-11-13T04:26:03.933Z",
  "hot": [
   "england-croatia-2026-11-12",
   "pochettino-man-utd-manager-future",
@@ -49,7 +49,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -103,7 +103,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -139,13 +139,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "hln": {
@@ -314,8 +314,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
-  "singleArticleRate": 48,
+  "recentIssues": 218,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "carrick-manager-future",
@@ -323,7 +323,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 109
+    "count": 110
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -763,20 +763,6 @@
    ]
   },
   {
-   "en": "Samuel Soares",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사무엘 소아레스",
-     "count": 2
-    },
-    {
-     "ko": "사무엘 수아레스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Fresneda",
    "dictionary": null,
    "variants": [
@@ -1135,6 +1121,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Richard Ríos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리카르두 호스",
+     "count": 1
+    },
+    {
+     "ko": "리샤르드 리오스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1195,8 +1195,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 531,
-   "llm": 531
+   "collected": 539,
+   "llm": 539
   }
  },
  "llmErrors": []
