@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T09:50:09.264Z",
+ "updatedAt": "2026-11-13T10:50:51.142Z",
  "hot": [
+  "bruno-fernandes-contract",
   "pochettino-man-utd-manager-future",
   "kane-award",
-  "van-dijk-liverpool-contract",
   "palmer-england-relationship",
-  "bruno-fernandes-contract"
+  "van-dijk-liverpool-contract"
  ],
  "days": [
   "2026-10-18",
@@ -36,14 +36,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 1,
+   "items": 82,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "sky": {
@@ -73,7 +73,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,14 +85,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 76
+   "added": 2,
+   "authorRate": 74
   },
   "fblondon": {
    "ok": true,
@@ -103,20 +103,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
    "added": 0,
-   "authorRate": 85
+   "authorRate": 88
   },
   "waz": {
    "ok": true,
@@ -151,13 +151,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -169,7 +169,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
@@ -181,13 +181,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 2,
+   "items": 14,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -314,16 +314,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
-  "singleArticleRate": 51,
+  "recentIssues": 223,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 121
+    "count": 122
    },
    {
     "slug": "carrick-manager-future",
-    "count": 117
+    "count": 113
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -336,6 +336,10 @@
    {
     "slug": "crystal-palace-manager-future",
     "count": 19
+   },
+   {
+    "slug": "kane-award",
+    "count": 17
    }
   ]
  },
@@ -364,7 +368,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "포폰세카",
@@ -470,7 +474,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 3
+     "count": 4
     }
    ]
   },
@@ -559,6 +563,24 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퀼크루그",
+     "count": 3
+    },
+    {
+     "ko": "퀼크루크",
+     "count": 1
+    },
+    {
+     "ko": "퓔크루크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Fresneda",
    "dictionary": null,
    "variants": [
@@ -613,16 +635,16 @@
    ]
   },
   {
-   "en": "Füllkrug",
+   "en": "Dan Burn",
    "dictionary": null,
    "variants": [
     {
-     "ko": "퀼크루그",
-     "count": 3
+     "ko": "던 번",
+     "count": 2
     },
     {
-     "ko": "퀼크루크",
-     "count": 1
+     "ko": "댄 번",
+     "count": 2
     }
    ]
   },
@@ -779,20 +801,6 @@
    ]
   },
   {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "던 번",
-     "count": 2
-    },
-    {
-     "ko": "댄 번",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kniat",
    "dictionary": null,
    "variants": [
@@ -802,20 +810,6 @@
     },
     {
      "ko": "니아트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 2
-    },
-    {
-     "ko": "클린스만",
      "count": 1
     }
    ]
@@ -1013,6 +1007,24 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 1
+    },
+    {
+     "ko": "키스 와니스",
+     "count": 1
+    },
+    {
+     "ko": "키스 와이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Dani Rebollo",
    "dictionary": null,
    "variants": [
@@ -1050,20 +1062,6 @@
     },
     {
      "ko": "미카 고츠",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Merson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "메르손",
-     "count": 1
-    },
-    {
-     "ko": "메르슨",
      "count": 1
     }
    ]
@@ -1125,20 +1123,6 @@
    ]
   },
   {
-   "en": "Yannick Cahuzac",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "얀니크 카위작",
-     "count": 1
-    },
-    {
-     "ko": "야닉 카위작",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Richard Ríos",
    "dictionary": null,
    "variants": [
@@ -1148,6 +1132,34 @@
     },
     {
      "ko": "리샤르드 리오스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Liam Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리앰 델랍",
+     "count": 1
+    },
+    {
+     "ko": "리엄 델랍",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hugo Oliveira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "위고 올리베이라",
+     "count": 1
+    },
+    {
+     "ko": "후고 올리베이라",
      "count": 1
     }
    ]
@@ -1211,8 +1223,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 705,
-   "llm": 705
+   "collected": 746,
+   "llm": 746
   }
  },
  "llmErrors": []
