@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T17:33:54.360Z",
+ "updatedAt": "2026-11-13T18:29:11.858Z",
  "hot": [
   "pochettino-man-utd-manager-future",
-  "man-city-affairs-charges-20261109",
   "bruno-fernandes-contract",
-  "grealish-discipline",
-  "carrick-manager-future"
+  "man-city-affairs-charges-20261109",
+  "england-spain-2026-11-14",
+  "grealish-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -37,27 +37,27 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
+   "items": 80,
    "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 60,
-   "added": 2,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 27,
+   "added": 14,
+   "authorRate": 89
   },
   "athletic": {
    "ok": true,
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 12,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,37 +86,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 74
+   "added": 5,
+   "authorRate": 68
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -134,13 +134,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -164,13 +164,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 1,
    "authorRate": 90
   },
   "star": {
@@ -182,12 +182,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 10,
    "added": 2,
    "authorRate": 0
   }
@@ -266,6 +266,10 @@
    "count": 13
   },
   {
+   "name": "지단",
+   "count": 12
+  },
+  {
    "name": "리산드로 마르티네스",
    "count": 11
   },
@@ -283,10 +287,6 @@
   },
   {
    "name": "보글",
-   "count": 11
-  },
-  {
-   "name": "지단",
    "count": 11
   },
   {
@@ -310,21 +310,21 @@
    "count": 10
   },
   {
-   "name": "도르구",
+   "name": "발로군",
    "count": 10
   }
  ],
  "issueHealth": {
-  "recentIssues": 198,
+  "recentIssues": 197,
   "singleArticleRate": 49,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 166
+    "count": 170
    },
    {
     "slug": "carrick-manager-future",
-    "count": 101
+    "count": 100
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -377,7 +377,7 @@
     },
     {
      "ko": "마티아스 야이슬레",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "마티아스 자이슬",
@@ -385,6 +385,32 @@
     },
     {
      "ko": "매티아스 야이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 6
+    },
+    {
+     "ko": "마르크 판 봄멜",
+     "count": 3
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "마크 반 보멜",
      "count": 1
     }
    ]
@@ -421,32 +447,6 @@
     },
     {
      "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 6
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 보멜",
      "count": 1
     }
    ]
@@ -730,24 +730,6 @@
    ]
   },
   {
-   "en": "Aurélien Tchouaméni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아우렐리앙 추아메니",
-     "count": 1
-    },
-    {
-     "ko": "오렐리앵 추아메니",
-     "count": 1
-    },
-    {
-     "ko": "튀아메니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
@@ -775,20 +757,6 @@
     },
     {
      "ko": "귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mikey Moore",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미키 무어",
-     "count": 2
-    },
-    {
-     "ko": "마이키 무어",
      "count": 1
     }
    ]
@@ -1010,6 +978,20 @@
    ]
   },
   {
+   "en": "Aurélien Tchouaméni",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아우렐리앙 추아메니",
+     "count": 1
+    },
+    {
+     "ko": "오렐리앵 추아메니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Zaniolo",
    "dictionary": null,
    "variants": [
@@ -1108,43 +1090,57 @@
    ]
   },
   {
-   "en": "Eli Junior Kroupi",
+   "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
     {
-     "ko": "엘리 주니어 쿠프이",
+     "ko": "리오 퍼디난드",
      "count": 1
     },
     {
-     "ko": "엘리 주니어 크루피",
+     "ko": "리오 퍼디낸드",
      "count": 1
     }
    ]
   },
   {
-   "en": "Hugo Cuypers",
+   "en": "Blank",
    "dictionary": null,
    "variants": [
     {
-     "ko": "위고 퀴퍼스",
+     "ko": "블랑크",
      "count": 1
     },
     {
-     "ko": "휴고 쿠이퍼스",
+     "ko": "블랭크",
      "count": 1
     }
    ]
   },
   {
-   "en": "Völler",
+   "en": "Jobe",
    "dictionary": null,
    "variants": [
     {
-     "ko": "푈러",
+     "ko": "조브",
      "count": 1
     },
     {
-     "ko": "뮐러",
+     "ko": "조비",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dalglish",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "달글리시",
+     "count": 1
+    },
+    {
+     "ko": "달리시",
      "count": 1
     }
    ]
@@ -1212,8 +1208,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 124,
-   "llm": 124
+   "collected": 164,
+   "llm": 164
   }
  },
  "llmErrors": []
