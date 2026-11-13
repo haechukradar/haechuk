@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T21:16:48.350Z",
+ "updatedAt": "2026-11-13T22:12:13.012Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "netherlands-greece-2026-11-13",
+  "player-death-incident",
   "man-city-affairs-charges-20261109",
-  "england-spain-2026-11-14",
-  "bruno-fernandes-contract"
+  "scotland-north-macedonia-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -37,8 +37,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 78,
-   "added": 1,
+   "items": 79,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -50,7 +50,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -62,7 +62,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 78
+   "added": 7,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -104,7 +104,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -116,7 +116,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -134,19 +134,19 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 14,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -170,8 +170,8 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
-   "authorRate": 93
+   "added": 3,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
@@ -182,13 +182,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 1,
+   "items": 9,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -199,11 +199,15 @@
   },
   {
    "name": "오워노",
-   "count": 33
+   "count": 35
   },
   {
    "name": "맥스 다우먼",
    "count": 32
+  },
+  {
+   "name": "프레스티아니",
+   "count": 30
   },
   {
    "name": "노이어",
@@ -215,10 +219,6 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 28
-  },
-  {
-   "name": "프레스티아니",
    "count": 28
   },
   {
@@ -266,6 +266,10 @@
    "count": 13
   },
   {
+   "name": "헤수스 오워노",
+   "count": 12
+  },
+  {
    "name": "지단",
    "count": 12
   },
@@ -302,10 +306,6 @@
    "count": 10
   },
   {
-   "name": "헤수스 오워노",
-   "count": 10
-  },
-  {
    "name": "해밀턴",
    "count": 10
   },
@@ -315,12 +315,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
-  "singleArticleRate": 50,
+  "recentIssues": 200,
+  "singleArticleRate": 49,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 176
+    "count": 175
    },
    {
     "slug": "carrick-manager-future",
@@ -368,6 +368,24 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "튀헬",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -394,24 +412,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 6
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 3
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -434,6 +434,24 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 8
+    },
+    {
+     "ko": "포폰세카",
+     "count": 2
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -448,24 +466,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 7
-    },
-    {
-     "ko": "포폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -474,11 +474,15 @@
      "count": 6
     },
     {
+     "ko": "조르제 제수스",
+     "count": 2
+    },
+    {
      "ko": "조르제 주제",
      "count": 1
     },
     {
-     "ko": "조르제 제수스",
+     "ko": "조르즈 제수",
      "count": 1
     }
    ]
@@ -584,6 +588,42 @@
     {
      "ko": "발레리앵 이스마엘",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헤수스 오워노",
+     "count": 2
+    },
+    {
+     "ko": "헤수스 오우오노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오웅고노",
+     "count": 1
+    },
+    {
+     "ko": "오워노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오워노",
+     "count": 3
+    },
+    {
+     "ko": "오우오노",
+     "count": 2
     }
    ]
   },
@@ -862,24 +902,6 @@
    ]
   },
   {
-   "en": "Jesús Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헤수스 오우오노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오워노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오웅고노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Robert Sanchez",
    "dictionary": null,
    "variants": [
@@ -940,20 +962,6 @@
    ]
   },
   {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오우오노",
-     "count": 2
-    },
-    {
-     "ko": "오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Richard Ríos",
    "dictionary": null,
    "variants": [
@@ -977,20 +985,6 @@
     },
     {
      "ko": "후고 올리베이라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Aurélien Tchouaméni",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아우렐리앙 추아메니",
-     "count": 1
-    },
-    {
-     "ko": "오렐리앵 추아메니",
      "count": 1
     }
    ]
@@ -1148,6 +1142,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Pelágio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "펠라지우",
+     "count": 1
+    },
+    {
+     "ko": "펠라지오",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1212,8 +1220,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 290,
-   "llm": 290
+   "collected": 332,
+   "llm": 332
   }
  },
  "llmErrors": []
