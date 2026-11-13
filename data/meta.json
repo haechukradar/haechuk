@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T16:37:32.688Z",
+ "updatedAt": "2026-11-13T17:33:54.360Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "man-city-affairs-charges-20261109",
   "bruno-fernandes-contract",
   "grealish-discipline",
-  "pochettino-man-utd-transfer"
+  "carrick-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -38,19 +38,19 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 1,
+   "items": 60,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 12,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,37 +86,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 72
+   "added": 4,
+   "authorRate": 74
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
-  },
-  "men": {
    "ok": true,
    "items": 25,
    "added": 1,
    "authorRate": 100
   },
+  "men": {
+   "ok": true,
+   "items": 25,
+   "added": 2,
+   "authorRate": 100
+  },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -170,13 +170,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
-   "authorRate": 93
+   "added": 2,
+   "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -188,7 +188,7 @@
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -219,7 +219,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 27
+   "count": 28
   },
   {
    "name": "JJ 가브리엘",
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 202,
-  "singleArticleRate": 51,
+  "recentIssues": 198,
+  "singleArticleRate": 49,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 164
+    "count": 166
    },
    {
     "slug": "carrick-manager-future",
-    "count": 100
+    "count": 101
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -336,7 +336,7 @@
    },
    {
     "slug": "crystal-palace-manager-future",
-    "count": 18
+    "count": 19
    },
    {
     "slug": "kane-award",
@@ -351,7 +351,7 @@
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "피에르 세이지",
@@ -390,24 +390,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 9
-    },
-    {
-     "ko": "포폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
@@ -422,6 +404,24 @@
     {
      "ko": "토마스 투헬",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 8
+    },
+    {
+     "ko": "포폰세카",
+     "count": 2
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 1
     }
    ]
   },
@@ -485,7 +485,7 @@
    "variants": [
     {
      "ko": "아르다 귈러",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "아르다 귀러",
@@ -511,28 +511,6 @@
     },
     {
      "ko": "프레시네다",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르지 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르제 주제",
-     "count": 1
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 제수스",
      "count": 1
     }
    ]
@@ -646,52 +624,6 @@
    ]
   },
   {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 배리",
-     "count": 3
-    },
-    {
-     "ko": "티에르노 바리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alan Shearer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "앨런 시어러",
-     "count": 2
-    },
-    {
-     "ko": "앨런 셔러",
-     "count": 1
-    },
-    {
-     "ko": "앨런 셰어러",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mohya",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모히아",
-     "count": 3
-    },
-    {
-     "ko": "모히야",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -730,6 +662,24 @@
     {
      "ko": "셀리아 구베이아",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르제 주제",
+     "count": 1
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 제수스",
+     "count": 1
     }
    ]
   },
@@ -862,6 +812,20 @@
    ]
   },
   {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모히아",
+     "count": 2
+    },
+    {
+     "ko": "모히야",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Luis de la Fuente",
    "dictionary": null,
    "variants": [
@@ -971,6 +935,34 @@
     },
     {
      "ko": "크리티나스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alan Shearer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앨런 시어러",
+     "count": 2
+    },
+    {
+     "ko": "앨런 셰어러",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Davide Frattesi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프라테시",
+     "count": 2
+    },
+    {
+     "ko": "다비데 프라텟시",
      "count": 1
     }
    ]
@@ -1220,8 +1212,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 72,
-   "llm": 72
+   "collected": 124,
+   "llm": 124
   }
  },
  "llmErrors": []
