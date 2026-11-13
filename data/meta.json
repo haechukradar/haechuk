@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T15:44:42.993Z",
+ "updatedAt": "2026-11-13T16:37:32.688Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "man-city-affairs-charges-20261109",
   "bruno-fernandes-contract",
   "grealish-discipline",
-  "carrick-manager-future"
+  "pochettino-man-utd-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -37,20 +37,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
+   "items": 81,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -62,7 +62,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 74
+   "added": 3,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
@@ -104,20 +104,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
-   "authorRate": 90
+   "added": 2,
+   "authorRate": 88
   },
   "waz": {
    "ok": true,
@@ -134,13 +134,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -164,13 +164,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 3,
    "authorRate": 93
   },
   "star": {
@@ -188,7 +188,7 @@
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -227,7 +227,7 @@
   },
   {
    "name": "알리송",
-   "count": 22
+   "count": 23
   },
   {
    "name": "트레솔디",
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 200,
-  "singleArticleRate": 50,
+  "recentIssues": 202,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 162
+    "count": 164
    },
    {
     "slug": "carrick-manager-future",
-    "count": 102
+    "count": 100
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -363,7 +363,7 @@
     },
     {
      "ko": "피에르 사지",
-     "count": 1
+     "count": 2
     }
    ]
   },
@@ -646,20 +646,6 @@
    ]
   },
   {
-   "en": "Mikey Moore",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미키 무어",
-     "count": 2
-    },
-    {
-     "ko": "마이키 무어",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -839,6 +825,20 @@
     },
     {
      "ko": "귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mikey Moore",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미키 무어",
+     "count": 2
+    },
+    {
+     "ko": "마이키 무어",
      "count": 1
     }
    ]
@@ -1060,6 +1060,20 @@
    ]
   },
   {
+   "en": "Kasper Hogh",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카스퍼 호흐",
+     "count": 1
+    },
+    {
+     "ko": "카스퍼 호그",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Carlos Vicens",
    "dictionary": null,
    "variants": [
@@ -1142,20 +1156,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Kaminski",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카민스키",
-     "count": 1
-    },
-    {
-     "ko": "카미졸키",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1220,8 +1220,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 37,
-   "llm": 37
+   "collected": 72,
+   "llm": 72
   }
  },
  "llmErrors": []
