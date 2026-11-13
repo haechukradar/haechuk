@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T19:29:24.135Z",
+ "updatedAt": "2026-11-13T20:25:49.074Z",
  "hot": [
   "pochettino-man-utd-manager-future",
+  "netherlands-greece-2026-11-13",
   "man-city-affairs-charges-20261109",
   "england-spain-2026-11-14",
-  "bruno-fernandes-contract",
-  "scotland-north-macedonia-2026-11-13"
+  "bruno-fernandes-contract"
  ],
  "days": [
   "2026-10-18",
@@ -38,26 +38,26 @@
   "bbc": {
    "ok": true,
    "items": 78,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 4,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 27,
-   "added": 2,
-   "authorRate": 89
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -73,7 +73,7 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
+   "items": 50,
    "added": 9,
    "authorRate": 100
   },
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 72
+   "added": 3,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -104,7 +104,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 17,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -164,25 +164,25 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 3,
    "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
@@ -315,12 +315,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 196,
-  "singleArticleRate": 49,
+  "recentIssues": 201,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 173
+    "count": 175
    },
    {
     "slug": "carrick-manager-future",
@@ -351,7 +351,7 @@
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "피에르 세이지",
@@ -592,6 +592,24 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르제 주제",
+     "count": 1
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Senny Mayulu",
    "dictionary": null,
    "variants": [
@@ -720,24 +738,6 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르제 주제",
-     "count": 1
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 제수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pedro Porro",
    "dictionary": null,
    "variants": [
@@ -747,6 +747,24 @@
     },
     {
      "ko": "페드로 포로",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Liam Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리앰 델랍",
+     "count": 1
+    },
+    {
+     "ko": "리엄 델랍",
+     "count": 1
+    },
+    {
+     "ko": "리엄 델랩",
      "count": 1
     }
    ]
@@ -936,20 +954,6 @@
    ]
   },
   {
-   "en": "Liam Delap",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리앰 델랍",
-     "count": 1
-    },
-    {
-     "ko": "리엄 델랍",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
@@ -1015,20 +1019,6 @@
     },
     {
      "ko": "아게이레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kasper Hogh",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카스퍼 호흐",
-     "count": 1
-    },
-    {
-     "ko": "카스퍼 호그",
      "count": 1
     }
    ]
@@ -1144,6 +1134,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Filipe Coelho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "필리페 코엘루",
+     "count": 1
+    },
+    {
+     "ko": "필리페 코엘류",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1208,8 +1212,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 222,
-   "llm": 222
+   "collected": 264,
+   "llm": 264
   }
  },
  "llmErrors": []
