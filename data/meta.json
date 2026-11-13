@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T23:41:35.398Z",
+ "updatedAt": "2026-11-13T00:25:49.873Z",
  "hot": [
   "england-croatia-2026-11-12",
   "italy-france-2026-11-12",
@@ -36,7 +36,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
+   "items": 80,
    "added": 1,
    "authorRate": 0
   },
@@ -61,7 +61,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -91,8 +91,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 78
+   "added": 4,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -169,7 +169,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 2,
+   "added": 1,
    "authorRate": 96
   },
   "star": {
@@ -186,7 +186,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -314,7 +314,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
+  "recentIssues": 220,
   "singleArticleRate": 47,
   "broad": [
    {
@@ -323,11 +323,11 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 108
+    "count": 109
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 25
+    "count": 28
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -905,6 +905,24 @@
    ]
   },
   {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쉴데루프",
+     "count": 1
+    },
+    {
+     "ko": "쉐르델루프",
+     "count": 1
+    },
+    {
+     "ko": "셸더럽",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -1117,20 +1135,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Richard Ríos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리카르두 호스",
-     "count": 1
-    },
-    {
-     "ko": "리샤르드 리오스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1191,8 +1195,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 506,
-   "llm": 506
+   "collected": 522,
+   "llm": 522
   }
  },
  "llmErrors": []
