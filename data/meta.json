@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T14:58:08.397Z",
+ "updatedAt": "2026-11-13T15:44:42.993Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "man-city-affairs-charges-20261109",
   "bruno-fernandes-contract",
-  "carrick-manager-future",
-  "kane-award"
+  "grealish-discipline",
+  "carrick-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -31,25 +31,26 @@
   "2026-11-10",
   "2026-11-11",
   "2026-11-12",
-  "2026-11-13"
+  "2026-11-13",
+  "2026-11-14"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 0,
+   "items": 80,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -61,7 +62,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -73,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,25 +86,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 5,
    "authorRate": 74
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -115,7 +116,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 90
   },
   "waz": {
@@ -139,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -151,7 +152,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -169,7 +170,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
@@ -181,13 +182,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 1,
+   "items": 9,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -205,20 +206,20 @@
    "count": 32
   },
   {
+   "name": "노이어",
+   "count": 29
+  },
+  {
    "name": "그릴리시",
    "count": 28
   },
   {
-   "name": "노이어",
+   "name": "잭 그릴리시",
    "count": 28
   },
   {
-   "name": "잭 그릴리시",
-   "count": 27
-  },
-  {
    "name": "프레스티아니",
-   "count": 26
+   "count": 27
   },
   {
    "name": "JJ 가브리엘",
@@ -245,6 +246,10 @@
    "count": 14
   },
   {
+   "name": "수비멘디",
+   "count": 14
+  },
+  {
    "name": "조브 벨링엄",
    "count": 14
   },
@@ -258,10 +263,6 @@
   },
   {
    "name": "돈나룸마",
-   "count": 13
-  },
-  {
-   "name": "수비멘디",
    "count": 13
   },
   {
@@ -314,28 +315,28 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 207,
-  "singleArticleRate": 51,
+  "recentIssues": 200,
+  "singleArticleRate": 50,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 157
+    "count": 162
    },
    {
     "slug": "carrick-manager-future",
-    "count": 106
+    "count": 102
    },
    {
     "slug": "italy-france-2026-11-12",
     "count": 38
    },
    {
-    "slug": "crystal-palace-manager-future",
+    "slug": "england-croatia-2026-11-12",
     "count": 20
    },
    {
-    "slug": "england-croatia-2026-11-12",
-    "count": 20
+    "slug": "crystal-palace-manager-future",
+    "count": 18
    },
    {
     "slug": "kane-award",
@@ -350,7 +351,7 @@
    "variants": [
     {
      "ko": "피에르 사주",
-     "count": 10
+     "count": 8
     },
     {
      "ko": "피에르 세이지",
@@ -843,34 +844,6 @@
    ]
   },
   {
-   "en": "Eli Junior Kroupi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엘리 주니어 크루피",
-     "count": 2
-    },
-    {
-     "ko": "엘리 주니어 쿠프이",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Reinaldo Teixeira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레이날도 테이셰이라",
-     "count": 2
-    },
-    {
-     "ko": "레이나우두 테이셰이라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Schjelderup",
    "dictionary": null,
    "variants": [
@@ -1087,6 +1060,20 @@
    ]
   },
   {
+   "en": "Carlos Vicens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 비센스",
+     "count": 1
+    },
+    {
+     "ko": "카를루스 비센스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kieran McKenna",
    "dictionary": null,
    "variants": [
@@ -1115,15 +1102,15 @@
    ]
   },
   {
-   "en": "Marcus Thuram",
+   "en": "Eli Junior Kroupi",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르퀴스 튀람",
+     "ko": "엘리 주니어 쿠프이",
      "count": 1
     },
     {
-     "ko": "마르쿠스 튀람",
+     "ko": "엘리 주니어 크루피",
      "count": 1
     }
    ]
@@ -1152,6 +1139,20 @@
     },
     {
      "ko": "뮐러",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kaminski",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카민스키",
+     "count": 1
+    },
+    {
+     "ko": "카미졸키",
      "count": 1
     }
    ]
@@ -1217,6 +1218,10 @@
   "2026-11-13": {
    "collected": 927,
    "llm": 927
+  },
+  "2026-11-14": {
+   "collected": 37,
+   "llm": 37
   }
  },
  "llmErrors": []
