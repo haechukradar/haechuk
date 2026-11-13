@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T08:49:07.479Z",
+ "updatedAt": "2026-11-13T09:50:09.264Z",
  "hot": [
   "pochettino-man-utd-manager-future",
-  "van-dijk-liverpool-contract",
   "kane-award",
+  "van-dijk-liverpool-contract",
   "palmer-england-relationship",
   "bruno-fernandes-contract"
  ],
@@ -37,19 +37,19 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
+   "items": 59,
    "added": 1,
    "authorRate": 98
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -72,8 +72,8 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 1,
+   "items": 51,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -85,14 +85,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 78
+   "added": 6,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -103,7 +103,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -115,7 +115,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -139,37 +139,37 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -181,13 +181,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 1,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -209,12 +209,12 @@
    "count": 28
   },
   {
-   "name": "잭 그릴리시",
+   "name": "그릴리시",
    "count": 27
   },
   {
-   "name": "그릴리시",
-   "count": 26
+   "name": "잭 그릴리시",
+   "count": 27
   },
   {
    "name": "프레스티아니",
@@ -273,6 +273,10 @@
    "count": 11
   },
   {
+   "name": "윌 랭크셔",
+   "count": 11
+  },
+  {
    "name": "달롯",
    "count": 11
   },
@@ -301,10 +305,6 @@
    "count": 10
   },
   {
-   "name": "윌 랭크셔",
-   "count": 10
-  },
-  {
    "name": "도르구",
    "count": 10
   },
@@ -314,20 +314,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
-  "singleArticleRate": 49,
+  "recentIssues": 220,
+  "singleArticleRate": 51,
   "broad": [
    {
-    "slug": "carrick-manager-future",
+    "slug": "pochettino-man-utd-manager-future",
     "count": 121
    },
    {
-    "slug": "pochettino-man-utd-manager-future",
-    "count": 116
+    "slug": "carrick-manager-future",
+    "count": 117
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 36
+    "count": 37
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -364,7 +364,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "포폰세카",
@@ -403,6 +403,24 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 3
+    },
+    {
+     "ko": "튀헬",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -429,20 +447,16 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
+   "en": "De la Fuente",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
+     "ko": "데 라 푸엔테",
      "count": 5
     },
     {
-     "ko": "토마스 투헬",
-     "count": 3
-    },
-    {
-     "ko": "튀헬",
-     "count": 2
+     "ko": "델라 푸엔테",
+     "count": 4
     }
    ]
   },
@@ -456,20 +470,6 @@
     },
     {
      "ko": "튀헬",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 4
-    },
-    {
-     "ko": "델라 푸엔테",
      "count": 3
     }
    ]
@@ -518,6 +518,28 @@
     },
     {
      "ko": "센 람멘스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Arda Guler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아르다 귈러",
+     "count": 2
+    },
+    {
+     "ko": "아르다 귀러",
+     "count": 2
+    },
+    {
+     "ko": "귈러",
+     "count": 1
+    },
+    {
+     "ko": "아르다 귈레르",
      "count": 1
     }
    ]
@@ -591,28 +613,6 @@
    ]
   },
   {
-   "en": "Arda Guler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아르다 귀러",
-     "count": 2
-    },
-    {
-     "ko": "귈러",
-     "count": 1
-    },
-    {
-     "ko": "아르다 귈레르",
-     "count": 1
-    },
-    {
-     "ko": "아르다 귈러",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -622,38 +622,6 @@
     },
     {
      "ko": "퀼크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jess Thorup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제스 토르업",
-     "count": 2
-    },
-    {
-     "ko": "요르동",
-     "count": 1
-    },
-    {
-     "ko": "요스 토루프",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 3
-    },
-    {
-     "ko": "구스타부 바렐라",
      "count": 1
     }
    ]
@@ -917,6 +885,20 @@
    ]
   },
   {
+   "en": "Gustavo Varela",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구스타보 바렐라",
+     "count": 2
+    },
+    {
+     "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Güler",
    "dictionary": null,
    "variants": [
@@ -1115,6 +1097,20 @@
    ]
   },
   {
+   "en": "Jess Thorup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "요르동",
+     "count": 1
+    },
+    {
+     "ko": "요스 토루프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Javi Hernández",
    "dictionary": null,
    "variants": [
@@ -1143,15 +1139,15 @@
    ]
   },
   {
-   "en": "Jamie Gittens",
+   "en": "Richard Ríos",
    "dictionary": null,
    "variants": [
     {
-     "ko": "제이미 기튼스",
+     "ko": "리카르두 호스",
      "count": 1
     },
     {
-     "ko": "지틀렌스",
+     "ko": "리샤르드 리오스",
      "count": 1
     }
    ]
@@ -1215,8 +1211,8 @@
    "llm": 725
   },
   "2026-11-13": {
-   "collected": 662,
-   "llm": 662
+   "collected": 705,
+   "llm": 705
   }
  },
  "llmErrors": []
