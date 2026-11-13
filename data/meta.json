@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T22:12:13.012Z",
+ "updatedAt": "2026-11-13T22:55:06.433Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
+  "jesus-owono-discipline",
   "netherlands-greece-2026-11-13",
-  "player-death-incident",
+  "pochettino-man-utd-manager-future",
   "man-city-affairs-charges-20261109",
   "scotland-north-macedonia-2026-11-13"
  ],
@@ -37,32 +37,32 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 0,
+   "items": 77,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 3,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 4,
+   "authorRate": 88
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 82
+   "added": 12,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
@@ -116,7 +116,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -140,19 +140,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -170,7 +170,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
@@ -187,7 +187,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 6,
    "added": 0,
    "authorRate": 0
   }
@@ -195,15 +195,15 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 71
+   "count": 72
   },
   {
    "name": "오워노",
-   "count": 35
+   "count": 36
   },
   {
    "name": "맥스 다우먼",
-   "count": 32
+   "count": 33
   },
   {
    "name": "프레스티아니",
@@ -262,12 +262,12 @@
    "count": 13
   },
   {
-   "name": "돈나룸마",
+   "name": "헤수스 오워노",
    "count": 13
   },
   {
-   "name": "헤수스 오워노",
-   "count": 12
+   "name": "돈나룸마",
+   "count": 13
   },
   {
    "name": "지단",
@@ -290,6 +290,10 @@
    "count": 11
   },
   {
+   "name": "베르나르두 실바",
+   "count": 11
+  },
+  {
    "name": "보글",
    "count": 11
   },
@@ -308,19 +312,15 @@
   {
    "name": "해밀턴",
    "count": 10
-  },
-  {
-   "name": "발로군",
-   "count": 10
   }
  ],
  "issueHealth": {
   "recentIssues": 200,
-  "singleArticleRate": 49,
+  "singleArticleRate": 50,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 175
+    "count": 176
    },
    {
     "slug": "carrick-manager-future",
@@ -488,16 +488,16 @@
    ]
   },
   {
-   "en": "De La Fuente",
+   "en": "De la Fuente",
    "dictionary": null,
    "variants": [
     {
-     "ko": "데 라 푸엔테",
+     "ko": "델라 푸엔테",
      "count": 4
     },
     {
-     "ko": "델라 푸엔테",
-     "count": 4
+     "ko": "데 라 푸엔테",
+     "count": 3
     }
    ]
   },
@@ -519,6 +519,28 @@
     },
     {
      "ko": "아르다 귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헤수스 오워노",
+     "count": 3
+    },
+    {
+     "ko": "오워노",
+     "count": 2
+    },
+    {
+     "ko": "헤수스 오우오노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오웅고노",
      "count": 1
     }
    ]
@@ -592,28 +614,6 @@
    ]
   },
   {
-   "en": "Jesús Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헤수스 오워노",
-     "count": 2
-    },
-    {
-     "ko": "헤수스 오우오노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오웅고노",
-     "count": 1
-    },
-    {
-     "ko": "오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -677,20 +677,6 @@
     },
     {
      "ko": "포코뇰리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 3
-    },
-    {
-     "ko": "구스타부 바렐라",
      "count": 1
     }
    ]
@@ -962,20 +948,6 @@
    ]
   },
   {
-   "en": "Richard Ríos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리카르두 호스",
-     "count": 1
-    },
-    {
-     "ko": "리샤르드 리오스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
@@ -999,20 +971,6 @@
     },
     {
      "ko": "자니올로",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Aguirre",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아기레",
-     "count": 1
-    },
-    {
-     "ko": "아게이레",
      "count": 1
     }
    ]
@@ -1156,6 +1114,48 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Ivan Baptista",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이바 바티스타",
+     "count": 1
+    },
+    {
+     "ko": "이반 바티스타",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Ferreira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 페레이라",
+     "count": 1
+    },
+    {
+     "ko": "마르코 페헤이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Antonio Nusa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "안토니오 누사",
+     "count": 1
+    },
+    {
+     "ko": "안토니 누사",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1220,8 +1220,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 332,
-   "llm": 332
+   "collected": 380,
+   "llm": 380
   }
  },
  "llmErrors": []
