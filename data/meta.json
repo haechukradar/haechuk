@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T16:49:44.592Z",
+ "updatedAt": "2026-11-14T17:27:56.509Z",
  "hot": [
-  "japan-brazil-2026-11-14",
   "norway-wales-2026-11-12",
+  "japan-brazil-2026-11-14",
+  "chelsea-man-city-2026-11-14",
   "jesus-owono-discipline",
-  "uruguay-argentina-2026-11-13",
-  "pochettino-man-utd-manager-future"
+  "england-spain-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -38,8 +38,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
-   "added": 2,
+   "items": 65,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -51,14 +51,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 23,
+   "added": 2,
+   "authorRate": 87
   },
   "athletic": {
    "ok": true,
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,37 +87,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 70
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 83
   },
   "waz": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -165,31 +165,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 0,
+   "items": 9,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -279,6 +279,10 @@
    "count": 12
   },
   {
+   "name": "발로군",
+   "count": 12
+  },
+  {
    "name": "베르나르두 실바",
    "count": 12
   },
@@ -299,10 +303,6 @@
    "count": 11
   },
   {
-   "name": "발로군",
-   "count": 11
-  },
-  {
    "name": "도르구",
    "count": 11
   },
@@ -316,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
+  "recentIssues": 214,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 157
+    "count": 158
    },
    {
     "slug": "carrick-manager-future",
@@ -336,12 +336,12 @@
     "count": 20
    },
    {
-    "slug": "kane-award",
+    "slug": "crystal-palace-manager-future",
     "count": 16
    },
    {
-    "slug": "crystal-palace-manager-future",
-    "count": 16
+    "slug": "kane-award",
+    "count": 15
    }
   ]
  },
@@ -352,7 +352,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 26
+     "count": 25
     },
     {
      "ko": "클로프",
@@ -452,7 +452,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 5
+     "count": 6
     }
    ]
   },
@@ -547,32 +547,6 @@
    ]
   },
   {
-   "en": "Jesús Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헤수스 오워노",
-     "count": 3
-    },
-    {
-     "ko": "오워노",
-     "count": 2
-    },
-    {
-     "ko": "헤수스 오우오노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오웅고노",
-     "count": 1
-    },
-    {
-     "ko": "제수스 오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Arda Guler",
    "dictionary": null,
    "variants": [
@@ -595,6 +569,28 @@
    ]
   },
   {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헤수스 오워노",
+     "count": 3
+    },
+    {
+     "ko": "오워노",
+     "count": 2
+    },
+    {
+     "ko": "헤수스 오웅고노",
+     "count": 1
+    },
+    {
+     "ko": "제수스 오워노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -605,6 +601,24 @@
     {
      "ko": "오우오노",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 3
+    },
+    {
+     "ko": "개리 네빌",
+     "count": 2
+    },
+    {
+     "ko": "가리 네빌",
+     "count": 1
     }
    ]
   },
@@ -671,16 +685,24 @@
    ]
   },
   {
-   "en": "Gary Neville",
+   "en": "Luis de la Fuente",
    "dictionary": null,
    "variants": [
     {
-     "ko": "게리 네빌",
-     "count": 3
+     "ko": "델라푸엔테",
+     "count": 2
     },
     {
-     "ko": "개리 네빌",
-     "count": 2
+     "ko": "루이스 델라푸엔테",
+     "count": 1
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    },
+    {
+     "ko": "루이스 데 라 푸엔테",
+     "count": 1
     }
    ]
   },
@@ -801,24 +823,6 @@
    ]
   },
   {
-   "en": "Luis de la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이스 델라푸엔테",
-     "count": 1
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 1
-    },
-    {
-     "ko": "루이스 데 라 푸엔테",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Di Salvo",
    "dictionary": null,
    "variants": [
@@ -925,6 +929,24 @@
    ]
   },
   {
+   "en": "Vítor Pinto",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 피토",
+     "count": 1
+    },
+    {
+     "ko": "비토르 핀투",
+     "count": 1
+    },
+    {
+     "ko": "빈토 핀투",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Patrick Dorgu",
    "dictionary": null,
    "variants": [
@@ -1018,48 +1040,6 @@
     },
     {
      "ko": "라머스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kniat",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크니아트",
-     "count": 1
-    },
-    {
-     "ko": "니아트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Filipe Coelho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "필리페 코엘루",
-     "count": 1
-    },
-    {
-     "ko": "필리페 코엘류",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Liam Delap",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리엄 델랍",
-     "count": 1
-    },
-    {
-     "ko": "리엄 델랩",
      "count": 1
     }
    ]
@@ -1161,6 +1141,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Kühn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쿤",
+     "count": 1
+    },
+    {
+     "ko": "퀸",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jean-Louis Leca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "장루이 레카",
+     "count": 1
+    },
+    {
+     "ko": "장루이 르카",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1229,8 +1237,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 84,
-   "llm": 84
+   "collected": 122,
+   "llm": 122
   }
  },
  "llmErrors": []
