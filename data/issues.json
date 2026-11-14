@@ -1,5 +1,247 @@
 [
  {
+  "slug": "pochettino-man-utd-transfer",
+  "mode": "llm",
+  "titleKo": "포체티노 맨유 첫 영입 후보 토트넘 선수",
+  "createdAt": "2026-11-13T07:00:00.000Z",
+  "updatedAt": "2026-11-14T08:15:57.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "tottenham",
+   "man-utd",
+   "arsenal"
+  ],
+  "players": [
+   "니코 파스",
+   "브루노 페르난데스"
+  ],
+  "sig": [
+   "pochettino"
+  ],
+  "articles": [
+   {
+    "id": "8faddab0953d",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/mauricio-pochettino-should-raid-tottenham-34903111",
+    "title": "Mauricio Pochettino should raid Tottenham for 'priceless' star as first Man Utd transfer decided",
+    "ko": "포체티노, 첫 맨유 영입으로 토트넘 선수 노릴 가능성",
+    "source": "fblondon",
+    "publishedAt": "2026-11-13T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "2b3694f06bf4",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-signings-37874169",
+    "title": "Mauricio Pochettino's first two January signings picked as Man Utd 'begin talks'",
+    "ko": "포체티노 맨유 1월 첫 영입 두 명 선정, 협상 시작 단계",
+    "source": "mirror",
+    "publishedAt": "2026-11-13T12:38:52.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [],
+    "playerTags": [],
+    "author": "Amos Murphy, Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "c8428f7748b9",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-mauricio-pochettino-34909474",
+    "title": "Man United complete first transfer of Mauricio Pochettino era as wonderkid joins",
+    "ko": "맨유, 포체티노 체제 첫 영입 완료…유망주 합류",
+    "source": "men",
+    "publishedAt": "2026-11-13T16:15:59.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [],
+    "playerTags": [],
+    "author": "Matthew Abbott, Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "6b53339dd780",
+    "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-mauricio-pochettino-folarin-balogun-34910808",
+    "title": "Arsenal set for transfer windfall as Mauricio Pochettino ‘asks Man Utd for two players’",
+    "ko": "아스널, 포체티노가 맨유에 선수 2명 요청했다는 보도에 이적 수입 기대",
+    "source": "fblondon",
+    "publishedAt": "2026-11-14T04:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [],
+    "playerTags": [],
+    "author": "Amie Wilson",
+    "transfer": null
+   },
+   {
+    "id": "fceeb4c8e96d",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-live-mauricio-pochettino-34911029",
+    "title": "Man United news LIVE: Mauricio Pochettino's two transfer priorities as Nico Paz targeted",
+    "ko": "맨유 라이브: 포체티노의 두 개 이적 우선순위와 니코 파스 타깃",
+    "source": "men",
+    "publishedAt": "2026-11-14T08:02:26.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "니코 파스"
+    ],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": {
+     "player": "니코 파스",
+     "from": null,
+     "to": "맨유"
+    }
+   },
+   {
+    "id": "e45b3929ddb9",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-transfers-37876833",
+    "title": "Man Utd news LIVE: Mauricio Pochettino's transfer targets as Bruno Fernandes snubs offer",
+    "ko": "맨유 라이브: 포체티노의 이적 목표와 브루노 페르난데스의 제안 거절",
+    "source": "mirror",
+    "publishedAt": "2026-11-14T08:15:57.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Dan Burnham",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 2.06,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "8faddab0953d",
+    "at": "2026-11-13T07:00:00.000Z",
+    "source": "fblondon",
+    "from": null,
+    "to": "interest"
+   },
+   {
+    "id": "c8428f7748b9",
+    "at": "2026-11-13T16:15:59.000Z",
+    "source": "men",
+    "from": "interest",
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": {
+   "from": "interest",
+   "to": "negotiation",
+   "at": "2026-11-13T16:15:59.000Z",
+   "source": "men"
+  },
+  "playerTags": [
+   "bruno-fernandes"
+  ],
+  "transfer": {
+   "player": "니코 파스",
+   "from": null,
+   "to": "맨유"
+  },
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-13T07:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Arsenal set for transfer windfall as Mauricio Pochettino ‘asks Man Utd for two players’"
+ },
+ {
+  "slug": "dorgu-injury",
+  "mode": "llm",
+  "titleKo": "맨유 도르구 복귀 후 재부상, 덴마크 소집 철회",
+  "createdAt": "2026-11-14T07:42:49.000Z",
+  "updatedAt": "2026-11-14T07:42:49.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "파트릭 도르구"
+  ],
+  "sig": [
+   "patrick",
+   "dorgu",
+   "pulls",
+   "denmark"
+  ],
+  "articles": [
+   {
+    "id": "e8b8470cd7a3",
+    "url": "https://www.thesun.co.uk/sport/41022084/mannchester-united-dealt-fresh-injury-blow-with-patrick-dorgu/",
+    "title": "Man Utd dealt fresh injury blow as Patrick Dorgu PULLS OUT of Denmark duty just days after making comeback",
+    "ko": "맨유, 도르구 덴마크 대표팀 소집 철회로 부상 악재",
+    "source": "sun",
+    "publishedAt": "2026-11-14T07:42:49.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "파트릭 도르구"
+    ],
+    "playerTags": [],
+    "author": "Jo Aujla",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-14T07:42:49.000Z",
+   "viaQuote": false
+  },
+  "headline": "Man Utd dealt fresh injury blow as Patrick Dorgu PULLS OUT of Denmark duty just days after making comeback"
+ },
+ {
   "slug": "thierno-barry-everton-transfer",
   "mode": "llm",
   "titleKo": "에버턴 티에르노 배리 영입 위기",
@@ -89,7 +331,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.12,
+  "score": 1.81,
   "topTier": 2,
   "stageHistory": [
    {
@@ -163,7 +405,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
+  "score": 0.51,
   "topTier": 4,
   "stageHistory": [
    {
@@ -237,7 +479,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
+  "score": 0.51,
   "topTier": 4,
   "stageHistory": [
    {
@@ -391,6 +633,24 @@
     "transfer": null
    },
    {
+    "id": "8a759eeac432",
+    "url": "https://www.skysports.com/football/news/12040/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision",
+    "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
+    "ko": "오워노, 데 미겔 사망 사고로 12경기 출장 정지",
+    "source": "sky",
+    "publishedAt": "2026-11-14T07:22:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
     "id": "76e94542db84",
     "url": "https://www.dailystar.co.uk/sport/football/jesus-de-miguel-death-goalkeeper-37876832",
     "title": "Jesus Owono given maximum ban for tackle that resulted in Jesus de Miguel's tragic death",
@@ -410,9 +670,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 7,
-  "sourceCount": 7,
-  "score": 3.05,
+  "recentSources": 8,
+  "sourceCount": 8,
+  "score": 4.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -538,7 +798,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 3.26,
+  "score": 2.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3974,9 +4234,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 6,
+  "recentSources": 5,
   "sourceCount": 17,
-  "score": 4.38,
+  "score": 3.69,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4104,7 +4364,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.45,
+  "score": 2.13,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4235,9 +4495,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.95,
+  "score": 0.47,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5205,7 +5465,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.81,
+  "score": 1.55,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5269,7 +5529,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.52,
+  "score": 1.3,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9147,7 +9407,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 18,
-  "score": 1.28,
+  "score": 1.1,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9208,7 +9468,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.28,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9283,7 +9543,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.17,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9310,135 +9570,6 @@
    "viaQuote": false
   },
   "headline": "Bryan Mbeumo sends message to Mauricio Pochettino as £40m striker linked to Man United"
- },
- {
-  "slug": "pochettino-man-utd-transfer",
-  "mode": "llm",
-  "titleKo": "포체티노 맨유 첫 영입 후보 토트넘 선수",
-  "createdAt": "2026-11-13T07:00:00.000Z",
-  "updatedAt": "2026-11-14T04:00:00.000Z",
-  "category": "transfer",
-  "stage": "negotiation",
-  "clubs": [
-   "tottenham",
-   "man-utd",
-   "arsenal"
-  ],
-  "players": [],
-  "sig": [
-   "pochettino"
-  ],
-  "articles": [
-   {
-    "id": "8faddab0953d",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/mauricio-pochettino-should-raid-tottenham-34903111",
-    "title": "Mauricio Pochettino should raid Tottenham for 'priceless' star as first Man Utd transfer decided",
-    "ko": "포체티노, 첫 맨유 영입으로 토트넘 선수 노릴 가능성",
-    "source": "fblondon",
-    "publishedAt": "2026-11-13T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "tottenham",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "2b3694f06bf4",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-signings-37874169",
-    "title": "Mauricio Pochettino's first two January signings picked as Man Utd 'begin talks'",
-    "ko": "포체티노 맨유 1월 첫 영입 두 명 선정, 협상 시작 단계",
-    "source": "mirror",
-    "publishedAt": "2026-11-13T12:38:52.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [],
-    "playerTags": [],
-    "author": "Amos Murphy, Ben Crawford",
-    "transfer": null
-   },
-   {
-    "id": "c8428f7748b9",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-mauricio-pochettino-34909474",
-    "title": "Man United complete first transfer of Mauricio Pochettino era as wonderkid joins",
-    "ko": "맨유, 포체티노 체제 첫 영입 완료…유망주 합류",
-    "source": "men",
-    "publishedAt": "2026-11-13T16:15:59.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [],
-    "playerTags": [],
-    "author": "Matthew Abbott, Ben Crawford",
-    "transfer": null
-   },
-   {
-    "id": "6b53339dd780",
-    "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-mauricio-pochettino-folarin-balogun-34910808",
-    "title": "Arsenal set for transfer windfall as Mauricio Pochettino ‘asks Man Utd for two players’",
-    "ko": "아스널, 포체티노가 맨유에 선수 2명 요청했다는 보도에 이적 수입 기대",
-    "source": "fblondon",
-    "publishedAt": "2026-11-14T04:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [],
-    "playerTags": [],
-    "author": "Amie Wilson",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 3,
-  "score": 1.08,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "8faddab0953d",
-    "at": "2026-11-13T07:00:00.000Z",
-    "source": "fblondon",
-    "from": null,
-    "to": "interest"
-   },
-   {
-    "id": "c8428f7748b9",
-    "at": "2026-11-13T16:15:59.000Z",
-    "source": "men",
-    "from": "interest",
-    "to": "negotiation"
-   }
-  ],
-  "stageChange": {
-   "from": "interest",
-   "to": "negotiation",
-   "at": "2026-11-13T16:15:59.000Z",
-   "source": "men"
-  },
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-13T07:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Arsenal set for transfer windfall as Mauricio Pochettino ‘asks Man Utd for two players’"
  },
  {
   "slug": "argentina-national-team-affairs-rebuild",
@@ -9480,7 +9611,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.99,
+  "score": 0.84,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9733,7 +9864,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 8,
-  "score": 1.84,
+  "score": 1.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9782,7 +9913,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9831,7 +9962,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9889,7 +10020,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9940,7 +10071,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9994,7 +10125,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.46,
+  "score": 0.39,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10085,7 +10216,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.56,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10388,7 +10519,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 8,
-  "score": 0.53,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10550,7 +10681,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 1.28,
+  "score": 1.09,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10752,7 +10883,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 4,
-  "score": 0.62,
+  "score": 0.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10806,7 +10937,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10877,9 +11008,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.69,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11061,7 +11192,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11128,7 +11259,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11198,7 +11329,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11316,7 +11447,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 0.83,
+  "score": 0.71,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11443,7 +11574,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11508,7 +11639,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11710,7 +11841,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11776,7 +11907,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11842,7 +11973,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11889,9 +12020,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11938,9 +12069,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11987,9 +12118,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12035,9 +12166,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12090,9 +12221,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12145,9 +12276,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12214,9 +12345,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12262,9 +12393,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12353,9 +12484,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
