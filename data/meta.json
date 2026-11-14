@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T22:27:28.608Z",
+ "updatedAt": "2026-11-14T23:06:25.025Z",
  "hot": [
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
   "norway-wales-2026-11-12",
   "england-spain-2026-11-14",
-  "ronaldo-tribute-2026-11-14"
+  "ireland-austria-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -38,8 +38,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 62,
-   "added": 1,
+   "items": 63,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -51,7 +51,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,8 +93,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 80
+   "added": 3,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -171,7 +171,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
@@ -188,7 +188,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -316,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 53,
+  "recentIssues": 229,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 150
+    "count": 148
    },
    {
     "slug": "carrick-manager-future",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 33
+    "count": 36
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -346,6 +346,10 @@
    {
     "slug": "crystal-palace-manager-future",
     "count": 16
+   },
+   {
+    "slug": "england-spain-2026-11-14",
+    "count": 15
    }
   ]
  },
@@ -386,6 +390,10 @@
     },
     {
      "ko": "조르즈 제주스",
+     "count": 2
+    },
+    {
+     "ko": "하이메 제수스",
      "count": 2
     },
     {
@@ -444,7 +452,7 @@
    "variants": [
     {
      "ko": "데 라 푸엔테",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "델라 푸엔테",
@@ -1237,8 +1245,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 347,
-   "llm": 347
+   "collected": 370,
+   "llm": 370
   }
  },
  "llmErrors": []
