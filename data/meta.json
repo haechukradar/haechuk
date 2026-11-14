@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T06:15:30.672Z",
+ "updatedAt": "2026-11-14T07:34:18.391Z",
  "hot": [
-  "jesus-owono-discipline",
   "pochettino-man-utd-manager-future",
-  "netherlands-greece-2026-11-13",
   "uruguay-argentina-2026-11-13",
-  "serbia-germany-2026-11-13"
+  "jesus-owono-discipline",
+  "portugal-denmark-2026-11-13",
+  "thierno-barry-everton-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -37,20 +37,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 0,
+   "items": 77,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 0,
+   "items": 59,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -86,13 +86,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 3,
    "authorRate": 68
   },
   "fblondon": {
@@ -104,13 +104,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -140,25 +140,25 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -170,32 +170,32 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 3,
+   "added": 3,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 72
+   "count": 73
   },
   {
    "name": "오워노",
@@ -207,7 +207,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 31
+   "count": 32
   },
   {
    "name": "노이어",
@@ -238,11 +238,11 @@
    "count": 17
   },
   {
-   "name": "이스테방",
-   "count": 14
+   "name": "티에르노 배리",
+   "count": 15
   },
   {
-   "name": "티에르노 배리",
+   "name": "이스테방",
    "count": 14
   },
   {
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 207,
+  "recentIssues": 205,
   "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 178
+    "count": 180
    },
    {
     "slug": "carrick-manager-future",
-    "count": 96
+    "count": 95
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -335,16 +335,30 @@
     "count": 20
    },
    {
-    "slug": "crystal-palace-manager-future",
-    "count": 19
+    "slug": "kane-award",
+    "count": 18
    },
    {
-    "slug": "kane-award",
+    "slug": "crystal-palace-manager-future",
     "count": 18
    }
   ]
  },
  "nameReport": [
+  {
+   "en": "Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 27
+    },
+    {
+     "ko": "클로프",
+     "count": 1
+    }
+   ]
+  },
   {
    "en": "Pierre Sage",
    "dictionary": null,
@@ -408,27 +422,9 @@
     {
      "ko": "마크 반 보멜",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 7
     },
     {
-     "ko": "마티아스 야이슬레",
-     "count": 2
-    },
-    {
-     "ko": "마티아스 자이슬",
-     "count": 1
-    },
-    {
-     "ko": "매티아스 야이슬레",
+     "ko": "마르크 반 봄멜",
      "count": 1
     }
    ]
@@ -470,6 +466,28 @@
    ]
   },
   {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 7
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 1
+    },
+    {
+     "ko": "마티아스 자이슬",
+     "count": 1
+    },
+    {
+     "ko": "매티아스 야이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -483,6 +501,32 @@
     },
     {
      "ko": "파울루 퐁세카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헤수스 오워노",
+     "count": 3
+    },
+    {
+     "ko": "오워노",
+     "count": 2
+    },
+    {
+     "ko": "헤수스 오우오노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오웅고노",
+     "count": 1
+    },
+    {
+     "ko": "제수스 오워노",
      "count": 1
     }
    ]
@@ -519,28 +563,6 @@
     },
     {
      "ko": "아르다 귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesús Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헤수스 오워노",
-     "count": 3
-    },
-    {
-     "ko": "오워노",
-     "count": 2
-    },
-    {
-     "ko": "헤수스 오우오노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오웅고노",
      "count": 1
     }
    ]
@@ -732,6 +754,20 @@
    ]
   },
   {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "막시 아라우호",
+     "count": 2
+    },
+    {
+     "ko": "마시 아라우호",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -759,38 +795,6 @@
     },
     {
      "ko": "페드로 포로",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Liam Delap",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리앰 델랍",
-     "count": 1
-    },
-    {
-     "ko": "리엄 델랍",
-     "count": 1
-    },
-    {
-     "ko": "리엄 델랩",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Conor Gallagher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "코너 갤러거",
-     "count": 2
-    },
-    {
-     "ko": "콘어 갤러거",
      "count": 1
     }
    ]
@@ -851,20 +855,6 @@
     },
     {
      "ko": "던 번",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Maxi Araújo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "막시 아라우호",
-     "count": 2
-    },
-    {
-     "ko": "마시 아라우호",
      "count": 1
     }
    ]
@@ -1088,6 +1078,20 @@
    ]
   },
   {
+   "en": "Liam Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리엄 델랍",
+     "count": 1
+    },
+    {
+     "ko": "리엄 델랩",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pelágio",
    "dictionary": null,
    "variants": [
@@ -1220,8 +1224,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 467,
-   "llm": 467
+   "collected": 499,
+   "llm": 499
   }
  },
  "llmErrors": []
