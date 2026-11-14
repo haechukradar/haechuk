@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T18:53:07.177Z",
+ "updatedAt": "2026-11-14T19:35:41.109Z",
  "hot": [
   "norway-wales-2026-11-12",
+  "chelsea-man-city-2026-11-14",
   "japan-brazil-2026-11-14",
   "portugal-denmark-2026-11-13",
-  "chelsea-man-city-2026-11-14",
-  "jesus-owono-discipline"
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -38,15 +38,15 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 63,
-   "added": 1,
+   "items": 61,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 57,
-   "added": 0,
-   "authorRate": 96
+   "items": 58,
+   "added": 3,
+   "authorRate": 97
   },
   "sky": {
    "ok": true,
@@ -74,8 +74,8 @@
   },
   "as": {
    "ok": true,
-   "items": 49,
-   "added": 7,
+   "items": 50,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,14 +87,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 4,
-   "authorRate": 84
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -105,7 +105,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -171,25 +171,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 4,
+   "items": 12,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -316,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
-  "singleArticleRate": 52,
+  "recentIssues": 212,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 159
+    "count": 157
    },
    {
     "slug": "carrick-manager-future",
@@ -334,6 +334,10 @@
    {
     "slug": "england-croatia-2026-11-12",
     "count": 20
+   },
+   {
+    "slug": "norway-wales-2026-11-12",
+    "count": 16
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -381,11 +385,11 @@
      "count": 1
     },
     {
-     "ko": "조르제 예수스",
+     "ko": "제수스",
      "count": 1
     },
     {
-     "ko": "제수스",
+     "ko": "조르제 예수스",
      "count": 1
     }
    ]
@@ -409,20 +413,6 @@
     {
      "ko": "피에르 사게",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 7
-    },
-    {
-     "ko": "튀헬",
-     "count": 7
     }
    ]
   },
@@ -457,20 +447,16 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
+   "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 5
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 4
+     "count": 7
     },
     {
      "ko": "튀헬",
-     "count": 3
+     "count": 6
     }
    ]
   },
@@ -515,6 +501,20 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델라 푸엔테",
+     "count": 6
+    },
+    {
+     "ko": "데 라 푸엔테",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -533,16 +533,20 @@
    ]
   },
   {
-   "en": "De la Fuente",
+   "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
     {
-     "ko": "델라 푸엔테",
-     "count": 5
+     "ko": "토마스 투헬",
+     "count": 4
     },
     {
-     "ko": "데 라 푸엔테",
+     "ko": "튀헬",
      "count": 3
+    },
+    {
+     "ko": "투헬",
+     "count": 2
     }
    ]
   },
@@ -773,20 +777,6 @@
    ]
   },
   {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 3
-    },
-    {
-     "ko": "던 번",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Charles De Ketelaere",
    "dictionary": null,
    "variants": [
@@ -795,15 +785,15 @@
      "count": 1
     },
     {
+     "ko": "샤를 드케텔레레",
+     "count": 1
+    },
+    {
      "ko": "찰스 드 케테라레",
      "count": 1
     },
     {
      "ko": "샤를 더 케테라에레",
-     "count": 1
-    },
-    {
-     "ko": "샤를 드케텔레레",
      "count": 1
     }
    ]
@@ -1169,6 +1159,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 보멜",
+     "count": 1
+    },
+    {
+     "ko": "반 봄멜",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1237,8 +1241,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 195,
-   "llm": 195
+   "collected": 224,
+   "llm": 224
   }
  },
  "llmErrors": []
