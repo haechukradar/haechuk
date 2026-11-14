@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T13:57:54.006Z",
+ "updatedAt": "2026-11-14T14:38:52.797Z",
  "hot": [
   "japan-brazil-2026-11-14",
   "uruguay-argentina-2026-11-13",
@@ -37,8 +37,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 74,
-   "added": 0,
+   "items": 69,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -50,19 +50,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 22,
+   "added": 2,
+   "authorRate": 91
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -86,31 +86,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -134,7 +134,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -146,31 +146,31 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
@@ -182,13 +182,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 4,
+   "items": 9,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -315,8 +315,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
-  "singleArticleRate": 54,
+  "recentIssues": 220,
+  "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -336,7 +336,7 @@
    },
    {
     "slug": "kane-award",
-    "count": 18
+    "count": 17
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -438,24 +438,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 6
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -466,6 +448,24 @@
     {
      "ko": "튀헬",
      "count": 5
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 5
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "튀헬",
+     "count": 3
     }
    ]
   },
@@ -524,6 +524,24 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 5
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 3
+    },
+    {
+     "ko": "스티븐 보르손",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jesús Owono",
    "dictionary": null,
    "variants": [
@@ -545,24 +563,6 @@
     },
     {
      "ko": "제수스 오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 5
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 2
-    },
-    {
-     "ko": "스티븐 보르손",
      "count": 1
     }
    ]
@@ -1232,8 +1232,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 678,
-   "llm": 678
+   "collected": 700,
+   "llm": 700
   }
  },
  "llmErrors": []
