@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T12:10:40.381Z",
+ "updatedAt": "2026-11-14T13:00:31.884Z",
  "hot": [
   "pochettino-man-utd-manager-future",
-  "uruguay-argentina-2026-11-13",
-  "portugal-denmark-2026-11-13",
   "japan-brazil-2026-11-14",
-  "pochettino-man-utd-transfer"
+  "uruguay-argentina-2026-11-13",
+  "chelsea-man-city-2026-11-14",
+  "portugal-denmark-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -37,27 +37,27 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 78,
+   "items": 75,
    "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 0,
-   "authorRate": 97
+   "items": 57,
+   "added": 1,
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 21,
+   "items": 0,
    "added": 0,
-   "authorRate": 90
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,31 +86,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -140,19 +140,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -170,24 +170,24 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
-   "authorRate": 93
+   "added": 4,
+   "authorRate": 97
   },
   "star": {
-   "ok": true,
-   "items": 25,
-   "added": 1,
-   "authorRate": 100
-  },
-  "mirror": {
    "ok": true,
    "items": 25,
    "added": 0,
    "authorRate": 100
   },
+  "mirror": {
+   "ok": true,
+   "items": 25,
+   "added": 1,
+   "authorRate": 100
+  },
   "fbinsider": {
    "ok": true,
-   "items": 11,
+   "items": 10,
    "added": 0,
    "authorRate": 0
   }
@@ -270,16 +270,16 @@
    "count": 13
   },
   {
+   "name": "리산드로 마르티네스",
+   "count": 12
+  },
+  {
    "name": "콘사",
    "count": 12
   },
   {
    "name": "지단",
    "count": 12
-  },
-  {
-   "name": "리산드로 마르티네스",
-   "count": 11
   },
   {
    "name": "마두에케",
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
-  "singleArticleRate": 52,
+  "recentIssues": 213,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 172
+    "count": 165
    },
    {
     "slug": "carrick-manager-future",
-    "count": 80
+    "count": 78
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -340,7 +340,7 @@
    },
    {
     "slug": "crystal-palace-manager-future",
-    "count": 18
+    "count": 17
    }
   ]
  },
@@ -351,7 +351,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 27
+     "count": 26
     },
     {
      "ko": "클로프",
@@ -412,6 +412,36 @@
    ]
   },
   {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 6
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마크 반 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마르크 판 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마크 반 보멜",
+     "count": 1
+    },
+    {
+     "ko": "마르크 반 봄멜",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
@@ -426,36 +456,6 @@
     {
      "ko": "튀헬",
      "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 6
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마크 반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "마크 반 보멜",
-     "count": 1
-    },
-    {
-     "ko": "마르크 반 봄멜",
-     "count": 1
     }
    ]
   },
@@ -496,24 +496,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 7
-    },
-    {
-     "ko": "포폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -524,6 +506,24 @@
     {
      "ko": "데 라 푸엔테",
      "count": 4
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 6
+    },
+    {
+     "ko": "포폰세카",
+     "count": 2
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 1
     }
    ]
   },
@@ -666,6 +666,20 @@
    ]
   },
   {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 3
+    },
+    {
+     "ko": "개리 네빌",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Valérien Ismaël",
    "dictionary": null,
    "variants": [
@@ -675,24 +689,6 @@
     },
     {
      "ko": "발레리앵 이스마엘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senny Mayulu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세니 마율루",
-     "count": 2
-    },
-    {
-     "ko": "세니 마유루",
-     "count": 1
-    },
-    {
-     "ko": "세니 마윜루",
      "count": 1
     }
    ]
@@ -708,20 +704,6 @@
     {
      "ko": "디오망드",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gary Neville",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "개리 네빌",
-     "count": 2
-    },
-    {
-     "ko": "게리 네빌",
-     "count": 2
     }
    ]
   },
@@ -864,6 +846,24 @@
    ]
   },
   {
+   "en": "Senny Mayulu",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세니 마율루",
+     "count": 1
+    },
+    {
+     "ko": "세니 마유루",
+     "count": 1
+    },
+    {
+     "ko": "세니 마윜루",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Robert Sanchez",
    "dictionary": null,
    "variants": [
@@ -942,6 +942,24 @@
    ]
   },
   {
+   "en": "Charles De Ketelaere",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "샤를 드 케텔라에레",
+     "count": 1
+    },
+    {
+     "ko": "샤를 더 케테라에레",
+     "count": 1
+    },
+    {
+     "ko": "찰스 드 케테라레",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Patrick Dorgu",
    "dictionary": null,
    "variants": [
@@ -951,20 +969,6 @@
     },
     {
      "ko": "패트릭 도르구",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Treu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "트라우",
-     "count": 1
-    },
-    {
-     "ko": "트로이",
      "count": 1
     }
    ]
@@ -993,6 +997,20 @@
     },
     {
      "ko": "블랭크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제이미 카라거",
+     "count": 1
+    },
+    {
+     "ko": "재미 캐러거",
      "count": 1
     }
    ]
@@ -1150,20 +1168,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Marco Ferreira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 페레이라",
-     "count": 1
-    },
-    {
-     "ko": "마르코 페헤이라",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1228,8 +1232,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 622,
-   "llm": 622
+   "collected": 645,
+   "llm": 645
   }
  },
  "llmErrors": []
