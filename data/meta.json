@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T18:05:46.115Z",
+ "updatedAt": "2026-11-14T18:53:07.177Z",
  "hot": [
   "norway-wales-2026-11-12",
   "japan-brazil-2026-11-14",
+  "portugal-denmark-2026-11-13",
   "chelsea-man-city-2026-11-14",
-  "jesus-owono-discipline",
-  "england-spain-2026-11-14"
+  "jesus-owono-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -38,8 +38,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 0,
+   "items": 63,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -51,14 +51,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 22,
+   "items": 0,
    "added": 0,
-   "authorRate": 86
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 49,
-   "added": 9,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,25 +87,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 80
+   "added": 4,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -165,7 +165,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -177,19 +177,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 11,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -291,6 +291,10 @@
    "count": 12
   },
   {
+   "name": "호나우지뉴",
+   "count": 12
+  },
+  {
    "name": "마두에케",
    "count": 11
   },
@@ -309,19 +313,15 @@
   {
    "name": "보글",
    "count": 11
-  },
-  {
-   "name": "모히아",
-   "count": 10
   }
  ],
  "issueHealth": {
   "recentIssues": 210,
-  "singleArticleRate": 53,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 157
+    "count": 159
    },
    {
     "slug": "carrick-manager-future",
@@ -338,10 +338,6 @@
    {
     "slug": "crystal-palace-manager-future",
     "count": 16
-   },
-   {
-    "slug": "kane-award",
-    "count": 15
    }
   ]
  },
@@ -356,6 +352,40 @@
     },
     {
      "ko": "클로프",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 7
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 4
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 2
+    },
+    {
+     "ko": "호르헤 제주스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수",
+     "count": 1
+    },
+    {
+     "ko": "조르제 예수스",
+     "count": 1
+    },
+    {
+     "ko": "제수스",
      "count": 1
     }
    ]
@@ -388,41 +418,11 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "튀헬",
      "count": 7
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 7
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수",
-     "count": 1
-    },
-    {
-     "ko": "조르제 예수스",
-     "count": 1
     }
    ]
   },
@@ -432,14 +432,14 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 6
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 2
+     "count": 5
     },
     {
      "ko": "마크 반 봄멜",
+     "count": 3
+    },
+    {
+     "ko": "마크 판 봄멜",
      "count": 2
     },
     {
@@ -515,20 +515,6 @@
    ]
   },
   {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "델라 푸엔테",
-     "count": 5
-    },
-    {
-     "ko": "데 라 푸엔테",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -543,6 +529,20 @@
     {
      "ko": "파울루 퐁세카",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델라 푸엔테",
+     "count": 5
+    },
+    {
+     "ko": "데 라 푸엔테",
+     "count": 3
     }
    ]
   },
@@ -685,20 +685,6 @@
    ]
   },
   {
-   "en": "Valérien Ismaël",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "발레리앙 이스마엘",
-     "count": 4
-    },
-    {
-     "ko": "발레리앵 이스마엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
@@ -773,16 +759,52 @@
    ]
   },
   {
-   "en": "Maxi Araújo",
+   "en": "Valérien Ismaël",
    "dictionary": null,
    "variants": [
     {
-     "ko": "막시 아라우호",
-     "count": 2
+     "ko": "발레리앙 이스마엘",
+     "count": 3
     },
     {
-     "ko": "마시 아라우호",
-     "count": 2
+     "ko": "발레리앵 이스마엘",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dan Burn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "댄 번",
+     "count": 3
+    },
+    {
+     "ko": "던 번",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Charles De Ketelaere",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "샤를 드 케텔라에레",
+     "count": 1
+    },
+    {
+     "ko": "찰스 드 케테라레",
+     "count": 1
+    },
+    {
+     "ko": "샤를 더 케테라에레",
+     "count": 1
+    },
+    {
+     "ko": "샤를 드케텔레레",
+     "count": 1
     }
    ]
   },
@@ -828,20 +850,6 @@
     },
     {
      "ko": "디살보",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 2
-    },
-    {
-     "ko": "던 번",
      "count": 1
     }
    ]
@@ -902,24 +910,6 @@
     },
     {
      "ko": "다비데 프라텟시",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Charles De Ketelaere",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "샤를 드 케텔라에레",
-     "count": 1
-    },
-    {
-     "ko": "찰스 드 케테라레",
-     "count": 1
-    },
-    {
-     "ko": "샤를 더 케테라에레",
      "count": 1
     }
    ]
@@ -1008,20 +998,6 @@
     },
     {
      "ko": "마이키 무어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라맨스",
-     "count": 1
-    },
-    {
-     "ko": "라머스",
      "count": 1
     }
    ]
@@ -1165,6 +1141,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Güler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "귀데르",
+     "count": 1
+    },
+    {
+     "ko": "귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회네스",
+     "count": 1
+    },
+    {
+     "ko": "회너스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1233,8 +1237,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 154,
-   "llm": 154
+   "collected": 195,
+   "llm": 195
   }
  },
  "llmErrors": []
