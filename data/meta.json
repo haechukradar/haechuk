@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:55:39.790Z",
+ "updatedAt": "2026-11-14T11:29:02.825Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "uruguay-argentina-2026-11-13",
@@ -38,7 +38,7 @@
   "bbc": {
    "ok": true,
    "items": 78,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -55,9 +55,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 2,
+   "authorRate": 90
   },
   "athletic": {
    "ok": true,
@@ -86,19 +86,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 4,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -110,13 +110,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -170,24 +170,24 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
+   "items": 15,
    "added": 2,
    "authorRate": 0
   }
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
-  "singleArticleRate": 51,
+  "recentIssues": 212,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 171
+    "count": 173
    },
    {
     "slug": "carrick-manager-future",
-    "count": 81
+    "count": 80
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -576,6 +576,20 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 5
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
@@ -593,20 +607,6 @@
     },
     {
      "ko": "센 람멘스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 5
-    },
-    {
-     "ko": "스테판 보슨",
      "count": 1
     }
    ]
@@ -1232,8 +1232,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 584,
-   "llm": 584
+   "collected": 603,
+   "llm": 603
   }
  },
  "llmErrors": []
