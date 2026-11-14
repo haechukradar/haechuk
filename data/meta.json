@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T04:21:32.728Z",
+ "updatedAt": "2026-11-14T05:19:03.577Z",
  "hot": [
   "jesus-owono-discipline",
   "pochettino-man-utd-manager-future",
@@ -55,14 +55,14 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 23,
+   "added": 1,
+   "authorRate": 87
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -92,25 +92,25 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 68
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 5,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -140,13 +140,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -158,7 +158,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -227,7 +227,7 @@
   },
   {
    "name": "알리송",
-   "count": 23
+   "count": 24
   },
   {
    "name": "트레솔디",
@@ -315,12 +315,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 203,
-  "singleArticleRate": 50,
+  "recentIssues": 206,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 177
+    "count": 178
    },
    {
     "slug": "carrick-manager-future",
@@ -980,20 +980,6 @@
    ]
   },
   {
-   "en": "Hugo Oliveira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "위고 올리베이라",
-     "count": 1
-    },
-    {
-     "ko": "후고 올리베이라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
@@ -1160,6 +1146,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Marco Ferreira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 페레이라",
+     "count": 1
+    },
+    {
+     "ko": "마르코 페헤이라",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1224,8 +1224,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 440,
-   "llm": 440
+   "collected": 452,
+   "llm": 452
   }
  },
  "llmErrors": []
