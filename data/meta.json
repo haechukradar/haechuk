@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T23:06:25.025Z",
+ "updatedAt": "2026-11-14T23:44:12.814Z",
  "hot": [
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
+  "usa-haiti-2026-11-14",
   "norway-wales-2026-11-12",
-  "england-spain-2026-11-14",
-  "ireland-austria-2026-11-13"
+  "england-spain-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -39,7 +39,7 @@
   "bbc": {
    "ok": true,
    "items": 63,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -51,19 +51,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 3,
+   "authorRate": 76
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -93,8 +93,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 76
+   "added": 5,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -183,12 +183,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -271,6 +271,10 @@
    "count": 13
   },
   {
+   "name": "베르나르두 실바",
+   "count": 13
+  },
+  {
    "name": "리산드로 마르티네스",
    "count": 12
   },
@@ -284,10 +288,6 @@
   },
   {
    "name": "발로군",
-   "count": 12
-  },
-  {
-   "name": "베르나르두 실바",
    "count": 12
   },
   {
@@ -316,8 +316,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 229,
-  "singleArticleRate": 54,
+  "recentIssues": 228,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -328,12 +328,12 @@
     "count": 73
    },
    {
-    "slug": "italy-france-2026-11-12",
-    "count": 38
+    "slug": "portugal-denmark-2026-11-13",
+    "count": 42
    },
    {
-    "slug": "portugal-denmark-2026-11-13",
-    "count": 36
+    "slug": "italy-france-2026-11-12",
+    "count": 39
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -389,11 +389,15 @@
      "count": 2
     },
     {
+     "ko": "하이메 제수스",
+     "count": 2
+    },
+    {
      "ko": "조르즈 제주스",
      "count": 2
     },
     {
-     "ko": "하이메 제수스",
+     "ko": "하이메 헤수스",
      "count": 2
     },
     {
@@ -416,7 +420,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "튀헬",
@@ -452,7 +456,7 @@
    "variants": [
     {
      "ko": "데 라 푸엔테",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "델라 푸엔테",
@@ -466,7 +470,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "마크 반 봄멜",
@@ -1245,8 +1249,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 370,
-   "llm": 370
+   "collected": 394,
+   "llm": 394
   }
  },
  "llmErrors": []
