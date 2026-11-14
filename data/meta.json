@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T09:18:10.699Z",
+ "updatedAt": "2026-11-14T10:13:07.690Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "uruguay-argentina-2026-11-13",
   "jesus-owono-discipline",
   "norway-wales-2026-11-12",
-  "portugal-denmark-2026-11-13"
+  "serbia-germany-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -38,13 +38,13 @@
   "bbc": {
    "ok": true,
    "items": 78,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
@@ -62,7 +62,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -92,19 +92,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 68
+   "added": 2,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -140,19 +140,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -164,7 +164,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -187,8 +187,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 6,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -298,6 +298,10 @@
    "count": 11
   },
   {
+   "name": "도르구",
+   "count": 11
+  },
+  {
    "name": "보글",
    "count": 11
   },
@@ -308,23 +312,19 @@
   {
    "name": "그라벤베르흐",
    "count": 10
-  },
-  {
-   "name": "해밀턴",
-   "count": 10
   }
  ],
  "issueHealth": {
-  "recentIssues": 205,
-  "singleArticleRate": 51,
+  "recentIssues": 209,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 178
+    "count": 172
    },
    {
     "slug": "carrick-manager-future",
-    "count": 83
+    "count": 82
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -394,11 +394,11 @@
      "count": 2
     },
     {
-     "ko": "호르헤 제수스",
+     "ko": "호르헤 제주스",
      "count": 2
     },
     {
-     "ko": "호르헤 제주스",
+     "ko": "호르헤 제수스",
      "count": 2
     },
     {
@@ -808,6 +808,24 @@
    ]
   },
   {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 2
+    },
+    {
+     "ko": "차비",
+     "count": 1
+    },
+    {
+     "ko": "샤비",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pedro Porro",
    "dictionary": null,
    "variants": [
@@ -951,24 +969,6 @@
     },
     {
      "ko": "패트릭 도르구",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "차비",
-     "count": 1
-    },
-    {
-     "ko": "샤비",
-     "count": 1
-    },
-    {
-     "ko": "사비",
      "count": 1
     }
    ]
@@ -1232,8 +1232,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 552,
-   "llm": 552
+   "collected": 568,
+   "llm": 568
   }
  },
  "llmErrors": []
