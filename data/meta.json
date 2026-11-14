@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T10:13:07.690Z",
+ "updatedAt": "2026-11-14T10:55:39.790Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "uruguay-argentina-2026-11-13",
-  "jesus-owono-discipline",
-  "norway-wales-2026-11-12",
-  "serbia-germany-2026-11-13"
+  "portugal-denmark-2026-11-13",
+  "japan-brazil-2026-11-14",
+  "pochettino-man-utd-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -50,7 +50,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -86,38 +86,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 85
+   "added": 1,
+   "authorRate": 83
   },
   "waz": {
    "ok": true,
@@ -140,19 +140,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -164,7 +164,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -182,13 +182,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 1,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -315,16 +315,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 209,
-  "singleArticleRate": 52,
+  "recentIssues": 210,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 172
+    "count": 171
    },
    {
     "slug": "carrick-manager-future",
-    "count": 82
+    "count": 81
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -360,6 +360,36 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 7
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 3
+    },
+    {
+     "ko": "호르헤 제주스",
+     "count": 2
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르제 주제",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 제수",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -377,36 +407,6 @@
     },
     {
      "ko": "피에르 사게",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 7
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르제 주제",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 제수",
      "count": 1
     }
    ]
@@ -826,20 +826,6 @@
    ]
   },
   {
-   "en": "Pedro Porro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드루 포로",
-     "count": 2
-    },
-    {
-     "ko": "페드로 포로",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mohya",
    "dictionary": null,
    "variants": [
@@ -1168,6 +1154,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Marco Ferreira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 페레이라",
+     "count": 1
+    },
+    {
+     "ko": "마르코 페헤이라",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1232,8 +1232,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 568,
-   "llm": 568
+   "collected": 584,
+   "llm": 584
   }
  },
  "llmErrors": []
