@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-14T01:34:54.909Z",
+ "updatedAt": "2026-11-14T02:29:04.089Z",
  "hot": [
   "jesus-owono-discipline",
   "pochettino-man-utd-manager-future",
   "netherlands-greece-2026-11-13",
-  "man-city-affairs-charges-20261109",
+  "uruguay-argentina-2026-11-13",
   "serbia-germany-2026-11-13"
  ],
  "days": [
@@ -55,9 +55,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 3,
+   "authorRate": 88
   },
   "athletic": {
    "ok": true,
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,8 +92,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 70
+   "added": 1,
+   "authorRate": 68
   },
   "fblondon": {
    "ok": true,
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -170,7 +170,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -315,7 +315,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 202,
+  "recentIssues": 203,
   "singleArticleRate": 50,
   "broad": [
    {
@@ -962,6 +962,24 @@
    ]
   },
   {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "샤비",
+     "count": 1
+    },
+    {
+     "ko": "사비",
+     "count": 1
+    },
+    {
+     "ko": "차비",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Treu",
    "dictionary": null,
    "variants": [
@@ -1142,20 +1160,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Ivan Baptista",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이바 바티스타",
-     "count": 1
-    },
-    {
-     "ko": "이반 바티스타",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1220,8 +1224,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 424,
-   "llm": 424
+   "collected": 430,
+   "llm": 430
   }
  },
  "llmErrors": []
