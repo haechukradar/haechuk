@@ -4,7 +4,7 @@
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 확정",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-14T05:00:00.000Z",
+  "updatedAt": "2026-11-14T06:00:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -30,7 +30,8 @@
    "래시포드",
    "그릴리시",
    "마타이스 더 리흐트",
-   "디오고 달롯"
+   "디오고 달롯",
+   "포체티노"
   ],
   "sig": [
    "pochettino",
@@ -3350,11 +3351,35 @@
     "playerTags": [],
     "author": "Ross Jackson",
     "transfer": null
+   },
+   {
+    "id": "f3accf4191d1",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-team-mauricio-pochettino-37875314",
+    "title": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
+    "ko": "포체티노가 꿈꾸는 맨유 11인…브루노 교체·첼시 선수 영입",
+    "source": "mirror",
+    "publishedAt": "2026-11-14T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스",
+     "포체티노"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Mark Whiley",
+    "transfer": null
    }
   ],
-  "recentSources": 8,
+  "recentSources": 6,
   "sourceCount": 17,
-  "score": 2.51,
+  "score": 2.19,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3370,6 +3395,179 @@
    "viaQuote": true
   },
   "headline": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?"
+ },
+ {
+  "slug": "thierno-barry-everton-transfer",
+  "mode": "llm",
+  "titleKo": "에버턴 티에르노 배리 영입 위기",
+  "createdAt": "2026-11-13T07:00:00.000Z",
+  "updatedAt": "2026-11-14T06:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "everton"
+  ],
+  "players": [
+   "티에르노 배리"
+  ],
+  "sig": [
+   "thierno",
+   "barry"
+  ],
+  "articles": [
+   {
+    "id": "7e65be0167ed",
+    "url": "https://www.footballinsider247.com/everton/everton-are-sleepwalking-into-thierno-barry-calamity-action-must-be-taken",
+    "title": "Everton are sleepwalking into Thierno Barry calamity, action must be taken",
+    "ko": "에버턴, 티에르노 배리 영입 실패 위기 경고",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "티에르노 배리"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "티에르노 배리",
+     "from": null,
+     "to": "에버턴"
+    }
+   },
+   {
+    "id": "38c27b2c85c0",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/duncan-ferguson-thierno-barry-everton-34909649",
+    "title": "Duncan Ferguson delivers fresh Thierno Barry verdict as transfer plea made to Everton hierarchy",
+    "ko": "퍼거슨, 배리 평가 발언…에버턴 수뇌부에 영입 요구",
+    "source": "lecho",
+    "publishedAt": "2026-11-14T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "티에르노 배리"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": {
+     "player": "티에르노 배리",
+     "from": null,
+     "to": "에버턴"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.91,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "7e65be0167ed",
+    "at": "2026-11-13T07:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "티에르노 배리",
+   "from": null,
+   "to": "에버턴"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-13T07:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Duncan Ferguson delivers fresh Thierno Barry verdict as transfer plea made to Everton hierarchy"
+ },
+ {
+  "slug": "solanke-tottenham-transfer",
+  "mode": "llm",
+  "titleKo": "토트넘 솔랑케 영입 관심",
+  "createdAt": "2026-11-14T06:00:00.000Z",
+  "updatedAt": "2026-11-14T06:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "tottenham",
+   "arsenal"
+  ],
+  "players": [
+   "요한 랑에",
+   "솔랑케"
+  ],
+  "sig": [
+   "lange",
+   "dominic",
+   "solanke"
+  ],
+  "articles": [
+   {
+    "id": "57c77ffd4717",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/johan-lange-gets-tottenham-transfer-34909740",
+    "title": "Johan Lange gets Tottenham transfer instruction as Arsenal star backed to unlock Dominic Solanke",
+    "ko": "랑에 토트넘 이적 지시…아스널 선수 솔랑케 해제 기대",
+    "source": "fblondon",
+    "publishedAt": "2026-11-14T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham",
+     "arsenal"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "요한 랑에",
+     "솔랑케"
+    ],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": {
+     "player": "도미닉 솔랑케",
+     "from": "토트넘",
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.91,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "57c77ffd4717",
+    "at": "2026-11-14T06:00:00.000Z",
+    "source": "fblondon",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "도미닉 솔랑케",
+   "from": "토트넘",
+   "to": null
+  },
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-14T06:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Johan Lange gets Tottenham transfer instruction as Arsenal star backed to unlock Dominic Solanke"
  },
  {
   "slug": "carrick-manager-future",
@@ -7223,7 +7421,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 18,
-  "score": 1.89,
+  "score": 1.61,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7284,7 +7482,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.89,
+  "score": 1.61,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7359,7 +7557,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.74,
+  "score": 1.47,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7482,7 +7680,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.59,
+  "score": 1.35,
   "topTier": 2,
   "stageHistory": [
    {
@@ -7556,7 +7754,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.46,
+  "score": 1.24,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7630,7 +7828,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.05,
+  "score": 1.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7879,9 +8077,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 6,
   "sourceCount": 8,
-  "score": 2.29,
+  "score": 1.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7930,7 +8128,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.84,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7979,7 +8177,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.77,
+  "score": 0.65,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8037,7 +8235,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.22,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8088,7 +8286,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.7,
+  "score": 0.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8142,7 +8340,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8233,7 +8431,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.82,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8536,7 +8734,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 1.12,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8677,7 +8875,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 6,
-  "score": 3.64,
+  "score": 3.09,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8839,7 +9037,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 1.43,
+  "score": 1.22,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9041,7 +9239,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 1.61,
+  "score": 1.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9095,7 +9293,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9168,7 +9366,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.02,
+  "score": 0.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9350,7 +9548,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.17,
+  "score": 0.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9444,7 +9642,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9511,7 +9709,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9581,7 +9779,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9699,7 +9897,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 1.23,
+  "score": 1.04,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9826,7 +10024,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.54,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9891,7 +10089,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10093,7 +10291,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10159,7 +10357,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10225,7 +10423,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10274,7 +10472,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10323,7 +10521,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.13,
+  "score": 0.11,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -10372,7 +10570,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10420,7 +10618,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10475,7 +10673,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10530,7 +10728,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.11,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -10599,7 +10797,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10714,7 +10912,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10765,7 +10963,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10856,7 +11054,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.57,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10905,7 +11103,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10962,7 +11160,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11025,7 +11223,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11078,7 +11276,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11135,7 +11333,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11195,7 +11393,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11375,9 +11573,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 5,
-  "score": 0.72,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11442,7 +11640,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11865,7 +12063,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.32,
+  "score": 0.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12068,7 +12266,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12120,7 +12318,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12447,9 +12645,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 9,
-  "score": 0.29,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [
    {
@@ -12525,9 +12723,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12603,9 +12801,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -12716,9 +12914,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12764,9 +12962,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18401,78 +18599,6 @@
    "viaQuote": false
   },
   "headline": "Liverpool have already completed their first January signing - and it could lead to transfer exit"
- },
- {
-  "slug": "thierno-barry-everton-transfer",
-  "mode": "llm",
-  "titleKo": "에버턴 티에르노 배리 영입 위기",
-  "createdAt": "2026-11-13T07:00:00.000Z",
-  "updatedAt": "2026-11-13T07:00:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "everton"
-  ],
-  "players": [
-   "티에르노 배리"
-  ],
-  "sig": [
-   "thierno",
-   "barry"
-  ],
-  "articles": [
-   {
-    "id": "7e65be0167ed",
-    "url": "https://www.footballinsider247.com/everton/everton-are-sleepwalking-into-thierno-barry-calamity-action-must-be-taken",
-    "title": "Everton are sleepwalking into Thierno Barry calamity, action must be taken",
-    "ko": "에버턴, 티에르노 배리 영입 실패 위기 경고",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "티에르노 배리"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "티에르노 배리",
-     "from": null,
-     "to": "에버턴"
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "7e65be0167ed",
-    "at": "2026-11-13T07:00:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "티에르노 배리",
-   "from": null,
-   "to": "에버턴"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-13T07:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Everton are sleepwalking into Thierno Barry calamity, action must be taken"
  },
  {
   "slug": "france-belgium-2026-11-12",
