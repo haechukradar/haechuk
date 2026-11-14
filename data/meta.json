@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T17:27:56.509Z",
+ "updatedAt": "2026-11-14T18:05:46.115Z",
  "hot": [
   "norway-wales-2026-11-12",
   "japan-brazil-2026-11-14",
@@ -38,7 +38,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 65,
+   "items": 66,
    "added": 0,
    "authorRate": 0
   },
@@ -51,14 +51,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 23,
-   "added": 2,
-   "authorRate": 87
+   "items": 22,
+   "added": 0,
+   "authorRate": 86
   },
   "athletic": {
    "ok": true,
@@ -74,8 +74,8 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 6,
+   "items": 49,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,37 +87,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 76
+   "added": 5,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -171,25 +171,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
-   "authorRate": 97
+   "added": 2,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -316,16 +316,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 214,
+  "recentIssues": 210,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 158
+    "count": 157
    },
    {
     "slug": "carrick-manager-future",
-    "count": 74
+    "count": 73
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -383,6 +383,20 @@
    ]
   },
   {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 8
+    },
+    {
+     "ko": "튀헬",
+     "count": 7
+    }
+   ]
+  },
+  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -392,7 +406,7 @@
     },
     {
      "ko": "조르제 제수스",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "호르헤 제주스",
@@ -418,7 +432,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "마크 판 봄멜",
@@ -439,20 +453,6 @@
     {
      "ko": "마르크 반 봄멜",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 8
-    },
-    {
-     "ko": "튀헬",
-     "count": 6
     }
    ]
   },
@@ -685,28 +685,6 @@
    ]
   },
   {
-   "en": "Luis de la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "델라푸엔테",
-     "count": 2
-    },
-    {
-     "ko": "루이스 델라푸엔테",
-     "count": 1
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 1
-    },
-    {
-     "ko": "루이스 데 라 푸엔테",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Valérien Ismaël",
    "dictionary": null,
    "variants": [
@@ -716,6 +694,20 @@
     },
     {
      "ko": "발레리앵 이스마엘",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rio Ferdinand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리오 퍼디낸드",
+     "count": 3
+    },
+    {
+     "ko": "리오 퍼디난드",
      "count": 1
     }
    ]
@@ -745,6 +737,24 @@
     {
      "ko": "셀리아 구베이아",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Luis de la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델라푸엔테",
+     "count": 2
+    },
+    {
+     "ko": "루이스 델라푸엔테",
+     "count": 1
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
     }
    ]
   },
@@ -790,20 +800,6 @@
     },
     {
      "ko": "샤비",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rio Ferdinand",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리오 퍼디낸드",
-     "count": 2
-    },
-    {
-     "ko": "리오 퍼디난드",
      "count": 1
     }
    ]
@@ -1017,20 +1013,6 @@
    ]
   },
   {
-   "en": "Avram Glazer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "애브럼 글레이저",
-     "count": 1
-    },
-    {
-     "ko": "아브람 글레이저",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lammens",
    "dictionary": null,
    "variants": [
@@ -1169,6 +1151,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "도나룸마",
+     "count": 1
+    },
+    {
+     "ko": "돈나룸마",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1237,8 +1233,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 122,
-   "llm": 122
+   "collected": 154,
+   "llm": 154
   }
  },
  "llmErrors": []
