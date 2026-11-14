@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T19:35:41.109Z",
+ "updatedAt": "2026-11-14T20:16:45.411Z",
  "hot": [
   "norway-wales-2026-11-12",
+  "ronaldo-tribute-2026-11-14",
   "chelsea-man-city-2026-11-14",
-  "japan-brazil-2026-11-14",
-  "portugal-denmark-2026-11-13",
-  "pochettino-man-utd-manager-future"
+  "england-spain-2026-11-14",
+  "japan-brazil-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -38,32 +38,32 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 61,
-   "added": 2,
+   "items": 62,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 22,
+   "added": 3,
+   "authorRate": 86
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,7 +94,7 @@
    "ok": true,
    "items": 50,
    "added": 4,
-   "authorRate": 82
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -105,7 +105,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -135,13 +135,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -165,7 +165,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -188,8 +188,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 1,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -316,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 212,
-  "singleArticleRate": 53,
+  "recentIssues": 219,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 157
+    "count": 154
    },
    {
     "slug": "carrick-manager-future",
@@ -337,7 +337,7 @@
    },
    {
     "slug": "norway-wales-2026-11-12",
-    "count": 16
+    "count": 17
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -417,6 +417,20 @@
    ]
   },
   {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 8
+    },
+    {
+     "ko": "튀헬",
+     "count": 6
+    }
+   ]
+  },
+  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -447,38 +461,16 @@
    ]
   },
   {
-   "en": "Tuchel",
+   "en": "De la Fuente",
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
-     "count": 7
-    },
-    {
-     "ko": "튀헬",
+     "ko": "델라 푸엔테",
      "count": 6
-    }
-   ]
-  },
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 7
     },
     {
-     "ko": "마티아스 야이슬레",
-     "count": 1
-    },
-    {
-     "ko": "마티아스 자이슬",
-     "count": 1
-    },
-    {
-     "ko": "매티아스 야이슬레",
-     "count": 1
+     "ko": "데 라 푸엔테",
+     "count": 5
     }
    ]
   },
@@ -501,20 +493,6 @@
    ]
   },
   {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "델라 푸엔테",
-     "count": 6
-    },
-    {
-     "ko": "데 라 푸엔테",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -528,6 +506,28 @@
     },
     {
      "ko": "파울루 퐁세카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 6
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 1
+    },
+    {
+     "ko": "마티아스 자이슬",
+     "count": 1
+    },
+    {
+     "ko": "매티아스 야이슬레",
      "count": 1
     }
    ]
@@ -1241,8 +1241,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 224,
-   "llm": 224
+   "collected": 255,
+   "llm": 255
   }
  },
  "llmErrors": []
