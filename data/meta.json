@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T02:29:04.089Z",
+ "updatedAt": "2026-11-14T03:21:05.881Z",
  "hot": [
   "jesus-owono-discipline",
   "pochettino-man-utd-manager-future",
@@ -55,9 +55,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 25,
-   "added": 3,
-   "authorRate": 88
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -92,7 +92,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 68
   },
   "fblondon": {
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -582,6 +582,28 @@
    ]
   },
   {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셸더럽",
+     "count": 2
+    },
+    {
+     "ko": "쉴데루프",
+     "count": 1
+    },
+    {
+     "ko": "쉐르델루프",
+     "count": 1
+    },
+    {
+     "ko": "셸더루프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Peter Shilton",
    "dictionary": null,
    "variants": [
@@ -677,28 +699,6 @@
     },
     {
      "ko": "포코뇰리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉴데루프",
-     "count": 1
-    },
-    {
-     "ko": "셸더럽",
-     "count": 1
-    },
-    {
-     "ko": "쉐르델루프",
-     "count": 1
-    },
-    {
-     "ko": "셸더루프",
      "count": 1
     }
    ]
@@ -966,15 +966,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "차비",
+     "count": 1
+    },
+    {
      "ko": "샤비",
      "count": 1
     },
     {
      "ko": "사비",
-     "count": 1
-    },
-    {
-     "ko": "차비",
      "count": 1
     }
    ]
@@ -1224,8 +1224,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 430,
-   "llm": 430
+   "collected": 431,
+   "llm": 431
   }
  },
  "llmErrors": []
