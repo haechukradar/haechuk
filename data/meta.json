@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T21:04:29.501Z",
+ "updatedAt": "2026-11-14T21:45:35.631Z",
  "hot": [
   "norway-wales-2026-11-12",
   "england-spain-2026-11-14",
   "tuchel-de-la-fuente-relationship",
-  "ronaldo-tribute-2026-11-14",
-  "chelsea-man-city-2026-11-14"
+  "portugal-denmark-2026-11-13",
+  "ronaldo-tribute-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -39,31 +39,31 @@
   "bbc": {
    "ok": true,
    "items": 63,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 3,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 20,
+   "added": 2,
+   "authorRate": 80
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,13 +87,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 3,
    "authorRate": 84
   },
   "fblondon": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -171,7 +171,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 97
   },
   "star": {
@@ -183,13 +183,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 1,
+   "items": 8,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -279,6 +279,10 @@
    "count": 12
   },
   {
+   "name": "윌 랭크셔",
+   "count": 12
+  },
+  {
    "name": "발로군",
    "count": 12
   },
@@ -299,10 +303,6 @@
    "count": 11
   },
   {
-   "name": "윌 랭크셔",
-   "count": 11
-  },
-  {
    "name": "달롯",
    "count": 11
   },
@@ -316,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
-  "singleArticleRate": 54,
+  "recentIssues": 221,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 154
+    "count": 152
    },
    {
     "slug": "carrick-manager-future",
@@ -330,6 +330,10 @@
    {
     "slug": "italy-france-2026-11-12",
     "count": 38
+   },
+   {
+    "slug": "portugal-denmark-2026-11-13",
+    "count": 20
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -342,10 +346,6 @@
    {
     "slug": "crystal-palace-manager-future",
     "count": 16
-   },
-   {
-    "slug": "portugal-denmark-2026-11-13",
-    "count": 15
    }
   ]
  },
@@ -399,6 +399,20 @@
    ]
   },
   {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 10
+    },
+    {
+     "ko": "튀헬",
+     "count": 7
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -417,20 +431,6 @@
     {
      "ko": "피에르 사게",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 9
-    },
-    {
-     "ko": "튀헬",
-     "count": 7
     }
    ]
   },
@@ -475,6 +475,24 @@
     {
      "ko": "델라 푸엔테",
      "count": 6
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "튀헬",
+     "count": 3
+    },
+    {
+     "ko": "투헬",
+     "count": 3
     }
    ]
   },
@@ -533,24 +551,6 @@
     {
      "ko": "매티아스 야이슬레",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "투헬",
-     "count": 2
     }
    ]
   },
@@ -727,20 +727,6 @@
    ]
   },
   {
-   "en": "Valérien Ismaël",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "발레리앙 이스마엘",
-     "count": 3
-    },
-    {
-     "ko": "발레리앵 이스마엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Charles De Ketelaere",
    "dictionary": null,
    "variants": [
@@ -790,6 +776,20 @@
     },
     {
      "ko": "모히야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Valérien Ismaël",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "발레리앙 이스마엘",
+     "count": 2
+    },
+    {
+     "ko": "발레리앵 이스마엘",
      "count": 1
     }
    ]
@@ -1233,8 +1233,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 289,
-   "llm": 289
+   "collected": 309,
+   "llm": 309
   }
  },
  "llmErrors": []
