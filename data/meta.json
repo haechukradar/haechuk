@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T14:38:52.797Z",
+ "updatedAt": "2026-11-14T15:20:22.094Z",
  "hot": [
   "japan-brazil-2026-11-14",
   "uruguay-argentina-2026-11-13",
@@ -32,37 +32,38 @@
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 69,
+   "items": 67,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 22,
-   "added": 2,
-   "authorRate": 91
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -74,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,7 +87,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
@@ -98,19 +99,19 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -146,19 +147,19 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -170,7 +171,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
@@ -182,13 +183,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 3,
+   "items": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -315,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
-  "singleArticleRate": 55,
+  "recentIssues": 219,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 164
+    "count": 162
    },
    {
     "slug": "carrick-manager-future",
@@ -1128,43 +1129,43 @@
    ]
   },
   {
-   "en": "Pelágio",
+   "en": "Rayan",
    "dictionary": null,
    "variants": [
     {
-     "ko": "펠라지우",
+     "ko": "라얀 셰르키",
      "count": 1
     },
     {
-     "ko": "펠라지오",
+     "ko": "라얀",
      "count": 1
     }
    ]
   },
   {
-   "en": "Ivan Baptista",
+   "en": "Marco Ferreira",
    "dictionary": null,
    "variants": [
     {
-     "ko": "이바 바티스타",
+     "ko": "마르쿠 페레이라",
      "count": 1
     },
     {
-     "ko": "이반 바티스타",
+     "ko": "마르코 페헤이라",
      "count": 1
     }
    ]
   },
   {
-   "en": "Renato Marín",
+   "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
     {
-     "ko": "르나투 마린",
+     "ko": "안토니오 누사",
      "count": 1
     },
     {
-     "ko": "레나투 마린",
+     "ko": "안토니 누사",
      "count": 1
     }
    ]
@@ -1234,6 +1235,10 @@
   "2026-11-14": {
    "collected": 700,
    "llm": 700
+  },
+  "2026-11-15": {
+   "collected": 20,
+   "llm": 20
   }
  },
  "llmErrors": []
