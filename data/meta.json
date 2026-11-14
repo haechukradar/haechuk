@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T11:29:02.825Z",
+ "updatedAt": "2026-11-14T12:10:40.381Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "uruguay-argentina-2026-11-13",
@@ -56,7 +56,7 @@
   "espn": {
    "ok": true,
    "items": 21,
-   "added": 2,
+   "added": 0,
    "authorRate": 90
   },
   "athletic": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,19 +86,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 1,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
@@ -110,7 +110,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,7 +152,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -170,25 +170,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 15,
-   "added": 2,
+   "items": 11,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -203,7 +203,7 @@
   },
   {
    "name": "맥스 다우먼",
-   "count": 33
+   "count": 34
   },
   {
    "name": "프레스티아니",
@@ -238,12 +238,12 @@
    "count": 17
   },
   {
-   "name": "티에르노 배리",
+   "name": "이스테방",
    "count": 15
   },
   {
-   "name": "이스테방",
-   "count": 14
+   "name": "티에르노 배리",
+   "count": 15
   },
   {
    "name": "웨인 루니",
@@ -294,6 +294,10 @@
    "count": 11
   },
   {
+   "name": "발로군",
+   "count": 11
+  },
+  {
    "name": "베르나르두 실바",
    "count": 11
   },
@@ -308,19 +312,15 @@
   {
    "name": "모히아",
    "count": 10
-  },
-  {
-   "name": "그라벤베르흐",
-   "count": 10
   }
  ],
  "issueHealth": {
-  "recentIssues": 212,
+  "recentIssues": 210,
   "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 173
+    "count": 172
    },
    {
     "slug": "carrick-manager-future",
@@ -479,7 +479,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "마티아스 야이슬레",
@@ -698,42 +698,6 @@
    ]
   },
   {
-   "en": "Di Salvo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디 살보",
-     "count": 3
-    },
-    {
-     "ko": "디살보",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pocognoli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포코넬리",
-     "count": 1
-    },
-    {
-     "ko": "포콘볼리",
-     "count": 1
-    },
-    {
-     "ko": "포첼리노리",
-     "count": 1
-    },
-    {
-     "ko": "포코뇰리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Diomande",
    "dictionary": null,
    "variants": [
@@ -872,6 +836,20 @@
    ]
   },
   {
+   "en": "Di Salvo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디 살보",
+     "count": 2
+    },
+    {
+     "ko": "디살보",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Dan Burn",
    "dictionary": null,
    "variants": [
@@ -895,6 +873,24 @@
     },
     {
      "ko": "로베르 산체스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pocognoli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포콘볼리",
+     "count": 1
+    },
+    {
+     "ko": "포첼리노리",
+     "count": 1
+    },
+    {
+     "ko": "포코뇰리",
      "count": 1
     }
    ]
@@ -1232,8 +1228,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 603,
-   "llm": 603
+   "collected": 622,
+   "llm": 622
   }
  },
  "llmErrors": []
