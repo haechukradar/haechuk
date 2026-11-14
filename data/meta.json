@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T16:07:55.708Z",
+ "updatedAt": "2026-11-14T16:49:44.592Z",
  "hot": [
   "japan-brazil-2026-11-14",
   "norway-wales-2026-11-12",
+  "jesus-owono-discipline",
   "uruguay-argentina-2026-11-13",
-  "pochettino-man-utd-manager-future",
-  "chelsea-man-city-2026-11-14"
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -38,20 +38,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 1,
+   "items": 67,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 21,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,19 +87,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 72
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -111,7 +111,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -165,13 +165,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -188,8 +188,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 1,
+   "items": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -200,7 +200,7 @@
   },
   {
    "name": "오워노",
-   "count": 37
+   "count": 38
   },
   {
    "name": "맥스 다우먼",
@@ -208,15 +208,15 @@
   },
   {
    "name": "프레스티아니",
-   "count": 33
+   "count": 34
+  },
+  {
+   "name": "그릴리시",
+   "count": 29
   },
   {
    "name": "노이어",
    "count": 29
-  },
-  {
-   "name": "그릴리시",
-   "count": 28
   },
   {
    "name": "잭 그릴리시",
@@ -279,6 +279,10 @@
    "count": 12
   },
   {
+   "name": "베르나르두 실바",
+   "count": 12
+  },
+  {
    "name": "지단",
    "count": 12
   },
@@ -299,10 +303,6 @@
    "count": 11
   },
   {
-   "name": "베르나르두 실바",
-   "count": 11
-  },
-  {
    "name": "도르구",
    "count": 11
   },
@@ -316,16 +316,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 219,
+  "recentIssues": 217,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 158
+    "count": 157
    },
    {
     "slug": "carrick-manager-future",
-    "count": 75
+    "count": 74
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -337,7 +337,7 @@
    },
    {
     "slug": "kane-award",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -383,6 +383,36 @@
    ]
   },
   {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 7
+    },
+    {
+     "ko": "조르제 제수스",
+     "count": 3
+    },
+    {
+     "ko": "호르헤 제주스",
+     "count": 2
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제수",
+     "count": 1
+    },
+    {
+     "ko": "조르제 예수스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -413,38 +443,12 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 7
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 3
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 2
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제수",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "튀헬",
@@ -591,6 +595,20 @@
    ]
   },
   {
+   "en": "Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오워노",
+     "count": 5
+    },
+    {
+     "ko": "오우오노",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
@@ -609,20 +627,6 @@
     {
      "ko": "센 람멘스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오워노",
-     "count": 4
-    },
-    {
-     "ko": "오우오노",
-     "count": 2
     }
    ]
   },
@@ -769,6 +773,20 @@
    ]
   },
   {
+   "en": "Rio Ferdinand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리오 퍼디낸드",
+     "count": 2
+    },
+    {
+     "ko": "리오 퍼디난드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mohya",
    "dictionary": null,
    "variants": [
@@ -824,42 +842,6 @@
     },
     {
      "ko": "던 번",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senny Mayulu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "세니 마율루",
-     "count": 1
-    },
-    {
-     "ko": "세니 마유루",
-     "count": 1
-    },
-    {
-     "ko": "세니 마윜루",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pocognoli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포콘볼리",
-     "count": 1
-    },
-    {
-     "ko": "포첼리노리",
-     "count": 1
-    },
-    {
-     "ko": "포코뇰리",
      "count": 1
     }
    ]
@@ -952,20 +934,6 @@
     },
     {
      "ko": "패트릭 도르구",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rio Ferdinand",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리오 퍼디난드",
-     "count": 1
-    },
-    {
-     "ko": "리오 퍼디낸드",
      "count": 1
     }
    ]
@@ -1097,20 +1065,6 @@
    ]
   },
   {
-   "en": "Robert Sanchez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "로베르 산체스",
-     "count": 1
-    },
-    {
-     "ko": "로베르트 산체스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Ferreira",
    "dictionary": null,
    "variants": [
@@ -1162,6 +1116,48 @@
     },
     {
      "ko": "더 용",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르헤스",
+     "count": 1
+    },
+    {
+     "ko": "루이 보르게스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Miguel Minhava",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미겔 미냐바",
+     "count": 1
+    },
+    {
+     "ko": "미겔 미나바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pocognoli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포첼리노리",
+     "count": 1
+    },
+    {
+     "ko": "포코뇰리",
      "count": 1
     }
    ]
@@ -1233,8 +1229,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 62,
-   "llm": 62
+   "collected": 84,
+   "llm": 84
   }
  },
  "llmErrors": []
