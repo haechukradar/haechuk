@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-14T21:45:35.631Z",
+ "updatedAt": "2026-11-14T22:27:28.608Z",
  "hot": [
-  "norway-wales-2026-11-12",
-  "england-spain-2026-11-14",
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
+  "norway-wales-2026-11-12",
+  "england-spain-2026-11-14",
   "ronaldo-tribute-2026-11-14"
  ],
  "days": [
@@ -38,8 +38,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 63,
-   "added": 0,
+   "items": 62,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -51,19 +51,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 20,
-   "added": 2,
-   "authorRate": 80
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,14 +87,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 84
+   "added": 5,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -171,7 +171,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
@@ -188,7 +188,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
+   "items": 6,
    "added": 0,
    "authorRate": 0
   }
@@ -316,12 +316,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 221,
+  "recentIssues": 225,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 152
+    "count": 150
    },
    {
     "slug": "carrick-manager-future",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 20
+    "count": 33
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -382,6 +382,10 @@
     },
     {
      "ko": "호르헤 제주스",
+     "count": 2
+    },
+    {
+     "ko": "조르즈 제주스",
      "count": 2
     },
     {
@@ -435,6 +439,20 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 8
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 6
+    }
+   ]
+  },
+  {
    "en": "Mark van Bommel",
    "dictionary": null,
    "variants": [
@@ -461,20 +479,6 @@
     {
      "ko": "마르크 반 봄멜",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 7
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 6
     }
    ]
   },
@@ -727,6 +731,20 @@
    ]
   },
   {
+   "en": "Raúl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라울",
+     "count": 2
+    },
+    {
+     "ko": "라울 곤살레스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Charles De Ketelaere",
    "dictionary": null,
    "variants": [
@@ -822,6 +840,20 @@
     },
     {
      "ko": "키스 와니스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르게스",
+     "count": 2
+    },
+    {
+     "ko": "루이 보르헤스",
      "count": 1
     }
    ]
@@ -985,20 +1017,6 @@
    ]
   },
   {
-   "en": "Rui Borges",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 보르헤스",
-     "count": 1
-    },
-    {
-     "ko": "루이 보르게스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Miguel Minhava",
    "dictionary": null,
    "variants": [
@@ -1151,20 +1169,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Jurrien Timber",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야프리엔 팀버",
-     "count": 1
-    },
-    {
-     "ko": "유리엔 팀버",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1233,8 +1237,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 309,
-   "llm": 309
+   "collected": 347,
+   "llm": 347
   }
  },
  "llmErrors": []
