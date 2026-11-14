@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-14T00:19:03.476Z",
+ "updatedAt": "2026-11-14T01:34:54.909Z",
  "hot": [
   "jesus-owono-discipline",
-  "netherlands-greece-2026-11-13",
   "pochettino-man-utd-manager-future",
+  "netherlands-greece-2026-11-13",
   "man-city-affairs-charges-20261109",
   "serbia-germany-2026-11-13"
  ],
@@ -50,7 +50,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -74,7 +74,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -86,14 +86,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 68
+   "added": 0,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
@@ -140,7 +140,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -187,7 +187,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 1,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -207,7 +207,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 30
+   "count": 31
   },
   {
    "name": "노이어",
@@ -315,7 +315,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
+  "recentIssues": 202,
   "singleArticleRate": 50,
   "broad": [
    {
@@ -888,6 +888,20 @@
    ]
   },
   {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "막시 아라우호",
+     "count": 2
+    },
+    {
+     "ko": "마시 아라우호",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Robert Sanchez",
    "dictionary": null,
    "variants": [
@@ -1142,20 +1156,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Marco Ferreira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 페레이라",
-     "count": 1
-    },
-    {
-     "ko": "마르코 페헤이라",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1220,8 +1220,8 @@
    "llm": 927
   },
   "2026-11-14": {
-   "collected": 413,
-   "llm": 413
+   "collected": 424,
+   "llm": 424
   }
  },
  "llmErrors": []
