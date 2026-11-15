@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T18:00:51.095Z",
+ "updatedAt": "2026-11-15T18:54:24.083Z",
  "hot": [
   "jesus-de-miguel-incident",
+  "belgium-italy-2026-11-12",
+  "france-turkey-2026-11-13",
   "spain-england-2026-11-14",
-  "bruno-fernandes-contract",
-  "tuchel-de-la-fuente-relationship",
-  "arsenal-london-city-2026-11-15"
+  "bruno-fernandes-contract"
  ],
  "days": [
   "2026-10-18",
@@ -39,14 +39,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 2,
+   "items": 69,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
@@ -64,7 +64,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,13 +88,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 4,
    "authorRate": 68
   },
   "fblondon": {
@@ -118,7 +118,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -166,38 +166,38 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 4,
+   "items": 28,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 3,
+   "items": 11,
+   "added": 2,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 77
+   "count": 78
   },
   {
    "name": "오워노",
@@ -212,6 +212,10 @@
    "count": 34
   },
   {
+   "name": "잭 그릴리시",
+   "count": 30
+  },
+  {
    "name": "노이어",
    "count": 30
   },
@@ -220,20 +224,16 @@
    "count": 29
   },
   {
-   "name": "잭 그릴리시",
-   "count": 29
+   "name": "JJ 가브리엘",
+   "count": 25
   },
   {
-   "name": "JJ 가브리엘",
+   "name": "호나우지뉴",
    "count": 25
   },
   {
    "name": "알리송",
    "count": 24
-  },
-  {
-   "name": "호나우지뉴",
-   "count": 20
   },
   {
    "name": "트레솔디",
@@ -296,6 +296,10 @@
    "count": 12
   },
   {
+   "name": "루카쿠",
+   "count": 12
+  },
+  {
    "name": "지단",
    "count": 12
   },
@@ -310,19 +314,15 @@
   {
    "name": "도르구",
    "count": 11
-  },
-  {
-   "name": "루카쿠",
-   "count": 11
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 56,
+  "recentIssues": 233,
+  "singleArticleRate": 57,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 112
+    "count": 113
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -330,7 +330,7 @@
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 37
+    "count": 34
    },
    {
     "slug": "bruno-fernandes-contract",
@@ -341,16 +341,16 @@
     "count": 19
    },
    {
+    "slug": "spain-england-2026-11-14",
+    "count": 17
+   },
+   {
     "slug": "england-spain-2026-11-14",
     "count": 17
    },
    {
     "slug": "norway-wales-2026-11-12",
     "count": 17
-   },
-   {
-    "slug": "england-croatia-2026-11-12",
-    "count": 15
    }
   ]
  },
@@ -407,7 +407,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 21
+     "count": 19
     },
     {
      "ko": "클로프",
@@ -465,7 +465,7 @@
     },
     {
      "ko": "마르크 판 봄멜",
-     "count": 1
+     "count": 2
     }
    ]
   },
@@ -492,12 +492,12 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "스테판 보르손",
+     "ko": "스테판 보슨",
      "count": 5
     },
     {
-     "ko": "스테판 보슨",
-     "count": 4
+     "ko": "스테판 보르손",
+     "count": 5
     },
     {
      "ko": "스티븐 보르손",
@@ -515,7 +515,7 @@
    "variants": [
     {
      "ko": "키스 와이니스",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "키스 와이네스",
@@ -523,6 +523,24 @@
     },
     {
      "ko": "키스 와니스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부스코비치",
+     "count": 5
+    },
+    {
+     "ko": "부코비치",
+     "count": 1
+    },
+    {
+     "ko": "부슈코비치",
      "count": 1
     }
    ]
@@ -578,24 +596,6 @@
    ]
   },
   {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부스코비치",
-     "count": 3
-    },
-    {
-     "ko": "부코비치",
-     "count": 1
-    },
-    {
-     "ko": "부슈코비치",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Raúl",
    "dictionary": null,
    "variants": [
@@ -641,6 +641,20 @@
     },
     {
      "ko": "샤비",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마시 아라우호",
+     "count": 3
+    },
+    {
+     "ko": "마키 아라우호",
      "count": 1
     }
    ]
@@ -858,20 +872,6 @@
    ]
   },
   {
-   "en": "Valérien Ismaël",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "발레리앙 이스마엘",
-     "count": 1
-    },
-    {
-     "ko": "발레리앵 이스마엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sean Dyche",
    "dictionary": null,
    "variants": [
@@ -979,6 +979,20 @@
     },
     {
      "ko": "도움비아",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kevin Keegan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "케빈 킨",
+     "count": 1
+    },
+    {
+     "ko": "키건",
      "count": 1
     }
    ]
@@ -1136,20 +1150,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Graeme Souness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수네스",
-     "count": 1
-    },
-    {
-     "ko": "그레이엄 수니스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1222,8 +1222,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 140,
-   "llm": 140
+   "collected": 191,
+   "llm": 191
   }
  },
  "llmErrors": []
