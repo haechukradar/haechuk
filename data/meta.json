@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T21:05:50.660Z",
+ "updatedAt": "2026-11-15T21:47:09.449Z",
  "hot": [
   "jesus-de-miguel-incident",
   "arsenal-london-city-2026-11-15",
@@ -40,7 +40,7 @@
   "bbc": {
    "ok": true,
    "items": 70,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -52,14 +52,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 21,
-   "added": 1,
-   "authorRate": 76
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -94,8 +94,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 66
+   "added": 3,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
@@ -152,8 +152,10 @@
    "authorRate": 0
   },
   "hln": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 30,
+   "added": 6,
+   "authorRate": 100
   },
   "stoke": {
    "ok": true,
@@ -169,26 +171,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 3,
+   "items": 29,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 14,
-   "added": 4,
+   "items": 13,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -315,24 +317,28 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
-  "singleArticleRate": 56,
+  "recentIssues": 225,
+  "singleArticleRate": 57,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 109
+    "count": 108
    },
    {
     "slug": "portugal-denmark-2026-11-13",
     "count": 50
    },
    {
-    "slug": "italy-france-2026-11-12",
-    "count": 29
+    "slug": "spain-england-2026-11-14",
+    "count": 30
    },
    {
-    "slug": "spain-england-2026-11-14",
-    "count": 23
+    "slug": "italy-france-2026-11-12",
+    "count": 24
+   },
+   {
+    "slug": "france-turkey-2026-11-13",
+    "count": 18
    },
    {
     "slug": "bruno-fernandes-contract",
@@ -349,10 +355,6 @@
    {
     "slug": "carrick-manager-future",
     "count": 17
-   },
-   {
-    "slug": "france-turkey-2026-11-13",
-    "count": 15
    }
   ]
  },
@@ -363,7 +365,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 11
+     "count": 13
     },
     {
      "ko": "호르헤 제수스",
@@ -472,24 +474,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 5
-    },
-    {
-     "ko": "투헬",
-     "count": 4
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    }
-   ]
-  },
-  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
@@ -507,6 +491,24 @@
     },
     {
      "ko": "스티븐 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 5
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 5
+    },
+    {
+     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -621,6 +623,20 @@
     },
     {
      "ko": "마키 아라우호",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티미 시몬스",
+     "count": 3
+    },
+    {
+     "ko": "팀 시몬스",
      "count": 1
     }
    ]
@@ -749,20 +765,6 @@
     },
     {
      "ko": "패트릭 도르구",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "팀 시몬스",
      "count": 1
     }
    ]
@@ -1216,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 283,
-   "llm": 283
+   "collected": 308,
+   "llm": 308
   }
  },
  "llmErrors": []
