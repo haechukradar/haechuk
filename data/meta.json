@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T13:36:07.049Z",
+ "updatedAt": "2026-11-15T14:27:00.541Z",
  "hot": [
   "spain-england-2026-11-14",
   "pochettino-man-utd-manager-future",
   "romario-ancelotti-relationship",
   "tuchel-de-la-fuente-relationship",
-  "bruno-fernandes-contract"
+  "odegaard-arsenal-contract"
  ],
  "days": [
   "2026-10-18",
@@ -39,7 +39,7 @@
   "bbc": {
    "ok": true,
    "items": 65,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -51,7 +51,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -63,7 +63,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,13 +87,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 68
   },
   "fblondon": {
@@ -105,19 +105,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -141,7 +141,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -171,7 +171,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 3,
    "authorRate": 97
   },
   "star": {
@@ -183,20 +183,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 73
+   "count": 74
   },
   {
    "name": "오워노",
@@ -316,24 +316,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 53,
+  "recentIssues": 234,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 130
+    "count": 129
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 49
+    "count": 50
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 39
+    "count": 38
    },
    {
     "slug": "carrick-manager-future",
-    "count": 34
+    "count": 32
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -477,11 +477,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "투헬",
-     "count": 4
+     "ko": "토마스 투헬",
+     "count": 5
     },
     {
-     "ko": "토마스 투헬",
+     "ko": "투헬",
      "count": 4
     },
     {
@@ -508,24 +508,6 @@
     },
     {
      "ko": "스티븐 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 4
-    },
-    {
-     "ko": "피에르 사지",
-     "count": 2
-    },
-    {
-     "ko": "피에르 사게",
      "count": 1
     }
    ]
@@ -563,6 +545,24 @@
     {
      "ko": "오우오노",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 3
+    },
+    {
+     "ko": "피에르 사지",
+     "count": 2
+    },
+    {
+     "ko": "피에르 사게",
+     "count": 1
     }
    ]
   },
@@ -612,7 +612,7 @@
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "파울루 퐁세카",
@@ -1225,8 +1225,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 671,
-   "llm": 671
+   "collected": 700,
+   "llm": 700
   }
  },
  "llmErrors": []
