@@ -1,200 +1,24 @@
 [
  {
-  "slug": "belgium-italy-2026-11-12",
-  "mode": "llm",
-  "titleKo": "벨기에 대 이탈리아 네이션스리그 경기",
-  "createdAt": "2026-11-15T06:45:00.000Z",
-  "updatedAt": "2026-11-15T20:16:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "루카쿠",
-   "더브라위너",
-   "제레미 도쿠",
-   "로멜루 루카쿠"
-  ],
-  "sig": [
-   "italie",
-   "belgique",
-   "van",
-   "bommel"
-  ],
-  "articles": [
-   {
-    "id": "c0bf5e36b17a",
-    "url": "https://www.lequipe.fr/Football/Actualites/-une-pression-saine-et-formatrice-contre-l-italie-un-premier-match-couperet-pour-la-belgique-de-van-bommel/1743756#at_medium=RSS_feeds",
-    "title": "« Une pression saine et formatrice » : contre l'Italie, un premier match couperet pour la Belgique de Van Bommel",
-    "ko": "벨기에, 반 봄멜 체제서 이탈리아전 '생존' 압박 속 첫 경기",
-    "source": "lequipe",
-    "publishedAt": "2026-11-15T06:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Joël Domenighetti",
-    "transfer": null
-   },
-   {
-    "id": "24dd73cdfe38",
-    "url": "https://www.hln.be/rode-duivels/live-met-romelu-lukaku-als-romeinse-krijger-en-kevin-de-bruyne-als-julius-caesar-fans-bereiden-tifo-voor-in-aanloop-naar-clash-met-italianen~a33f296c/",
-    "title": "LIVE. Met Romelu Lukaku als Romeinse krijger en Kevin De Bruyne als Julius Caesar: fans bereiden tifo voor in aanloop naar clash met Italianen",
-    "ko": "루카쿠·더브라위너 콘셉트 티포 준비, 이탈리아전 앞둔 벨기에 팬",
-    "source": "hln",
-    "publishedAt": "2026-11-15T12:35:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "루카쿠",
-     "더브라위너"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "2e4bc4e970ae",
-    "url": "https://www.mirror.co.uk/sport/football/news/how-watch-belgium-vs-italy-37873957",
-    "title": "How to watch Belgium vs Italy - TV channel, live stream, kick-off time",
-    "ko": "벨기에 대 이탈리아 네이션스리그 경기 중계 정보",
-    "source": "mirror",
-    "publishedAt": "2026-11-15T18:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Polden",
-    "transfer": null
-   },
-   {
-    "id": "ddf1de1e876f",
-    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
-    "title": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
-    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
-    "source": "as",
-    "publishedAt": "2026-11-15T18:45:41.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Raúl Castro",
-    "transfer": null
-   },
-   {
-    "id": "0f8019ee779b",
-    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261115-144439-belgica-italia-em-direto",
-    "title": "Bélgica-Itália, em direto",
-    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
-    "source": "record",
-    "publishedAt": "2026-11-15T18:50:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f84e1eabd254",
-    "url": "https://www.hln.be/rode-duivels/live-stadion-is-uitverkocht-voor-komst-van-italie-mark-van-bommel-is-op-zijn-hoede-maar-wij-hoeven-niet-bang-te-zijn~a33f296c/",
-    "title": "LIVE. Stadion is uitverkocht voor komst van Italië, Mark van Bommel is op zijn hoede: “Maar wij hoeven niet bang te zijn”",
-    "ko": "이탈리아 맞이 경기장 매진, 반 봄멜 \"방심은 금물\"",
-    "source": "hln",
-    "publishedAt": "2026-11-15T19:21:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "f4fedbbfbd88",
-    "url": "https://www.hln.be/rode-duivels/live-3-1-met-een-weergaloze-goal-van-jeremy-doku-als-voorlopig-orgelpunt-rode-duivels-blazen-italie-weg~a33f296c/",
-    "title": "LIVE. 3-1! Met een weergaloze goal van Jérémy Doku als (voorlopig?) orgelpunt: Rode Duivels blazen Italië weg",
-    "ko": "도쿠 발리 원더골로 벨기에, 이탈리아 3-1 격파",
-    "source": "hln",
-    "publishedAt": "2026-11-15T20:16:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "제레미 도쿠"
-    ],
-    "playerTags": [
-     "jeremy-doku"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "c893c4df5bca",
-    "url": "https://www.hln.be/rode-duivels/kijk-ze-hebben-geen-vertrouwen-ook-als-bankzitter-speelt-romelu-lukaku-zijn-rol-als-leider-met-speech-voor-de-aftrap~ad017cc5/",
-    "title": "KIJK. “Ze hebben geen vertrouwen!”: ook als bankzitter speelt Romelu Lukaku zijn rol als leider met speech voor de aftrap",
-    "ko": "루카쿠, 벤치에서도 리더 역할…킥오프 전 연설",
-    "source": "hln",
-    "publishedAt": "2026-11-15T20:16:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "로멜루 루카쿠"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 5,
-  "score": 3.8,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "kevin-de-bruyne",
-   "jeremy-doku"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-15T06:45:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bélgica-Itália, em direto"
- },
- {
   "slug": "spain-england-2026-11-14",
   "mode": "llm",
   "titleKo": "스페인 대 잉글랜드 네이션스리그 경기",
   "createdAt": "2026-11-15T07:00:00.000Z",
-  "updatedAt": "2026-11-15T20:12:40.000Z",
+  "updatedAt": "2026-11-15T20:56:01.000Z",
   "category": "match",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "barcelona",
+   "chelsea"
+  ],
   "players": [
    "라민 야말",
    "제임스 개너",
    "재러드 브랜스웨이트",
    "브랜스웨이트",
-   "마르틴 수비멘디"
+   "마르틴 수비멘디",
+   "해리 케인",
+   "쿠쿠렐라"
   ],
   "sig": [
    "england",
@@ -549,17 +373,65 @@
     "playerTags": [],
     "author": "Henry Tomlinson",
     "transfer": null
+   },
+   {
+    "id": "b008527713a6",
+    "url": "https://www.thesun.co.uk/sport/41032073/england-fans-troll-lamine-yamal-harry-kane-chant/",
+    "title": "‘Love that’ – England fans brutally troll Lamine Yamal with seven-word Harry Kane chant during Spain clash",
+    "ko": "잉글랜드 팬들, 스페인전서 라민 야말 조롱 해리 케인 응원가",
+    "source": "sun",
+    "publishedAt": "2026-11-15T20:25:57.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "라민 야말",
+     "해리 케인"
+    ],
+    "playerTags": [
+     "lamine-yamal",
+     "harry-kane"
+    ],
+    "author": "Jamie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "dc59bae9c99e",
+    "url": "https://www.thesun.co.uk/sport/41032336/england-fans-mock-marc-cucurella-harry-kane-penalty/",
+    "title": "England fans mock ‘pathetic’ Cucurella after bizarre attempt to get Harry Kane penalty overturned against Spain",
+    "ko": "잉글랜드 팬들, 스페인전 케인 페널티 번복 시도한 쿠쿠렐라 조롱",
+    "source": "sun",
+    "publishedAt": "2026-11-15T20:56:01.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "쿠쿠렐라",
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Jamie Gordon",
+    "transfer": null
    }
   ],
   "recentSources": 9,
   "sourceCount": 9,
-  "score": 3.49,
+  "score": 4.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
    "lamine-yamal",
-   "jeremy-doku"
+   "jeremy-doku",
+   "harry-kane"
   ],
   "transfer": null,
   "firstReport": {
@@ -569,6 +441,664 @@
    "viaQuote": false
   },
   "headline": "Branthwaite, Garner and King omitted for Spain game"
+ },
+ {
+  "slug": "arsenal-london-city-2026-11-15",
+  "mode": "llm",
+  "titleKo": "아스널 대 런던 시티 라이오네스 경기",
+  "createdAt": "2026-11-15T15:20:00.000Z",
+  "updatedAt": "2026-11-15T20:46:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "마눔",
+   "메리 이어프스"
+  ],
+  "sig": [
+   "wsl",
+   "london"
+  ],
+  "articles": [
+   {
+    "id": "b8f119064881",
+    "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/live/575818",
+    "title": "Maanum earns first WSL start for Arsenal vs London City LIVE!",
+    "ko": "마눔, 아스널 WSL 선발 데뷔 (라이브)",
+    "source": "sky",
+    "publishedAt": "2026-11-15T15:20:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마눔"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7f19175271e4",
+    "url": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
+    "title": "Arsenal v London City Lionesses: Women’s Super League – live",
+    "ko": "아스널 대 런던 시티 라이오네스, WSL 실시간 경기",
+    "source": "guardian",
+    "publishedAt": "2026-11-15T15:25:40.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Brewin",
+    "transfer": null
+   },
+   {
+    "id": "47a8a7f30a30",
+    "url": "https://www.skysports.com/watch/video/13612525/wsl-london-city-lionesses-hit-back-minutes-after-arsenal-take-the-lead",
+    "title": "London City Lionesses hit back minutes after Arsenal take the lead!",
+    "ko": "런던 시티 라이오네스, 아스널에 리드 허용 후 곧바로 반격",
+    "source": "sky",
+    "publishedAt": "2026-11-15T16:48:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2157410f63c5",
+    "url": "https://www.skysports.com/watch/video/13612562/arsenal-1-1-london-city-lionesses-wsl-highlights",
+    "title": "Earps masterclass helps London City deny Arsenal first WSL home win",
+    "ko": "얼프스 활약, 런던 시티 아스널에 WSL 홈 첫 승 허용 안 해",
+    "source": "sky",
+    "publishedAt": "2026-11-15T18:37:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fb37b2084993",
+    "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+    "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
+    "ko": "메리 이어프스 막아선 아스널, 런던 시티 라이오네스와 무승부",
+    "source": "guardian",
+    "publishedAt": "2026-11-15T18:53:08.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "메리 이어프스"
+    ],
+    "playerTags": [],
+    "author": "Tom Garry at the Emirates Stadium",
+    "transfer": null
+   },
+   {
+    "id": "2f37d6c3574b",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
+    "title": "London City's 'bravery' paying off in top three pursuit",
+    "ko": "런던 시티, 상위 3위 경쟁 속 '용기' 결실",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T20:03:08.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1f953cb4da89",
+    "url": "https://www.lequipe.fr/Football/Video/Women-s-super-league-arsenal-et-london-city-lionesses-se-neutralisent/20245647#at_medium=RSS_feeds",
+    "title": "Arsenal et London City Lionesses se neutralisent",
+    "ko": "아스널, 런던 시티 라이오네스와 무승부",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T20:46:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 5.88,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-15T15:20:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "London City's 'bravery' paying off in top three pursuit"
+ },
+ {
+  "slug": "belgium-italy-2026-11-12",
+  "mode": "llm",
+  "titleKo": "벨기에 대 이탈리아 네이션스리그 경기",
+  "createdAt": "2026-11-15T06:45:00.000Z",
+  "updatedAt": "2026-11-15T20:36:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "루카쿠",
+   "더브라위너",
+   "제레미 도쿠",
+   "로멜루 루카쿠",
+   "두쿠"
+  ],
+  "sig": [
+   "italie",
+   "belgique",
+   "van",
+   "bommel"
+  ],
+  "articles": [
+   {
+    "id": "c0bf5e36b17a",
+    "url": "https://www.lequipe.fr/Football/Actualites/-une-pression-saine-et-formatrice-contre-l-italie-un-premier-match-couperet-pour-la-belgique-de-van-bommel/1743756#at_medium=RSS_feeds",
+    "title": "« Une pression saine et formatrice » : contre l'Italie, un premier match couperet pour la Belgique de Van Bommel",
+    "ko": "벨기에, 반 봄멜 체제서 이탈리아전 '생존' 압박 속 첫 경기",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T06:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Joël Domenighetti",
+    "transfer": null
+   },
+   {
+    "id": "24dd73cdfe38",
+    "url": "https://www.hln.be/rode-duivels/live-met-romelu-lukaku-als-romeinse-krijger-en-kevin-de-bruyne-als-julius-caesar-fans-bereiden-tifo-voor-in-aanloop-naar-clash-met-italianen~a33f296c/",
+    "title": "LIVE. Met Romelu Lukaku als Romeinse krijger en Kevin De Bruyne als Julius Caesar: fans bereiden tifo voor in aanloop naar clash met Italianen",
+    "ko": "루카쿠·더브라위너 콘셉트 티포 준비, 이탈리아전 앞둔 벨기에 팬",
+    "source": "hln",
+    "publishedAt": "2026-11-15T12:35:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "루카쿠",
+     "더브라위너"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "2e4bc4e970ae",
+    "url": "https://www.mirror.co.uk/sport/football/news/how-watch-belgium-vs-italy-37873957",
+    "title": "How to watch Belgium vs Italy - TV channel, live stream, kick-off time",
+    "ko": "벨기에 대 이탈리아 네이션스리그 경기 중계 정보",
+    "source": "mirror",
+    "publishedAt": "2026-11-15T18:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Polden",
+    "transfer": null
+   },
+   {
+    "id": "ddf1de1e876f",
+    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
+    "title": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
+    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
+    "source": "as",
+    "publishedAt": "2026-11-15T18:45:41.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Raúl Castro",
+    "transfer": null
+   },
+   {
+    "id": "0f8019ee779b",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261115-144439-belgica-italia-em-direto",
+    "title": "Bélgica-Itália, em direto",
+    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
+    "source": "record",
+    "publishedAt": "2026-11-15T18:50:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f84e1eabd254",
+    "url": "https://www.hln.be/rode-duivels/live-stadion-is-uitverkocht-voor-komst-van-italie-mark-van-bommel-is-op-zijn-hoede-maar-wij-hoeven-niet-bang-te-zijn~a33f296c/",
+    "title": "LIVE. Stadion is uitverkocht voor komst van Italië, Mark van Bommel is op zijn hoede: “Maar wij hoeven niet bang te zijn”",
+    "ko": "이탈리아 맞이 경기장 매진, 반 봄멜 \"방심은 금물\"",
+    "source": "hln",
+    "publishedAt": "2026-11-15T19:21:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "f4fedbbfbd88",
+    "url": "https://www.hln.be/rode-duivels/live-3-1-met-een-weergaloze-goal-van-jeremy-doku-als-voorlopig-orgelpunt-rode-duivels-blazen-italie-weg~a33f296c/",
+    "title": "LIVE. 3-1! Met een weergaloze goal van Jérémy Doku als (voorlopig?) orgelpunt: Rode Duivels blazen Italië weg",
+    "ko": "도쿠 발리 원더골로 벨기에, 이탈리아 3-1 격파",
+    "source": "hln",
+    "publishedAt": "2026-11-15T20:16:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "제레미 도쿠"
+    ],
+    "playerTags": [
+     "jeremy-doku"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "c893c4df5bca",
+    "url": "https://www.hln.be/rode-duivels/kijk-ze-hebben-geen-vertrouwen-ook-als-bankzitter-speelt-romelu-lukaku-zijn-rol-als-leider-met-speech-voor-de-aftrap~ad017cc5/",
+    "title": "KIJK. “Ze hebben geen vertrouwen!”: ook als bankzitter speelt Romelu Lukaku zijn rol als leider met speech voor de aftrap",
+    "ko": "루카쿠, 벤치에서도 리더 역할…킥오프 전 연설",
+    "source": "hln",
+    "publishedAt": "2026-11-15T20:16:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "로멜루 루카쿠"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "cd4a8db603b6",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-belgique-jeremy-doku-slalome-dans-la-defense-italienne-et-enflamme-le-stade-roi-baudouin/20245645#at_medium=RSS_feeds",
+    "title": "Le magnifique slalom de Doku pour marquer face à l'Italie",
+    "ko": "두쿠, 이탈리아전 지그재그 드리블 골",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T20:36:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "두쿠"
+    ],
+    "playerTags": [
+     "jeremy-doku"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 5,
+  "sourceCount": 5,
+  "score": 5.15,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "kevin-de-bruyne",
+   "jeremy-doku"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-15T06:45:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Le magnifique slalom de Doku pour marquer face à l'Italie"
+ },
+ {
+  "slug": "rodrygo-injury",
+  "mode": "llm",
+  "titleKo": "호드리구 무릎 부상 복귀 상황",
+  "createdAt": "2026-11-15T20:24:15.000Z",
+  "updatedAt": "2026-11-15T20:24:15.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "호드리구"
+  ],
+  "sig": [
+   "rodrygo"
+  ],
+  "articles": [
+   {
+    "id": "589cb1913c3d",
+    "url": "https://www.lequipe.fr/Football/Actualites/Gravement-blesse-au-genou-droit-en-mars-rodrygo-se-rapproche-d-un-retour-avec-le-real-madrid/1743880#at_medium=RSS_feeds",
+    "title": "Gravement blessé au genou droit en mars, Rodrygo se rapproche d'un retour avec le Real Madrid",
+    "ko": "호드리구, 무릎 부상에서 복귀 근접",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T20:24:15.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "호드리구"
+    ],
+    "playerTags": [
+     "rodrygo"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.77,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "rodrygo"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-15T20:24:15.000Z",
+   "viaQuote": false
+  },
+  "headline": "Gravement blessé au genou droit en mars, Rodrygo se rapproche d'un retour avec le Real Madrid"
+ },
+ {
+  "slug": "thomas-frank-crystal-palace-appointment",
+  "mode": "llm",
+  "titleKo": "토마스 프랑크, 크리스털 팰리스 감독 부임 가능성",
+  "createdAt": "2026-11-10T06:00:00.000Z",
+  "updatedAt": "2026-11-15T20:15:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "tottenham",
+   "crystal-palace"
+  ],
+  "players": [],
+  "sig": [
+   "frank"
+  ],
+  "articles": [
+   {
+    "id": "770820ed44c7",
+    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
+    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
+    "ko": "크리스털 팰리스, 세이지 경질 가능성 속 토마스 프랑크 유력 후보",
+    "source": "sky",
+    "publishedAt": "2026-11-08T20:56:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c0571f0bf213",
+    "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
+    "title": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
+    "ko": "토마스 프랑크, 토트넘 악몽 뒤 크리스털 팰리스서 명예 회복 가능",
+    "source": "mirror",
+    "publishedAt": "2026-11-09T15:34:02.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross",
+    "transfer": null
+   },
+   {
+    "id": "73b196431796",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-could-be-in-big-trouble-over-thomas-frank",
+    "title": "'Crystal Palace could be in big trouble over Thomas Frank'",
+    "ko": "토마스 프랑크 놓고 크리스털 팰리스 큰 위기 가능성",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-09T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9d4fed4707ec",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-could-raid-tottenham-34882993",
+    "title": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace",
+    "ko": "토마스 프랑크, 크리스털 팰리스行 시 토트넘서 4명 영입 가능성",
+    "source": "fblondon",
+    "publishedAt": "2026-11-10T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham",
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": null
+   },
+   {
+    "id": "06173cf31add",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-leading-list-of-four-names-in-contention-for-crystal-palace-expert",
+    "title": "Thomas Frank leading list of 'four names' in contention for Crystal Palace - expert",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 후보 4인 중 선두",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-10T07:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "24611ea462b4",
+    "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "title": "Palace latest: Talks progressing for Frank to succeed Sage",
+    "ko": "팰리스, 세이지 후임 프랭크와 협상 진전",
+    "source": "sky",
+    "publishedAt": "2026-11-11T14:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "781e85dbebfd",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palaces-thomas-frank-appointment-hits-stumbling-block",
+    "title": "Sources: Crystal Palace's Thomas Frank appointment hits stumbling block",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임설에 걸림돌",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T14:11:26.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ff9c02087d57",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/next-manager/club-adviser-updates-on-thomas-frank-getting-premium-contract-at-crystal-palace",
+    "title": "Club adviser updates on Thomas Frank getting 'premium contract' at Crystal Palace",
+    "ko": "크리스털 팰리스, 토마스 프랑크에게 프리미엄 계약 제시 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T09:40:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "54fed1d10fc2",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-thomas-frank-to-crystal-palace-update-2",
+    "title": "Sources: Thomas Frank to Crystal Palace update",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 관련 업데이트",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T18:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9f1fbbfa10fd",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-concerns-over-thomas-frank-emerge-amid-new-delay",
+    "title": "Sources: Crystal Palace 'concerns' over Thomas Frank emerge amid new delay",
+    "ko": "크리스털 팰리스, 토마스 프랑크 영입 지연 속 우려 제기",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-15T10:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e56177438e2c",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-the-real-reason-crystal-palace-want-to-appoint-thomas-frank-revealed",
+    "title": "Sources: The real reason Crystal Palace want to appoint Thomas Frank revealed",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 이유 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-15T20:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 4,
+  "score": 0.09,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-08T20:56:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace"
  },
  {
   "slug": "france-turkey-2026-11-13",
@@ -855,7 +1385,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 3.94,
+  "score": 3.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -872,126 +1402,31 @@
   "headline": "Désiré Doué déclare forfait pour France-Turquie en raison d'une tension musculaire à la cuisse droite"
  },
  {
-  "slug": "arsenal-london-city-2026-11-15",
+  "slug": "mexico-jamaica-2026-11-14",
   "mode": "llm",
-  "titleKo": "아스널 대 런던 시티 라이오네스 경기",
-  "createdAt": "2026-11-15T15:20:00.000Z",
-  "updatedAt": "2026-11-15T20:03:08.000Z",
+  "titleKo": "멕시코 대 자메이카 콘카카프 네이션스리그 경기",
+  "createdAt": "2026-11-15T04:13:57.000Z",
+  "updatedAt": "2026-11-15T20:05:43.000Z",
   "category": "match",
   "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
+  "clubs": [],
   "players": [
-   "마눔",
-   "메리 이어프스"
+   "히메네스"
   ],
   "sig": [
-   "wsl",
-   "london"
+   "márquez",
+   "jamaica",
+   "concacaf",
+   "nations"
   ],
   "articles": [
    {
-    "id": "b8f119064881",
-    "url": "https://www.skysports.com/football/arsenal-women-vs-london-city-lionesses/live/575818",
-    "title": "Maanum earns first WSL start for Arsenal vs London City LIVE!",
-    "ko": "마눔, 아스널 WSL 선발 데뷔 (라이브)",
-    "source": "sky",
-    "publishedAt": "2026-11-15T15:20:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마눔"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7f19175271e4",
-    "url": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
-    "title": "Arsenal v London City Lionesses: Women’s Super League – live",
-    "ko": "아스널 대 런던 시티 라이오네스, WSL 실시간 경기",
-    "source": "guardian",
-    "publishedAt": "2026-11-15T15:25:40.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Brewin",
-    "transfer": null
-   },
-   {
-    "id": "47a8a7f30a30",
-    "url": "https://www.skysports.com/watch/video/13612525/wsl-london-city-lionesses-hit-back-minutes-after-arsenal-take-the-lead",
-    "title": "London City Lionesses hit back minutes after Arsenal take the lead!",
-    "ko": "런던 시티 라이오네스, 아스널에 리드 허용 후 곧바로 반격",
-    "source": "sky",
-    "publishedAt": "2026-11-15T16:48:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2157410f63c5",
-    "url": "https://www.skysports.com/watch/video/13612562/arsenal-1-1-london-city-lionesses-wsl-highlights",
-    "title": "Earps masterclass helps London City deny Arsenal first WSL home win",
-    "ko": "얼프스 활약, 런던 시티 아스널에 WSL 홈 첫 승 허용 안 해",
-    "source": "sky",
-    "publishedAt": "2026-11-15T18:37:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fb37b2084993",
-    "url": "https://www.theguardian.com/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
-    "title": "Mary Earps frustrates Arsenal as London City Lionesses earn battling draw",
-    "ko": "메리 이어프스 막아선 아스널, 런던 시티 라이오네스와 무승부",
-    "source": "guardian",
-    "publishedAt": "2026-11-15T18:53:08.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "메리 이어프스"
-    ],
-    "playerTags": [],
-    "author": "Tom Garry at the Emirates Stadium",
-    "transfer": null
-   },
-   {
-    "id": "2f37d6c3574b",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
-    "title": "London City's 'bravery' paying off in top three pursuit",
-    "ko": "런던 시티, 상위 3위 경쟁 속 '용기' 결실",
-    "source": "bbc",
-    "publishedAt": "2026-11-15T20:03:08.000Z",
+    "id": "eb3dbbfa3b84",
+    "url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
+    "title": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-15T04:13:57.000Z",
     "credited": null,
     "clubs": [],
     "category": "match",
@@ -1000,23 +1435,57 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "9a5761c4b7c8",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/mexico-perde-na-jamaica-com-gimenez-a-titular-mas-deixa-segunda-mao-em-aberto",
+    "title": "México perde na Jamaica com Gimenez a titular mas deixa segunda mão em aberto",
+    "ko": "멕시코, 자메이카 원정 패배…히메네스 선발, 2차전 여지 남겨",
+    "source": "record",
+    "publishedAt": "2026-11-15T10:55:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "히메네스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "839eb9ba4ece",
+    "url": "https://www.espn.com/soccer/story/_/id/50492105/mexico-nations-league-semifinals-loss-jamaica",
+    "title": "Mexico on brink of missing Nations League semis after loss to Jamaica",
+    "ko": "멕시코, 자메이카에 패해 네이션스리그 4강 좌절 위기",
+    "source": "espn",
+    "publishedAt": "2026-11-15T20:05:43.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "ESPN News Services",
+    "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 3,
-  "score": 4.58,
+  "score": 2.02,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-15T15:20:00.000Z",
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-15T04:13:57.000Z",
    "viaQuote": false
   },
-  "headline": "London City's 'bravery' paying off in top three pursuit"
+  "headline": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League"
  },
  {
   "slug": "leandro-barreiro-injury",
@@ -1056,7 +1525,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.91,
+  "score": 1.67,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1109,7 +1578,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.75,
+  "score": 2.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2095,7 +2564,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.82,
+  "score": 1.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2142,7 +2611,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.72,
+  "score": 2.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2192,7 +2661,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.81,
+  "score": 1.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2246,7 +2715,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.76,
+  "score": 1.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2311,7 +2780,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.01,
+  "score": 1.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6272,7 +6741,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 17,
-  "score": 1.89,
+  "score": 1.79,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6450,7 +6919,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 7,
-  "score": 7.62,
+  "score": 6.64,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6589,7 +7058,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.48,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6655,7 +7124,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6668,6 +7137,118 @@
    "viaQuote": false
   },
   "headline": "PSG could leave Parc des Princes and be replaced by rivals from ‘across the street’ in iconic 48,583-seater stadium"
+ },
+ {
+  "slug": "germany-national-team-2026-11-13",
+  "mode": "llm",
+  "titleKo": "독일 대표팀 경기 라이브",
+  "createdAt": "2026-11-13T19:05:09.000Z",
+  "updatedAt": "2026-11-15T18:44:15.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "해리 케인"
+  ],
+  "sig": [
+   "dfb",
+   "elf",
+   "zugzwang",
+   "klopp",
+   "mittelstädt",
+   "thiaw",
+   "debüt",
+   "gruda"
+  ],
+  "articles": [
+   {
+    "id": "abc2fd5cf66a",
+    "url": "https://www.kicker.de/live-dfb-elf-unter-zugzwang-klopp-setzt-auf-mittelstaedt-und-thiaw-debuet-fuer-gruda-1270832/artikel#omrss",
+    "title": "LIVE! DFB-Elf unter Zugzwang: Klopp setzt auf Mittelstädt und Thiaw - Debüt für Gruda",
+    "ko": "독일 대표팀 라이브, 클린스만 전술 변화와 데뷔 선수 주목",
+    "source": "kicker",
+    "publishedAt": "2026-11-13T19:05:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7a83b7943479",
+    "url": "https://www.kicker.de/deutschland-in-endspiel-form-klopps-plaene-gehen-auf-1271403/video#omrss",
+    "title": "Deutschland in Endspiel-Form: \"Klopps Pläne gehen auf\"",
+    "ko": "독일, 결승전 모드 돌입…'클롭의 계획이 통했다'",
+    "source": "kicker",
+    "publishedAt": "2026-11-13T21:58:56.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "941df37569fb",
+    "url": "https://www.kicker.de/keine-schuetzenhilfe-dfb-team-koennte-sogar-noch-absteigen-1271666/artikel#omrss",
+    "title": "Keine Schützenhilfe: DFB-Team könnte sogar noch absteigen",
+    "ko": "독일 대표팀, 구원 없이 강등 가능성까지",
+    "source": "kicker",
+    "publishedAt": "2026-11-14T23:19:11.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8064fb72e9ca",
+    "url": "https://www.kicker.de/live-kane-eiskalt-vom-punkt-doku-narrt-italiens-defensive-arda-guelers-tor-zaehlt-nicht-1270868/artikel#omrss",
+    "title": "LIVE! Kane eiskalt vom Punkt - Doku narrt Italiens Defensive - Arda Gülers Tor zählt nicht",
+    "ko": "케인 페널티킥 성공, 이탈리아전 라이브 중계",
+    "source": "kicker",
+    "publishedAt": "2026-11-15T18:44:15.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "jeremy-doku",
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.4,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jeremy-doku",
+   "harry-kane"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-13T19:05:09.000Z",
+   "viaQuote": false
+  },
+  "headline": "Keine Schützenhilfe: DFB-Team könnte sogar noch absteigen"
  },
  {
   "slug": "frick-aberdeen-appointment",
@@ -6702,7 +7283,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.18,
+  "score": 1.9,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6755,7 +7336,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.45,
+  "score": 1.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6818,7 +7399,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.35,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6878,7 +7459,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.31,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7026,7 +7607,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.27,
+  "score": 1.14,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7083,7 +7664,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.31,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7192,7 +7773,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.8,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7240,7 +7821,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.29,
+  "score": 1.12,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7582,7 +8163,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.39,
+  "score": 0.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7641,7 +8222,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.34,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8135,7 +8716,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 9,
-  "score": 1.88,
+  "score": 1.64,
   "topTier": 1,
   "stageHistory": [
    {
@@ -8214,7 +8795,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.09,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8269,7 +8850,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.25,
+  "score": 1.09,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8332,7 +8913,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.28,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8579,7 +9160,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.31,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8686,7 +9267,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.25,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8759,7 +9340,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.8,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8814,7 +9395,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.9,
+  "score": 0.78,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8879,7 +9460,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8949,7 +9530,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.76,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9021,7 +9602,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.85,
+  "score": 0.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9075,7 +9656,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.82,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9128,7 +9709,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.24,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9310,7 +9891,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 1.22,
+  "score": 1.06,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9564,7 +10145,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 8,
-  "score": 1.83,
+  "score": 1.67,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9618,7 +10199,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.22,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9675,7 +10256,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.71,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9724,7 +10305,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.7,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9781,7 +10362,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9865,7 +10446,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.77,
+  "score": 0.67,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9914,7 +10495,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.67,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9970,7 +10551,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10018,7 +10599,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.19,
+  "score": 0.17,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -10962,7 +11543,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 1.29,
+  "score": 1.12,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11017,7 +11598,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.18,
+  "score": 0.16,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11083,7 +11664,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.63,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11151,7 +11732,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -11210,7 +11791,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 3,
   "stageHistory": [
    {
@@ -11328,7 +11909,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.09,
+  "score": 0.95,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11386,7 +11967,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.16,
+  "score": 0.14,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11460,7 +12041,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11526,7 +12107,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.14,
+  "score": 0.12,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11876,7 +12457,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.44,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11941,7 +12522,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.13,
+  "score": 0.11,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12013,7 +12594,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [
    {
@@ -12038,76 +12619,6 @@
    "viaQuote": false
   },
   "headline": "Beşiktaş'ta Vaclav Cerny'nin geleceği için flaş karar!"
- },
- {
-  "slug": "mexico-jamaica-2026-11-14",
-  "mode": "llm",
-  "titleKo": "멕시코 대 자메이카 콘카카프 네이션스리그 경기",
-  "createdAt": "2026-11-15T04:13:57.000Z",
-  "updatedAt": "2026-11-15T10:55:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "히메네스"
-  ],
-  "sig": [
-   "márquez",
-   "jamaica",
-   "concacaf",
-   "nations"
-  ],
-  "articles": [
-   {
-    "id": "eb3dbbfa3b84",
-    "url": "https://www.nytimes.com/athletic/7782420/2026/11/14/mexico-jamaica-concacaf-result-score/",
-    "title": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-15T04:13:57.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9a5761c4b7c8",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/mexico-perde-na-jamaica-com-gimenez-a-titular-mas-deixa-segunda-mao-em-aberto",
-    "title": "México perde na Jamaica com Gimenez a titular mas deixa segunda mão em aberto",
-    "ko": "멕시코, 자메이카 원정 패배…히메네스 선발, 2차전 여지 남겨",
-    "source": "record",
-    "publishedAt": "2026-11-15T10:55:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "히메네스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.39,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-15T04:13:57.000Z",
-   "viaQuote": false
-  },
-  "headline": "Mexico still winless under Márquez after falling to Jamaica in Concacaf Nations League"
  },
  {
   "slug": "szoboszlai-injury",
@@ -12266,7 +12777,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.39,
+  "score": 0.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12329,7 +12840,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [
    {
@@ -16243,7 +16754,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 18,
-  "score": 0.28,
+  "score": 0.32,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16303,7 +16814,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16316,220 +16827,6 @@
    "viaQuote": false
   },
   "headline": "Matsima-Ausfall droht: Mit dem Personal ging die Augsburger Stabilität flöten"
- },
- {
-  "slug": "thomas-frank-crystal-palace-appointment",
-  "mode": "llm",
-  "titleKo": "토마스 프랑크, 크리스털 팰리스 감독 부임 가능성",
-  "createdAt": "2026-11-10T06:00:00.000Z",
-  "updatedAt": "2026-11-15T10:15:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "tottenham",
-   "crystal-palace"
-  ],
-  "players": [],
-  "sig": [
-   "frank"
-  ],
-  "articles": [
-   {
-    "id": "770820ed44c7",
-    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
-    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
-    "ko": "크리스털 팰리스, 세이지 경질 가능성 속 토마스 프랑크 유력 후보",
-    "source": "sky",
-    "publishedAt": "2026-11-08T20:56:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c0571f0bf213",
-    "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
-    "title": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
-    "ko": "토마스 프랑크, 토트넘 악몽 뒤 크리스털 팰리스서 명예 회복 가능",
-    "source": "mirror",
-    "publishedAt": "2026-11-09T15:34:02.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "tottenham"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Cross",
-    "transfer": null
-   },
-   {
-    "id": "73b196431796",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-could-be-in-big-trouble-over-thomas-frank",
-    "title": "'Crystal Palace could be in big trouble over Thomas Frank'",
-    "ko": "토마스 프랑크 놓고 크리스털 팰리스 큰 위기 가능성",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-09T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9d4fed4707ec",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-could-raid-tottenham-34882993",
-    "title": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace",
-    "ko": "토마스 프랑크, 크리스털 팰리스行 시 토트넘서 4명 영입 가능성",
-    "source": "fblondon",
-    "publishedAt": "2026-11-10T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "tottenham",
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Fasika Zelealem",
-    "transfer": null
-   },
-   {
-    "id": "06173cf31add",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-leading-list-of-four-names-in-contention-for-crystal-palace-expert",
-    "title": "Thomas Frank leading list of 'four names' in contention for Crystal Palace - expert",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 후보 4인 중 선두",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-10T07:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "24611ea462b4",
-    "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-    "title": "Palace latest: Talks progressing for Frank to succeed Sage",
-    "ko": "팰리스, 세이지 후임 프랭크와 협상 진전",
-    "source": "sky",
-    "publishedAt": "2026-11-11T14:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "781e85dbebfd",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palaces-thomas-frank-appointment-hits-stumbling-block",
-    "title": "Sources: Crystal Palace's Thomas Frank appointment hits stumbling block",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임설에 걸림돌",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-12T14:11:26.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ff9c02087d57",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/next-manager/club-adviser-updates-on-thomas-frank-getting-premium-contract-at-crystal-palace",
-    "title": "Club adviser updates on Thomas Frank getting 'premium contract' at Crystal Palace",
-    "ko": "크리스털 팰리스, 토마스 프랑크에게 프리미엄 계약 제시 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T09:40:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "54fed1d10fc2",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-thomas-frank-to-crystal-palace-update-2",
-    "title": "Sources: Thomas Frank to Crystal Palace update",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 관련 업데이트",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T18:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9f1fbbfa10fd",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-concerns-over-thomas-frank-emerge-amid-new-delay",
-    "title": "Sources: Crystal Palace 'concerns' over Thomas Frank emerge amid new delay",
-    "ko": "크리스털 팰리스, 토마스 프랑크 영입 지연 속 우려 제기",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-15T10:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 4,
-  "score": 0.11,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-08T20:56:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace"
  },
  {
   "slug": "everton-affairs-takeover",
@@ -16734,7 +17031,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16789,7 +17086,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -16897,7 +17194,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17351,9 +17648,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 10,
-  "score": 0.29,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17440,9 +17737,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17529,9 +17826,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17935,9 +18232,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 8,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17990,9 +18287,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -18886,92 +19183,6 @@
    "viaQuote": false
   },
   "headline": "The 'manager's dream' who has put NI one game from history"
- },
- {
-  "slug": "germany-national-team-2026-11-13",
-  "mode": "llm",
-  "titleKo": "독일 대표팀 경기 라이브",
-  "createdAt": "2026-11-13T19:05:09.000Z",
-  "updatedAt": "2026-11-14T23:19:11.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "dfb",
-   "elf",
-   "zugzwang",
-   "klopp",
-   "mittelstädt",
-   "thiaw",
-   "debüt",
-   "gruda"
-  ],
-  "articles": [
-   {
-    "id": "abc2fd5cf66a",
-    "url": "https://www.kicker.de/live-dfb-elf-unter-zugzwang-klopp-setzt-auf-mittelstaedt-und-thiaw-debuet-fuer-gruda-1270832/artikel#omrss",
-    "title": "LIVE! DFB-Elf unter Zugzwang: Klopp setzt auf Mittelstädt und Thiaw - Debüt für Gruda",
-    "ko": "독일 대표팀 라이브, 클린스만 전술 변화와 데뷔 선수 주목",
-    "source": "kicker",
-    "publishedAt": "2026-11-13T19:05:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7a83b7943479",
-    "url": "https://www.kicker.de/deutschland-in-endspiel-form-klopps-plaene-gehen-auf-1271403/video#omrss",
-    "title": "Deutschland in Endspiel-Form: \"Klopps Pläne gehen auf\"",
-    "ko": "독일, 결승전 모드 돌입…'클롭의 계획이 통했다'",
-    "source": "kicker",
-    "publishedAt": "2026-11-13T21:58:56.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "941df37569fb",
-    "url": "https://www.kicker.de/keine-schuetzenhilfe-dfb-team-koennte-sogar-noch-absteigen-1271666/artikel#omrss",
-    "title": "Keine Schützenhilfe: DFB-Team könnte sogar noch absteigen",
-    "ko": "독일 대표팀, 구원 없이 강등 가능성까지",
-    "source": "kicker",
-    "publishedAt": "2026-11-14T23:19:11.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-13T19:05:09.000Z",
-   "viaQuote": false
-  },
-  "headline": "Keine Schützenhilfe: DFB-Team könnte sogar noch absteigen"
  },
  {
   "slug": "italy-france-2026-11-12",

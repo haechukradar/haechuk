@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T20:17:59.057Z",
+ "updatedAt": "2026-11-15T21:05:50.660Z",
  "hot": [
   "jesus-de-miguel-incident",
   "arsenal-london-city-2026-11-15",
-  "france-turkey-2026-11-13",
   "belgium-italy-2026-11-12",
-  "spain-england-2026-11-14"
+  "spain-england-2026-11-14",
+  "france-turkey-2026-11-13"
  ],
  "days": [
   "2026-10-18",
@@ -40,13 +40,13 @@
   "bbc": {
    "ok": true,
    "items": 70,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
@@ -57,9 +57,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 1,
+   "authorRate": 76
   },
   "athletic": {
    "ok": true,
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,14 +88,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 64
+   "added": 6,
+   "authorRate": 66
   },
   "fblondon": {
    "ok": true,
@@ -136,13 +136,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -152,10 +152,8 @@
    "authorRate": 0
   },
   "hln": {
-   "ok": true,
-   "items": 30,
-   "added": 5,
-   "authorRate": 100
+   "ok": false,
+   "error": "HTTP 403"
   },
   "stoke": {
    "ok": true,
@@ -166,7 +164,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -190,7 +188,7 @@
   "fbinsider": {
    "ok": true,
    "items": 14,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -225,7 +223,7 @@
   },
   {
    "name": "호나우지뉴",
-   "count": 28
+   "count": 29
   },
   {
    "name": "JJ 가브리엘",
@@ -317,12 +315,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 57,
+  "recentIssues": 228,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 110
+    "count": 109
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -330,18 +328,14 @@
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 31
+    "count": 29
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 21
+    "count": 23
    },
    {
     "slug": "bruno-fernandes-contract",
-    "count": 19
-   },
-   {
-    "slug": "carrick-manager-future",
     "count": 18
    },
    {
@@ -350,6 +344,10 @@
    },
    {
     "slug": "norway-wales-2026-11-12",
+    "count": 17
+   },
+   {
+    "slug": "carrick-manager-future",
     "count": 17
    },
    {
@@ -411,7 +409,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 22
+     "count": 23
     },
     {
      "ko": "클로프",
@@ -582,6 +580,24 @@
    ]
   },
   {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 3
+    },
+    {
+     "ko": "차비",
+     "count": 1
+    },
+    {
+     "ko": "샤비",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Raúl",
    "dictionary": null,
    "variants": [
@@ -592,24 +608,6 @@
     {
      "ko": "라울 곤살레스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 2
-    },
-    {
-     "ko": "차비",
-     "count": 1
-    },
-    {
-     "ko": "샤비",
-     "count": 1
     }
    ]
   },
@@ -896,20 +894,6 @@
    ]
   },
   {
-   "en": "Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도나룸마",
-     "count": 1
-    },
-    {
-     "ko": "돈나룸마",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "James Garner",
    "dictionary": null,
    "variants": [
@@ -1146,6 +1130,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Begraoui",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "베그라우이",
+     "count": 1
+    },
+    {
+     "ko": "베그라위",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1218,8 +1216,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 259,
-   "llm": 259
+   "collected": 283,
+   "llm": 283
   }
  },
  "llmErrors": []
