@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T19:36:57.528Z",
+ "updatedAt": "2026-11-15T20:17:59.057Z",
  "hot": [
   "jesus-de-miguel-incident",
-  "belgium-italy-2026-11-12",
-  "spain-england-2026-11-14",
+  "arsenal-london-city-2026-11-15",
   "france-turkey-2026-11-13",
-  "bruno-fernandes-contract"
+  "belgium-italy-2026-11-12",
+  "spain-england-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -39,27 +39,27 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 69,
-   "added": 0,
+   "items": 70,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 21,
+   "items": 0,
    "added": 0,
-   "authorRate": 81
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,7 +94,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 0,
    "authorRate": 64
   },
   "fblondon": {
@@ -136,13 +136,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
@@ -166,7 +166,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -178,7 +178,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -190,7 +190,7 @@
   "fbinsider": {
    "ok": true,
    "items": 14,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -225,7 +225,7 @@
   },
   {
    "name": "호나우지뉴",
-   "count": 27
+   "count": 28
   },
   {
    "name": "JJ 가브리엘",
@@ -256,6 +256,10 @@
    "count": 16
   },
   {
+   "name": "반 다이크",
+   "count": 14
+  },
+  {
    "name": "웨인 루니",
    "count": 14
   },
@@ -272,10 +276,6 @@
    "count": 13
   },
   {
-   "name": "반 다이크",
-   "count": 13
-  },
-  {
    "name": "헤수스 오워노",
    "count": 13
   },
@@ -288,15 +288,15 @@
    "count": 13
   },
   {
+   "name": "루카쿠",
+   "count": 13
+  },
+  {
    "name": "콘사",
    "count": 12
   },
   {
    "name": "윌 랭크셔",
-   "count": 12
-  },
-  {
-   "name": "루카쿠",
    "count": 12
   },
   {
@@ -317,12 +317,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 227,
-  "singleArticleRate": 56,
+  "recentIssues": 230,
+  "singleArticleRate": 57,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 113
+    "count": 110
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -330,7 +330,11 @@
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 32
+    "count": 31
+   },
+   {
+    "slug": "spain-england-2026-11-14",
+    "count": 21
    },
    {
     "slug": "bruno-fernandes-contract",
@@ -338,10 +342,6 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 19
-   },
-   {
-    "slug": "spain-england-2026-11-14",
     "count": 18
    },
    {
@@ -351,6 +351,10 @@
    {
     "slug": "norway-wales-2026-11-12",
     "count": 17
+   },
+   {
+    "slug": "france-turkey-2026-11-13",
+    "count": 15
    }
   ]
  },
@@ -407,7 +411,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 21
+     "count": 22
     },
     {
      "ko": "클로프",
@@ -449,7 +453,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 7
+     "count": 5
     },
     {
      "ko": "마크 반 봄멜",
@@ -560,20 +564,6 @@
    ]
   },
   {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오워노",
-     "count": 5
-    },
-    {
-     "ko": "오우오노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -602,24 +592,6 @@
     {
      "ko": "라울 곤살레스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셸더럽",
-     "count": 2
-    },
-    {
-     "ko": "쉐르델루프",
-     "count": 1
-    },
-    {
-     "ko": "셸더루프",
-     "count": 1
     }
    ]
   },
@@ -701,6 +673,20 @@
     },
     {
      "ko": "포코녤리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셸더럽",
+     "count": 2
+    },
+    {
+     "ko": "셸더루프",
      "count": 1
     }
    ]
@@ -821,6 +807,20 @@
     },
     {
      "ko": "로마리우",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marc dos Santos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르크 두스 산투스",
+     "count": 2
+    },
+    {
+     "ko": "마르크 두스 산토스",
      "count": 1
     }
    ]
@@ -1218,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 228,
-   "llm": 228
+   "collected": 259,
+   "llm": 259
   }
  },
  "llmErrors": []
