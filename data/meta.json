@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T03:31:52.691Z",
+ "updatedAt": "2026-11-15T04:37:31.574Z",
  "hot": [
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
@@ -51,7 +51,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -93,7 +93,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 70
   },
   "fblondon": {
@@ -105,7 +105,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -141,13 +141,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "hln": {
@@ -203,11 +203,11 @@
    "count": 38
   },
   {
-   "name": "맥스 다우먼",
-   "count": 34
+   "name": "프레스티아니",
+   "count": 35
   },
   {
-   "name": "프레스티아니",
+   "name": "맥스 다우먼",
    "count": 34
   },
   {
@@ -316,7 +316,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
+  "recentIssues": 230,
   "singleArticleRate": 53,
   "broad": [
    {
@@ -341,7 +341,7 @@
    },
    {
     "slug": "norway-wales-2026-11-12",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "crystal-palace-manager-future",
@@ -725,20 +725,6 @@
     {
      "ko": "셀리아 구베이아",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 3
-    },
-    {
-     "ko": "클린스만",
-     "count": 1
     }
    ]
   },
@@ -1181,6 +1167,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jurrien Timber",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야프리엔 팀버",
+     "count": 1
+    },
+    {
+     "ko": "유리엔 팀버",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1249,8 +1249,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 415,
-   "llm": 415
+   "collected": 426,
+   "llm": 426
   }
  },
  "llmErrors": []
