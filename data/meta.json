@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-15T11:50:24.264Z",
+ "updatedAt": "2026-11-15T12:36:58.346Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
   "spain-england-2026-11-14",
-  "bruno-fernandes-contract",
+  "pochettino-man-utd-manager-future",
   "tuchel-de-la-fuente-relationship",
+  "bruno-fernandes-contract",
   "mexico-jamaica-2026-11-14"
  ],
  "days": [
@@ -39,26 +39,26 @@
   "bbc": {
    "ok": true,
    "items": 66,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 21,
-   "added": 6,
-   "authorRate": 81
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,31 +87,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 66
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -141,13 +141,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -165,13 +165,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
@@ -183,13 +183,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 2,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -235,11 +235,11 @@
    "count": 18
   },
   {
-   "name": "데 미겔",
-   "count": 17
+   "name": "베르나르두 실바",
+   "count": 18
   },
   {
-   "name": "베르나르두 실바",
+   "name": "데 미겔",
    "count": 17
   },
   {
@@ -316,7 +316,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
+  "recentIssues": 230,
   "singleArticleRate": 55,
   "broad": [
    {
@@ -329,7 +329,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 46
+    "count": 41
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -344,15 +344,11 @@
     "count": 18
    },
    {
-    "slug": "england-spain-2026-11-14",
-    "count": 16
-   },
-   {
     "slug": "norway-wales-2026-11-12",
-    "count": 16
+    "count": 17
    },
    {
-    "slug": "crystal-palace-manager-future",
+    "slug": "england-spain-2026-11-14",
     "count": 16
    }
   ]
@@ -433,28 +429,6 @@
    ]
   },
   {
-   "en": "Pierre Sage",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피에르 사주",
-     "count": 7
-    },
-    {
-     "ko": "피에르 세이지",
-     "count": 6
-    },
-    {
-     "ko": "피에르 사지",
-     "count": 2
-    },
-    {
-     "ko": "피에르 사게",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -477,10 +451,6 @@
      "count": 6
     },
     {
-     "ko": "마크 판 봄멜",
-     "count": 3
-    },
-    {
      "ko": "마르크 판 봄멜",
      "count": 2
     },
@@ -493,8 +463,52 @@
      "count": 2
     },
     {
+     "ko": "마크 판 봄멜",
+     "count": 2
+    },
+    {
      "ko": "마크 반 보멜",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pierre Sage",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피에르 사주",
+     "count": 7
+    },
+    {
+     "ko": "피에르 세이지",
+     "count": 3
+    },
+    {
+     "ko": "피에르 사지",
+     "count": 2
+    },
+    {
+     "ko": "피에르 사게",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 4
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "튀헬",
+     "count": 3
     }
    ]
   },
@@ -516,42 +530,6 @@
     },
     {
      "ko": "스티븐 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "투헬",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 5
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 2
-    },
-    {
-     "ko": "마티아스 자이슬",
      "count": 1
     }
    ]
@@ -633,20 +611,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 4
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
@@ -656,6 +620,20 @@
     },
     {
      "ko": "리오 퍼디난드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 3
+    },
+    {
+     "ko": "파울루 퐁세카",
      "count": 1
     }
    ]
@@ -863,20 +841,6 @@
    ]
   },
   {
-   "en": "Romário",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호마리우",
-     "count": 2
-    },
-    {
-     "ko": "로마리우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hojlund",
    "dictionary": null,
    "variants": [
@@ -886,6 +850,20 @@
     },
     {
      "ko": "회이룬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Romário",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호마리우",
+     "count": 2
+    },
+    {
+     "ko": "로마리우",
      "count": 1
     }
    ]
@@ -914,20 +892,6 @@
     },
     {
      "ko": "재미 캐러거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Öztunali",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "외즈투날리",
-     "count": 1
-    },
-    {
-     "ko": "외스투나리",
      "count": 1
     }
    ]
@@ -1143,6 +1107,20 @@
    ]
   },
   {
+   "en": "James Garner",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제임스 개리너",
+     "count": 1
+    },
+    {
+     "ko": "제임스 개너",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jurrien Timber",
    "dictionary": null,
    "variants": [
@@ -1166,6 +1144,20 @@
     },
     {
      "ko": "도움비아",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alan Ruschel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알란 루셸",
+     "count": 1
+    },
+    {
+     "ko": "알란 루셀",
      "count": 1
     }
    ]
@@ -1237,8 +1229,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 618,
-   "llm": 618
+   "collected": 646,
+   "llm": 646
   }
  },
  "llmErrors": []
