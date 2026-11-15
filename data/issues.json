@@ -4,7 +4,7 @@
   "mode": "llm",
   "titleKo": "스페인 대 잉글랜드 네이션스리그 경기",
   "createdAt": "2026-11-15T07:00:00.000Z",
-  "updatedAt": "2026-11-15T23:00:31.000Z",
+  "updatedAt": "2026-11-15T23:52:43.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -25,7 +25,9 @@
    "루이스 홀",
    "벨링엄",
    "콰단사",
-   "파비안 루이스"
+   "파비안 루이스",
+   "트래퍼드",
+   "픽포드"
   ],
   "sig": [
    "england",
@@ -705,6 +707,22 @@
     "transfer": null
    },
    {
+    "id": "79de484414bd",
+    "url": "https://as.com/futbol/fotorrelato/las-imagenes-que-decidieron-el-espana-2-3-inglaterra-f202611-f/",
+    "title": "Las imágenes que decidieron el España 2-3 Inglaterra",
+    "ko": "스페인 2-3 잉글랜드 경기 장면들",
+    "source": "as",
+    "publishedAt": "2026-11-15T22:10:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
     "id": "d5b08ae6fa3f",
     "url": "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
     "title": "Who swaggered around like he owned the place? Spain v England ratings",
@@ -851,11 +869,78 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "7ed7313caab0",
+    "url": "https://www.thesun.co.uk/sport/41033151/james-trafford-jordan-pickford-england-spain/",
+    "title": "‘World class’ – James Trafford leaves England fans fearing for Pickford with stunning double save to earn Spain win",
+    "ko": "트래퍼드, 스페인전 결정적 선방으로 승리 견인 — 픽포드 우려 키워",
+    "source": "sun",
+    "publishedAt": "2026-11-15T23:31:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "트래퍼드",
+     "픽포드"
+    ],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   },
+   {
+    "id": "438bcc2040ab",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/de-la-fuente-orgulhoso-apesar-da-derrota-com-inglaterra-so-tiro-coisas-positivas",
+    "title": "De la Fuente orgulhoso apesar da derrota com Inglaterra: «Só tiro coisas positivas»",
+    "ko": "데 라 푸엔테, 잉글랜드전 패배에도 긍정 평가 \"긍정적인 것만 말하겠다\"",
+    "source": "record",
+    "publishedAt": "2026-11-15T23:37:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0ea85f4280c3",
+    "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league",
+    "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
+    "ko": "잉글랜드, 스페인전 두 막 구성…첫 막 훌륭, 둘째 막 영웅적 — 시드 로 칼럼",
+    "source": "guardian",
+    "publishedAt": "2026-11-15T23:50:31.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sid Lowe at the Riyadh Air Metropolitano",
+    "transfer": null
+   },
+   {
+    "id": "c931ce8145f8",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o?at_medium=RSS&at_campaign=rss",
+    "title": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+    "ko": "잉글랜드, 스페인 원정서 전반 완벽·후반 혼돈 끝 승리 — 경기 평가",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T23:52:43.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 12,
   "sourceCount": 12,
-  "score": 8.42,
+  "score": 7.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -871,49 +956,183 @@
    "at": "2026-11-15T07:00:00.000Z",
    "viaQuote": true
   },
-  "headline": "Who swaggered around like he owned the place? Spain v England ratings"
+  "headline": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages"
  },
  {
-  "slug": "pochettino-usmnt-manager-future",
+  "slug": "player-death-incident",
   "mode": "llm",
-  "titleKo": "포체티노 미국 대표팀 감독 거취 논란",
-  "createdAt": "2026-11-15T13:48:36.000Z",
-  "updatedAt": "2026-11-15T22:45:00.000Z",
-  "category": "manager",
+  "titleKo": "선수 사망 후 경기 재개 준비",
+  "createdAt": "2026-11-13T10:00:46.000Z",
+  "updatedAt": "2026-11-15T23:34:51.000Z",
+  "category": "other",
   "stage": null,
   "clubs": [],
-  "players": [],
+  "players": [
+   "오워노"
+  ],
   "sig": [
-   "mauricio",
-   "pochettino"
+   "jesus",
+   "miguel"
   ],
   "articles": [
    {
-    "id": "5f7b3ac316f0",
-    "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-united-states-job-37879154",
-    "title": "Pep Guardiola's stance on replacing Mauricio Pochettino as US boss after next job hint",
-    "ko": "과르디올라, 미국 대표팀 포체티노 후임 관련 입장 주목",
-    "source": "mirror",
-    "publishedAt": "2026-11-15T13:48:36.000Z",
+    "id": "1fc6aca725be",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
+    "title": "The club preparing to play again after the death of a player",
+    "ko": "선수 사망 후 경기 재개 준비하는 구단",
+    "source": "bbc",
+    "publishedAt": "2026-11-13T10:00:46.000Z",
     "credited": null,
     "clubs": [],
-    "category": "manager",
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Dan Marsh",
+    "author": null,
     "transfer": null
    },
    {
-    "id": "c26d222a7b4e",
-    "url": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
-    "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
-    "ko": "과르디올라, 포체티노 후임 미국 대표팀 제안 거절 전망",
-    "source": "sky",
-    "publishedAt": "2026-11-15T22:45:00.000Z",
+    "id": "364913c94ec8",
+    "url": "https://www.dailystar.co.uk/sport/football/footballer-22-dies-after-being-37874088",
+    "title": "Footballer, 22, dies after being subbed as club remember 'extraordinary' human",
+    "ko": "교체 후 숨진 22세 선수, 구단 “놀라운 사람” 추모",
+    "source": "star",
+    "publishedAt": "2026-11-13T13:39:09.000Z",
     "credited": null,
     "clubs": [],
-    "category": "manager",
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield",
+    "transfer": null
+   },
+   {
+    "id": "91fd5ecfe5a3",
+    "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37846172",
+    "title": "Goalkeeper involved in fatal Jesus de Miguel collision receives huge ban from football",
+    "ko": "헤수스 데 미겔 사망 충돌 관련 골키퍼 축구 출전 금지 중징계",
+    "source": "mirror",
+    "publishedAt": "2026-11-13T21:04:32.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Patrick Austen-Hardy, Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "3713013b6fe3",
+    "url": "https://www.lequipe.fr/Football/Actualites/Jesus-owono-suspendu-douze-matches-apres-sa-sortie-ayant-cause-la-mort-de-jesus-de-miguel/1743519#at_medium=RSS_feeds",
+    "title": "Jesus Owono suspendu douze matches après sa sortie ayant causé la mort de Jesus de Miguel",
+    "ko": "오워노, 데 미겔 사망 원인 된 퇴장 후 12경기 출장 정지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-13T21:43:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "e066e9986511",
+    "url": "https://www.kicker.de/nach-tod-von-gegenspieler-de-miguel-torhueter-owono-fuer-zwoelf-partien-gesperrt-1271394/artikel#omrss",
+    "title": "Nach Tod von Gegenspieler de Miguel: Torhüter Owono für zwölf Partien gesperrt",
+    "ko": "데 미겔 사망 후 골키퍼 오워노 12경기 출장 정지",
+    "source": "kicker",
+    "publishedAt": "2026-11-13T21:50:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1fd9c2dd0b95",
+    "url": "https://www.record.pt/internacional/detalhe/exercito-israelita-mata-futebolista-palestiniano-que-apoiou-vitimas-em-gaza",
+    "title": "Exército israelita mata futebolista palestiniano que apoiou vítimas em Gaza",
+    "ko": "이스라엘군, 가자 피해자 지원한 팔레스타인 선수 살해",
+    "source": "record",
+    "publishedAt": "2026-11-14T10:23:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4bc5c6fa8b64",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+    "title": "Pitch perimeters under review after Vigar death",
+    "ko": "비가 사망 후 경기장 주변 점검 착수",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T13:49:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2d7941c7d75d",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+    "title": "Club's first match since player's death abandoned because of serious injury",
+    "ko": "선수 사망 후 첫 경기 중단, 중상자 발생",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T14:06:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9eedf2945f10",
+    "url": "https://www.thesun.co.uk/sport/41029817/non-league-game-abandoned-hendon-ethan-creary-injury-ezekiel/",
+    "title": "Non-league game abandoned after seven minutes as star suffers serious injury days after team-mate’s tragic death",
+    "ko": "비리그 경기, 선수 사망 직후 주축 부상으로 7분 만에 중단",
+    "source": "sun",
+    "publishedAt": "2026-11-15T14:58:55.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "19e5d37f4dbb",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/maldicao-na-8-divisao-primeiro-jogo-apos-morte-de-jogador-interrompido-devido-a-grave-lesao",
+    "title": "Maldição na 8.ª divisão: primeiro jogo após morte de jogador interrompido devido a grave lesão",
+    "ko": "8부 리그, 선수 사망 후 첫 경기 중 중상 부상으로 중단",
+    "source": "record",
+    "publishedAt": "2026-11-15T23:34:51.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -921,232 +1140,381 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 1.96,
-  "topTier": 2,
+  "recentSources": 3,
+  "sourceCount": 7,
+  "score": 2.53,
+  "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-15T13:48:36.000Z",
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-13T10:00:46.000Z",
    "viaQuote": false
   },
-  "headline": "Papers: Guardiola to reject USA approach to replace Pochettino"
+  "headline": "Club's first match since player's death abandoned because of serious injury"
  },
  {
-  "slug": "ronaldo-tribute-2026-11-14",
+  "slug": "belgium-italy-2026-11-12",
   "mode": "llm",
-  "titleKo": "포르투갈, 호날두에 등번호 7 헌정",
-  "createdAt": "2026-11-14T19:51:00.000Z",
-  "updatedAt": "2026-11-15T22:45:00.000Z",
-  "category": "other",
+  "titleKo": "벨기에 대 이탈리아 네이션스리그 경기",
+  "createdAt": "2026-11-15T06:45:00.000Z",
+  "updatedAt": "2026-11-15T23:00:03.000Z",
+  "category": "match",
   "stage": null,
   "clubs": [],
   "players": [
-   "크리스티아누 호날두",
-   "호날두",
-   "루벤 디아스",
-   "메시"
+   "루카쿠",
+   "더브라위너",
+   "제레미 도쿠",
+   "로멜루 루카쿠",
+   "두쿠",
+   "반 봄멜"
   ],
   "sig": [
-   "ronaldo",
-   "seleção",
-   "nacional",
-   "braga"
+   "italie",
+   "belgique",
+   "van",
+   "bommel"
   ],
   "articles": [
    {
-    "id": "bc4e88073168",
-    "url": "https://www.record.pt/multimedia/fotogalerias/detalhe/todos-com-o-7-de-ronaldo-nas-costas-a-homenagem-dos-jogadores-da-selecao-nacional-em-braga",
-    "title": "Todos com o 7 de Ronaldo nas costas: a homenagem dos jogadores da Seleção Nacional em Braga",
-    "ko": "포르투갈 대표 선수들, 브라가에서 등번호 7 달고 호날두에 경의",
-    "source": "record",
-    "publishedAt": "2026-11-14T19:51:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "크리스티아누 호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "31c1f85e15d6",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-les-joueurs-portugais-entrent-avec-le-numero-7-en-hommage-a-cristiano-ronaldo/20245568#at_medium=RSS_feeds",
-    "title": "Les Portugais honorent Cristiano Ronaldo et entrent avec le numéro 7",
-    "ko": "포르투갈 선수들, 호날두 등번호 7번으로 경의 표해",
+    "id": "c0bf5e36b17a",
+    "url": "https://www.lequipe.fr/Football/Actualites/-une-pression-saine-et-formatrice-contre-l-italie-un-premier-match-couperet-pour-la-belgique-de-van-bommel/1743756#at_medium=RSS_feeds",
+    "title": "« Une pression saine et formatrice » : contre l'Italie, un premier match couperet pour la Belgique de Van Bommel",
+    "ko": "벨기에, 반 봄멜 체제서 이탈리아전 '생존' 압박 속 첫 경기",
     "source": "lequipe",
-    "publishedAt": "2026-11-14T19:52:00.000Z",
+    "publishedAt": "2026-11-15T06:45:00.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "match",
     "stage": null,
-    "players": [
-     "크리스티아누 호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Joël Domenighetti",
     "transfer": null
    },
    {
-    "id": "f1ed4c8e1aef",
-    "url": "https://www.hln.be/buitenlands-voetbal/shirts-met-zijn-rugnummer-een-indrukwekkende-tifo-en-applaus-in-minuut-zeven-portugezen-brengen-mooi-eerbetoon-aan-cristiano-ronaldo~a0325bbd/",
-    "title": "Shirts met zijn rugnummer, een indrukwekkende tifo en applaus in minuut zeven: Portugezen brengen mooi eerbetoon aan Cristiano Ronaldo",
-    "ko": "포르투갈 선수단, 경기 전 호날두 등번호 7번 달고 경의",
+    "id": "24dd73cdfe38",
+    "url": "https://www.hln.be/rode-duivels/live-met-romelu-lukaku-als-romeinse-krijger-en-kevin-de-bruyne-als-julius-caesar-fans-bereiden-tifo-voor-in-aanloop-naar-clash-met-italianen~a33f296c/",
+    "title": "LIVE. Met Romelu Lukaku als Romeinse krijger en Kevin De Bruyne als Julius Caesar: fans bereiden tifo voor in aanloop naar clash met Italianen",
+    "ko": "루카쿠·더브라위너 콘셉트 티포 준비, 이탈리아전 앞둔 벨기에 팬",
     "source": "hln",
-    "publishedAt": "2026-11-14T20:07:00.000Z",
+    "publishedAt": "2026-11-15T12:35:00.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "match",
     "stage": null,
     "players": [
-     "크리스티아누 호날두"
+     "루카쿠",
+     "더브라위너"
     ],
     "playerTags": [
-     "cristiano-ronaldo"
+     "kevin-de-bruyne"
     ],
     "author": "Redactie",
     "transfer": null
    },
    {
-    "id": "52104d0a05db",
-    "url": "https://www.lequipe.fr/Football/Actualites/Banderole-et-maillots-speciaux-l-hommage-du-portugal-a-cristiano-ronaldo-avant-le-match-contre-le-danemark/1743716#at_medium=RSS_feeds",
-    "title": "Banderole et maillots spéciaux : l'hommage du Portugal à Cristiano Ronaldo avant le match contre le Danemark",
-    "ko": "포르투갈, 덴마크전 앞두고 호날두에 헌정 배너·특별 유니폼",
+    "id": "2e4bc4e970ae",
+    "url": "https://www.mirror.co.uk/sport/football/news/how-watch-belgium-vs-italy-37873957",
+    "title": "How to watch Belgium vs Italy - TV channel, live stream, kick-off time",
+    "ko": "벨기에 대 이탈리아 네이션스리그 경기 중계 정보",
+    "source": "mirror",
+    "publishedAt": "2026-11-15T18:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Polden",
+    "transfer": null
+   },
+   {
+    "id": "ddf1de1e876f",
+    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
+    "title": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
+    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
+    "source": "as",
+    "publishedAt": "2026-11-15T18:45:41.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Raúl Castro",
+    "transfer": null
+   },
+   {
+    "id": "0f8019ee779b",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261115-144439-belgica-italia-em-direto",
+    "title": "Bélgica-Itália, em direto",
+    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
+    "source": "record",
+    "publishedAt": "2026-11-15T18:50:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f84e1eabd254",
+    "url": "https://www.hln.be/rode-duivels/live-stadion-is-uitverkocht-voor-komst-van-italie-mark-van-bommel-is-op-zijn-hoede-maar-wij-hoeven-niet-bang-te-zijn~a33f296c/",
+    "title": "LIVE. Stadion is uitverkocht voor komst van Italië, Mark van Bommel is op zijn hoede: “Maar wij hoeven niet bang te zijn”",
+    "ko": "이탈리아 맞이 경기장 매진, 반 봄멜 \"방심은 금물\"",
+    "source": "hln",
+    "publishedAt": "2026-11-15T19:21:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "f4fedbbfbd88",
+    "url": "https://www.hln.be/rode-duivels/live-3-1-met-een-weergaloze-goal-van-jeremy-doku-als-voorlopig-orgelpunt-rode-duivels-blazen-italie-weg~a33f296c/",
+    "title": "LIVE. 3-1! Met een weergaloze goal van Jérémy Doku als (voorlopig?) orgelpunt: Rode Duivels blazen Italië weg",
+    "ko": "도쿠 발리 원더골로 벨기에, 이탈리아 3-1 격파",
+    "source": "hln",
+    "publishedAt": "2026-11-15T20:16:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "제레미 도쿠"
+    ],
+    "playerTags": [
+     "jeremy-doku"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "c893c4df5bca",
+    "url": "https://www.hln.be/rode-duivels/kijk-ze-hebben-geen-vertrouwen-ook-als-bankzitter-speelt-romelu-lukaku-zijn-rol-als-leider-met-speech-voor-de-aftrap~ad017cc5/",
+    "title": "KIJK. “Ze hebben geen vertrouwen!”: ook als bankzitter speelt Romelu Lukaku zijn rol als leider met speech voor de aftrap",
+    "ko": "루카쿠, 벤치에서도 리더 역할…킥오프 전 연설",
+    "source": "hln",
+    "publishedAt": "2026-11-15T20:16:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "로멜루 루카쿠"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "7d7f50052ad4",
+    "url": "https://www.hln.be/rode-duivels/kijk-een-resem-kansen-en-vier-goals-herbeleef-hoe-rode-duivels-het-in-dolle-openingsfase-helemaal-omdraaiden-tegen-italie~a3df8cde/",
+    "title": "KIJK. Een resem kansen én vier goals: herbeleef hoe Rode Duivels het in dolle openingsfase helemaal omdraaiden tegen Italië",
+    "ko": "벨기에, 이탈리아 상대 초반 맹공 끝에 역전승 과정 재조명",
+    "source": "hln",
+    "publishedAt": "2026-11-15T20:33:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jordi De Koninck",
+    "transfer": null
+   },
+   {
+    "id": "cd4a8db603b6",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-belgique-jeremy-doku-slalome-dans-la-defense-italienne-et-enflamme-le-stade-roi-baudouin/20245645#at_medium=RSS_feeds",
+    "title": "Le magnifique slalom de Doku pour marquer face à l'Italie",
+    "ko": "두쿠, 이탈리아전 지그재그 드리블 골",
     "source": "lequipe",
-    "publishedAt": "2026-11-14T20:19:33.000Z",
-    "credited": "레키프",
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": "Régis Dupont",
-    "transfer": null
-   },
-   {
-    "id": "f511abc5a2af",
-    "url": "https://www.record.pt/futebol/selecoes/detalhe/ruben-dias-comenta-homenagem-a-cr7-e-lamenta-penalti-cometido-foi-um-bocadinho-do-nada",
-    "title": "Rúben Dias comenta homenagem a CR7 e lamenta penálti cometido: «Foi um bocadinho do nada»",
-    "ko": "루벤 디아스, 호날두 헌정 소감과 페널티 실수 언급",
-    "source": "record",
-    "publishedAt": "2026-11-14T22:11:00.000Z",
+    "publishedAt": "2026-11-15T20:36:00.000Z",
     "credited": null,
     "clubs": [],
     "category": "match",
     "stage": null,
     "players": [
-     "루벤 디아스",
-     "호날두"
+     "두쿠"
     ],
     "playerTags": [
-     "cristiano-ronaldo"
+     "jeremy-doku"
     ],
     "author": null,
     "transfer": null
    },
    {
-    "id": "ddcf4742431e",
-    "url": "https://www.record.pt/futebol/selecoes/detalhe/dinamarqueses-aplaudiram-ronaldo-mas-tambem-gritaram-por-messi",
-    "title": "Dinamarqueses aplaudiram Ronaldo... mas também gritaram por Messi",
-    "ko": "덴마크 팬들이 호날두에게 박수, 메시 이름도 외쳐",
-    "source": "record",
-    "publishedAt": "2026-11-15T05:35:00.000Z",
+    "id": "c09cb0d9a87a",
+    "url": "https://www.hln.be/rode-duivels/kijk-wat-zou-dat-betekenen-jeremy-doku-scoort-na-heerlijke-dribbel-en-pakt-dan-uit-met-opmerkelijke-viering-richting-de-camera~a29802c0/",
+    "title": "KIJK. Wat zou dat betekenen? Jeremy Doku scoort na heerlijke dribbel en pakt dan uit met opmerkelijke viering richting de camera",
+    "ko": "도쿠, 드리블 돌파 후 득점하고 카메라 향해 이색 세리머니",
+    "source": "hln",
+    "publishedAt": "2026-11-15T20:43:00.000Z",
     "credited": null,
     "clubs": [],
     "category": "match",
     "stage": null,
     "players": [
-     "호날두",
-     "메시"
+     "제레미 도쿠"
     ],
     "playerTags": [
-     "lionel-messi",
-     "cristiano-ronaldo"
+     "jeremy-doku"
     ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "5a7f0505c476",
+    "url": "https://www.hln.be/rode-duivels/live-geweldige-rode-duivels-blazen-italie-weg-4-1-en-mogen-naar-kwartfinales-nations-league-volg-hier-de-reacties~a33f296c/",
+    "title": "LIVE. Gewéldige Rode Duivels blazen Italië weg (4-1) en mogen naar kwartfinales Nations League - volg hier de reacties!",
+    "ko": "벨기에, 이탈리아 4-1 격파…네이션스리그 8강 진출",
+    "source": "hln",
+    "publishedAt": "2026-11-15T21:41:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "3319063b381d",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-belgique-assomme-l-italie-et-accompagne-la-france-en-quarts-de-finale-de-la-ligue-des-nations/1743893#at_medium=RSS_feeds",
+    "title": "La Belgique assomme l'Italie et accompagne la France en quarts de finale de la Ligue des nations",
+    "ko": "벨기에, 이탈리아 격파하고 프랑스와 함께 8강행",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T21:41:54.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "cc2d8d267ce6",
+    "url": "https://as.com/futbol/internacional/bochorno-de-italia-f202611-n/",
+    "title": "Bochorno de Italia",
+    "ko": "이탈리아, 벨기에전 참패 후 굴욕",
+    "source": "as",
+    "publishedAt": "2026-11-15T21:45:50.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sabrina Uccello",
+    "transfer": null
+   },
+   {
+    "id": "a62f8f1055af",
+    "url": "https://www.hln.be/rode-duivels/komt-dat-zien-mensen-twee-absolute-uitblinkers-waaronder-een-keizer-krijgen-een-9-bij-rode-duivels-in-riante-zege-tegen-italie~a3697085/",
+    "title": "“Komt dat zien, mensen”: twee absolute uitblinkers, waaronder één “keizer”, krijgen een 9 bij Rode Duivels in riante zege tegen Italië",
+    "ko": "벨기에, 이탈리아 완파…8강행 주역 평점 9점",
+    "source": "hln",
+    "publishedAt": "2026-11-15T21:47:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Axel Brisart",
+    "transfer": null
+   },
+   {
+    "id": "174211924d3f",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-de-belgique-italie/20245652#at_medium=RSS_feeds",
+    "title": "Le résumé vidéo de Belgique - Italie",
+    "ko": "벨기에 대 이탈리아 경기 영상 요약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T21:55:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "dd3d68c1c1b3",
-    "url": "https://www.nytimes.com/athletic/7778928/2026/11/15/portugal-cristiano-ronaldo-defeat/",
-    "title": "How Portugal's send-off for Cristiano Ronaldo turned into a horror show",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-15T06:36:45.000Z",
+    "id": "8718707f253a",
+    "url": "https://www.hln.be/rode-duivels/mark-van-bommel-heeft-van-de-rode-duivels-een-heerlijke-barolo-gemaakt-onze-chef-voetbal-niels-poissonnier-genoot-van-wervelend-belgie~a2eb069f/",
+    "title": "“Mark van Bommel heeft van de Rode Duivels een héérlijke Barolo gemaakt”: onze chef voetbal Niels Poissonnier genoot van wervelend België",
+    "ko": "반 봄멜, 벨기에 대표팀 경기 내용 호평",
+    "source": "hln",
+    "publishedAt": "2026-11-15T22:06:00.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "manager",
     "stage": null,
     "players": [
-     "크리스티아누 호날두"
+     "반 봄멜"
     ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": null,
+    "playerTags": [],
+    "author": "Niels Poissonnier",
     "transfer": null
    },
    {
-    "id": "77c132e3f4fb",
-    "url": "https://www.record.pt/multimedia/record-na-hora/detalhe/homenagem-a-cristiano-ronaldo-sem-o-homenageado-isto-so-acontece-em-portugal-e-vai-para-o-guiness",
-    "title": "«Homenagem a Cristiano Ronaldo sem o homenageado... Isto só acontece em Portugal e vai para o Guinness»",
-    "ko": "호날두 등번호 헌정 행사, 포르투갈 현지 반응 화제",
-    "source": "record",
-    "publishedAt": "2026-11-15T22:45:00.000Z",
+    "id": "23434a3065a6",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-belgique-italie-diego-moreira-a-donne-le-tournis-a-riccardo-calafiori/1743920#at_medium=RSS_feeds",
+    "title": "Les notes de Belgique-Italie",
+    "ko": "벨기에-이탈리아전 선수 평점",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T23:00:03.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "match",
     "stage": null,
-    "players": [
-     "호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Joël Domenighetti",
     "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 4,
-  "score": 1.84,
-  "topTier": 1,
+  "recentSources": 5,
+  "sourceCount": 5,
+  "score": 3.14,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
-   "cristiano-ronaldo",
-   "lionel-messi"
+   "kevin-de-bruyne",
+   "jeremy-doku"
   ],
   "transfer": null,
   "firstReport": {
-   "name": "레키프",
-   "at": "2026-11-14T19:51:00.000Z",
-   "viaQuote": true
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-15T06:45:00.000Z",
+   "viaQuote": false
   },
-  "headline": "How Portugal's send-off for Cristiano Ronaldo turned into a horror show"
+  "headline": "Les notes de Belgique-Italie"
  },
  {
   "slug": "france-turkey-2026-11-13",
   "mode": "llm",
   "titleKo": "프랑스 대 튀르키예 네이션스리그 경기",
   "createdAt": "2026-11-13T08:02:00.000Z",
-  "updatedAt": "2026-11-15T22:42:28.000Z",
+  "updatedAt": "2026-11-15T22:57:48.000Z",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -1624,11 +1992,27 @@
     "playerTags": [],
     "author": "Rédaction",
     "transfer": null
+   },
+   {
+    "id": "a1113937e604",
+    "url": "https://www.lequipe.fr/Football/Actualites/Zinedine-zidane-selectionneur-des-bleus-apres-la-victoire-contre-la-turquie-j-ai-des-joueurs-qui-ne-trichent-pas/1743918#at_medium=RSS_feeds",
+    "title": "Zinédine Zidane, sélectionneur des Bleus, après la victoire contre la Turquie : « J'ai des joueurs qui ne trichent pas »",
+    "ko": "지단 감독, 튀르키예전 승리 후 \"우리 선수들은 속이지 않는다\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-15T22:57:48.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Alex Marinello",
+    "transfer": null
    }
   ],
   "recentSources": 5,
   "sourceCount": 6,
-  "score": 4.46,
+  "score": 4.04,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1642,7 +2026,275 @@
    "at": "2026-11-13T08:02:00.000Z",
    "viaQuote": true
   },
-  "headline": "Éli Junior Kroupi après son premier but avec l'équipe de France contre la Turquie : « Rester concentré sur les prochaines sélections »"
+  "headline": "Zinédine Zidane, sélectionneur des Bleus, après la victoire contre la Turquie : « J'ai des joueurs qui ne trichent pas »"
+ },
+ {
+  "slug": "pochettino-usmnt-manager-future",
+  "mode": "llm",
+  "titleKo": "포체티노 미국 대표팀 감독 거취 논란",
+  "createdAt": "2026-11-15T13:48:36.000Z",
+  "updatedAt": "2026-11-15T22:45:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "mauricio",
+   "pochettino"
+  ],
+  "articles": [
+   {
+    "id": "5f7b3ac316f0",
+    "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-united-states-job-37879154",
+    "title": "Pep Guardiola's stance on replacing Mauricio Pochettino as US boss after next job hint",
+    "ko": "과르디올라, 미국 대표팀 포체티노 후임 관련 입장 주목",
+    "source": "mirror",
+    "publishedAt": "2026-11-15T13:48:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Dan Marsh",
+    "transfer": null
+   },
+   {
+    "id": "c26d222a7b4e",
+    "url": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
+    "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
+    "ko": "과르디올라, 포체티노 후임 미국 대표팀 제안 거절 전망",
+    "source": "sky",
+    "publishedAt": "2026-11-15T22:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.73,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-15T13:48:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "Papers: Guardiola to reject USA approach to replace Pochettino"
+ },
+ {
+  "slug": "ronaldo-tribute-2026-11-14",
+  "mode": "llm",
+  "titleKo": "포르투갈, 호날두에 등번호 7 헌정",
+  "createdAt": "2026-11-14T19:51:00.000Z",
+  "updatedAt": "2026-11-15T22:45:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "크리스티아누 호날두",
+   "호날두",
+   "루벤 디아스",
+   "메시"
+  ],
+  "sig": [
+   "ronaldo",
+   "seleção",
+   "nacional",
+   "braga"
+  ],
+  "articles": [
+   {
+    "id": "bc4e88073168",
+    "url": "https://www.record.pt/multimedia/fotogalerias/detalhe/todos-com-o-7-de-ronaldo-nas-costas-a-homenagem-dos-jogadores-da-selecao-nacional-em-braga",
+    "title": "Todos com o 7 de Ronaldo nas costas: a homenagem dos jogadores da Seleção Nacional em Braga",
+    "ko": "포르투갈 대표 선수들, 브라가에서 등번호 7 달고 호날두에 경의",
+    "source": "record",
+    "publishedAt": "2026-11-14T19:51:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "31c1f85e15d6",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-les-joueurs-portugais-entrent-avec-le-numero-7-en-hommage-a-cristiano-ronaldo/20245568#at_medium=RSS_feeds",
+    "title": "Les Portugais honorent Cristiano Ronaldo et entrent avec le numéro 7",
+    "ko": "포르투갈 선수들, 호날두 등번호 7번으로 경의 표해",
+    "source": "lequipe",
+    "publishedAt": "2026-11-14T19:52:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f1ed4c8e1aef",
+    "url": "https://www.hln.be/buitenlands-voetbal/shirts-met-zijn-rugnummer-een-indrukwekkende-tifo-en-applaus-in-minuut-zeven-portugezen-brengen-mooi-eerbetoon-aan-cristiano-ronaldo~a0325bbd/",
+    "title": "Shirts met zijn rugnummer, een indrukwekkende tifo en applaus in minuut zeven: Portugezen brengen mooi eerbetoon aan Cristiano Ronaldo",
+    "ko": "포르투갈 선수단, 경기 전 호날두 등번호 7번 달고 경의",
+    "source": "hln",
+    "publishedAt": "2026-11-14T20:07:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "52104d0a05db",
+    "url": "https://www.lequipe.fr/Football/Actualites/Banderole-et-maillots-speciaux-l-hommage-du-portugal-a-cristiano-ronaldo-avant-le-match-contre-le-danemark/1743716#at_medium=RSS_feeds",
+    "title": "Banderole et maillots spéciaux : l'hommage du Portugal à Cristiano Ronaldo avant le match contre le Danemark",
+    "ko": "포르투갈, 덴마크전 앞두고 호날두에 헌정 배너·특별 유니폼",
+    "source": "lequipe",
+    "publishedAt": "2026-11-14T20:19:33.000Z",
+    "credited": "레키프",
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Régis Dupont",
+    "transfer": null
+   },
+   {
+    "id": "f511abc5a2af",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/ruben-dias-comenta-homenagem-a-cr7-e-lamenta-penalti-cometido-foi-um-bocadinho-do-nada",
+    "title": "Rúben Dias comenta homenagem a CR7 e lamenta penálti cometido: «Foi um bocadinho do nada»",
+    "ko": "루벤 디아스, 호날두 헌정 소감과 페널티 실수 언급",
+    "source": "record",
+    "publishedAt": "2026-11-14T22:11:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "루벤 디아스",
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ddcf4742431e",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/dinamarqueses-aplaudiram-ronaldo-mas-tambem-gritaram-por-messi",
+    "title": "Dinamarqueses aplaudiram Ronaldo... mas também gritaram por Messi",
+    "ko": "덴마크 팬들이 호날두에게 박수, 메시 이름도 외쳐",
+    "source": "record",
+    "publishedAt": "2026-11-15T05:35:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "호날두",
+     "메시"
+    ],
+    "playerTags": [
+     "lionel-messi",
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dd3d68c1c1b3",
+    "url": "https://www.nytimes.com/athletic/7778928/2026/11/15/portugal-cristiano-ronaldo-defeat/",
+    "title": "How Portugal's send-off for Cristiano Ronaldo turned into a horror show",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-15T06:36:45.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "77c132e3f4fb",
+    "url": "https://www.record.pt/multimedia/record-na-hora/detalhe/homenagem-a-cristiano-ronaldo-sem-o-homenageado-isto-so-acontece-em-portugal-e-vai-para-o-guiness",
+    "title": "«Homenagem a Cristiano Ronaldo sem o homenageado... Isto só acontece em Portugal e vai para o Guinness»",
+    "ko": "호날두 등번호 헌정 행사, 포르투갈 현지 반응 화제",
+    "source": "record",
+    "publishedAt": "2026-11-15T22:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 4,
+  "score": 1.63,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cristiano-ronaldo",
+   "lionel-messi"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레키프",
+   "at": "2026-11-14T19:51:00.000Z",
+   "viaQuote": true
+  },
+  "headline": "How Portugal's send-off for Cristiano Ronaldo turned into a horror show"
  },
  {
   "slug": "arsenal-london-city-2026-11-15",
@@ -1813,7 +2465,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 4.07,
+  "score": 3.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1826,343 +2478,6 @@
    "viaQuote": false
   },
   "headline": "London City earn point in thrilling draw against Arsenal"
- },
- {
-  "slug": "belgium-italy-2026-11-12",
-  "mode": "llm",
-  "titleKo": "벨기에 대 이탈리아 네이션스리그 경기",
-  "createdAt": "2026-11-15T06:45:00.000Z",
-  "updatedAt": "2026-11-15T22:06:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "루카쿠",
-   "더브라위너",
-   "제레미 도쿠",
-   "로멜루 루카쿠",
-   "두쿠",
-   "반 봄멜"
-  ],
-  "sig": [
-   "italie",
-   "belgique",
-   "van",
-   "bommel"
-  ],
-  "articles": [
-   {
-    "id": "c0bf5e36b17a",
-    "url": "https://www.lequipe.fr/Football/Actualites/-une-pression-saine-et-formatrice-contre-l-italie-un-premier-match-couperet-pour-la-belgique-de-van-bommel/1743756#at_medium=RSS_feeds",
-    "title": "« Une pression saine et formatrice » : contre l'Italie, un premier match couperet pour la Belgique de Van Bommel",
-    "ko": "벨기에, 반 봄멜 체제서 이탈리아전 '생존' 압박 속 첫 경기",
-    "source": "lequipe",
-    "publishedAt": "2026-11-15T06:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Joël Domenighetti",
-    "transfer": null
-   },
-   {
-    "id": "24dd73cdfe38",
-    "url": "https://www.hln.be/rode-duivels/live-met-romelu-lukaku-als-romeinse-krijger-en-kevin-de-bruyne-als-julius-caesar-fans-bereiden-tifo-voor-in-aanloop-naar-clash-met-italianen~a33f296c/",
-    "title": "LIVE. Met Romelu Lukaku als Romeinse krijger en Kevin De Bruyne als Julius Caesar: fans bereiden tifo voor in aanloop naar clash met Italianen",
-    "ko": "루카쿠·더브라위너 콘셉트 티포 준비, 이탈리아전 앞둔 벨기에 팬",
-    "source": "hln",
-    "publishedAt": "2026-11-15T12:35:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "루카쿠",
-     "더브라위너"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "2e4bc4e970ae",
-    "url": "https://www.mirror.co.uk/sport/football/news/how-watch-belgium-vs-italy-37873957",
-    "title": "How to watch Belgium vs Italy - TV channel, live stream, kick-off time",
-    "ko": "벨기에 대 이탈리아 네이션스리그 경기 중계 정보",
-    "source": "mirror",
-    "publishedAt": "2026-11-15T18:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Polden",
-    "transfer": null
-   },
-   {
-    "id": "ddf1de1e876f",
-    "url": "https://as.com/futbol/belgica-italia-en-directo-uefa-nations-league-en-vivo-hoy-f202611-d/",
-    "title": "Bélgica - Italia, en directo: UEFA Nations League, en vivo hoy",
-    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
-    "source": "as",
-    "publishedAt": "2026-11-15T18:45:41.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Raúl Castro",
-    "transfer": null
-   },
-   {
-    "id": "0f8019ee779b",
-    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/20261115-144439-belgica-italia-em-direto",
-    "title": "Bélgica-Itália, em direto",
-    "ko": "벨기에 대 이탈리아 네이션스리그 라이브 중계",
-    "source": "record",
-    "publishedAt": "2026-11-15T18:50:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f84e1eabd254",
-    "url": "https://www.hln.be/rode-duivels/live-stadion-is-uitverkocht-voor-komst-van-italie-mark-van-bommel-is-op-zijn-hoede-maar-wij-hoeven-niet-bang-te-zijn~a33f296c/",
-    "title": "LIVE. Stadion is uitverkocht voor komst van Italië, Mark van Bommel is op zijn hoede: “Maar wij hoeven niet bang te zijn”",
-    "ko": "이탈리아 맞이 경기장 매진, 반 봄멜 \"방심은 금물\"",
-    "source": "hln",
-    "publishedAt": "2026-11-15T19:21:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "f4fedbbfbd88",
-    "url": "https://www.hln.be/rode-duivels/live-3-1-met-een-weergaloze-goal-van-jeremy-doku-als-voorlopig-orgelpunt-rode-duivels-blazen-italie-weg~a33f296c/",
-    "title": "LIVE. 3-1! Met een weergaloze goal van Jérémy Doku als (voorlopig?) orgelpunt: Rode Duivels blazen Italië weg",
-    "ko": "도쿠 발리 원더골로 벨기에, 이탈리아 3-1 격파",
-    "source": "hln",
-    "publishedAt": "2026-11-15T20:16:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "제레미 도쿠"
-    ],
-    "playerTags": [
-     "jeremy-doku"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "c893c4df5bca",
-    "url": "https://www.hln.be/rode-duivels/kijk-ze-hebben-geen-vertrouwen-ook-als-bankzitter-speelt-romelu-lukaku-zijn-rol-als-leider-met-speech-voor-de-aftrap~ad017cc5/",
-    "title": "KIJK. “Ze hebben geen vertrouwen!”: ook als bankzitter speelt Romelu Lukaku zijn rol als leider met speech voor de aftrap",
-    "ko": "루카쿠, 벤치에서도 리더 역할…킥오프 전 연설",
-    "source": "hln",
-    "publishedAt": "2026-11-15T20:16:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "로멜루 루카쿠"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "7d7f50052ad4",
-    "url": "https://www.hln.be/rode-duivels/kijk-een-resem-kansen-en-vier-goals-herbeleef-hoe-rode-duivels-het-in-dolle-openingsfase-helemaal-omdraaiden-tegen-italie~a3df8cde/",
-    "title": "KIJK. Een resem kansen én vier goals: herbeleef hoe Rode Duivels het in dolle openingsfase helemaal omdraaiden tegen Italië",
-    "ko": "벨기에, 이탈리아 상대 초반 맹공 끝에 역전승 과정 재조명",
-    "source": "hln",
-    "publishedAt": "2026-11-15T20:33:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jordi De Koninck",
-    "transfer": null
-   },
-   {
-    "id": "cd4a8db603b6",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-belgique-jeremy-doku-slalome-dans-la-defense-italienne-et-enflamme-le-stade-roi-baudouin/20245645#at_medium=RSS_feeds",
-    "title": "Le magnifique slalom de Doku pour marquer face à l'Italie",
-    "ko": "두쿠, 이탈리아전 지그재그 드리블 골",
-    "source": "lequipe",
-    "publishedAt": "2026-11-15T20:36:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "두쿠"
-    ],
-    "playerTags": [
-     "jeremy-doku"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c09cb0d9a87a",
-    "url": "https://www.hln.be/rode-duivels/kijk-wat-zou-dat-betekenen-jeremy-doku-scoort-na-heerlijke-dribbel-en-pakt-dan-uit-met-opmerkelijke-viering-richting-de-camera~a29802c0/",
-    "title": "KIJK. Wat zou dat betekenen? Jeremy Doku scoort na heerlijke dribbel en pakt dan uit met opmerkelijke viering richting de camera",
-    "ko": "도쿠, 드리블 돌파 후 득점하고 카메라 향해 이색 세리머니",
-    "source": "hln",
-    "publishedAt": "2026-11-15T20:43:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "제레미 도쿠"
-    ],
-    "playerTags": [
-     "jeremy-doku"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "5a7f0505c476",
-    "url": "https://www.hln.be/rode-duivels/live-geweldige-rode-duivels-blazen-italie-weg-4-1-en-mogen-naar-kwartfinales-nations-league-volg-hier-de-reacties~a33f296c/",
-    "title": "LIVE. Gewéldige Rode Duivels blazen Italië weg (4-1) en mogen naar kwartfinales Nations League - volg hier de reacties!",
-    "ko": "벨기에, 이탈리아 4-1 격파…네이션스리그 8강 진출",
-    "source": "hln",
-    "publishedAt": "2026-11-15T21:41:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "3319063b381d",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-belgique-assomme-l-italie-et-accompagne-la-france-en-quarts-de-finale-de-la-ligue-des-nations/1743893#at_medium=RSS_feeds",
-    "title": "La Belgique assomme l'Italie et accompagne la France en quarts de finale de la Ligue des nations",
-    "ko": "벨기에, 이탈리아 격파하고 프랑스와 함께 8강행",
-    "source": "lequipe",
-    "publishedAt": "2026-11-15T21:41:54.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "cc2d8d267ce6",
-    "url": "https://as.com/futbol/internacional/bochorno-de-italia-f202611-n/",
-    "title": "Bochorno de Italia",
-    "ko": "이탈리아, 벨기에전 참패 후 굴욕",
-    "source": "as",
-    "publishedAt": "2026-11-15T21:45:50.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sabrina Uccello",
-    "transfer": null
-   },
-   {
-    "id": "a62f8f1055af",
-    "url": "https://www.hln.be/rode-duivels/komt-dat-zien-mensen-twee-absolute-uitblinkers-waaronder-een-keizer-krijgen-een-9-bij-rode-duivels-in-riante-zege-tegen-italie~a3697085/",
-    "title": "“Komt dat zien, mensen”: twee absolute uitblinkers, waaronder één “keizer”, krijgen een 9 bij Rode Duivels in riante zege tegen Italië",
-    "ko": "벨기에, 이탈리아 완파…8강행 주역 평점 9점",
-    "source": "hln",
-    "publishedAt": "2026-11-15T21:47:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Axel Brisart",
-    "transfer": null
-   },
-   {
-    "id": "174211924d3f",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-de-belgique-italie/20245652#at_medium=RSS_feeds",
-    "title": "Le résumé vidéo de Belgique - Italie",
-    "ko": "벨기에 대 이탈리아 경기 영상 요약",
-    "source": "lequipe",
-    "publishedAt": "2026-11-15T21:55:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8718707f253a",
-    "url": "https://www.hln.be/rode-duivels/mark-van-bommel-heeft-van-de-rode-duivels-een-heerlijke-barolo-gemaakt-onze-chef-voetbal-niels-poissonnier-genoot-van-wervelend-belgie~a2eb069f/",
-    "title": "“Mark van Bommel heeft van de Rode Duivels een héérlijke Barolo gemaakt”: onze chef voetbal Niels Poissonnier genoot van wervelend België",
-    "ko": "반 봄멜, 벨기에 대표팀 경기 내용 호평",
-    "source": "hln",
-    "publishedAt": "2026-11-15T22:06:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "반 봄멜"
-    ],
-    "playerTags": [],
-    "author": "Niels Poissonnier",
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 5,
-  "score": 3.56,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "kevin-de-bruyne",
-   "jeremy-doku"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-15T06:45:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Le résumé vidéo de Belgique - Italie"
  },
  {
   "slug": "dortmund-schalke-2026-11-15",
@@ -2208,7 +2523,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.63,
+  "score": 1.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2257,7 +2572,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.61,
+  "score": 1.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2530,7 +2845,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 2.32,
+  "score": 2.05,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2580,7 +2895,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.53,
+  "score": 1.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2692,7 +3007,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.48,
+  "score": 1.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2900,7 +3215,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 7,
-  "score": 4.59,
+  "score": 4.06,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2957,7 +3272,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.23,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3191,7 +3506,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.36,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3277,7 +3592,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.16,
+  "score": 1.03,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3329,7 +3644,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.15,
+  "score": 1.02,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3382,7 +3697,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.66,
+  "score": 1.46,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4368,7 +4683,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.1,
+  "score": 0.97,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4415,7 +4730,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.45,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4465,7 +4780,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.09,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4519,7 +4834,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.06,
+  "score": 0.94,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4584,7 +4899,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.21,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8543,9 +8858,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 4,
   "sourceCount": 17,
-  "score": 1.48,
+  "score": 1.24,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8688,7 +9003,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.29,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8754,7 +9069,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.25,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8863,7 +9178,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.24,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8913,7 +9228,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.31,
+  "score": 1.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8966,7 +9281,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.77,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9029,7 +9344,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.24,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9089,7 +9404,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9237,7 +9552,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.79,
+  "score": 0.7,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9294,7 +9609,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9403,7 +9718,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.55,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9451,7 +9766,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.78,
+  "score": 0.68,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9793,7 +10108,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.23,
+  "score": 0.21,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9852,7 +10167,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.23,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -10346,7 +10661,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.76,
+  "score": 0.67,
   "topTier": 1,
   "stageHistory": [
    {
@@ -10425,7 +10740,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.76,
+  "score": 0.67,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10480,7 +10795,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.75,
+  "score": 0.66,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10543,7 +10858,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.19,
+  "score": 0.17,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10790,7 +11105,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.18,
+  "score": 0.16,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10897,7 +11212,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.17,
+  "score": 0.15,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10970,7 +11285,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.56,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11025,7 +11340,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.54,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11072,6 +11387,22 @@
     "transfer": null
    },
    {
+    "id": "a544dce596d4",
+    "url": "https://as.com/futbol/fotorrelato/las-imagenes-del-homenaje-a-jesus-de-miguel-en-el-tenerife-ceuta-f202611-f/",
+    "title": "Las imágenes del homenaje a Jesús de Miguel en el Tenerife-Ceuta",
+    "ko": "테네리페-세우타 경기서 헤수스 데 미겔 추모 장면",
+    "source": "as",
+    "publishedAt": "2026-11-15T14:01:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Fotografía",
+    "transfer": null
+   },
+   {
     "id": "e3d94a60fbad",
     "url": "https://as.com/futbol/videos/resumen-y-goles-del-tenerife-vs-ceuta-jornada-14-de-laliga-hypermotion-f202611-v/",
     "title": "Resumen y goles del Tenerife vs. Ceuta, jornada 14 de LaLiga Hypermotion",
@@ -11090,7 +11421,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11160,7 +11491,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11232,7 +11563,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.51,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11286,7 +11617,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11339,7 +11670,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.14,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11352,188 +11683,6 @@
    "viaQuote": false
   },
   "headline": "Behdad Eghbali has exploited loophole for controversial Chelsea scheme - Keith Wyness"
- },
- {
-  "slug": "player-death-incident",
-  "mode": "llm",
-  "titleKo": "선수 사망 후 경기 재개 준비",
-  "createdAt": "2026-11-13T10:00:46.000Z",
-  "updatedAt": "2026-11-15T14:58:55.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "오워노"
-  ],
-  "sig": [
-   "jesus",
-   "miguel"
-  ],
-  "articles": [
-   {
-    "id": "1fc6aca725be",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
-    "title": "The club preparing to play again after the death of a player",
-    "ko": "선수 사망 후 경기 재개 준비하는 구단",
-    "source": "bbc",
-    "publishedAt": "2026-11-13T10:00:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "364913c94ec8",
-    "url": "https://www.dailystar.co.uk/sport/football/footballer-22-dies-after-being-37874088",
-    "title": "Footballer, 22, dies after being subbed as club remember 'extraordinary' human",
-    "ko": "교체 후 숨진 22세 선수, 구단 “놀라운 사람” 추모",
-    "source": "star",
-    "publishedAt": "2026-11-13T13:39:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield",
-    "transfer": null
-   },
-   {
-    "id": "91fd5ecfe5a3",
-    "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37846172",
-    "title": "Goalkeeper involved in fatal Jesus de Miguel collision receives huge ban from football",
-    "ko": "헤수스 데 미겔 사망 충돌 관련 골키퍼 축구 출전 금지 중징계",
-    "source": "mirror",
-    "publishedAt": "2026-11-13T21:04:32.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Patrick Austen-Hardy, Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "3713013b6fe3",
-    "url": "https://www.lequipe.fr/Football/Actualites/Jesus-owono-suspendu-douze-matches-apres-sa-sortie-ayant-cause-la-mort-de-jesus-de-miguel/1743519#at_medium=RSS_feeds",
-    "title": "Jesus Owono suspendu douze matches après sa sortie ayant causé la mort de Jesus de Miguel",
-    "ko": "오워노, 데 미겔 사망 원인 된 퇴장 후 12경기 출장 정지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-13T21:43:34.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "e066e9986511",
-    "url": "https://www.kicker.de/nach-tod-von-gegenspieler-de-miguel-torhueter-owono-fuer-zwoelf-partien-gesperrt-1271394/artikel#omrss",
-    "title": "Nach Tod von Gegenspieler de Miguel: Torhüter Owono für zwölf Partien gesperrt",
-    "ko": "데 미겔 사망 후 골키퍼 오워노 12경기 출장 정지",
-    "source": "kicker",
-    "publishedAt": "2026-11-13T21:50:29.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "1fd9c2dd0b95",
-    "url": "https://www.record.pt/internacional/detalhe/exercito-israelita-mata-futebolista-palestiniano-que-apoiou-vitimas-em-gaza",
-    "title": "Exército israelita mata futebolista palestiniano que apoiou vítimas em Gaza",
-    "ko": "이스라엘군, 가자 피해자 지원한 팔레스타인 선수 살해",
-    "source": "record",
-    "publishedAt": "2026-11-14T10:23:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "4bc5c6fa8b64",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
-    "title": "Pitch perimeters under review after Vigar death",
-    "ko": "비가 사망 후 경기장 주변 점검 착수",
-    "source": "bbc",
-    "publishedAt": "2026-11-15T13:49:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2d7941c7d75d",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
-    "title": "Club's first match since player's death abandoned because of serious injury",
-    "ko": "선수 사망 후 첫 경기 중단, 중상자 발생",
-    "source": "bbc",
-    "publishedAt": "2026-11-15T14:06:19.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9eedf2945f10",
-    "url": "https://www.thesun.co.uk/sport/41029817/non-league-game-abandoned-hendon-ethan-creary-injury-ezekiel/",
-    "title": "Non-league game abandoned after seven minutes as star suffers serious injury days after team-mate’s tragic death",
-    "ko": "비리그 경기, 선수 사망 직후 주축 부상으로 7분 만에 중단",
-    "source": "sun",
-    "publishedAt": "2026-11-15T14:58:55.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Oli Gamp",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 7,
-  "score": 0.73,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-13T10:00:46.000Z",
-   "viaQuote": false
-  },
-  "headline": "Club's first match since player's death abandoned because of serious injury"
  },
  {
   "slug": "everton-affairs-commercial-deal",
@@ -11573,7 +11722,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.13,
+  "score": 0.12,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11630,7 +11779,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11679,7 +11828,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11736,7 +11885,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11820,7 +11969,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.4,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11869,7 +12018,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11925,7 +12074,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12867,9 +13016,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.53,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12924,7 +13073,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12988,9 +13137,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.38,
+  "score": 0.09,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13058,7 +13207,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.18,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -13117,7 +13266,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.18,
   "topTier": 3,
   "stageHistory": [
    {
@@ -13235,7 +13384,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.34,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13293,7 +13442,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13367,7 +13516,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13431,9 +13580,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -13781,9 +13930,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 9,
-  "score": 0.26,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13846,9 +13995,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13918,9 +14067,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {

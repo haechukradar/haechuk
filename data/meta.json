@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T23:13:19.416Z",
+ "updatedAt": "2026-11-15T23:56:22.462Z",
  "hot": [
   "spain-england-2026-11-14",
   "jesus-de-miguel-incident",
@@ -39,8 +39,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 70,
-   "added": 0,
+   "items": 71,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -52,7 +52,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,14 +88,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 64
+   "added": 5,
+   "authorRate": 68
   },
   "fblondon": {
    "ok": true,
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -184,12 +184,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -256,6 +256,10 @@
    "count": 16
   },
   {
+   "name": "루카쿠",
+   "count": 15
+  },
+  {
    "name": "반 다이크",
    "count": 14
   },
@@ -272,7 +276,7 @@
    "count": 14
   },
   {
-   "name": "루카쿠",
+   "name": "지단",
    "count": 14
   },
   {
@@ -289,10 +293,6 @@
   },
   {
    "name": "돈나룸마",
-   "count": 13
-  },
-  {
-   "name": "지단",
    "count": 13
   },
   {
@@ -322,23 +322,23 @@
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 103
+    "count": 102
+   },
+   {
+    "slug": "spain-england-2026-11-14",
+    "count": 53
    },
    {
     "slug": "portugal-denmark-2026-11-13",
     "count": 50
    },
    {
-    "slug": "spain-england-2026-11-14",
-    "count": 48
-   },
-   {
     "slug": "france-turkey-2026-11-13",
-    "count": 26
+    "count": 27
    },
    {
     "slug": "belgium-italy-2026-11-12",
-    "count": 17
+    "count": 18
    },
    {
     "slug": "england-spain-2026-11-14",
@@ -350,10 +350,6 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 15
-   },
-   {
-    "slug": "italy-france-2026-11-12",
     "count": 15
    }
   ]
@@ -420,12 +416,26 @@
    ]
   },
   {
+   "en": "Ronaldinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호나우지뉴",
+     "count": 23
+    },
+    {
+     "ko": "호나우지냐",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 14
+     "count": 15
     },
     {
      "ko": "튀헬",
@@ -439,11 +449,11 @@
    "variants": [
     {
      "ko": "데 라 푸엔테",
-     "count": 10
+     "count": 11
     },
     {
      "ko": "델라 푸엔테",
-     "count": 6
+     "count": 5
     }
    ]
   },
@@ -470,23 +480,9 @@
     {
      "ko": "마르크 판 봄멜",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 6
     },
     {
-     "ko": "토마스 투헬",
-     "count": 5
-    },
-    {
-     "ko": "튀헬",
+     "ko": "판 보멜",
      "count": 1
     }
    ]
@@ -509,6 +505,24 @@
     },
     {
      "ko": "스티븐 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -701,20 +715,6 @@
     },
     {
      "ko": "포코녤리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셸더럽",
-     "count": 2
-    },
-    {
-     "ko": "셸더루프",
      "count": 1
     }
    ]
@@ -1008,6 +1008,20 @@
    ]
   },
   {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셸더럽",
+     "count": 1
+    },
+    {
+     "ko": "셸더루프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Reijnders",
    "dictionary": null,
    "variants": [
@@ -1132,20 +1146,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Graeme Souness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수네스",
-     "count": 1
-    },
-    {
-     "ko": "그레이엄 수니스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1218,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 377,
-   "llm": 377
+   "collected": 404,
+   "llm": 404
   }
  },
  "llmErrors": []
