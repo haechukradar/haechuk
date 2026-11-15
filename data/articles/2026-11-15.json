@@ -1,5 +1,97 @@
 [
  {
+  "id": "889c38dde20a",
+  "url": "https://www.nytimes.com/athletic/7782433/2026/11/14/christian-pulisic-usmnt-haiti-nations-league-pochettino/",
+  "title": "USMNT faces major change, but Christian Pulisic's value remains a constant",
+  "source": "athletic",
+  "publishedAt": "2026-11-15T03:15:39.000Z",
+  "author": null,
+  "collectedAt": "2026-11-15T03:31:52.691Z",
+  "ko": null,
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [],
+  "players": [
+   "크리스천 풀리식"
+  ],
+  "managers": [],
+  "league": null,
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [
+   "christian-pulisic"
+  ],
+  "playerVia": {
+   "christian-pulisic": "fullname"
+  },
+  "promptVersion": 8,
+  "names": [
+   [
+    "Christian Pulisic",
+    "크리스천 풀리식"
+   ]
+  ],
+  "issue": null
+ },
+ {
+  "id": "472fc62ac49d",
+  "url": "https://www.skysports.com/cricket/australia-v-england/scorecard/1b20e48f-0029-579d-877a-c6b509d9f268",
+  "title": "Scorecard: Australia vs England, second ODI, Adelaide",
+  "source": "sky",
+  "publishedAt": "2026-11-15T03:15:00.000Z",
+  "author": null,
+  "collectedAt": "2026-11-15T03:31:52.691Z",
+  "ko": "호주 대 잉글랜드 2차전 경기 기록표",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [
+   "Australia",
+   "England"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "other",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 8,
+  "offTopic": true,
+  "issue": null
+ },
+ {
+  "id": "f59d934757c6",
+  "url": "https://www.skysports.com/cricket/live-blog/12040/13612226/australia-vs-england-second-odi-live-latest-score-updates-as-harry-brooks-side-look-to-level-series-in-adelaide",
+  "title": "England put in to bat by Australia in second ODI at Adelaide LIVE!",
+  "source": "sky",
+  "publishedAt": "2026-11-15T03:10:00.000Z",
+  "author": null,
+  "collectedAt": "2026-11-15T03:31:52.691Z",
+  "ko": "호주, 애들레이드 2차전서 잉글랜드에 선공 기회 내줘",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "otherClubs": [
+   "Australia",
+   "England"
+  ],
+  "players": [],
+  "managers": [],
+  "league": "other",
+  "credited": null,
+  "enrichedBy": "llm",
+  "transfer": null,
+  "playerTags": [],
+  "playerVia": {},
+  "promptVersion": 8,
+  "offTopic": true,
+  "issue": null
+ },
+ {
   "id": "3e96c31f42f5",
   "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sp--braga/detalhe/franclim-carvalho-da-espaco-a-juventude-do-sp-braga",
   "title": "Franclim Carvalho dá espaço à juventude do Sp. Braga",
@@ -7,20 +99,31 @@
   "publishedAt": "2026-11-15T02:15:00.000Z",
   "author": null,
   "collectedAt": "2026-11-15T02:33:00.222Z",
-  "ko": null,
-  "category": "other",
+  "ko": "프란클림 카르발류, 스포르팅 브라가 젊은 선수들에게 기회 부여",
+  "category": "manager",
   "stage": null,
   "clubs": [],
-  "otherClubs": [],
+  "otherClubs": [
+   "Sporting Braga"
+  ],
   "players": [],
-  "managers": [],
+  "managers": [
+   "프란클림 카르발류"
+  ],
   "league": null,
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Franclim Carvalho",
+    "프란클림 카르발류"
+   ]
+  ]
  },
  {
   "id": "8c2f409b70ca",
@@ -30,20 +133,29 @@
   "publishedAt": "2026-11-15T01:39:00.000Z",
   "author": null,
   "collectedAt": "2026-11-15T02:33:00.222Z",
-  "ko": null,
+  "ko": "소예르, 페루 대표팀 또 다시 국제무대 데뷔 추진",
   "category": "other",
   "stage": null,
   "clubs": [],
   "otherClubs": [],
-  "players": [],
+  "players": [
+   "소예르"
+  ],
   "managers": [],
   "league": null,
   "credited": null,
-  "enrichedBy": "rule",
+  "enrichedBy": "llm",
   "transfer": null,
   "playerTags": [],
   "playerVia": {},
-  "issue": null
+  "issue": null,
+  "promptVersion": 8,
+  "names": [
+   [
+    "Soyer",
+    "소예르"
+   ]
+  ]
  },
  {
   "id": "a130ab0c84b3",
