@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T17:18:24.417Z",
+ "updatedAt": "2026-11-15T18:00:51.095Z",
  "hot": [
   "jesus-de-miguel-incident",
   "spain-england-2026-11-14",
+  "bruno-fernandes-contract",
   "tuchel-de-la-fuente-relationship",
-  "arsenal-london-city-2026-11-15",
-  "pochettino-man-utd-manager-future"
+  "arsenal-london-city-2026-11-15"
  ],
  "days": [
   "2026-10-18",
@@ -52,14 +52,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 2,
+   "authorRate": 81
   },
   "athletic": {
    "ok": true,
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,13 +88,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 68
   },
   "fblondon": {
@@ -112,7 +112,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -166,31 +166,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -205,7 +205,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 35
+   "count": 36
   },
   {
    "name": "맥스 다우먼",
@@ -232,6 +232,10 @@
    "count": 24
   },
   {
+   "name": "호나우지뉴",
+   "count": 20
+  },
+  {
    "name": "트레솔디",
    "count": 18
   },
@@ -241,10 +245,6 @@
   },
   {
    "name": "데 미겔",
-   "count": 17
-  },
-  {
-   "name": "호나우지뉴",
    "count": 17
   },
   {
@@ -280,6 +280,10 @@
    "count": 13
   },
   {
+   "name": "발로군",
+   "count": 13
+  },
+  {
    "name": "돈나룸마",
    "count": 13
   },
@@ -289,10 +293,6 @@
   },
   {
    "name": "윌 랭크셔",
-   "count": 12
-  },
-  {
-   "name": "발로군",
    "count": 12
   },
   {
@@ -317,12 +317,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
-  "singleArticleRate": 55,
+  "recentIssues": 230,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 113
+    "count": 112
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -330,23 +330,23 @@
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 38
-   },
-   {
-    "slug": "carrick-manager-future",
-    "count": 20
+    "count": 37
    },
    {
     "slug": "bruno-fernandes-contract",
-    "count": 18
+    "count": 19
+   },
+   {
+    "slug": "carrick-manager-future",
+    "count": 19
+   },
+   {
+    "slug": "england-spain-2026-11-14",
+    "count": 17
    },
    {
     "slug": "norway-wales-2026-11-12",
     "count": 17
-   },
-   {
-    "slug": "england-spain-2026-11-14",
-    "count": 16
    },
    {
     "slug": "england-croatia-2026-11-12",
@@ -407,7 +407,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 24
+     "count": 21
     },
     {
      "ko": "클로프",
@@ -528,24 +528,6 @@
    ]
   },
   {
-   "en": "Arda Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아르다 귈러",
-     "count": 3
-    },
-    {
-     "ko": "아르다 귀러",
-     "count": 2
-    },
-    {
-     "ko": "아르다 귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jesús Owono",
    "dictionary": null,
    "variants": [
@@ -601,7 +583,7 @@
    "variants": [
     {
      "ko": "부스코비치",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "부코비치",
@@ -641,28 +623,6 @@
     },
     {
      "ko": "셸더루프",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Charles De Ketelaere",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "샤를 드 케텔라에레",
-     "count": 1
-    },
-    {
-     "ko": "샤를 드케텔레레",
-     "count": 1
-    },
-    {
-     "ko": "찰스 드 케테라레",
-     "count": 1
-    },
-    {
-     "ko": "샤를 더 케테라에레",
      "count": 1
     }
    ]
@@ -764,15 +724,19 @@
    ]
   },
   {
-   "en": "Gary Neville",
+   "en": "Charles De Ketelaere",
    "dictionary": null,
    "variants": [
     {
-     "ko": "게리 네빌",
-     "count": 2
+     "ko": "샤를 드케텔레레",
+     "count": 1
     },
     {
-     "ko": "가리 네빌",
+     "ko": "찰스 드 케테라레",
+     "count": 1
+    },
+    {
+     "ko": "샤를 더 케테라에레",
      "count": 1
     }
    ]
@@ -936,20 +900,6 @@
    ]
   },
   {
-   "en": "Miguel Minhava",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미겔 미냐바",
-     "count": 1
-    },
-    {
-     "ko": "미겔 미나바",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jean-Louis Leca",
    "dictionary": null,
    "variants": [
@@ -978,20 +928,6 @@
    ]
   },
   {
-   "en": "Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "귀데르",
-     "count": 1
-    },
-    {
-     "ko": "귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "James Garner",
    "dictionary": null,
    "variants": [
@@ -1015,6 +951,20 @@
     },
     {
      "ko": "유리엔 팀버",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 1
+    },
+    {
+     "ko": "가리 네빌",
      "count": 1
     }
    ]
@@ -1158,6 +1108,48 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "USMNT",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미국 대표팀",
+     "count": 1
+    },
+    {
+     "ko": "미국",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gouram",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구라움",
+     "count": 1
+    },
+    {
+     "ko": "구람",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Graeme Souness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수네스",
+     "count": 1
+    },
+    {
+     "ko": "그레이엄 수니스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1230,8 +1222,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 109,
-   "llm": 109
+   "collected": 140,
+   "llm": 140
   }
  },
  "llmErrors": []
