@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T11:10:15.438Z",
+ "updatedAt": "2026-11-15T11:50:24.264Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "spain-england-2026-11-14",
   "bruno-fernandes-contract",
   "tuchel-de-la-fuente-relationship",
-  "romario-ancelotti-relationship"
+  "mexico-jamaica-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -51,14 +51,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 6,
+   "authorRate": 81
   },
   "athletic": {
    "ok": true,
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,14 +87,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 64
+   "added": 2,
+   "authorRate": 66
   },
   "fblondon": {
    "ok": true,
@@ -105,13 +105,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -141,19 +141,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -165,7 +165,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -183,13 +183,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -251,6 +251,10 @@
    "count": 16
   },
   {
+   "name": "호나우지뉴",
+   "count": 15
+  },
+  {
    "name": "웨인 루니",
    "count": 14
   },
@@ -260,10 +264,6 @@
   },
   {
    "name": "조브 벨링엄",
-   "count": 14
-  },
-  {
-   "name": "호나우지뉴",
    "count": 14
   },
   {
@@ -316,20 +316,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 54,
+  "recentIssues": 233,
+  "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 133
-   },
-   {
-    "slug": "carrick-manager-future",
-    "count": 52
+    "count": 132
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 47
+    "count": 49
+   },
+   {
+    "slug": "carrick-manager-future",
+    "count": 46
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -410,7 +410,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 22
+     "count": 23
     },
     {
      "ko": "클로프",
@@ -557,24 +557,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 4
-    },
-    {
-     "ko": "포폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jesús Owono",
    "dictionary": null,
    "variants": [
@@ -651,19 +633,15 @@
    ]
   },
   {
-   "en": "Gary Neville",
+   "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
     {
-     "ko": "게리 네빌",
-     "count": 3
+     "ko": "파울루 폰세카",
+     "count": 4
     },
     {
-     "ko": "개리 네빌",
-     "count": 1
-    },
-    {
-     "ko": "가리 네빌",
+     "ko": "파울루 퐁세카",
      "count": 1
     }
    ]
@@ -678,20 +656,6 @@
     },
     {
      "ko": "리오 퍼디난드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diomande",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오만데",
-     "count": 3
-    },
-    {
-     "ko": "디오망드",
      "count": 1
     }
    ]
@@ -728,6 +692,20 @@
     },
     {
      "ko": "샤를 더 케테라에레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 3
+    },
+    {
+     "ko": "가리 네빌",
      "count": 1
     }
    ]
@@ -885,7 +863,7 @@
    ]
   },
   {
-   "en": "Romario",
+   "en": "Romário",
    "dictionary": null,
    "variants": [
     {
@@ -894,6 +872,20 @@
     },
     {
      "ko": "로마리우",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hojlund",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회를룬",
+     "count": 2
+    },
+    {
+     "ko": "회이룬",
      "count": 1
     }
    ]
@@ -936,20 +928,6 @@
     },
     {
      "ko": "외스투나리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matsima",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마티시마",
-     "count": 1
-    },
-    {
-     "ko": "마첨가",
      "count": 1
     }
    ]
@@ -1034,6 +1012,20 @@
     },
     {
      "ko": "포코뇰리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부코비치",
+     "count": 1
+    },
+    {
+     "ko": "부스코비치",
      "count": 1
     }
    ]
@@ -1245,8 +1237,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 592,
-   "llm": 592
+   "collected": 618,
+   "llm": 618
   }
  },
  "llmErrors": []
