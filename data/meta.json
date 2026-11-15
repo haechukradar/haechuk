@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T07:48:39.544Z",
+ "updatedAt": "2026-11-15T08:44:13.001Z",
  "hot": [
-  "ronaldo-tribute-2026-11-14",
   "spain-england-2026-11-14",
-  "tuchel-de-la-fuente-relationship",
+  "ronaldo-tribute-2026-11-14",
+  "man-city-affairs-charges-20261109",
   "portugal-denmark-2026-11-13",
-  "usa-haiti-2026-11-14"
+  "tuchel-de-la-fuente-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -39,19 +39,19 @@
   "bbc": {
    "ok": true,
    "items": 66,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 3,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -63,7 +63,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,7 +93,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 70
   },
   "fblondon": {
@@ -105,13 +105,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -141,25 +141,25 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -183,13 +183,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 1,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -243,6 +243,10 @@
    "count": 16
   },
   {
+   "name": "베르나르두 실바",
+   "count": 16
+  },
+  {
    "name": "티에르노 배리",
    "count": 15
   },
@@ -252,10 +256,6 @@
   },
   {
    "name": "수비멘디",
-   "count": 14
-  },
-  {
-   "name": "베르나르두 실바",
    "count": 14
   },
   {
@@ -316,8 +316,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 229,
-  "singleArticleRate": 54,
+  "recentIssues": 230,
+  "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -325,11 +325,11 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 72
+    "count": 71
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 46
+    "count": 47
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -338,6 +338,10 @@
    {
     "slug": "england-croatia-2026-11-12",
     "count": 20
+   },
+   {
+    "slug": "bruno-fernandes-contract",
+    "count": 16
    },
    {
     "slug": "england-spain-2026-11-14",
@@ -350,39 +354,17 @@
    {
     "slug": "crystal-palace-manager-future",
     "count": 16
-   },
-   {
-    "slug": "bruno-fernandes-contract",
-    "count": 15
-   },
-   {
-    "slug": "kane-award",
-    "count": 15
    }
   ]
  },
  "nameReport": [
-  {
-   "en": "Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 24
-    },
-    {
-     "ko": "클로프",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 7
+     "count": 9
     },
     {
      "ko": "호르헤 제수스",
@@ -423,12 +405,26 @@
    ]
   },
   {
+   "en": "Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 24
+    },
+    {
+     "ko": "클로프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "튀헬",
@@ -478,18 +474,18 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 5
-    },
-    {
-     "ko": "마크 반 봄멜",
-     "count": 3
+     "count": 6
     },
     {
      "ko": "마크 판 봄멜",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "마르크 판 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마크 반 봄멜",
      "count": 2
     },
     {
@@ -499,24 +495,6 @@
     {
      "ko": "마르크 반 봄멜",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "투헬",
-     "count": 3
     }
    ]
   },
@@ -535,6 +513,24 @@
     {
      "ko": "스티븐 보르손",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튀헬",
+     "count": 3
+    },
+    {
+     "ko": "투헬",
+     "count": 3
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 3
     }
    ]
   },
@@ -1249,8 +1245,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 485,
-   "llm": 485
+   "collected": 510,
+   "llm": 510
   }
  },
  "llmErrors": []
