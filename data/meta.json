@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-15T18:54:24.083Z",
+ "updatedAt": "2026-11-15T19:36:57.528Z",
  "hot": [
   "jesus-de-miguel-incident",
   "belgium-italy-2026-11-12",
-  "france-turkey-2026-11-13",
   "spain-england-2026-11-14",
+  "france-turkey-2026-11-13",
   "bruno-fernandes-contract"
  ],
  "days": [
@@ -40,7 +40,7 @@
   "bbc": {
    "ok": true,
    "items": 69,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -52,19 +52,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
    "items": 21,
-   "added": 2,
+   "added": 0,
    "authorRate": 81
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,8 +94,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 68
+   "added": 7,
+   "authorRate": 64
   },
   "fblondon": {
    "ok": true,
@@ -118,7 +118,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -166,7 +166,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -184,20 +184,20 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 2,
+   "items": 14,
+   "added": 5,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 78
+   "count": 79
   },
   {
    "name": "오워노",
@@ -224,11 +224,11 @@
    "count": 29
   },
   {
-   "name": "JJ 가브리엘",
-   "count": 25
+   "name": "호나우지뉴",
+   "count": 27
   },
   {
-   "name": "호나우지뉴",
+   "name": "JJ 가브리엘",
    "count": 25
   },
   {
@@ -236,11 +236,11 @@
    "count": 24
   },
   {
-   "name": "트레솔디",
-   "count": 18
+   "name": "베르나르두 실바",
+   "count": 19
   },
   {
-   "name": "베르나르두 실바",
+   "name": "트레솔디",
    "count": 18
   },
   {
@@ -317,8 +317,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
-  "singleArticleRate": 57,
+  "recentIssues": 227,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -330,7 +330,7 @@
    },
    {
     "slug": "italy-france-2026-11-12",
-    "count": 34
+    "count": 32
    },
    {
     "slug": "bruno-fernandes-contract",
@@ -342,7 +342,7 @@
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 17
+    "count": 18
    },
    {
     "slug": "england-spain-2026-11-14",
@@ -407,7 +407,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 19
+     "count": 21
     },
     {
      "ko": "클로프",
@@ -449,7 +449,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "마크 반 봄멜",
@@ -510,24 +510,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 2
-    },
-    {
-     "ko": "키스 와니스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vuskovic",
    "dictionary": null,
    "variants": [
@@ -542,6 +524,20 @@
     {
      "ko": "부슈코비치",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 4
+    },
+    {
+     "ko": "키스 와이네스",
+     "count": 2
     }
    ]
   },
@@ -687,20 +683,6 @@
     },
     {
      "ko": "루이 보르헤스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alan Shearer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "앨런 시어러",
-     "count": 2
-    },
-    {
-     "ko": "앨런 셰어러",
      "count": 1
     }
    ]
@@ -1150,6 +1132,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Graeme Souness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수네스",
+     "count": 1
+    },
+    {
+     "ko": "그레이엄 수니스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1222,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 191,
-   "llm": 191
+   "collected": 228,
+   "llm": 228
   }
  },
  "llmErrors": []
