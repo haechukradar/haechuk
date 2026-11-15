@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T15:52:13.038Z",
+ "updatedAt": "2026-11-15T16:30:34.602Z",
  "hot": [
-  "spain-england-2026-11-14",
   "jesus-de-miguel-incident",
+  "spain-england-2026-11-14",
   "tuchel-de-la-fuente-relationship",
-  "player-death-incident",
-  "pochettino-man-utd-manager-future"
+  "pochettino-man-utd-manager-future",
+  "player-death-incident"
  ],
  "days": [
   "2026-10-18",
@@ -40,19 +40,19 @@
   "bbc": {
    "ok": true,
    "items": 65,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -64,7 +64,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,14 +88,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 68
+   "added": 4,
+   "authorRate": 66
   },
   "fblondon": {
    "ok": true,
@@ -112,13 +112,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -172,7 +172,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -189,8 +189,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 3,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -317,12 +317,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 235,
+  "recentIssues": 231,
   "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 121
+    "count": 119
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 26
+    "count": 23
    },
    {
     "slug": "bruno-fernandes-contract",
@@ -345,11 +345,11 @@
     "count": 17
    },
    {
-    "slug": "england-croatia-2026-11-12",
-    "count": 17
+    "slug": "england-spain-2026-11-14",
+    "count": 16
    },
    {
-    "slug": "england-spain-2026-11-14",
+    "slug": "england-croatia-2026-11-12",
     "count": 16
    }
   ]
@@ -466,10 +466,6 @@
     {
      "ko": "마크 판 봄멜",
      "count": 2
-    },
-    {
-     "ko": "마크 반 보멜",
-     "count": 1
     }
    ]
   },
@@ -658,20 +654,6 @@
    ]
   },
   {
-   "en": "Gary Neville",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게리 네빌",
-     "count": 3
-    },
-    {
-     "ko": "가리 네빌",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -685,20 +667,6 @@
     },
     {
      "ko": "샤비",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Valérien Ismaël",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "발레리앙 이스마엘",
-     "count": 2
-    },
-    {
-     "ko": "발레리앵 이스마엘",
      "count": 1
     }
    ]
@@ -750,6 +718,38 @@
    ]
   },
   {
+   "en": "Pocognoli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포첼리노리",
+     "count": 1
+    },
+    {
+     "ko": "포코뇰리",
+     "count": 1
+    },
+    {
+     "ko": "포코녤리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부스코비치",
+     "count": 2
+    },
+    {
+     "ko": "부코비치",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Davide Frattesi",
    "dictionary": null,
    "variants": [
@@ -764,15 +764,29 @@
    ]
   },
   {
-   "en": "Van Bommel",
+   "en": "Gary Neville",
    "dictionary": null,
    "variants": [
     {
-     "ko": "반 봄멜",
+     "ko": "게리 네빌",
      "count": 2
     },
     {
-     "ko": "반 보멜",
+     "ko": "가리 네빌",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Ricardo Horta",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리카르두 오르타",
+     "count": 2
+    },
+    {
+     "ko": "호르타",
      "count": 1
     }
    ]
@@ -805,6 +819,20 @@
     },
     {
      "ko": "패트릭 도르구",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티미 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "팀 시몬스",
      "count": 1
     }
    ]
@@ -880,6 +908,20 @@
    ]
   },
   {
+   "en": "Valérien Ismaël",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "발레리앙 이스마엘",
+     "count": 1
+    },
+    {
+     "ko": "발레리앵 이스마엘",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sean Dyche",
    "dictionary": null,
    "variants": [
@@ -917,48 +959,6 @@
     },
     {
      "ko": "미겔 미나바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pocognoli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포첼리노리",
-     "count": 1
-    },
-    {
-     "ko": "포코뇰리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부코비치",
-     "count": 1
-    },
-    {
-     "ko": "부스코비치",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kühn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쿤",
-     "count": 1
-    },
-    {
-     "ko": "퀸",
      "count": 1
     }
    ]
@@ -1015,34 +1015,6 @@
     },
     {
      "ko": "회너스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Yalcin",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "얄츤",
-     "count": 1
-    },
-    {
-     "ko": "얄친",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "예수",
-     "count": 1
-    },
-    {
-     "ko": "예스",
      "count": 1
     }
    ]
@@ -1158,6 +1130,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Hjulmand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "예스텔",
+     "count": 1
+    },
+    {
+     "ko": "훌마트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Anthony Elanga",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앤서니 엘랑가",
+     "count": 1
+    },
+    {
+     "ko": "안토니 엘랑가",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1230,8 +1230,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 47,
-   "llm": 47
+   "collected": 70,
+   "llm": 70
   }
  },
  "llmErrors": []
