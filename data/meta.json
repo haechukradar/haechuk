@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T05:35:00.509Z",
+ "updatedAt": "2026-11-15T06:35:55.831Z",
  "hot": [
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
@@ -39,7 +39,7 @@
   "bbc": {
    "ok": true,
    "items": 63,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -63,7 +63,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,31 +93,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -153,19 +153,19 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -321,7 +321,7 @@
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 147
+    "count": 145
    },
    {
     "slug": "carrick-manager-future",
@@ -360,7 +360,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 25
+     "count": 24
     },
     {
      "ko": "클로프",
@@ -707,20 +707,6 @@
    ]
   },
   {
-   "en": "Célia Gouveia",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셀리아 고베이아",
-     "count": 2
-    },
-    {
-     "ko": "셀리아 구베이아",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Raúl",
    "dictionary": null,
    "variants": [
@@ -770,6 +756,20 @@
     },
     {
      "ko": "샤비",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Célia Gouveia",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셀리아 구베이아",
+     "count": 2
+    },
+    {
+     "ko": "셀리아 고베이아",
      "count": 1
     }
    ]
@@ -932,20 +932,6 @@
     },
     {
      "ko": "달리시",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mikey Moore",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미키 무어",
-     "count": 1
-    },
-    {
-     "ko": "마이키 무어",
      "count": 1
     }
    ]
@@ -1173,6 +1159,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Doumbia",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "두움비아",
+     "count": 1
+    },
+    {
+     "ko": "도움비아",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1241,8 +1241,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 438,
-   "llm": 438
+   "collected": 454,
+   "llm": 454
   }
  },
  "llmErrors": []
