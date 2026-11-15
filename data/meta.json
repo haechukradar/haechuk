@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T06:35:55.831Z",
+ "updatedAt": "2026-11-15T07:48:39.544Z",
  "hot": [
+  "ronaldo-tribute-2026-11-14",
+  "spain-england-2026-11-14",
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
-  "usa-haiti-2026-11-14",
-  "england-spain-2026-11-14",
-  "pochettino-man-utd-manager-future"
+  "usa-haiti-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -38,8 +38,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 63,
-   "added": 1,
+   "items": 66,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
@@ -51,7 +51,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,25 +87,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 5,
    "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -153,13 +153,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -171,7 +171,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
@@ -183,13 +183,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 1,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -263,6 +263,10 @@
    "count": 14
   },
   {
+   "name": "리산드로 마르티네스",
+   "count": 13
+  },
+  {
    "name": "반 다이크",
    "count": 13
   },
@@ -275,8 +279,8 @@
    "count": 13
   },
   {
-   "name": "리산드로 마르티네스",
-   "count": 12
+   "name": "호나우지뉴",
+   "count": 13
   },
   {
    "name": "콘사",
@@ -292,10 +296,6 @@
   },
   {
    "name": "지단",
-   "count": 12
-  },
-  {
-   "name": "호나우지뉴",
    "count": 12
   },
   {
@@ -316,16 +316,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 53,
+  "recentIssues": 229,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 145
+    "count": 144
    },
    {
     "slug": "carrick-manager-future",
-    "count": 73
+    "count": 72
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -340,6 +340,10 @@
     "count": 20
    },
    {
+    "slug": "england-spain-2026-11-14",
+    "count": 16
+   },
+   {
     "slug": "norway-wales-2026-11-12",
     "count": 16
    },
@@ -348,7 +352,11 @@
     "count": 16
    },
    {
-    "slug": "england-spain-2026-11-14",
+    "slug": "bruno-fernandes-contract",
+    "count": 15
+   },
+   {
+    "slug": "kane-award",
     "count": 15
    }
   ]
@@ -470,7 +478,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 6
+     "count": 5
     },
     {
      "ko": "마크 반 봄멜",
@@ -531,28 +539,6 @@
    ]
   },
   {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 6
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 1
-    },
-    {
-     "ko": "마티아스 자이슬",
-     "count": 1
-    },
-    {
-     "ko": "매티아스 야이슬레",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -566,6 +552,28 @@
     },
     {
      "ko": "파울루 퐁세카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 5
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 1
+    },
+    {
+     "ko": "마티아스 자이슬",
+     "count": 1
+    },
+    {
+     "ko": "매티아스 야이슬레",
      "count": 1
     }
    ]
@@ -877,6 +885,20 @@
    ]
   },
   {
+   "en": "Van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "반 보멜",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vítor Pinto",
    "dictionary": null,
    "variants": [
@@ -918,20 +940,6 @@
     },
     {
      "ko": "재미 캐러거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dalglish",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "달글리시",
-     "count": 1
-    },
-    {
-     "ko": "달리시",
      "count": 1
     }
    ]
@@ -1091,20 +1099,6 @@
    ]
   },
   {
-   "en": "Van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 보멜",
-     "count": 1
-    },
-    {
-     "ko": "반 봄멜",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Yalcin",
    "dictionary": null,
    "variants": [
@@ -1170,6 +1164,20 @@
     },
     {
      "ko": "도움비아",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Orkun Kökçü",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "귀퀴축유",
+     "count": 1
+    },
+    {
+     "ko": "오르쿤 쾨크추",
      "count": 1
     }
    ]
@@ -1241,8 +1249,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 454,
-   "llm": 454
+   "collected": 485,
+   "llm": 485
   }
  },
  "llmErrors": []
