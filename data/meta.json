@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T16:30:34.602Z",
+ "updatedAt": "2026-11-15T17:18:24.417Z",
  "hot": [
   "jesus-de-miguel-incident",
   "spain-england-2026-11-14",
   "tuchel-de-la-fuente-relationship",
-  "pochettino-man-utd-manager-future",
-  "player-death-incident"
+  "arsenal-london-city-2026-11-15",
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -39,7 +39,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 65,
+   "items": 66,
    "added": 2,
    "authorRate": 0
   },
@@ -52,7 +52,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,8 +94,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 66
+   "added": 2,
+   "authorRate": 68
   },
   "fblondon": {
    "ok": true,
@@ -112,13 +112,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -130,7 +130,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -166,25 +166,25 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -197,7 +197,7 @@
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 76
+   "count": 77
   },
   {
    "name": "오워노",
@@ -244,15 +244,15 @@
    "count": 17
   },
   {
+   "name": "호나우지뉴",
+   "count": 17
+  },
+  {
    "name": "이스테방",
    "count": 16
   },
   {
    "name": "티에르노 배리",
-   "count": 16
-  },
-  {
-   "name": "호나우지뉴",
    "count": 16
   },
   {
@@ -317,12 +317,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 231,
+  "recentIssues": 228,
   "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 119
+    "count": 113
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "carrick-manager-future",
-    "count": 23
+    "count": 20
    },
    {
     "slug": "bruno-fernandes-contract",
@@ -350,7 +350,7 @@
    },
    {
     "slug": "england-croatia-2026-11-12",
-    "count": 16
+    "count": 15
    }
   ]
  },
@@ -407,7 +407,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 23
+     "count": 24
     },
     {
      "ko": "클로프",
@@ -452,10 +452,6 @@
      "count": 6
     },
     {
-     "ko": "마르크 판 봄멜",
-     "count": 2
-    },
-    {
      "ko": "마크 반 봄멜",
      "count": 2
     },
@@ -466,6 +462,10 @@
     {
      "ko": "마크 판 봄멜",
      "count": 2
+    },
+    {
+     "ko": "마르크 판 봄멜",
+     "count": 1
     }
    ]
   },
@@ -510,23 +510,19 @@
    ]
   },
   {
-   "en": "Jesús Owono",
+   "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
     {
-     "ko": "헤수스 오워노",
+     "ko": "키스 와이니스",
      "count": 3
     },
     {
-     "ko": "오워노",
+     "ko": "키스 와이네스",
      "count": 2
     },
     {
-     "ko": "헤수스 오웅고노",
-     "count": 1
-    },
-    {
-     "ko": "제수스 오워노",
+     "ko": "키스 와니스",
      "count": 1
     }
    ]
@@ -545,6 +541,24 @@
     },
     {
      "ko": "아르다 귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헤수스 오워노",
+     "count": 3
+    },
+    {
+     "ko": "오워노",
+     "count": 2
+    },
+    {
+     "ko": "제수스 오워노",
      "count": 1
     }
    ]
@@ -582,19 +596,19 @@
    ]
   },
   {
-   "en": "Keith Wyness",
+   "en": "Vuskovic",
    "dictionary": null,
    "variants": [
     {
-     "ko": "키스 와이네스",
+     "ko": "부스코비치",
      "count": 2
     },
     {
-     "ko": "키스 와이니스",
-     "count": 2
+     "ko": "부코비치",
+     "count": 1
     },
     {
-     "ko": "키스 와니스",
+     "ko": "부슈코비치",
      "count": 1
     }
    ]
@@ -736,20 +750,6 @@
    ]
   },
   {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부스코비치",
-     "count": 2
-    },
-    {
-     "ko": "부코비치",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Davide Frattesi",
    "dictionary": null,
    "variants": [
@@ -773,20 +773,6 @@
     },
     {
      "ko": "가리 네빌",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ricardo Horta",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "리카르두 오르타",
-     "count": 2
-    },
-    {
-     "ko": "호르타",
      "count": 1
     }
    ]
@@ -1006,20 +992,6 @@
    ]
   },
   {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 1
-    },
-    {
-     "ko": "회너스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "James Garner",
    "dictionary": null,
    "variants": [
@@ -1158,6 +1130,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Kasper Hogh",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카스퍼 호그",
+     "count": 1
+    },
+    {
+     "ko": "카스퍼 회흐",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Micael Sanhá",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미카엘 산야",
+     "count": 1
+    },
+    {
+     "ko": "미카엘 상야",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1230,8 +1230,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 70,
-   "llm": 70
+   "collected": 109,
+   "llm": 109
   }
  },
  "llmErrors": []
