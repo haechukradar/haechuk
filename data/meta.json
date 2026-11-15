@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T10:18:06.489Z",
+ "updatedAt": "2026-11-15T11:10:15.438Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "spain-england-2026-11-14",
   "bruno-fernandes-contract",
   "tuchel-de-la-fuente-relationship",
-  "kane-award"
+  "romario-ancelotti-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -39,7 +39,7 @@
   "bbc": {
    "ok": true,
    "items": 66,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -51,7 +51,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -63,7 +63,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +75,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -87,31 +87,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 64
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -135,7 +135,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -153,7 +153,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -165,13 +165,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -183,12 +183,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 12,
    "added": 3,
    "authorRate": 0
   }
@@ -316,16 +316,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
+  "recentIssues": 230,
   "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 140
+    "count": 133
    },
    {
     "slug": "carrick-manager-future",
-    "count": 70
+    "count": 52
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -424,7 +424,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 12
+     "count": 13
     },
     {
      "ko": "튀헬",
@@ -499,6 +499,28 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 5
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 4
+    },
+    {
+     "ko": "스티븐 보르손",
+     "count": 1
+    },
+    {
+     "ko": "스티븐 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
@@ -517,42 +539,6 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 5
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 4
-    },
-    {
-     "ko": "스티븐 보르손",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 5
-    },
-    {
-     "ko": "포폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -566,6 +552,24 @@
     },
     {
      "ko": "마티아스 자이슬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 4
+    },
+    {
+     "ko": "포폰세카",
+     "count": 2
+    },
+    {
+     "ko": "파울루 퐁세카",
      "count": 1
     }
    ]
@@ -675,20 +679,6 @@
     {
      "ko": "리오 퍼디난드",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Peter Shilton",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피터 쉴턴",
-     "count": 2
-    },
-    {
-     "ko": "셜턴",
-     "count": 2
     }
    ]
   },
@@ -895,6 +885,34 @@
    ]
   },
   {
+   "en": "Romario",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호마리우",
+     "count": 2
+    },
+    {
+     "ko": "로마리우",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Peter Shilton",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피터 쉴턴",
+     "count": 1
+    },
+    {
+     "ko": "셜턴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
@@ -904,6 +922,34 @@
     },
     {
      "ko": "재미 캐러거",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Öztunali",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "외즈투날리",
+     "count": 1
+    },
+    {
+     "ko": "외스투나리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matsima",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마티시마",
+     "count": 1
+    },
+    {
+     "ko": "마첨가",
      "count": 1
     }
    ]
@@ -1131,48 +1177,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Orkun Kökçü",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "귀퀴축유",
-     "count": 1
-    },
-    {
-     "ko": "오르쿤 쾨크추",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Bompastor",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "보감포스트",
-     "count": 1
-    },
-    {
-     "ko": "봄파스토르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Reijnders",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레이어스",
-     "count": 1
-    },
-    {
-     "ko": "레이너르스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1241,8 +1245,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 567,
-   "llm": 567
+   "collected": 592,
+   "llm": 592
   }
  },
  "llmErrors": []
