@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-15T04:37:31.574Z",
+ "updatedAt": "2026-11-15T05:35:00.509Z",
  "hot": [
   "tuchel-de-la-fuente-relationship",
   "portugal-denmark-2026-11-13",
   "usa-haiti-2026-11-14",
-  "norway-wales-2026-11-12",
-  "england-spain-2026-11-14"
+  "england-spain-2026-11-14",
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -63,7 +63,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -93,7 +93,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 2,
    "authorRate": 70
   },
   "fblondon": {
@@ -111,14 +111,14 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 83
+   "added": 1,
+   "authorRate": 85
   },
   "waz": {
    "ok": true,
@@ -147,7 +147,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -159,7 +159,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -321,7 +321,7 @@
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 148
+    "count": 147
    },
    {
     "slug": "carrick-manager-future",
@@ -329,7 +329,7 @@
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 45
+    "count": 46
    },
    {
     "slug": "italy-france-2026-11-12",
@@ -531,24 +531,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 6
-    },
-    {
-     "ko": "포폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -571,23 +553,19 @@
    ]
   },
   {
-   "en": "Arda Guler",
+   "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
     {
-     "ko": "아르다 귈러",
-     "count": 3
+     "ko": "파울루 폰세카",
+     "count": 5
     },
     {
-     "ko": "아르다 귀러",
+     "ko": "포폰세카",
      "count": 2
     },
     {
-     "ko": "귈러",
-     "count": 1
-    },
-    {
-     "ko": "아르다 귈레르",
+     "ko": "파울루 퐁세카",
      "count": 1
     }
    ]
@@ -647,6 +625,24 @@
    ]
   },
   {
+   "en": "Arda Güler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아르다 귈러",
+     "count": 3
+    },
+    {
+     "ko": "아르다 귀러",
+     "count": 2
+    },
+    {
+     "ko": "아르다 귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Schjelderup",
    "dictionary": null,
    "variants": [
@@ -669,24 +665,6 @@
    ]
   },
   {
-   "en": "Peter Shilton",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피터 쉴턴",
-     "count": 2
-    },
-    {
-     "ko": "셜턴",
-     "count": 2
-    },
-    {
-     "ko": "피터 쇼턴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rio Ferdinand",
    "dictionary": null,
    "variants": [
@@ -697,6 +675,20 @@
     {
      "ko": "리오 퍼디난드",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Peter Shilton",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피터 쉴턴",
+     "count": 2
+    },
+    {
+     "ko": "셜턴",
+     "count": 2
     }
    ]
   },
@@ -1249,8 +1241,8 @@
    "llm": 700
   },
   "2026-11-15": {
-   "collected": 426,
-   "llm": 426
+   "collected": 438,
+   "llm": 438
   }
  },
  "llmErrors": []
