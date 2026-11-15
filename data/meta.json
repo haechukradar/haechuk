@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T22:29:24.219Z",
+ "updatedAt": "2026-11-15T23:13:19.416Z",
  "hot": [
   "spain-england-2026-11-14",
   "jesus-de-miguel-incident",
@@ -40,7 +40,7 @@
   "bbc": {
    "ok": true,
    "items": 70,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -52,7 +52,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,14 +88,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 12,
-   "authorRate": 62
+   "added": 6,
+   "authorRate": 64
   },
   "fblondon": {
    "ok": true,
@@ -106,7 +106,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -118,7 +118,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -166,7 +166,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -190,7 +190,7 @@
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -272,6 +272,10 @@
    "count": 14
   },
   {
+   "name": "루카쿠",
+   "count": 14
+  },
+  {
    "name": "리산드로 마르티네스",
    "count": 13
   },
@@ -285,10 +289,6 @@
   },
   {
    "name": "돈나룸마",
-   "count": 13
-  },
-  {
-   "name": "루카쿠",
    "count": 13
   },
   {
@@ -317,12 +317,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 58,
+  "recentIssues": 223,
+  "singleArticleRate": 57,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 107
+    "count": 103
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -330,19 +330,11 @@
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 41
+    "count": 48
    },
    {
     "slug": "france-turkey-2026-11-13",
-    "count": 22
-   },
-   {
-    "slug": "italy-france-2026-11-12",
-    "count": 19
-   },
-   {
-    "slug": "bruno-fernandes-contract",
-    "count": 18
+    "count": 26
    },
    {
     "slug": "belgium-italy-2026-11-12",
@@ -358,6 +350,10 @@
    },
    {
     "slug": "carrick-manager-future",
+    "count": 15
+   },
+   {
+    "slug": "italy-france-2026-11-12",
     "count": 15
    }
   ]
@@ -429,7 +425,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 12
+     "count": 14
     },
     {
      "ko": "튀헬",
@@ -443,7 +439,7 @@
    "variants": [
     {
      "ko": "데 라 푸엔테",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "델라 푸엔테",
@@ -457,7 +453,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "마크 반 봄멜",
@@ -474,6 +470,24 @@
     {
      "ko": "마르크 판 봄멜",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 5
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
     }
    ]
   },
@@ -495,24 +509,6 @@
     },
     {
      "ko": "스티븐 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 5
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 5
-    },
-    {
-     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -1222,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 353,
-   "llm": 353
+   "collected": 377,
+   "llm": 377
   }
  },
  "llmErrors": []
