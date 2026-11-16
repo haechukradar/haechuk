@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T03:34:49.802Z",
+ "updatedAt": "2026-11-16T05:06:22.035Z",
  "hot": [
   "spain-england-2026-11-14",
+  "pochettino-man-utd-manager-future",
   "france-turkey-2026-11-13",
   "arsenal-london-city-2026-11-15",
-  "belgium-italy-2026-11-12",
-  "jesus-de-miguel-incident"
+  "belgium-italy-2026-11-12"
  ],
  "days": [
   "2026-10-18",
@@ -57,9 +57,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 21,
-   "added": 6,
-   "authorRate": 81
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -88,14 +88,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 68
+   "added": 3,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
@@ -106,7 +106,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -118,7 +118,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 85
   },
   "waz": {
@@ -142,13 +142,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 6,
    "authorRate": 0
   },
   "hln": {
@@ -160,7 +160,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -317,12 +317,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
+  "recentIssues": 226,
   "singleArticleRate": 58,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 101
+    "count": 102
    },
    {
     "slug": "spain-england-2026-11-14",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "france-turkey-2026-11-13",
-    "count": 27
+    "count": 29
    },
    {
     "slug": "belgium-italy-2026-11-12",
@@ -347,10 +347,6 @@
    {
     "slug": "norway-wales-2026-11-12",
     "count": 17
-   },
-   {
-    "slug": "carrick-manager-future",
-    "count": 15
    }
   ]
  },
@@ -578,6 +574,24 @@
    ]
   },
   {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 4
+    },
+    {
+     "ko": "차비",
+     "count": 1
+    },
+    {
+     "ko": "샤비",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pierre Sage",
    "dictionary": null,
    "variants": [
@@ -586,29 +600,11 @@
      "count": 2
     },
     {
-     "ko": "피에르 사주",
-     "count": 2
-    },
-    {
      "ko": "피에르 사게",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 3
     },
     {
-     "ko": "차비",
-     "count": 1
-    },
-    {
-     "ko": "샤비",
+     "ko": "피에르 사주",
      "count": 1
     }
    ]
@@ -882,20 +878,6 @@
    ]
   },
   {
-   "en": "Jean-Louis Leca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "장루이 레카",
-     "count": 1
-    },
-    {
-     "ko": "장루이 르카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "James Garner",
    "dictionary": null,
    "variants": [
@@ -1146,6 +1128,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Graeme Souness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수네스",
+     "count": 1
+    },
+    {
+     "ko": "그레이엄 수니스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1218,8 +1214,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 422,
-   "llm": 422
+   "collected": 442,
+   "llm": 442
   }
  },
  "llmErrors": []
