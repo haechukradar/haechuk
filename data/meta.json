@@ -1,10 +1,11 @@
 {
- "updatedAt": "2026-11-16T09:17:59.363Z",
+ "updatedAt": "2026-11-16T10:53:19.419Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
   "spain-england-2026-11-14",
-  "france-turkey-2026-11-13",
-  "belgium-italy-2026-11-12"
+  "arsenal-newcastle-2026-11-16",
+  "romario-ancelotti-relationship",
+  "pochettino-man-utd-manager-future",
+  "germany-netherlands-2026-11-16"
  ],
  "days": [
   "2026-10-18",
@@ -38,20 +39,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 73,
-   "added": 9,
+   "items": 74,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -63,7 +64,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -75,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,7 +94,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 7,
    "authorRate": 70
   },
   "fblondon": {
@@ -105,7 +106,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -117,7 +118,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -141,19 +142,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 20,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -165,31 +166,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 5,
+   "added": 3,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 8,
+   "items": 13,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -239,6 +240,10 @@
    "count": 22
   },
   {
+   "name": "루카쿠",
+   "count": 19
+  },
+  {
    "name": "트레솔디",
    "count": 18
   },
@@ -255,19 +260,15 @@
    "count": 16
   },
   {
-   "name": "루카쿠",
-   "count": 15
+   "name": "지단",
+   "count": 16
   },
   {
-   "name": "지단",
+   "name": "웨인 루니",
    "count": 15
   },
   {
    "name": "반 다이크",
-   "count": 14
-  },
-  {
-   "name": "웨인 루니",
    "count": 14
   },
   {
@@ -307,25 +308,25 @@
    "count": 12
   },
   {
-   "name": "마두에케",
+   "name": "모히아",
    "count": 11
   },
   {
-   "name": "바르콜라",
+   "name": "마두에케",
    "count": 11
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
-  "singleArticleRate": 57,
+  "recentIssues": 220,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 100
+    "count": 95
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 67
+    "count": 68
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -333,7 +334,7 @@
    },
    {
     "slug": "france-turkey-2026-11-13",
-    "count": 31
+    "count": 33
    },
    {
     "slug": "belgium-italy-2026-11-12",
@@ -341,11 +342,15 @@
    },
    {
     "slug": "england-spain-2026-11-14",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "norway-wales-2026-11-12",
     "count": 16
+   },
+   {
+    "slug": "tuchel-de-la-fuente-relationship",
+    "count": 15
    }
   ]
  },
@@ -397,6 +402,20 @@
    ]
   },
   {
+   "en": "Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 25
+    },
+    {
+     "ko": "클로프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -406,21 +425,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 8
-    }
-   ]
-  },
-  {
-   "en": "Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 24
-    },
-    {
-     "ko": "클로프",
-     "count": 1
+     "count": 7
     }
    ]
   },
@@ -444,7 +449,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "마크 반 봄멜",
@@ -527,6 +532,20 @@
    ]
   },
   {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 6
+    },
+    {
+     "ko": "라민",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -545,30 +564,16 @@
    ]
   },
   {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민 야말",
-     "count": 5
-    },
-    {
-     "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
     {
      "ko": "키스 와이니스",
-     "count": 4
+     "count": 5
     },
     {
      "ko": "키스 와이네스",
-     "count": 2
+     "count": 1
     }
    ]
   },
@@ -619,6 +624,20 @@
    ]
   },
   {
+   "en": "Romário",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호마리우",
+     "count": 4
+    },
+    {
+     "ko": "로마리우",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Duncan Ferguson",
    "dictionary": null,
    "variants": [
@@ -633,20 +652,6 @@
    ]
   },
   {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 3
-    },
-    {
-     "ko": "듀언",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Maxi Araújo",
    "dictionary": null,
    "variants": [
@@ -656,20 +661,6 @@
     },
     {
      "ko": "마키 아라우호",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Romário",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호마리우",
-     "count": 3
-    },
-    {
-     "ko": "로마리우",
      "count": 1
     }
    ]
@@ -702,6 +693,24 @@
     },
     {
      "ko": "피에르 사주",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Ronald Araujo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "로날두 아라우호",
+     "count": 1
+    },
+    {
+     "ko": "로날드 아라우호",
+     "count": 1
+    },
+    {
+     "ko": "아라우호",
      "count": 1
     }
    ]
@@ -785,6 +794,20 @@
    ]
   },
   {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모야",
+     "count": 2
+    },
+    {
+     "ko": "모히아",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Lucas Da Cunha",
    "dictionary": null,
    "variants": [
@@ -812,6 +835,34 @@
     },
     {
      "ko": "회이룬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dan Burn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "댄 번",
+     "count": 2
+    },
+    {
+     "ko": "듀언",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Luis de la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "델라푸엔테",
+     "count": 2
+    },
+    {
+     "ko": "루이스 데 라 푸엔테",
      "count": 1
     }
    ]
@@ -868,20 +919,6 @@
     },
     {
      "ko": "션 다이치",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De Jong",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "더용",
-     "count": 1
-    },
-    {
-     "ko": "더 용",
      "count": 1
     }
    ]
@@ -1109,34 +1146,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Micael Sanhá",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미카엘 산야",
-     "count": 1
-    },
-    {
-     "ko": "미카엘 상야",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Popp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포펠",
-     "count": 1
-    },
-    {
-     "ko": "포프",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1209,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 561,
-   "llm": 561
+   "collected": 622,
+   "llm": 622
   }
  },
  "llmErrors": []
