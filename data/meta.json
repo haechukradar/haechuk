@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T10:53:19.419Z",
+ "updatedAt": "2026-11-16T11:58:11.792Z",
  "hot": [
   "spain-england-2026-11-14",
-  "arsenal-newcastle-2026-11-16",
-  "romario-ancelotti-relationship",
   "pochettino-man-utd-manager-future",
-  "germany-netherlands-2026-11-16"
+  "germany-netherlands-2026-11-16",
+  "bellingham-cucurella-relationship",
+  "arsenal-newcastle-2026-11-16"
  ],
  "days": [
   "2026-10-18",
@@ -40,31 +40,31 @@
   "bbc": {
    "ok": true,
    "items": 74,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 22,
+   "added": 2,
+   "authorRate": 82
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,37 +88,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 70
+   "added": 2,
+   "authorRate": 72
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 1,
-   "authorRate": 100
-  },
-  "men": {
    "ok": true,
    "items": 25,
    "added": 2,
    "authorRate": 100
   },
-  "lecho": {
+  "men": {
    "ok": true,
    "items": 25,
    "added": 1,
    "authorRate": 100
   },
+  "lecho": {
+   "ok": true,
+   "items": 25,
+   "added": 3,
+   "authorRate": 100
+  },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 88
   },
   "waz": {
@@ -142,25 +142,25 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -172,25 +172,25 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 8,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 5,
+   "items": 12,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -236,12 +236,12 @@
    "count": 24
   },
   {
-   "name": "베르나르두 실바",
-   "count": 22
+   "name": "루카쿠",
+   "count": 23
   },
   {
-   "name": "루카쿠",
-   "count": 19
+   "name": "베르나르두 실바",
+   "count": 22
   },
   {
    "name": "트레솔디",
@@ -296,6 +296,10 @@
    "count": 13
   },
   {
+   "name": "바르콜라",
+   "count": 12
+  },
+  {
    "name": "콘사",
    "count": 12
   },
@@ -310,23 +314,19 @@
   {
    "name": "모히아",
    "count": 11
-  },
-  {
-   "name": "마두에케",
-   "count": 11
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
-  "singleArticleRate": 56,
+  "recentIssues": 224,
+  "singleArticleRate": 58,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 95
+    "count": 93
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 68
+    "count": 69
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -341,15 +341,15 @@
     "count": 20
    },
    {
-    "slug": "england-spain-2026-11-14",
-    "count": 16
-   },
-   {
     "slug": "norway-wales-2026-11-12",
     "count": 16
    },
    {
     "slug": "tuchel-de-la-fuente-relationship",
+    "count": 15
+   },
+   {
+    "slug": "england-spain-2026-11-14",
     "count": 15
    }
   ]
@@ -407,7 +407,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 25
+     "count": 26
     },
     {
      "ko": "클로프",
@@ -474,16 +474,30 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 11
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
     {
-     "ko": "스테판 보슨",
+     "ko": "스테판 보르손",
      "count": 5
     },
     {
-     "ko": "스테판 보르손",
-     "count": 5
+     "ko": "스테판 보슨",
+     "count": 4
     },
     {
      "ko": "스테판 보르송",
@@ -496,20 +510,6 @@
     {
      "ko": "스티븐 보슨",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 11
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 3
     }
    ]
   },
@@ -527,7 +527,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 1
+     "count": 2
     }
    ]
   },
@@ -633,20 +633,6 @@
     },
     {
      "ko": "로마리우",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Duncan Ferguson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "던컨 퍼거슨",
-     "count": 3
-    },
-    {
-     "ko": "덩컨 퍼거슨",
      "count": 1
     }
    ]
@@ -780,6 +766,20 @@
    ]
   },
   {
+   "en": "Duncan Ferguson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "던컨 퍼거슨",
+     "count": 2
+    },
+    {
+     "ko": "덩컨 퍼거슨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Arsène Wenger",
    "dictionary": null,
    "variants": [
@@ -868,6 +868,20 @@
    ]
   },
   {
+   "en": "Blatter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "블래터",
+     "count": 2
+    },
+    {
+     "ko": "블라터",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marc dos Santos",
    "dictionary": null,
    "variants": [
@@ -877,6 +891,20 @@
     },
     {
      "ko": "마르크 두스 산토스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Earps",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "얼프스",
+     "count": 2
+    },
+    {
+     "ko": "어프스",
      "count": 1
     }
    ]
@@ -1008,6 +1036,20 @@
    ]
   },
   {
+   "en": "Cody Gakpo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "코디 학포",
+     "count": 1
+    },
+    {
+     "ko": "각포",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Orkun Kökçü",
    "dictionary": null,
    "variants": [
@@ -1104,48 +1146,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Hjulmand",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "예스텔",
-     "count": 1
-    },
-    {
-     "ko": "훌마트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Anthony Elanga",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "앤서니 엘랑가",
-     "count": 1
-    },
-    {
-     "ko": "안토니 엘랑가",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kasper Hogh",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카스퍼 호그",
-     "count": 1
-    },
-    {
-     "ko": "카스퍼 회흐",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1218,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 622,
-   "llm": 622
+   "collected": 677,
+   "llm": 677
   }
  },
  "llmErrors": []
