@@ -1,506 +1,159 @@
 [
  {
-  "slug": "jamal-musiala-injury",
+  "slug": "rice-arsenal-contract",
   "mode": "llm",
-  "titleKo": "무시알라 긴 부상 공백 끝 복귀 임박",
-  "createdAt": "2026-11-16T11:53:40.000Z",
-  "updatedAt": "2026-11-16T11:53:40.000Z",
-  "category": "injury",
-  "stage": null,
+  "titleKo": "데클란 라이스 아스널 재계약 근접",
+  "createdAt": "2026-11-14T20:40:35.000Z",
+  "updatedAt": "2026-11-16T14:52:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
   "clubs": [
-   "bayern"
+   "arsenal"
   ],
   "players": [
-   "무시알라"
+   "데클란 라이스"
   ],
   "sig": [
-   "zwangspause",
-   "musiala",
-   "schritt"
+   "rice",
+   "novo"
   ],
   "articles": [
    {
-    "id": "799938755535",
-    "url": "https://www.tz.de/sport/fc-bayern/jamal-musiala-vor-comeback-beim-fc-bayern-muenchen-zr-94592383.html",
-    "title": "Nach langer Zwangspause: Musiala vor entscheidendem Schritt beim FC Bayern",
-    "ko": "뮌헨 무시알라, 긴 공백 끝 복귀 임박",
-    "source": "tz",
-    "publishedAt": "2026-11-16T11:53:40.000Z",
+    "id": "da9de095caec",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
+    "title": "Rice close to signing new Arsenal contract",
+    "ko": "라이스, 아스널과 새 계약 체결 근접",
+    "source": "bbc",
+    "publishedAt": "2026-11-14T20:40:35.000Z",
     "credited": null,
     "clubs": [
-     "bayern"
+     "arsenal"
     ],
-    "category": "injury",
-    "stage": null,
+    "category": "transfer",
+    "stage": "negotiation",
     "players": [
-     "무시알라"
+     "데클란 라이스"
     ],
     "playerTags": [
-     "jamal-musiala"
+     "declan-rice"
     ],
-    "author": "Manuel Bonke",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.97,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "jamal-musiala"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-16T11:53:40.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nach langer Zwangspause: Musiala vor entscheidendem Schritt beim FC Bayern"
- },
- {
-  "slug": "connor-roberts-discipline",
-  "mode": "llm",
-  "titleKo": "커너 로버츠 징계 필요성 논란",
-  "createdAt": "2026-11-16T11:34:26.000Z",
-  "updatedAt": "2026-11-16T11:34:26.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "커너 로버츠"
-  ],
-  "sig": [
-   "pgmol",
-   "connor",
-   "roberts",
-   "wales",
-   "norway"
-  ],
-  "articles": [
+    "author": null,
+    "transfer": {
+     "player": "데클란 라이스",
+     "from": "아스널",
+     "to": null
+    }
+   },
    {
-    "id": "ad25ea3cd0dd",
-    "url": "https://www.footballinsider247.com/burnley/ex-pgmol-chief-connor-roberts-should-be-banned-as-wales-vs-norway-footage-re-analysed",
-    "title": "Ex-PGMOL chief: Connor Roberts 'should be banned' as Wales vs Norway footage re-analysed",
-    "ko": "전 PGMOL 책임자, 커너 로버츠 징계 필요 주장",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-16T11:34:26.000Z",
+    "id": "27595a4c9d80",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/arsenal/detalhe/declan-rice-revela-novidades-sobre-renovacao-com-arsenal-novo-contrato-esta-para-breve",
+    "title": "Declan Rice revela novidades sobre renovação com Arsenal: «Novo contrato está para breve»",
+    "ko": "라이스, 아스널과 재계약 곧 성사 예고",
+    "source": "record",
+    "publishedAt": "2026-11-16T14:52:00.000Z",
     "credited": null,
-    "clubs": [],
+    "clubs": [
+     "arsenal"
+    ],
     "category": "other",
     "stage": null,
     "players": [
-     "커너 로버츠"
+     "데클란 라이스"
     ],
-    "playerTags": [],
+    "playerTags": [
+     "declan-rice"
+    ],
     "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.97,
+  "topTier": 1,
+  "stageHistory": [
+   {
+    "id": "da9de095caec",
+    "at": "2026-11-14T20:40:35.000Z",
+    "source": "bbc",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "declan-rice"
+  ],
+  "transfer": {
+   "player": "데클란 라이스",
+   "from": "아스널",
+   "to": null
+  },
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-14T20:40:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rice close to signing new Arsenal contract"
+ },
+ {
+  "slug": "liverpool-man-utd-2026-11-22",
+  "mode": "llm",
+  "titleKo": null,
+  "createdAt": "2026-11-16T14:49:58.000Z",
+  "updatedAt": "2026-11-16T14:49:58.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "liverpool",
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [],
+  "articles": [
+   {
+    "id": "21b7da1de09b",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-man-united-tickets-premier-34917488",
+    "title": "Last chance Liverpool vs Man United tickets running low for Premier League clash",
+    "ko": "리버풀 대 맨유 프리미어리그 빅매치 티켓 잔여분 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-16T14:49:58.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Hackney",
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.56,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-16T11:34:26.000Z",
-   "viaQuote": false
-  },
-  "headline": "Ex-PGMOL chief: Connor Roberts 'should be banned' as Wales vs Norway footage re-analysed"
- },
- {
-  "slug": "thomas-frank-crystal-palace-appointment",
-  "mode": "llm",
-  "titleKo": "토마스 프랑크 크리스털 팰리스 감독 선임 합의",
-  "createdAt": "2026-11-10T06:00:00.000Z",
-  "updatedAt": "2026-11-16T11:30:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "tottenham",
-   "crystal-palace"
-  ],
-  "players": [],
-  "sig": [
-   "frank"
-  ],
-  "articles": [
-   {
-    "id": "770820ed44c7",
-    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
-    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
-    "ko": "크리스털 팰리스, 세이지 경질 가능성 속 토마스 프랑크 유력 후보",
-    "source": "sky",
-    "publishedAt": "2026-11-08T20:56:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c0571f0bf213",
-    "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
-    "title": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
-    "ko": "토마스 프랑크, 토트넘 악몽 뒤 크리스털 팰리스서 명예 회복 가능",
-    "source": "mirror",
-    "publishedAt": "2026-11-09T15:34:02.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "tottenham"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Cross",
-    "transfer": null
-   },
-   {
-    "id": "73b196431796",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-could-be-in-big-trouble-over-thomas-frank",
-    "title": "'Crystal Palace could be in big trouble over Thomas Frank'",
-    "ko": "토마스 프랑크 놓고 크리스털 팰리스 큰 위기 가능성",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-09T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9d4fed4707ec",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-could-raid-tottenham-34882993",
-    "title": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace",
-    "ko": "토마스 프랑크, 크리스털 팰리스行 시 토트넘서 4명 영입 가능성",
-    "source": "fblondon",
-    "publishedAt": "2026-11-10T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "tottenham",
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Fasika Zelealem",
-    "transfer": null
-   },
-   {
-    "id": "06173cf31add",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-leading-list-of-four-names-in-contention-for-crystal-palace-expert",
-    "title": "Thomas Frank leading list of 'four names' in contention for Crystal Palace - expert",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 후보 4인 중 선두",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-10T07:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "24611ea462b4",
-    "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-    "title": "Palace latest: Talks progressing for Frank to succeed Sage",
-    "ko": "팰리스, 세이지 후임 프랭크와 협상 진전",
-    "source": "sky",
-    "publishedAt": "2026-11-11T14:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "781e85dbebfd",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palaces-thomas-frank-appointment-hits-stumbling-block",
-    "title": "Sources: Crystal Palace's Thomas Frank appointment hits stumbling block",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임설에 걸림돌",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-12T14:11:26.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ff9c02087d57",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/next-manager/club-adviser-updates-on-thomas-frank-getting-premium-contract-at-crystal-palace",
-    "title": "Club adviser updates on Thomas Frank getting 'premium contract' at Crystal Palace",
-    "ko": "크리스털 팰리스, 토마스 프랑크에게 프리미엄 계약 제시 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T09:40:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "54fed1d10fc2",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-thomas-frank-to-crystal-palace-update-2",
-    "title": "Sources: Thomas Frank to Crystal Palace update",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 관련 업데이트",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T18:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9f1fbbfa10fd",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-concerns-over-thomas-frank-emerge-amid-new-delay",
-    "title": "Sources: Crystal Palace 'concerns' over Thomas Frank emerge amid new delay",
-    "ko": "크리스털 팰리스, 토마스 프랑크 영입 지연 속 우려 제기",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-15T10:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e56177438e2c",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-the-real-reason-crystal-palace-want-to-appoint-thomas-frank-revealed",
-    "title": "Sources: The real reason Crystal Palace want to appoint Thomas Frank revealed",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 이유 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-15T20:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bfc83e76243f",
-    "url": "https://www.skysports.com/football/news/12040/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
-    "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
-    "ko": "프랭크, 크리스털 팰리스 신임 감독 원칙적 합의",
-    "source": "sky",
-    "publishedAt": "2026-11-16T11:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 4,
-  "score": 1.84,
+  "score": 1.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-08T20:56:00.000Z",
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-16T14:49:58.000Z",
    "viaQuote": false
   },
-  "headline": "Frank agrees deal in principle to become new Crystal Palace head coach"
- },
- {
-  "slug": "pierce-charles-rangers-transfer",
-  "mode": "llm",
-  "titleKo": "레인저스 피어스 찰스 영입 관심",
-  "createdAt": "2026-11-16T11:30:00.000Z",
-  "updatedAt": "2026-11-16T11:30:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [],
-  "players": [
-   "피어스 찰스"
-  ],
-  "sig": [
-   "pierce",
-   "charles"
-  ],
-  "articles": [
-   {
-    "id": "7ece330e34a5",
-    "url": "https://www.footballinsider247.com/rangers/transfers/rangers-should-lay-the-groundwork-for-pierce-charles-deal-after-update",
-    "title": "Rangers should lay the groundwork for Pierce Charles deal after update",
-    "ko": "레인저스, 피어스 찰스 영입 준비 필요",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-16T11:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "피어스 찰스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "피어스 찰스",
-     "from": null,
-     "to": "레인저스"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.55,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "7ece330e34a5",
-    "at": "2026-11-16T11:30:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "피어스 찰스",
-   "from": null,
-   "to": "레인저스"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-16T11:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Rangers should lay the groundwork for Pierce Charles deal after update"
- },
- {
-  "slug": "joelinton-injury-20261116",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 조엘린턴 몸 상태 업데이트",
-  "createdAt": "2026-11-16T11:29:18.000Z",
-  "updatedAt": "2026-11-16T11:29:18.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [
-   "조엘린턴",
-   "브루노 기마랑이스"
-  ],
-  "sig": [
-   "joelinton",
-   "bruno",
-   "guimaraes"
-  ],
-  "articles": [
-   {
-    "id": "a835a88e8d5d",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-arsenal-joelinton-injury-34916240",
-    "title": "Newcastle United get Joelinton update ahead of Bruno Guimaraes reunion as duo hit by illness",
-    "ko": "뉴캐슬, 브루노 기마랑이스 재회 앞두고 조엘린턴 상태 점검",
-    "source": "chronicle",
-    "publishedAt": "2026-11-16T11:29:18.000Z",
-    "credited": "크로니클 라이브",
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "조엘린턴",
-     "브루노 기마랑이스"
-    ],
-    "playerTags": [
-     "bruno-guimaraes"
-    ],
-    "author": "Lee Ryder",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.1,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bruno-guimaraes"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "크로니클 라이브",
-   "at": "2026-11-16T11:29:18.000Z",
-   "viaQuote": true
-  },
-  "headline": "Newcastle United get Joelinton update ahead of Bruno Guimaraes reunion as duo hit by illness"
+  "headline": "Last chance Liverpool vs Man United tickets running low for Premier League clash"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-16T11:24:11.000Z",
+  "updatedAt": "2026-11-16T14:34:48.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -4587,11 +4240,89 @@
     "playerTags": [],
     "author": "Matthew Abbott",
     "transfer": null
+   },
+   {
+    "id": "ab67d9cfa49c",
+    "url": "https://www.dailystar.co.uk/sport/football/manchester-united-mauricio-pochettino-decision-37881900",
+    "title": "Mauricio Pochettino must make Harry Kane and Cole Palmer impact his first job at Man Utd",
+    "ko": "포체티노, 맨유 첫 임무로 케인·파머 영향력 요구받아",
+    "source": "star",
+    "publishedAt": "2026-11-16T13:27:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "해리 케인",
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer",
+     "harry-kane"
+    ],
+    "author": "Cameron Winstanley",
+    "transfer": null
+   },
+   {
+    "id": "2cd34b15ffdd",
+    "url": "https://www.thesun.co.uk/sport/41037774/mauricio-pochettino-manchester-united-sir-alex-ferguson/",
+    "title": "New Man Utd boss Mauricio Pochettino has Sir Alex Ferguson’s blessing but both are better off keeping their distance",
+    "ko": "포체티노 새 맨유 감독, 퍼거슨의 축복 받았지만 거리 두는 게 낫다",
+    "source": "sun",
+    "publishedAt": "2026-11-16T14:04:36.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Luckhurst",
+    "transfer": null
+   },
+   {
+    "id": "b198cefa9fe5",
+    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-rule-37882295",
+    "title": "Two Man Utd managers have already been punished by Mauricio Pochettino’s strict rule he will enforce",
+    "ko": "포체티노 엄격한 규칙에 이미 맨유 두 감독 처벌받아",
+    "source": "mirror",
+    "publishedAt": "2026-11-16T14:06:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "8d4c4bc33c83",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-give-manchester-united-34918801",
+    "title": "Mauricio Pochettino will give Manchester United something they've wanted for years",
+    "ko": "포체티노, 맨유에 오랫동안 필요했던 것을 줄 것이라는 평가",
+    "source": "men",
+    "publishedAt": "2026-11-16T14:34:48.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Jackson",
+    "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 5,
   "sourceCount": 17,
-  "score": 2.84,
+  "score": 2.16,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -4611,453 +4342,249 @@
   "headline": "How Man Utd hired Pochettino: Glazers' role, £15m Hurzeler price tag, Fabregas on shortlist"
  },
  {
-  "slug": "germany-netherlands-2026-11-16",
+  "slug": "van-dijk-liverpool-contract",
   "mode": "llm",
-  "titleKo": "독일 대 네덜란드 네이션스리그 경기",
-  "createdAt": "2026-11-16T05:06:22.035Z",
-  "updatedAt": "2026-11-16T11:18:42.000Z",
+  "titleKo": "반 다이크 리버풀 재계약 논의",
+  "createdAt": "2026-11-10T12:00:00.000Z",
+  "updatedAt": "2026-11-16T14:30:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "liverpool"
+  ],
+  "players": [
+   "버질 반 다이크",
+   "알리송 베커",
+   "알리송",
+   "반 다이크"
+  ],
+  "sig": [
+   "dijk",
+   "let"
+  ],
+  "articles": [
+   {
+    "id": "f67358c98eac",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/virgil-van-dijk-drops-liverpool-34884211",
+    "title": "Virgil van Dijk drops Liverpool future hint after contract update - 'Let's see'",
+    "ko": "반 다이크, 계약 업데이트 후 리버풀 미래에 대해 \"두고 보자\"",
+    "source": "lecho",
+    "publishedAt": "2026-11-10T12:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "반 다이크"
+    ],
+    "playerTags": [
+     "virgil-van-dijk"
+    ],
+    "author": "Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "37aa268ed096",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/should-liverpool-hand-virgil-van-34891245",
+    "title": "Poll: Should Liverpool hand Virgil van Dijk and Alisson Becker new contracts?",
+    "ko": "반 다이크·알리송 재계약 찬반 투표 진행",
+    "source": "lecho",
+    "publishedAt": "2026-11-10T14:48:13.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "반 다이크",
+     "알리송"
+    ],
+    "playerTags": [
+     "virgil-van-dijk"
+    ],
+    "author": "Paul Wheelock",
+    "transfer": null
+   },
+   {
+    "id": "1a31ca2d1c58",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alisson-becker-virgil-van-dijk-34896007",
+    "title": "Alisson Becker and Virgil van Dijk agreement reached as Liverpool contract message sent",
+    "ko": "알리송·반 다이크 재계약 합의 근접, 리버풀 계약 소식 전해져",
+    "source": "lecho",
+    "publishedAt": "2026-11-12T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "알리송",
+     "반 다이크"
+    ],
+    "playerTags": [
+     "virgil-van-dijk"
+    ],
+    "author": "Ian Doyle, Paul Gorst, Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "888d74498156",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/steven-gerrard-wouldnt-want-lose-34896494",
+    "title": "Steven Gerrard 'wouldn't want to lose' Liverpool star as he urges contract U-turn",
+    "ko": "제라드 '리버풀 스타 잔류 원해'…재계약 입장 번복 촉구",
+    "source": "lecho",
+    "publishedAt": "2026-11-12T11:58:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "ad3795784677",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dejan-lovren-makes-virgil-van-34901479",
+    "title": "Dejan Lovren makes Virgil van Dijk Liverpool contract prediction and Xabi Alosno return claim",
+    "ko": "로브렌, 반 다이크 재계약 예측과 알론소 리버풀 복귀 주장",
+    "source": "lecho",
+    "publishedAt": "2026-11-13T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "반 다이크"
+    ],
+    "playerTags": [
+     "virgil-van-dijk"
+    ],
+    "author": "Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "bcbaf2a3c1cb",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
+    "title": "Liverpool and Van Dijk have a decision to make",
+    "ko": "리버풀, 반 다이크 계약 관련 결정 앞둬",
+    "source": "bbc",
+    "publishedAt": "2026-11-13T06:57:25.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "반 다이크"
+    ],
+    "playerTags": [
+     "virgil-van-dijk"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9fc56688e37c",
+    "url": "https://www.footballinsider247.com/liverpool/liverpool-backed-to-finalise-virgil-van-dijk-deal-after-confession-transfer-expert",
+    "title": "Liverpool backed to finalise Virgil van Dijk deal after confession - Transfer expert",
+    "ko": "리버풀, 판 다이크 계약 마무리 가능성 거론",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T14:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "버질 반 다이크"
+    ],
+    "playerTags": [
+     "virgil-van-dijk"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 0.55,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "virgil-van-dijk"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-10T12:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Liverpool and Van Dijk have a decision to make"
+ },
+ {
+  "slug": "dortmund-schalke-2026-11-15",
+  "mode": "llm",
+  "titleKo": "도르트문트 대 샬케 더비 경기",
+  "createdAt": "2026-11-15T22:02:24.000Z",
+  "updatedAt": "2026-11-16T14:23:31.000Z",
   "category": "match",
   "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "deutschland",
-   "niederlande",
-   "free",
-   "stream"
+  "clubs": [
+   "dortmund",
+   "schalke"
   ],
-  "articles": [
-   {
-    "id": "822767a0b3f4",
-    "url": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-live-im-free-tv-und-stream-1271310/artikel#omrss",
-    "title": "Wer überträgt Deutschland gegen Niederlande live im Free-TV und Stream?",
-    "ko": "독일-네덜란드 경기 중계 정보, 어디서 볼 수 있나",
-    "source": "kicker",
-    "publishedAt": "2026-11-16T05:06:22.035Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8abe419d53c0",
-    "url": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-heute-live-im-free-tv-und-stream-1271472/artikel#omrss",
-    "title": "Wer überträgt Deutschland gegen Niederlande heute live im Free-TV und Stream?",
-    "ko": "독일 대 네덜란드 경기 무료 TV·스트리밍 중계 안내",
-    "source": "kicker",
-    "publishedAt": "2026-11-16T05:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f5f989211bf3",
-    "url": "https://www.kicker.de/das-bundesliga-quiz-bist-du-der-spieltag-experte-1271309/artikel#omrss",
-    "title": "Das Quiz zum Länderspiel Deutschland gegen Niederlande",
-    "ko": "독일 대 네덜란드 네이션스리그 경기 퀴즈",
-    "source": "kicker",
-    "publishedAt": "2026-11-16T05:50:03.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9f113babe62a",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-allemagne-pays-bas-en-ligue-des-nations/1743969#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Allemagne - Pays-Bas en Ligue des nations ?",
-    "ko": "독일 대 네덜란드 네이션스리그 경기 중계 시간과 채널은?",
-    "source": "lequipe",
-    "publishedAt": "2026-11-16T09:33:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "982cc4eb6784",
-    "url": "https://www.thesun.co.uk/sport/41036064/france-turkey-free-bets-bet-builder/",
-    "title": "Germany vs Netherlands: Get £50 in free bets, plus our 15/1 Bet Builder tip | Sky Bet",
-    "ko": "독일 대 네덜란드 경기 베팅 팁",
-    "source": "sun",
-    "publishedAt": "2026-11-16T11:18:42.000Z",
-    "credited": "스카이 벳",
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.46,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스카이 벳",
-   "at": "2026-11-16T05:06:22.035Z",
-   "viaQuote": true
-  },
-  "headline": "À quelle heure et sur quelle chaîne voir Allemagne - Pays-Bas en Ligue des nations ?"
- },
- {
-  "slug": "frick-aberdeen-appointment",
-  "mode": "llm",
-  "titleKo": "프릭 애버딘 감독 선임",
-  "createdAt": "2026-11-15T18:27:08.000Z",
-  "updatedAt": "2026-11-16T11:15:40.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "aberdeen"
-  ],
-  "articles": [
-   {
-    "id": "993ea89d90fb",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
-    "title": "Frick named new head coach at Aberdeen",
-    "ko": "프릭, 애버딘 신임 감독으로 선임",
-    "source": "bbc",
-    "publishedAt": "2026-11-15T18:27:08.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8a7e6c295168",
-    "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
-    "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
-    "ko": "스코틀랜드 스위스전 준비와 애버딘 신임 감독은?",
-    "source": "bbc",
-    "publishedAt": "2026-11-16T08:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ec52538fee36",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo?at_medium=RSS&at_campaign=rss",
-    "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
-    "ko": "프릭, 볼프스부르크 거절 후 애버딘行 가십",
-    "source": "bbc",
-    "publishedAt": "2026-11-16T08:17:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "88fb9be91674",
-    "url": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
-    "title": "What's at the top of Frick's Aberdeen to-do list?",
-    "ko": "애버딘 프릭 감독, 새 시즌 해야 할 일 목록은?",
-    "source": "bbc",
-    "publishedAt": "2026-11-16T11:15:40.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.51,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-15T18:27:08.000Z",
-   "viaQuote": false
-  },
-  "headline": "What's at the top of Frick's Aberdeen to-do list?"
- },
- {
-  "slug": "player-death-incident",
-  "mode": "llm",
-  "titleKo": "선수 사망 후 경기 재개 준비",
-  "createdAt": "2026-11-13T10:00:46.000Z",
-  "updatedAt": "2026-11-16T11:02:01.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
   "players": [
-   "오워노"
+   "포프"
   ],
   "sig": [
-   "jesus",
-   "miguel"
+   "popp",
+   "revierderby"
   ],
   "articles": [
    {
-    "id": "1fc6aca725be",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
-    "title": "The club preparing to play again after the death of a player",
-    "ko": "선수 사망 후 경기 재개 준비하는 구단",
-    "source": "bbc",
-    "publishedAt": "2026-11-13T10:00:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "364913c94ec8",
-    "url": "https://www.dailystar.co.uk/sport/football/footballer-22-dies-after-being-37874088",
-    "title": "Footballer, 22, dies after being subbed as club remember 'extraordinary' human",
-    "ko": "교체 후 숨진 22세 선수, 구단 “놀라운 사람” 추모",
-    "source": "star",
-    "publishedAt": "2026-11-13T13:39:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Schofield",
-    "transfer": null
-   },
-   {
-    "id": "91fd5ecfe5a3",
-    "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37846172",
-    "title": "Goalkeeper involved in fatal Jesus de Miguel collision receives huge ban from football",
-    "ko": "헤수스 데 미겔 사망 충돌 관련 골키퍼 축구 출전 금지 중징계",
-    "source": "mirror",
-    "publishedAt": "2026-11-13T21:04:32.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Patrick Austen-Hardy, Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "3713013b6fe3",
-    "url": "https://www.lequipe.fr/Football/Actualites/Jesus-owono-suspendu-douze-matches-apres-sa-sortie-ayant-cause-la-mort-de-jesus-de-miguel/1743519#at_medium=RSS_feeds",
-    "title": "Jesus Owono suspendu douze matches après sa sortie ayant causé la mort de Jesus de Miguel",
-    "ko": "오워노, 데 미겔 사망 원인 된 퇴장 후 12경기 출장 정지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-13T21:43:34.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "오워노"
-    ],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "e066e9986511",
-    "url": "https://www.kicker.de/nach-tod-von-gegenspieler-de-miguel-torhueter-owono-fuer-zwoelf-partien-gesperrt-1271394/artikel#omrss",
-    "title": "Nach Tod von Gegenspieler de Miguel: Torhüter Owono für zwölf Partien gesperrt",
-    "ko": "데 미겔 사망 후 골키퍼 오워노 12경기 출장 정지",
+    "id": "8b2854ddac0d",
+    "url": "https://www.kicker.de/dreierpack-popp-bvb-schiesst-schalke-im-revierderby-ab-1271926/video#omrss",
+    "title": "Dreierpack Popp: BVB schießt Schalke im Revierderby ab",
+    "ko": "포프 해트트릭…도르트문트, 샬케 대파하고 더비 승리",
     "source": "kicker",
-    "publishedAt": "2026-11-13T21:50:29.000Z",
+    "publishedAt": "2026-11-15T22:02:24.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "other",
+    "clubs": [
+     "dortmund",
+     "schalke"
+    ],
+    "category": "match",
     "stage": null,
     "players": [
-     "오워노"
+     "포프"
     ],
     "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "1fd9c2dd0b95",
-    "url": "https://www.record.pt/internacional/detalhe/exercito-israelita-mata-futebolista-palestiniano-que-apoiou-vitimas-em-gaza",
-    "title": "Exército israelita mata futebolista palestiniano que apoiou vítimas em Gaza",
-    "ko": "이스라엘군, 가자 피해자 지원한 팔레스타인 선수 살해",
-    "source": "record",
-    "publishedAt": "2026-11-14T10:23:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "4bc5c6fa8b64",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
-    "title": "Pitch perimeters under review after Vigar death",
-    "ko": "비가 사망 후 경기장 주변 점검 착수",
-    "source": "bbc",
-    "publishedAt": "2026-11-15T13:49:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2d7941c7d75d",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
-    "title": "Club's first match since player's death abandoned because of serious injury",
-    "ko": "선수 사망 후 첫 경기 중단, 중상자 발생",
-    "source": "bbc",
-    "publishedAt": "2026-11-15T14:06:19.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9eedf2945f10",
-    "url": "https://www.thesun.co.uk/sport/41029817/non-league-game-abandoned-hendon-ethan-creary-injury-ezekiel/",
-    "title": "Non-league game abandoned after seven minutes as star suffers serious injury days after team-mate’s tragic death",
-    "ko": "비리그 경기, 선수 사망 직후 주축 부상으로 7분 만에 중단",
-    "source": "sun",
-    "publishedAt": "2026-11-15T14:58:55.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "19e5d37f4dbb",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/maldicao-na-8-divisao-primeiro-jogo-apos-morte-de-jogador-interrompido-devido-a-grave-lesao",
-    "title": "Maldição na 8.ª divisão: primeiro jogo após morte de jogador interrompido devido a grave lesão",
-    "ko": "8부 리그, 선수 사망 후 첫 경기 중 중상 부상으로 중단",
-    "source": "record",
-    "publishedAt": "2026-11-15T23:34:51.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "96423ea92767",
-    "url": "https://www.dailystar.co.uk/sport/football/football-abandoned-goalkeeper-hit-firework-37880911",
-    "title": "Football match abandoned after goalkeeper is struck by firework and collapses",
-    "ko": "골키퍼가 폭죽에 맞아 쓰러져…경기 중단 후 취소",
-    "source": "star",
-    "publishedAt": "2026-11-16T11:02:01.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Cameron Winstanley",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 7,
-  "score": 0.51,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-13T10:00:46.000Z",
-   "viaQuote": false
-  },
-  "headline": "Club's first match since player's death abandoned because of serious injury"
- },
- {
-  "slug": "uec-uefa-affairs-complaint",
-  "mode": "llm",
-  "titleKo": "UEC, UEFA 상대 이의 제기",
-  "createdAt": "2026-11-16T11:00:00.000Z",
-  "updatedAt": "2026-11-16T11:00:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "beschwerde",
-   "uefa",
-   "efc"
-  ],
-  "articles": [
-   {
-    "id": "ad9833a50609",
-    "url": "https://www.kicker.de/uec-reicht-beschwerde-gegen-uefa-und-efc-ein-1271996/artikel#omrss",
-    "title": "UEC reicht Beschwerde gegen UEFA und EFC ein",
-    "ko": "UEC, UEFA와 EFC 상대로 이의 제기",
+    "id": "e4fd7ffd3daf",
+    "url": "https://www.kicker.de/rekordkulisse-und-popp-dreierpack-warum-das-frauen-revierderby-ganz-anders-ist-1272130/video#omrss",
+    "title": "Rekordkulisse und Popp-Dreierpack: Warum das Frauen-Revierderby ganz anders ist",
+    "ko": "여자 레비어더비 기록적 관중 속 포프 세 골",
     "source": "kicker",
-    "publishedAt": "2026-11-16T11:00:00.000Z",
+    "publishedAt": "2026-11-16T14:23:31.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "match",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -5067,7 +4594,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.69,
+  "score": 1.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5076,17 +4603,89 @@
   "firstReport": {
    "name": "키커",
    "source": "kicker",
-   "at": "2026-11-16T11:00:00.000Z",
+   "at": "2026-11-15T22:02:24.000Z",
    "viaQuote": false
   },
-  "headline": "UEC reicht Beschwerde gegen UEFA und EFC ein"
+  "headline": "Rekordkulisse und Popp-Dreierpack: Warum das Frauen-Revierderby ganz anders ist"
+ },
+ {
+  "slug": "joao-felix-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "주앙 펠릭스 첼시 복귀 조항 논란",
+  "createdAt": "2026-11-16T14:23:00.000Z",
+  "updatedAt": "2026-11-16T14:23:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "주앙 펠릭스"
+  ],
+  "sig": [
+   "joão",
+   "félix"
+  ],
+  "articles": [
+   {
+    "id": "3636da96650f",
+    "url": "https://www.record.pt/internacional/paises/arabia-saudita/detalhe/arabes-revelam-detalhes-do-contrato-de-joao-felix-clausula-para-voltar-ao-chelsea-salario-e-preco-da-transferencia",
+    "title": "Árabes revelam detalhes do contrato de João Félix: cláusula para voltar ao Chelsea, salário e preço da transferência",
+    "ko": "주앙 펠릭스 사우디 계약 세부 공개…첼시 복귀 조항 포함",
+    "source": "record",
+    "publishedAt": "2026-11-16T14:23:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "주앙 펠릭스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "주앙 펠릭스",
+     "from": null,
+     "to": "알나스르"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.81,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "3636da96650f",
+    "at": "2026-11-16T14:23:00.000Z",
+    "source": "record",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "주앙 펠릭스",
+   "from": null,
+   "to": "알나스르"
+  },
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-16T14:23:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Árabes revelam detalhes do contrato de João Félix: cláusula para voltar ao Chelsea, salário e preço da transferência"
  },
  {
   "slug": "spain-england-2026-11-14",
   "mode": "llm",
   "titleKo": "스페인 대 잉글랜드 네이션스리그 경기",
   "createdAt": "2026-11-15T07:00:00.000Z",
-  "updatedAt": "2026-11-16T10:53:55.000Z",
+  "updatedAt": "2026-11-16T14:20:21.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -6294,11 +5893,59 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "f8dd74606aad",
+    "url": "https://www.theguardian.com/football/video/2026/nov/16/england-hang-on-to-end-spains-unbeaten-reign-football-weekly-video",
+    "title": "England hang on to end Spain’s unbeaten reign | Football Weekly – video",
+    "ko": "잉글랜드, 스페인의 무패 행진 저지하며 승리 지켜내",
+    "source": "guardian",
+    "publishedAt": "2026-11-16T12:56:01.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d093e098ad11",
+    "url": "https://www.thesun.co.uk/sport/41036974/england-break-two-records-spain-win-nations-league/",
+    "title": "England break two incredible records for first time ever with 3-2 win over Spain",
+    "ko": "잉글랜드, 스페인 3-2 격파하며 두 가지 기록 처음 달성",
+    "source": "sun",
+    "publishedAt": "2026-11-16T12:57:28.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Danny Rust",
+    "transfer": null
+   },
+   {
+    "id": "2af7450287af",
+    "url": "https://www.kicker.de/nach-spaniens-niederlage-gegen-england-oesterreich-hat-nun-die-laengste-heim-serie-europas-1272119/artikel#omrss",
+    "title": "Nach Spaniens Niederlage gegen England: Österreich hat nun die längste Heim-Serie Europas",
+    "ko": "스페인 잉글랜드에 패한 뒤, 오스트리아 홈 연승 유럽 최장",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T14:20:21.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
-  "recentSources": 9,
+  "recentSources": 8,
   "sourceCount": 13,
-  "score": 5.53,
+  "score": 4.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6317,11 +5964,1114 @@
   "headline": "How did England cling on against Spain and what did Tuchel do differently?"
  },
  {
+  "slug": "davies-injury",
+  "mode": "llm",
+  "titleKo": "데이비스 반복되는 근육 부상",
+  "createdAt": "2026-11-14T10:19:02.000Z",
+  "updatedAt": "2026-11-16T14:20:20.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "데이비스"
+  ],
+  "sig": [
+   "schaden",
+   "davies",
+   "kanada"
+  ],
+  "articles": [
+   {
+    "id": "75a9c0ec7d25",
+    "url": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel#omrss",
+    "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
+    "ko": "데이비스 근육 부상 의혹, 캐나다 떠나 뮌헨 복귀",
+    "source": "kicker",
+    "publishedAt": "2026-11-14T10:19:02.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "데이비스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "46740d8d0b49",
+    "url": "https://www.kicker.de/davies-erleidet-vierten-muskelfaserriss-in-zwei-jahren-1271935/artikel#omrss",
+    "title": "Davies erleidet vierten Muskelfaserriss in zwei Jahren",
+    "ko": "데이비스, 2년 새 네 번째 근육 파열",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T11:59:03.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "데이비스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d459695e7042",
+    "url": "https://www.tz.de/sport/fc-bayern/bayern-star-davies-schon-wieder-schwerer-verletzt-als-gedacht-94592830.html",
+    "title": "Verwirrung um Davies: Bayern-Star wieder schwerer verletzt als gedacht",
+    "ko": "데이비스 부상 상태 혼선, 바이에른 스타 다시 더 심각한 것으로 드러나",
+    "source": "tz",
+    "publishedAt": "2026-11-16T14:20:20.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "데이비스"
+    ],
+    "playerTags": [],
+    "author": "Philipp Kessler, Manuel Bonke",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.99,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-14T10:19:02.000Z",
+   "viaQuote": false
+  },
+  "headline": "Verwirrung um Davies: Bayern-Star wieder schwerer verletzt als gedacht"
+ },
+ {
+  "slug": "uec-uefa-affairs-complaint",
+  "mode": "llm",
+  "titleKo": "UEC, UEFA 상대 이의 제기",
+  "createdAt": "2026-11-16T11:00:00.000Z",
+  "updatedAt": "2026-11-16T14:02:53.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "beschwerde",
+   "uefa",
+   "efc"
+  ],
+  "articles": [
+   {
+    "id": "ad9833a50609",
+    "url": "https://www.kicker.de/uec-reicht-beschwerde-gegen-uefa-und-efc-ein-1271996/artikel#omrss",
+    "title": "UEC reicht Beschwerde gegen UEFA und EFC ein",
+    "ko": "UEC, UEFA와 EFC 상대로 이의 제기",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T11:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8b155b835fdc",
+    "url": "https://www.theguardian.com/football/2026/nov/16/union-of-european-clubs-complaint-european-commission-uefa-european-football-clubs",
+    "title": "Union of European Clubs escalates fight for football influence with formal complaint",
+    "ko": "유럽클럽연합, 축구 영향력 싸움 격화…UEFA 상대 공식 이의 제기",
+    "source": "guardian",
+    "publishedAt": "2026-11-16T14:02:53.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nick Ames",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.71,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-16T11:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Union of European Clubs escalates fight for football influence with formal complaint"
+ },
+ {
+  "slug": "estevao-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "첼시 이스테방 이적 메시지 전달",
+  "createdAt": "2026-11-16T14:00:00.000Z",
+  "updatedAt": "2026-11-16T14:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "에스테방"
+  ],
+  "sig": [
+   "estevao",
+   "willian"
+  ],
+  "articles": [
+   {
+    "id": "ba131a207543",
+    "url": "https://www.football.london/chelsea-fc/transfer-news/chelsea-sent-estevao-willian-transfer-34918421",
+    "title": "Chelsea sent Estevao Willian transfer message as £100m decision awaits in January window",
+    "ko": "첼시, 1월 이적시장 앞두고 이스테방 이적 메시지 전달, 1억 파운드 결정 대기",
+    "source": "fblondon",
+    "publishedAt": "2026-11-16T14:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "이스테방"
+    ],
+    "playerTags": [
+     "estevao"
+    ],
+    "author": "Sam Truelove",
+    "transfer": {
+     "player": "이스테방",
+     "from": null,
+     "to": "첼시"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.69,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "ba131a207543",
+    "at": "2026-11-16T14:00:00.000Z",
+    "source": "fblondon",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "estevao"
+  ],
+  "transfer": {
+   "player": "이스테방",
+   "from": null,
+   "to": "첼시"
+  },
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-16T14:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Chelsea sent Estevao Willian transfer message as £100m decision awaits in January window"
+ },
+ {
+  "slug": "ioannidis-injury",
+  "mode": "llm",
+  "titleKo": "이오아니디스 근육 부상 그리스전 결장",
+  "createdAt": "2026-11-16T13:47:00.000Z",
+  "updatedAt": "2026-11-16T13:47:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [
+   "이오아니디스"
+  ],
+  "sig": [
+   "ioannidis",
+   "grécia"
+  ],
+  "articles": [
+   {
+    "id": "d7f90df4c48f",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/sporting-em-alerta-ioannidis-falha-jogo-da-grecia-devido-a-lesao-muscular",
+    "title": "Sporting em alerta: Ioannidis falha jogo da Grécia devido a lesão muscular",
+    "ko": "스포르팅 경고등, 이오아니디스 그리스전 부상 결장",
+    "source": "record",
+    "publishedAt": "2026-11-16T13:47:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "이오아니디스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.63,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-16T13:47:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sporting em alerta: Ioannidis falha jogo da Grécia devido a lesão muscular"
+ },
+ {
+  "slug": "emerson-injury",
+  "mode": "llm",
+  "titleKo": "에메르송 무릎 수술 수주 결장",
+  "createdAt": "2026-11-16T13:44:12.000Z",
+  "updatedAt": "2026-11-16T13:44:12.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "marseille"
+  ],
+  "players": [
+   "에메르송"
+  ],
+  "sig": [
+   "emerson",
+   "toulouse"
+  ],
+  "articles": [
+   {
+    "id": "7d1499c236b7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Coup-dur-pour-l-om-plusieurs-semaines-d-absence-a-prevoir-pour-emerson-opere-apres-sa-blessure-a-un-genou-contre-toulouse/1744005#at_medium=RSS_feeds",
+    "title": "Coup dur pour l'OM : plusieurs semaines d'absence à prévoir pour Emerson, opéré du genou gauche après sa blessure contre Toulouse",
+    "ko": "마르세유 에메르송, 무릎 수술…수주 결장 전망",
+    "source": "lequipe",
+    "publishedAt": "2026-11-16T13:44:12.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "에메르송"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.62,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-16T13:44:12.000Z",
+   "viaQuote": false
+  },
+  "headline": "Coup dur pour l'OM : plusieurs semaines d'absence à prévoir pour Emerson, opéré du genou gauche après sa blessure contre Toulouse"
+ },
+ {
+  "slug": "youth-player-death-2026-11-16-incident",
+  "mode": "llm",
+  "titleKo": "아르헨티나 16세 선수 사망 사고",
+  "createdAt": "2026-11-16T13:42:00.000Z",
+  "updatedAt": "2026-11-16T13:42:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "argentina"
+  ],
+  "articles": [
+   {
+    "id": "c41e0cd8405c",
+    "url": "https://www.record.pt/internacional/detalhe/jogador-de-16-anos-morre-apos-ser-atingido-com-bola-na-cabeca-durante-um-jogo-na-argentina",
+    "title": "Jogador de 16 anos morre após ser atingido com bola na cabeça durante um jogo na Argentina",
+    "ko": "아르헨티나서 16세 선수 공에 맞고 사망",
+    "source": "record",
+    "publishedAt": "2026-11-16T13:42:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.61,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-16T13:42:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Jogador de 16 anos morre após ser atingido com bola na cabeça durante um jogo na Argentina"
+ },
+ {
+  "slug": "fernandez-pardo-newcastle-transfer",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 페르난데스-파르도 이적 검토",
+  "createdAt": "2026-11-13T19:00:00.000Z",
+  "updatedAt": "2026-11-16T13:30:15.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "마티아스 페르난데스파르도",
+   "마티아스 페르난데스-파르도",
+   "오술라"
+  ],
+  "sig": [
+   "wyness",
+   "matias",
+   "fernandez",
+   "pardo"
+  ],
+  "articles": [
+   {
+    "id": "6364e916c684",
+    "url": "https://www.footballinsider247.com/newcastle-united/transfers/keith-wyness-shares-key-to-newcastle-unlocking-matias-fernandez-pardo",
+    "title": "Keith Wyness shares ‘key’ to Newcastle unlocking Matias Fernandez-Pardo",
+    "ko": "키스 와이네스, 뉴캐슬이 마티아스 페르난데스파르도 영입의 열쇠 제시",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "마티아스 페르난데스파르도"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "마티아스 페르난데스파르도",
+     "from": null,
+     "to": "뉴캐슬"
+    }
+   },
+   {
+    "id": "746e5f9e22ea",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-make-matias-fernandez-pardo-34918340",
+    "title": "Newcastle make Matias Fernandez-Pardo training move as Matthias Jaissle weighs up Osula decision",
+    "ko": "뉴캐슬, 페르난데스-파르도 훈련 이동 검토",
+    "source": "chronicle",
+    "publishedAt": "2026-11-16T13:30:15.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "마티아스 페르난데스-파르도",
+     "오술라"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": {
+     "player": "마티아스 페르난데스-파르도",
+     "from": null,
+     "to": "뉴캐슬"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.55,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "6364e916c684",
+    "at": "2026-11-13T19:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   },
+   {
+    "id": "746e5f9e22ea",
+    "at": "2026-11-16T13:30:15.000Z",
+    "source": "chronicle",
+    "from": "interest",
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": {
+   "from": "interest",
+   "to": "negotiation",
+   "at": "2026-11-16T13:30:15.000Z",
+   "source": "chronicle"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "마티아스 페르난데스파르도",
+   "from": null,
+   "to": "뉴캐슬"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-13T19:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle make Matias Fernandez-Pardo training move as Matthias Jaissle weighs up Osula decision"
+ },
+ {
+  "slug": "maignan-injury",
+  "mode": "llm",
+  "titleKo": "마이냥 몸 상태 점검",
+  "createdAt": "2026-11-16T13:17:17.000Z",
+  "updatedAt": "2026-11-16T13:17:17.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "ac-milan"
+  ],
+  "players": [
+   "마이냥"
+  ],
+  "sig": [
+   "france",
+   "turquie",
+   "mike",
+   "maignan"
+  ],
+  "articles": [
+   {
+    "id": "a7917cd93156",
+    "url": "https://www.lequipe.fr/Football/Actualites/Sorti-a-la-mi-temps-de-france-turquie-mike-maignan-va-mieux-et-devrait-etre-en-mesure-de-jouer-dimanche-avec-l-ac-milan/1744000#at_medium=RSS_feeds",
+    "title": "Sorti à la mi-temps de France-Turquie, Mike Maignan va mieux et devrait être en mesure de jouer dimanche avec l'AC Milan",
+    "ko": "마이냥, 프랑스전 전반 후 교체…몸 상태 호전, 일요일 출전 가능성",
+    "source": "lequipe",
+    "publishedAt": "2026-11-16T13:17:17.000Z",
+    "credited": null,
+    "clubs": [
+     "ac-milan"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마이냥"
+    ],
+    "playerTags": [],
+    "author": "Damien Degorre",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.5,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-16T13:17:17.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sorti à la mi-temps de France-Turquie, Mike Maignan va mieux et devrait être en mesure de jouer dimanche avec l'AC Milan"
+ },
+ {
+  "slug": "bernardo-silva-injury",
+  "mode": "llm",
+  "titleKo": "베르나르두 실바 상태 논란",
+  "createdAt": "2026-11-16T13:14:00.000Z",
+  "updatedAt": "2026-11-16T13:14:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "베르나르두 실바"
+  ],
+  "sig": [
+   "bernardo",
+   "silva",
+   "não"
+  ],
+  "articles": [
+   {
+    "id": "ef547dd16f15",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/espanhois-garantem-que-bernardo-silva-nao-esta-lesionado-nao-passa-de-um-susto",
+    "title": "Espanhóis garantem que Bernardo Silva não está lesionado: «Não passa de um susto»",
+    "ko": "스페인 측 \"베르나르두 실바 부상 아냐…단순 놀람\"",
+    "source": "record",
+    "publishedAt": "2026-11-16T13:14:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "베르나르두 실바"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.48,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-16T13:14:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Espanhóis garantem que Bernardo Silva não está lesionado: «Não passa de um susto»"
+ },
+ {
+  "slug": "ratcliffe-ainslie-affairs-dispute",
+  "mode": "llm",
+  "titleKo": "래트클리프 아인슬리 분쟁 합의",
+  "createdAt": "2026-11-16T12:50:00.000Z",
+  "updatedAt": "2026-11-16T12:56:32.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [
+   "ineos",
+   "group",
+   "ainslie"
+  ],
+  "articles": [
+   {
+    "id": "ec3601ad85e3",
+    "url": "https://www.skysports.com/sailing/news/12040/13612816/jim-ratcliffes-ineos-group-settles-10m-plus-claim-with-sir-ben-ainslies-athena-racing-over-alleged-non-return-of-yacht",
+    "title": "Ratcliffe's Ineos Group settles £10m-plus claim with Ainslie's firm over yacht",
+    "ko": "래트클리프 이네오스, 아인슬리 측과 1천만 파운드 이상 요트 분쟁 합의",
+    "source": "sky",
+    "publishedAt": "2026-11-16T12:50:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6627ec42f234",
+    "url": "https://www.mirror.co.uk/sport/football/news/jim-ratcliffe-ineos-ainslie-dispute-37881809",
+    "title": "Man Utd owner Sir Jim Ratcliffe settles £180m dispute with Sir Ben Ainslie after bitter row",
+    "ko": "래트클리프, 아인슬리와 1억 8천만 파운드 분쟁 합의",
+    "source": "mirror",
+    "publishedAt": "2026-11-16T12:56:32.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.81,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-16T12:50:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Ratcliffe's Ineos Group settles £10m-plus claim with Ainslie's firm over yacht"
+ },
+ {
+  "slug": "thomas-frank-crystal-palace-appointment",
+  "mode": "llm",
+  "titleKo": "토마스 프랑크 크리스털 팰리스 감독 선임 합의",
+  "createdAt": "2026-11-10T06:00:00.000Z",
+  "updatedAt": "2026-11-16T12:53:07.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "tottenham",
+   "crystal-palace"
+  ],
+  "players": [],
+  "sig": [
+   "frank"
+  ],
+  "articles": [
+   {
+    "id": "770820ed44c7",
+    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
+    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
+    "ko": "크리스털 팰리스, 세이지 경질 가능성 속 토마스 프랑크 유력 후보",
+    "source": "sky",
+    "publishedAt": "2026-11-08T20:56:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c0571f0bf213",
+    "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
+    "title": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
+    "ko": "토마스 프랑크, 토트넘 악몽 뒤 크리스털 팰리스서 명예 회복 가능",
+    "source": "mirror",
+    "publishedAt": "2026-11-09T15:34:02.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross",
+    "transfer": null
+   },
+   {
+    "id": "73b196431796",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-could-be-in-big-trouble-over-thomas-frank",
+    "title": "'Crystal Palace could be in big trouble over Thomas Frank'",
+    "ko": "토마스 프랑크 놓고 크리스털 팰리스 큰 위기 가능성",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-09T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9d4fed4707ec",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-could-raid-tottenham-34882993",
+    "title": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace",
+    "ko": "토마스 프랑크, 크리스털 팰리스行 시 토트넘서 4명 영입 가능성",
+    "source": "fblondon",
+    "publishedAt": "2026-11-10T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham",
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": null
+   },
+   {
+    "id": "06173cf31add",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-leading-list-of-four-names-in-contention-for-crystal-palace-expert",
+    "title": "Thomas Frank leading list of 'four names' in contention for Crystal Palace - expert",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 후보 4인 중 선두",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-10T07:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "24611ea462b4",
+    "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "title": "Palace latest: Talks progressing for Frank to succeed Sage",
+    "ko": "팰리스, 세이지 후임 프랭크와 협상 진전",
+    "source": "sky",
+    "publishedAt": "2026-11-11T14:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "781e85dbebfd",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palaces-thomas-frank-appointment-hits-stumbling-block",
+    "title": "Sources: Crystal Palace's Thomas Frank appointment hits stumbling block",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임설에 걸림돌",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T14:11:26.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ff9c02087d57",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/next-manager/club-adviser-updates-on-thomas-frank-getting-premium-contract-at-crystal-palace",
+    "title": "Club adviser updates on Thomas Frank getting 'premium contract' at Crystal Palace",
+    "ko": "크리스털 팰리스, 토마스 프랑크에게 프리미엄 계약 제시 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T09:40:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "54fed1d10fc2",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-thomas-frank-to-crystal-palace-update-2",
+    "title": "Sources: Thomas Frank to Crystal Palace update",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 관련 업데이트",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T18:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9f1fbbfa10fd",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-concerns-over-thomas-frank-emerge-amid-new-delay",
+    "title": "Sources: Crystal Palace 'concerns' over Thomas Frank emerge amid new delay",
+    "ko": "크리스털 팰리스, 토마스 프랑크 영입 지연 속 우려 제기",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-15T10:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e56177438e2c",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-the-real-reason-crystal-palace-want-to-appoint-thomas-frank-revealed",
+    "title": "Sources: The real reason Crystal Palace want to appoint Thomas Frank revealed",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 이유 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-15T20:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bfc83e76243f",
+    "url": "https://www.skysports.com/football/news/12040/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
+    "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
+    "ko": "프랭크, 크리스털 팰리스 신임 감독 원칙적 합의",
+    "source": "sky",
+    "publishedAt": "2026-11-16T11:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2f3b25723769",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-surprised-by-thomas-frank-demands-as-agreement-reached",
+    "title": "Crystal Palace 'surprised' by Thomas Frank demands as agreement reached",
+    "ko": "크리스털 팰리스, 토마스 프랑크 요구 조건에 '놀라'…합의 도달",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T12:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "61d2cbd3f4ec",
+    "url": "https://www.lequipe.fr/Football/Actualites/Crystal-palace-finaliserait-l-arrivee-de-thomas-frank-quelques-jours-apres-avoir-demis-de-ses-fonctions-pierre-sage/1743994#at_medium=RSS_feeds",
+    "title": "Crystal Palace finaliserait l'arrivée de Thomas Frank, quelques jours après avoir démis de ses fonctions Pierre Sage",
+    "ko": "크리스털 팰리스, 토마스 프랑크 영입 마무리 단계로 보도",
+    "source": "lequipe",
+    "publishedAt": "2026-11-16T12:53:07.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 5,
+  "score": 2.9,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-08T20:56:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Crystal Palace finaliserait l'arrivée de Thomas Frank, quelques jours après avoir démis de ses fonctions Pierre Sage"
+ },
+ {
+  "slug": "germany-netherlands-2026-11-16",
+  "mode": "llm",
+  "titleKo": "독일 대 네덜란드 네이션스리그 경기",
+  "createdAt": "2026-11-16T05:06:22.035Z",
+  "updatedAt": "2026-11-16T12:48:28.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "deutschland",
+   "niederlande",
+   "free",
+   "stream"
+  ],
+  "articles": [
+   {
+    "id": "822767a0b3f4",
+    "url": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-live-im-free-tv-und-stream-1271310/artikel#omrss",
+    "title": "Wer überträgt Deutschland gegen Niederlande live im Free-TV und Stream?",
+    "ko": "독일-네덜란드 경기 중계 정보, 어디서 볼 수 있나",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T05:06:22.035Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8abe419d53c0",
+    "url": "https://www.kicker.de/wer-uebertraegt-deutschland-gegen-niederlande-heute-live-im-free-tv-und-stream-1271472/artikel#omrss",
+    "title": "Wer überträgt Deutschland gegen Niederlande heute live im Free-TV und Stream?",
+    "ko": "독일 대 네덜란드 경기 무료 TV·스트리밍 중계 안내",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T05:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f5f989211bf3",
+    "url": "https://www.kicker.de/das-bundesliga-quiz-bist-du-der-spieltag-experte-1271309/artikel#omrss",
+    "title": "Das Quiz zum Länderspiel Deutschland gegen Niederlande",
+    "ko": "독일 대 네덜란드 네이션스리그 경기 퀴즈",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T05:50:03.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9f113babe62a",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-allemagne-pays-bas-en-ligue-des-nations/1743969#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Allemagne - Pays-Bas en Ligue des nations ?",
+    "ko": "독일 대 네덜란드 네이션스리그 경기 중계 시간과 채널은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-16T09:33:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "982cc4eb6784",
+    "url": "https://www.thesun.co.uk/sport/41036064/france-turkey-free-bets-bet-builder/",
+    "title": "Germany vs Netherlands: Get £50 in free bets, plus our 15/1 Bet Builder tip | Sky Bet",
+    "ko": "독일 대 네덜란드 경기 베팅 팁",
+    "source": "sun",
+    "publishedAt": "2026-11-16T11:18:42.000Z",
+    "credited": "스카이 벳",
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "27ab522600dc",
+    "url": "https://www.kicker.de/sind-die-niederlande-schon-fuers-viertelfinale-qualifiziert-oder-nicht-1272067/artikel#omrss",
+    "title": "Sind die Niederlande schon fürs Viertelfinale qualifiziert oder nicht?",
+    "ko": "네덜란드, 이미 8강 진출 확정인가 아닌가",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T12:48:28.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 1.47,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스카이 벳",
+   "at": "2026-11-16T05:06:22.035Z",
+   "viaQuote": true
+  },
+  "headline": "Sind die Niederlande schon fürs Viertelfinale qualifiziert oder nicht?"
+ },
+ {
   "slug": "bellingham-cucurella-relationship",
   "mode": "llm",
   "titleKo": "벨링엄 쿠쿠렐라 재회 앞두고 제스처 논란",
   "createdAt": "2026-11-16T09:14:34.000Z",
-  "updatedAt": "2026-11-16T10:50:16.000Z",
+  "updatedAt": "2026-11-16T12:22:32.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -6399,11 +7149,33 @@
     ],
     "author": "AStv",
     "transfer": null
+   },
+   {
+    "id": "f69e71402d49",
+    "url": "https://www.dailystar.co.uk/sport/football/jude-bellinghams-unseen-clash-real-37881582",
+    "title": "Jude Bellingham's unseen clash with Real Madrid team-mate slammed as 'very nasty'",
+    "ko": "벨링엄, 레알 마드리드 동료와 눈에 띄지 않은 충돌 '매우 불쾌' 비판",
+    "source": "star",
+    "publishedAt": "2026-11-16T12:22:32.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": "Mark Whiley",
+    "transfer": null
    }
   ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.4,
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 1.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6418,6 +7190,910 @@
    "viaQuote": false
   },
   "headline": "Sale a la luz el nuevo vídeo de Bellingham vs Cucurella con ‘bocinazo’ incluido"
+ },
+ {
+  "slug": "brobbey-sunderland-transfer-20261116",
+  "mode": "llm",
+  "titleKo": "선덜랜드 브로비 영입 제안 조건 논의",
+  "createdAt": "2026-11-16T12:15:00.000Z",
+  "updatedAt": "2026-11-16T12:15:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [],
+  "players": [
+   "브라이언 브로비"
+  ],
+  "sig": [
+   "sunderland",
+   "brian",
+   "brobbey"
+  ],
+  "articles": [
+   {
+    "id": "a2aef1830669",
+    "url": "https://www.footballinsider247.com/sunderland/source-the-only-way-sunderland-could-accept-brian-brobbey-offer-revealed",
+    "title": "Source: The 'only way' Sunderland could accept Brian Brobbey offer revealed",
+    "ko": "선덜랜드, 브로비 영입 제안 수락 조건 공개…\"유일한 길\"",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T12:15:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "브라이언 브로비"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "브라이언 브로비",
+     "from": null,
+     "to": "선덜랜드"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.38,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "a2aef1830669",
+    "at": "2026-11-16T12:15:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "브라이언 브로비",
+   "from": null,
+   "to": "선덜랜드"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-16T12:15:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Source: The 'only way' Sunderland could accept Brian Brobbey offer revealed"
+ },
+ {
+  "slug": "tuchel-itv-interview-incident",
+  "mode": "llm",
+  "titleKo": "투헬·라이스 인터뷰 월드컵 논란 재연 비판",
+  "createdAt": "2026-11-16T09:13:04.000Z",
+  "updatedAt": "2026-11-16T12:05:12.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "라이스",
+   "데클란 라이스"
+  ],
+  "sig": [
+   "itv",
+   "tuchel",
+   "rice",
+   "world"
+  ],
+  "articles": [
+   {
+    "id": "ea7360323490",
+    "url": "https://www.thesun.co.uk/sport/41034321/england-spain-itv-gabriel-clarke-thomas-tuchel-declan-rice/",
+    "title": "England fans hit out at ITV reporter for ‘doing it again’ as Tuchel and Rice interviews repeat World Cup controversy",
+    "ko": "잉글랜드 팬들, ITV 기자 인터뷰 방식에 또 비판",
+    "source": "sun",
+    "publishedAt": "2026-11-16T09:13:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "라이스"
+    ],
+    "playerTags": [
+     "declan-rice"
+    ],
+    "author": "Charlie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "e762bf2017bb",
+    "url": "https://www.mirror.co.uk/sport/football/news/itv-gabriel-clarke-tuchel-rice-37881356",
+    "title": "ITV reporter at centre of England controversy after Declan Rice and Thomas Tuchel interviews",
+    "ko": "ITV 기자, 라이스·투헬 인터뷰 논란의 중심에",
+    "source": "mirror",
+    "publishedAt": "2026-11-16T12:05:12.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데클란 라이스"
+    ],
+    "playerTags": [
+     "declan-rice"
+    ],
+    "author": "Felix Keith",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 0.59,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "declan-rice"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-16T09:13:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "ITV reporter at centre of England controversy after Declan Rice and Thomas Tuchel interviews"
+ },
+ {
+  "slug": "kosovo-israel-2026-11-14",
+  "mode": "llm",
+  "titleKo": "코소보 대 이스라엘 네이션스리그 경기",
+  "createdAt": "2026-11-14T16:51:19.000Z",
+  "updatedAt": "2026-11-16T12:02:07.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "콜린스"
+  ],
+  "sig": [
+   "kosovo",
+   "israël",
+   "ligue"
+  ],
+  "articles": [
+   {
+    "id": "1d73b61031cc",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-kosovo-resiste-a-israel-a-dix-contre-onze-et-peut-encore-rever-de-la-ligue-des-nations-a/1743664#at_medium=RSS_feeds",
+    "title": "Le Kosovo résiste à Israël à dix contre onze et peut encore rêver de la Ligue des nations A",
+    "ko": "코소보, 열 명 싸움 끝에 이스라엘 상대로 버티며 네이션스리그 A 꿈 유지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-14T16:51:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "c017959f6b8a",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
+    "title": "Republic of Ireland captain Collins to miss Kosovo game",
+    "ko": "콜린스 주장, 코소보전 결장",
+    "source": "bbc",
+    "publishedAt": "2026-11-16T12:02:07.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "콜린스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.81,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-14T16:51:19.000Z",
+   "viaQuote": false
+  },
+  "headline": "Republic of Ireland captain Collins to miss Kosovo game"
+ },
+ {
+  "slug": "sevilla-affairs-bale-takeover",
+  "mode": "llm",
+  "titleKo": "베일 세비야 인수 관심 보도",
+  "createdAt": "2026-11-16T12:01:09.000Z",
+  "updatedAt": "2026-11-16T12:01:09.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "가레스 베일"
+  ],
+  "sig": [
+   "bale",
+   "sevilha"
+  ],
+  "articles": [
+   {
+    "id": "9da4a1155ded",
+    "url": "https://www.record.pt/internacional/paises/espanha/sevilha/detalhe/gareth-bale-interessado-na-compra-do-sevilha-oferta-pode-chegar-aos-500-milhoes-de-euros",
+    "title": "Gareth Bale interessado na compra do Sevilha: oferta pode chegar aos 500 milhões de euros",
+    "ko": "베일, 세비야 인수 관심…제안가 5억 유로 가능성",
+    "source": "record",
+    "publishedAt": "2026-11-16T12:01:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "가레스 베일"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.2,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-16T12:01:09.000Z",
+   "viaQuote": false
+  },
+  "headline": "Gareth Bale interessado na compra do Sevilha: oferta pode chegar aos 500 milhões de euros"
+ },
+ {
+  "slug": "pochettino-usmnt-manager-future",
+  "mode": "llm",
+  "titleKo": "포체티노 미국 대표팀 감독 거취 논란",
+  "createdAt": "2026-11-15T13:48:36.000Z",
+  "updatedAt": "2026-11-16T12:00:18.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "mauricio",
+   "pochettino"
+  ],
+  "articles": [
+   {
+    "id": "5f7b3ac316f0",
+    "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-united-states-job-37879154",
+    "title": "Pep Guardiola's stance on replacing Mauricio Pochettino as US boss after next job hint",
+    "ko": "과르디올라, 미국 대표팀 포체티노 후임 관련 입장 주목",
+    "source": "mirror",
+    "publishedAt": "2026-11-15T13:48:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Dan Marsh",
+    "transfer": null
+   },
+   {
+    "id": "c26d222a7b4e",
+    "url": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
+    "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
+    "ko": "과르디올라, 포체티노 후임 미국 대표팀 제안 거절 전망",
+    "source": "sky",
+    "publishedAt": "2026-11-15T22:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d530ff5509ee",
+    "url": "https://www.nytimes.com/athletic/7785810/2026/11/16/mauricio-pochettino-america-usmnt-us-soccer/",
+    "title": "What Pochettino liked about U.S.'s soccer quirks, what he didn’t, and what he leaves behind",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-16T12:00:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 1.8,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-15T13:48:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "What Pochettino liked about U.S.'s soccer quirks, what he didn’t, and what he leaves behind"
+ },
+ {
+  "slug": "jamal-musiala-injury",
+  "mode": "llm",
+  "titleKo": "무시알라 긴 부상 공백 끝 복귀 임박",
+  "createdAt": "2026-11-16T11:53:40.000Z",
+  "updatedAt": "2026-11-16T11:53:40.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "무시알라"
+  ],
+  "sig": [
+   "zwangspause",
+   "musiala",
+   "schritt"
+  ],
+  "articles": [
+   {
+    "id": "799938755535",
+    "url": "https://www.tz.de/sport/fc-bayern/jamal-musiala-vor-comeback-beim-fc-bayern-muenchen-zr-94592383.html",
+    "title": "Nach langer Zwangspause: Musiala vor entscheidendem Schritt beim FC Bayern",
+    "ko": "뮌헨 무시알라, 긴 공백 끝 복귀 임박",
+    "source": "tz",
+    "publishedAt": "2026-11-16T11:53:40.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Manuel Bonke",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.18,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jamal-musiala"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-16T11:53:40.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nach langer Zwangspause: Musiala vor entscheidendem Schritt beim FC Bayern"
+ },
+ {
+  "slug": "connor-roberts-discipline",
+  "mode": "llm",
+  "titleKo": "커너 로버츠 징계 필요성 논란",
+  "createdAt": "2026-11-16T11:34:26.000Z",
+  "updatedAt": "2026-11-16T11:34:26.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "커너 로버츠"
+  ],
+  "sig": [
+   "pgmol",
+   "connor",
+   "roberts",
+   "wales",
+   "norway"
+  ],
+  "articles": [
+   {
+    "id": "ad25ea3cd0dd",
+    "url": "https://www.footballinsider247.com/burnley/ex-pgmol-chief-connor-roberts-should-be-banned-as-wales-vs-norway-footage-re-analysed",
+    "title": "Ex-PGMOL chief: Connor Roberts 'should be banned' as Wales vs Norway footage re-analysed",
+    "ko": "전 PGMOL 책임자, 커너 로버츠 징계 필요 주장",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T11:34:26.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "커너 로버츠"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.33,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-16T11:34:26.000Z",
+   "viaQuote": false
+  },
+  "headline": "Ex-PGMOL chief: Connor Roberts 'should be banned' as Wales vs Norway footage re-analysed"
+ },
+ {
+  "slug": "pierce-charles-rangers-transfer",
+  "mode": "llm",
+  "titleKo": "레인저스 피어스 찰스 영입 관심",
+  "createdAt": "2026-11-16T11:30:00.000Z",
+  "updatedAt": "2026-11-16T11:30:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "피어스 찰스"
+  ],
+  "sig": [
+   "pierce",
+   "charles"
+  ],
+  "articles": [
+   {
+    "id": "7ece330e34a5",
+    "url": "https://www.footballinsider247.com/rangers/transfers/rangers-should-lay-the-groundwork-for-pierce-charles-deal-after-update",
+    "title": "Rangers should lay the groundwork for Pierce Charles deal after update",
+    "ko": "레인저스, 피어스 찰스 영입 준비 필요",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T11:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "피어스 찰스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "피어스 찰스",
+     "from": null,
+     "to": "레인저스"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.33,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "7ece330e34a5",
+    "at": "2026-11-16T11:30:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "피어스 찰스",
+   "from": null,
+   "to": "레인저스"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-16T11:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rangers should lay the groundwork for Pierce Charles deal after update"
+ },
+ {
+  "slug": "joelinton-injury-20261116",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 조엘린턴 몸 상태 업데이트",
+  "createdAt": "2026-11-16T11:29:18.000Z",
+  "updatedAt": "2026-11-16T11:29:18.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "조엘린턴",
+   "브루노 기마랑이스"
+  ],
+  "sig": [
+   "joelinton",
+   "bruno",
+   "guimaraes"
+  ],
+  "articles": [
+   {
+    "id": "a835a88e8d5d",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-arsenal-joelinton-injury-34916240",
+    "title": "Newcastle United get Joelinton update ahead of Bruno Guimaraes reunion as duo hit by illness",
+    "ko": "뉴캐슬, 브루노 기마랑이스 재회 앞두고 조엘린턴 상태 점검",
+    "source": "chronicle",
+    "publishedAt": "2026-11-16T11:29:18.000Z",
+    "credited": "크로니클 라이브",
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "조엘린턴",
+     "브루노 기마랑이스"
+    ],
+    "playerTags": [
+     "bruno-guimaraes"
+    ],
+    "author": "Lee Ryder",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.66,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bruno-guimaraes"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "크로니클 라이브",
+   "at": "2026-11-16T11:29:18.000Z",
+   "viaQuote": true
+  },
+  "headline": "Newcastle United get Joelinton update ahead of Bruno Guimaraes reunion as duo hit by illness"
+ },
+ {
+  "slug": "frick-aberdeen-appointment",
+  "mode": "llm",
+  "titleKo": "프릭 애버딘 감독 선임",
+  "createdAt": "2026-11-15T18:27:08.000Z",
+  "updatedAt": "2026-11-16T11:15:40.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "aberdeen"
+  ],
+  "articles": [
+   {
+    "id": "993ea89d90fb",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+    "title": "Frick named new head coach at Aberdeen",
+    "ko": "프릭, 애버딘 신임 감독으로 선임",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T18:27:08.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8a7e6c295168",
+    "url": "https://www.bbc.co.uk/sounds/play/p0pn6v34?at_medium=RSS&at_campaign=rss",
+    "title": "Listen: Scotland’s Swiss test and who is Aberdeen’s new boss?",
+    "ko": "스코틀랜드 스위스전 준비와 애버딘 신임 감독은?",
+    "source": "bbc",
+    "publishedAt": "2026-11-16T08:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ec52538fee36",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqp9dz91jkxvo?at_medium=RSS&at_campaign=rss",
+    "title": "'Frick rejected Wolfsburg before joining Aberdeen' - gossip",
+    "ko": "프릭, 볼프스부르크 거절 후 애버딘行 가십",
+    "source": "bbc",
+    "publishedAt": "2026-11-16T08:17:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "88fb9be91674",
+    "url": "https://www.bbc.co.uk/sport/articles/c6894vzg1kjjo?at_medium=RSS&at_campaign=rss",
+    "title": "What's at the top of Frick's Aberdeen to-do list?",
+    "ko": "애버딘 프릭 감독, 새 시즌 해야 할 일 목록은?",
+    "source": "bbc",
+    "publishedAt": "2026-11-16T11:15:40.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.9,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-15T18:27:08.000Z",
+   "viaQuote": false
+  },
+  "headline": "What's at the top of Frick's Aberdeen to-do list?"
+ },
+ {
+  "slug": "player-death-incident",
+  "mode": "llm",
+  "titleKo": "선수 사망 후 경기 재개 준비",
+  "createdAt": "2026-11-13T10:00:46.000Z",
+  "updatedAt": "2026-11-16T11:02:01.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "오워노"
+  ],
+  "sig": [
+   "jesus",
+   "miguel"
+  ],
+  "articles": [
+   {
+    "id": "1fc6aca725be",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss",
+    "title": "The club preparing to play again after the death of a player",
+    "ko": "선수 사망 후 경기 재개 준비하는 구단",
+    "source": "bbc",
+    "publishedAt": "2026-11-13T10:00:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "364913c94ec8",
+    "url": "https://www.dailystar.co.uk/sport/football/footballer-22-dies-after-being-37874088",
+    "title": "Footballer, 22, dies after being subbed as club remember 'extraordinary' human",
+    "ko": "교체 후 숨진 22세 선수, 구단 “놀라운 사람” 추모",
+    "source": "star",
+    "publishedAt": "2026-11-13T13:39:09.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Schofield",
+    "transfer": null
+   },
+   {
+    "id": "91fd5ecfe5a3",
+    "url": "https://www.mirror.co.uk/sport/football/news/jesus-de-miguel-death-goalkeeper-37846172",
+    "title": "Goalkeeper involved in fatal Jesus de Miguel collision receives huge ban from football",
+    "ko": "헤수스 데 미겔 사망 충돌 관련 골키퍼 축구 출전 금지 중징계",
+    "source": "mirror",
+    "publishedAt": "2026-11-13T21:04:32.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Patrick Austen-Hardy, Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "3713013b6fe3",
+    "url": "https://www.lequipe.fr/Football/Actualites/Jesus-owono-suspendu-douze-matches-apres-sa-sortie-ayant-cause-la-mort-de-jesus-de-miguel/1743519#at_medium=RSS_feeds",
+    "title": "Jesus Owono suspendu douze matches après sa sortie ayant causé la mort de Jesus de Miguel",
+    "ko": "오워노, 데 미겔 사망 원인 된 퇴장 후 12경기 출장 정지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-13T21:43:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "e066e9986511",
+    "url": "https://www.kicker.de/nach-tod-von-gegenspieler-de-miguel-torhueter-owono-fuer-zwoelf-partien-gesperrt-1271394/artikel#omrss",
+    "title": "Nach Tod von Gegenspieler de Miguel: Torhüter Owono für zwölf Partien gesperrt",
+    "ko": "데 미겔 사망 후 골키퍼 오워노 12경기 출장 정지",
+    "source": "kicker",
+    "publishedAt": "2026-11-13T21:50:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "오워노"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1fd9c2dd0b95",
+    "url": "https://www.record.pt/internacional/detalhe/exercito-israelita-mata-futebolista-palestiniano-que-apoiou-vitimas-em-gaza",
+    "title": "Exército israelita mata futebolista palestiniano que apoiou vítimas em Gaza",
+    "ko": "이스라엘군, 가자 피해자 지원한 팔레스타인 선수 살해",
+    "source": "record",
+    "publishedAt": "2026-11-14T10:23:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4bc5c6fa8b64",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+    "title": "Pitch perimeters under review after Vigar death",
+    "ko": "비가 사망 후 경기장 주변 점검 착수",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T13:49:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2d7941c7d75d",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+    "title": "Club's first match since player's death abandoned because of serious injury",
+    "ko": "선수 사망 후 첫 경기 중단, 중상자 발생",
+    "source": "bbc",
+    "publishedAt": "2026-11-15T14:06:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9eedf2945f10",
+    "url": "https://www.thesun.co.uk/sport/41029817/non-league-game-abandoned-hendon-ethan-creary-injury-ezekiel/",
+    "title": "Non-league game abandoned after seven minutes as star suffers serious injury days after team-mate’s tragic death",
+    "ko": "비리그 경기, 선수 사망 직후 주축 부상으로 7분 만에 중단",
+    "source": "sun",
+    "publishedAt": "2026-11-15T14:58:55.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "19e5d37f4dbb",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/maldicao-na-8-divisao-primeiro-jogo-apos-morte-de-jogador-interrompido-devido-a-grave-lesao",
+    "title": "Maldição na 8.ª divisão: primeiro jogo após morte de jogador interrompido devido a grave lesão",
+    "ko": "8부 리그, 선수 사망 후 첫 경기 중 중상 부상으로 중단",
+    "source": "record",
+    "publishedAt": "2026-11-15T23:34:51.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "96423ea92767",
+    "url": "https://www.dailystar.co.uk/sport/football/football-abandoned-goalkeeper-hit-firework-37880911",
+    "title": "Football match abandoned after goalkeeper is struck by firework and collapses",
+    "ko": "골키퍼가 폭죽에 맞아 쓰러져…경기 중단 후 취소",
+    "source": "star",
+    "publishedAt": "2026-11-16T11:02:01.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Cameron Winstanley",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 7,
+  "score": 0.3,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-13T10:00:46.000Z",
+   "viaQuote": false
+  },
+  "headline": "Club's first match since player's death abandoned because of serious injury"
  },
  {
   "slug": "jesus-morgan-relationship",
@@ -6557,7 +8233,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.05,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7208,7 +8884,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 0.86,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7269,7 +8945,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.25,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7362,7 +9038,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.39,
+  "score": 1.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7651,7 +9327,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 1.28,
+  "score": 0.76,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7666,64 +9342,6 @@
    "viaQuote": false
   },
   "headline": "'No racism in Spain' – De la Fuente message for Tuchel"
- },
- {
-  "slug": "tuchel-itv-interview-incident",
-  "mode": "llm",
-  "titleKo": "투헬·라이스 인터뷰 월드컵 논란 재연 비판",
-  "createdAt": "2026-11-16T09:13:04.000Z",
-  "updatedAt": "2026-11-16T09:13:04.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "라이스"
-  ],
-  "sig": [
-   "itv",
-   "tuchel",
-   "rice",
-   "world"
-  ],
-  "articles": [
-   {
-    "id": "ea7360323490",
-    "url": "https://www.thesun.co.uk/sport/41034321/england-spain-itv-gabriel-clarke-thomas-tuchel-declan-rice/",
-    "title": "England fans hit out at ITV reporter for ‘doing it again’ as Tuchel and Rice interviews repeat World Cup controversy",
-    "ko": "잉글랜드 팬들, ITV 기자 인터뷰 방식에 또 비판",
-    "source": "sun",
-    "publishedAt": "2026-11-16T09:13:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "라이스"
-    ],
-    "playerTags": [
-     "declan-rice"
-    ],
-    "author": "Charlie Gordon",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.37,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "declan-rice"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-16T09:13:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "England fans hit out at ITV reporter for ‘doing it again’ as Tuchel and Rice interviews repeat World Cup controversy"
  },
  {
   "slug": "romario-ancelotti-relationship",
@@ -7853,7 +9471,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 2.3,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7914,7 +9532,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8023,7 +9641,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.17,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8070,7 +9688,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.33,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8143,7 +9761,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.06,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8662,7 +10280,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.94,
+  "score": 0.56,
   "topTier": 1,
   "stageHistory": [
    {
@@ -8797,7 +10415,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.93,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9181,7 +10799,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 5,
-  "score": 1.47,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9248,7 +10866,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.55,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9308,7 +10926,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.15,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9371,7 +10989,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.15,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9456,7 +11074,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.71,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9527,7 +11145,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.71,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9588,7 +11206,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9648,7 +11266,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9714,7 +11332,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.45,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9766,7 +11384,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9779,70 +11397,6 @@
    "viaQuote": false
   },
   "headline": "Taça é a luz de Debast: central do Sporting no 'sprint' para voltar ao fim de 2 meses"
- },
- {
-  "slug": "pochettino-usmnt-manager-future",
-  "mode": "llm",
-  "titleKo": "포체티노 미국 대표팀 감독 거취 논란",
-  "createdAt": "2026-11-15T13:48:36.000Z",
-  "updatedAt": "2026-11-15T22:45:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "mauricio",
-   "pochettino"
-  ],
-  "articles": [
-   {
-    "id": "5f7b3ac316f0",
-    "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-united-states-job-37879154",
-    "title": "Pep Guardiola's stance on replacing Mauricio Pochettino as US boss after next job hint",
-    "ko": "과르디올라, 미국 대표팀 포체티노 후임 관련 입장 주목",
-    "source": "mirror",
-    "publishedAt": "2026-11-15T13:48:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Dan Marsh",
-    "transfer": null
-   },
-   {
-    "id": "c26d222a7b4e",
-    "url": "https://www.skysports.com/football/news/12040/13612630/pep-guardiola-usa-approach-to-replace-mauricio-pochettino-to-be-rejected-by-ex-man-city-boss-paper-talk",
-    "title": "Papers: Guardiola to reject USA approach to replace Pochettino",
-    "ko": "과르디올라, 포체티노 후임 미국 대표팀 제안 거절 전망",
-    "source": "sky",
-    "publishedAt": "2026-11-15T22:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-15T13:48:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Papers: Guardiola to reject USA approach to replace Pochettino"
  },
  {
   "slug": "ronaldo-tribute-2026-11-14",
@@ -10230,64 +11784,6 @@
    "viaQuote": false
   },
   "headline": "London City earn point in thrilling draw against Arsenal"
- },
- {
-  "slug": "dortmund-schalke-2026-11-15",
-  "mode": "llm",
-  "titleKo": "도르트문트 대 샬케 더비 경기",
-  "createdAt": "2026-11-15T22:02:24.000Z",
-  "updatedAt": "2026-11-15T22:02:24.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "dortmund",
-   "schalke"
-  ],
-  "players": [
-   "포프"
-  ],
-  "sig": [
-   "popp",
-   "revierderby"
-  ],
-  "articles": [
-   {
-    "id": "8b2854ddac0d",
-    "url": "https://www.kicker.de/dreierpack-popp-bvb-schiesst-schalke-im-revierderby-ab-1271926/video#omrss",
-    "title": "Dreierpack Popp: BVB schießt Schalke im Revierderby ab",
-    "ko": "포프 해트트릭…도르트문트, 샬케 대파하고 더비 승리",
-    "source": "kicker",
-    "publishedAt": "2026-11-15T22:02:24.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund",
-     "schalke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "포프"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-15T22:02:24.000Z",
-   "viaQuote": false
-  },
-  "headline": "Dreierpack Popp: BVB schießt Schalke im Revierderby ab"
  },
  {
   "slug": "portugal-fa-affairs-funding",
@@ -24920,79 +26416,6 @@
   "headline": "Birmingham lead & Boro's Lankshear reliance - Championship talking points"
  },
  {
-  "slug": "rice-arsenal-contract",
-  "mode": "llm",
-  "titleKo": "데클란 라이스 아스널 재계약 근접",
-  "createdAt": "2026-11-14T20:40:35.000Z",
-  "updatedAt": "2026-11-14T20:40:35.000Z",
-  "category": "transfer",
-  "stage": "negotiation",
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "데클란 라이스"
-  ],
-  "sig": [],
-  "articles": [
-   {
-    "id": "da9de095caec",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-    "title": "Rice close to signing new Arsenal contract",
-    "ko": "라이스, 아스널과 새 계약 체결 근접",
-    "source": "bbc",
-    "publishedAt": "2026-11-14T20:40:35.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "데클란 라이스"
-    ],
-    "playerTags": [
-     "declan-rice"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "데클란 라이스",
-     "from": "아스널",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [
-   {
-    "id": "da9de095caec",
-    "at": "2026-11-14T20:40:35.000Z",
-    "source": "bbc",
-    "from": null,
-    "to": "negotiation"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "declan-rice"
-  ],
-  "transfer": {
-   "player": "데클란 라이스",
-   "from": "아스널",
-   "to": null
-  },
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-14T20:40:35.000Z",
-   "viaQuote": false
-  },
-  "headline": "Rice close to signing new Arsenal contract"
- },
- {
   "slug": "reggiana-affairs-takeover",
   "mode": "llm",
   "titleKo": "레자나 지분 인수 제안",
@@ -26458,55 +27881,6 @@
    "viaQuote": false
   },
   "headline": "Folarin Balogun Everton transfer twist emerges as new statement made - 'Contract was changed'"
- },
- {
-  "slug": "kosovo-israel-2026-11-14",
-  "mode": "llm",
-  "titleKo": "코소보 대 이스라엘 네이션스리그 경기",
-  "createdAt": "2026-11-14T16:51:19.000Z",
-  "updatedAt": "2026-11-14T16:51:19.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "kosovo",
-   "israël",
-   "ligue"
-  ],
-  "articles": [
-   {
-    "id": "1d73b61031cc",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-kosovo-resiste-a-israel-a-dix-contre-onze-et-peut-encore-rever-de-la-ligue-des-nations-a/1743664#at_medium=RSS_feeds",
-    "title": "Le Kosovo résiste à Israël à dix contre onze et peut encore rêver de la Ligue des nations A",
-    "ko": "코소보, 열 명 싸움 끝에 이스라엘 상대로 버티며 네이션스리그 A 꿈 유지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-14T16:51:19.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-14T16:51:19.000Z",
-   "viaQuote": false
-  },
-  "headline": "Le Kosovo résiste à Israël à dix contre onze et peut encore rêver de la Ligue des nations A"
  },
  {
   "slug": "germany-u18-turkey-2026-11-14",
@@ -28356,63 +29730,6 @@
    "viaQuote": false
   },
   "headline": "Le Saint-Martin de Jean-Claude Darcheville s'incline à l'aller contre le Salvador, en play-in de la Gold Cup"
- },
- {
-  "slug": "davies-injury",
-  "mode": "llm",
-  "titleKo": "데이비스 근육 부상 의혹, 캐나다 떠나 뮌헨 복귀",
-  "createdAt": "2026-11-14T10:19:02.000Z",
-  "updatedAt": "2026-11-14T10:19:02.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "데이비스"
-  ],
-  "sig": [
-   "schaden",
-   "davies",
-   "kanada"
-  ],
-  "articles": [
-   {
-    "id": "75a9c0ec7d25",
-    "url": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel#omrss",
-    "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
-    "ko": "데이비스 근육 부상 의혹, 캐나다 떠나 뮌헨 복귀",
-    "source": "kicker",
-    "publishedAt": "2026-11-14T10:19:02.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "데이비스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-14T10:19:02.000Z",
-   "viaQuote": false
-  },
-  "headline": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München"
  },
  {
   "slug": "liverpool-january-signing-transfer",
@@ -31650,80 +32967,6 @@
    "viaQuote": false
   },
   "headline": "Le résumé vidéo de Moldavie - Kazakhstan"
- },
- {
-  "slug": "fernandez-pardo-newcastle-transfer",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 페르난데스파르도 영입 관심",
-  "createdAt": "2026-11-13T19:00:00.000Z",
-  "updatedAt": "2026-11-13T19:00:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [
-   "마티아스 페르난데스파르도"
-  ],
-  "sig": [
-   "wyness",
-   "matias",
-   "fernandez",
-   "pardo"
-  ],
-  "articles": [
-   {
-    "id": "6364e916c684",
-    "url": "https://www.footballinsider247.com/newcastle-united/transfers/keith-wyness-shares-key-to-newcastle-unlocking-matias-fernandez-pardo",
-    "title": "Keith Wyness shares ‘key’ to Newcastle unlocking Matias Fernandez-Pardo",
-    "ko": "키스 와이네스, 뉴캐슬이 마티아스 페르난데스파르도 영입의 열쇠 제시",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "마티아스 페르난데스파르도"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "마티아스 페르난데스파르도",
-     "from": null,
-     "to": "뉴캐슬"
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "6364e916c684",
-    "at": "2026-11-13T19:00:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "마티아스 페르난데스파르도",
-   "from": null,
-   "to": "뉴캐슬"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-13T19:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Keith Wyness shares ‘key’ to Newcastle unlocking Matias Fernandez-Pardo"
  },
  {
   "slug": "girma-injury",
@@ -35296,177 +36539,6 @@
    "viaQuote": false
   },
   "headline": "Après Italie-France, Dayot Upamecano quitte le rassemblement de l'équipe de France pour raisons personnelles"
- },
- {
-  "slug": "van-dijk-liverpool-contract",
-  "mode": "llm",
-  "titleKo": "반 다이크 계약 업데이트와 리버풀 미래",
-  "createdAt": "2026-11-10T12:00:00.000Z",
-  "updatedAt": "2026-11-13T06:57:25.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "liverpool"
-  ],
-  "players": [
-   "버질 반 다이크",
-   "알리송 베커",
-   "알리송",
-   "반 다이크"
-  ],
-  "sig": [
-   "dijk",
-   "let"
-  ],
-  "articles": [
-   {
-    "id": "f67358c98eac",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/virgil-van-dijk-drops-liverpool-34884211",
-    "title": "Virgil van Dijk drops Liverpool future hint after contract update - 'Let's see'",
-    "ko": "반 다이크, 계약 업데이트 후 리버풀 미래에 대해 \"두고 보자\"",
-    "source": "lecho",
-    "publishedAt": "2026-11-10T12:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "반 다이크"
-    ],
-    "playerTags": [
-     "virgil-van-dijk"
-    ],
-    "author": "Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "37aa268ed096",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/should-liverpool-hand-virgil-van-34891245",
-    "title": "Poll: Should Liverpool hand Virgil van Dijk and Alisson Becker new contracts?",
-    "ko": "반 다이크·알리송 재계약 찬반 투표 진행",
-    "source": "lecho",
-    "publishedAt": "2026-11-10T14:48:13.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "반 다이크",
-     "알리송"
-    ],
-    "playerTags": [
-     "virgil-van-dijk"
-    ],
-    "author": "Paul Wheelock",
-    "transfer": null
-   },
-   {
-    "id": "1a31ca2d1c58",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alisson-becker-virgil-van-dijk-34896007",
-    "title": "Alisson Becker and Virgil van Dijk agreement reached as Liverpool contract message sent",
-    "ko": "알리송·반 다이크 재계약 합의 근접, 리버풀 계약 소식 전해져",
-    "source": "lecho",
-    "publishedAt": "2026-11-12T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "알리송",
-     "반 다이크"
-    ],
-    "playerTags": [
-     "virgil-van-dijk"
-    ],
-    "author": "Ian Doyle, Paul Gorst, Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "888d74498156",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/steven-gerrard-wouldnt-want-lose-34896494",
-    "title": "Steven Gerrard 'wouldn't want to lose' Liverpool star as he urges contract U-turn",
-    "ko": "제라드 '리버풀 스타 잔류 원해'…재계약 입장 번복 촉구",
-    "source": "lecho",
-    "publishedAt": "2026-11-12T11:58:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "ad3795784677",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dejan-lovren-makes-virgil-van-34901479",
-    "title": "Dejan Lovren makes Virgil van Dijk Liverpool contract prediction and Xabi Alosno return claim",
-    "ko": "로브렌, 반 다이크 재계약 예측과 알론소 리버풀 복귀 주장",
-    "source": "lecho",
-    "publishedAt": "2026-11-13T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "반 다이크"
-    ],
-    "playerTags": [
-     "virgil-van-dijk"
-    ],
-    "author": "Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "bcbaf2a3c1cb",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
-    "title": "Liverpool and Van Dijk have a decision to make",
-    "ko": "리버풀, 반 다이크 계약 관련 결정 앞둬",
-    "source": "bbc",
-    "publishedAt": "2026-11-13T06:57:25.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "반 다이크"
-    ],
-    "playerTags": [
-     "virgil-van-dijk"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "virgil-van-dijk"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-10T12:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Liverpool and Van Dijk have a decision to make"
  },
  {
   "slug": "tresoldi-bayern-transfer",
