@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T17:44:46.286Z",
+ "updatedAt": "2026-11-16T18:36:03.413Z",
  "hot": [
   "thomas-frank-crystal-palace-appointment",
+  "germany-netherlands-2026-11-16",
+  "sevilla-affairs-bale-takeover",
   "davies-injury",
-  "spain-england-2026-11-14",
-  "romario-ancelotti-relationship",
-  "uec-uefa-affairs-complaint"
+  "spain-england-2026-11-14"
  ],
  "days": [
   "2026-10-18",
@@ -40,20 +40,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 1,
+   "items": 78,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 2,
+   "added": 1,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -65,7 +65,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -77,7 +77,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,25 +89,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 72
+   "added": 3,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -119,7 +119,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -143,7 +143,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,7 +155,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -173,25 +173,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 2,
+   "items": 9,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -318,16 +318,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 231,
+  "recentIssues": 232,
   "singleArticleRate": 57,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
-    "count": 74
+    "count": 75
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 58
+    "count": 57
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -362,7 +362,7 @@
     },
     {
      "ko": "호르헤 제수스",
-     "count": 4
+     "count": 6
     },
     {
      "ko": "하이메 헤수스",
@@ -461,11 +461,11 @@
      "count": 2
     },
     {
-     "ko": "마르크 판 봄멜",
-     "count": 2
+     "ko": "판 보멜",
+     "count": 1
     },
     {
-     "ko": "판 보멜",
+     "ko": "마르크 판 봄멜",
      "count": 1
     }
    ]
@@ -476,7 +476,7 @@
    "variants": [
     {
      "ko": "데 라 푸엔테",
-     "count": 11
+     "count": 12
     },
     {
      "ko": "델라 푸엔테",
@@ -489,11 +489,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "스테판 보르손",
-     "count": 5
+     "ko": "스테판 보슨",
+     "count": 4
     },
     {
-     "ko": "스테판 보슨",
+     "ko": "스테판 보르손",
      "count": 4
     },
     {
@@ -785,24 +785,6 @@
    ]
   },
   {
-   "en": "Vítor Pinto",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 피토",
-     "count": 1
-    },
-    {
-     "ko": "비토르 핀투",
-     "count": 1
-    },
-    {
-     "ko": "빈토 핀투",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Duncan Ferguson",
    "dictionary": null,
    "variants": [
@@ -812,24 +794,6 @@
     },
     {
      "ko": "덩컨 퍼거슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셸더럽",
-     "count": 1
-    },
-    {
-     "ko": "셸더루프",
-     "count": 1
-    },
-    {
-     "ko": "쉘데루프",
      "count": 1
     }
    ]
@@ -1035,20 +999,6 @@
    ]
   },
   {
-   "en": "Doumbia",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "두움비아",
-     "count": 1
-    },
-    {
-     "ko": "도움비아",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kevin Keegan",
    "dictionary": null,
    "variants": [
@@ -1091,6 +1041,20 @@
    ]
   },
   {
+   "en": "Vítor Pinto",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 피토",
+     "count": 1
+    },
+    {
+     "ko": "빈토 핀투",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Bompastor",
    "dictionary": null,
    "variants": [
@@ -1100,6 +1064,20 @@
     },
     {
      "ko": "봄파스토르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셸더럽",
+     "count": 1
+    },
+    {
+     "ko": "쉘데루프",
      "count": 1
     }
    ]
@@ -1156,6 +1134,20 @@
     },
     {
      "ko": "훌마트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Liam Delap",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "리엄 델랩",
+     "count": 1
+    },
+    {
+     "ko": "리엄 델랍",
      "count": 1
     }
    ]
@@ -1235,8 +1227,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 139,
-   "llm": 139
+   "collected": 179,
+   "llm": 179
   }
  },
  "llmErrors": []
