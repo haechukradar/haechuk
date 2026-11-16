@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T22:16:04.698Z",
+ "updatedAt": "2026-11-16T23:14:29.466Z",
  "hot": [
+  "rice-arsenal-contract",
   "thomas-frank-crystal-palace-appointment",
   "germany-netherlands-2026-11-16",
-  "greece-serbia-2026-11-16",
-  "rice-arsenal-contract",
-  "jesus-morgan-relationship"
+  "ronaldo-tribute-2026-11-14",
+  "diallo-infantino-affairs-dispute"
  ],
  "days": [
   "2026-10-18",
@@ -41,26 +41,26 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 20,
+   "added": 13,
+   "authorRate": 85
   },
   "athletic": {
    "ok": true,
@@ -77,7 +77,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 7,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,25 +89,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 70
+   "added": 10,
+   "authorRate": 62
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -143,7 +143,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -173,8 +173,8 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
-   "authorRate": 100
+   "added": 3,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
@@ -185,12 +185,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
+   "items": 5,
    "added": 0,
    "authorRate": 0
   }
@@ -234,11 +234,11 @@
   },
   {
    "name": "베르나르두 실바",
-   "count": 28
+   "count": 29
   },
   {
    "name": "JJ 가브리엘",
-   "count": 25
+   "count": 26
   },
   {
    "name": "알리송",
@@ -261,6 +261,10 @@
    "count": 17
   },
   {
+   "name": "지단",
+   "count": 17
+  },
+  {
    "name": "웨인 루니",
    "count": 16
   },
@@ -270,10 +274,6 @@
   },
   {
    "name": "수비멘디",
-   "count": 16
-  },
-  {
-   "name": "지단",
    "count": 16
   },
   {
@@ -327,7 +327,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 55
+    "count": 54
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -339,7 +339,7 @@
    },
    {
     "slug": "germany-netherlands-2026-11-16",
-    "count": 23
+    "count": 27
    },
    {
     "slug": "belgium-italy-2026-11-12",
@@ -347,7 +347,7 @@
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 15
+    "count": 16
    },
    {
     "slug": "norway-wales-2026-11-12",
@@ -366,7 +366,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 13
+     "count": 14
     },
     {
      "ko": "호르헤 제수스",
@@ -546,7 +546,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "클린스만",
@@ -729,6 +729,20 @@
    ]
   },
   {
+   "en": "Blatter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "블래터",
+     "count": 3
+    },
+    {
+     "ko": "블라터",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ronald Araujo",
    "dictionary": null,
    "variants": [
@@ -742,6 +756,20 @@
     },
     {
      "ko": "아라우호",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jurrien Timber",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "유리엔 팀버",
+     "count": 2
+    },
+    {
+     "ko": "야프리엔 팀버",
      "count": 1
     }
    ]
@@ -766,10 +794,14 @@
    "variants": [
     {
      "ko": "맥스 다우먼",
-     "count": 2
+     "count": 1
     },
     {
      "ko": "막스 다우먼",
+     "count": 1
+    },
+    {
+     "ko": "맥스 다우맨",
      "count": 1
     }
    ]
@@ -895,20 +927,6 @@
    ]
   },
   {
-   "en": "Blatter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "블래터",
-     "count": 2
-    },
-    {
-     "ko": "블라터",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Earps",
    "dictionary": null,
    "variants": [
@@ -937,6 +955,24 @@
    ]
   },
   {
+   "en": "Pocognoli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포코녤리",
+     "count": 1
+    },
+    {
+     "ko": "포콘뇰리",
+     "count": 1
+    },
+    {
+     "ko": "포코놀리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "James Garner",
    "dictionary": null,
    "variants": [
@@ -946,20 +982,6 @@
     },
     {
      "ko": "제임스 개너",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jurrien Timber",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야프리엔 팀버",
-     "count": 1
-    },
-    {
-     "ko": "유리엔 팀버",
      "count": 1
     }
    ]
@@ -1035,20 +1057,6 @@
    ]
   },
   {
-   "en": "Jesus Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스 오워노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Bompastor",
    "dictionary": null,
    "variants": [
@@ -1072,20 +1080,6 @@
     },
     {
      "ko": "쉘데루프",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Luís Freire",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이스 프레이레",
-     "count": 1
-    },
-    {
-     "ko": "루이스 프레이르",
      "count": 1
     }
    ]
@@ -1156,6 +1150,20 @@
     },
     {
      "ko": "미국",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gouram",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구라움",
+     "count": 1
+    },
+    {
+     "ko": "구람",
      "count": 1
     }
    ]
@@ -1235,8 +1243,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 324,
-   "llm": 324
+   "collected": 373,
+   "llm": 373
   }
  },
  "llmErrors": []
