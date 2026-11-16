@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T14:57:35.299Z",
+ "updatedAt": "2026-11-16T16:37:32.721Z",
  "hot": [
-  "spain-england-2026-11-14",
-  "davies-injury",
   "thomas-frank-crystal-palace-appointment",
-  "uec-uefa-affairs-complaint",
-  "pochettino-man-utd-manager-future"
+  "davies-injury",
+  "spain-england-2026-11-14",
+  "belgium-italy-2026-11-12",
+  "uec-uefa-affairs-complaint"
  ],
  "days": [
   "2026-10-18",
@@ -34,25 +34,26 @@
   "2026-11-13",
   "2026-11-14",
   "2026-11-15",
-  "2026-11-16"
+  "2026-11-16",
+  "2026-11-17"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 78,
-   "added": 8,
+   "items": 79,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 6,
-   "authorRate": 97
+   "items": 57,
+   "added": 2,
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -64,7 +65,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 6,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -75,8 +76,8 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 1,
+   "items": 51,
+   "added": 16,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,31 +89,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 7,
-   "authorRate": 70
+   "authorRate": 72
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 7,
-   "authorRate": 100
-  },
-  "men": {
    "ok": true,
    "items": 25,
    "added": 4,
    "authorRate": 100
   },
+  "men": {
+   "ok": true,
+   "items": 25,
+   "added": 2,
+   "authorRate": 100
+  },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 7,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -136,61 +137,61 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 8,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 13,
-   "authorRate": 97
+   "added": 8,
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 6,
+   "added": 5,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 6,
+   "added": 3,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 7,
+   "items": 9,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -229,7 +230,7 @@
   },
   {
    "name": "루카쿠",
-   "count": 27
+   "count": 28
   },
   {
    "name": "JJ 가브리엘",
@@ -260,6 +261,10 @@
    "count": 17
   },
   {
+   "name": "수비멘디",
+   "count": 16
+  },
+  {
    "name": "지단",
    "count": 16
   },
@@ -268,15 +273,15 @@
    "count": 15
   },
   {
+   "name": "돈나룸마",
+   "count": 15
+  },
+  {
    "name": "반 다이크",
    "count": 14
   },
   {
-   "name": "돈나룸마",
-   "count": 14
-  },
-  {
-   "name": "수비멘디",
+   "name": "루이스 홀",
    "count": 14
   },
   {
@@ -310,23 +315,19 @@
   {
    "name": "하베르츠",
    "count": 12
-  },
-  {
-   "name": "로멜루 루카쿠",
-   "count": 11
   }
  ],
  "issueHealth": {
   "recentIssues": 233,
-  "singleArticleRate": 56,
+  "singleArticleRate": 57,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
-    "count": 72
+    "count": 73
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 67
+    "count": 62
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -338,14 +339,14 @@
    },
    {
     "slug": "belgium-italy-2026-11-12",
-    "count": 20
-   },
-   {
-    "slug": "tuchel-de-la-fuente-relationship",
-    "count": 15
+    "count": 21
    },
    {
     "slug": "norway-wales-2026-11-12",
+    "count": 16
+   },
+   {
+    "slug": "tuchel-de-la-fuente-relationship",
     "count": 15
    }
   ]
@@ -357,7 +358,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 14
+     "count": 15
     },
     {
      "ko": "호르헤 제수스",
@@ -448,11 +449,11 @@
      "count": 8
     },
     {
-     "ko": "마크 반 봄멜",
-     "count": 2
+     "ko": "마르크 반 봄멜",
+     "count": 3
     },
     {
-     "ko": "마르크 반 봄멜",
+     "ko": "마크 반 봄멜",
      "count": 2
     },
     {
@@ -515,7 +516,7 @@
    "variants": [
     {
      "ko": "토마스 투헬",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "투헬",
@@ -569,20 +570,6 @@
     },
     {
      "ko": "키스 와이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시몬스",
-     "count": 5
-    },
-    {
-     "ko": "팀 시몬스",
      "count": 1
     }
    ]
@@ -724,11 +711,11 @@
      "count": 1
     },
     {
-     "ko": "각포",
+     "ko": "각파이",
      "count": 1
     },
     {
-     "ko": "각파이",
+     "ko": "각포",
      "count": 1
     }
    ]
@@ -752,20 +739,6 @@
    ]
   },
   {
-   "en": "Patrick Dorgu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파트릭 도르구",
-     "count": 2
-    },
-    {
-     "ko": "패트릭 도르구",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Duncan Ferguson",
    "dictionary": null,
    "variants": [
@@ -780,15 +753,19 @@
    ]
   },
   {
-   "en": "Pierre Sage",
+   "en": "Schjelderup",
    "dictionary": null,
    "variants": [
     {
-     "ko": "피에르 사주",
-     "count": 2
+     "ko": "셸더럽",
+     "count": 1
     },
     {
-     "ko": "피에르 사지",
+     "ko": "셸더루프",
+     "count": 1
+    },
+    {
+     "ko": "쉘데루프",
      "count": 1
     }
    ]
@@ -854,6 +831,20 @@
    ]
   },
   {
+   "en": "Rúben Neves",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루벤 네베스",
+     "count": 2
+    },
+    {
+     "ko": "후벵 네베스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Dan Burn",
    "dictionary": null,
    "variants": [
@@ -882,6 +873,34 @@
    ]
   },
   {
+   "en": "José Couceiro",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주제 쿠세이루",
+     "count": 2
+    },
+    {
+     "ko": "조세이루",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mike Maignan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마이냥",
+     "count": 2
+    },
+    {
+     "ko": "마이크 마냥",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blatter",
    "dictionary": null,
    "variants": [
@@ -905,34 +924,6 @@
     },
     {
      "ko": "어프스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mike Maignan",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마이냥",
-     "count": 2
-    },
-    {
-     "ko": "마이크 마냥",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "José Couceiro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주제 쿠세이루",
-     "count": 2
-    },
-    {
-     "ko": "조세이루",
      "count": 1
     }
    ]
@@ -1078,20 +1069,6 @@
    ]
   },
   {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셸더럽",
-     "count": 1
-    },
-    {
-     "ko": "셸더루프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Reijnders",
    "dictionary": null,
    "variants": [
@@ -1134,6 +1111,20 @@
    ]
   },
   {
+   "en": "Schlotterbeck",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "슐로터벡",
+     "count": 1
+    },
+    {
+     "ko": "슐로터베크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Walid Regragui",
    "dictionary": null,
    "variants": [
@@ -1143,6 +1134,20 @@
     },
     {
      "ko": "레그라구이",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hjulmand",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "예스텔",
+     "count": 1
+    },
+    {
+     "ko": "훌마트",
      "count": 1
     }
    ]
@@ -1220,6 +1225,10 @@
   "2026-11-16": {
    "collected": 805,
    "llm": 805
+  },
+  "2026-11-17": {
+   "collected": 91,
+   "llm": 91
   }
  },
  "llmErrors": []
