@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T19:40:42.782Z",
+ "updatedAt": "2026-11-16T20:30:11.304Z",
  "hot": [
   "thomas-frank-crystal-palace-appointment",
   "germany-netherlands-2026-11-16",
-  "davies-injury",
-  "jesus-morgan-relationship",
-  "pochettino-man-utd-manager-future"
+  "greece-serbia-2026-11-16",
+  "pochettino-man-utd-manager-future",
+  "jesus-morgan-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -47,7 +47,7 @@
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 3,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
@@ -89,25 +89,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 5,
    "authorRate": 66
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -143,7 +143,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,7 +155,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -167,13 +167,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -185,13 +185,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 2,
    "authorRate": 96
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 4,
+   "items": 12,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -225,11 +225,11 @@
    "count": 30
   },
   {
-   "name": "그릴리시",
-   "count": 29
+   "name": "루카쿠",
+   "count": 30
   },
   {
-   "name": "루카쿠",
+   "name": "그릴리시",
    "count": 29
   },
   {
@@ -318,7 +318,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 231,
+  "recentIssues": 232,
   "singleArticleRate": 56,
   "broad": [
    {
@@ -327,11 +327,11 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 57
+    "count": 55
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 50
+    "count": 48
    },
    {
     "slug": "france-turkey-2026-11-13",
@@ -342,11 +342,15 @@
     "count": 21
    },
    {
-    "slug": "norway-wales-2026-11-12",
-    "count": 16
+    "slug": "germany-netherlands-2026-11-16",
+    "count": 17
    },
    {
-    "slug": "germany-netherlands-2026-11-16",
+    "slug": "thomas-frank-crystal-palace-appointment",
+    "count": 15
+   },
+   {
+    "slug": "norway-wales-2026-11-12",
     "count": 15
    },
    {
@@ -362,7 +366,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 18
+     "count": 17
     },
     {
      "ko": "호르헤 제수스",
@@ -637,28 +641,6 @@
    ]
   },
   {
-   "en": "Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스",
-     "count": 2
-    },
-    {
-     "ko": "예스",
-     "count": 1
-    },
-    {
-     "ko": "예수",
-     "count": 1
-    },
-    {
-     "ko": "주제",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Dolores Aveiro",
    "dictionary": null,
    "variants": [
@@ -737,6 +719,24 @@
    ]
   },
   {
+   "en": "Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스",
+     "count": 2
+    },
+    {
+     "ko": "예수",
+     "count": 1
+    },
+    {
+     "ko": "주제",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ronald Araujo",
    "dictionary": null,
    "variants": [
@@ -796,24 +796,6 @@
     },
     {
      "ko": "덩컨 퍼거슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Schlotterbeck",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "슐로터벡",
-     "count": 1
-    },
-    {
-     "ko": "슐로터베크",
-     "count": 1
-    },
-    {
-     "ko": "쉴로터베크",
      "count": 1
     }
    ]
@@ -1171,6 +1153,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Popp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포펠",
+     "count": 1
+    },
+    {
+     "ko": "포프",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1247,8 +1243,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 231,
-   "llm": 231
+   "collected": 261,
+   "llm": 261
   }
  },
  "llmErrors": []
