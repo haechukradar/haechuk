@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T02:26:19.878Z",
+ "updatedAt": "2026-11-16T03:34:49.802Z",
  "hot": [
   "spain-england-2026-11-14",
   "france-turkey-2026-11-13",
-  "jesus-de-miguel-incident",
   "arsenal-london-city-2026-11-15",
-  "belgium-italy-2026-11-12"
+  "belgium-italy-2026-11-12",
+  "jesus-de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -57,9 +57,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 6,
+   "authorRate": 81
   },
   "athletic": {
    "ok": true,
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -189,7 +189,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 1,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -237,7 +237,7 @@
   },
   {
    "name": "베르나르두 실바",
-   "count": 20
+   "count": 21
   },
   {
    "name": "트레솔디",
@@ -317,8 +317,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
-  "singleArticleRate": 57,
+  "recentIssues": 224,
+  "singleArticleRate": 58,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -326,7 +326,7 @@
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 54
+    "count": 57
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -361,7 +361,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 13
+     "count": 14
     },
     {
      "ko": "호르헤 제수스",
@@ -402,6 +402,20 @@
    ]
   },
   {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 16
+    },
+    {
+     "ko": "튀헬",
+     "count": 8
+    }
+   ]
+  },
+  {
    "en": "Klopp",
    "dictionary": null,
    "variants": [
@@ -426,20 +440,6 @@
     {
      "ko": "호나우지냐",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 16
-    },
-    {
-     "ko": "튀헬",
-     "count": 7
     }
    ]
   },
@@ -1218,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 412,
-   "llm": 412
+   "collected": 422,
+   "llm": 422
   }
  },
  "llmErrors": []
