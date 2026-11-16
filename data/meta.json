@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T05:06:22.035Z",
+ "updatedAt": "2026-11-16T06:28:53.540Z",
  "hot": [
   "spain-england-2026-11-14",
   "pochettino-man-utd-manager-future",
@@ -40,7 +40,7 @@
   "bbc": {
    "ok": true,
    "items": 72,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -52,7 +52,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -64,7 +64,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,37 +88,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -136,7 +136,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -148,25 +148,25 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -178,7 +178,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -317,16 +317,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
-  "singleArticleRate": 58,
+  "recentIssues": 228,
+  "singleArticleRate": 57,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 102
+    "count": 101
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 57
+    "count": 58
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -398,6 +398,20 @@
    ]
   },
   {
+   "en": "Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 25
+    },
+    {
+     "ko": "클로프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -408,20 +422,6 @@
     {
      "ko": "튀헬",
      "count": 8
-    }
-   ]
-  },
-  {
-   "en": "Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 23
-    },
-    {
-     "ko": "클로프",
-     "count": 1
     }
    ]
   },
@@ -459,7 +459,7 @@
    "variants": [
     {
      "ko": "반 봄멜",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "마크 반 봄멜",
@@ -542,6 +542,24 @@
    ]
   },
   {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 4
+    },
+    {
+     "ko": "샤비",
+     "count": 2
+    },
+    {
+     "ko": "차비",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -556,12 +574,12 @@
    ]
   },
   {
-   "en": "Jesús Owono",
+   "en": "Jesus Owono",
    "dictionary": null,
    "variants": [
     {
      "ko": "헤수스 오워노",
-     "count": 3
+     "count": 2
     },
     {
      "ko": "오워노",
@@ -569,24 +587,6 @@
     },
     {
      "ko": "제수스 오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 4
-    },
-    {
-     "ko": "차비",
-     "count": 1
-    },
-    {
-     "ko": "샤비",
      "count": 1
     }
    ]
@@ -605,6 +605,20 @@
     },
     {
      "ko": "피에르 사주",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Duncan Ferguson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "던컨 퍼거슨",
+     "count": 3
+    },
+    {
+     "ko": "덩컨 퍼거슨",
      "count": 1
     }
    ]
@@ -775,6 +789,24 @@
     },
     {
      "ko": "아르센 웽거",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lucas Da Cunha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "다 쿠냐",
+     "count": 1
+    },
+    {
+     "ko": "루카 다 쿠냐",
+     "count": 1
+    },
+    {
+     "ko": "루카 다 쿤냐",
      "count": 1
     }
    ]
@@ -1114,34 +1146,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Gouram",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구라움",
-     "count": 1
-    },
-    {
-     "ko": "구람",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Graeme Souness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수네스",
-     "count": 1
-    },
-    {
-     "ko": "그레이엄 수니스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1214,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 442,
-   "llm": 442
+   "collected": 477,
+   "llm": 477
   }
  },
  "llmErrors": []
