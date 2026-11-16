@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T23:56:22.462Z",
+ "updatedAt": "2026-11-16T01:04:09.258Z",
  "hot": [
   "spain-england-2026-11-14",
   "jesus-de-miguel-incident",
@@ -39,20 +39,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 71,
-   "added": 2,
+   "items": 72,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -76,7 +76,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -88,13 +88,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 1,
    "authorRate": 68
   },
   "fblondon": {
@@ -142,7 +142,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,7 +154,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -173,7 +173,7 @@
    "ok": true,
    "items": 29,
    "added": 1,
-   "authorRate": 100
+   "authorRate": 97
   },
   "star": {
    "ok": true,
@@ -189,7 +189,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -322,11 +322,11 @@
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 102
+    "count": 101
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 53
+    "count": 54
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -435,7 +435,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 15
+     "count": 16
     },
     {
      "ko": "튀헬",
@@ -1218,8 +1218,8 @@
    "llm": 700
   },
   "2026-11-16": {
-   "collected": 404,
-   "llm": 404
+   "collected": 410,
+   "llm": 410
   }
  },
  "llmErrors": []
