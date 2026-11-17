@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T11:29:01.627Z",
+ "updatedAt": "2026-11-17T12:22:46.233Z",
  "hot": [
   "jesus-de-miguel-incident",
   "germany-netherlands-2026-11-16",
   "pochettino-man-utd-manager-future",
   "pochettino-usmnt-manager-future",
-  "norway-wales-2026-11-12"
+  "pocognoli-scotland-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -40,32 +40,32 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 3,
+   "items": 82,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 22,
-   "added": 9,
-   "authorRate": 91
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -77,7 +77,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 11,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,25 +89,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 4,
-   "authorRate": 74
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -131,31 +131,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -173,24 +173,24 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 9,
    "added": 0,
    "authorRate": 0
   }
@@ -245,6 +245,10 @@
    "count": 24
   },
   {
+   "name": "웨인 루니",
+   "count": 19
+  },
+  {
    "name": "트레솔디",
    "count": 18
   },
@@ -258,10 +262,6 @@
   },
   {
    "name": "데 미겔",
-   "count": 17
-  },
-  {
-   "name": "웨인 루니",
    "count": 17
   },
   {
@@ -318,7 +318,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 219,
+  "recentIssues": 218,
   "singleArticleRate": 54,
   "broad": [
    {
@@ -327,7 +327,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 54
+    "count": 58
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -408,7 +408,7 @@
    "variants": [
     {
      "ko": "호나우지뉴",
-     "count": 25
+     "count": 24
     },
     {
      "ko": "호나우지냐",
@@ -524,7 +524,7 @@
    "variants": [
     {
      "ko": "사비",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "자비",
@@ -577,6 +577,20 @@
    ]
   },
   {
+   "en": "Alanzinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "알란지뉴",
+     "count": 6
+    },
+    {
+     "ko": "알란지뇨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vuskovic",
    "dictionary": null,
    "variants": [
@@ -619,15 +633,15 @@
    ]
   },
   {
-   "en": "Alanzinho",
+   "en": "Dan Burn",
    "dictionary": null,
    "variants": [
     {
-     "ko": "알란지뉴",
-     "count": 5
+     "ko": "댄 번",
+     "count": 4
     },
     {
-     "ko": "알란지뇨",
+     "ko": "듀언",
      "count": 1
     }
    ]
@@ -641,15 +655,15 @@
      "count": 2
     },
     {
+     "ko": "오와노",
+     "count": 1
+    },
+    {
      "ko": "오요노",
      "count": 1
     },
     {
      "ko": "오노워",
-     "count": 1
-    },
-    {
-     "ko": "오와노",
      "count": 1
     }
    ]
@@ -709,19 +723,19 @@
    ]
   },
   {
-   "en": "Max Dowman",
+   "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
     {
-     "ko": "맥스 다우먼",
+     "ko": "제이미 캐러거",
      "count": 2
     },
     {
-     "ko": "맥스 다우맨",
+     "ko": "재미 캐러거",
      "count": 1
     },
     {
-     "ko": "막스 다우먼",
+     "ko": "카라거",
      "count": 1
     }
    ]
@@ -769,20 +783,6 @@
    ]
   },
   {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 3
-    },
-    {
-     "ko": "듀언",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Luis de la Fuente",
    "dictionary": null,
    "variants": [
@@ -815,11 +815,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "우고 올리베이라",
+     "ko": "위고 올리베이라",
      "count": 2
     },
     {
-     "ko": "위고 올리베이라",
+     "ko": "우고 올리베이라",
      "count": 2
     }
    ]
@@ -833,11 +833,11 @@
      "count": 1
     },
     {
-     "ko": "유리엔 팀버",
+     "ko": "티머",
      "count": 1
     },
     {
-     "ko": "티머",
+     "ko": "유리엔 팀버",
      "count": 1
     }
    ]
@@ -870,24 +870,6 @@
     },
     {
      "ko": "샤를 드 케테라레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jamie Carragher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "재미 캐러거",
-     "count": 1
-    },
-    {
-     "ko": "제이미 캐러거",
-     "count": 1
-    },
-    {
-     "ko": "카라거",
      "count": 1
     }
    ]
@@ -933,11 +915,11 @@
      "count": 1
     },
     {
-     "ko": "조르지 시망",
+     "ko": "조르지 시몽",
      "count": 1
     },
     {
-     "ko": "조르지 시몽",
+     "ko": "조르지 시망",
      "count": 1
     }
    ]
@@ -1012,6 +994,24 @@
     },
     {
      "ko": "마르크 두스 산토스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 1
+    },
+    {
+     "ko": "맥스 다우맨",
+     "count": 1
+    },
+    {
+     "ko": "막스 다우먼",
      "count": 1
     }
    ]
@@ -1259,8 +1259,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 632,
-   "llm": 632
+   "collected": 670,
+   "llm": 670
   }
  },
  "llmErrors": []
