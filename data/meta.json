@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-11-16T23:55:48.392Z",
+ "updatedAt": "2026-11-17T00:48:39.540Z",
  "hot": [
-  "rice-arsenal-contract",
   "thomas-frank-crystal-palace-appointment",
+  "rice-arsenal-contract",
   "germany-netherlands-2026-11-16",
   "ronaldo-tribute-2026-11-14",
   "pochettino-usmnt-manager-future"
@@ -40,20 +40,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 0,
+   "items": 77,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 2,
-   "authorRate": 97
+   "items": 57,
+   "added": 1,
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -65,7 +65,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -95,7 +95,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 62
   },
   "fblondon": {
@@ -143,7 +143,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -190,7 +190,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -318,7 +318,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
+  "recentIssues": 227,
   "singleArticleRate": 58,
   "broad": [
    {
@@ -440,7 +440,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 23
+     "count": 25
     },
     {
      "ko": "클로프",
@@ -559,24 +559,6 @@
    ]
   },
   {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 4
-    },
-    {
-     "ko": "차비",
-     "count": 1
-    },
-    {
-     "ko": "샤비",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vuskovic",
    "dictionary": null,
    "variants": [
@@ -614,6 +596,20 @@
     },
     {
      "ko": "라민",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 4
+    },
+    {
+     "ko": "샤비",
      "count": 1
     }
    ]
@@ -738,6 +734,28 @@
     },
     {
      "ko": "블라터",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pocognoli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포코녤리",
+     "count": 1
+    },
+    {
+     "ko": "포콘뇰리",
+     "count": 1
+    },
+    {
+     "ko": "포코놀리",
+     "count": 1
+    },
+    {
+     "ko": "포콘골리",
      "count": 1
     }
    ]
@@ -950,24 +968,6 @@
     },
     {
      "ko": "마르크 두스 산토스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pocognoli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포코녤리",
-     "count": 1
-    },
-    {
-     "ko": "포콘뇰리",
-     "count": 1
-    },
-    {
-     "ko": "포코놀리",
      "count": 1
     }
    ]
@@ -1243,8 +1243,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 384,
-   "llm": 384
+   "collected": 390,
+   "llm": 390
   }
  },
  "llmErrors": []
