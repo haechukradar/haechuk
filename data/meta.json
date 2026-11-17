@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T16:42:15.170Z",
+ "updatedAt": "2026-11-17T17:43:56.630Z",
  "hot": [
+  "peter-storey-death-incident",
   "timber-arsenal-contract",
+  "pocognoli-scotland-manager-future",
   "pochettino-man-utd-manager-future",
-  "jesus-de-miguel-incident",
-  "spain-england-2026-11-14",
-  "germany-netherlands-2026-11-16"
+  "jesus-de-miguel-incident"
  ],
  "days": [
   "2026-10-18",
@@ -41,20 +41,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 3,
+   "items": 83,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 3,
+   "added": 2,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -90,14 +90,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 82
+   "added": 2,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -114,13 +114,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -132,19 +132,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
@@ -156,13 +156,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -174,25 +174,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 2,
+   "items": 9,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -250,12 +250,16 @@
    "count": 24
   },
   {
-   "name": "트레솔디",
+   "name": "이스테방",
    "count": 18
   },
   {
-   "name": "이스테방",
-   "count": 17
+   "name": "루이스 홀",
+   "count": 18
+  },
+  {
+   "name": "트레솔디",
+   "count": 18
   },
   {
    "name": "티에르노 배리",
@@ -263,10 +267,6 @@
   },
   {
    "name": "데 미겔",
-   "count": 17
-  },
-  {
-   "name": "루이스 홀",
    "count": 17
   },
   {
@@ -319,7 +319,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
+  "recentIssues": 234,
   "singleArticleRate": 56,
   "broad": [
    {
@@ -332,7 +332,7 @@
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 44
+    "count": 43
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -405,7 +405,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 6
+     "count": 4
     },
     {
      "ko": "튜헬",
@@ -458,20 +458,6 @@
    ]
   },
   {
-   "en": "De la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "데 라 푸엔테",
-     "count": 11
-    },
-    {
-     "ko": "델라 푸엔테",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
@@ -494,12 +480,26 @@
    ]
   },
   {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 11
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jürgen Klopp",
    "dictionary": null,
    "variants": [
     {
      "ko": "클롭",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "위르겐 클롭",
@@ -604,20 +604,6 @@
    ]
   },
   {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민 야말",
-     "count": 5
-    },
-    {
-     "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Dan Burn",
    "dictionary": null,
    "variants": [
@@ -655,7 +641,7 @@
    "variants": [
     {
      "ko": "포콘골리",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "포코녤리",
@@ -667,6 +653,20 @@
     },
     {
      "ko": "포코놀리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 4
+    },
+    {
+     "ko": "라민",
      "count": 1
     }
    ]
@@ -686,6 +686,46 @@
     {
      "ko": "막스 다우먼",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오와노",
+     "count": 1
+    },
+    {
+     "ko": "오워노",
+     "count": 1
+    },
+    {
+     "ko": "오요노",
+     "count": 1
+    },
+    {
+     "ko": "오노워",
+     "count": 1
+    },
+    {
+     "ko": "오노노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hugo Oliveira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "위고 올리베이라",
+     "count": 3
+    },
+    {
+     "ko": "우고 올리베이라",
+     "count": 2
     }
    ]
   },
@@ -764,20 +804,6 @@
    ]
   },
   {
-   "en": "Luis de la Fuente",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "델라푸엔테",
-     "count": 2
-    },
-    {
-     "ko": "루이스 데 라 푸엔테",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Blatter",
    "dictionary": null,
    "variants": [
@@ -788,42 +814,6 @@
     {
      "ko": "블라터",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오와노",
-     "count": 1
-    },
-    {
-     "ko": "오워노",
-     "count": 1
-    },
-    {
-     "ko": "오요노",
-     "count": 1
-    },
-    {
-     "ko": "오노워",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hugo Oliveira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "위고 올리베이라",
-     "count": 2
-    },
-    {
-     "ko": "우고 올리베이라",
-     "count": 2
     }
    ]
   },
@@ -855,20 +845,6 @@
     },
     {
      "ko": "회이룬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gudjon Thordarson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구드욘 토르다르손",
-     "count": 2
-    },
-    {
-     "ko": "구욘 토르다르손",
      "count": 1
     }
    ]
@@ -1164,6 +1140,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마시 아라우호",
+     "count": 1
+    },
+    {
+     "ko": "마키 아라우호",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르게스",
+     "count": 1
+    },
+    {
+     "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1244,8 +1248,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 81,
-   "llm": 81
+   "collected": 133,
+   "llm": 133
   }
  },
  "llmErrors": []
