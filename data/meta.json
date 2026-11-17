@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-17T00:48:39.540Z",
+ "updatedAt": "2026-11-17T02:02:27.107Z",
  "hot": [
-  "thomas-frank-crystal-palace-appointment",
   "rice-arsenal-contract",
   "germany-netherlands-2026-11-16",
+  "thomas-frank-crystal-palace-appointment",
   "ronaldo-tribute-2026-11-14",
   "pochettino-usmnt-manager-future"
  ],
@@ -40,14 +40,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 1,
+   "items": 78,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 57,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "sky": {
@@ -89,7 +89,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
@@ -669,20 +669,6 @@
    ]
   },
   {
-   "en": "Maxi Araújo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마시 아라우호",
-     "count": 3
-    },
-    {
-     "ko": "마키 아라우호",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Arsène Wenger",
    "dictionary": null,
    "variants": [
@@ -747,15 +733,15 @@
      "count": 1
     },
     {
+     "ko": "포콘골리",
+     "count": 1
+    },
+    {
      "ko": "포콘뇰리",
      "count": 1
     },
     {
      "ko": "포코놀리",
-     "count": 1
-    },
-    {
-     "ko": "포콘골리",
      "count": 1
     }
    ]
@@ -838,6 +824,20 @@
     },
     {
      "ko": "각포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마시 아라우호",
+     "count": 2
+    },
+    {
+     "ko": "마키 아라우호",
      "count": 1
     }
    ]
@@ -1243,8 +1243,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 390,
-   "llm": 390
+   "collected": 391,
+   "llm": 391
   }
  },
  "llmErrors": []
