@@ -1,69 +1,123 @@
 [
  {
-  "slug": "norway-northern-ireland-2026-11-16",
+  "slug": "samuel-barata-injury",
   "mode": "llm",
-  "titleKo": "노르웨이 대 북아일랜드 네이션스리그 경기",
-  "createdAt": "2026-11-17T22:14:54.000Z",
-  "updatedAt": "2026-11-17T22:14:54.000Z",
-  "category": "match",
+  "titleKo": "사무엘 바라타 무릎 부상으로 발렌시아 마라톤 결장",
+  "createdAt": "2026-11-17T23:23:32.000Z",
+  "updatedAt": "2026-11-17T23:23:32.000Z",
+  "category": "injury",
   "stage": null,
   "clubs": [],
   "players": [
-   "엘링 홀란"
+   "사무엘 바라타"
   ],
   "sig": [
-   "haaland",
-   "norway",
-   "northern",
-   "ireland",
-   "nations"
+   "barata",
+   "maratona",
+   "valência"
   ],
   "articles": [
    {
-    "id": "1d02552e79a7",
-    "url": "https://www.nytimes.com/athletic/7790525/2026/11/17/erling-haaland-nations-league-northern-ireland-promotion/",
-    "title": "Erling Haaland's last-second Norway winner while Northern Ireland promoted to Nations League top tier",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-17T22:14:54.000Z",
+    "id": "ef9e23bf7049",
+    "url": "https://www.record.pt/modalidades/atletismo/detalhe/samuel-barata-falha-maratona-de-valencia-devido-a-lesao-no-joelho",
+    "title": "Samuel Barata falha Maratona de Valência devido a lesão no joelho",
+    "ko": "사무엘 바라타, 무릎 부상으로 발렌시아 마라톤 결장",
+    "source": "record",
+    "publishedAt": "2026-11-17T23:23:32.000Z",
     "credited": null,
     "clubs": [],
-    "category": "match",
+    "category": "injury",
     "stage": null,
     "players": [
-     "엘링 홀란"
+     "사무엘 바라타"
     ],
-    "playerTags": [
-     "erling-haaland"
-    ],
+    "playerTags": [],
     "author": null,
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.81,
-  "topTier": 1,
+  "score": 1.95,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [
-   "erling-haaland"
-  ],
+  "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-17T22:14:54.000Z",
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-17T23:23:32.000Z",
    "viaQuote": false
   },
-  "headline": "Erling Haaland's last-second Norway winner while Northern Ireland promoted to Nations League top tier"
+  "headline": "Samuel Barata falha Maratona de Valência devido a lesão no joelho"
+ },
+ {
+  "slug": "pedro-neto-discipline",
+  "mode": "llm",
+  "titleKo": "페드로 네투 퇴장 후 웨일스 벤치 충돌 사건",
+  "createdAt": "2026-11-17T23:19:13.000Z",
+  "updatedAt": "2026-11-17T23:19:13.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "페드로 네투"
+  ],
+  "sig": [
+   "pedro",
+   "neto",
+   "craig",
+   "bellamy",
+   "wales",
+   "portugal"
+  ],
+  "articles": [
+   {
+    "id": "c937e8ceb7d0",
+    "url": "https://www.thesun.co.uk/sport/41055183/portuga-wales-pedro-neto-red-card-craig-bellamy/",
+    "title": "Chelsea star Pedro Neto restrained by Craig Bellamy as he clashes with Wales bench after being sent off for Portugal",
+    "ko": "페드로 네투, 퇴장 후 웨일스 벤치와 충돌해 벨라미에게 제지당해",
+    "source": "sun",
+    "publishedAt": "2026-11-17T23:19:13.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "페드로 네투"
+    ],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.58,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-17T23:19:13.000Z",
+   "viaQuote": false
+  },
+  "headline": "Chelsea star Pedro Neto restrained by Craig Bellamy as he clashes with Wales bench after being sent off for Portugal"
  },
  {
   "slug": "wales-portugal-2026-11-12",
   "mode": "llm",
   "titleKo": "웨일스 대 포르투갈 네이션스리그 경기",
   "createdAt": "2026-11-17T17:00:00.000Z",
-  "updatedAt": "2026-11-17T22:14:37.000Z",
+  "updatedAt": "2026-11-17T23:15:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [],
@@ -319,11 +373,75 @@
     "playerTags": [],
     "author": "Ben Fisher at Cardiff City Stadium",
     "transfer": null
+   },
+   {
+    "id": "71bb7928ff6d",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-de-pays-de-galles-portugal/20245775#at_medium=RSS_feeds",
+    "title": "Le résumé de pays de Galles - Portugal",
+    "ko": "웨일스 대 포르투갈 경기 요약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T22:15:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ed230d329f69",
+    "url": "https://www.record.pt/futebol/selecoes/detalhe/os-casos-do-pais-de-gales-portugal",
+    "title": "Os casos do País de Gales-Portugal",
+    "ko": "웨일스-포르투갈 경기 여파 정리",
+    "source": "record",
+    "publishedAt": "2026-11-17T22:55:41.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7ce0d860ad1d",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/as-notas-dos-jogadores-da-selecao-frente-a-gales-capitao-resgatou-orgulho-nacional",
+    "title": "As notas dos jogadores da Seleção frente a Gales: capitão resgatou orgulho nacional",
+    "ko": "포르투갈 선수 평점, 주장이 국가적 자존심 회복",
+    "source": "record",
+    "publishedAt": "2026-11-17T23:13:16.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e6f4ed54a271",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/cronica-do-pais-de-gales-portugal-2-3-uma-joia-preciosa-no-reino-da-asneira",
+    "title": "A crónica do País de Gales-Portugal, 2-3: uma joia preciosa no reino da asneira",
+    "ko": "웨일스 대 포르투갈 2-3 경기 리뷰",
+    "source": "record",
+    "publishedAt": "2026-11-17T23:15:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 8,
   "sourceCount": 8,
-  "score": 9.52,
+  "score": 8.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -345,11 +463,189 @@
   ]
  },
  {
+  "slug": "vitor-matos-swansea-transfer",
+  "mode": "llm",
+  "titleKo": "스완지 비토르 마토스 스트라스부르 이적 가능성",
+  "createdAt": "2026-11-16T23:32:23.000Z",
+  "updatedAt": "2026-11-17T23:00:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "swansea"
+  ],
+  "players": [
+   "비토르 마토스",
+   "마토스"
+  ],
+  "sig": [
+   "vítor",
+   "matos",
+   "strasbourg",
+   "hugo",
+   "oliveira"
+  ],
+  "articles": [
+   {
+    "id": "382acbf2b29b",
+    "url": "https://www.theguardian.com/football/2026/nov/16/swansea-city-head-coach-vitor-matos-strasbourg-chelsea-sister-club-ligue-1",
+    "title": "Swansea braced to lose Vítor Matos as Strasbourg seek to replace Hugo Oliveira",
+    "ko": "스완지, 비토르 마토스 이탈 대비…스트라스부르 대체자 물색",
+    "source": "guardian",
+    "publishedAt": "2026-11-16T23:32:23.000Z",
+    "credited": null,
+    "clubs": [
+     "swansea"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "비토르 마토스"
+    ],
+    "playerTags": [],
+    "author": "Ben Fisher",
+    "transfer": {
+     "player": "비토르 마토스",
+     "from": "스완지",
+     "to": "스트라스부르"
+    }
+   },
+   {
+    "id": "64e35c2af543",
+    "url": "https://www.lequipe.fr/Football/Actualites/Nouvel-entraineur-a-strasbourg-le-club-s-est-mis-d-accord-avec-le-coach-de-swansea-vitor-matos-pour-remplacer-hugo-oliveira-sur-le-banc/1744186#at_medium=RSS_feeds",
+    "title": "Nouvel entraîneur à Strasbourg : le club s'est mis d'accord avec le coach de Swansea Vitor Matos pour remplacer Hugo Oliveira sur le banc",
+    "ko": "스트라스부르, 스완지 비토르 마토스 감독 영입 합의",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T10:33:57.000Z",
+    "credited": null,
+    "clubs": [
+     "swansea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Loïc Tanzi",
+    "transfer": null
+   },
+   {
+    "id": "b2fcf8514a2e",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/swansea-city-stoke-vitor-matos-11245037",
+    "title": "Swansea City close to admitting defeat in Vitor Matos saga",
+    "ko": "스완지, 비토르 마토스 영입 협상서 사실상 패배 인정 임박",
+    "source": "stoke",
+    "publishedAt": "2026-11-17T14:23:29.000Z",
+    "credited": null,
+    "clubs": [
+     "swansea"
+    ],
+    "category": "transfer",
+    "stage": "collapsed",
+    "players": [
+     "비토르 마토스"
+    ],
+    "playerTags": [],
+    "author": "Peter Smith",
+    "transfer": {
+     "player": "비토르 마토스",
+     "from": null,
+     "to": null
+    }
+   },
+   {
+    "id": "71f9dbebe517",
+    "url": "https://www.mirror.co.uk/sport/football/news/vitor-matos-swansea-city-strasbourg-37887070",
+    "title": "Vitor Matos QUITS Championship promotion race with Swansea to join Strasbourg",
+    "ko": "비토르 마토스, 스완지 승격 경쟁 이탈해 스트라스부르행 임박",
+    "source": "mirror",
+    "publishedAt": "2026-11-17T16:01:14.000Z",
+    "credited": null,
+    "clubs": [
+     "swansea"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "비토르 마토스"
+    ],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": {
+     "player": "비토르 마토스",
+     "from": "스완지 시티",
+     "to": null
+    }
+   },
+   {
+    "id": "fb31e75fa0a2",
+    "url": "https://www.lequipe.fr/Football/Article/Les-dessous-de-l-arrivee-de-vitor-matos-a-strasbourg/1744377#at_medium=RSS_feeds",
+    "title": "Les dessous de l'arrivée de Matos",
+    "ko": "마토스 영입 뒷이야기 공개",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T23:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "swansea"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "마토스"
+    ],
+    "playerTags": [],
+    "author": "Cyril Olivès",
+    "transfer": {
+     "player": "마토스",
+     "from": null,
+     "to": "스완지 시티"
+    }
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 2.23,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "382acbf2b29b",
+    "at": "2026-11-16T23:32:23.000Z",
+    "source": "guardian",
+    "from": null,
+    "to": "interest"
+   },
+   {
+    "id": "fb31e75fa0a2",
+    "at": "2026-11-17T23:00:00.000Z",
+    "source": "lequipe",
+    "from": "interest",
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": {
+   "from": "interest",
+   "to": "negotiation",
+   "at": "2026-11-17T23:00:00.000Z",
+   "source": "lequipe"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "비토르 마토스",
+   "from": "스완지",
+   "to": "스트라스부르"
+  },
+  "firstReport": {
+   "name": "Guardian",
+   "source": "guardian",
+   "at": "2026-11-16T23:32:23.000Z",
+   "viaQuote": false
+  },
+  "headline": "Les dessous de l'arrivée de Matos"
+ },
+ {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-17T22:08:49.000Z",
+  "updatedAt": "2026-11-17T22:58:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -5266,11 +5562,29 @@
     "playerTags": [],
     "author": "Scott Trotter",
     "transfer": null
+   },
+   {
+    "id": "5769a8e12275",
+    "url": "https://www.skysports.com/football/news/12040/13613427/man-utd-boss-mauricio-pochettino-to-appoint-clubs-first-ever-female-coach-paper-talk",
+    "title": "Papers: Poch to appoint Man Utd's first-ever female coach",
+    "ko": "포체티노, 맨유 역대 첫 여성 코치 선임 예정 보도",
+    "source": "sky",
+    "publishedAt": "2026-11-17T22:58:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
-  "recentSources": 6,
+  "recentSources": 7,
   "sourceCount": 17,
-  "score": 2.26,
+  "score": 3.75,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5293,669 +5607,11 @@
   ]
  },
  {
-  "slug": "portugal-norway-2026-11-17",
-  "mode": "llm",
-  "titleKo": "포르투갈 대 노르웨이 네이션스리그 경기",
-  "createdAt": "2026-11-17T17:14:00.000Z",
-  "updatedAt": "2026-11-17T21:52:44.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "엘링 홀란"
-  ],
-  "sig": [
-   "noruega"
-  ],
-  "articles": [
-   {
-    "id": "5d487f66153c",
-    "url": "https://www.record.pt/futebol/selecoes/sub21/detalhe/20261117-171459-portugal-noruega-em-direto",
-    "title": "Portugal-Noruega, 0-0 (1.ª parte)",
-    "ko": "포르투갈 대 노르웨이 전반 0-0",
-    "source": "record",
-    "publishedAt": "2026-11-17T17:14:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "53c6af138f9f",
-    "url": "https://www.kicker.de/live-daenischer-fauxpas-fuer-nutzniesser-haaland-portugal-verspielt-1-0-und-kommt-nach-1-2-zurueck-1272061/artikel#omrss",
-    "title": "LIVE! Dänischer Fauxpas für Nutznießer Haaland - Portugal verspielt 1:0 und kommt nach 1:2 zurück",
-    "ko": "하알란드 수혜 실수 속 포르투갈 1-2 뒤집혀 복귀",
-    "source": "kicker",
-    "publishedAt": "2026-11-17T20:34:21.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "엘링 홀란"
-    ],
-    "playerTags": [
-     "erling-haaland"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "403f2d52707e",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-portugal-sauve-sa-premiere-place-la-norvege-possible-adversaire-des-bleus/1744360#at_medium=RSS_feeds",
-    "title": "Le Portugal sauve sa première place, la Norvège possible adversaire des Bleus",
-    "ko": "포르투갈 조 1위 수성, 노르웨이 프랑스 8강 상대 후보로",
-    "source": "lequipe",
-    "publishedAt": "2026-11-17T21:52:44.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Régis Dupont",
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.96,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "erling-haaland"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-17T17:14:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Le Portugal sauve sa première place, la Norvège possible adversaire des Bleus"
- },
- {
-  "slug": "norway-denmark-2026-11-17",
-  "mode": "llm",
-  "titleKo": "노르웨이 대 덴마크 네이션스리그 경기",
-  "createdAt": "2026-11-17T21:45:00.000Z",
-  "updatedAt": "2026-11-17T21:51:24.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "엘링 홀란"
-  ],
-  "sig": [
-   "finish",
-   "haaland",
-   "aufholjagd",
-   "dänemark"
-  ],
-  "articles": [
-   {
-    "id": "900d85b541c5",
-    "url": "https://www.kicker.de/dramatisches-finish-haaland-vergoldet-aufholjagd-in-daenemark-1272061/artikel#omrss",
-    "title": "Dramatisches Finish: Haaland vergoldet Aufholjagd in Dänemark",
-    "ko": "홀란, 덴마크 원정서 극적인 역전 드라마 주도",
-    "source": "kicker",
-    "publishedAt": "2026-11-17T21:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "엘링 홀란"
-    ],
-    "playerTags": [
-     "erling-haaland"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f0f3b0c9bc7d",
-    "url": "https://as.com/futbol/internacional/haaland-es-invencible-f202611-n/",
-    "title": "Milagro brutal de Haaland",
-    "ko": "홀란, 덴마크전 극적 역전 골 주인공 되다",
-    "source": "as",
-    "publishedAt": "2026-11-17T21:51:24.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "엘링 홀란"
-    ],
-    "playerTags": [
-     "erling-haaland"
-    ],
-    "author": "Óscar García",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 3.47,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "erling-haaland"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-17T21:45:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Milagro brutal de Haaland"
- },
- {
-  "slug": "northern-ireland-hungary-2026-11-17",
-  "mode": "llm",
-  "titleKo": "헝가리 대 북아일랜드 네이션스리그 경기",
-  "createdAt": "2026-11-17T21:49:00.000Z",
-  "updatedAt": "2026-11-17T21:49:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "ireland",
-   "nations",
-   "hungary"
-  ],
-  "articles": [
-   {
-    "id": "718e2525469d",
-    "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131",
-    "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
-    "ko": "북아일랜드, 헝가리 무승부로 네이션스리그 최상위 리그 승격",
-    "source": "sky",
-    "publishedAt": "2026-11-17T21:49:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.74,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-17T21:49:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Northern Ireland promoted to Nations League top tier with draw in Hungary"
- },
- {
-  "slug": "bruno-fernandes-chelsea-incident",
-  "mode": "llm",
-  "titleKo": "브루노 페르난데스 첼시 선수 충돌 사건",
-  "createdAt": "2026-11-17T21:46:34.000Z",
-  "updatedAt": "2026-11-17T21:46:34.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "chelsea"
-  ],
-  "players": [
-   "브루노 페르난데스"
-  ],
-  "sig": [
-   "fernandes"
-  ],
-  "articles": [
-   {
-    "id": "771cf1f36b90",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-portugal-34927417",
-    "title": "Bruno Fernandes drags Chelsea star off the pitch as Man United captain forced to take action",
-    "ko": "브루노 페르난데스, 첼시 선수 밀쳐 경기장 밖으로 끌어내",
-    "source": "men",
-    "publishedAt": "2026-11-17T21:46:34.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "chelsea"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": "Mikael McKenzie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.73,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bruno-fernandes"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Manchester Evening News",
-   "source": "men",
-   "at": "2026-11-17T21:46:34.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bruno Fernandes drags Chelsea star off the pitch as Man United captain forced to take action"
- },
- {
-  "slug": "peter-storey-death-incident",
-  "mode": "llm",
-  "titleKo": "아스널 전설 피터 스토리 사망 추모",
-  "createdAt": "2026-11-17T16:11:40.000Z",
-  "updatedAt": "2026-11-17T21:33:04.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "피터 스토리"
-  ],
-  "sig": [
-   "peter",
-   "storey",
-   "england"
-  ],
-  "articles": [
-   {
-    "id": "b6ee025f6262",
-    "url": "https://www.mirror.co.uk/sport/football/news/peter-storey-dead-arsenal-england-37887182",
-    "title": "Arsenal legend Peter Storey dead aged 81 as tributes pour in for England icon",
-    "ko": "아스널 전설 피터 스토리 81세로 별세",
-    "source": "mirror",
-    "publishedAt": "2026-11-17T16:11:40.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "피터 스토리"
-    ],
-    "playerTags": [],
-    "author": "Scott Trotter",
-    "transfer": null
-   },
-   {
-    "id": "79524edbd809",
-    "url": "https://www.dailystar.co.uk/sport/football/england-star-peter-storey-dies-37887200",
-    "title": "England star Peter Storey dies as Arsenal pay tribute to iconic hard man",
-    "ko": "아스널 전설 피터 스토리 별세…향년 81세",
-    "source": "star",
-    "publishedAt": "2026-11-17T16:29:06.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "피터 스토리"
-    ],
-    "playerTags": [],
-    "author": "Paul Cockerton",
-    "transfer": null
-   },
-   {
-    "id": "7a1c88d6b2e5",
-    "url": "https://www.football.london/arsenal-fc/news/peter-storey-dead-arsenal-england-34926430",
-    "title": "Peter Storey dead: Arsenal icon dies aged 81 as club plan tribute for hero",
-    "ko": "아스널 전설 피터 스토리, 81세로 사망",
-    "source": "fblondon",
-    "publishedAt": "2026-11-17T16:55:24.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "피터 스토리"
-    ],
-    "playerTags": [],
-    "author": "Scott Trotter, Mikael McKenzie",
-    "transfer": null
-   },
-   {
-    "id": "39ff86c5f580",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
-    "title": "Arsenal Double winner Storey dies aged 81",
-    "ko": "아스널 더블 멤버 스토리, 81세로 별세",
-    "source": "bbc",
-    "publishedAt": "2026-11-17T17:33:41.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "피터 스토리"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7ff9f61b1d74",
-    "url": "https://www.dailystar.co.uk/sport/football/football-legend-dies-club-pays-37887988",
-    "title": "Football legend dies as his club pays tribute to 'one of our most prolific scorers'",
-    "ko": "전설적 선수 사망 소식…구단 추모",
-    "source": "star",
-    "publishedAt": "2026-11-17T21:33:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "James Caven",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 2.39,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-17T16:11:40.000Z",
-   "viaQuote": false
-  },
-  "headline": "Arsenal Double winner Storey dies aged 81"
- },
- {
-  "slug": "nurnberg-affairs-stadium-cooperative",
-  "mode": "llm",
-  "titleKo": "뉘른베르크 새 경기장 계획 협동조합 추진",
-  "createdAt": "2026-11-17T21:15:36.000Z",
-  "updatedAt": "2026-11-17T21:15:36.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "nürnberg",
-   "stadionplänen",
-   "genossenschaft"
-  ],
-  "articles": [
-   {
-    "id": "f692bc5a857b",
-    "url": "https://www.kicker.de/warum-der-1-fc-nuernberg-bei-seinen-stadionplaenen-auf-eine-genossenschaft-setzt-1272458/artikel#omrss",
-    "title": "Warum der 1. FC Nürnberg bei seinen Stadionplänen auf eine Genossenschaft setzt",
-    "ko": "뉘른베르크, 새 경기장 계획에 협동조합 방식 도입 추진",
-    "source": "kicker",
-    "publishedAt": "2026-11-17T21:15:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.58,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-17T21:15:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Warum der 1. FC Nürnberg bei seinen Stadionplänen auf eine Genossenschaft setzt"
- },
- {
-  "slug": "jesus-ronaldo-relationship-20261117",
-  "mode": "llm",
-  "titleKo": "제수스 감독, 호날두 어머니의 '속였다' 주장에 반응",
-  "createdAt": "2026-11-17T20:41:53.000Z",
-  "updatedAt": "2026-11-17T20:41:53.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "크리스티아누 호날두"
-  ],
-  "sig": [
-   "jorge",
-   "jesus",
-   "cristiano",
-   "ronaldo"
-  ],
-  "articles": [
-   {
-    "id": "01ec1850e4f4",
-    "url": "https://www.thesun.co.uk/sport/41054127/portugal-jorge-jesus-cristiano-ronaldo-mum-dolores-aveiro/",
-    "title": "Portugal manager Jorge Jesus responds to Cristiano Ronaldo’s mum’s claims he ‘deceived’ her son",
-    "ko": "호르헤 제수스 감독, 호날두 어머니 주장에 반응",
-    "source": "sun",
-    "publishedAt": "2026-11-17T20:41:53.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "크리스티아누 호날두"
-    ],
-    "playerTags": [
-     "cristiano-ronaldo"
-    ],
-    "author": "Henry Tomlinson",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.43,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "cristiano-ronaldo"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-17T20:41:53.000Z",
-   "viaQuote": false
-  },
-  "headline": "Portugal manager Jorge Jesus responds to Cristiano Ronaldo’s mum’s claims he ‘deceived’ her son"
- },
- {
-  "slug": "mazraoui-man-utd-contract",
-  "mode": "llm",
-  "titleKo": "맨유 마즈라위 계약 검토",
-  "createdAt": "2026-11-17T20:35:00.000Z",
-  "updatedAt": "2026-11-17T20:35:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [
-   "누사이르 마즈라위"
-  ],
-  "sig": [
-   "noussair",
-   "mazraoui"
-  ],
-  "articles": [
-   {
-    "id": "033d22213f71",
-    "url": "https://www.footballinsider247.com/manchester-united/transfers/sources-man-united-to-assess-noussair-mazraoui-contract-as-defensive-overhaul-accelerates",
-    "title": "Sources: Man United to 'assess' Noussair Mazraoui contract as 'defensive overhaul' accelerates",
-    "ko": "맨유, 수비 개편 가속화 속 누사이르 마즈라위 계약 검토",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T20:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "누사이르 마즈라위"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "누사이르 마즈라위",
-     "from": "맨유",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.42,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "033d22213f71",
-    "at": "2026-11-17T20:35:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "누사이르 마즈라위",
-   "from": "맨유",
-   "to": null
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-17T20:35:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sources: Man United to 'assess' Noussair Mazraoui contract as 'defensive overhaul' accelerates"
- },
- {
-  "slug": "mario-branco-discipline",
-  "mode": "llm",
-  "titleKo": "마리우 브랑쿠 퇴장 징계 75일",
-  "createdAt": "2026-11-17T18:08:00.000Z",
-  "updatedAt": "2026-11-17T20:04:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "마리우 브랑쿠"
-  ],
-  "sig": [
-   "branco",
-   "santa",
-   "clara"
-  ],
-  "articles": [
-   {
-    "id": "8a6ab1eec497",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/mario-branco-suspenso-75-dias-pela-expulsao-frente-ao-santa-clara",
-    "title": "Mário Branco suspenso 75 dias pela expulsão frente ao Santa Clara",
-    "ko": "마리우 브랑쿠, 산타 클라라전 퇴장으로 75일 출전 정지",
-    "source": "record",
-    "publishedAt": "2026-11-17T18:08:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "마리우 브랑쿠"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b3621519a2ef",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-considera-inaceitavel-castigo-de-mario-branco-inaudito-absurdo-e-completamente-desenquadrado",
-    "title": "Benfica considera \"inaceitável\" castigo de Mário Branco: «Inaudito, absurdo e completamente desenquadrado»",
-    "ko": "벤피카, 마리우 브랑쿠 징계 '부당' 강력 반발",
-    "source": "record",
-    "publishedAt": "2026-11-17T20:04:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "마리우 브랑쿠"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.92,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-17T18:08:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Benfica considera \"inaceitável\" castigo de Mário Branco: «Inaudito, absurdo e completamente desenquadrado»"
- },
- {
   "slug": "jj-gabriel-real-madrid-transfer",
   "mode": "llm",
   "titleKo": "JJ 가브리엘 레알 마드리드 이적 임박",
   "createdAt": "2026-11-17T19:28:28.000Z",
-  "updatedAt": "2026-11-17T20:01:33.000Z",
+  "updatedAt": "2026-11-17T22:31:28.000Z",
   "category": "transfer",
   "stage": "done",
   "clubs": [
@@ -6138,11 +5794,36 @@
      "from": "맨유",
      "to": null
     }
+   },
+   {
+    "id": "ea7256ebc2a8",
+    "url": "https://www.lequipe.fr/Football/Actualites/Pressenti-au-real-madrid-jj-gabriel-fait-ses-adieux-a-manchester-united/1744375#at_medium=RSS_feeds",
+    "title": "Pressenti au Real Madrid, JJ Gabriel fait ses adieux à Manchester United",
+    "ko": "JJ 가브리엘, 레알 마드리드行 물망…맨유와 작별",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T22:31:28.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
    }
   ],
-  "recentSources": 7,
-  "sourceCount": 7,
-  "score": 6.92,
+  "recentSources": 8,
+  "sourceCount": 8,
+  "score": 7.6,
   "topTier": 1,
   "stageHistory": [
    {
@@ -6197,6 +5878,860 @@
   }
  },
  {
+  "slug": "norway-denmark-2026-11-17",
+  "mode": "llm",
+  "titleKo": "노르웨이 대 덴마크 네이션스리그 경기",
+  "createdAt": "2026-11-17T21:45:00.000Z",
+  "updatedAt": "2026-11-17T22:28:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "엘링 홀란"
+  ],
+  "sig": [
+   "finish",
+   "haaland",
+   "aufholjagd",
+   "dänemark"
+  ],
+  "articles": [
+   {
+    "id": "900d85b541c5",
+    "url": "https://www.kicker.de/dramatisches-finish-haaland-vergoldet-aufholjagd-in-daenemark-1272061/artikel#omrss",
+    "title": "Dramatisches Finish: Haaland vergoldet Aufholjagd in Dänemark",
+    "ko": "홀란, 덴마크 원정서 극적인 역전 드라마 주도",
+    "source": "kicker",
+    "publishedAt": "2026-11-17T21:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f0f3b0c9bc7d",
+    "url": "https://as.com/futbol/internacional/haaland-es-invencible-f202611-n/",
+    "title": "Milagro brutal de Haaland",
+    "ko": "홀란, 덴마크전 극적 역전 골 주인공 되다",
+    "source": "as",
+    "publishedAt": "2026-11-17T21:51:24.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": "Óscar García",
+    "transfer": null
+   },
+   {
+    "id": "3592db175739",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-de-danemark-norvege/20245780#at_medium=RSS_feeds",
+    "title": "Le résumé de Danemark - Norvège",
+    "ko": "덴마크 대 노르웨이 경기 요약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T22:11:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d98e45aa3d1c",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/a-cronica-do-dinamarca-noruega-2-3-os-nordicos-sao-frios-mas-sabem-aquecer-um-jogo-de-futebol",
+    "title": "A crónica do Dinamarca-Noruega, 2-3: os nórdicos são frios, mas sabem aquecer um jogo de futebol",
+    "ko": "덴마크 대 노르웨이 2-3 경기 평",
+    "source": "record",
+    "publishedAt": "2026-11-17T22:28:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 6.21,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "erling-haaland"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-17T21:45:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "A crónica do Dinamarca-Noruega, 2-3: os nórdicos são frios, mas sabem aquecer um jogo de futebol"
+ },
+ {
+  "slug": "northern-ireland-hungary-2026-11-17",
+  "mode": "llm",
+  "titleKo": "헝가리 대 북아일랜드 네이션스리그 경기",
+  "createdAt": "2026-11-17T21:49:00.000Z",
+  "updatedAt": "2026-11-17T22:26:45.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "저스틴 데브니"
+  ],
+  "sig": [
+   "ireland",
+   "nations",
+   "hungary"
+  ],
+  "articles": [
+   {
+    "id": "718e2525469d",
+    "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131",
+    "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
+    "ko": "북아일랜드, 헝가리 무승부로 네이션스리그 최상위 리그 승격",
+    "source": "sky",
+    "publishedAt": "2026-11-17T21:49:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "4aa8447ef442",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-irlande-du-nord-securise-sa-premiere-place-grace-a-un-bijou-de-justin-devenny-et-monte-en-ligue-a/1744374#at_medium=RSS_feeds",
+    "title": "L'Irlande du Nord sécurise sa première place grâce à un bijou de Justin Devenny et monte pour la première fois en Ligue A",
+    "ko": "북아일랜드, 데브니 골로 1위 확보…리그A 첫 승격",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T22:26:45.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "저스틴 데브니"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.14,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-17T21:49:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "L'Irlande du Nord sécurise sa première place grâce à un bijou de Justin Devenny et monte pour la première fois en Ligue A"
+ },
+ {
+  "slug": "kosovo-israel-2026-11-14",
+  "mode": "llm",
+  "titleKo": "코소보 대 이스라엘 네이션스리그 경기",
+  "createdAt": "2026-11-14T16:51:19.000Z",
+  "updatedAt": "2026-11-17T22:20:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "콜린스"
+  ],
+  "sig": [
+   "kosovo",
+   "israël",
+   "ligue"
+  ],
+  "articles": [
+   {
+    "id": "1d73b61031cc",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-kosovo-resiste-a-israel-a-dix-contre-onze-et-peut-encore-rever-de-la-ligue-des-nations-a/1743664#at_medium=RSS_feeds",
+    "title": "Le Kosovo résiste à Israël à dix contre onze et peut encore rêver de la Ligue des nations A",
+    "ko": "코소보, 열 명 싸움 끝에 이스라엘 상대로 버티며 네이션스리그 A 꿈 유지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-14T16:51:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "c017959f6b8a",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
+    "title": "Republic of Ireland captain Collins to miss Kosovo game",
+    "ko": "콜린스 주장, 코소보전 결장",
+    "source": "bbc",
+    "publishedAt": "2026-11-16T12:02:07.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "콜린스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "22fe93ea79c9",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-nations-le-resume-de-irlande-kosovo/20245777#at_medium=RSS_feeds",
+    "title": "Le résumé de Irlande - Kosovo",
+    "ko": "아일랜드 대 코소보 경기 요약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T22:20:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.62,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-14T16:51:19.000Z",
+   "viaQuote": false
+  },
+  "headline": "Republic of Ireland captain Collins to miss Kosovo game"
+ },
+ {
+  "slug": "norway-northern-ireland-2026-11-16",
+  "mode": "llm",
+  "titleKo": "노르웨이 대 북아일랜드 네이션스리그 경기",
+  "createdAt": "2026-11-17T22:14:54.000Z",
+  "updatedAt": "2026-11-17T22:14:54.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "엘링 홀란"
+  ],
+  "sig": [
+   "haaland",
+   "norway",
+   "northern",
+   "ireland",
+   "nations"
+  ],
+  "articles": [
+   {
+    "id": "1d02552e79a7",
+    "url": "https://www.nytimes.com/athletic/7790525/2026/11/17/erling-haaland-nations-league-northern-ireland-promotion/",
+    "title": "Erling Haaland's last-second Norway winner while Northern Ireland promoted to Nations League top tier",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-17T22:14:54.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.4,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "erling-haaland"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-17T22:14:54.000Z",
+   "viaQuote": false
+  },
+  "headline": "Erling Haaland's last-second Norway winner while Northern Ireland promoted to Nations League top tier"
+ },
+ {
+  "slug": "portugal-norway-2026-11-17",
+  "mode": "llm",
+  "titleKo": "포르투갈 대 노르웨이 네이션스리그 경기",
+  "createdAt": "2026-11-17T17:14:00.000Z",
+  "updatedAt": "2026-11-17T21:52:44.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "엘링 홀란"
+  ],
+  "sig": [
+   "noruega"
+  ],
+  "articles": [
+   {
+    "id": "5d487f66153c",
+    "url": "https://www.record.pt/futebol/selecoes/sub21/detalhe/20261117-171459-portugal-noruega-em-direto",
+    "title": "Portugal-Noruega, 0-0 (1.ª parte)",
+    "ko": "포르투갈 대 노르웨이 전반 0-0",
+    "source": "record",
+    "publishedAt": "2026-11-17T17:14:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "53c6af138f9f",
+    "url": "https://www.kicker.de/live-daenischer-fauxpas-fuer-nutzniesser-haaland-portugal-verspielt-1-0-und-kommt-nach-1-2-zurueck-1272061/artikel#omrss",
+    "title": "LIVE! Dänischer Fauxpas für Nutznießer Haaland - Portugal verspielt 1:0 und kommt nach 1:2 zurück",
+    "ko": "하알란드 수혜 실수 속 포르투갈 1-2 뒤집혀 복귀",
+    "source": "kicker",
+    "publishedAt": "2026-11-17T20:34:21.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "403f2d52707e",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-portugal-sauve-sa-premiere-place-la-norvege-possible-adversaire-des-bleus/1744360#at_medium=RSS_feeds",
+    "title": "Le Portugal sauve sa première place, la Norvège possible adversaire des Bleus",
+    "ko": "포르투갈 조 1위 수성, 노르웨이 프랑스 8강 상대 후보로",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T21:52:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Dupont",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 2.53,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "erling-haaland"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-17T17:14:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Le Portugal sauve sa première place, la Norvège possible adversaire des Bleus"
+ },
+ {
+  "slug": "bruno-fernandes-chelsea-incident",
+  "mode": "llm",
+  "titleKo": "브루노 페르난데스 첼시 선수 충돌 사건",
+  "createdAt": "2026-11-17T21:46:34.000Z",
+  "updatedAt": "2026-11-17T21:46:34.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "chelsea"
+  ],
+  "players": [
+   "브루노 페르난데스"
+  ],
+  "sig": [
+   "fernandes"
+  ],
+  "articles": [
+   {
+    "id": "771cf1f36b90",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-portugal-34927417",
+    "title": "Bruno Fernandes drags Chelsea star off the pitch as Man United captain forced to take action",
+    "ko": "브루노 페르난데스, 첼시 선수 밀쳐 경기장 밖으로 끌어내",
+    "source": "men",
+    "publishedAt": "2026-11-17T21:46:34.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Mikael McKenzie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.48,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bruno-fernandes"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Manchester Evening News",
+   "source": "men",
+   "at": "2026-11-17T21:46:34.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bruno Fernandes drags Chelsea star off the pitch as Man United captain forced to take action"
+ },
+ {
+  "slug": "peter-storey-death-incident",
+  "mode": "llm",
+  "titleKo": "아스널 전설 피터 스토리 사망 추모",
+  "createdAt": "2026-11-17T16:11:40.000Z",
+  "updatedAt": "2026-11-17T21:33:04.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "피터 스토리"
+  ],
+  "sig": [
+   "peter",
+   "storey",
+   "england"
+  ],
+  "articles": [
+   {
+    "id": "b6ee025f6262",
+    "url": "https://www.mirror.co.uk/sport/football/news/peter-storey-dead-arsenal-england-37887182",
+    "title": "Arsenal legend Peter Storey dead aged 81 as tributes pour in for England icon",
+    "ko": "아스널 전설 피터 스토리 81세로 별세",
+    "source": "mirror",
+    "publishedAt": "2026-11-17T16:11:40.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "피터 스토리"
+    ],
+    "playerTags": [],
+    "author": "Scott Trotter",
+    "transfer": null
+   },
+   {
+    "id": "79524edbd809",
+    "url": "https://www.dailystar.co.uk/sport/football/england-star-peter-storey-dies-37887200",
+    "title": "England star Peter Storey dies as Arsenal pay tribute to iconic hard man",
+    "ko": "아스널 전설 피터 스토리 별세…향년 81세",
+    "source": "star",
+    "publishedAt": "2026-11-17T16:29:06.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "피터 스토리"
+    ],
+    "playerTags": [],
+    "author": "Paul Cockerton",
+    "transfer": null
+   },
+   {
+    "id": "7a1c88d6b2e5",
+    "url": "https://www.football.london/arsenal-fc/news/peter-storey-dead-arsenal-england-34926430",
+    "title": "Peter Storey dead: Arsenal icon dies aged 81 as club plan tribute for hero",
+    "ko": "아스널 전설 피터 스토리, 81세로 사망",
+    "source": "fblondon",
+    "publishedAt": "2026-11-17T16:55:24.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "피터 스토리"
+    ],
+    "playerTags": [],
+    "author": "Scott Trotter, Mikael McKenzie",
+    "transfer": null
+   },
+   {
+    "id": "39ff86c5f580",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c63eg3ekxnpyo?at_medium=RSS&at_campaign=rss",
+    "title": "Arsenal Double winner Storey dies aged 81",
+    "ko": "아스널 더블 멤버 스토리, 81세로 별세",
+    "source": "bbc",
+    "publishedAt": "2026-11-17T17:33:41.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "피터 스토리"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7ff9f61b1d74",
+    "url": "https://www.dailystar.co.uk/sport/football/football-legend-dies-club-pays-37887988",
+    "title": "Football legend dies as his club pays tribute to 'one of our most prolific scorers'",
+    "ko": "전설적 선수 사망 소식…구단 추모",
+    "source": "star",
+    "publishedAt": "2026-11-17T21:33:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "James Caven",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 2.05,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-17T16:11:40.000Z",
+   "viaQuote": false
+  },
+  "headline": "Arsenal Double winner Storey dies aged 81"
+ },
+ {
+  "slug": "nurnberg-affairs-stadium-cooperative",
+  "mode": "llm",
+  "titleKo": "뉘른베르크 새 경기장 계획 협동조합 추진",
+  "createdAt": "2026-11-17T21:15:36.000Z",
+  "updatedAt": "2026-11-17T21:15:36.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "nürnberg",
+   "stadionplänen",
+   "genossenschaft"
+  ],
+  "articles": [
+   {
+    "id": "f692bc5a857b",
+    "url": "https://www.kicker.de/warum-der-1-fc-nuernberg-bei-seinen-stadionplaenen-auf-eine-genossenschaft-setzt-1272458/artikel#omrss",
+    "title": "Warum der 1. FC Nürnberg bei seinen Stadionplänen auf eine Genossenschaft setzt",
+    "ko": "뉘른베르크, 새 경기장 계획에 협동조합 방식 도입 추진",
+    "source": "kicker",
+    "publishedAt": "2026-11-17T21:15:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.35,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-17T21:15:36.000Z",
+   "viaQuote": false
+  },
+  "headline": "Warum der 1. FC Nürnberg bei seinen Stadionplänen auf eine Genossenschaft setzt"
+ },
+ {
+  "slug": "jesus-ronaldo-relationship-20261117",
+  "mode": "llm",
+  "titleKo": "제수스 감독, 호날두 어머니의 '속였다' 주장에 반응",
+  "createdAt": "2026-11-17T20:41:53.000Z",
+  "updatedAt": "2026-11-17T20:41:53.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "크리스티아누 호날두"
+  ],
+  "sig": [
+   "jorge",
+   "jesus",
+   "cristiano",
+   "ronaldo"
+  ],
+  "articles": [
+   {
+    "id": "01ec1850e4f4",
+    "url": "https://www.thesun.co.uk/sport/41054127/portugal-jorge-jesus-cristiano-ronaldo-mum-dolores-aveiro/",
+    "title": "Portugal manager Jorge Jesus responds to Cristiano Ronaldo’s mum’s claims he ‘deceived’ her son",
+    "ko": "호르헤 제수스 감독, 호날두 어머니 주장에 반응",
+    "source": "sun",
+    "publishedAt": "2026-11-17T20:41:53.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "크리스티아누 호날두"
+    ],
+    "playerTags": [
+     "cristiano-ronaldo"
+    ],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.37,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cristiano-ronaldo"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-17T20:41:53.000Z",
+   "viaQuote": false
+  },
+  "headline": "Portugal manager Jorge Jesus responds to Cristiano Ronaldo’s mum’s claims he ‘deceived’ her son"
+ },
+ {
+  "slug": "mazraoui-man-utd-contract",
+  "mode": "llm",
+  "titleKo": "맨유 마즈라위 계약 검토",
+  "createdAt": "2026-11-17T20:35:00.000Z",
+  "updatedAt": "2026-11-17T20:35:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "누사이르 마즈라위"
+  ],
+  "sig": [
+   "noussair",
+   "mazraoui"
+  ],
+  "articles": [
+   {
+    "id": "033d22213f71",
+    "url": "https://www.footballinsider247.com/manchester-united/transfers/sources-man-united-to-assess-noussair-mazraoui-contract-as-defensive-overhaul-accelerates",
+    "title": "Sources: Man United to 'assess' Noussair Mazraoui contract as 'defensive overhaul' accelerates",
+    "ko": "맨유, 수비 개편 가속화 속 누사이르 마즈라위 계약 검토",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T20:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "누사이르 마즈라위"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "누사이르 마즈라위",
+     "from": "맨유",
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.36,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "033d22213f71",
+    "at": "2026-11-17T20:35:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "누사이르 마즈라위",
+   "from": "맨유",
+   "to": null
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-17T20:35:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Man United to 'assess' Noussair Mazraoui contract as 'defensive overhaul' accelerates"
+ },
+ {
+  "slug": "mario-branco-discipline",
+  "mode": "llm",
+  "titleKo": "마리우 브랑쿠 퇴장 징계 75일",
+  "createdAt": "2026-11-17T18:08:00.000Z",
+  "updatedAt": "2026-11-17T20:04:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "마리우 브랑쿠"
+  ],
+  "sig": [
+   "branco",
+   "santa",
+   "clara"
+  ],
+  "articles": [
+   {
+    "id": "8a6ab1eec497",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/mario-branco-suspenso-75-dias-pela-expulsao-frente-ao-santa-clara",
+    "title": "Mário Branco suspenso 75 dias pela expulsão frente ao Santa Clara",
+    "ko": "마리우 브랑쿠, 산타 클라라전 퇴장으로 75일 출전 정지",
+    "source": "record",
+    "publishedAt": "2026-11-17T18:08:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "마리우 브랑쿠"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b3621519a2ef",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-considera-inaceitavel-castigo-de-mario-branco-inaudito-absurdo-e-completamente-desenquadrado",
+    "title": "Benfica considera \"inaceitável\" castigo de Mário Branco: «Inaudito, absurdo e completamente desenquadrado»",
+    "ko": "벤피카, 마리우 브랑쿠 징계 '부당' 강력 반발",
+    "source": "record",
+    "publishedAt": "2026-11-17T20:04:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "마리우 브랑쿠"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.78,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-17T18:08:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Benfica considera \"inaceitável\" castigo de Mário Branco: «Inaudito, absurdo e completamente desenquadrado»"
+ },
+ {
   "slug": "baker-millwall-discipline",
   "mode": "llm",
   "titleKo": "밀월 베이커 징계 절차",
@@ -6233,7 +6768,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.91,
+  "score": 1.63,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6286,7 +6821,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6348,7 +6883,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6572,7 +7107,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 2.02,
+  "score": 1.73,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6785,7 +7320,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.31,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6851,7 +7386,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.79,
+  "score": 1.53,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6902,7 +7437,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.04,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6951,7 +7486,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.04,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7000,7 +7535,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.04,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7574,7 +8109,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 0.31,
+  "score": 0.26,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7621,7 +8156,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.01,
+  "score": 0.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7668,7 +8203,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.01,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7717,7 +8252,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.93,
+  "score": 0.8,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7765,7 +8300,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.91,
+  "score": 0.78,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8814,7 +9349,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 2.24,
+  "score": 1.92,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8884,7 +9419,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8932,7 +9467,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.84,
+  "score": 0.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8983,7 +9518,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.84,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9039,7 +9574,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.24,
+  "score": 0.2,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9119,7 +9654,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.56,
+  "score": 0.48,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -9172,7 +9707,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.76,
+  "score": 0.65,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9231,7 +9766,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.23,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9353,9 +9888,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.92,
+  "score": 0.64,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9595,7 +10130,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9668,7 +10203,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9718,7 +10253,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9766,7 +10301,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9814,7 +10349,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.73,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9902,7 +10437,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.72,
+  "score": 0.62,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9975,7 +10510,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.71,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10076,7 +10611,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.21,
+  "score": 0.18,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10152,7 +10687,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.59,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11539,7 +12074,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 13,
-  "score": 0.69,
+  "score": 0.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11768,7 +12303,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 6,
-  "score": 2.37,
+  "score": 2.22,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11826,7 +12361,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.2,
+  "score": 0.17,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11885,7 +12420,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.96,
+  "score": 0.82,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11898,147 +12433,6 @@
    "viaQuote": false
   },
   "headline": "York City player pleads not guilty over alleged punch of Rochdale fan"
- },
- {
-  "slug": "vitor-matos-swansea-transfer",
-  "mode": "llm",
-  "titleKo": "스완지 비토르 마토스 스트라스부르 이적 가능성",
-  "createdAt": "2026-11-16T23:32:23.000Z",
-  "updatedAt": "2026-11-17T16:01:14.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "swansea"
-  ],
-  "players": [
-   "비토르 마토스"
-  ],
-  "sig": [
-   "vítor",
-   "matos",
-   "strasbourg",
-   "hugo",
-   "oliveira"
-  ],
-  "articles": [
-   {
-    "id": "382acbf2b29b",
-    "url": "https://www.theguardian.com/football/2026/nov/16/swansea-city-head-coach-vitor-matos-strasbourg-chelsea-sister-club-ligue-1",
-    "title": "Swansea braced to lose Vítor Matos as Strasbourg seek to replace Hugo Oliveira",
-    "ko": "스완지, 비토르 마토스 이탈 대비…스트라스부르 대체자 물색",
-    "source": "guardian",
-    "publishedAt": "2026-11-16T23:32:23.000Z",
-    "credited": null,
-    "clubs": [
-     "swansea"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "비토르 마토스"
-    ],
-    "playerTags": [],
-    "author": "Ben Fisher",
-    "transfer": {
-     "player": "비토르 마토스",
-     "from": "스완지",
-     "to": "스트라스부르"
-    }
-   },
-   {
-    "id": "64e35c2af543",
-    "url": "https://www.lequipe.fr/Football/Actualites/Nouvel-entraineur-a-strasbourg-le-club-s-est-mis-d-accord-avec-le-coach-de-swansea-vitor-matos-pour-remplacer-hugo-oliveira-sur-le-banc/1744186#at_medium=RSS_feeds",
-    "title": "Nouvel entraîneur à Strasbourg : le club s'est mis d'accord avec le coach de Swansea Vitor Matos pour remplacer Hugo Oliveira sur le banc",
-    "ko": "스트라스부르, 스완지 비토르 마토스 감독 영입 합의",
-    "source": "lequipe",
-    "publishedAt": "2026-11-17T10:33:57.000Z",
-    "credited": null,
-    "clubs": [
-     "swansea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Loïc Tanzi",
-    "transfer": null
-   },
-   {
-    "id": "b2fcf8514a2e",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/swansea-city-stoke-vitor-matos-11245037",
-    "title": "Swansea City close to admitting defeat in Vitor Matos saga",
-    "ko": "스완지, 비토르 마토스 영입 협상서 사실상 패배 인정 임박",
-    "source": "stoke",
-    "publishedAt": "2026-11-17T14:23:29.000Z",
-    "credited": null,
-    "clubs": [
-     "swansea"
-    ],
-    "category": "transfer",
-    "stage": "collapsed",
-    "players": [
-     "비토르 마토스"
-    ],
-    "playerTags": [],
-    "author": "Peter Smith",
-    "transfer": {
-     "player": "비토르 마토스",
-     "from": null,
-     "to": null
-    }
-   },
-   {
-    "id": "71f9dbebe517",
-    "url": "https://www.mirror.co.uk/sport/football/news/vitor-matos-swansea-city-strasbourg-37887070",
-    "title": "Vitor Matos QUITS Championship promotion race with Swansea to join Strasbourg",
-    "ko": "비토르 마토스, 스완지 승격 경쟁 이탈해 스트라스부르행 임박",
-    "source": "mirror",
-    "publishedAt": "2026-11-17T16:01:14.000Z",
-    "credited": null,
-    "clubs": [
-     "swansea"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "비토르 마토스"
-    ],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": {
-     "player": "비토르 마토스",
-     "from": "스완지 시티",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 4,
-  "score": 0.48,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "382acbf2b29b",
-    "at": "2026-11-16T23:32:23.000Z",
-    "source": "guardian",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "비토르 마토스",
-   "from": "스완지",
-   "to": "스트라스부르"
-  },
-  "firstReport": {
-   "name": "Guardian",
-   "source": "guardian",
-   "at": "2026-11-16T23:32:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Nouvel entraîneur à Strasbourg : le club s'est mis d'accord avec le coach de Swansea Vitor Matos pour remplacer Hugo Oliveira sur le banc"
  },
  {
   "slug": "croatia-czech-2026-11-15",
@@ -12094,7 +12488,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12147,7 +12541,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12198,7 +12592,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12251,7 +12645,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12308,7 +12702,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.18,
+  "score": 0.15,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12358,7 +12752,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12405,7 +12799,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.54,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12517,7 +12911,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.54,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12734,7 +13128,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.16,
+  "score": 0.14,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12821,7 +13215,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.5,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12874,7 +13268,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12935,7 +13329,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12994,7 +13388,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13056,7 +13450,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.23,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -13108,7 +13502,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13160,7 +13554,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13212,7 +13606,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13291,7 +13685,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.13,
+  "score": 0.11,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -13357,7 +13751,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13438,9 +13832,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.2,
+  "score": 0.11,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13500,7 +13894,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.11,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13648,7 +14042,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.21,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -13697,7 +14091,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13779,7 +14173,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.23,
+  "score": 0.19,
   "topTier": 3,
   "stageHistory": [
    {
@@ -13871,7 +14265,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13935,7 +14329,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14184,7 +14578,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14430,9 +14824,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 0,
   "sourceCount": 8,
-  "score": 0.34,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15112,9 +15506,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 0,
   "sourceCount": 11,
-  "score": 0.52,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15416,9 +15810,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 8,
-  "score": 0.26,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -26179,75 +26573,6 @@
    "viaQuote": false
   },
   "headline": "ITV reporter at centre of England controversy after Declan Rice and Thomas Tuchel interviews"
- },
- {
-  "slug": "kosovo-israel-2026-11-14",
-  "mode": "llm",
-  "titleKo": "코소보 대 이스라엘 네이션스리그 경기",
-  "createdAt": "2026-11-14T16:51:19.000Z",
-  "updatedAt": "2026-11-16T12:02:07.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "콜린스"
-  ],
-  "sig": [
-   "kosovo",
-   "israël",
-   "ligue"
-  ],
-  "articles": [
-   {
-    "id": "1d73b61031cc",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-kosovo-resiste-a-israel-a-dix-contre-onze-et-peut-encore-rever-de-la-ligue-des-nations-a/1743664#at_medium=RSS_feeds",
-    "title": "Le Kosovo résiste à Israël à dix contre onze et peut encore rêver de la Ligue des nations A",
-    "ko": "코소보, 열 명 싸움 끝에 이스라엘 상대로 버티며 네이션스리그 A 꿈 유지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-14T16:51:19.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "c017959f6b8a",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmlyd25gy904o?at_medium=RSS&at_campaign=rss",
-    "title": "Republic of Ireland captain Collins to miss Kosovo game",
-    "ko": "콜린스 주장, 코소보전 결장",
-    "source": "bbc",
-    "publishedAt": "2026-11-16T12:02:07.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "콜린스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-14T16:51:19.000Z",
-   "viaQuote": false
-  },
-  "headline": "Republic of Ireland captain Collins to miss Kosovo game"
  },
  {
   "slug": "connor-roberts-discipline",
@@ -114786,109 +115111,6 @@
    "viaQuote": false
   },
   "headline": "PSP trava tensão entre ultras do Nápoles e manifestantes da Acampada do Porto"
- },
- {
-  "slug": "welsh-injury",
-  "mode": "llm",
-  "titleKo": "스완지 웰시 부상 우려",
-  "createdAt": "2026-11-03T23:20:32.000Z",
-  "updatedAt": "2026-11-03T23:20:32.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "swansea"
-  ],
-  "players": [
-   "웰시"
-  ],
-  "sig": [
-   "welsh",
-   "scotland"
-  ],
-  "articles": [
-   {
-    "id": "f199fe302bfc",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l33pjgn6o?at_medium=RSS&at_campaign=rss",
-    "title": "Swansea defender Welsh in Scotland injury scare",
-    "ko": "스완지 웰시, 스코틀랜드 원정 중 부상 우려",
-    "source": "bbc",
-    "publishedAt": "2026-11-03T23:20:32.000Z",
-    "credited": null,
-    "clubs": [
-     "swansea"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "웰시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-03T23:20:32.000Z",
-   "viaQuote": false
-  },
-  "headline": "Swansea defender Welsh in Scotland injury scare"
- },
- {
-  "slug": "sporting-qarabag-2026-11-03",
-  "mode": "llm",
-  "titleKo": "스포르팅 바쿠 원정 승리, 챔피언스리그 2라운드 근접",
-  "createdAt": "2026-11-03T16:44:00.000Z",
-  "updatedAt": "2026-11-03T23:14:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "baku"
-  ],
-  "articles": [
-   {
-    "id": "50f25f0e4fc0",
-    "url": "https://www.record.pt/modalidades/voleibol/detalhe/sporting-vence-em-baku-e-fica-com-um-pe-na-2-ronda-da-champions",
-    "title": "Sporting vence em Baku e fica com um pé na 2.ª ronda da Champions",
-    "ko": "스포르팅, 바쿠 원정 승리로 챔피언스리그 2라운드 근접",
-    "source": "record",
-    "publishedAt": "2026-11-03T16:44:00.000Z",
-    "credited": null,
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null,
-    "clubs": []
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-03T16:44:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sporting vence em Baku e fica com um pé na 2.ª ronda da Champions"
  },
  {
   "slug": "galatasaray-stuttgart-2026-11-03",
