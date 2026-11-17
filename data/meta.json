@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T08:22:26.940Z",
+ "updatedAt": "2026-11-17T09:30:12.546Z",
  "hot": [
+  "jesus-de-miguel-incident",
   "norway-wales-2026-11-12",
   "rice-arsenal-contract",
-  "robertson-scotland-caps-award",
-  "liverpool-man-utd-2026-11-22",
-  "pochettino-usmnt-manager-future"
+  "germany-netherlands-2026-11-16",
+  "switzerland-scotland-2026-11-16"
  ],
  "days": [
   "2026-10-18",
@@ -40,14 +40,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 3,
+   "items": 84,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 4,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
@@ -65,7 +65,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -77,7 +77,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,14 +89,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 70
+   "added": 3,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
@@ -119,7 +119,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -143,7 +143,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,7 +155,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -173,25 +173,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 4,
+   "items": 13,
+   "added": 7,
    "authorRate": 0
   }
  },
@@ -213,6 +213,10 @@
    "count": 34
   },
   {
+   "name": "루카쿠",
+   "count": 33
+  },
+  {
    "name": "호나우지뉴",
    "count": 33
   },
@@ -222,10 +226,6 @@
   },
   {
    "name": "노이어",
-   "count": 31
-  },
-  {
-   "name": "루카쿠",
    "count": 31
   },
   {
@@ -318,39 +318,39 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
+  "recentIssues": 222,
   "singleArticleRate": 55,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
-    "count": 76
+    "count": 77
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 54
+    "count": 51
    },
    {
     "slug": "portugal-denmark-2026-11-13",
     "count": 45
    },
    {
-    "slug": "france-turkey-2026-11-13",
-    "count": 33
+    "slug": "germany-netherlands-2026-11-16",
+    "count": 35
    },
    {
-    "slug": "germany-netherlands-2026-11-16",
-    "count": 30
+    "slug": "france-turkey-2026-11-13",
+    "count": 33
    },
    {
     "slug": "belgium-italy-2026-11-12",
     "count": 21
    },
    {
-    "slug": "norway-wales-2026-11-12",
-    "count": 17
+    "slug": "thomas-frank-crystal-palace-appointment",
+    "count": 18
    },
    {
-    "slug": "thomas-frank-crystal-palace-appointment",
+    "slug": "norway-wales-2026-11-12",
     "count": 17
    },
    {
@@ -375,10 +375,6 @@
     {
      "ko": "하이메 헤수스",
      "count": 3
-    },
-    {
-     "ko": "호르헤 제주스",
-     "count": 2
     },
     {
      "ko": "하이메 제수스",
@@ -426,7 +422,7 @@
     },
     {
      "ko": "튀헬",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "튜헬",
@@ -501,32 +497,6 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보슨",
-     "count": 4
-    },
-    {
-     "ko": "스테판 보르손",
-     "count": 3
-    },
-    {
-     "ko": "스테판 보르송",
-     "count": 2
-    },
-    {
-     "ko": "스티븐 보르손",
-     "count": 1
-    },
-    {
-     "ko": "스티븐 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jurgen Klopp",
    "dictionary": null,
    "variants": [
@@ -550,7 +520,7 @@
    "variants": [
     {
      "ko": "사비",
-     "count": 4
+     "count": 6
     },
     {
      "ko": "자비",
@@ -558,6 +528,28 @@
     },
     {
      "ko": "샤비",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 4
+    },
+    {
+     "ko": "스테판 보르송",
+     "count": 2
+    },
+    {
+     "ko": "스티븐 보르손",
+     "count": 1
+    },
+    {
+     "ko": "스티븐 보슨",
      "count": 1
     }
    ]
@@ -605,6 +597,20 @@
    ]
   },
   {
+   "en": "Scherhant",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰르한트",
+     "count": 5
+    },
+    {
+     "ko": "샤르한트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jesus",
    "dictionary": null,
    "variants": [
@@ -618,20 +624,6 @@
     },
     {
      "ko": "주제",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Scherhant",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰르한트",
-     "count": 4
-    },
-    {
-     "ko": "샤르한트",
      "count": 1
     }
    ]
@@ -674,6 +666,20 @@
     },
     {
      "ko": "후벵 네베스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dan Burn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "댄 번",
+     "count": 3
+    },
+    {
+     "ko": "듀언",
      "count": 1
     }
    ]
@@ -729,15 +735,15 @@
    ]
   },
   {
-   "en": "Jurrien Timber",
+   "en": "Alanzinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "유리엔 팀버",
-     "count": 2
+     "ko": "알란지뉴",
+     "count": 3
     },
     {
-     "ko": "야프리엔 팀버",
+     "ko": "알란지뇨",
      "count": 1
     }
    ]
@@ -770,6 +776,24 @@
     },
     {
      "ko": "샤를 드 케테라레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "재미 캐러거",
+     "count": 1
+    },
+    {
+     "ko": "제이미 캐러거",
+     "count": 1
+    },
+    {
+     "ko": "카라거",
      "count": 1
     }
    ]
@@ -857,15 +881,19 @@
    ]
   },
   {
-   "en": "Dan Burn",
+   "en": "Owono",
    "dictionary": null,
    "variants": [
     {
-     "ko": "댄 번",
-     "count": 2
+     "ko": "오워노",
+     "count": 1
     },
     {
-     "ko": "듀언",
+     "ko": "오노워",
+     "count": 1
+    },
+    {
+     "ko": "오요노",
      "count": 1
     }
    ]
@@ -945,15 +973,15 @@
    ]
   },
   {
-   "en": "Alanzinho",
+   "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
     {
-     "ko": "알란지뉴",
+     "ko": "우고 올리베이라",
      "count": 2
     },
     {
-     "ko": "알란지뇨",
+     "ko": "위고 올리베이라",
      "count": 1
     }
    ]
@@ -973,15 +1001,15 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
+   "en": "Jurrien Timber",
    "dictionary": null,
    "variants": [
     {
-     "ko": "재미 캐러거",
+     "ko": "야프리엔 팀버",
      "count": 1
     },
     {
-     "ko": "제이미 캐러거",
+     "ko": "유리엔 팀버",
      "count": 1
     }
    ]
@@ -1024,20 +1052,6 @@
     },
     {
      "ko": "알란 루셀",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vítor Pinto",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 피토",
-     "count": 1
-    },
-    {
-     "ko": "빈토 핀투",
      "count": 1
     }
    ]
@@ -1141,29 +1155,15 @@
    ]
   },
   {
-   "en": "Graeme Souness",
+   "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
     {
-     "ko": "수네스",
+     "ko": "구스타보 바렐라",
      "count": 1
     },
     {
-     "ko": "그레이엄 수니스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "반 보멜",
+     "ko": "구스타부 바렐라",
      "count": 1
     }
    ]
@@ -1243,8 +1243,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 497,
-   "llm": 497
+   "collected": 537,
+   "llm": 537
   }
  },
  "llmErrors": []
