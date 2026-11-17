@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-17T02:57:31.651Z",
+ "updatedAt": "2026-11-17T03:50:02.324Z",
  "hot": [
   "pochettino-usmnt-manager-future",
   "germany-netherlands-2026-11-16",
-  "thomas-frank-crystal-palace-appointment",
   "rice-arsenal-contract",
+  "thomas-frank-crystal-palace-appointment",
   "ronaldo-tribute-2026-11-14"
  ],
  "days": [
@@ -65,7 +65,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -143,7 +143,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
@@ -318,7 +318,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 227,
+  "recentIssues": 226,
   "singleArticleRate": 58,
   "broad": [
    {
@@ -1071,20 +1071,6 @@
    ]
   },
   {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셸더럽",
-     "count": 1
-    },
-    {
-     "ko": "쉘데루프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Micael Sanhá",
    "dictionary": null,
    "variants": [
@@ -1167,6 +1153,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Graeme Souness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "수네스",
+     "count": 1
+    },
+    {
+     "ko": "그레이엄 수니스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1243,8 +1243,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 395,
-   "llm": 395
+   "collected": 397,
+   "llm": 397
   }
  },
  "llmErrors": []
