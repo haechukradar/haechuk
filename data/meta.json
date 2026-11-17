@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T19:45:58.692Z",
+ "updatedAt": "2026-11-17T20:45:57.085Z",
  "hot": [
   "jj-gabriel-real-madrid-transfer",
   "wales-portugal-2026-11-12",
@@ -47,14 +47,14 @@
   },
   "guardian": {
    "ok": true,
-   "items": 57,
+   "items": 58,
    "added": 2,
-   "authorRate": 96
+   "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -90,13 +90,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 3,
    "authorRate": 84
   },
   "fblondon": {
@@ -108,7 +108,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -120,7 +120,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 90
   },
   "waz": {
@@ -144,7 +144,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 18,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -156,7 +156,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -168,13 +168,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 97
   },
   "star": {
@@ -186,13 +186,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 3,
+   "items": 13,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -215,11 +215,11 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 34
+   "count": 36
   },
   {
    "name": "루카쿠",
-   "count": 34
+   "count": 35
   },
   {
    "name": "호나우지뉴",
@@ -319,8 +319,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
-  "singleArticleRate": 55,
+  "recentIssues": 231,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
@@ -328,7 +328,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 53
+    "count": 55
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -336,7 +336,7 @@
    },
    {
     "slug": "portugal-denmark-2026-11-13",
-    "count": 37
+    "count": 36
    },
    {
     "slug": "france-turkey-2026-11-13",
@@ -362,11 +362,11 @@
      "count": 15
     },
     {
-     "ko": "하이메 헤수스",
-     "count": 3
+     "ko": "호르헤 제수스",
+     "count": 4
     },
     {
-     "ko": "호르헤 제수스",
+     "ko": "하이메 헤수스",
      "count": 3
     },
     {
@@ -384,24 +384,6 @@
    ]
   },
   {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 18
-    },
-    {
-     "ko": "튀헬",
-     "count": 3
-    },
-    {
-     "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Ronaldinho",
    "dictionary": null,
    "variants": [
@@ -411,6 +393,24 @@
     },
     {
      "ko": "호나우지냐",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 16
+    },
+    {
+     "ko": "튀헬",
+     "count": 2
+    },
+    {
+     "ko": "튜헬",
      "count": 1
     }
    ]
@@ -1024,6 +1024,20 @@
    ]
   },
   {
+   "en": "Pablo Ortells",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파블로 오르테예스",
+     "count": 1
+    },
+    {
+     "ko": "파블로 오르텔스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "USMNT",
    "dictionary": null,
    "variants": [
@@ -1061,20 +1075,6 @@
     },
     {
      "ko": "구람",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Graeme Souness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수네스",
-     "count": 1
-    },
-    {
-     "ko": "그레이엄 수니스",
      "count": 1
     }
    ]
@@ -1228,8 +1228,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 220,
-   "llm": 220
+   "collected": 257,
+   "llm": 257
   }
  },
  "llmErrors": []
