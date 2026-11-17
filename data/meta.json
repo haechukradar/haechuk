@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T13:43:32.186Z",
+ "updatedAt": "2026-11-17T14:40:46.444Z",
  "hot": [
   "timber-arsenal-contract",
   "pochettino-man-utd-manager-future",
   "jesus-de-miguel-incident",
   "germany-netherlands-2026-11-16",
-  "pochettino-usmnt-manager-future"
+  "romario-ancelotti-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -40,20 +40,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 4,
+   "items": 81,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 58,
-   "added": 2,
+   "items": 59,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -77,7 +77,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,7 +89,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
@@ -101,7 +101,7 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -113,13 +113,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -137,7 +137,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -161,7 +161,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -173,7 +173,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 6,
    "authorRate": 97
   },
   "star": {
@@ -185,13 +185,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 7,
+   "items": 9,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -205,12 +205,12 @@
    "count": 39
   },
   {
-   "name": "프레스티아니",
+   "name": "맥스 다우먼",
    "count": 37
   },
   {
-   "name": "맥스 다우먼",
-   "count": 36
+   "name": "프레스티아니",
+   "count": 37
   },
   {
    "name": "루카쿠",
@@ -246,7 +246,7 @@
   },
   {
    "name": "웨인 루니",
-   "count": 20
+   "count": 23
   },
   {
    "name": "트레솔디",
@@ -265,12 +265,12 @@
    "count": 17
   },
   {
-   "name": "지단",
+   "name": "루이스 홀",
    "count": 17
   },
   {
-   "name": "루이스 홀",
-   "count": 16
+   "name": "지단",
+   "count": 17
   },
   {
    "name": "수비멘디",
@@ -318,8 +318,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 211,
-  "singleArticleRate": 53,
+  "recentIssues": 217,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
@@ -327,7 +327,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 55
+    "count": 52
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -555,6 +555,20 @@
    ]
   },
   {
+   "en": "Romário",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호마리우",
+     "count": 7
+    },
+    {
+     "ko": "로마리우",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Scherhant",
    "dictionary": null,
    "variants": [
@@ -569,20 +583,6 @@
    ]
   },
   {
-   "en": "Romário",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호마리우",
-     "count": 6
-    },
-    {
-     "ko": "로마리우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Alanzinho",
    "dictionary": null,
    "variants": [
@@ -592,24 +592,6 @@
     },
     {
      "ko": "알란지뇨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보슨",
-     "count": 3
-    },
-    {
-     "ko": "스테판 보르송",
-     "count": 2
-    },
-    {
-     "ko": "스티븐 보슨",
      "count": 1
     }
    ]
@@ -638,6 +620,24 @@
     },
     {
      "ko": "라민",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 2
+    },
+    {
+     "ko": "스테판 보르송",
+     "count": 2
+    },
+    {
+     "ko": "스티븐 보슨",
      "count": 1
     }
    ]
@@ -714,6 +714,24 @@
     },
     {
      "ko": "포코놀리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 3
+    },
+    {
+     "ko": "맥스 다우맨",
+     "count": 1
+    },
+    {
+     "ko": "막스 다우먼",
      "count": 1
     }
    ]
@@ -817,56 +835,6 @@
    ]
   },
   {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 2
-    },
-    {
-     "ko": "맥스 다우맨",
-     "count": 1
-    },
-    {
-     "ko": "막스 다우먼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jurrien Timber",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야프리엔 팀버",
-     "count": 1
-    },
-    {
-     "ko": "티머",
-     "count": 1
-    },
-    {
-     "ko": "유리엔 팀버",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Raúl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라울 곤살레스",
-     "count": 2
-    },
-    {
-     "ko": "라울",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lucas Da Cunha",
    "dictionary": null,
    "variants": [
@@ -894,6 +862,20 @@
     },
     {
      "ko": "회이룬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gudjon Thordarson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구드욘 토르다르손",
+     "count": 2
+    },
+    {
+     "ko": "구욘 토르다르손",
      "count": 1
     }
    ]
@@ -1018,20 +1000,6 @@
     },
     {
      "ko": "마르크 두스 산토스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "James Garner",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제임스 개리너",
-     "count": 1
-    },
-    {
-     "ko": "제임스 개너",
      "count": 1
     }
    ]
@@ -1175,6 +1143,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Duncan Ferguson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "던컨 퍼거슨",
+     "count": 1
+    },
+    {
+     "ko": "덩컨 퍼거슨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마시 아라우호",
+     "count": 1
+    },
+    {
+     "ko": "마키 아라우호",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1251,8 +1247,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 723,
-   "llm": 723
+   "collected": 759,
+   "llm": 759
   }
  },
  "llmErrors": []
