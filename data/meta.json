@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-17T04:50:42.916Z",
+ "updatedAt": "2026-11-17T05:52:34.517Z",
  "hot": [
-  "pochettino-usmnt-manager-future",
-  "germany-netherlands-2026-11-16",
   "rice-arsenal-contract",
   "thomas-frank-crystal-palace-appointment",
+  "pochettino-usmnt-manager-future",
+  "germany-netherlands-2026-11-16",
   "ronaldo-tribute-2026-11-14"
  ],
  "days": [
@@ -65,7 +65,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "marca": {
@@ -89,14 +89,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 62
+   "added": 3,
+   "authorRate": 64
   },
   "fblondon": {
    "ok": true,
@@ -107,13 +107,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -137,25 +137,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 11,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -305,20 +305,20 @@
    "count": 13
   },
   {
+   "name": "로멜루 루카쿠",
+   "count": 12
+  },
+  {
    "name": "바르콜라",
    "count": 12
   },
   {
    "name": "콘사",
    "count": 12
-  },
-  {
-   "name": "윌 랭크셔",
-   "count": 12
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
+  "recentIssues": 227,
   "singleArticleRate": 57,
   "broad": [
    {
@@ -327,7 +327,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 56
+    "count": 55
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -347,7 +347,7 @@
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 16
+    "count": 17
    },
    {
     "slug": "norway-wales-2026-11-12",
@@ -403,6 +403,20 @@
    ]
   },
   {
+   "en": "Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 26
+    },
+    {
+     "ko": "클로프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ronaldinho",
    "dictionary": null,
    "variants": [
@@ -430,20 +444,6 @@
     },
     {
      "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 25
-    },
-    {
-     "ko": "클로프",
      "count": 1
     }
    ]
@@ -959,6 +959,24 @@
    ]
   },
   {
+   "en": "Emirhan Topçu",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엠라한 토푸주",
+     "count": 1
+    },
+    {
+     "ko": "엠라한 토프추",
+     "count": 1
+    },
+    {
+     "ko": "에미르한 토츠쿠",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marc dos Santos",
    "dictionary": null,
    "variants": [
@@ -1153,20 +1171,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Graeme Souness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "수네스",
-     "count": 1
-    },
-    {
-     "ko": "그레이엄 수니스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1243,8 +1247,8 @@
    "llm": 805
   },
   "2026-11-17": {
-   "collected": 414,
-   "llm": 414
+   "collected": 434,
+   "llm": 434
   }
  },
  "llmErrors": []
