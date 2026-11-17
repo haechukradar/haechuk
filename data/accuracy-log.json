@@ -138,5 +138,85 @@
   "changeReason": "manual-resolution",
   "scores": [],
   "summary": null
+ },
+ {
+  "slug": "jj-gabriel-real-madrid-transfer",
+  "title": "JJ 가브리엘 레알 마드리드 이적 임박",
+  "players": [],
+  "transfer": {
+   "player": "JJ 가브리엘",
+   "from": "맨유",
+   "to": "레알 마드리드"
+  },
+  "result": "done",
+  "inferred": false,
+  "manual": false,
+  "note": null,
+  "resolvedAt": "2026-11-17T19:35:06.000Z",
+  "firstReportAt": "2026-11-17T18:29:00.000Z",
+  "durationDays": 0,
+  "scoredAt": "2026-11-17T19:45:58.692Z",
+  "revision": 0,
+  "scores": [
+   {
+    "source": "sky",
+    "tier": 2,
+    "lastStage": "negotiation",
+    "author": null,
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T18:29:00.000Z",
+    "leadHours": 1.1
+   },
+   {
+    "source": "as",
+    "tier": 2,
+    "lastStage": "negotiation",
+    "author": "Aritz Gabilondo",
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T18:42:26.000Z",
+    "leadHours": 0.9
+   },
+   {
+    "source": "sun",
+    "tier": 4,
+    "lastStage": "negotiation",
+    "author": "Mitchell Hall",
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T18:43:19.000Z",
+    "leadHours": 0.9
+   },
+   {
+    "source": "mirror",
+    "tier": 4,
+    "lastStage": "done",
+    "author": "Felix Keith",
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T19:28:28.000Z",
+    "leadHours": 0.1
+   },
+   {
+    "source": "bbc",
+    "tier": 1,
+    "lastStage": "done",
+    "author": null,
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T19:35:06.000Z",
+    "leadHours": 0
+   }
+  ],
+  "summary": {
+   "scored": 5,
+   "hits": 5,
+   "excluded": 0,
+   "firstCorrect": {
+    "source": "sky",
+    "leadHours": 1.1
+   }
+  }
  }
 ]

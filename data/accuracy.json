@@ -1,6 +1,112 @@
 {
- "generatedAt": "2026-11-17T18:36:39.682Z",
+ "generatedAt": "2026-11-17T19:45:58.692Z",
  "minSampleForDisplay": 10,
- "resolvedIssues": 0,
- "sources": {}
+ "resolvedIssues": 1,
+ "sources": {
+  "sky": {
+   "name": "Sky Sports",
+   "tier": 2,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 1.1,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 1.1,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "as": {
+   "name": "AS",
+   "tier": 2,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 0.9,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 0.9,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "sun": {
+   "name": "The Sun",
+   "tier": 4,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 0.9,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 0.9,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "mirror": {
+   "name": "Mirror",
+   "tier": 4,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 0.1,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 0.1,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "bbc": {
+   "name": "BBC Sport",
+   "tier": 1,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 0,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 0,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  }
+ }
 }
