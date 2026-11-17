@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T20:45:57.085Z",
+ "updatedAt": "2026-11-17T21:43:39.061Z",
  "hot": [
   "jj-gabriel-real-madrid-transfer",
   "wales-portugal-2026-11-12",
@@ -41,20 +41,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
+   "items": 80,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 8,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -90,14 +90,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 84
+   "added": 1,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
@@ -144,7 +144,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -156,7 +156,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -168,19 +168,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -191,8 +191,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 4,
+   "items": 10,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -319,8 +319,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 231,
-  "singleArticleRate": 54,
+  "recentIssues": 230,
+  "singleArticleRate": 55,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
@@ -328,19 +328,19 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 55
+    "count": 54
    },
    {
     "slug": "germany-netherlands-2026-11-16",
     "count": 37
    },
    {
-    "slug": "portugal-denmark-2026-11-13",
-    "count": 36
-   },
-   {
     "slug": "france-turkey-2026-11-13",
     "count": 31
+   },
+   {
+    "slug": "portugal-denmark-2026-11-13",
+    "count": 27
    },
    {
     "slug": "belgium-italy-2026-11-12",
@@ -403,7 +403,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 16
+     "count": 15
     },
     {
      "ko": "튀헬",
@@ -411,28 +411,6 @@
     },
     {
      "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 5
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -477,6 +455,28 @@
     },
     {
      "ko": "클린스만",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "투헬",
+     "count": 4
+    },
+    {
+     "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -614,20 +614,6 @@
    ]
   },
   {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민 야말",
-     "count": 4
-    },
-    {
-     "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Dan Burn",
    "dictionary": null,
    "variants": [
@@ -714,20 +700,6 @@
    ]
   },
   {
-   "en": "Arsène Wenger",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "벵거",
-     "count": 3
-    },
-    {
-     "ko": "아르센 웽거",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mohya",
    "dictionary": null,
    "variants": [
@@ -755,6 +727,20 @@
     },
     {
      "ko": "스테판 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 3
+    },
+    {
+     "ko": "라민",
      "count": 1
     }
    ]
@@ -788,15 +774,15 @@
    ]
   },
   {
-   "en": "Hojlund",
+   "en": "Arsène Wenger",
    "dictionary": null,
    "variants": [
     {
-     "ko": "회를룬",
+     "ko": "벵거",
      "count": 2
     },
     {
-     "ko": "회이룬",
+     "ko": "아르센 웽거",
      "count": 1
     }
    ]
@@ -1148,6 +1134,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Arda Güler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아르다 귈러",
+     "count": 1
+    },
+    {
+     "ko": "아르다 귈레르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1228,8 +1228,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 257,
-   "llm": 257
+   "collected": 274,
+   "llm": 274
   }
  },
  "llmErrors": []
