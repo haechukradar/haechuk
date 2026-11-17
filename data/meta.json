@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T15:34:37.463Z",
+ "updatedAt": "2026-11-17T16:42:15.170Z",
  "hot": [
   "timber-arsenal-contract",
   "pochettino-man-utd-manager-future",
   "jesus-de-miguel-incident",
-  "germany-netherlands-2026-11-16",
-  "romario-ancelotti-relationship"
+  "spain-england-2026-11-14",
+  "germany-netherlands-2026-11-16"
  ],
  "days": [
   "2026-10-18",
@@ -42,26 +42,26 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 1,
-   "authorRate": 97
+   "items": 57,
+   "added": 3,
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 18,
-   "added": 3,
-   "authorRate": 89
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 8,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,12 +97,12 @@
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 80
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -114,13 +114,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -138,13 +138,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,13 +162,13 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -180,18 +180,18 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
+   "items": 12,
    "added": 2,
    "authorRate": 0
   }
@@ -238,12 +238,12 @@
    "count": 29
   },
   {
-   "name": "JJ 가브리엘",
+   "name": "웨인 루니",
    "count": 28
   },
   {
-   "name": "웨인 루니",
-   "count": 27
+   "name": "JJ 가브리엘",
+   "count": 28
   },
   {
    "name": "알리송",
@@ -302,6 +302,10 @@
    "count": 13
   },
   {
+   "name": "트루빈",
+   "count": 13
+  },
+  {
    "name": "하베르츠",
    "count": 13
   },
@@ -312,23 +316,19 @@
   {
    "name": "로멜루 루카쿠",
    "count": 12
-  },
-  {
-   "name": "바르콜라",
-   "count": 12
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
-  "singleArticleRate": 54,
+  "recentIssues": 226,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
-    "count": 77
+    "count": 78
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 51
+    "count": 52
    },
    {
     "slug": "portugal-denmark-2026-11-13",
@@ -352,10 +352,6 @@
    },
    {
     "slug": "jesus-de-miguel-incident",
-    "count": 15
-   },
-   {
-    "slug": "norway-wales-2026-11-12",
     "count": 15
    },
    {
@@ -394,10 +390,6 @@
      "count": 1
     },
     {
-     "ko": "조르제 예수스",
-     "count": 1
-    },
-    {
      "ko": "조르제 제수스",
      "count": 1
     }
@@ -427,7 +419,7 @@
    "variants": [
     {
      "ko": "호나우지뉴",
-     "count": 22
+     "count": 21
     },
     {
      "ko": "호나우지냐",
@@ -502,6 +494,24 @@
    ]
   },
   {
+   "en": "Jürgen Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 8
+    },
+    {
+     "ko": "위르겐 클롭",
+     "count": 2
+    },
+    {
+     "ko": "클린스만",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -519,24 +529,6 @@
     },
     {
      "ko": "사비 알론소",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 8
-    },
-    {
-     "ko": "클린스만",
-     "count": 1
-    },
-    {
-     "ko": "위르겐 클롭",
      "count": 1
     }
    ]
@@ -626,6 +618,20 @@
    ]
   },
   {
+   "en": "Dan Burn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "댄 번",
+     "count": 5
+    },
+    {
+     "ko": "듀언",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jesus",
    "dictionary": null,
    "variants": [
@@ -639,60 +645,6 @@
     },
     {
      "ko": "주제",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보슨",
-     "count": 2
-    },
-    {
-     "ko": "스테판 보르송",
-     "count": 2
-    },
-    {
-     "ko": "스티븐 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 4
-    },
-    {
-     "ko": "듀언",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오워노",
-     "count": 2
-    },
-    {
-     "ko": "오와노",
-     "count": 1
-    },
-    {
-     "ko": "오요노",
-     "count": 1
-    },
-    {
-     "ko": "오노워",
      "count": 1
     }
    ]
@@ -780,6 +732,24 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르송",
+     "count": 2
+    },
+    {
+     "ko": "스티븐 보슨",
+     "count": 1
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rúben Neves",
    "dictionary": null,
    "variants": [
@@ -817,6 +787,28 @@
     },
     {
      "ko": "블라터",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오와노",
+     "count": 1
+    },
+    {
+     "ko": "오워노",
+     "count": 1
+    },
+    {
+     "ko": "오요노",
+     "count": 1
+    },
+    {
+     "ko": "오노워",
      "count": 1
     }
    ]
@@ -992,6 +984,20 @@
    ]
   },
   {
+   "en": "Hincapie",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "힌카피에",
+     "count": 2
+    },
+    {
+     "ko": "히칸피에",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marc dos Santos",
    "dictionary": null,
    "variants": [
@@ -1158,20 +1164,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Maxi Araújo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마시 아라우호",
-     "count": 1
-    },
-    {
-     "ko": "마키 아라우호",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1252,8 +1244,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 33,
-   "llm": 33
+   "collected": 81,
+   "llm": 81
   }
  },
  "llmErrors": []
