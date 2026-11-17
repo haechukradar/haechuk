@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-17T21:43:39.061Z",
+ "updatedAt": "2026-11-17T22:37:46.704Z",
  "hot": [
-  "jj-gabriel-real-madrid-transfer",
   "wales-portugal-2026-11-12",
-  "peter-storey-death-incident",
-  "timber-arsenal-contract",
-  "pochettino-man-utd-manager-future"
+  "jj-gabriel-real-madrid-transfer",
+  "norway-denmark-2026-11-17",
+  "portugal-norway-2026-11-17",
+  "peter-storey-death-incident"
  ],
  "days": [
   "2026-10-18",
@@ -42,19 +42,19 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,19 +96,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 78
+   "added": 5,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -144,7 +144,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -174,13 +174,13 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -191,8 +191,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 1,
+   "items": 8,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -319,7 +319,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
+  "recentIssues": 229,
   "singleArticleRate": 55,
   "broad": [
    {
@@ -328,7 +328,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 54
+    "count": 56
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -339,16 +339,16 @@
     "count": 31
    },
    {
-    "slug": "portugal-denmark-2026-11-13",
-    "count": 27
-   },
-   {
     "slug": "belgium-italy-2026-11-12",
     "count": 21
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
     "count": 20
+   },
+   {
+    "slug": "portugal-denmark-2026-11-13",
+    "count": 15
    }
   ]
  },
@@ -359,7 +359,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 15
+     "count": 16
     },
     {
      "ko": "호르헤 제수스",
@@ -370,15 +370,11 @@
      "count": 3
     },
     {
-     "ko": "하이메 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르즈 제주스",
-     "count": 2
-    },
-    {
      "ko": "조르제 제수스",
+     "count": 2
+    },
+    {
+     "ko": "하이메 제수스",
      "count": 1
     }
    ]
@@ -403,7 +399,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 15
+     "count": 14
     },
     {
      "ko": "튀헬",
@@ -614,6 +610,20 @@
    ]
   },
   {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 3
+    },
+    {
+     "ko": "라민",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Dan Burn",
    "dictionary": null,
    "variants": [
@@ -727,34 +737,6 @@
     },
     {
      "ko": "스테판 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민 야말",
-     "count": 3
-    },
-    {
-     "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rúben Neves",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루벤 네베스",
-     "count": 3
-    },
-    {
-     "ko": "후벵 네베스",
      "count": 1
     }
    ]
@@ -912,6 +894,20 @@
    ]
   },
   {
+   "en": "Rúben Neves",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루벤 네베스",
+     "count": 2
+    },
+    {
+     "ko": "후벵 네베스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hincapie",
    "dictionary": null,
    "variants": [
@@ -935,6 +931,20 @@
     },
     {
      "ko": "마르크 두스 산토스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를루스 포브스",
+     "count": 2
+    },
+    {
+     "ko": "카를로스 포브스",
      "count": 1
     }
    ]
@@ -1122,20 +1132,6 @@
    ]
   },
   {
-   "en": "Rui Borges",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 보르게스",
-     "count": 1
-    },
-    {
-     "ko": "루이 보르헤스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Arda Güler",
    "dictionary": null,
    "variants": [
@@ -1228,8 +1224,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 274,
-   "llm": 274
+   "collected": 310,
+   "llm": 310
   }
  },
  "llmErrors": []
