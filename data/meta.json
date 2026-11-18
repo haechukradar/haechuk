@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-18T11:37:50.373Z",
+ "updatedAt": "2026-11-18T12:39:32.459Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "infantino-fifa-affairs-comeback",
-  "wales-portugal-2026-11-12",
-  "vinicius-real-madrid-relationship",
+  "guler-contract",
+  "arda-guler-contract",
   "pochettino-usmnt-manager-future"
  ],
  "days": [
@@ -42,13 +42,13 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
@@ -90,13 +90,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 2,
    "authorRate": 68
   },
   "fblondon": {
@@ -108,7 +108,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -120,7 +120,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 3,
    "authorRate": 90
   },
   "waz": {
@@ -132,13 +132,13 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -156,7 +156,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -174,7 +174,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 4,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
@@ -191,8 +191,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 8,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -203,7 +203,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 40
+   "count": 41
   },
   {
    "name": "오워노",
@@ -294,6 +294,10 @@
    "count": 14
   },
   {
+   "name": "벤 화이트",
+   "count": 14
+  },
+  {
    "name": "리산드로 마르티네스",
    "count": 13
   },
@@ -312,23 +316,19 @@
   {
    "name": "트루빈",
    "count": 13
-  },
-  {
-   "name": "하베르츠",
-   "count": 13
   }
  ],
  "issueHealth": {
-  "recentIssues": 233,
-  "singleArticleRate": 57,
+  "recentIssues": 236,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 74
+    "count": 73
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 71
+    "count": 70
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -348,11 +348,11 @@
    },
    {
     "slug": "belgium-italy-2026-11-12",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 17
+    "count": 18
    }
   ]
  },
@@ -426,28 +426,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 5
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 3
-    },
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -465,6 +443,28 @@
     },
     {
      "ko": "사비 알론소",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 4
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 3
+    },
+    {
+     "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -578,6 +578,20 @@
    ]
   },
   {
+   "en": "Vasco Peso",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바스쿠 페소",
+     "count": 6
+    },
+    {
+     "ko": "바스코 페소",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -620,16 +634,16 @@
    ]
   },
   {
-   "en": "Vasco Peso",
+   "en": "Arda Güler",
    "dictionary": null,
    "variants": [
     {
-     "ko": "바스쿠 페소",
-     "count": 5
+     "ko": "아르다 귈러",
+     "count": 3
     },
     {
-     "ko": "바스코 페소",
-     "count": 1
+     "ko": "아르다 귈레르",
+     "count": 2
     }
    ]
   },
@@ -720,20 +734,6 @@
    ]
   },
   {
-   "en": "Arda Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아르다 귈러",
-     "count": 2
-    },
-    {
-     "ko": "아르다 귈레르",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Jorge Simão",
    "dictionary": null,
    "variants": [
@@ -788,15 +788,29 @@
    ]
   },
   {
-   "en": "Mohya",
+   "en": "Ivan Toney",
    "dictionary": null,
    "variants": [
     {
-     "ko": "모야",
-     "count": 2
+     "ko": "이반 토니",
+     "count": 3
     },
     {
-     "ko": "모히아",
+     "ko": "아이반 토니",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마토스",
+     "count": 3
+    },
+    {
+     "ko": "마티오스",
      "count": 1
     }
    ]
@@ -960,34 +974,6 @@
    ]
   },
   {
-   "en": "Ivan Toney",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이반 토니",
-     "count": 2
-    },
-    {
-     "ko": "아이반 토니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마토스",
-     "count": 2
-    },
-    {
-     "ko": "마티오스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Pedro Neto",
    "dictionary": null,
    "variants": [
@@ -1095,6 +1081,20 @@
     },
     {
      "ko": "가크포",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모히아",
+     "count": 1
+    },
+    {
+     "ko": "모야",
      "count": 1
     }
    ]
@@ -1220,8 +1220,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 617,
-   "llm": 617
+   "collected": 659,
+   "llm": 659
   }
  },
  "llmErrors": []
