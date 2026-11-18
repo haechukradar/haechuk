@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T23:31:56.779Z",
+ "updatedAt": "2026-11-18T00:33:22.187Z",
  "hot": [
   "wales-portugal-2026-11-12",
   "jj-gabriel-real-madrid-transfer",
@@ -41,20 +41,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 1,
+   "items": 81,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 1,
+   "items": 58,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -90,13 +90,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 2,
    "authorRate": 68
   },
   "fblondon": {
@@ -144,7 +144,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 16,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -174,7 +174,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "star": {
@@ -191,7 +191,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -343,12 +343,12 @@
     "count": 21
    },
    {
-    "slug": "thomas-frank-crystal-palace-appointment",
+    "slug": "wales-portugal-2026-11-12",
     "count": 20
    },
    {
-    "slug": "wales-portugal-2026-11-12",
-    "count": 18
+    "slug": "thomas-frank-crystal-palace-appointment",
+    "count": 20
    }
   ]
  },
@@ -359,7 +359,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 18
+     "count": 19
     },
     {
      "ko": "호르헤 제수스",
@@ -368,10 +368,6 @@
     {
      "ko": "조르제 제수스",
      "count": 2
-    },
-    {
-     "ko": "하이메 헤수스",
-     "count": 1
     }
    ]
   },
@@ -496,20 +492,6 @@
    ]
   },
   {
-   "en": "Romário",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호마리우",
-     "count": 7
-    },
-    {
-     "ko": "로마리우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Scherhant",
    "dictionary": null,
    "variants": [
@@ -533,6 +515,20 @@
     },
     {
      "ko": "팀미 시몬스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Romário",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호마리우",
+     "count": 6
+    },
+    {
+     "ko": "로마리우",
      "count": 1
     }
    ]
@@ -1220,8 +1216,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 344,
-   "llm": 344
+   "collected": 355,
+   "llm": 355
   }
  },
  "llmErrors": []
