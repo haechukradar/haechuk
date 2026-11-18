@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T03:48:01.692Z",
+ "updatedAt": "2026-11-18T04:52:45.468Z",
  "hot": [
   "wales-portugal-2026-11-12",
   "jj-gabriel-real-madrid-transfer",
@@ -54,7 +54,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,7 +96,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 68
   },
   "fblondon": {
@@ -108,7 +108,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -150,7 +150,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 6,
    "authorRate": 0
   },
   "hln": {
@@ -319,8 +319,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 56,
+  "recentIssues": 224,
+  "singleArticleRate": 55,
   "broad": [
    {
     "slug": "spain-england-2026-11-14",
@@ -328,7 +328,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 57
+    "count": 56
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -1100,20 +1100,6 @@
    ]
   },
   {
-   "en": "Maxi Araújo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마시 아라우호",
-     "count": 1
-    },
-    {
-     "ko": "마키 아라우호",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Arda Güler",
    "dictionary": null,
    "variants": [
@@ -1137,6 +1123,20 @@
     },
     {
      "ko": "픽포드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lucas Furtado",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카스 푸르타도",
+     "count": 1
+    },
+    {
+     "ko": "루카스 푸르타두",
      "count": 1
     }
    ]
@@ -1220,8 +1220,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 371,
-   "llm": 371
+   "collected": 385,
+   "llm": 385
   }
  },
  "llmErrors": []
