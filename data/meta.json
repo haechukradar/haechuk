@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T00:33:22.187Z",
+ "updatedAt": "2026-11-18T01:58:56.708Z",
  "hot": [
   "wales-portugal-2026-11-12",
   "jj-gabriel-real-madrid-transfer",
@@ -42,7 +42,7 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -96,7 +96,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 68
   },
   "fblondon": {
@@ -191,7 +191,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 2,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -206,15 +206,15 @@
    "count": 39
   },
   {
+   "name": "프레스티아니",
+   "count": 38
+  },
+  {
    "name": "맥스 다우먼",
    "count": 37
   },
   {
    "name": "JJ 가브리엘",
-   "count": 37
-  },
-  {
-   "name": "프레스티아니",
    "count": 37
   },
   {
@@ -319,7 +319,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
+  "recentIssues": 225,
   "singleArticleRate": 56,
   "broad": [
    {
@@ -1110,20 +1110,6 @@
    ]
   },
   {
-   "en": "Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브루노 페르난데스",
-     "count": 1
-    },
-    {
-     "ko": "브루노 기마랑이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Arda Güler",
    "dictionary": null,
    "variants": [
@@ -1133,6 +1119,20 @@
     },
     {
      "ko": "아르다 귈레르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pickford",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "피크포드",
+     "count": 1
+    },
+    {
+     "ko": "픽포드",
      "count": 1
     }
    ]
@@ -1216,8 +1216,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 355,
-   "llm": 355
+   "collected": 363,
+   "llm": 363
   }
  },
  "llmErrors": []
