@@ -1,10 +1,85 @@
 [
  {
+  "slug": "nusa-arsenal-man-city-transfer",
+  "mode": "llm",
+  "titleKo": "아스널·맨시티 누사 영입 관심",
+  "createdAt": "2026-11-18T10:00:00.000Z",
+  "updatedAt": "2026-11-18T10:00:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "arsenal",
+   "man-city"
+  ],
+  "players": [
+   "안토니오 누사"
+  ],
+  "sig": [
+   "antonio",
+   "nusa",
+   "norwegian"
+  ],
+  "articles": [
+   {
+    "id": "de6cf75f8689",
+    "url": "https://www.footballinsider247.com/arsenal/ive-heard-arsenal-and-man-city-want-antonio-nusa-this-is-what-he-will-cost-them-norwegian-expert",
+    "title": "'I've heard' Arsenal and Man City want Antonio Nusa, this is what he will cost them - Norwegian expert",
+    "ko": "아스널·맨시티, 안토니오 누사 영입 관심 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T10:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "man-city"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "안토니오 누사"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "안토니오 누사",
+     "from": null,
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.55,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "de6cf75f8689",
+    "at": "2026-11-18T10:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "안토니오 누사",
+   "from": null,
+   "to": null
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-18T10:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "'I've heard' Arsenal and Man City want Antonio Nusa, this is what he will cost them - Norwegian expert"
+ },
+ {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-18T09:27:18.000Z",
+  "updatedAt": "2026-11-18T09:56:57.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -5196,6 +5271,42 @@
     "transfer": null
    },
    {
+    "id": "9128e380388e",
+    "url": "https://www.skysports.com/football/news/12040/13613499/mauricio-pochettino-incoming-manchester-united-head-coach-calls-for-time-to-topple-manchester-city-ahead-of-old-trafford-arrival",
+    "title": "Pochettino vows to make Manchester red again",
+    "ko": "포체티노, 맨유를 다시 붉게 만들겠다고 다짐",
+    "source": "sky",
+    "publishedAt": "2026-11-18T09:21:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d994e4c18a72",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-makes-immediate-manchester-34927901",
+    "title": "Mauricio Pochettino makes immediate Manchester United vow",
+    "ko": "포체티노, 맨유에 즉각적인 다짐 전해",
+    "source": "men",
+    "publishedAt": "2026-11-18T09:26:12.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
     "id": "e42c48625d7a",
     "url": "https://www.kicker.de/ihr-werdet-schon-sehen-pochettino-will-manchester-wieder-rot-machen-1272543/artikel#omrss",
     "title": "\"Ihr werdet schon sehen\": Pochettino will Manchester wieder rot machen",
@@ -5231,11 +5342,84 @@
     "playerTags": [],
     "author": "Danny Rust",
     "transfer": null
+   },
+   {
+    "id": "f8c81d63ddb9",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-training-decision-made-34927842",
+    "title": "Manchester United training decision made as Mauricio Pochettino plans Carrington visit",
+    "ko": "포체티노, 맨유 훈련 결정과 캐링턴 방문 계획 발표",
+    "source": "men",
+    "publishedAt": "2026-11-18T09:31:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "fc729245344b",
+    "url": "https://www.dailystar.co.uk/sport/football/manchester-united-first-female-coach-37888617",
+    "title": "Meet Man Utd's first ever female coach as Mauricio Pochettino assembles staff",
+    "ko": "포체티노, 맨유 코치진 구성 공개와 여성 코치 선임",
+    "source": "star",
+    "publishedAt": "2026-11-18T09:31:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "43980434fdac",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-pochettino-rule-changes-37888646",
+    "title": "Mauricio Pochettino changing three things at Man Utd right away after 'non-stop phone calls'",
+    "ko": "포체티노, 맨유에서 즉시 세 가지 바꿀 계획",
+    "source": "mirror",
+    "publishedAt": "2026-11-18T09:44:55.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Dan Burnham",
+    "transfer": null
+   },
+   {
+    "id": "33d313013b63",
+    "url": "https://www.mirror.co.uk/sport/football/news/25-criticisms-mauricio-pochettino-chelsea-37888911",
+    "title": "25 criticisms of Mauricio Pochettino at Chelsea and how much Man Utd should really worry",
+    "ko": "포체티노의 첼시 시절 비판 25가지와 맨유가 걱정할 부분",
+    "source": "mirror",
+    "publishedAt": "2026-11-18T09:56:57.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross, Bobby Vincent, Steven Railston",
+    "transfer": null
    }
   ],
-  "recentSources": 11,
+  "recentSources": 10,
   "sourceCount": 17,
-  "score": 10.3,
+  "score": 8.64,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5256,6 +5440,131 @@
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "jesus-hojlund-relationship",
+  "mode": "llm",
+  "titleKo": "제수스 아들, 호이룬트 도발 논란",
+  "createdAt": "2026-11-18T09:56:00.000Z",
+  "updatedAt": "2026-11-18T09:56:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "호이룬트"
+  ],
+  "sig": [
+   "jorge",
+   "jesus",
+   "hojlund",
+   "dinamarca",
+   "liga",
+   "nações"
+  ],
+  "articles": [
+   {
+    "id": "4bcf339ca01a",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/liga-das-nacoes/detalhe/filho-de-jorge-jesus-provoca-hojlund-apos-falhanco-da-dinamarca-na-liga-das-nacoes",
+    "title": "Filho de Jorge Jesus provoca Hojlund após falhanço da Dinamarca na Liga das Nações",
+    "ko": "제수스의 아들, 네이션스리그 실패 후 호이룬트 도발",
+    "source": "record",
+    "publishedAt": "2026-11-18T09:56:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "호이룬트"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.8,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-18T09:56:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Filho de Jorge Jesus provoca Hojlund após falhanço da Dinamarca na Liga das Nações"
+ },
+ {
+  "slug": "infantino-fifa-affairs-comeback",
+  "mode": "llm",
+  "titleKo": "FIFA 회장 선거 관련 일본 후보 등록",
+  "createdAt": "2026-11-18T06:55:02.000Z",
+  "updatedAt": "2026-11-18T09:39:34.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "타시마 고조"
+  ],
+  "sig": [
+   "fifa",
+   "gianni",
+   "infantino"
+  ],
+  "articles": [
+   {
+    "id": "bdd12cc92448",
+    "url": "https://www.nytimes.com/athletic/7790138/2026/11/18/fifa-infantino-ffe-election-uefa/",
+    "title": "How FIFA president Gianni Infantino battled back from the brink",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-18T06:55:02.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "361ea3ce4631",
+    "url": "https://www.record.pt/internacional/detalhe/japao-formaliza-candidatura-de-kozo-tashima-para-presidente-da-fifa",
+    "title": "Japão formaliza candidatura de Kozo Tashima para presidente da FIFA",
+    "ko": "일본, 타시마 고조 FIFA 회장 후보 공식 등록",
+    "source": "record",
+    "publishedAt": "2026-11-18T09:39:34.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "타시마 고조"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.32,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-18T06:55:02.000Z",
+   "viaQuote": false
+  },
+  "headline": "How FIFA president Gianni Infantino battled back from the brink"
  },
  {
   "slug": "youth-player-death-2026-11-16-incident",
@@ -5338,11 +5647,27 @@
     "playerTags": [],
     "author": "Jordi De Koninck",
     "transfer": null
+   },
+   {
+    "id": "dafacfa0f42a",
+    "url": "https://www.hln.be/buitenlands-voetbal/amper-twee-weken-na-de-dood-van-tenerife-spits-jesus-de-miguel-argentijnse-voetballer-18-sterft-nadat-hij-bal-met-ongewone-kracht-vol-op-hoofd-krijgt~add0b548/",
+    "title": "Amper twee weken na de dood van Tenerife-spits Jesús de Miguel: Argentijnse voetballer (18) sterft nadat hij bal met “ongewone kracht” vol op hoofd krijgt",
+    "ko": "테네리페 공격수 헤수스 데 미겔 사망 2주 만에 아르헨티나 18세 선수 사고 사망",
+    "source": "hln",
+    "publishedAt": "2026-11-18T09:19:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jordi De Koninck",
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 1.16,
+  "score": 0.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5734,9 +6059,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 6,
+  "recentSources": 2,
   "sourceCount": 8,
-  "score": 1.78,
+  "score": 0.72,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5804,7 +6129,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.92,
+  "score": 1.6,
   "topTier": 2,
   "stageHistory": [
    {
@@ -5902,7 +6227,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.53,
+  "score": 0.45,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5955,7 +6280,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.7,
+  "score": 1.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6003,7 +6328,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.7,
+  "score": 1.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6062,7 +6387,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.5,
+  "score": 0.42,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6358,7 +6683,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 3.73,
+  "score": 3.12,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6419,7 +6744,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.65,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6489,7 +6814,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6550,7 +6875,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6605,7 +6930,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -6688,7 +7013,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.48,
+  "score": 0.4,
   "topTier": 4,
   "stageHistory": [
    {
@@ -6840,7 +7165,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 2.31,
+  "score": 1.93,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10796,7 +11121,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 18,
-  "score": 1.55,
+  "score": 1.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11390,7 +11715,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11512,7 +11837,7 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 1,
   "sourceCount": 4,
   "score": 1.1,
   "topTier": 2,
@@ -11631,7 +11956,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.3,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11771,7 +12096,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.3,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11930,7 +12255,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.62,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11946,55 +12271,6 @@
    "viaQuote": false
   },
   "headline": "Numéro 7 comme Cristiano Ronaldo, coaché par Guardiola et bourreau de Lens : Carlos Forbs, le nouveau héros du Portugal"
- },
- {
-  "slug": "infantino-fifa-affairs-comeback",
-  "mode": "llm",
-  "titleKo": "인판티노 FIFA 회장 재기 과정 조명",
-  "createdAt": "2026-11-18T06:55:02.000Z",
-  "updatedAt": "2026-11-18T06:55:02.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "fifa",
-   "gianni",
-   "infantino"
-  ],
-  "articles": [
-   {
-    "id": "bdd12cc92448",
-    "url": "https://www.nytimes.com/athletic/7790138/2026/11/18/fifa-infantino-ffe-election-uefa/",
-    "title": "How FIFA president Gianni Infantino battled back from the brink",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-18T06:55:02.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.92,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-18T06:55:02.000Z",
-   "viaQuote": false
-  },
-  "headline": "How FIFA president Gianni Infantino battled back from the brink"
  },
  {
   "slug": "ait-nouri-man-city-transfer-20261118",
@@ -12043,7 +12319,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12107,7 +12383,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12185,7 +12461,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.11,
+  "score": 0.93,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12430,7 +12706,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 1.42,
+  "score": 1.19,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12661,7 +12937,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.84,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12757,7 +13033,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.65,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13017,7 +13293,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.65,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13074,7 +13350,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.81,
+  "score": 0.68,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13129,7 +13405,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13283,7 +13559,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13536,9 +13812,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 8,
-  "score": 0.3,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [
    {
@@ -13645,9 +13921,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.56,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13730,9 +14006,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.29,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13787,9 +14063,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13848,9 +14124,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13983,9 +14259,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.08,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,

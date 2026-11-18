@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-18T09:30:08.698Z",
+ "updatedAt": "2026-11-18T10:32:03.715Z",
  "hot": [
   "pochettino-man-utd-manager-future",
+  "infantino-fifa-affairs-comeback",
   "pochettino-usmnt-manager-future",
-  "wales-portugal-2026-11-12",
-  "carrick-manager-future",
-  "pedro-neto-discipline"
+  "portugal-norway-2026-11-17",
+  "carrick-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -48,13 +48,13 @@
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 7,
    "authorRate": 0
   },
   "espn": {
@@ -90,7 +90,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
@@ -102,13 +102,13 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -120,7 +120,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 90
   },
   "waz": {
@@ -132,7 +132,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
@@ -144,13 +144,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -162,13 +162,13 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
@@ -180,7 +180,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -191,7 +191,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 13,
    "added": 3,
    "authorRate": 0
   }
@@ -207,14 +207,14 @@
   },
   {
    "name": "프레스티아니",
+   "count": 39
+  },
+  {
+   "name": "JJ 가브리엘",
    "count": 38
   },
   {
    "name": "맥스 다우먼",
-   "count": 37
-  },
-  {
-   "name": "JJ 가브리엘",
    "count": 37
   },
   {
@@ -230,11 +230,11 @@
    "count": 32
   },
   {
-   "name": "웨인 루니",
-   "count": 31
+   "name": "노이어",
+   "count": 32
   },
   {
-   "name": "노이어",
+   "name": "웨인 루니",
    "count": 31
   },
   {
@@ -298,7 +298,15 @@
    "count": 13
   },
   {
+   "name": "콘사",
+   "count": 13
+  },
+  {
    "name": "헤수스 오워노",
+   "count": 13
+  },
+  {
+   "name": "윌 랭크셔",
    "count": 13
   },
   {
@@ -308,27 +316,19 @@
   {
    "name": "하베르츠",
    "count": 13
-  },
-  {
-   "name": "벤 화이트",
-   "count": 13
-  },
-  {
-   "name": "로멜루 루카쿠",
-   "count": 12
   }
  ],
  "issueHealth": {
-  "recentIssues": 227,
-  "singleArticleRate": 57,
+  "recentIssues": 225,
+  "singleArticleRate": 56,
   "broad": [
    {
-    "slug": "spain-england-2026-11-14",
-    "count": 73
+    "slug": "pochettino-man-utd-manager-future",
+    "count": 75
    },
    {
-    "slug": "pochettino-man-utd-manager-future",
-    "count": 71
+    "slug": "spain-england-2026-11-14",
+    "count": 72
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -336,7 +336,7 @@
    },
    {
     "slug": "france-turkey-2026-11-13",
-    "count": 26
+    "count": 25
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -344,7 +344,7 @@
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "belgium-italy-2026-11-12",
@@ -381,7 +381,7 @@
    "variants": [
     {
      "ko": "호나우지뉴",
-     "count": 19
+     "count": 18
     },
     {
      "ko": "호나우지냐",
@@ -395,7 +395,7 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 12
+     "count": 11
     },
     {
      "ko": "튀헬",
@@ -706,33 +706,15 @@
    ]
   },
   {
-   "en": "Mohya",
+   "en": "Vasco Peso",
    "dictionary": null,
    "variants": [
     {
-     "ko": "모야",
-     "count": 3
+     "ko": "바스쿠 페소",
+     "count": 4
     },
     {
-     "ko": "모히아",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르송",
-     "count": 2
-    },
-    {
-     "ko": "스티븐 보슨",
-     "count": 1
-    },
-    {
-     "ko": "스테판 보슨",
+     "ko": "바스코 페소",
      "count": 1
     }
    ]
@@ -787,6 +769,20 @@
     },
     {
      "ko": "엠라한 토프추",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모야",
+     "count": 2
+    },
+    {
+     "ko": "모히아",
      "count": 1
     }
    ]
@@ -875,6 +871,20 @@
     },
     {
      "ko": "라민 야말",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르송",
+     "count": 2
+    },
+    {
+     "ko": "스테판 보슨",
      "count": 1
     }
    ]
@@ -1034,6 +1044,20 @@
    ]
   },
   {
+   "en": "Hojlund",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회이룬",
+     "count": 1
+    },
+    {
+     "ko": "호이룬트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gwinn",
    "dictionary": null,
    "variants": [
@@ -1057,34 +1081,6 @@
     },
     {
      "ko": "파블로 오르텔스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "James Penrice",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제임스 페링",
-     "count": 1
-    },
-    {
-     "ko": "제임스 페리스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gouram",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구라움",
-     "count": 1
-    },
-    {
-     "ko": "구람",
      "count": 1
     }
    ]
@@ -1224,8 +1220,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 524,
-   "llm": 524
+   "collected": 577,
+   "llm": 577
   }
  },
  "llmErrors": []
