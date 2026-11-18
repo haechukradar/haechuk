@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-18T05:54:45.491Z",
+ "updatedAt": "2026-11-18T06:59:23.324Z",
  "hot": [
   "pochettino-man-utd-manager-future",
+  "pochettino-usmnt-manager-future",
   "wales-portugal-2026-11-12",
-  "jj-gabriel-real-madrid-transfer",
   "pedro-neto-discipline",
   "norway-denmark-2026-11-17"
  ],
@@ -41,20 +41,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 0,
+   "items": 82,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 10,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -90,25 +90,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 68
+   "added": 2,
+   "authorRate": 66
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -138,19 +138,19 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -168,7 +168,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -180,7 +180,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -191,8 +191,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 1,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -319,7 +319,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
+  "recentIssues": 226,
   "singleArticleRate": 55,
   "broad": [
    {
@@ -336,11 +336,7 @@
    },
    {
     "slug": "france-turkey-2026-11-13",
-    "count": 30
-   },
-   {
-    "slug": "belgium-italy-2026-11-12",
-    "count": 21
+    "count": 29
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -349,6 +345,14 @@
    {
     "slug": "thomas-frank-crystal-palace-appointment",
     "count": 20
+   },
+   {
+    "slug": "belgium-italy-2026-11-12",
+    "count": 20
+   },
+   {
+    "slug": "pochettino-usmnt-manager-future",
+    "count": 15
    }
   ]
  },
@@ -444,32 +448,6 @@
    ]
   },
   {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 6
-    },
-    {
-     "ko": "마르크 반 봄멜",
-     "count": 2
-    },
-    {
-     "ko": "마크 판 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "판 보멜",
-     "count": 1
-    },
-    {
-     "ko": "마르크 판 봄멜",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -487,6 +465,32 @@
     },
     {
      "ko": "사비 알론소",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 5
+    },
+    {
+     "ko": "마르크 반 봄멜",
+     "count": 2
+    },
+    {
+     "ko": "마크 판 봄멜",
+     "count": 1
+    },
+    {
+     "ko": "판 보멜",
+     "count": 1
+    },
+    {
+     "ko": "마르크 판 봄멜",
      "count": 1
     }
    ]
@@ -770,6 +774,28 @@
    ]
   },
   {
+   "en": "Emirhan Topçu",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엠라한 토푸주",
+     "count": 1
+    },
+    {
+     "ko": "에미르한 토츠쿠",
+     "count": 1
+    },
+    {
+     "ko": "엠라한 토프추",
+     "count": 1
+    },
+    {
+     "ko": "엠라한 토푸",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Arsène Wenger",
    "dictionary": null,
    "variants": [
@@ -867,24 +893,6 @@
     },
     {
      "ko": "어프스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Emirhan Topçu",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엠라한 토푸주",
-     "count": 1
-    },
-    {
-     "ko": "에미르한 토츠쿠",
-     "count": 1
-    },
-    {
-     "ko": "엠라한 토프추",
      "count": 1
     }
    ]
@@ -1086,34 +1094,6 @@
    ]
   },
   {
-   "en": "Van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 1
-    },
-    {
-     "ko": "반 보멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Duncan Ferguson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "던컨 퍼거슨",
-     "count": 1
-    },
-    {
-     "ko": "덩컨 퍼거슨",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Arda Güler",
    "dictionary": null,
    "variants": [
@@ -1137,6 +1117,34 @@
     },
     {
      "ko": "픽포드",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lucas Furtado",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루카스 푸르타도",
+     "count": 1
+    },
+    {
+     "ko": "루카스 푸르타두",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pubill",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "푸비에유",
+     "count": 1
+    },
+    {
+     "ko": "푸빌",
      "count": 1
     }
    ]
@@ -1220,8 +1228,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 409,
-   "llm": 409
+   "collected": 439,
+   "llm": 439
   }
  },
  "llmErrors": []
