@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-18T21:35:56.200Z",
+ "updatedAt": "2026-11-18T22:34:25.050Z",
  "hot": [
+  "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
-  "infantino-fifa-affairs-comeback",
   "strasbourg-manager-appointment",
   "man-city-bk-hacken-2026-11-18",
-  "jj-gabriel-real-madrid-transfer"
+  "infantino-fifa-affairs-comeback"
  ],
  "days": [
   "2026-10-18",
@@ -43,17 +43,19 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 6,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 58,
+   "added": 1,
+   "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -77,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -89,19 +91,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 86
+   "added": 4,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -143,7 +145,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -155,7 +157,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -172,9 +174,9 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 3,
-   "authorRate": 93
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "star": {
    "ok": true,
@@ -185,13 +187,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 6,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -318,20 +320,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
+  "recentIssues": 224,
   "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 84
-   },
-   {
-    "slug": "spain-england-2026-11-14",
-    "count": 51
+    "count": 85
    },
    {
     "slug": "germany-netherlands-2026-11-16",
     "count": 37
+   },
+   {
+    "slug": "spain-england-2026-11-14",
+    "count": 34
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -344,10 +346,6 @@
    {
     "slug": "pochettino-usmnt-manager-future",
     "count": 18
-   },
-   {
-    "slug": "france-turkey-2026-11-13",
-    "count": 17
    }
   ]
  },
@@ -376,7 +374,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "위르겐 클롭",
@@ -394,11 +392,11 @@
    "variants": [
     {
      "ko": "투헬",
-     "count": 9
+     "count": 8
     },
     {
      "ko": "튀헬",
-     "count": 2
+     "count": 1
     },
     {
      "ko": "튜헬",
@@ -424,28 +422,6 @@
     },
     {
      "ko": "사비 알론소",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 4
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 2
-    },
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -487,6 +463,28 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 2
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 2
+    },
+    {
+     "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Alanzinho",
    "dictionary": null,
    "variants": [
@@ -510,52 +508,6 @@
     },
     {
      "ko": "바스코 페소",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 4
-    },
-    {
-     "ko": "판 보멜",
-     "count": 1
-    },
-    {
-     "ko": "마르크 반 봄멜",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시몬스",
-     "count": 5
-    },
-    {
-     "ko": "팀미 시몬스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dan Burn",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "댄 번",
-     "count": 5
-    },
-    {
-     "ko": "듀언",
      "count": 1
     }
    ]
@@ -638,6 +590,24 @@
     },
     {
      "ko": "조르즈 시몽",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mark van Bommel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 봄멜",
+     "count": 3
+    },
+    {
+     "ko": "판 보멜",
+     "count": 1
+    },
+    {
+     "ko": "마르크 반 봄멜",
      "count": 1
     }
    ]
@@ -821,6 +791,20 @@
    ]
   },
   {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티미 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "팀미 시몬스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rúben Neves",
    "dictionary": null,
    "variants": [
@@ -914,6 +898,24 @@
     },
     {
      "ko": "디오구 달롯",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Michele Kang",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미셸 강",
+     "count": 1
+    },
+    {
+     "ko": "마이클 캉",
+     "count": 1
+    },
+    {
+     "ko": "미셸 캉",
      "count": 1
     }
    ]
@@ -1045,20 +1047,6 @@
    ]
   },
   {
-   "en": "Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "귀레르",
-     "count": 1
-    },
-    {
-     "ko": "귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Taty Castellanos",
    "dictionary": null,
    "variants": [
@@ -1124,6 +1112,20 @@
     },
     {
      "ko": "구스타보 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gerard Piqué",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제라드 피케",
+     "count": 1
+    },
+    {
+     "ko": "제라르 피케",
      "count": 1
     }
    ]
@@ -1211,8 +1213,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 267,
-   "llm": 267
+   "collected": 288,
+   "llm": 288
   }
  },
  "llmErrors": []
