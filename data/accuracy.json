@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-18T12:39:32.459Z",
+ "generatedAt": "2026-11-18T13:56:17.158Z",
  "minSampleForDisplay": 10,
- "resolvedIssues": 1,
+ "resolvedIssues": 2,
  "sources": {
   "sky": {
    "name": "Sky Sports",
@@ -103,6 +103,27 @@
      "hits": 1,
      "rate": 100,
      "avgLeadHours": 0,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "kicker": {
+   "name": "키커",
+   "tier": 2,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 45.7,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 45.7,
      "excludedInterest": 0
     }
    },

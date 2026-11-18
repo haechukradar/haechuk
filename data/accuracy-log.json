@@ -218,5 +218,45 @@
     "leadHours": 1.1
    }
   }
+ },
+ {
+  "slug": "chatzialexiou-frankfurt-transfer",
+  "title": "차찰렉시오우 프랑크푸르트 이적 길 열림",
+  "players": [],
+  "transfer": {
+   "player": "차찰렉시오우",
+   "from": "뉘른베르크",
+   "to": "프랑크푸르트"
+  },
+  "result": "done",
+  "inferred": false,
+  "manual": false,
+  "note": null,
+  "resolvedAt": "2026-11-18T12:42:11.000Z",
+  "firstReportAt": "2026-11-16T15:00:21.000Z",
+  "durationDays": 1.9,
+  "scoredAt": "2026-11-18T13:56:17.158Z",
+  "revision": 0,
+  "scores": [
+   {
+    "source": "kicker",
+    "tier": 2,
+    "lastStage": "done",
+    "author": null,
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-16T15:00:21.000Z",
+    "leadHours": 45.7
+   }
+  ],
+  "summary": {
+   "scored": 1,
+   "hits": 1,
+   "excluded": 0,
+   "firstCorrect": {
+    "source": "kicker",
+    "leadHours": 45.7
+   }
+  }
  }
 ]
