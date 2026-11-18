@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T14:47:08.720Z",
+ "updatedAt": "2026-11-18T15:51:05.099Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "infantino-fifa-affairs-comeback",
@@ -36,7 +36,8 @@
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "feeds": {
   "bbc": {
@@ -46,15 +47,13 @@
    "authorRate": 0
   },
   "guardian": {
-   "ok": true,
-   "items": 58,
-   "added": 0,
-   "authorRate": 97
+   "ok": false,
+   "error": "HTTP 403"
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -78,7 +77,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -90,31 +89,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 70
+   "authorRate": 72
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
-  },
-  "men": {
    "ok": true,
    "items": 25,
    "added": 2,
    "authorRate": 100
   },
-  "lecho": {
+  "men": {
    "ok": true,
    "items": 25,
    "added": 0,
+   "authorRate": 100
+  },
+  "lecho": {
+   "ok": true,
+   "items": 25,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -132,25 +131,25 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -168,31 +167,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
-   "authorRate": 100
+   "added": 3,
+   "authorRate": 97
   },
   "star": {
-   "ok": true,
-   "items": 25,
-   "added": 4,
-   "authorRate": 100
-  },
-  "mirror": {
    "ok": true,
    "items": 25,
    "added": 1,
    "authorRate": 100
   },
+  "mirror": {
+   "ok": true,
+   "items": 25,
+   "added": 2,
+   "authorRate": 100
+  },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 0,
+   "items": 9,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -239,7 +238,7 @@
   },
   {
    "name": "베르나르두 실바",
-   "count": 31
+   "count": 32
   },
   {
    "name": "그릴리시",
@@ -294,6 +293,10 @@
    "count": 14
   },
   {
+   "name": "트루빈",
+   "count": 14
+  },
+  {
    "name": "벤 화이트",
    "count": 14
   },
@@ -312,19 +315,15 @@
   {
    "name": "윌 랭크셔",
    "count": 13
-  },
-  {
-   "name": "트루빈",
-   "count": 13
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 56,
+  "recentIssues": 223,
+  "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 76
+    "count": 77
    },
    {
     "slug": "spain-england-2026-11-14",
@@ -390,6 +389,24 @@
    ]
   },
   {
+   "en": "Jürgen Klopp",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클롭",
+     "count": 10
+    },
+    {
+     "ko": "위르겐 클롭",
+     "count": 2
+    },
+    {
+     "ko": "클린스만",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tuchel",
    "dictionary": null,
    "variants": [
@@ -403,24 +420,6 @@
     },
     {
      "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 9
-    },
-    {
-     "ko": "위르겐 클롭",
-     "count": 2
-    },
-    {
-     "ko": "클린스만",
      "count": 1
     }
    ]
@@ -620,6 +619,20 @@
    ]
   },
   {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 포브스",
+     "count": 3
+    },
+    {
+     "ko": "카를루스 포브스",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Arda Güler",
    "dictionary": null,
    "variants": [
@@ -651,6 +664,20 @@
     },
     {
      "ko": "조르즈 시몽",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Ivan Toney",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이반 토니",
+     "count": 4
+    },
+    {
+     "ko": "아이반 토니",
      "count": 1
     }
    ]
@@ -728,20 +755,6 @@
    ]
   },
   {
-   "en": "Carlos Forbs",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 포브스",
-     "count": 3
-    },
-    {
-     "ko": "카를루스 포브스",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Blatter",
    "dictionary": null,
    "variants": [
@@ -787,20 +800,6 @@
     },
     {
      "ko": "키스 와이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ivan Toney",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이반 토니",
-     "count": 3
-    },
-    {
-     "ko": "아이반 토니",
      "count": 1
     }
    ]
@@ -903,6 +902,20 @@
     },
     {
      "ko": "어프스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모히아",
+     "count": 2
+    },
+    {
+     "ko": "모야",
      "count": 1
     }
    ]
@@ -1048,6 +1061,20 @@
    ]
   },
   {
+   "en": "Gabriel Clarke",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "가브리엘 클라크",
+     "count": 1
+    },
+    {
+     "ko": "게이브리얼 클라크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pubill",
    "dictionary": null,
    "variants": [
@@ -1071,20 +1098,6 @@
     },
     {
      "ko": "가크포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mohya",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모히아",
-     "count": 1
-    },
-    {
-     "ko": "모야",
      "count": 1
     }
    ]
@@ -1127,20 +1140,6 @@
     },
     {
      "ko": "악셀 비첼",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "귀레르",
-     "count": 1
-    },
-    {
-     "ko": "귈레르",
      "count": 1
     }
    ]
@@ -1226,6 +1225,10 @@
   "2026-11-18": {
    "collected": 719,
    "llm": 719
+  },
+  "2026-11-19": {
+   "collected": 42,
+   "llm": 42
   }
  },
  "llmErrors": []
