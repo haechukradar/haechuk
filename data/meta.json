@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T22:34:25.050Z",
+ "updatedAt": "2026-11-18T23:31:10.045Z",
  "hot": [
   "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
@@ -42,8 +42,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 1,
+   "items": 82,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -55,7 +55,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 14,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,7 +97,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 1,
    "authorRate": 92
   },
   "fblondon": {
@@ -109,7 +109,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -145,7 +145,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -174,9 +174,9 @@
   },
   "sun": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 29,
+   "added": 1,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -187,12 +187,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -320,12 +320,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
+  "recentIssues": 228,
   "singleArticleRate": 55,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 85
+    "count": 87
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "spain-england-2026-11-14",
-    "count": 34
+    "count": 28
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -345,7 +345,7 @@
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 18
+    "count": 17
    }
   ]
  },
@@ -387,24 +387,6 @@
    ]
   },
   {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 8
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    },
-    {
-     "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -415,10 +397,6 @@
     {
      "ko": "자비",
      "count": 2
-    },
-    {
-     "ko": "샤비",
-     "count": 1
     },
     {
      "ko": "사비 알론소",
@@ -458,6 +436,20 @@
     },
     {
      "ko": "샤르한트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 6
+    },
+    {
+     "ko": "튜헬",
      "count": 1
     }
    ]
@@ -590,24 +582,6 @@
     },
     {
      "ko": "조르즈 시몽",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mark van Bommel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 봄멜",
-     "count": 3
-    },
-    {
-     "ko": "판 보멜",
-     "count": 1
-    },
-    {
-     "ko": "마르크 반 봄멜",
      "count": 1
     }
    ]
@@ -819,20 +793,6 @@
    ]
   },
   {
-   "en": "Hincapie",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "힌카피에",
-     "count": 2
-    },
-    {
-     "ko": "히칸피에",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gary Neville",
    "dictionary": null,
    "variants": [
@@ -889,6 +849,20 @@
    ]
   },
   {
+   "en": "Paz",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파스",
+     "count": 2
+    },
+    {
+     "ko": "파즈",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Dalot",
    "dictionary": null,
    "variants": [
@@ -907,15 +881,15 @@
    "dictionary": null,
    "variants": [
     {
+     "ko": "미셸 캉",
+     "count": 1
+    },
+    {
      "ko": "미셸 강",
      "count": 1
     },
     {
      "ko": "마이클 캉",
-     "count": 1
-    },
-    {
-     "ko": "미셸 캉",
      "count": 1
     }
    ]
@@ -1056,6 +1030,20 @@
     },
     {
      "ko": "타티 카스텔라노스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hincapie",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "히칸피에",
+     "count": 1
+    },
+    {
+     "ko": "힌카피에",
      "count": 1
     }
    ]
@@ -1213,8 +1201,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 288,
-   "llm": 288
+   "collected": 319,
+   "llm": 319
   }
  },
  "llmErrors": []
