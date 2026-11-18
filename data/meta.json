@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T01:58:56.708Z",
+ "updatedAt": "2026-11-18T02:49:18.456Z",
  "hot": [
   "wales-portugal-2026-11-12",
   "jj-gabriel-real-madrid-transfer",
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -144,7 +144,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -734,6 +734,24 @@
    ]
   },
   {
+   "en": "Jorge Simão",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 시망",
+     "count": 2
+    },
+    {
+     "ko": "조르지 시몽",
+     "count": 1
+    },
+    {
+     "ko": "조르지 시망",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blatter",
    "dictionary": null,
    "variants": [
@@ -785,24 +803,6 @@
     },
     {
      "ko": "카라거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jorge Simão",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 시망",
-     "count": 1
-    },
-    {
-     "ko": "조르지 시몽",
-     "count": 1
-    },
-    {
-     "ko": "조르지 시망",
      "count": 1
     }
    ]
@@ -1216,8 +1216,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 363,
-   "llm": 363
+   "collected": 366,
+   "llm": 366
   }
  },
  "llmErrors": []
