@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-18T04:52:45.468Z",
+ "updatedAt": "2026-11-18T05:54:45.491Z",
  "hot": [
+  "pochettino-man-utd-manager-future",
   "wales-portugal-2026-11-12",
   "jj-gabriel-real-madrid-transfer",
-  "norway-denmark-2026-11-17",
-  "pochettino-man-utd-manager-future",
-  "northern-ireland-hungary-2026-11-17"
+  "pedro-neto-discipline",
+  "norway-denmark-2026-11-17"
  ],
  "days": [
   "2026-10-18",
@@ -66,7 +66,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 5,
    "authorRate": 0
   },
   "marca": {
@@ -78,7 +78,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 10,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,7 +96,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 68
   },
   "fblondon": {
@@ -108,13 +108,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -138,25 +138,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -186,7 +186,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -328,7 +328,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 56
+    "count": 59
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -404,6 +404,28 @@
    ]
   },
   {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 5
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 4
+    },
+    {
+     "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jürgen Klopp",
    "dictionary": null,
    "variants": [
@@ -417,28 +439,6 @@
     },
     {
      "ko": "클린스만",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토마스 투헬",
-     "count": 4
-    },
-    {
-     "ko": "투헬",
-     "count": 4
-    },
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
      "count": 1
     }
    ]
@@ -946,6 +946,20 @@
    ]
   },
   {
+   "en": "Pedro Neto",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드로 네투",
+     "count": 2
+    },
+    {
+     "ko": "페드루 네투",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Carlos Forbs",
    "dictionary": null,
    "variants": [
@@ -1126,20 +1140,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Lucas Furtado",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카스 푸르타도",
-     "count": 1
-    },
-    {
-     "ko": "루카스 푸르타두",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1220,8 +1220,8 @@
    "llm": 759
   },
   "2026-11-18": {
-   "collected": 385,
-   "llm": 385
+   "collected": 409,
+   "llm": 409
   }
  },
  "llmErrors": []
