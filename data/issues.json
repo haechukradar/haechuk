@@ -1,87 +1,10 @@
 [
  {
-  "slug": "bruno-guimaraes-arsenal-transfer",
-  "mode": "llm",
-  "titleKo": "기마랑이스 아스널 이적 후 첫 뉴캐슬 복귀",
-  "createdAt": "2026-11-19T17:48:30.000Z",
-  "updatedAt": "2026-11-19T17:48:30.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [
-   "브루노 기마랑이스"
-  ],
-  "sig": [
-   "jaissle",
-   "bruno",
-   "guimaraes"
-  ],
-  "articles": [
-   {
-    "id": "df7fd0e5f0b6",
-    "url": "https://www.thesun.co.uk/sport/41075081/matthias-jaissle-bruno-guimaraes-newcastle/",
-    "title": "Matthias Jaissle begged Bruno Guimaraes to stay at Newcastle as star prepares for first return after Arsenal transfer",
-    "ko": "브루노 기마랑이스, 뉴캐슬 복귀 앞두고 잔류 요청 있었다는 보도",
-    "source": "sun",
-    "publishedAt": "2026-11-19T17:48:30.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "브루노 기마랑이스"
-    ],
-    "playerTags": [
-     "bruno-guimaraes"
-    ],
-    "author": "Gary Stonehouse",
-    "transfer": {
-     "player": "브루노 기마랑이스",
-     "from": "뉴캐슬",
-     "to": "아스널"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.6,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "df7fd0e5f0b6",
-    "at": "2026-11-19T17:48:30.000Z",
-    "source": "sun",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "bruno-guimaraes"
-  ],
-  "transfer": {
-   "player": "브루노 기마랑이스",
-   "from": "뉴캐슬",
-   "to": "아스널"
-  },
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-19T17:48:30.000Z",
-   "viaQuote": false
-  },
-  "headline": "Matthias Jaissle begged Bruno Guimaraes to stay at Newcastle as star prepares for first return after Arsenal transfer"
- },
- {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-19T17:45:51.000Z",
+  "updatedAt": "2026-11-19T18:45:56.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -6401,11 +6324,65 @@
     "playerTags": [],
     "author": "Henry Tomlinson",
     "transfer": null
+   },
+   {
+    "id": "bf1c671b5aba",
+    "url": "https://www.lequipe.fr/Football/Actualites/Podcast-big-5-mauricio-pochettino-peut-il-sauver-manchester-united/1744713#at_medium=RSS_feeds",
+    "title": "Podcast « Big 5 » - Mauricio Pochettino peut-il sauver Manchester United ?",
+    "ko": "포체티노, 맨유를 구할 수 있을까 팟캐스트 진단",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T18:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Marie-Amélie Motte",
+    "transfer": null
+   },
+   {
+    "id": "347ef3f20d01",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-pochettino-training-drone-37896469",
+    "title": "Mauricio Pochettino’s first Man Utd training session secretly filmed by drone and put online",
+    "ko": "포체티노, 맨유 첫 훈련 드론 촬영돼 온라인 공개",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T18:30:59.000Z",
+    "credited": "데일리 메일",
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   },
+   {
+    "id": "5df8b7d65c99",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+    "title": "Pochettino's first Man Utd training session filmed by drone operator",
+    "ko": "포체티노, 맨유 첫 훈련 드론 촬영 영상 공개",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T18:45:56.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
-  "recentSources": 9,
+  "recentSources": 10,
   "sourceCount": 17,
-  "score": 4.53,
+  "score": 5.76,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6423,10 +6400,434 @@
    "at": "2026-11-10T17:08:58.000Z",
    "viaQuote": true
   },
-  "headline": "Culture, defence, Fernandes - Pochettino's priorities at Man Utd",
+  "headline": "Pochettino's first Man Utd training session filmed by drone operator",
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "rui-borges-sporting-manager-future",
+  "mode": "llm",
+  "titleKo": "루이 보르게스 스포르팅 계약 해지 분쟁",
+  "createdAt": "2026-11-19T18:34:00.000Z",
+  "updatedAt": "2026-11-19T18:34:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "borges",
+   "sporting"
+  ],
+  "articles": [
+   {
+    "id": "e2004d6c3902",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/rui-borges-e-sporting-nao-chegam-a-acordo-sobre-rescisao-e-treinador-admite-recorrer-a-via-judicial",
+    "title": "Rui Borges e Sporting não chegam a acordo sobre rescisão e treinador admite recorrer à via judicial",
+    "ko": "루이 보르게스, 스포르팅과 계약 해지 합의 불발…법적 대응 시사",
+    "source": "record",
+    "publishedAt": "2026-11-19T18:34:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.91,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-19T18:34:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rui Borges e Sporting não chegam a acordo sobre rescisão e treinador admite recorrer à via judicial"
+ },
+ {
+  "slug": "newcastle-arsenal-2026-11-22",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 대 아스널 경기 결장 선수",
+  "createdAt": "2026-11-18T15:49:30.000Z",
+  "updatedAt": "2026-11-19T18:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "newcastle",
+   "arsenal"
+  ],
+  "players": [
+   "윌 오술라",
+   "션 스테우르"
+  ],
+  "sig": [
+   "osula"
+  ],
+  "articles": [
+   {
+    "id": "479407a968d7",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-clash-arsenal-handed-34931326",
+    "title": "Newcastle United clash with Arsenal handed unpopular new kick off time by TV chiefs",
+    "ko": "뉴캐슬-아스널 경기, 방송사가 킥오프 시간 변경",
+    "source": "chronicle",
+    "publishedAt": "2026-11-18T15:49:30.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "fe035b26422c",
+    "url": "https://www.footballinsider247.com/arsenal/will-osula-axed-newcastle-should-drop-forward-vs-arsenal-to-start-speedster-with-27-sprints-per-90",
+    "title": "Will Osula axed: Newcastle should drop forward vs Arsenal to start speedster with 27 sprints per 90",
+    "ko": "뉴캐슬, 아스널전 윙어 기용 두고 윌 오술라 제외 논쟁",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T08:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "윌 오술라"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "60f131c1ed62",
+    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-arsenal-injury-news-34934228",
+    "title": "Seven players set to miss Newcastle vs Arsenal as Mikel Arteta suffers fresh injury blow",
+    "ko": "아르테타, 뉴캐슬전 앞두고 부상 악재…7명 결장 우려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T09:47:59.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matt Maltby",
+    "transfer": null
+   },
+   {
+    "id": "59c7c8842d75",
+    "url": "https://www.footballinsider247.com/newcastle-united/sean-steur-among-newcastle-trio-who-mattias-jaissle-should-axe-vs-arsenal-to-save-his-job",
+    "title": "Sean Steur among Newcastle trio who Mattias Jaissle should axe vs Arsenal to save his job",
+    "ko": "뉴캐슬 세 선수, 아스널전 선발 제외 필요성 거론",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T09:55:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "션 스테우르"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "16d7a9519317",
+    "url": "https://www.footballinsider247.com/newcastle-united/ex-refs-chief-raises-serious-questions-over-chris-kavanagh-appointment-for-newcastle-vs-arsenal",
+    "title": "Ex-refs chief raises serious questions over Chris Kavanagh appointment for Newcastle vs Arsenal",
+    "ko": "뉴캐슬 대 아스널 주심 선정에 전 심판장 의문 제기",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T10:39:46.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "51b7d669ba49",
+    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-fixture-premier-league-34935513",
+    "title": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement",
+    "ko": "아스널 대 뉴캐슬 킥오프 시간 변경 발표",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T12:20:33.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "115a6bc3ac33",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/flimsy-newcastle-united-must-recall-34934947",
+    "title": "Flimsy Newcastle United must recall efforts of one specific glorious performance to stun Arsenal",
+    "ko": "허약한 뉴캐슬, 아스널 꺾으려면 영광의 한 경기 떠올려야",
+    "source": "chronicle",
+    "publishedAt": "2026-11-19T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 2.25,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Chronicle Live (뉴캐슬)",
+   "source": "chronicle",
+   "at": "2026-11-18T15:49:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Flimsy Newcastle United must recall efforts of one specific glorious performance to stun Arsenal"
+ },
+ {
+  "slug": "amass-west-ham-transfer",
+  "mode": "llm",
+  "titleKo": "웨스트햄 해리 아마스 영입 작업",
+  "createdAt": "2026-11-19T18:00:00.000Z",
+  "updatedAt": "2026-11-19T18:00:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "west-ham",
+   "man-utd"
+  ],
+  "players": [
+   "해리 아마스"
+  ],
+  "sig": [
+   "harry",
+   "amass"
+  ],
+  "articles": [
+   {
+    "id": "3f702927562b",
+    "url": "https://www.footballinsider247.com/west-ham-united/west-ham-work-on-signing-harry-amass-with-man-united-exit-likely-ex-chief-scout",
+    "title": "West Ham work on signing Harry Amass with Man United exit 'likely' - Ex-chief scout",
+    "ko": "웨스트햄, 맨유 떠날 해리 아마스 영입 작업…이탈 '유력'",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "west-ham",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "해리 아마스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "해리 아마스",
+     "from": "맨체스터 유나이티드",
+     "to": "웨스트햄"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.52,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "3f702927562b",
+    "at": "2026-11-19T18:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "해리 아마스",
+   "from": "맨체스터 유나이티드",
+   "to": "웨스트햄"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-19T18:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "West Ham work on signing Harry Amass with Man United exit 'likely' - Ex-chief scout"
+ },
+ {
+  "slug": "bruno-guimaraes-arsenal-transfer",
+  "mode": "llm",
+  "titleKo": "기마랑이스 아스널 이적 후 첫 뉴캐슬 복귀",
+  "createdAt": "2026-11-19T17:48:30.000Z",
+  "updatedAt": "2026-11-19T17:48:30.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "브루노 기마랑이스"
+  ],
+  "sig": [
+   "jaissle",
+   "bruno",
+   "guimaraes"
+  ],
+  "articles": [
+   {
+    "id": "df7fd0e5f0b6",
+    "url": "https://www.thesun.co.uk/sport/41075081/matthias-jaissle-bruno-guimaraes-newcastle/",
+    "title": "Matthias Jaissle begged Bruno Guimaraes to stay at Newcastle as star prepares for first return after Arsenal transfer",
+    "ko": "브루노 기마랑이스, 뉴캐슬 복귀 앞두고 잔류 요청 있었다는 보도",
+    "source": "sun",
+    "publishedAt": "2026-11-19T17:48:30.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "브루노 기마랑이스"
+    ],
+    "playerTags": [
+     "bruno-guimaraes"
+    ],
+    "author": "Gary Stonehouse",
+    "transfer": {
+     "player": "브루노 기마랑이스",
+     "from": "뉴캐슬",
+     "to": "아스널"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.5,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "df7fd0e5f0b6",
+    "at": "2026-11-19T17:48:30.000Z",
+    "source": "sun",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "bruno-guimaraes"
+  ],
+  "transfer": {
+   "player": "브루노 기마랑이스",
+   "from": "뉴캐슬",
+   "to": "아스널"
+  },
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-19T17:48:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Matthias Jaissle begged Bruno Guimaraes to stay at Newcastle as star prepares for first return after Arsenal transfer"
+ },
+ {
+  "slug": "mendy-injury",
+  "mode": "llm",
+  "titleKo": "펜디 멘디 부상 복귀 전망",
+  "createdAt": "2026-11-19T17:45:00.000Z",
+  "updatedAt": "2026-11-19T17:45:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "펜디 멘디"
+  ],
+  "sig": [
+   "mendy"
+  ],
+  "articles": [
+   {
+    "id": "0063f7c285f0",
+    "url": "https://www.lequipe.fr/Football/Article/Fin-du-calvaire-au-real-madrid-et-equipe-de-france-en-ligne-de-mire-ferland-mendy-voit-le-bout-du-tunnel/1744691#at_medium=RSS_feeds",
+    "title": "Ferland Mendy voit le bout du tunnel",
+    "ko": "펜디 멘디, 긴 터널의 끝이 보인다",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T17:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "펜디 멘디"
+    ],
+    "playerTags": [],
+    "author": "Antoine Simonneau",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.66,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-19T17:45:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Ferland Mendy voit le bout du tunnel"
  },
  {
   "slug": "assistant-referee-stone-throwing-discipline",
@@ -6530,7 +6931,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 5,
-  "score": 3.64,
+  "score": 3.07,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6693,7 +7094,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 5,
-  "score": 2.41,
+  "score": 2.03,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6770,7 +7171,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.68,
+  "score": 1.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6837,7 +7238,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.51,
+  "score": 1.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6899,7 +7300,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.65,
+  "score": 1.39,
   "topTier": 2,
   "stageHistory": [
    {
@@ -6958,7 +7359,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.45,
+  "score": 2.06,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7013,7 +7414,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.48,
+  "score": 0.41,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -7123,7 +7524,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 4,
-  "score": 2.26,
+  "score": 1.91,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7177,7 +7578,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.58,
+  "score": 1.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7241,7 +7642,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.72,
+  "score": 2.3,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7302,7 +7703,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.56,
+  "score": 1.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7356,7 +7757,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.31,
+  "score": 1.94,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7576,7 +7977,7 @@
   ],
   "recentSources": 7,
   "sourceCount": 7,
-  "score": 6.92,
+  "score": 5.84,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7632,7 +8033,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.47,
+  "score": 1.24,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7692,7 +8093,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7772,7 +8173,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.24,
+  "score": 1.04,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7821,7 +8222,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.38,
+  "score": 1.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7874,7 +8275,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.35,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7930,7 +8331,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.28,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11962,9 +12363,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 18,
-  "score": 0.62,
+  "score": 0.31,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12017,7 +12418,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.18,
+  "score": 0.99,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12066,7 +12467,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.14,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12313,7 +12714,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 5,
-  "score": 1.27,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13420,7 +13821,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.31,
+  "score": 0.26,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13478,7 +13879,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.97,
+  "score": 0.82,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13580,7 +13981,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.5,
+  "score": 2.11,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14010,7 +14411,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 9,
-  "score": 1.83,
+  "score": 1.54,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14061,7 +14462,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.89,
+  "score": 0.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14134,7 +14535,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.4,
+  "score": 1.18,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14253,7 +14654,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 4,
-  "score": 2.54,
+  "score": 2.14,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14312,7 +14713,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [
    {
@@ -14473,7 +14874,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.29,
+  "score": 0.69,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14693,7 +15094,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.24,
+  "score": 0.2,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14844,7 +15245,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.67,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14857,161 +15258,6 @@
    "viaQuote": false
   },
   "headline": "Bernardo Silva está de volta aos treinos no Real Madrid"
- },
- {
-  "slug": "newcastle-arsenal-2026-11-22",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 대 아스널 경기 결장 선수",
-  "createdAt": "2026-11-18T15:49:30.000Z",
-  "updatedAt": "2026-11-19T12:20:33.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "arsenal"
-  ],
-  "players": [
-   "윌 오술라",
-   "션 스테우르"
-  ],
-  "sig": [
-   "osula"
-  ],
-  "articles": [
-   {
-    "id": "479407a968d7",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-clash-arsenal-handed-34931326",
-    "title": "Newcastle United clash with Arsenal handed unpopular new kick off time by TV chiefs",
-    "ko": "뉴캐슬-아스널 경기, 방송사가 킥오프 시간 변경",
-    "source": "chronicle",
-    "publishedAt": "2026-11-18T15:49:30.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "fe035b26422c",
-    "url": "https://www.footballinsider247.com/arsenal/will-osula-axed-newcastle-should-drop-forward-vs-arsenal-to-start-speedster-with-27-sprints-per-90",
-    "title": "Will Osula axed: Newcastle should drop forward vs Arsenal to start speedster with 27 sprints per 90",
-    "ko": "뉴캐슬, 아스널전 윙어 기용 두고 윌 오술라 제외 논쟁",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T08:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "윌 오술라"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "60f131c1ed62",
-    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-arsenal-injury-news-34934228",
-    "title": "Seven players set to miss Newcastle vs Arsenal as Mikel Arteta suffers fresh injury blow",
-    "ko": "아르테타, 뉴캐슬전 앞두고 부상 악재…7명 결장 우려",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T09:47:59.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matt Maltby",
-    "transfer": null
-   },
-   {
-    "id": "59c7c8842d75",
-    "url": "https://www.footballinsider247.com/newcastle-united/sean-steur-among-newcastle-trio-who-mattias-jaissle-should-axe-vs-arsenal-to-save-his-job",
-    "title": "Sean Steur among Newcastle trio who Mattias Jaissle should axe vs Arsenal to save his job",
-    "ko": "뉴캐슬 세 선수, 아스널전 선발 제외 필요성 거론",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T09:55:12.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "16d7a9519317",
-    "url": "https://www.footballinsider247.com/newcastle-united/ex-refs-chief-raises-serious-questions-over-chris-kavanagh-appointment-for-newcastle-vs-arsenal",
-    "title": "Ex-refs chief raises serious questions over Chris Kavanagh appointment for Newcastle vs Arsenal",
-    "ko": "뉴캐슬 대 아스널 주심 선정에 전 심판장 의문 제기",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T10:39:46.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "51b7d669ba49",
-    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-fixture-premier-league-34935513",
-    "title": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement",
-    "ko": "아스널 대 뉴캐슬 킥오프 시간 변경 발표",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T12:20:33.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 0.61,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Chronicle Live (뉴캐슬)",
-   "source": "chronicle",
-   "at": "2026-11-18T15:49:30.000Z",
-   "viaQuote": false
-  },
-  "headline": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement"
  },
  {
   "slug": "newcastle-affairs-stadium-training-ground",
@@ -15104,7 +15350,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15714,7 +15960,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 1.09,
+  "score": 0.92,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15779,7 +16025,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.62,
+  "score": 0.52,
   "topTier": 2,
   "stageHistory": [
    {
@@ -15848,7 +16094,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.16,
+  "score": 0.14,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -15914,7 +16160,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.53,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16085,7 +16331,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16142,7 +16388,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.53,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16196,7 +16442,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16247,7 +16493,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.52,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16300,7 +16546,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16369,7 +16615,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16429,7 +16675,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.46,
+  "score": 0.39,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16498,7 +16744,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.14,
+  "score": 0.12,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17022,7 +17268,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 10,
-  "score": 1.15,
+  "score": 0.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17145,7 +17391,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17206,7 +17452,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17274,7 +17520,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -17353,7 +17599,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17629,7 +17875,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.21,
+  "score": 0.18,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17822,7 +18068,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.33,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18262,7 +18508,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [
    {
@@ -18357,7 +18603,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18454,7 +18700,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18512,9 +18758,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -18805,9 +19051,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18877,9 +19123,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -113583,273 +113829,6 @@
    "viaQuote": false
   },
   "headline": "Arsenal survive late Slavia scare for hard-fought win"
- },
- {
-  "slug": "ntoi-discipline",
-  "mode": "llm",
-  "titleKo": "은토이 2경기 출장정지 징계",
-  "createdAt": "2026-11-05T18:13:36.000Z",
-  "updatedAt": "2026-11-05T18:13:36.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "Ntoi",
-   "Robinho"
-  ],
-  "sig": [
-   "robinho"
-  ],
-  "articles": [
-   {
-    "id": "1e929e33efad",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/rio-ave/detalhe/ntoi-leva-dois-jogos-de-suspensao-por-encostar-a-cabeca-a-robinho",
-    "title": "Ntoi leva dois jogos de suspensão por encostar a cabeça a Robinho",
-    "ko": "은토이, 로빈뉴 머리 접촉으로 2경기 출장정지",
-    "source": "record",
-    "publishedAt": "2026-11-05T18:13:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "Ntoi",
-     "Robinho"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-05T18:13:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Ntoi leva dois jogos de suspensão por encostar a cabeça a Robinho"
- },
- {
-  "slug": "benfica-affairs-retro-kit-fine",
-  "mode": "llm",
-  "titleKo": "벤피카 레트로 유니폼 벌금 부과",
-  "createdAt": "2026-11-05T18:13:00.000Z",
-  "updatedAt": "2026-11-05T18:13:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "benfica"
-  ],
-  "articles": [
-   {
-    "id": "a881ff6f0415",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/equipamento-retro-vale-multa-ao-benfica-saiba-o-que-leva-o-benfica-a-pagar-1-020-euros",
-    "title": "Equipamento 'retro' vale multa ao Benfica: saiba o que custou 1.020 euros às águias",
-    "ko": "벤피카 레트로 유니폼 규정 위반 벌금 1020유로",
-    "source": "record",
-    "publishedAt": "2026-11-05T18:13:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-05T18:13:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Equipamento 'retro' vale multa ao Benfica: saiba o que custou 1.020 euros às águias"
- },
- {
-  "slug": "academico-viseu-discipline",
-  "mode": "llm",
-  "titleKo": "아카데미쿠 비주 감독 징계",
-  "createdAt": "2026-11-05T18:09:00.000Z",
-  "updatedAt": "2026-11-05T18:09:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "académico",
-   "viseu"
-  ],
-  "articles": [
-   {
-    "id": "b980a99c57bb",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/ac--viseu/detalhe/team-manager-do-academico-viseu-suspenso-por-30-dias-e-multado-em-mais-de-2-mil-euros",
-    "title": "Team manager do Académico Viseu suspenso por 30 dias e multado em mais de 2 mil euros",
-    "ko": "아카데미쿠 비주 감독, 30일 정직과 벌금",
-    "source": "record",
-    "publishedAt": "2026-11-05T18:09:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-05T18:09:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Team manager do Académico Viseu suspenso por 30 dias e multado em mais de 2 mil euros"
- },
- {
-  "slug": "porto-affairs-laser-pointer-fan",
-  "mode": "llm",
-  "titleKo": "포르투 경기 레이저 포인터 팬 징계",
-  "createdAt": "2026-11-05T18:08:00.000Z",
-  "updatedAt": "2026-11-05T18:08:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [],
-  "sig": [
-   "estoril",
-   "estádio",
-   "dragão"
-  ],
-  "articles": [
-   {
-    "id": "5253473a9ff7",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/apontador-laser-no-fc-porto-estoril-adepto-foi-multado-e-expulso-do-estadio-do-dragao",
-    "title": "Apontador 'laser' no FC Porto-Estoril: adepto foi multado e expulso do Estádio do Dragão",
-    "ko": "포르투 대 에스토릴 경기 레이저 포인터 팬 퇴장·벌금",
-    "source": "record",
-    "publishedAt": "2026-11-05T18:08:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-05T18:08:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Apontador 'laser' no FC Porto-Estoril: adepto foi multado e expulso do Estádio do Dragão"
- },
- {
-  "slug": "derby-manager-future",
-  "mode": "llm",
-  "titleKo": "더비 카운티 유스타스 감독 거취 논란",
-  "createdAt": "2026-11-05T12:17:02.000Z",
-  "updatedAt": "2026-11-05T18:00:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "john",
-   "eustace",
-   "derby",
-   "county"
-  ],
-  "articles": [
-   {
-    "id": "0d334f08816c",
-    "url": "https://www.footballinsider247.com/efl-championship-news/sources-john-eustace-expected-to-leave-derby-county-after-talks",
-    "title": "Sources: John Eustace expected to leave Derby County after talks",
-    "ko": "더비 카운티, 존 유스타스 떠날 것으로 전해져",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-05T12:17:02.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b0a67f56bd59",
-    "url": "https://www.footballinsider247.com/efl-championship-news/sources-derby-county-make-preliminary-contact-with-steve-cooper",
-    "title": "Sources: Derby County make preliminary contact with Steve Cooper",
-    "ko": "더비 카운티, 스티브 쿠퍼와 예비 접촉",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-05T18:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-05T12:17:02.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sources: Derby County make preliminary contact with Steve Cooper"
  },
  {
   "slug": "gladbach-darmstadt-2026-11-04",
