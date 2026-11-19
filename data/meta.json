@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T05:54:18.972Z",
+ "updatedAt": "2026-11-19T06:59:45.315Z",
  "hot": [
   "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
-  "everton-manager-future",
+  "jj-gabriel-man-utd-affairs-legal",
   "jj-gabriel-real-madrid-transfer",
-  "jj-gabriel-man-utd-affairs-legal"
+  "real-madrid-inter-2026-11-18"
  ],
  "days": [
   "2026-10-18",
@@ -43,7 +43,7 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -55,19 +55,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 26,
+   "items": 0,
    "added": 0,
-   "authorRate": 92
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,13 +97,13 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -133,25 +133,25 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
@@ -169,13 +169,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
@@ -192,8 +192,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 1,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -204,7 +204,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 50
+   "count": 51
   },
   {
    "name": "프레스티아니",
@@ -320,12 +320,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 229,
-  "singleArticleRate": 54,
+  "recentIssues": 226,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 87
+    "count": 89
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -336,16 +336,24 @@
     "count": 23
    },
    {
-    "slug": "spain-england-2026-11-14",
-    "count": 21
+    "slug": "pochettino-usmnt-manager-future",
+    "count": 20
    },
    {
-    "slug": "pochettino-usmnt-manager-future",
+    "slug": "spain-england-2026-11-14",
     "count": 20
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
     "count": 19
+   },
+   {
+    "slug": "diallo-infantino-affairs-dispute",
+    "count": 15
+   },
+   {
+    "slug": "jj-gabriel-real-madrid-transfer",
+    "count": 15
    }
   ]
  },
@@ -382,28 +390,6 @@
     },
     {
      "ko": "클린스만",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스",
-     "count": 5
-    },
-    {
-     "ko": "예수",
-     "count": 1
-    },
-    {
-     "ko": "주제",
-     "count": 1
-    },
-    {
-     "ko": "예수스",
      "count": 1
     }
    ]
@@ -472,6 +458,24 @@
     },
     {
      "ko": "알란지뇨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스",
+     "count": 5
+    },
+    {
+     "ko": "주제",
+     "count": 1
+    },
+    {
+     "ko": "예수스",
      "count": 1
     }
    ]
@@ -751,20 +755,6 @@
    ]
   },
   {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민",
-     "count": 2
-    },
-    {
-     "ko": "라민 야말",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Timmy Simons",
    "dictionary": null,
    "variants": [
@@ -960,6 +950,20 @@
     },
     {
      "ko": "게이브리얼 클라크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 1
+    },
+    {
+     "ko": "라민",
      "count": 1
     }
    ]
@@ -1201,8 +1205,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 388,
-   "llm": 388
+   "collected": 416,
+   "llm": 416
   }
  },
  "llmErrors": []
