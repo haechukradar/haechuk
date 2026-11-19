@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T03:49:12.460Z",
+ "updatedAt": "2026-11-19T04:55:24.428Z",
  "hot": [
   "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
-  "matos-strasbourg-appointment",
-  "strasbourg-manager-appointment",
-  "man-city-bk-hacken-2026-11-18"
+  "jj-gabriel-man-utd-affairs-legal",
+  "usmnt-manager-appointment",
+  "real-madrid-inter-2026-11-18"
  ],
  "days": [
   "2026-10-18",
@@ -60,9 +60,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 26,
+   "added": 18,
+   "authorRate": 92
   },
   "athletic": {
    "ok": true,
@@ -97,8 +97,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 92
+   "added": 2,
+   "authorRate": 94
   },
   "fblondon": {
    "ok": true,
@@ -121,7 +121,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 93
   },
   "waz": {
@@ -145,13 +145,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
@@ -204,11 +204,11 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 47
+   "count": 48
   },
   {
    "name": "프레스티아니",
-   "count": 42
+   "count": 43
   },
   {
    "name": "오워노",
@@ -307,25 +307,25 @@
    "count": 14
   },
   {
+   "name": "모히아",
+   "count": 13
+  },
+  {
    "name": "리산드로 마르티네스",
    "count": 13
   },
   {
    "name": "콘사",
    "count": 13
-  },
-  {
-   "name": "헤수스 오워노",
-   "count": 13
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
-  "singleArticleRate": 55,
+  "recentIssues": 230,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 87
+    "count": 88
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -340,12 +340,12 @@
     "count": 21
    },
    {
-    "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 19
+    "slug": "pochettino-usmnt-manager-future",
+    "count": 20
    },
    {
-    "slug": "pochettino-usmnt-manager-future",
-    "count": 17
+    "slug": "thomas-frank-crystal-palace-appointment",
+    "count": 19
    }
   ]
  },
@@ -374,7 +374,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 9
+     "count": 8
     },
     {
      "ko": "위르겐 클롭",
@@ -382,24 +382,6 @@
     },
     {
      "ko": "클린스만",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 6
-    },
-    {
-     "ko": "자비",
-     "count": 2
-    },
-    {
-     "ko": "사비 알론소",
      "count": 1
     }
    ]
@@ -422,6 +404,24 @@
     },
     {
      "ko": "예수스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 5
+    },
+    {
+     "ko": "자비",
+     "count": 2
+    },
+    {
+     "ko": "사비 알론소",
      "count": 1
     }
    ]
@@ -659,6 +659,20 @@
    ]
   },
   {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모히아",
+     "count": 3
+    },
+    {
+     "ko": "모야",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pedro Neto",
    "dictionary": null,
    "variants": [
@@ -732,20 +746,6 @@
     },
     {
      "ko": "엠라한 토푸",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mohya",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모히아",
-     "count": 2
-    },
-    {
-     "ko": "모야",
      "count": 1
     }
    ]
@@ -890,6 +890,20 @@
     },
     {
      "ko": "마이클 캉",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Emma Hayes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엠마 헤이스",
+     "count": 2
+    },
+    {
+     "ko": "엠마 헤이즈",
      "count": 1
     }
    ]
@@ -1103,20 +1117,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Carlos André Gomes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 앙드레 고메스",
-     "count": 1
-    },
-    {
-     "ko": "카를루스 앙드레 고메스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1201,8 +1201,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 344,
-   "llm": 344
+   "collected": 371,
+   "llm": 371
   }
  },
  "llmErrors": []
