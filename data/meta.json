@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T04:55:24.428Z",
+ "updatedAt": "2026-11-19T05:54:18.972Z",
  "hot": [
   "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
-  "jj-gabriel-man-utd-affairs-legal",
-  "usmnt-manager-appointment",
-  "real-madrid-inter-2026-11-18"
+  "everton-manager-future",
+  "jj-gabriel-real-madrid-transfer",
+  "jj-gabriel-man-utd-affairs-legal"
  ],
  "days": [
   "2026-10-18",
@@ -61,13 +61,13 @@
   "espn": {
    "ok": true,
    "items": 26,
-   "added": 18,
+   "added": 0,
    "authorRate": 92
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "marca": {
@@ -91,13 +91,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 94
   },
   "fblondon": {
@@ -109,20 +109,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
    "added": 1,
-   "authorRate": 93
+   "authorRate": 95
   },
   "waz": {
    "ok": true,
@@ -139,25 +139,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -204,7 +204,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 48
+   "count": 50
   },
   {
    "name": "프레스티아니",
@@ -216,7 +216,7 @@
   },
   {
    "name": "맥스 다우먼",
-   "count": 37
+   "count": 38
   },
   {
    "name": "호나우지뉴",
@@ -320,16 +320,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
+  "recentIssues": 229,
   "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 88
+    "count": 87
    },
    {
     "slug": "germany-netherlands-2026-11-16",
-    "count": 37
+    "count": 34
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -505,6 +505,24 @@
    ]
   },
   {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 4
+    },
+    {
+     "ko": "맥스 다우맨",
+     "count": 1
+    },
+    {
+     "ko": "막스 다우먼",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
@@ -582,24 +600,6 @@
     },
     {
      "ko": "조르즈 시몽",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 3
-    },
-    {
-     "ko": "맥스 다우맨",
-     "count": 1
-    },
-    {
-     "ko": "막스 다우먼",
      "count": 1
     }
    ]
@@ -877,6 +877,20 @@
    ]
   },
   {
+   "en": "Emma Hayes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엠마 헤이스",
+     "count": 2
+    },
+    {
+     "ko": "엠마 헤이즈",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Michele Kang",
    "dictionary": null,
    "variants": [
@@ -890,20 +904,6 @@
     },
     {
      "ko": "마이클 캉",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Emma Hayes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엠마 헤이스",
-     "count": 2
-    },
-    {
-     "ko": "엠마 헤이즈",
      "count": 1
     }
    ]
@@ -1201,8 +1201,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 371,
-   "llm": 371
+   "collected": 388,
+   "llm": 388
   }
  },
  "llmErrors": []

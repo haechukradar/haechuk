@@ -1,86 +1,441 @@
 [
  {
-  "slug": "prestianni-vinicius-relationship",
+  "slug": "jj-gabriel-real-madrid-transfer",
   "mode": "llm",
-  "titleKo": "프레스티아니, 비니시우스 사건 회상",
-  "createdAt": "2026-11-18T20:23:00.000Z",
-  "updatedAt": "2026-11-19T04:03:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
+  "titleKo": "JJ 가브리엘 레알 마드리드 이적 임박",
+  "createdAt": "2026-11-17T19:28:28.000Z",
+  "updatedAt": "2026-11-19T05:06:40.000Z",
+  "category": "transfer",
+  "stage": "done",
+  "clubs": [
+   "man-utd",
+   "real-madrid",
+   "barcelona"
+  ],
   "players": [
-   "프레스티아니",
-   "비니시우스 주니오르"
+   "JJ 가브리엘",
+   "외데고르",
+   "라민 야말"
   ],
   "sig": [
-   "vinícius",
-   "acusaram"
+   "gabriel"
   ],
   "articles": [
    {
-    "id": "8d3b3ed8565e",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/prestianni-recorda-caso-com-vinicius-acusaram-me-sem-saber-nada",
-    "title": "Prestianni recorda caso com Vinícius: «Acusaram-me sem saber nada»",
-    "ko": "프레스티아니, 비니시우스와의 과거 사건 회상",
-    "source": "record",
-    "publishedAt": "2026-11-18T20:23:00.000Z",
+    "id": "61f00a000fae",
+    "url": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
+    "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+    "ko": "JJ 가브리엘, 맨유와 작별…레알 마드리드 이적 근접",
+    "source": "sky",
+    "publishedAt": "2026-11-17T18:29:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "프레스티아니",
-     "비니시우스 주니오르"
+    "clubs": [
+     "man-utd"
     ],
-    "playerTags": [
-     "vinicius-junior"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bf0d2ac42eb2",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/prestianni-volta-com-a-moral-em-alta",
-    "title": "Prestianni volta com a moral em alta",
-    "ko": "프레스티아니, 자신감 회복하고 복귀",
-    "source": "record",
-    "publishedAt": "2026-11-19T04:03:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
+    "category": "transfer",
+    "stage": "negotiation",
     "players": [
-     "프레스티아니"
+     "JJ 가브리엘"
     ],
     "playerTags": [],
     "author": null,
-    "transfer": null
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "8f49a701facb",
+    "url": "https://as.com/futbol/internacional/jj-gabriel-fichaje-inminente-f202611-n/",
+    "title": "JJ Gabriel, fichaje inminente",
+    "ko": "JJ 가브리엘, 맨유 떠나 레알 마드리드 이적 임박",
+    "source": "as",
+    "publishedAt": "2026-11-17T18:42:26.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Aritz Gabilondo",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "2227b0c42204",
+    "url": "https://www.thesun.co.uk/sport/41053607/jj-gabriel-quits-man-utd-real-madrid-transfer/",
+    "title": "JJ Gabriel announces Man Utd exit in emotional video as 16-year-old prepares to complete Real Madrid transfer",
+    "ko": "JJ 가브리엘, 맨유 떠난다고 영상 발표…16세 선수 레알 마드리드 이적 임박",
+    "source": "sun",
+    "publishedAt": "2026-11-17T18:43:19.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Mitchell Hall",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "fa5e43d7a89d",
+    "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-goodbye-37887776",
+    "title": "JJ Gabriel confirms Man Utd exit despite potential legal action over Real Madrid move",
+    "ko": "JJ 가브리엘, 레알행 법적 분쟁 가능성에도 맨유 이별 확인",
+    "source": "mirror",
+    "publishedAt": "2026-11-17T19:28:28.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "b9fce47f4fbb",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+    "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+    "ko": "가브리엘, 맨유에 작별 메시지…레알 마드리드행 확정 분위기",
+    "source": "bbc",
+    "publishedAt": "2026-11-17T19:35:06.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "d57e9c2e6f40",
+    "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
+    "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
+    "ko": "JJ 가브리엘, 맨유 이별 확정…\"잊지 못할 순간 줬다\"",
+    "source": "guardian",
+    "publishedAt": "2026-11-17T19:50:48.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Press Association",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "d0033cc1e307",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/jj-gabriel-despede-se-do-manchester-united-fara-sempre-parte-da-minha-historia",
+    "title": "JJ Gabriel despede-se do Manchester United: «Fará sempre parte da minha história»",
+    "ko": "JJ 가브리엘, 맨유와 작별 인사 '역사의 일부'",
+    "source": "record",
+    "publishedAt": "2026-11-17T20:01:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": null
+    }
+   },
+   {
+    "id": "ea7256ebc2a8",
+    "url": "https://www.lequipe.fr/Football/Actualites/Pressenti-au-real-madrid-jj-gabriel-fait-ses-adieux-a-manchester-united/1744375#at_medium=RSS_feeds",
+    "title": "Pressenti au Real Madrid, JJ Gabriel fait ses adieux à Manchester United",
+    "ko": "JJ 가브리엘, 레알 마드리드行 물망…맨유와 작별",
+    "source": "lequipe",
+    "publishedAt": "2026-11-17T22:31:28.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Elliot Radix",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "ae013b538d9e",
+    "url": "https://as.com/futbol/primera/el-madrid-ata-a-jj-gabriel-f202611-n/",
+    "title": "El Madrid ata a JJ Gabriel: ya ha estado en Valdebebas",
+    "ko": "레알 마드리드, JJ 가브리엘과 계약 체결",
+    "source": "as",
+    "publishedAt": "2026-11-18T13:43:56.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Mario de la Riva,Fernando S. Tavero",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "9433d37aa6e7",
+    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/ja-visitou-valdebebas-jj-gabriel-cada-vez-mais-certo-no-real-madrid",
+    "title": "Já visitou Valdebebas: JJ Gabriel cada vez mais certo no Real Madrid",
+    "ko": "JJ 가브리엘, 레알 마드리드 이적 임박 분위기",
+    "source": "record",
+    "publishedAt": "2026-11-18T16:13:45.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": null,
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "844e61d20666",
+    "url": "https://www.thesun.co.uk/sport/41062858/jj-gabriel-real-madrid-training-ground-man-utd-goodbye/",
+    "title": "JJ Gabriel ‘arrives at Real Madrid training ground’ after goodbye message as Man Utd insist star, 16, still their player",
+    "ko": "JJ 가브리엘, 작별 메시지 후 레알 마드리드 훈련장 도착",
+    "source": "sun",
+    "publishedAt": "2026-11-18T16:57:36.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Jamie Gordon",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "a813e1d0b7cc",
+    "url": "https://www.thesun.co.uk/sport/41062014/man-utd-odegaard-jj-gabriel-real-madrid-transfer/",
+    "title": "Man Utd wonderkid JJ Gabriel warned over transfer after Martin Odegaard struggles as Real Madrid chase own Lamine Yamal",
+    "ko": "JJ 가브리엘, 오데고르 부진 속 이적 경고…레알 마드리드 야말 추격",
+    "source": "sun",
+    "publishedAt": "2026-11-18T17:54:58.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "real-madrid",
+     "barcelona"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "JJ 가브리엘",
+     "외데고르",
+     "라민 야말"
+    ],
+    "playerTags": [
+     "martin-odegaard",
+     "lamine-yamal"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": null
+    }
+   },
+   {
+    "id": "1d63fa08b7c5",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-spain-34932994",
+    "title": "JJ Gabriel sparks concern in Spain with ex-Man United star on verge of joining new club",
+    "ko": "JJ 가브리엘, 레알 마드리드 이적 임박 우려",
+    "source": "men",
+    "publishedAt": "2026-11-18T19:44:13.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨체스터 유나이티드",
+     "to": "레알 마드리드"
+    }
+   },
+   {
+    "id": "7849e0826a50",
+    "url": "https://www.hln.be/buitenlands-voetbal/real-madrid-hoopt-met-jj-gabriel-16-zijn-eigen-lamine-yamal-beet-te-hebben-waarom-zijn-afscheid-bij-manchester-united-voor-gefronste-wenkbrauwen-zorgt~ad870fa7/",
+    "title": "Real Madrid hoopt met JJ Gabriel (16) zijn eigen Lamine Yamal beet te hebben: waarom zijn afscheid bij Manchester United voor gefronste wenkbrauwen zorgt",
+    "ko": "레알 마드리드, JJ 가브리엘 영입 노려…맨유 이별 논란",
+    "source": "hln",
+    "publishedAt": "2026-11-19T05:06:40.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "JJ 가브리엘"
+    ],
+    "playerTags": [
+     "lamine-yamal"
+    ],
+    "author": "Bob Faesen",
+    "transfer": {
+     "player": "JJ 가브리엘",
+     "from": "맨유",
+     "to": "레알 마드리드"
+    }
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.46,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "vinicius-junior"
+  "recentSources": 3,
+  "sourceCount": 10,
+  "score": 1.46,
+  "topTier": 1,
+  "stageHistory": [
+   {
+    "id": "61f00a000fae",
+    "at": "2026-11-17T18:29:00.000Z",
+    "source": "sky",
+    "from": null,
+    "to": "negotiation"
+   },
+   {
+    "id": "b9fce47f4fbb",
+    "at": "2026-11-17T19:35:06.000Z",
+    "source": "bbc",
+    "from": "negotiation",
+    "to": "done"
+   }
   ],
-  "transfer": null,
+  "stageChange": {
+   "from": "negotiation",
+   "to": "done",
+   "at": "2026-11-17T19:35:06.000Z",
+   "source": "bbc"
+  },
+  "playerTags": [
+   "martin-odegaard",
+   "lamine-yamal"
+  ],
+  "transfer": {
+   "player": "JJ 가브리엘",
+   "from": "맨유",
+   "to": "레알 마드리드"
+  },
   "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-18T20:23:00.000Z",
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-17T18:29:00.000Z",
    "viaQuote": false
   },
-  "headline": "Prestianni volta com a moral em alta"
+  "headline": "Madrid-bound Gabriel posts farewell Man Utd message",
+  "resolution": {
+   "result": "done",
+   "at": "2026-11-17T19:35:06.000Z",
+   "inferred": false,
+   "manual": false,
+   "durationDays": 0,
+   "summary": {
+    "scored": 5,
+    "hits": 5,
+    "excluded": 0,
+    "firstCorrect": {
+     "source": "sky",
+     "leadHours": 1.1
+    }
+   }
+  }
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-19T01:42:42.000Z",
+  "updatedAt": "2026-11-19T05:00:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -5831,11 +6186,29 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "a71a252e2a71",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/message-players-wilcox-role-perez-34931164",
+    "title": "Message to players, Wilcox role and a catch-up - Inside Mauricio Pochettino's first day at Man United",
+    "ko": "포체티노, 맨유 첫날 행보…선수들에 메시지 전달",
+    "source": "men",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
    }
   ],
   "recentSources": 7,
   "sourceCount": 17,
-  "score": 3.06,
+  "score": 2.69,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5856,6 +6229,356 @@
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "everton-manager-future",
+  "mode": "llm",
+  "titleKo": "에버턴 모예스 감독 거취 논란",
+  "createdAt": "2026-11-17T12:30:00.000Z",
+  "updatedAt": "2026-11-19T05:00:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "everton"
+  ],
+  "players": [],
+  "sig": [
+   "david",
+   "moyes"
+  ],
+  "articles": [
+   {
+    "id": "3798518d0948",
+    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
+    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
+    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T12:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "508038c6fa5f",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
+    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
+    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
+    "source": "lecho",
+    "publishedAt": "2026-11-17T17:01:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "0103274da076",
+    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
+    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
+    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T08:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e254ecd6068d",
+    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
+    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
+    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cf456d0f7a79",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
+    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
+    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
+    "source": "lecho",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.79,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-17T12:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January"
+ },
+ {
+  "slug": "liverpool-man-utd-2026-11-22",
+  "mode": "llm",
+  "titleKo": "리버풀 대 맨유 프리미어리그 경기 관심",
+  "createdAt": "2026-11-16T14:49:58.000Z",
+  "updatedAt": "2026-11-19T05:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "liverpool",
+   "man-utd"
+  ],
+  "players": [
+   "앨리슨"
+  ],
+  "sig": [
+   "fortress"
+  ],
+  "articles": [
+   {
+    "id": "21b7da1de09b",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-man-united-tickets-premier-34917488",
+    "title": "Last chance Liverpool vs Man United tickets running low for Premier League clash",
+    "ko": "리버풀 대 맨유 프리미어리그 빅매치 티켓 잔여분 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-16T14:49:58.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Hackney",
+    "transfer": null
+   },
+   {
+    "id": "89318c62c32e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-can-make-manchester-united-34919403",
+    "title": "Liverpool can make Manchester United their perfect visitors and restore Fortress Anfield",
+    "ko": "리버풀, 맨유 상대로 안필드 요새 회복 기회",
+    "source": "lecho",
+    "publishedAt": "2026-11-16T15:49:10.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Aldridge, Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "d46086fdeecb",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfield-decision-made-vs-34917771",
+    "title": "Liverpool midfield decision made vs Manchester United after injury concerns",
+    "ko": "리버풀, 부상 우려 속 맨유전 중원 선발 결정",
+    "source": "lecho",
+    "publishedAt": "2026-11-17T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle, Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "f8e096493ce3",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-mauricio-pochettino-liverpool-34921646",
+    "title": "Mauricio Pochettino mistake could cost Man United dearly against Liverpool",
+    "ko": "포체티노의 실수, 리버풀전서 맨유에 큰 대가 우려",
+    "source": "men",
+    "publishedAt": "2026-11-17T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "c6b3386f7bc7",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-vs-manchester-united-referee-34931676",
+    "title": "Liverpool vs Man Utd referee appointment questioned after Alisson FA sanction and big error",
+    "ko": "리버풀-맨유전 주심 배정 논란, 앨리슨 징계와 큰 오심 이후",
+    "source": "lecho",
+    "publishedAt": "2026-11-18T16:14:29.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "앨리슨"
+    ],
+    "playerTags": [],
+    "author": "Scott Trotter",
+    "transfer": null
+   },
+   {
+    "id": "06c3d4a6d978",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/13-players-could-miss-liverpool-34933423",
+    "title": "13 players could miss Liverpool vs Man United as injury updates imminent",
+    "ko": "리버풀 대 맨유, 부상자 13명 가능성…최신 부상 소식 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Wheelock",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.71,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-16T14:49:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "13 players could miss Liverpool vs Man United as injury updates imminent"
+ },
+ {
+  "slug": "prestianni-vinicius-relationship",
+  "mode": "llm",
+  "titleKo": "프레스티아니, 비니시우스 사건 회상",
+  "createdAt": "2026-11-18T20:23:00.000Z",
+  "updatedAt": "2026-11-19T04:03:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "프레스티아니",
+   "비니시우스 주니오르"
+  ],
+  "sig": [
+   "vinícius",
+   "acusaram"
+  ],
+  "articles": [
+   {
+    "id": "8d3b3ed8565e",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/prestianni-recorda-caso-com-vinicius-acusaram-me-sem-saber-nada",
+    "title": "Prestianni recorda caso com Vinícius: «Acusaram-me sem saber nada»",
+    "ko": "프레스티아니, 비니시우스와의 과거 사건 회상",
+    "source": "record",
+    "publishedAt": "2026-11-18T20:23:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "프레스티아니",
+     "비니시우스 주니오르"
+    ],
+    "playerTags": [
+     "vinicius-junior"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bf0d2ac42eb2",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/prestianni-volta-com-a-moral-em-alta",
+    "title": "Prestianni volta com a moral em alta",
+    "ko": "프레스티아니, 자신감 회복하고 복귀",
+    "source": "record",
+    "publishedAt": "2026-11-19T04:03:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "프레스티아니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.38,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "vinicius-junior"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-18T20:23:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Prestianni volta com a moral em alta"
  },
  {
   "slug": "jj-gabriel-man-utd-affairs-legal",
@@ -5997,9 +6720,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 5,
-  "score": 1.94,
+  "score": 1.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6068,7 +6791,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.49,
+  "score": 1.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6465,7 +7188,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 9,
-  "score": 0.69,
+  "score": 0.58,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6515,7 +7238,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6582,7 +7305,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.99,
+  "score": 0.84,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6773,7 +7496,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 5,
-  "score": 3.25,
+  "score": 2.74,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6842,7 +7565,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.13,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6916,7 +7639,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.69,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6980,7 +7703,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7028,7 +7751,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -7079,7 +7802,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
+  "score": 0.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7128,7 +7851,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7180,7 +7903,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.55,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7243,7 +7966,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.54,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7304,7 +8027,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7454,7 +8177,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.75,
+  "score": 0.63,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7525,7 +8248,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.97,
+  "score": 0.82,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7636,7 +8359,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.1,
+  "score": 0.93,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7721,7 +8444,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [
    {
@@ -7758,410 +8481,6 @@
    "viaQuote": false
   },
   "headline": "Sources: Romeo Lavia's stance on Aston Villa January move revealed"
- },
- {
-  "slug": "jj-gabriel-real-madrid-transfer",
-  "mode": "llm",
-  "titleKo": "JJ 가브리엘 레알 마드리드 이적 임박",
-  "createdAt": "2026-11-17T19:28:28.000Z",
-  "updatedAt": "2026-11-18T19:44:13.000Z",
-  "category": "transfer",
-  "stage": "done",
-  "clubs": [
-   "man-utd",
-   "real-madrid",
-   "barcelona"
-  ],
-  "players": [
-   "JJ 가브리엘",
-   "외데고르",
-   "라민 야말"
-  ],
-  "sig": [
-   "gabriel"
-  ],
-  "articles": [
-   {
-    "id": "61f00a000fae",
-    "url": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement",
-    "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
-    "ko": "JJ 가브리엘, 맨유와 작별…레알 마드리드 이적 근접",
-    "source": "sky",
-    "publishedAt": "2026-11-17T18:29:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "8f49a701facb",
-    "url": "https://as.com/futbol/internacional/jj-gabriel-fichaje-inminente-f202611-n/",
-    "title": "JJ Gabriel, fichaje inminente",
-    "ko": "JJ 가브리엘, 맨유 떠나 레알 마드리드 이적 임박",
-    "source": "as",
-    "publishedAt": "2026-11-17T18:42:26.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Aritz Gabilondo",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "2227b0c42204",
-    "url": "https://www.thesun.co.uk/sport/41053607/jj-gabriel-quits-man-utd-real-madrid-transfer/",
-    "title": "JJ Gabriel announces Man Utd exit in emotional video as 16-year-old prepares to complete Real Madrid transfer",
-    "ko": "JJ 가브리엘, 맨유 떠난다고 영상 발표…16세 선수 레알 마드리드 이적 임박",
-    "source": "sun",
-    "publishedAt": "2026-11-17T18:43:19.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Mitchell Hall",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "fa5e43d7a89d",
-    "url": "https://www.mirror.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-goodbye-37887776",
-    "title": "JJ Gabriel confirms Man Utd exit despite potential legal action over Real Madrid move",
-    "ko": "JJ 가브리엘, 레알행 법적 분쟁 가능성에도 맨유 이별 확인",
-    "source": "mirror",
-    "publishedAt": "2026-11-17T19:28:28.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "b9fce47f4fbb",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
-    "title": "Madrid-bound Gabriel posts farewell Man Utd message",
-    "ko": "가브리엘, 맨유에 작별 메시지…레알 마드리드행 확정 분위기",
-    "source": "bbc",
-    "publishedAt": "2026-11-17T19:35:06.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "d57e9c2e6f40",
-    "url": "https://www.theguardian.com/football/2026/nov/17/jj-gabriel-confirms-manchester-united-exit-video",
-    "title": "JJ Gabriel confirms Manchester United exit: ‘You gave me moments I will always treasure’",
-    "ko": "JJ 가브리엘, 맨유 이별 확정…\"잊지 못할 순간 줬다\"",
-    "source": "guardian",
-    "publishedAt": "2026-11-17T19:50:48.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Press Association",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "d0033cc1e307",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/jj-gabriel-despede-se-do-manchester-united-fara-sempre-parte-da-minha-historia",
-    "title": "JJ Gabriel despede-se do Manchester United: «Fará sempre parte da minha história»",
-    "ko": "JJ 가브리엘, 맨유와 작별 인사 '역사의 일부'",
-    "source": "record",
-    "publishedAt": "2026-11-17T20:01:33.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": null
-    }
-   },
-   {
-    "id": "ea7256ebc2a8",
-    "url": "https://www.lequipe.fr/Football/Actualites/Pressenti-au-real-madrid-jj-gabriel-fait-ses-adieux-a-manchester-united/1744375#at_medium=RSS_feeds",
-    "title": "Pressenti au Real Madrid, JJ Gabriel fait ses adieux à Manchester United",
-    "ko": "JJ 가브리엘, 레알 마드리드行 물망…맨유와 작별",
-    "source": "lequipe",
-    "publishedAt": "2026-11-17T22:31:28.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Elliot Radix",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "ae013b538d9e",
-    "url": "https://as.com/futbol/primera/el-madrid-ata-a-jj-gabriel-f202611-n/",
-    "title": "El Madrid ata a JJ Gabriel: ya ha estado en Valdebebas",
-    "ko": "레알 마드리드, JJ 가브리엘과 계약 체결",
-    "source": "as",
-    "publishedAt": "2026-11-18T13:43:56.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Mario de la Riva,Fernando S. Tavero",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "9433d37aa6e7",
-    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/ja-visitou-valdebebas-jj-gabriel-cada-vez-mais-certo-no-real-madrid",
-    "title": "Já visitou Valdebebas: JJ Gabriel cada vez mais certo no Real Madrid",
-    "ko": "JJ 가브리엘, 레알 마드리드 이적 임박 분위기",
-    "source": "record",
-    "publishedAt": "2026-11-18T16:13:45.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": null,
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "844e61d20666",
-    "url": "https://www.thesun.co.uk/sport/41062858/jj-gabriel-real-madrid-training-ground-man-utd-goodbye/",
-    "title": "JJ Gabriel ‘arrives at Real Madrid training ground’ after goodbye message as Man Utd insist star, 16, still their player",
-    "ko": "JJ 가브리엘, 작별 메시지 후 레알 마드리드 훈련장 도착",
-    "source": "sun",
-    "publishedAt": "2026-11-18T16:57:36.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Jamie Gordon",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": "레알 마드리드"
-    }
-   },
-   {
-    "id": "a813e1d0b7cc",
-    "url": "https://www.thesun.co.uk/sport/41062014/man-utd-odegaard-jj-gabriel-real-madrid-transfer/",
-    "title": "Man Utd wonderkid JJ Gabriel warned over transfer after Martin Odegaard struggles as Real Madrid chase own Lamine Yamal",
-    "ko": "JJ 가브리엘, 오데고르 부진 속 이적 경고…레알 마드리드 야말 추격",
-    "source": "sun",
-    "publishedAt": "2026-11-18T17:54:58.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "real-madrid",
-     "barcelona"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "JJ 가브리엘",
-     "외데고르",
-     "라민 야말"
-    ],
-    "playerTags": [
-     "martin-odegaard",
-     "lamine-yamal"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨유",
-     "to": null
-    }
-   },
-   {
-    "id": "1d63fa08b7c5",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-spain-34932994",
-    "title": "JJ Gabriel sparks concern in Spain with ex-Man United star on verge of joining new club",
-    "ko": "JJ 가브리엘, 레알 마드리드 이적 임박 우려",
-    "source": "men",
-    "publishedAt": "2026-11-18T19:44:13.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "JJ 가브리엘"
-    ],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": {
-     "player": "JJ 가브리엘",
-     "from": "맨체스터 유나이티드",
-     "to": "레알 마드리드"
-    }
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 9,
-  "score": 0.48,
-  "topTier": 1,
-  "stageHistory": [
-   {
-    "id": "61f00a000fae",
-    "at": "2026-11-17T18:29:00.000Z",
-    "source": "sky",
-    "from": null,
-    "to": "negotiation"
-   },
-   {
-    "id": "b9fce47f4fbb",
-    "at": "2026-11-17T19:35:06.000Z",
-    "source": "bbc",
-    "from": "negotiation",
-    "to": "done"
-   }
-  ],
-  "stageChange": {
-   "from": "negotiation",
-   "to": "done",
-   "at": "2026-11-17T19:35:06.000Z",
-   "source": "bbc"
-  },
-  "playerTags": [
-   "martin-odegaard",
-   "lamine-yamal"
-  ],
-  "transfer": {
-   "player": "JJ 가브리엘",
-   "from": "맨유",
-   "to": "레알 마드리드"
-  },
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-17T18:29:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Madrid-bound Gabriel posts farewell Man Utd message",
-  "resolution": {
-   "result": "done",
-   "at": "2026-11-17T19:35:06.000Z",
-   "inferred": false,
-   "manual": false,
-   "durationDays": 0,
-   "summary": {
-    "scored": 5,
-    "hits": 5,
-    "excluded": 0,
-    "firstCorrect": {
-     "source": "sky",
-     "leadHours": 1.1
-    }
-   }
-  }
  },
  {
   "slug": "alex-scott-arsenal-transfer",
@@ -8212,7 +8531,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8290,7 +8609,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.22,
+  "score": 0.19,
   "topTier": 3,
   "stageHistory": [
    {
@@ -8353,7 +8672,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -8413,7 +8732,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -8481,7 +8800,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [
    {
@@ -8560,7 +8879,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8617,7 +8936,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9714,7 +10033,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9728,110 +10047,6 @@
    "viaQuote": true
   },
   "headline": "Bruno Guimaraes to get Matthias Jaissle sacked in Newcastle clash, this is why - verdict"
- },
- {
-  "slug": "everton-manager-future",
-  "mode": "llm",
-  "titleKo": "에버턴 모예스 감독 거취 논란",
-  "createdAt": "2026-11-17T12:30:00.000Z",
-  "updatedAt": "2026-11-18T18:00:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "everton"
-  ],
-  "players": [],
-  "sig": [
-   "david",
-   "moyes"
-  ],
-  "articles": [
-   {
-    "id": "3798518d0948",
-    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
-    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
-    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T12:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "508038c6fa5f",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
-    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
-    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
-    "source": "lecho",
-    "publishedAt": "2026-11-17T17:01:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "0103274da076",
-    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
-    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
-    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T08:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e254ecd6068d",
-    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
-    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
-    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.09,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-17T12:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues"
  },
  {
   "slug": "mikautadze-tottenham-transfer",
@@ -9879,7 +10094,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9940,7 +10155,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10007,9 +10222,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10110,9 +10325,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10159,9 +10374,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10617,9 +10832,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 9,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11171,139 +11386,6 @@
    "viaQuote": false
   },
   "headline": "What the ECHO has learned about Alexis Mac Allister's Liverpool future after new contract claim"
- },
- {
-  "slug": "liverpool-man-utd-2026-11-22",
-  "mode": "llm",
-  "titleKo": "리버풀 대 맨유 프리미어리그 경기 관심",
-  "createdAt": "2026-11-16T14:49:58.000Z",
-  "updatedAt": "2026-11-18T16:14:29.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "liverpool",
-   "man-utd"
-  ],
-  "players": [
-   "앨리슨"
-  ],
-  "sig": [
-   "fortress"
-  ],
-  "articles": [
-   {
-    "id": "21b7da1de09b",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-man-united-tickets-premier-34917488",
-    "title": "Last chance Liverpool vs Man United tickets running low for Premier League clash",
-    "ko": "리버풀 대 맨유 프리미어리그 빅매치 티켓 잔여분 임박",
-    "source": "lecho",
-    "publishedAt": "2026-11-16T14:49:58.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Hackney",
-    "transfer": null
-   },
-   {
-    "id": "89318c62c32e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-can-make-manchester-united-34919403",
-    "title": "Liverpool can make Manchester United their perfect visitors and restore Fortress Anfield",
-    "ko": "리버풀, 맨유 상대로 안필드 요새 회복 기회",
-    "source": "lecho",
-    "publishedAt": "2026-11-16T15:49:10.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Aldridge, Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "d46086fdeecb",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfield-decision-made-vs-34917771",
-    "title": "Liverpool midfield decision made vs Manchester United after injury concerns",
-    "ko": "리버풀, 부상 우려 속 맨유전 중원 선발 결정",
-    "source": "lecho",
-    "publishedAt": "2026-11-17T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle, Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "f8e096493ce3",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-mauricio-pochettino-liverpool-34921646",
-    "title": "Mauricio Pochettino mistake could cost Man United dearly against Liverpool",
-    "ko": "포체티노의 실수, 리버풀전서 맨유에 큰 대가 우려",
-    "source": "men",
-    "publishedAt": "2026-11-17T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "c6b3386f7bc7",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-vs-manchester-united-referee-34931676",
-    "title": "Liverpool vs Man Utd referee appointment questioned after Alisson FA sanction and big error",
-    "ko": "리버풀-맨유전 주심 배정 논란, 앨리슨 징계와 큰 오심 이후",
-    "source": "lecho",
-    "publishedAt": "2026-11-18T16:14:29.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "앨리슨"
-    ],
-    "playerTags": [],
-    "author": "Scott Trotter",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-16T14:49:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Liverpool vs Man Utd referee appointment questioned after Alisson FA sanction and big error"
  },
  {
   "slug": "diallo-infantino-affairs-dispute",
@@ -113072,80 +113154,6 @@
    "viaQuote": false
   },
   "headline": "Seamus Coleman questions Everton punishment and says Man City case is 'killing' the Premier League"
- },
- {
-  "slug": "sane-relationship",
-  "mode": "llm",
-  "titleKo": "르로이 사네, 돈 때문에 이적했다는 비판",
-  "createdAt": "2026-11-04T05:10:00.000Z",
-  "updatedAt": "2026-11-05T05:02:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "르로이 사네",
-   "레로이 사네"
-  ],
-  "sig": [
-   "wechsel",
-   "geldgier",
-   "leroy",
-   "sane",
-   "vorwurf"
-  ],
-  "articles": [
-   {
-    "id": "282f247db57f",
-    "url": "https://www.tz.de/sport/fc-bayern/mario-basler-uebt-kritik-an-gala-wechsel-von-leroy-sane-94572838.html",
-    "title": "Gala-Wechsel aus Geldgier? Leroy Sane mit schwerem Vorwurf kontrontiert",
-    "ko": "르로이 사네, 돈 때문에 이적했다는 비판 받아",
-    "source": "tz",
-    "publishedAt": "2026-11-04T05:10:00.000Z",
-    "credited": null,
-    "category": "other",
-    "stage": null,
-    "players": [
-     "르로이 사네"
-    ],
-    "playerTags": [],
-    "author": "Isabella Strehmann",
-    "transfer": null,
-    "clubs": []
-   },
-   {
-    "id": "95e14cae8dc0",
-    "url": "https://www.tz.de/sport/fc-bayern/didi-hamann-uebt-harsche-kritik-an-ex-bayern-star-leroy-sane-94574521.html",
-    "title": "„Alleine er schuld“: Didi Hamann geht auf Leroy Sane los",
-    "ko": "햄 \"잘못은 전적으로 그 자신\"…레로이 사네 비판 쏟아내",
-    "source": "tz",
-    "publishedAt": "2026-11-05T05:02:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "레로이 사네"
-    ],
-    "playerTags": [],
-    "author": "Isabella Strehmann",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-04T05:10:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "„Alleine er schuld“: Didi Hamann geht auf Leroy Sane los"
  },
  {
   "slug": "leipzig-man-city-2026-11-04",
