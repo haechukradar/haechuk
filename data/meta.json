@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T14:54:06.166Z",
+ "updatedAt": "2026-11-19T15:50:09.509Z",
  "hot": [
-  "assistant-referee-stone-throwing-discipline",
   "man-city-affairs-charges-20261119",
+  "pochettino-man-utd-manager-future",
+  "assistant-referee-stone-throwing-discipline",
   "messi-affairs-image-rights",
-  "tchouameni-real-madrid-contract",
-  "infantino-fifa-affairs-election-candidacy"
+  "tchouameni-real-madrid-contract"
  ],
  "days": [
   "2026-10-18",
@@ -37,13 +37,14 @@
   "2026-11-16",
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -55,7 +56,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -79,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -91,37 +92,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 92
+   "added": 2,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "waz": {
@@ -133,31 +134,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -169,31 +170,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 8,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -320,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 53,
+  "recentIssues": 228,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 103
+    "count": 102
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -337,11 +338,11 @@
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
@@ -369,6 +370,24 @@
     {
      "ko": "조르제 제수스",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 4
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 4
+    },
+    {
+     "ko": "하이슬레",
+     "count": 1
     }
    ]
   },
@@ -555,20 +574,6 @@
    ]
   },
   {
-   "en": "Dolores Aveiro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "돌로레스 아베이루",
-     "count": 4
-    },
-    {
-     "ko": "도로레스 아베이루",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Simão",
    "dictionary": null,
    "variants": [
@@ -586,24 +591,6 @@
     },
     {
      "ko": "조르즈 시망",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 1
-    },
-    {
-     "ko": "투헬",
      "count": 1
     }
    ]
@@ -665,20 +652,6 @@
    ]
   },
   {
-   "en": "Chatzialexiou",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "차찰렉시오우",
-     "count": 2
-    },
-    {
-     "ko": "샤탈렉시우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mohya",
    "dictionary": null,
    "variants": [
@@ -730,6 +703,20 @@
     },
     {
      "ko": "튜헬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "투헬",
      "count": 1
     }
    ]
@@ -893,6 +880,20 @@
    ]
   },
   {
+   "en": "Chatzialexiou",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "샤탈렉시우",
+     "count": 1
+    },
+    {
+     "ko": "차찰렉시오우",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
@@ -1033,20 +1034,6 @@
    ]
   },
   {
-   "en": "Schlotterbeck",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "쉴로터베크",
-     "count": 1
-    },
-    {
-     "ko": "슐로터베크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "De la Fuente",
    "dictionary": null,
    "variants": [
@@ -1056,6 +1043,20 @@
     },
     {
      "ko": "델라 푸엔테",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dolores Aveiro",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "도로레스 아베이루",
+     "count": 1
+    },
+    {
+     "ko": "돌로레스 아베이루",
      "count": 1
     }
    ]
@@ -1187,6 +1188,10 @@
   "2026-11-19": {
    "collected": 769,
    "llm": 769
+  },
+  "2026-11-20": {
+   "collected": 37,
+   "llm": 37
   }
  },
  "llmErrors": []
