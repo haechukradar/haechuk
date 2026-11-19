@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T20:46:40.459Z",
+ "updatedAt": "2026-11-19T21:41:34.908Z",
  "hot": [
   "thomas-frank-crystal-palace-appointment",
   "pochettino-man-utd-manager-future",
@@ -44,19 +44,19 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,7 +98,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 3,
    "authorRate": 86
   },
   "fblondon": {
@@ -146,7 +146,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -158,7 +158,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -170,13 +170,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -193,8 +193,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 2,
+   "items": 10,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -205,11 +205,11 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 54
+   "count": 55
   },
   {
    "name": "프레스티아니",
-   "count": 43
+   "count": 44
   },
   {
    "name": "오워노",
@@ -321,20 +321,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 223,
-  "singleArticleRate": 52,
+  "recentIssues": 226,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 106
+    "count": 107
    },
    {
     "slug": "wales-portugal-2026-11-12",
     "count": 23
-   },
-   {
-    "slug": "germany-netherlands-2026-11-16",
-    "count": 20
    },
    {
     "slug": "pochettino-usmnt-manager-future",
@@ -343,10 +339,6 @@
    {
     "slug": "jj-gabriel-real-madrid-transfer",
     "count": 16
-   },
-   {
-    "slug": "diallo-infantino-affairs-dispute",
-    "count": 15
    }
   ]
  },
@@ -360,11 +352,11 @@
      "count": 11
     },
     {
-     "ko": "호르헤 제수스",
-     "count": 3
+     "ko": "조르제 제수스",
+     "count": 2
     },
     {
-     "ko": "조르제 제수스",
+     "ko": "호르헤 제수스",
      "count": 2
     }
    ]
@@ -406,20 +398,6 @@
    ]
   },
   {
-   "en": "Scherhant",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰르한트",
-     "count": 7
-    },
-    {
-     "ko": "샤르한트",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Max Dowman",
    "dictionary": null,
    "variants": [
@@ -447,6 +425,20 @@
     },
     {
      "ko": "알란지뇨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Scherhant",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셰르한트",
+     "count": 6
+    },
+    {
+     "ko": "샤르한트",
      "count": 1
     }
    ]
@@ -538,56 +530,6 @@
    ]
   },
   {
-   "en": "Jorge Simão",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 시몽",
-     "count": 2
-    },
-    {
-     "ko": "조르지 시몽",
-     "count": 1
-    },
-    {
-     "ko": "조르지 시망",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 시망",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스",
-     "count": 4
-    },
-    {
-     "ko": "예수스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마토스",
-     "count": 4
-    },
-    {
-     "ko": "마티오스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
@@ -606,6 +548,24 @@
    ]
   },
   {
+   "en": "Jorge Simão",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 시몽",
+     "count": 2
+    },
+    {
+     "ko": "조르지 시몽",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 시망",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pedro Neto",
    "dictionary": null,
    "variants": [
@@ -616,6 +576,34 @@
     {
      "ko": "페드로 네투",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Matos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마토스",
+     "count": 3
+    },
+    {
+     "ko": "마티오스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스",
+     "count": 3
+    },
+    {
+     "ko": "예수스",
+     "count": 1
     }
    ]
   },
@@ -657,20 +645,6 @@
     },
     {
      "ko": "구스타부 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ramon Vega",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라몬 베가",
-     "count": 2
-    },
-    {
-     "ko": "람 베가",
      "count": 1
     }
    ]
@@ -1102,6 +1076,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 1
+    },
+    {
+     "ko": "회에스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1190,8 +1178,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 230,
-   "llm": 230
+   "collected": 253,
+   "llm": 253
   }
  },
  "llmErrors": []
