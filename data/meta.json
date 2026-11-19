@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-18T23:31:10.045Z",
+ "updatedAt": "2026-11-19T00:35:07.683Z",
  "hot": [
   "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
+  "matos-strasbourg-appointment",
   "strasbourg-manager-appointment",
-  "man-city-bk-hacken-2026-11-18",
-  "infantino-fifa-affairs-comeback"
+  "man-city-bk-hacken-2026-11-18"
  ],
  "days": [
   "2026-10-18",
@@ -43,19 +43,19 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 14,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,7 +97,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 92
   },
   "fblondon": {
@@ -145,7 +145,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -157,12 +157,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 25,
+   "items": 23,
    "added": 0,
    "authorRate": 100
   },
@@ -187,12 +187,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -320,7 +320,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
+  "recentIssues": 229,
   "singleArticleRate": 55,
   "broad": [
    {
@@ -332,11 +332,11 @@
     "count": 37
    },
    {
-    "slug": "spain-england-2026-11-14",
-    "count": 28
+    "slug": "wales-portugal-2026-11-12",
+    "count": 23
    },
    {
-    "slug": "wales-portugal-2026-11-12",
+    "slug": "spain-england-2026-11-14",
     "count": 23
    },
    {
@@ -441,20 +441,6 @@
    ]
   },
   {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 6
-    },
-    {
-     "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
@@ -500,6 +486,20 @@
     },
     {
      "ko": "바스코 페소",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 5
+    },
+    {
+     "ko": "튜헬",
      "count": 1
     }
    ]
@@ -923,20 +923,6 @@
    ]
   },
   {
-   "en": "Pickford",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "피크포드",
-     "count": 1
-    },
-    {
-     "ko": "픽포드",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Lucas Furtado",
    "dictionary": null,
    "variants": [
@@ -1117,6 +1103,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Schjelderup",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "셸더루프",
+     "count": 1
+    },
+    {
+     "ko": "쉘데루프",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1201,8 +1201,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 319,
-   "llm": 319
+   "collected": 328,
+   "llm": 328
   }
  },
  "llmErrors": []
