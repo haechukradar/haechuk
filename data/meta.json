@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-11-19T08:25:08.655Z",
+ "updatedAt": "2026-11-19T09:34:23.850Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
   "man-city-affairs-charges-20261109",
+  "pochettino-man-utd-manager-future",
   "jj-gabriel-man-utd-affairs-legal",
   "chelsea-psg-women-cl-2026-11-18",
   "jj-gabriel-real-madrid-transfer"
@@ -43,13 +43,13 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -91,25 +91,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -121,7 +121,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 1,
    "authorRate": 98
   },
   "waz": {
@@ -145,19 +145,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -174,37 +174,37 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
+   "items": 30,
    "added": 0,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 7,
+   "items": 14,
+   "added": 6,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 79
+   "count": 80
   },
   {
    "name": "JJ 가브리엘",
-   "count": 53
+   "count": 54
   },
   {
    "name": "프레스티아니",
@@ -227,6 +227,10 @@
    "count": 35
   },
   {
+   "name": "웨인 루니",
+   "count": 33
+  },
+  {
    "name": "잭 그릴리시",
    "count": 33
   },
@@ -237,10 +241,6 @@
   {
    "name": "베르나르두 실바",
    "count": 33
-  },
-  {
-   "name": "웨인 루니",
-   "count": 32
   },
   {
    "name": "그릴리시",
@@ -320,16 +320,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
+  "recentIssues": 226,
   "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 90
+    "count": 91
    },
    {
     "slug": "germany-netherlands-2026-11-16",
-    "count": 34
+    "count": 33
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -569,20 +569,6 @@
    ]
   },
   {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 4
-    },
-    {
-     "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jorge Simão",
    "dictionary": null,
    "variants": [
@@ -654,6 +640,20 @@
     },
     {
      "ko": "도로레스 아베이루",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 3
+    },
+    {
+     "ko": "튜헬",
      "count": 1
     }
    ]
@@ -733,6 +733,20 @@
    ]
   },
   {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "돈나룸마",
+     "count": 2
+    },
+    {
+     "ko": "도나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Blatter",
    "dictionary": null,
    "variants": [
@@ -774,20 +788,6 @@
     },
     {
      "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "팀미 시몬스",
      "count": 1
     }
    ]
@@ -965,34 +965,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 1
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Wenger",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "벵거",
-     "count": 1
-    },
-    {
-     "ko": "웽거",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Taty Castellanos",
    "dictionary": null,
    "variants": [
@@ -1002,6 +974,20 @@
     },
     {
      "ko": "타티 카스텔라노스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "팀미 시몬스",
+     "count": 1
+    },
+    {
+     "ko": "티미 시몬스",
      "count": 1
     }
    ]
@@ -1117,6 +1103,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Folarin Balogun",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "발로군",
+     "count": 1
+    },
+    {
+     "ko": "폴라린 발룬",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1201,8 +1201,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 463,
-   "llm": 463
+   "collected": 513,
+   "llm": 513
   }
  },
  "llmErrors": []
