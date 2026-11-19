@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T12:43:19.210Z",
+ "updatedAt": "2026-11-19T14:00:11.060Z",
  "hot": [
-  "infantino-fifa-affairs-election-candidacy",
   "assistant-referee-stone-throwing-discipline",
-  "pochettino-man-utd-manager-future",
   "messi-affairs-image-rights",
-  "man-city-affairs-charges-20261109"
+  "tchouameni-real-madrid-contract",
+  "infantino-fifa-affairs-election-candidacy",
+  "pochettino-usmnt-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -42,20 +42,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 1,
+   "items": 82,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 3,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -67,7 +67,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -91,25 +91,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 96
+   "added": 9,
+   "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -121,7 +121,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 98
   },
   "waz": {
@@ -145,13 +145,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -163,7 +163,7 @@
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -175,25 +175,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
-   "authorRate": 93
+   "added": 8,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 3,
+   "items": 8,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -212,11 +212,11 @@
   },
   {
    "name": "오워노",
-   "count": 39
+   "count": 40
   },
   {
    "name": "맥스 다우먼",
-   "count": 38
+   "count": 39
   },
   {
    "name": "호나우지뉴",
@@ -225,6 +225,10 @@
   {
    "name": "루카쿠",
    "count": 35
+  },
+  {
+   "name": "베르나르두 실바",
+   "count": 34
   },
   {
    "name": "웨인 루니",
@@ -236,10 +240,6 @@
   },
   {
    "name": "노이어",
-   "count": 33
-  },
-  {
-   "name": "베르나르두 실바",
    "count": 33
   },
   {
@@ -279,6 +279,10 @@
    "count": 16
   },
   {
+   "name": "반 다이크",
+   "count": 15
+  },
+  {
    "name": "윌 랭크셔",
    "count": 15
   },
@@ -293,10 +297,6 @@
   {
    "name": "벤 화이트",
    "count": 15
-  },
-  {
-   "name": "반 다이크",
-   "count": 14
   },
   {
    "name": "발로군",
@@ -320,16 +320,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 54,
+  "recentIssues": 224,
+  "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 103
+    "count": 106
    },
    {
     "slug": "germany-netherlands-2026-11-16",
-    "count": 32
+    "count": 31
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -337,11 +337,11 @@
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 20
+    "count": 21
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 19
+    "count": 17
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
@@ -373,24 +373,6 @@
    ]
   },
   {
-   "en": "Jürgen Klopp",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클롭",
-     "count": 7
-    },
-    {
-     "ko": "위르겐 클롭",
-     "count": 2
-    },
-    {
-     "ko": "클린스만",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Xavi",
    "dictionary": null,
    "variants": [
@@ -418,6 +400,24 @@
     },
     {
      "ko": "샤르한트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 5
+    },
+    {
+     "ko": "맥스 다우맨",
+     "count": 1
+    },
+    {
+     "ko": "막스 다우먼",
      "count": 1
     }
    ]
@@ -469,19 +469,27 @@
    ]
   },
   {
-   "en": "Max Dowman",
+   "en": "Owono",
    "dictionary": null,
    "variants": [
     {
-     "ko": "맥스 다우먼",
-     "count": 4
+     "ko": "오워노",
+     "count": 2
     },
     {
-     "ko": "맥스 다우맨",
+     "ko": "오와노",
      "count": 1
     },
     {
-     "ko": "막스 다우먼",
+     "ko": "오요노",
+     "count": 1
+    },
+    {
+     "ko": "오노워",
+     "count": 1
+    },
+    {
+     "ko": "오노노",
      "count": 1
     }
    ]
@@ -564,32 +572,6 @@
     },
     {
      "ko": "조르즈 시몽",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오와노",
-     "count": 1
-    },
-    {
-     "ko": "오워노",
-     "count": 1
-    },
-    {
-     "ko": "오요노",
-     "count": 1
-    },
-    {
-     "ko": "오노워",
-     "count": 1
-    },
-    {
-     "ko": "오노노",
      "count": 1
     }
    ]
@@ -692,20 +674,6 @@
     },
     {
      "ko": "카라거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "돈나룸마",
-     "count": 2
-    },
-    {
-     "ko": "도나룸마",
      "count": 1
     }
    ]
@@ -878,34 +846,6 @@
     },
     {
      "ko": "마이클 캉",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Cody Gakpo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "각파이",
-     "count": 1
-    },
-    {
-     "ko": "코디 가크포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Charles De Ketelaere",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "샤를 드 케테라레",
-     "count": 1
-    },
-    {
-     "ko": "드 케테라에레",
      "count": 1
     }
    ]
@@ -1105,6 +1045,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Rúben Neves",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루벤 네베스",
+     "count": 1
+    },
+    {
+     "ko": "후벵 네베스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gianluigi Donnarumma",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "돈나룸마",
+     "count": 1
+    },
+    {
+     "ko": "도나룸마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Simon Ebonog",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사이먼 에보노그",
+     "count": 1
+    },
+    {
+     "ko": "시몬 에보농",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Georges Mikautadze",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미카우타드제",
+     "count": 1
+    },
+    {
+     "ko": "조르주 미카우타제",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1189,8 +1185,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 666,
-   "llm": 666
+   "collected": 735,
+   "llm": 735
   }
  },
  "llmErrors": []
