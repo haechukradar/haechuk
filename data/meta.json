@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T06:59:45.315Z",
+ "updatedAt": "2026-11-19T08:25:08.655Z",
  "hot": [
-  "chelsea-psg-women-cl-2026-11-18",
   "pochettino-man-utd-manager-future",
+  "man-city-affairs-charges-20261109",
   "jj-gabriel-man-utd-affairs-legal",
-  "jj-gabriel-real-madrid-transfer",
-  "real-madrid-inter-2026-11-18"
+  "chelsea-psg-women-cl-2026-11-18",
+  "jj-gabriel-real-madrid-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -42,14 +42,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 1,
+   "items": 83,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 58,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
@@ -67,7 +67,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,32 +97,32 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 6,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
-   "authorRate": 95
+   "added": 2,
+   "authorRate": 98
   },
   "waz": {
    "ok": true,
@@ -133,7 +133,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "rp": {
@@ -145,19 +145,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -175,7 +175,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 0,
    "authorRate": 93
   },
   "star": {
@@ -187,13 +187,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 1,
-   "added": 1,
+   "items": 8,
+   "added": 7,
    "authorRate": 0
   }
  },
@@ -204,7 +204,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 51
+   "count": 53
   },
   {
    "name": "프레스티아니",
@@ -320,12 +320,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
-  "singleArticleRate": 53,
+  "recentIssues": 224,
+  "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 89
+    "count": 90
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -340,19 +340,15 @@
     "count": 20
    },
    {
-    "slug": "spain-england-2026-11-14",
-    "count": 20
-   },
-   {
     "slug": "thomas-frank-crystal-palace-appointment",
     "count": 19
    },
    {
-    "slug": "diallo-infantino-affairs-dispute",
-    "count": 15
+    "slug": "jj-gabriel-real-madrid-transfer",
+    "count": 16
    },
    {
-    "slug": "jj-gabriel-real-madrid-transfer",
+    "slug": "diallo-infantino-affairs-dispute",
     "count": 15
    }
   ]
@@ -364,7 +360,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 16
+     "count": 15
     },
     {
      "ko": "호르헤 제수스",
@@ -427,28 +423,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 2
-    },
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "튀헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Alanzinho",
    "dictionary": null,
    "variants": [
@@ -495,15 +469,23 @@
    ]
   },
   {
-   "en": "Tuchel",
+   "en": "Thomas Tuchel",
    "dictionary": null,
    "variants": [
     {
      "ko": "투헬",
-     "count": 5
+     "count": 2
     },
     {
      "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "튀헬",
+     "count": 1
+    },
+    {
+     "ko": "토마스 투헬",
      "count": 1
     }
    ]
@@ -583,6 +565,20 @@
     {
      "ko": "아르다 귈레르",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "투헬",
+     "count": 4
+    },
+    {
+     "ko": "튜헬",
+     "count": 1
     }
    ]
   },
@@ -691,6 +687,20 @@
    ]
   },
   {
+   "en": "Antonio Nusa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "안토니오 누사",
+     "count": 3
+    },
+    {
+     "ko": "안토니 누사",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
@@ -755,6 +765,20 @@
    ]
   },
   {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 2
+    },
+    {
+     "ko": "라민",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Timmy Simons",
    "dictionary": null,
    "variants": [
@@ -764,20 +788,6 @@
     },
     {
      "ko": "팀미 시몬스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rúben Neves",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루벤 네베스",
-     "count": 2
-    },
-    {
-     "ko": "후벵 네베스",
      "count": 1
     }
    ]
@@ -811,15 +821,15 @@
    ]
   },
   {
-   "en": "Antonio Nusa",
+   "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
     {
-     "ko": "안토니오 누사",
+     "ko": "구스타보 바렐라",
      "count": 2
     },
     {
-     "ko": "안토니 누사",
+     "ko": "구스타부 바렐라",
      "count": 1
     }
    ]
@@ -955,34 +965,6 @@
    ]
   },
   {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민 야말",
-     "count": 1
-    },
-    {
-     "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hürzeler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "뷔르첼러",
-     "count": 1
-    },
-    {
-     "ko": "휘르첼러",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -1081,20 +1063,6 @@
    ]
   },
   {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타부 바렐라",
-     "count": 1
-    },
-    {
-     "ko": "구스타보 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gerard Piqué",
    "dictionary": null,
    "variants": [
@@ -1118,6 +1086,34 @@
     },
     {
      "ko": "쉘데루프",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos André Gomes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 앙드레 고메스",
+     "count": 1
+    },
+    {
+     "ko": "카를루스 앙드레 고메스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Nuno Dias",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "누누 디아스",
+     "count": 1
+    },
+    {
+     "ko": "누노 디아스",
      "count": 1
     }
    ]
@@ -1205,8 +1201,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 416,
-   "llm": 416
+   "collected": 463,
+   "llm": 463
   }
  },
  "llmErrors": []
