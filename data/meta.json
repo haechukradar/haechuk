@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T22:32:38.599Z",
+ "updatedAt": "2026-11-19T23:26:09.725Z",
  "hot": [
   "arsenal-ol-lyonnes-2026-11-19",
   "england-affairs-fan-discrimination-uefa",
@@ -50,7 +50,7 @@
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
@@ -92,14 +92,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 86
+   "added": 3,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -110,7 +110,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -146,7 +146,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -176,7 +176,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -188,12 +188,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
+  "recentIssues": 220,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 109
+    "count": 107
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 18
+    "count": 16
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
@@ -349,7 +349,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 10
+     "count": 9
     },
     {
      "ko": "조르제 제수스",
@@ -458,20 +458,6 @@
    ]
   },
   {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 5
-    },
-    {
-     "ko": "맥스 다우맨",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -522,20 +508,6 @@
     {
      "ko": "우고 올리베이라",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Pocognoli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포콘골리",
-     "count": 4
-    },
-    {
-     "ko": "포콘뇰리",
-     "count": 1
     }
    ]
   },
@@ -920,20 +892,6 @@
    ]
   },
   {
-   "en": "Jurrien Timber",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티머",
-     "count": 1
-    },
-    {
-     "ko": "유리엔 팀버",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Nick Woltemade",
    "dictionary": null,
    "variants": [
@@ -971,20 +929,6 @@
     },
     {
      "ko": "카를루스 앙드레 고메스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nuno Dias",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "누누 디아스",
-     "count": 1
-    },
-    {
-     "ko": "누노 디아스",
      "count": 1
     }
    ]
@@ -1086,6 +1030,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Lemke",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레미케",
+     "count": 1
+    },
+    {
+     "ko": "레름케",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회너스",
+     "count": 1
+    },
+    {
+     "ko": "회에스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Agostinho Bento",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아고스티뇨 벤투",
+     "count": 1
+    },
+    {
+     "ko": "아고스티뉴 벤토",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "John McGinn",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "존 맥진",
+     "count": 1
+    },
+    {
+     "ko": "존 맥긴",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1174,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 279,
-   "llm": 279
+   "collected": 295,
+   "llm": 295
   }
  },
  "llmErrors": []
