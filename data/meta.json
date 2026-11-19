@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T11:36:01.241Z",
+ "updatedAt": "2026-11-19T12:43:19.210Z",
  "hot": [
   "infantino-fifa-affairs-election-candidacy",
   "assistant-referee-stone-throwing-discipline",
-  "man-city-affairs-charges-20261109",
   "pochettino-man-utd-manager-future",
-  "pochettino-usmnt-manager-future"
+  "messi-affairs-image-rights",
+  "man-city-affairs-charges-20261109"
  ],
  "days": [
   "2026-10-18",
@@ -43,7 +43,7 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -55,7 +55,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -79,7 +79,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -91,14 +91,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 98
+   "authorRate": 96
   },
   "fblondon": {
    "ok": true,
@@ -121,7 +121,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "waz": {
@@ -145,7 +145,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -157,13 +157,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 24,
-   "added": 0,
+   "items": 25,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -175,13 +175,13 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 4,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -192,8 +192,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 10,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -220,7 +220,7 @@
   },
   {
    "name": "호나우지뉴",
-   "count": 37
+   "count": 38
   },
   {
    "name": "루카쿠",
@@ -320,12 +320,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
+  "recentIssues": 225,
   "singleArticleRate": 54,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 94
+    "count": 103
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -337,11 +337,11 @@
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 18
+    "count": 19
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
@@ -378,7 +378,7 @@
    "variants": [
     {
      "ko": "클롭",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "위르겐 클롭",
@@ -569,24 +569,6 @@
    ]
   },
   {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -650,6 +632,24 @@
     },
     {
      "ko": "튜헬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튜헬",
+     "count": 2
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 1
+    },
+    {
+     "ko": "투헬",
      "count": 1
     }
    ]
@@ -897,20 +897,6 @@
    ]
   },
   {
-   "en": "José Couceiro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주제 쿠세이루",
-     "count": 1
-    },
-    {
-     "ko": "조세이루",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Charles De Ketelaere",
    "dictionary": null,
    "variants": [
@@ -1105,6 +1091,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "De la Fuente",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "데 라 푸엔테",
+     "count": 1
+    },
+    {
+     "ko": "델라 푸엔테",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1189,8 +1189,8 @@
    "llm": 719
   },
   "2026-11-19": {
-   "collected": 617,
-   "llm": 617
+   "collected": 666,
+   "llm": 666
   }
  },
  "llmErrors": []
