@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T18:50:17.148Z",
+ "updatedAt": "2026-11-19T19:55:32.624Z",
  "hot": [
-  "man-city-affairs-charges-20261119",
   "pochettino-man-utd-manager-future",
-  "assistant-referee-stone-throwing-discipline",
+  "man-city-affairs-charges-20261119",
   "blackpool-manager-future",
-  "newcastle-arsenal-2026-11-22"
+  "england-affairs-fan-discrimination-uefa",
+  "assistant-referee-stone-throwing-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -43,8 +43,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 84,
-   "added": 1,
+   "items": 82,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -56,7 +56,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,13 +92,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 4,
    "authorRate": 86
   },
   "fblondon": {
@@ -116,7 +116,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -146,7 +146,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -158,7 +158,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -170,13 +170,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
@@ -188,13 +188,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 4,
+   "items": 15,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -225,7 +225,7 @@
   },
   {
    "name": "루카쿠",
-   "count": 35
+   "count": 36
   },
   {
    "name": "베르나르두 실바",
@@ -257,7 +257,7 @@
   },
   {
    "name": "루이스 홀",
-   "count": 20
+   "count": 21
   },
   {
    "name": "트레솔디",
@@ -321,32 +321,28 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 55,
+  "recentIssues": 226,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
     "count": 104
    },
    {
-    "slug": "germany-netherlands-2026-11-16",
-    "count": 24
-   },
-   {
     "slug": "wales-portugal-2026-11-12",
     "count": 23
    },
    {
+    "slug": "germany-netherlands-2026-11-16",
+    "count": 22
+   },
+   {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
     "count": 16
-   },
-   {
-    "slug": "diallo-infantino-affairs-dispute",
-    "count": 15
    }
   ]
  },
@@ -357,7 +353,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 12
+     "count": 11
     },
     {
      "ko": "호르헤 제수스",
@@ -374,12 +370,12 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마티아스 야이슬레",
+     "ko": "야이슬레",
      "count": 5
     },
     {
-     "ko": "야이슬레",
-     "count": 4
+     "ko": "마티아스 야이슬레",
+     "count": 5
     },
     {
      "ko": "하이슬레",
@@ -538,6 +534,28 @@
    ]
   },
   {
+   "en": "Jorge Simão",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 시몽",
+     "count": 2
+    },
+    {
+     "ko": "조르지 시몽",
+     "count": 1
+    },
+    {
+     "ko": "조르지 시망",
+     "count": 1
+    },
+    {
+     "ko": "조르즈 시망",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jesus",
    "dictionary": null,
    "variants": [
@@ -566,23 +584,19 @@
    ]
   },
   {
-   "en": "Jorge Simão",
+   "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
     {
-     "ko": "조르지 시몽",
+     "ko": "안토니오 누사",
+     "count": 3
+    },
+    {
+     "ko": "안토니 누사",
      "count": 1
     },
     {
-     "ko": "조르지 시망",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 시몽",
-     "count": 1
-    },
-    {
-     "ko": "조르즈 시망",
+     "ko": "누사",
      "count": 1
     }
    ]
@@ -598,20 +612,6 @@
     {
      "ko": "페드로 네투",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Antonio Nusa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니오 누사",
-     "count": 3
-    },
-    {
-     "ko": "안토니 누사",
-     "count": 1
     }
    ]
   },
@@ -672,34 +672,6 @@
    ]
   },
   {
-   "en": "Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "투헬",
-     "count": 2
-    },
-    {
-     "ko": "튜헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "튜헬",
-     "count": 2
-    },
-    {
-     "ko": "투헬",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kai",
    "dictionary": null,
    "variants": [
@@ -736,11 +708,11 @@
      "count": 1
     },
     {
-     "ko": "부코비치",
+     "ko": "부쉬코비치",
      "count": 1
     },
     {
-     "ko": "부쉬코비치",
+     "ko": "부코비치",
      "count": 1
     }
    ]
@@ -1098,6 +1070,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르헤스",
+     "count": 1
+    },
+    {
+     "ko": "루이 보르게스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kaminski",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카민스키",
+     "count": 1
+    },
+    {
+     "ko": "카미스키",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1186,8 +1186,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 164,
-   "llm": 164
+   "collected": 204,
+   "llm": 204
   }
  },
  "llmErrors": []
