@@ -1,85 +1,104 @@
 [
  {
-  "slug": "argentina-australia-2026-11-19",
+  "slug": "hojbjerg-juventus-transfer",
   "mode": "llm",
-  "titleKo": "아르헨티나 대 호주 U-17 월드컵 경기",
-  "createdAt": "2026-11-19T15:42:00.000Z",
-  "updatedAt": "2026-11-19T15:42:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
+  "titleKo": "유벤투스 호이비에르 영입 관심",
+  "createdAt": "2026-11-19T16:44:00.000Z",
+  "updatedAt": "2026-11-19T16:44:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "juventus",
+   "marseille"
+  ],
+  "players": [
+   "호이비에르"
+  ],
   "sig": [
-   "australia",
-   "mundial",
-   "sub"
+   "hojbjerg",
+   "marselha"
   ],
   "articles": [
    {
-    "id": "5f9667273871",
-    "url": "https://as.com/futbol/internacional/argentina-australia-en-directo-mundial-sub-17-hoy-en-vivo-f202611-d/",
-    "title": "Argentina - Australia, en directo: Mundial Sub-17, hoy en vivo",
-    "ko": "아르헨티나 대 호주, U-17 월드컵 실시간 중계",
-    "source": "as",
-    "publishedAt": "2026-11-19T15:42:00.000Z",
+    "id": "9d92524169e2",
+    "url": "https://www.record.pt/internacional/paises/italia/detalhe/juventus-quer-hojbjerg-mas-marselha-torce-o-nariz",
+    "title": "Juventus quer Hojbjerg mas Marselha torce o nariz",
+    "ko": "유벤투스, 호이비에르 영입 추진…마르세유는 난색",
+    "source": "record",
+    "publishedAt": "2026-11-19T16:44:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
+    "clubs": [
+     "juventus",
+     "marseille"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "호이비에르"
+    ],
     "playerTags": [],
-    "author": "Pablo Almohalla",
-    "transfer": null
+    "author": null,
+    "transfer": {
+     "player": "호이비에르",
+     "from": "마르세유",
+     "to": "유벤투스"
+    }
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.95,
+  "score": 1.93,
   "topTier": 2,
-  "stageHistory": [],
+  "stageHistory": [
+   {
+    "id": "9d92524169e2",
+    "at": "2026-11-19T16:44:00.000Z",
+    "source": "record",
+    "from": null,
+    "to": "interest"
+   }
+  ],
   "stageChange": null,
   "playerTags": [],
-  "transfer": null,
+  "transfer": {
+   "player": "호이비에르",
+   "from": "마르세유",
+   "to": "유벤투스"
+  },
   "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-19T15:42:00.000Z",
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-19T16:44:00.000Z",
    "viaQuote": false
   },
-  "headline": "Argentina - Australia, en directo: Mundial Sub-17, hoy en vivo"
+  "headline": "Juventus quer Hojbjerg mas Marselha torce o nariz"
  },
  {
-  "slug": "kapralik-injury",
+  "slug": "blackwell-crawley-manager-future",
   "mode": "llm",
-  "titleKo": "카프랄리크 연말까지 결장",
-  "createdAt": "2026-11-19T15:35:17.000Z",
-  "updatedAt": "2026-11-19T15:35:17.000Z",
-  "category": "injury",
+  "titleKo": "크롤리 블랙웰 감독 거취 결정",
+  "createdAt": "2026-11-19T16:40:30.000Z",
+  "updatedAt": "2026-11-19T16:40:30.000Z",
+  "category": "manager",
   "stage": null,
   "clubs": [],
-  "players": [
-   "카프랄리크"
-  ],
+  "players": [],
   "sig": [
-   "kiel",
-   "kapralik",
-   "jahresende"
+   "blackwell"
   ],
   "articles": [
    {
-    "id": "163c3b1dd4f4",
-    "url": "https://www.kicker.de/hiobsbotschaft-fuer-kiel-kapralik-faellt-bis-jahresende-aus-1273044/artikel#omrss",
-    "title": "Hiobsbotschaft für Kiel: Kapralik fällt bis Jahresende aus",
-    "ko": "킬 카프랄리크, 연말까지 결장 소식",
-    "source": "kicker",
-    "publishedAt": "2026-11-19T15:35:17.000Z",
+    "id": "77cfce27dda4",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8zx975y67qdo?at_medium=RSS&at_campaign=rss",
+    "title": "Crawley keep Blackwell as boss until end of season",
+    "ko": "크롤리, 블랙웰 감독 시즌 말까지 유임",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T16:40:30.000Z",
     "credited": null,
     "clubs": [],
-    "category": "injury",
+    "category": "manager",
     "stage": null,
-    "players": [
-     "카프랄리크"
-    ],
+    "players": [],
     "playerTags": [],
     "author": null,
     "transfer": null
@@ -87,8 +106,63 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.92,
-  "topTier": 2,
+  "score": 2.87,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-19T16:40:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Crawley keep Blackwell as boss until end of season"
+ },
+ {
+  "slug": "bayern-women-austria-2026-11-19",
+  "mode": "llm",
+  "titleKo": "바이에른 여자팀 오스트리아 대표팀 경기",
+  "createdAt": "2026-11-19T16:34:31.000Z",
+  "updatedAt": "2026-11-19T16:34:31.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [],
+  "sig": [
+   "pflichtaufgabe",
+   "austria",
+   "bauen",
+   "frauen",
+   "serie"
+  ],
+  "articles": [
+   {
+    "id": "10705ef3aff9",
+    "url": "https://www.kicker.de/austria-wien-gegen-bayern-2026-frauen-champions-league-5265240/spielbericht#omrss",
+    "title": "LIVE! Pflichtaufgabe Austria: Bauen die Bayern-Frauen ihre Serie aus?",
+    "ko": "바이에른 여자팀, 오스트리아전 연승 도전",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T16:34:31.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.56,
+  "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
@@ -96,201 +170,17 @@
   "firstReport": {
    "name": "키커",
    "source": "kicker",
-   "at": "2026-11-19T15:35:17.000Z",
+   "at": "2026-11-19T16:34:31.000Z",
    "viaQuote": false
   },
-  "headline": "Hiobsbotschaft für Kiel: Kapralik fällt bis Jahresende aus"
- },
- {
-  "slug": "man-city-affairs-charges-20261119",
-  "mode": "llm",
-  "titleKo": "맨시티 혐의 여파 확산",
-  "createdAt": "2026-11-19T08:53:43.000Z",
-  "updatedAt": "2026-11-19T15:34:07.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-city",
-   "arsenal",
-   "chelsea",
-   "tottenham"
-  ],
-  "players": [],
-  "sig": [
-   "richard",
-   "masters"
-  ],
-  "articles": [
-   {
-    "id": "84b4b6882dd2",
-    "url": "https://www.mirror.co.uk/sport/football/man-city-premier-league-charges-37893153",
-    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
-    "ko": "맨시티 구단주, 20억 달러 타격…프리미어리그 새 혐의 전개",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T08:53:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "9078b1b81328",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-charges-37893153",
-    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
-    "ko": "맨시티 구단주, 20억 달러 타격 속 새 프리미어리그 혐의 부상",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T08:53:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "c098e88470f8",
-    "url": "https://www.thesun.co.uk/sport/41069846/man-city-lose-loan-guilty-verdict/",
-    "title": "Man City miss out on £1.5BILLION as major finance organisation scrap loan after guilty verdict",
-    "ko": "맨시티, 금융기관 대출 철회로 15억 파운드 기회 놓쳐",
-    "source": "sun",
-    "publishedAt": "2026-11-19T12:55:47.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "0802b9aced6f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-    "ko": "프리미어리그 구단들, 맨시티 스폰서 소송 시 법률 비용 부담 논의",
-    "source": "bbc",
-    "publishedAt": "2026-11-19T13:29:42.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dee5ffa4f3bd",
-    "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271",
-    "title": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
-    "ko": "프리미어리그 구단들, 맨시티 유죄 판결 위협에 합의 도달",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T14:10:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "67970b92fd69",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-premier-league-34936649",
-    "title": "Premier League clubs agree to Richard Masters plea over Man City charges fear",
-    "ko": "프리미어리그 구단들, 맨시티 혐의 우려에 리처드 매스터스 요청 수용",
-    "source": "men",
-    "publishedAt": "2026-11-19T14:22:33.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "5624d776e653",
-    "url": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
-    "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
-    "ko": "아스널·첼시·토트넘, 맨시티 사태 속 추가 보호장치 투표",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T15:05:22.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "chelsea",
-     "tottenham",
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jamie Gardner Press Association Chief Sports Reporter",
-    "transfer": null
-   },
-   {
-    "id": "aedd45282566",
-    "url": "https://www.thesun.co.uk/sport/41073112/premier-league-clubs-back-chiefs-man-city-legal-costs/",
-    "title": "Man City in new blow as 18 Premier League clubs vote to cover legal costs of chiefs if club sued over ‘sham’ contracts",
-    "ko": "프리미어리그 18개 구단, 맨시티 임원 법률 비용 보장 투표",
-    "source": "sun",
-    "publishedAt": "2026-11-19T15:34:07.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 5,
-  "score": 5.85,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-19T08:53:43.000Z",
-   "viaQuote": false
-  },
-  "headline": "Premier League clubs to cover legal costs if Man City sponsors sue"
+  "headline": "LIVE! Pflichtaufgabe Austria: Bauen die Bayern-Frauen ihre Serie aus?"
  },
  {
   "slug": "mudryk-discipline",
   "mode": "llm",
   "titleKo": "무드리크 도핑 징계 논란",
   "createdAt": "2026-11-18T21:27:16.000Z",
-  "updatedAt": "2026-11-19T15:26:05.000Z",
+  "updatedAt": "2026-11-19T16:33:44.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
@@ -359,11 +249,29 @@
     "playerTags": [],
     "author": "Tom Barclay",
     "transfer": null
+   },
+   {
+    "id": "c8c76d62f35b",
+    "url": "https://www.lequipe.fr/Football/Actualites/Mikhailo-moudrik-accuse-la-federation-ukrainienne-de-football-apres-sa-suspension-pour-dopage-on-ne-trouve-du-meldonium-qu-en-europe-de-l-est/1744679#at_medium=RSS_feeds",
+    "title": "Mikhaïlo Moudrik accuse la Fédération ukrainienne de football après sa suspension pour dopage : « On ne trouve du meldonium qu'en Europe de l'Est »",
+    "ko": "무드리크, 도핑 정지 후 우크라이나 축구협회 비판",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T16:33:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무드리크"
+    ],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
    }
   ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 0.94,
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 2.65,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -375,42 +283,40 @@
    "at": "2026-11-18T21:27:16.000Z",
    "viaQuote": false
   },
-  "headline": "Mudryk ‘culpa’ a Ucrania de su dopaje: “Pensé en suicidarme...”"
+  "headline": "Mikhaïlo Moudrik accuse la Fédération ukrainienne de football après sa suspension pour dopage : « On ne trouve du meldonium qu'en Europe de l'Est »"
  },
  {
-  "slug": "jonathan-jesus-benfica-transfer",
+  "slug": "vitoria-guimaraes-braga-2026-11-19",
   "mode": "llm",
-  "titleKo": "벤피카 수비 보강 검토",
-  "createdAt": "2026-11-19T15:16:00.000Z",
-  "updatedAt": "2026-11-19T15:16:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
+  "titleKo": "기마랑이스 대 브라가 더비",
+  "createdAt": "2026-11-19T16:29:24.000Z",
+  "updatedAt": "2026-11-19T16:29:24.000Z",
+  "category": "match",
+  "stage": null,
   "clubs": [],
   "players": [
-   "조나단 제수스",
-   "아서 디아스"
+   "베니 무켄디"
   ],
   "sig": [
-   "jonathan",
-   "jesus",
-   "arthur",
-   "dias"
+   "guimarães",
+   "beni",
+   "mukendi",
+   "braga"
   ],
   "articles": [
    {
-    "id": "79d0783a5cd0",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-de-olho-em-dois-centrais-brasileiros",
-    "title": "Benfica avalia Jonathan Jesus e Arthur Dias para a defesa",
-    "ko": "벤피카, 조나단 제수스·아서 디아스 수비 영입 검토",
+    "id": "eb43a0b4fac5",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/v--guimaraes/detalhe/v-guimaraes-anuncia-que-beni-mukendi-esta-apto-para-o-derbi-com-o-sp-braga",
+    "title": "V. Guimarães anuncia que Beni Mukendi está apto para o dérbi com o Sp. Braga",
+    "ko": "기마랑이스, 베니 무켄디 스포르팅 브라가 더비 출전 가능",
     "source": "record",
-    "publishedAt": "2026-11-19T15:16:00.000Z",
+    "publishedAt": "2026-11-19T16:29:24.000Z",
     "credited": null,
     "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
+    "category": "match",
+    "stage": null,
     "players": [
-     "조나단 제수스",
-     "아서 디아스"
+     "베니 무켄디"
     ],
     "playerTags": [],
     "author": null,
@@ -419,34 +325,205 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.81,
+  "score": 1.85,
   "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "79d0783a5cd0",
-    "at": "2026-11-19T15:16:00.000Z",
-    "source": "record",
-    "from": null,
-    "to": "interest"
-   }
-  ],
+  "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
    "name": "헤코르드",
    "source": "record",
-   "at": "2026-11-19T15:16:00.000Z",
+   "at": "2026-11-19T16:29:24.000Z",
    "viaQuote": false
   },
-  "headline": "Benfica avalia Jonathan Jesus e Arthur Dias para a defesa"
+  "headline": "V. Guimarães anuncia que Beni Mukendi está apto para o dérbi com o Sp. Braga"
+ },
+ {
+  "slug": "blackpool-manager-future",
+  "mode": "llm",
+  "titleKo": "블랙풀 에바트 감독 경질",
+  "createdAt": "2026-11-19T16:12:14.000Z",
+  "updatedAt": "2026-11-19T16:26:36.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "blackpool",
+   "evatt"
+  ],
+  "articles": [
+   {
+    "id": "e9ab2d4bedd8",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1rzjj4v2o?at_medium=RSS&at_campaign=rss",
+    "title": "Struggling Blackpool sack head coach Evatt",
+    "ko": "부진한 블랙풀, 이안 에바트 감독 경질",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T16:12:14.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0eb3bc958b86",
+    "url": "https://www.thesun.co.uk/sport/41074159/blackpool-sack-manager-ian-evatt/",
+    "title": "Blackpool sack manager Ian Evatt on his 45th BIRTHDAY after horror run of one win in ten",
+    "ko": "블랙풀, 이반 에바트 감독 경질…10경기 1승 부진",
+    "source": "sun",
+    "publishedAt": "2026-11-19T16:26:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.19,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-19T16:12:14.000Z",
+   "viaQuote": false
+  },
+  "headline": "Struggling Blackpool sack head coach Evatt"
+ },
+ {
+  "slug": "hall-man-utd-newcastle-relationship",
+  "mode": "llm",
+  "titleKo": "루이스 홀 두고 야이슬레·포체티노 설전",
+  "createdAt": "2026-11-19T16:24:13.000Z",
+  "updatedAt": "2026-11-19T16:24:13.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "newcastle"
+  ],
+  "players": [
+   "루이스 홀"
+  ],
+  "sig": [
+   "jaissle",
+   "mauricio",
+   "pochettino",
+   "lewis",
+   "hall"
+  ],
+  "articles": [
+   {
+    "id": "cc28d3ea10ec",
+    "url": "https://www.chroniclelive.co.uk/sport/football/transfer-news/matthias-jaissle-issues-two-word-34937880",
+    "title": "Matthias Jaissle issues two-word warning to Man United and Mauricio Pochettino on Lewis Hall",
+    "ko": "야이슬레, 맨유와 포체티노에게 경고…루이스 홀 두고 설전",
+    "source": "chronicle",
+    "publishedAt": "2026-11-19T16:24:13.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "newcastle"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "루이스 홀"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.82,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Chronicle Live (뉴캐슬)",
+   "source": "chronicle",
+   "at": "2026-11-19T16:24:13.000Z",
+   "viaQuote": false
+  },
+  "headline": "Matthias Jaissle issues two-word warning to Man United and Mauricio Pochettino on Lewis Hall"
+ },
+ {
+  "slug": "ojeda-award",
+  "mode": "llm",
+  "titleKo": "오제다 MLS 올해의 골 수상",
+  "createdAt": "2026-11-19T16:20:00.000Z",
+  "updatedAt": "2026-11-19T16:20:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "마르틴 오제다"
+  ],
+  "sig": [
+   "martín",
+   "ojeda",
+   "mls",
+   "year"
+  ],
+  "articles": [
+   {
+    "id": "568a5e536a3b",
+    "url": "https://www.nytimes.com/athletic/7699861/2026/11/19/martin-ojeda-goal-video-backheel-scorpion-orlando-city-mls/",
+    "title": "Orlando City's Martín Ojeda wins MLS Goal of the Year for his flying backheel",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-19T16:20:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "마르틴 오제다"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.7,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-19T16:20:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Orlando City's Martín Ojeda wins MLS Goal of the Year for his flying backheel"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-19T15:05:21.000Z",
+  "updatedAt": "2026-11-19T16:14:32.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -6712,11 +6789,47 @@
     ],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "791efbbe5b31",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-mauricio-pochettino-balde-34937829",
+    "title": "Mauricio Pochettino gets definitive message over first Man United signing as chief responds",
+    "ko": "포체티노, 맨유 첫 영입에 대한 확실한 메시지 받아",
+    "source": "men",
+    "publishedAt": "2026-11-19T15:52:21.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "3b82b81c7445",
+    "url": "https://www.hln.be/premier-league/mauricio-pochettino-staat-voor-debuut-bij-man-united-niet-focussen-op-huidige-situatie~a8f00463/",
+    "title": "Mauricio Pochettino staat voor debuut bij Man United: \"Niet focussen op huidige situatie\"",
+    "ko": "포체티노, 맨유 데뷔 앞두고 “현재 상황에 집중하지 않겠다”",
+    "source": "hln",
+    "publishedAt": "2026-11-19T16:14:32.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
    }
   ],
-  "recentSources": 8,
+  "recentSources": 9,
   "sourceCount": 17,
-  "score": 5.09,
+  "score": 5.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -6740,15 +6853,416 @@
   ]
  },
  {
-  "slug": "france-haiti-2026-11-19",
+  "slug": "lens-toulouse-2026-11-19",
   "mode": "llm",
-  "titleKo": "프랑스 대 아이티 친선 경기",
-  "createdAt": "2026-11-19T15:05:00.000Z",
-  "updatedAt": "2026-11-19T15:05:00.000Z",
+  "titleKo": "렌 대 툴루즈 리그1 경기",
+  "createdAt": "2026-11-19T16:13:26.000Z",
+  "updatedAt": "2026-11-19T16:13:26.000Z",
   "category": "match",
   "stage": null,
   "clubs": [],
   "players": [],
+  "sig": [
+   "berthel",
+   "askou",
+   "toulouse",
+   "que",
+   "lens"
+  ],
+  "articles": [
+   {
+    "id": "3f647f8d2805",
+    "url": "https://www.lequipe.fr/Football/Actualites/Jens-berthel-askou-entraineur-de-toulouse-que-le-cassoulet-soit-bon-et-que-l-equipe-soit-prete-a-lens/1744678#at_medium=RSS_feeds",
+    "title": "Jens Berthel Askou, entraîneur de Toulouse : « Que le cassoulet soit bon et que l'équipe soit prête » à Lens",
+    "ko": "툴루즈 베르텔 아스코우 감독, 렌전 준비 강조",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T16:13:26.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hugues Sionis",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.77,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-19T16:13:26.000Z",
+   "viaQuote": false
+  },
+  "headline": "Jens Berthel Askou, entraîneur de Toulouse : « Que le cassoulet soit bon et que l'équipe soit prête » à Lens"
+ },
+ {
+  "slug": "man-city-affairs-charges-20261119",
+  "mode": "llm",
+  "titleKo": "맨시티 혐의 여파 확산",
+  "createdAt": "2026-11-19T08:53:43.000Z",
+  "updatedAt": "2026-11-19T16:07:08.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-city",
+   "arsenal",
+   "chelsea",
+   "tottenham"
+  ],
+  "players": [],
+  "sig": [
+   "richard",
+   "masters"
+  ],
+  "articles": [
+   {
+    "id": "84b4b6882dd2",
+    "url": "https://www.mirror.co.uk/sport/football/man-city-premier-league-charges-37893153",
+    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
+    "ko": "맨시티 구단주, 20억 달러 타격…프리미어리그 새 혐의 전개",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T08:53:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "9078b1b81328",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-charges-37893153",
+    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
+    "ko": "맨시티 구단주, 20억 달러 타격 속 새 프리미어리그 혐의 부상",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T08:53:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "c098e88470f8",
+    "url": "https://www.thesun.co.uk/sport/41069846/man-city-lose-loan-guilty-verdict/",
+    "title": "Man City miss out on £1.5BILLION as major finance organisation scrap loan after guilty verdict",
+    "ko": "맨시티, 금융기관 대출 철회로 15억 파운드 기회 놓쳐",
+    "source": "sun",
+    "publishedAt": "2026-11-19T12:55:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "0802b9aced6f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+    "ko": "프리미어리그 구단들, 맨시티 스폰서 소송 시 법률 비용 부담 논의",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T13:29:42.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dee5ffa4f3bd",
+    "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271",
+    "title": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
+    "ko": "프리미어리그 구단들, 맨시티 유죄 판결 위협에 합의 도달",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T14:10:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "67970b92fd69",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-premier-league-34936649",
+    "title": "Premier League clubs agree to Richard Masters plea over Man City charges fear",
+    "ko": "프리미어리그 구단들, 맨시티 혐의 우려에 리처드 매스터스 요청 수용",
+    "source": "men",
+    "publishedAt": "2026-11-19T14:22:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "5624d776e653",
+    "url": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
+    "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
+    "ko": "아스널·첼시·토트넘, 맨시티 사태 속 추가 보호장치 투표",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T15:05:22.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "chelsea",
+     "tottenham",
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jamie Gardner Press Association Chief Sports Reporter",
+    "transfer": null
+   },
+   {
+    "id": "cfd627528d90",
+    "url": "https://www.skysports.com/football/news/12040/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+    "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+    "ko": "PL 구단들, 맨시티 스폰서 소송 시 이사진 법률비용 보전 투표",
+    "source": "sky",
+    "publishedAt": "2026-11-19T15:26:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "aedd45282566",
+    "url": "https://www.thesun.co.uk/sport/41073112/premier-league-clubs-back-chiefs-man-city-legal-costs/",
+    "title": "Man City in new blow as 18 Premier League clubs vote to cover legal costs of chiefs if club sued over ‘sham’ contracts",
+    "ko": "프리미어리그 18개 구단, 맨시티 임원 법률 비용 보장 투표",
+    "source": "sun",
+    "publishedAt": "2026-11-19T15:34:07.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "a5707539d58c",
+    "url": "https://as.com/futbol/internacional/bloqueo-millonario-al-city-f202611-n/",
+    "title": "Bloqueo millonario al City",
+    "ko": "맨시티, 수백만 유로 규모 제재 압박",
+    "source": "as",
+    "publishedAt": "2026-11-19T16:07:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Montaño",
+    "transfer": null
+   }
+  ],
+  "recentSources": 7,
+  "sourceCount": 7,
+  "score": 8.11,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-19T08:53:43.000Z",
+   "viaQuote": false
+  },
+  "headline": "Premier League clubs to cover legal costs if Man City sponsors sue"
+ },
+ {
+  "slug": "potulski-contract",
+  "mode": "llm",
+  "titleKo": "포툴스키 마인츠 조기 재계약",
+  "createdAt": "2026-11-19T16:04:50.000Z",
+  "updatedAt": "2026-11-19T16:04:50.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "mainz"
+  ],
+  "players": [
+   "포툴스키"
+  ],
+  "sig": [
+   "jahre",
+   "potulski"
+  ],
+  "articles": [
+   {
+    "id": "651d3de10d98",
+    "url": "https://www.kicker.de/unglaubliche-jahre-potulski-verlaengert-vorzeitig-in-mainz-1273047/artikel#omrss",
+    "title": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz",
+    "ko": "포툴스키, 마인츠와 조기 재계약",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T16:04:50.000Z",
+    "credited": null,
+    "clubs": [
+     "mainz"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "포툴스키"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.72,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-19T16:04:50.000Z",
+   "viaQuote": false
+  },
+  "headline": "\"Unglaubliche\" Jahre: Potulski verlängert vorzeitig in Mainz"
+ },
+ {
+  "slug": "armstrong-everton-transfer",
+  "mode": "llm",
+  "titleKo": "에버턴 암스트롱 이적 제안 검토",
+  "createdAt": "2026-11-19T16:00:00.000Z",
+  "updatedAt": "2026-11-19T16:00:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "everton"
+  ],
+  "players": [
+   "해리슨 암스트롱"
+  ],
+  "sig": [
+   "harrison",
+   "armstrong"
+  ],
+  "articles": [
+   {
+    "id": "8f71968fdc8d",
+    "url": "https://www.footballinsider247.com/everton/everton-could-accept-huge-harrison-armstrong-offer-despite-u-turn-transfer-expert",
+    "title": "Everton could accept 'huge' Harrison Armstrong offer despite U-turn - Transfer expert",
+    "ko": "에버턴, 해리슨 암스트롱 ‘거액’ 제안 수용 가능성",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T16:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "해리슨 암스트롱"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "해리슨 암스트롱",
+     "from": "에버턴",
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.51,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "8f71968fdc8d",
+    "at": "2026-11-19T16:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "해리슨 암스트롱",
+   "from": "에버턴",
+   "to": null
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-19T16:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Everton could accept 'huge' Harrison Armstrong offer despite U-turn - Transfer expert"
+ },
+ {
+  "slug": "france-haiti-2026-11-19",
+  "mode": "llm",
+  "titleKo": "프랑스 대 아이티 친선 경기",
+  "createdAt": "2026-11-19T15:05:00.000Z",
+  "updatedAt": "2026-11-19T15:45:17.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "로앙 메리필드"
+  ],
   "sig": [
    "france",
    "haïti"
@@ -6769,11 +7283,29 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "7a38d5e05ccb",
+    "url": "https://www.lequipe.fr/Football/Actualites/Grace-a-un-double-du-nantais-loan-merrifield-la-france-reussit-son-entree-en-lice-face-a-haiti-a-la-coupe-du-monde-u17/1744670#at_medium=RSS_feeds",
+    "title": "Grâce à un doublé du Nantais Loan Merrifield, la France réussit son entrée en lice face à Haïti à la Coupe du monde U17",
+    "ko": "프랑스, U17 월드컵 아이티전 승리…메리필드 멀티골",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T15:45:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "로앙 메리필드"
+    ],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.76,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6785,7 +7317,173 @@
    "at": "2026-11-19T15:05:00.000Z",
    "viaQuote": false
   },
-  "headline": "Le résumé de France - Haïti"
+  "headline": "Grâce à un doublé du Nantais Loan Merrifield, la France réussit son entrée en lice face à Haïti à la Coupe du monde U17"
+ },
+ {
+  "slug": "argentina-australia-2026-11-19",
+  "mode": "llm",
+  "titleKo": "아르헨티나 대 호주 U-17 월드컵 경기",
+  "createdAt": "2026-11-19T15:42:00.000Z",
+  "updatedAt": "2026-11-19T15:42:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "australia",
+   "mundial",
+   "sub"
+  ],
+  "articles": [
+   {
+    "id": "5f9667273871",
+    "url": "https://as.com/futbol/internacional/argentina-australia-en-directo-mundial-sub-17-hoy-en-vivo-f202611-d/",
+    "title": "Argentina - Australia, en directo: Mundial Sub-17, hoy en vivo",
+    "ko": "아르헨티나 대 호주, U-17 월드컵 실시간 중계",
+    "source": "as",
+    "publishedAt": "2026-11-19T15:42:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Almohalla",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.61,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-19T15:42:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Argentina - Australia, en directo: Mundial Sub-17, hoy en vivo"
+ },
+ {
+  "slug": "kapralik-injury",
+  "mode": "llm",
+  "titleKo": "카프랄리크 연말까지 결장",
+  "createdAt": "2026-11-19T15:35:17.000Z",
+  "updatedAt": "2026-11-19T15:35:17.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "카프랄리크"
+  ],
+  "sig": [
+   "kiel",
+   "kapralik",
+   "jahresende"
+  ],
+  "articles": [
+   {
+    "id": "163c3b1dd4f4",
+    "url": "https://www.kicker.de/hiobsbotschaft-fuer-kiel-kapralik-faellt-bis-jahresende-aus-1273044/artikel#omrss",
+    "title": "Hiobsbotschaft für Kiel: Kapralik fällt bis Jahresende aus",
+    "ko": "킬 카프랄리크, 연말까지 결장 소식",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T15:35:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "카프랄리크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.58,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-19T15:35:17.000Z",
+   "viaQuote": false
+  },
+  "headline": "Hiobsbotschaft für Kiel: Kapralik fällt bis Jahresende aus"
+ },
+ {
+  "slug": "jonathan-jesus-benfica-transfer",
+  "mode": "llm",
+  "titleKo": "벤피카 수비 보강 검토",
+  "createdAt": "2026-11-19T15:16:00.000Z",
+  "updatedAt": "2026-11-19T15:16:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "조나단 제수스",
+   "아서 디아스"
+  ],
+  "sig": [
+   "jonathan",
+   "jesus",
+   "arthur",
+   "dias"
+  ],
+  "articles": [
+   {
+    "id": "79d0783a5cd0",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-de-olho-em-dois-centrais-brasileiros",
+    "title": "Benfica avalia Jonathan Jesus e Arthur Dias para a defesa",
+    "ko": "벤피카, 조나단 제수스·아서 디아스 수비 영입 검토",
+    "source": "record",
+    "publishedAt": "2026-11-19T15:16:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "조나단 제수스",
+     "아서 디아스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.5,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "79d0783a5cd0",
+    "at": "2026-11-19T15:16:00.000Z",
+    "source": "record",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-19T15:16:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Benfica avalia Jonathan Jesus e Arthur Dias para a defesa"
  },
  {
   "slug": "carrick-manager-future",
@@ -10799,7 +11497,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 18,
-  "score": 0.88,
+  "score": 0.73,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10948,7 +11646,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 5,
-  "score": 3.42,
+  "score": 2.83,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10999,7 +11697,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.67,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11048,7 +11746,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.61,
+  "score": 1.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11255,6 +11953,25 @@
     "transfer": null
    },
    {
+    "id": "1bbdc0c006eb",
+    "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
+    "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
+    "ko": "포체티노, 맨유에 리버풀전 두려움 없이 임하라고 촉구",
+    "source": "guardian",
+    "publishedAt": "2026-11-19T12:38:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Unwin",
+    "transfer": null
+   },
+   {
     "id": "a332f1209f5a",
     "url": "https://www.mirror.co.uk/sport/football/news/liverpool-injury-news-man-utd-37894999",
     "title": "Andoni Iraola gets triple Liverpool injury boost ahead of Man Utd showdown",
@@ -11274,9 +11991,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
-  "sourceCount": 4,
-  "score": 0.95,
+  "recentSources": 4,
+  "sourceCount": 5,
+  "score": 1.74,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11288,7 +12005,7 @@
    "at": "2026-11-16T14:49:58.000Z",
    "viaQuote": false
   },
-  "headline": "13 players could miss Liverpool vs Man United as injury updates imminent"
+  "headline": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool"
  },
  {
   "slug": "newcastle-manager-future",
@@ -12383,7 +13100,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12441,7 +13158,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.38,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12543,7 +13260,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 3.55,
+  "score": 2.93,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12973,7 +13690,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 9,
-  "score": 2.59,
+  "score": 2.14,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13075,7 +13792,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 4.34,
+  "score": 3.59,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13124,7 +13841,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.05,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13197,7 +13914,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.98,
+  "score": 1.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13316,7 +14033,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 4,
-  "score": 3.6,
+  "score": 2.98,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13375,7 +14092,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13536,7 +14253,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.42,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13756,7 +14473,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13907,7 +14624,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.13,
+  "score": 0.93,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14062,7 +14779,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.87,
+  "score": 0.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14167,7 +14884,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.73,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14777,7 +15494,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 1.54,
+  "score": 1.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14842,7 +15559,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.88,
+  "score": 0.73,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14911,7 +15628,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.23,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -14977,7 +15694,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.76,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15148,7 +15865,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.45,
+  "score": 0.37,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15205,7 +15922,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.75,
+  "score": 0.62,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15259,7 +15976,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15310,7 +16027,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15363,7 +16080,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.72,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15432,7 +16149,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.43,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15492,7 +16209,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.65,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [
    {
@@ -15561,7 +16278,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 4,
   "stageHistory": [
    {
@@ -16085,7 +16802,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 10,
-  "score": 1.64,
+  "score": 1.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16208,7 +16925,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16269,7 +16986,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.59,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16337,7 +17054,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.17,
+  "score": 0.14,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -16416,7 +17133,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.16,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -16692,7 +17409,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.3,
+  "score": 0.24,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16885,7 +17602,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.46,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17325,7 +18042,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 11,
-  "score": 0.32,
+  "score": 0.26,
   "topTier": 1,
   "stageHistory": [
    {
@@ -17420,7 +18137,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17517,7 +18234,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17577,7 +18294,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17870,7 +18587,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.38,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17942,7 +18659,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18064,7 +18781,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.31,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18136,9 +18853,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -112972,55 +113689,6 @@
   "headline": "Sources: Derby County make preliminary contact with Steve Cooper"
  },
  {
-  "slug": "diatta-injury",
-  "mode": "llm",
-  "titleKo": "디아타 수술 후 반년 이탈",
-  "createdAt": "2026-11-05T16:28:23.000Z",
-  "updatedAt": "2026-11-05T16:28:23.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "디아타"
-  ],
-  "sig": [],
-  "articles": [
-   {
-    "id": "71e1ce42e5eb",
-    "url": "https://www.marca.com/futbol/villarreal/2026/11/05/diatta-pasa-quirofano-estara-cerca-medio-ano-baja.html",
-    "title": "Diatta pasa por quirófano y estará cerca de medio año de baja",
-    "ko": "디아타, 수술 받고 약 반년 전력 이탈",
-    "source": "marca",
-    "publishedAt": "2026-11-05T16:28:23.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "디아타"
-    ],
-    "playerTags": [],
-    "author": "VÍCTOR FRANCH",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "마르카",
-   "source": "marca",
-   "at": "2026-11-05T16:28:23.000Z",
-   "viaQuote": false
-  },
-  "headline": "Diatta pasa por quirófano y estará cerca de medio año de baja"
- },
- {
   "slug": "gladbach-darmstadt-2026-11-04",
   "mode": "llm",
   "titleKo": "묀헨글라트바흐 대 다름슈타트 DFB-포칼 경기",
@@ -113113,63 +113781,6 @@
    "viaQuote": false
   },
   "headline": "Klose über Darmstadt: \"Will nicht Angstgegner sagen, aber ...\""
- },
- {
-  "slug": "joelinton-injury",
-  "mode": "llm",
-  "titleKo": "조엘린튼 부상 악재, 뉴캐슬 공백",
-  "createdAt": "2026-11-05T16:23:16.000Z",
-  "updatedAt": "2026-11-05T16:23:16.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [
-   "조엘린튼",
-   "션 스테우르"
-  ],
-  "sig": [
-   "sean",
-   "steur"
-  ],
-  "articles": [
-   {
-    "id": "1ecd40c6c130",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/joelinton-injury-blow-rocks-newcastle-34868583",
-    "title": "Joelinton injury blow rocks Newcastle United as door finally open for Sean Steur",
-    "ko": "뉴캐슬 조엘린튼 부상 악재, 스테우르 기회 열려",
-    "source": "chronicle",
-    "publishedAt": "2026-11-05T16:23:16.000Z",
-    "credited": "크로니클 라이브",
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "조엘린튼",
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "크로니클 라이브",
-   "at": "2026-11-05T16:23:16.000Z",
-   "viaQuote": true
-  },
-  "headline": "Joelinton injury blow rocks Newcastle United as door finally open for Sean Steur"
  },
  {
   "slug": "owono-discipline",
@@ -113497,82 +114108,6 @@
    "viaQuote": false
   },
   "headline": "Keeper Owono 'would never intentionally hurt anyone'"
- },
- {
-  "slug": "leipzig-augsburg-2026-11-07",
-  "mode": "llm",
-  "titleKo": "라이프치히 대 아우크스부르크 경기",
-  "createdAt": "2026-11-05T14:16:13.000Z",
-  "updatedAt": "2026-11-05T15:50:35.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "augsburg",
-   "leipzig"
-  ],
-  "players": [],
-  "sig": [
-   "trainer",
-   "manuel",
-   "baum",
-   "spiel",
-   "wir",
-   "mut"
-  ],
-  "articles": [
-   {
-    "id": "a42c47cac773",
-    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/fc-augsburg-baum-fordert-gegen-leipzig-optimalen-mut-fuer-das-bundesliga-duell-115634837",
-    "title": "FCA-Trainer Manuel Baum vor dem Spiel bei RB Leipzig: „Wir brauchen den optimalen Mut“",
-    "ko": "바움 아우크스부르크 감독, 라이프치히전 앞두고 \"최적의 용기 필요\"",
-    "source": "augsburger",
-    "publishedAt": "2026-11-05T14:16:13.000Z",
-    "credited": null,
-    "clubs": [
-     "augsburg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Robert Götz",
-    "transfer": null
-   },
-   {
-    "id": "539863ddaed0",
-    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/so-will-der-fca-erstmals-bei-rb-leipzig-gewinnen-115630328",
-    "title": "Angstgegner Leipzig: So will der FCA erstmals bei RB gewinnen",
-    "ko": "아우크스부르크, 라이프치히 상대 RB 첫 승리 노린다",
-    "source": "augsburger",
-    "publishedAt": "2026-11-05T15:50:35.000Z",
-    "credited": null,
-    "clubs": [
-     "augsburg",
-     "leipzig"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Marco Scheinhof",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "아우크스부르거 알게마이네",
-   "source": "augsburger",
-   "at": "2026-11-05T14:16:13.000Z",
-   "viaQuote": false
-  },
-  "headline": "Angstgegner Leipzig: So will der FCA erstmals bei RB gewinnen"
  },
  {
   "slug": "araujo-liverpool-transfer",

@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T15:50:09.509Z",
+ "updatedAt": "2026-11-19T16:56:08.127Z",
  "hot": [
   "man-city-affairs-charges-20261119",
   "pochettino-man-utd-manager-future",
   "assistant-referee-stone-throwing-discipline",
-  "messi-affairs-image-rights",
-  "tchouameni-real-madrid-contract"
+  "blackpool-manager-future",
+  "messi-affairs-image-rights"
  ],
  "days": [
   "2026-10-18",
@@ -43,20 +43,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 1,
+   "items": 83,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 4,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,31 +92,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 90
+   "added": 4,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -134,25 +134,25 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 17,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -176,7 +176,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
@@ -188,13 +188,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 8,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -257,7 +257,7 @@
   },
   {
    "name": "루이스 홀",
-   "count": 19
+   "count": 20
   },
   {
    "name": "트레솔디",
@@ -288,6 +288,10 @@
    "count": 15
   },
   {
+   "name": "니코 파스",
+   "count": 15
+  },
+  {
    "name": "돈나룸마",
    "count": 15
   },
@@ -304,10 +308,6 @@
    "count": 14
   },
   {
-   "name": "니코 파스",
-   "count": 14
-  },
-  {
    "name": "조브 벨링엄",
    "count": 14
   },
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 228,
-  "singleArticleRate": 54,
+  "recentIssues": 236,
+  "singleArticleRate": 56,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 102
+    "count": 104
    },
    {
     "slug": "germany-netherlands-2026-11-16",
@@ -339,10 +339,6 @@
    {
     "slug": "pochettino-usmnt-manager-future",
     "count": 20
-   },
-   {
-    "slug": "thomas-frank-crystal-palace-appointment",
-    "count": 16
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
@@ -361,7 +357,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 15
+     "count": 14
     },
     {
      "ko": "호르헤 제수스",
@@ -378,12 +374,12 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "야이슬레",
-     "count": 4
+     "ko": "마티아스 야이슬레",
+     "count": 5
     },
     {
-     "ko": "마티아스 야이슬레",
-     "count": 4
+     "ko": "야이슬레",
+     "count": 3
     },
     {
      "ko": "하이슬레",
@@ -456,24 +452,6 @@
    ]
   },
   {
-   "en": "Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스",
-     "count": 5
-    },
-    {
-     "ko": "주제",
-     "count": 1
-    },
-    {
-     "ko": "예수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vasco Peso",
    "dictionary": null,
    "variants": [
@@ -541,6 +519,20 @@
     },
     {
      "ko": "포코놀리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스",
+     "count": 5
+    },
+    {
+     "ko": "예수스",
      "count": 1
     }
    ]
@@ -824,20 +816,6 @@
    ]
   },
   {
-   "en": "Taty Castellanos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "타티 카스테야노스",
-     "count": 1
-    },
-    {
-     "ko": "타티 카스텔라노스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Timmy Simons",
    "dictionary": null,
    "variants": [
@@ -964,20 +942,6 @@
    ]
   },
   {
-   "en": "Schjelderup",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셸더루프",
-     "count": 1
-    },
-    {
-     "ko": "쉘데루프",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Carlos André Gomes",
    "dictionary": null,
    "variants": [
@@ -1048,48 +1012,6 @@
    ]
   },
   {
-   "en": "Dolores Aveiro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "도로레스 아베이루",
-     "count": 1
-    },
-    {
-     "ko": "돌로레스 아베이루",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rúben Neves",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루벤 네베스",
-     "count": 1
-    },
-    {
-     "ko": "후벵 네베스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gianluigi Donnarumma",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "돈나룸마",
-     "count": 1
-    },
-    {
-     "ko": "도나룸마",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Simon Ebonog",
    "dictionary": null,
    "variants": [
@@ -1099,6 +1021,76 @@
     },
     {
      "ko": "시몬 에보농",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Georges Mikautadze",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미카우타드제",
+     "count": 1
+    },
+    {
+     "ko": "조르주 미카우타제",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jean-Michel Aulas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "장미셸 오뷔 아울라스",
+     "count": 1
+    },
+    {
+     "ko": "오라스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Serdal Adalı",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세르달 알다르",
+     "count": 1
+    },
+    {
+     "ko": "세르달 알르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kozo Tashima",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "타시마 고조",
+     "count": 1
+    },
+    {
+     "ko": "타시마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lemke",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레미케",
+     "count": 1
+    },
+    {
+     "ko": "레름케",
      "count": 1
     }
    ]
@@ -1190,8 +1182,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 37,
-   "llm": 37
+   "collected": 91,
+   "llm": 91
   }
  },
  "llmErrors": []
