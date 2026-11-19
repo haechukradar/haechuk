@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T21:41:34.908Z",
+ "updatedAt": "2026-11-19T22:32:38.599Z",
  "hot": [
+  "arsenal-ol-lyonnes-2026-11-19",
+  "england-affairs-fan-discrimination-uefa",
   "thomas-frank-crystal-palace-appointment",
   "pochettino-man-utd-manager-future",
-  "mudryk-discipline",
-  "man-city-affairs-charges-20261119",
-  "blackpool-manager-future"
+  "mudryk-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -44,13 +44,13 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,13 +92,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
@@ -110,7 +110,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -146,7 +146,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -158,7 +158,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -176,7 +176,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -193,8 +193,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 1,
+   "items": 8,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
+  "recentIssues": 222,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 107
+    "count": 109
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -334,7 +334,7 @@
    },
    {
     "slug": "pochettino-usmnt-manager-future",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "jj-gabriel-real-madrid-transfer",
@@ -349,7 +349,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 11
+     "count": 10
     },
     {
      "ko": "조르제 제수스",
@@ -380,42 +380,6 @@
    ]
   },
   {
-   "en": "Xavi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사비",
-     "count": 5
-    },
-    {
-     "ko": "자비",
-     "count": 2
-    },
-    {
-     "ko": "사비 알론소",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Max Dowman",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥스 다우먼",
-     "count": 5
-    },
-    {
-     "ko": "맥스 다우맨",
-     "count": 1
-    },
-    {
-     "ko": "막스 다우먼",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Alanzinho",
    "dictionary": null,
    "variants": [
@@ -425,6 +389,24 @@
     },
     {
      "ko": "알란지뇨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 4
+    },
+    {
+     "ko": "자비",
+     "count": 2
+    },
+    {
+     "ko": "사비 알론소",
      "count": 1
     }
    ]
@@ -444,6 +426,24 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 5
+    },
+    {
+     "ko": "폰세카",
+     "count": 1
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vasco Peso",
    "dictionary": null,
    "variants": [
@@ -453,6 +453,20 @@
     },
     {
      "ko": "바스코 페소",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Max Dowman",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥스 다우먼",
+     "count": 5
+    },
+    {
+     "ko": "맥스 다우맨",
      "count": 1
     }
    ]
@@ -484,6 +498,20 @@
    ]
   },
   {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 포브스",
+     "count": 3
+    },
+    {
+     "ko": "카를루스 포브스",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
@@ -493,7 +521,7 @@
     },
     {
      "ko": "우고 올리베이라",
-     "count": 3
+     "count": 2
     }
    ]
   },
@@ -508,24 +536,6 @@
     {
      "ko": "포콘뇰리",
      "count": 1
-    },
-    {
-     "ko": "포코놀리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Forbs",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 포브스",
-     "count": 3
-    },
-    {
-     "ko": "카를루스 포브스",
-     "count": 3
     }
    ]
   },
@@ -798,6 +808,20 @@
    ]
   },
   {
+   "en": "Pote",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포테",
+     "count": 2
+    },
+    {
+     "ko": "포트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Harry Amass",
    "dictionary": null,
    "variants": [
@@ -1062,34 +1086,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Lemke",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레미케",
-     "count": 1
-    },
-    {
-     "ko": "레름케",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회너스",
-     "count": 1
-    },
-    {
-     "ko": "회에스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1178,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 253,
-   "llm": 253
+   "collected": 279,
+   "llm": 279
   }
  },
  "llmErrors": []
