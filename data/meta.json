@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T03:19:31.093Z",
+ "updatedAt": "2026-11-20T04:26:13.732Z",
  "hot": [
-  "arsenal-ol-lyonnes-2026-11-19",
   "pochettino-man-utd-manager-future",
+  "arsenal-ol-lyonnes-2026-11-19",
   "mudryk-discipline",
-  "argentina-australia-2026-11-19",
-  "tolisso-fonseca-relationship"
+  "tolisso-fonseca-relationship",
+  "england-affairs-fan-discrimination-uefa"
  ],
  "days": [
   "2026-10-18",
@@ -110,7 +110,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -152,7 +152,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 8,
    "authorRate": 0
   },
   "hln": {
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 223,
-  "singleArticleRate": 53,
+  "recentIssues": 222,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 107
+    "count": 106
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -502,6 +502,20 @@
    ]
   },
   {
+   "en": "Pote",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포테",
+     "count": 4
+    },
+    {
+     "ko": "포트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jorge Simão",
    "dictionary": null,
    "variants": [
@@ -576,15 +590,15 @@
    ]
   },
   {
-   "en": "Pote",
+   "en": "Marco Silva",
    "dictionary": null,
    "variants": [
     {
-     "ko": "포테",
+     "ko": "마르코 실바",
      "count": 3
     },
     {
-     "ko": "포트",
+     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -729,20 +743,6 @@
     },
     {
      "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 2
-    },
-    {
-     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -1174,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 311,
-   "llm": 311
+   "collected": 322,
+   "llm": 322
   }
  },
  "llmErrors": []
