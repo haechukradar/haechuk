@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T18:06:15.221Z",
+ "updatedAt": "2026-11-20T19:11:22.176Z",
  "hot": [
-  "man-utd-affairs-drone-footage",
   "pochettino-man-utd-manager-future",
+  "man-utd-affairs-drone-footage",
   "arsenal-affairs-team-news-leak",
-  "man-city-affairs-charges-20261119",
-  "eckert-southampton-contract"
+  "bayern-koln-2026-11-19",
+  "man-city-affairs-charges-20261119"
  ],
  "days": [
   "2026-10-18",
@@ -45,19 +45,19 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 60,
+   "items": 59,
    "added": 3,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -93,13 +93,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 1,
    "authorRate": 82
   },
   "fblondon": {
@@ -111,19 +111,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 93
   },
   "waz": {
@@ -147,7 +147,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 17,
+   "added": 19,
    "authorRate": 0
   },
   "fotomac": {
@@ -159,7 +159,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -171,13 +171,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
@@ -194,8 +194,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 3,
+   "items": 16,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -206,7 +206,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 57
+   "count": 58
   },
   {
    "name": "프레스티아니",
@@ -322,16 +322,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 207,
-  "singleArticleRate": 51,
+  "recentIssues": 206,
+  "singleArticleRate": 50,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 119
+    "count": 123
    },
    {
     "slug": "wales-portugal-2026-11-12",
-    "count": 21
+    "count": 19
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -339,10 +339,6 @@
    },
    {
     "slug": "man-city-affairs-charges-20261119",
-    "count": 16
-   },
-   {
-    "slug": "jj-gabriel-real-madrid-transfer",
     "count": 16
    }
   ]
@@ -400,7 +396,7 @@
    "variants": [
     {
      "ko": "조르즈 제수스",
-     "count": 9
+     "count": 8
     },
     {
      "ko": "호르헤 제수스",
@@ -482,20 +478,6 @@
     },
     {
      "ko": "카이 루니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마토스",
-     "count": 4
-    },
-    {
-     "ko": "마티오스",
      "count": 1
     }
    ]
@@ -1079,6 +1061,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Henri Koudossou",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헨리 쿠두수",
+     "count": 1
+    },
+    {
+     "ko": "앙리 쿠두수",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1171,8 +1167,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 210,
-   "llm": 210
+   "collected": 259,
+   "llm": 259
   }
  },
  "llmErrors": []
