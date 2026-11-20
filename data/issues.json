@@ -1,113 +1,31 @@
 [
  {
-  "slug": "saka-injury-20261120",
+  "slug": "courtois-contract",
   "mode": "llm",
-  "titleKo": "사카 부상 복귀 시점 불투명",
-  "createdAt": "2026-11-20T10:46:32.000Z",
-  "updatedAt": "2026-11-20T10:46:32.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "부카요 사카"
-  ],
-  "sig": [
-   "saka",
-   "christmas",
-   "mikel"
-  ],
-  "articles": [
-   {
-    "id": "eb4b3d8c95f6",
-    "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-    "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
-    "ko": "사카, 크리스마스 전 복귀 어려울 수도…아르테타 인정",
-    "source": "guardian",
-    "publishedAt": "2026-11-20T10:46:32.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "부카요 사카"
-    ],
-    "playerTags": [
-     "bukayo-saka"
-    ],
-    "author": "Ed Aarons",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.96,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bukayo-saka"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Guardian",
-   "source": "guardian",
-   "at": "2026-11-20T10:46:32.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits"
- },
- {
-  "slug": "valverde-real-madrid-contract",
-  "mode": "llm",
-  "titleKo": "발베르데 레알 마드리드 재계약 2031년",
-  "createdAt": "2026-11-20T06:09:12.000Z",
-  "updatedAt": "2026-11-20T10:36:05.000Z",
-  "category": "other",
-  "stage": null,
+  "titleKo": "쿠르투아 레알 마드리드 재계약",
+  "createdAt": "2026-11-20T08:42:00.000Z",
+  "updatedAt": "2026-11-20T11:42:07.000Z",
+  "category": "transfer",
+  "stage": "interest",
   "clubs": [
    "real-madrid"
   ],
   "players": [
-   "발베르데",
-   "페데리코 발베르데"
+   "티보 쿠르투아",
+   "쿠르투아"
   ],
   "sig": [
-   "valverde"
+   "thibaut",
+   "courtois"
   ],
   "articles": [
    {
-    "id": "319ef5d28934",
-    "url": "https://as.com/futbol/primera/valverde-2031-f202611-n/",
-    "title": "Valverde, 2031",
-    "ko": "발베르데, 2031년까지 재계약 관련 보도",
-    "source": "as",
-    "publishedAt": "2026-11-20T06:09:12.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": "Fernando S. Tavero,José Félix Díaz",
-    "transfer": null
-   },
-   {
-    "id": "3f1787b21fa5",
-    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-segura-federico-valverde-ate-2031",
-    "title": "Real Madrid segura Federico Valverde até 2031",
-    "ko": "레알 마드리드, 발베르데와 2031년까지 재계약",
-    "source": "record",
-    "publishedAt": "2026-11-20T10:36:05.000Z",
+    "id": "e47bfe48b1f7",
+    "url": "https://www.hln.be/voetbal/de-deal-is-rond-thibaut-courtois-verlengt-contract-bij-real-madrid-tot-2028~a42e00ca/",
+    "title": "De deal is rond: Thibaut Courtois verlengt contract bij Real Madrid tot 2028",
+    "ko": "티보 쿠르투아, 레알 마드리드와 2028년까지 재계약",
+    "source": "hln",
+    "publishedAt": "2026-11-20T08:42:00.000Z",
     "credited": null,
     "clubs": [
      "real-madrid"
@@ -115,10 +33,36 @@
     "category": "transfer",
     "stage": "done",
     "players": [
-     "페데리코 발베르데"
+     "티보 쿠르투아"
     ],
     "playerTags": [
-     "federico-valverde"
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": {
+     "player": "티보 쿠르투아",
+     "from": null,
+     "to": null
+    }
+   },
+   {
+    "id": "1765d3e9a2c5",
+    "url": "https://www.kicker.de/bis-2028-courtois-verlaengert-bei-real-madrid-1273228/artikel#omrss",
+    "title": "Bis 2028: Courtois verlängert bei Real Madrid",
+    "ko": "쿠르투아, 레알 마드리드와 2028년까지 재계약",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T11:42:07.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
     ],
     "author": null,
     "transfer": null
@@ -126,28 +70,295 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.78,
+  "score": 2.65,
   "topTier": 2,
-  "stageHistory": [],
+  "stageHistory": [
+   {
+    "id": "e47bfe48b1f7",
+    "at": "2026-11-20T08:42:00.000Z",
+    "source": "hln",
+    "from": null,
+    "to": "interest"
+   }
+  ],
   "stageChange": null,
   "playerTags": [
-   "federico-valverde"
+   "thibaut-courtois"
   ],
-  "transfer": null,
+  "transfer": {
+   "player": "티보 쿠르투아",
+   "from": null,
+   "to": null
+  },
   "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-20T06:09:12.000Z",
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-20T08:42:00.000Z",
    "viaQuote": false
   },
-  "headline": "Real Madrid segura Federico Valverde até 2031"
+  "headline": "Bis 2028: Courtois verlängert bei Real Madrid"
+ },
+ {
+  "slug": "man-city-affairs-charges-20261119",
+  "mode": "llm",
+  "titleKo": "맨시티 혐의 여파 확산",
+  "createdAt": "2026-11-19T08:53:43.000Z",
+  "updatedAt": "2026-11-20T11:40:14.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-city",
+   "arsenal",
+   "chelsea",
+   "tottenham"
+  ],
+  "players": [],
+  "sig": [
+   "richard",
+   "masters"
+  ],
+  "articles": [
+   {
+    "id": "84b4b6882dd2",
+    "url": "https://www.mirror.co.uk/sport/football/man-city-premier-league-charges-37893153",
+    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
+    "ko": "맨시티 구단주, 20억 달러 타격…프리미어리그 새 혐의 전개",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T08:53:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "9078b1b81328",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-charges-37893153",
+    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
+    "ko": "맨시티 구단주, 20억 달러 타격 속 새 프리미어리그 혐의 부상",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T08:53:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "c098e88470f8",
+    "url": "https://www.thesun.co.uk/sport/41069846/man-city-lose-loan-guilty-verdict/",
+    "title": "Man City miss out on £1.5BILLION as major finance organisation scrap loan after guilty verdict",
+    "ko": "맨시티, 금융기관 대출 철회로 15억 파운드 기회 놓쳐",
+    "source": "sun",
+    "publishedAt": "2026-11-19T12:55:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "0802b9aced6f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+    "ko": "프리미어리그 구단들, 맨시티 스폰서 소송 시 법률 비용 부담 논의",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T13:29:42.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dee5ffa4f3bd",
+    "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271",
+    "title": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
+    "ko": "프리미어리그 구단들, 맨시티 유죄 판결 위협에 합의 도달",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T14:10:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "67970b92fd69",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-premier-league-34936649",
+    "title": "Premier League clubs agree to Richard Masters plea over Man City charges fear",
+    "ko": "프리미어리그 구단들, 맨시티 혐의 우려에 리처드 매스터스 요청 수용",
+    "source": "men",
+    "publishedAt": "2026-11-19T14:22:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "5624d776e653",
+    "url": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
+    "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
+    "ko": "아스널·첼시·토트넘, 맨시티 사태 속 추가 보호장치 투표",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T15:05:22.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "chelsea",
+     "tottenham",
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jamie Gardner Press Association Chief Sports Reporter",
+    "transfer": null
+   },
+   {
+    "id": "cfd627528d90",
+    "url": "https://www.skysports.com/football/news/12040/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+    "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+    "ko": "PL 구단들, 맨시티 스폰서 소송 시 이사진 법률비용 보전 투표",
+    "source": "sky",
+    "publishedAt": "2026-11-19T15:26:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "aedd45282566",
+    "url": "https://www.thesun.co.uk/sport/41073112/premier-league-clubs-back-chiefs-man-city-legal-costs/",
+    "title": "Man City in new blow as 18 Premier League clubs vote to cover legal costs of chiefs if club sued over ‘sham’ contracts",
+    "ko": "프리미어리그 18개 구단, 맨시티 임원 법률 비용 보장 투표",
+    "source": "sun",
+    "publishedAt": "2026-11-19T15:34:07.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "a5707539d58c",
+    "url": "https://as.com/futbol/internacional/bloqueo-millonario-al-city-f202611-n/",
+    "title": "Bloqueo millonario al City",
+    "ko": "맨시티, 수백만 유로 규모 제재 압박",
+    "source": "as",
+    "publishedAt": "2026-11-19T16:07:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Montaño",
+    "transfer": null
+   },
+   {
+    "id": "88c27834b41f",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-city-sponsors-premier-league-37896605",
+    "title": "Two clubs refusing to cover legal costs if Man City sponsors sue revealed after 18-2 vote",
+    "ko": "맨시티 스폰서 소송 시 법률비용 부담 거부 두 클럽 밝혀져",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T18:54:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "8d80d214840c",
+    "url": "https://www.footballinsider247.com/manchester-city/stefan-borson-drops-verdict-on-man-city-sponsors-suing-premier-league-figures-in-defamation-twist",
+    "title": "Stefan Borson drops verdict on Man City sponsors suing Premier League figures in 'defamation' twist",
+    "ko": "맨시티 스폰서들, 프리미어리그 인사 상대 명예훼손 소송 제기 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-20T11:40:14.000Z",
+    "credited": "스테판 보르손(X)",
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 8,
+  "score": 0.58,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스테판 보르손(X)",
+   "at": "2026-11-19T08:53:43.000Z",
+   "viaQuote": true
+  },
+  "headline": "Premier League clubs to cover legal costs if Man City sponsors sue"
  },
  {
   "slug": "pote-sporting-manager-future",
   "mode": "llm",
   "titleKo": "포테 스포르팅 경질 뒤 인터뷰 심경",
   "createdAt": "2026-11-20T03:00:00.000Z",
-  "updatedAt": "2026-11-20T10:30:00.000Z",
+  "updatedAt": "2026-11-20T11:30:00.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -297,11 +508,43 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "ed763cfe54e7",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/entrevista-de-pote-cai-mal-em-alvalade",
+    "title": "Entrevista de Pote cai mal em Alvalade",
+    "ko": "포테 인터뷰 논란, 알발라데 심경 질문",
+    "source": "record",
+    "publishedAt": "2026-11-20T11:02:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c28ddea4be0d",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-revela-a-unica-vez-que-pediu-para-sair-do-sporting-foi-com-amorim-e-o-destino-era-inglaterra",
+    "title": "Pote revela a única vez que pediu para sair do Sporting: foi com Amorim e o destino era Inglaterra…",
+    "ko": "포테, 스포르팅 시절 이적 요청 일화 회고",
+    "source": "record",
+    "publishedAt": "2026-11-20T11:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -315,7 +558,1150 @@
    "at": "2026-11-20T03:00:00.000Z",
    "viaQuote": false
   },
-  "headline": "Pote lembra elogios de Ruben Amorim: «Se foram as palavras dele, não cumpriu»"
+  "headline": "Pote revela a única vez que pediu para sair do Sporting: foi com Amorim e o destino era Inglaterra…"
+ },
+ {
+  "slug": "semenyo-discipline",
+  "mode": "llm",
+  "titleKo": "세메뇨 인종차별 혐의 팬 무죄 평결",
+  "createdAt": "2026-11-20T11:12:35.000Z",
+  "updatedAt": "2026-11-20T11:12:35.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "세메뇨"
+  ],
+  "sig": [
+   "semenyo"
+  ],
+  "articles": [
+   {
+    "id": "a7479d77059d",
+    "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
+    "title": "Fan found not guilty of racially abusing Semenyo",
+    "ko": "세메뇨 인종차별 혐의 팬, 무죄 평결",
+    "source": "bbc",
+    "publishedAt": "2026-11-20T11:12:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "세메뇨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.69,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-20T11:12:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fan found not guilty of racially abusing Semenyo"
+ },
+ {
+  "slug": "man-utd-affairs-drone-footage",
+  "mode": "llm",
+  "titleKo": "맨유 드론 영상 삭제 논란",
+  "createdAt": "2026-11-20T07:50:17.000Z",
+  "updatedAt": "2026-11-20T11:03:31.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "liverpool"
+  ],
+  "players": [],
+  "sig": [
+   "overview",
+   "deletes"
+  ],
+  "articles": [
+   {
+    "id": "d82771da52fa",
+    "url": "https://www.dailystar.co.uk/sport/secret-drone-footage-pochettino-man-37896649",
+    "title": "Secret drone footage of Pochettino Man United training session 'reveals Liverpool line-up'",
+    "ko": "포체티노 맨유 훈련 비밀 드론 영상, 리버풀 라인업 드러내",
+    "source": "star",
+    "publishedAt": "2026-11-19T19:37:58.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Edward Easton",
+    "transfer": null
+   },
+   {
+    "id": "d27ccb64a881",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-youtube-channel-cc-overview-37897343",
+    "title": "YouTube channel CC Overview DELETES Manchester United drone footage after backlash",
+    "ko": "유튜브 채널, 맨유 드론 영상 논란 뒤 삭제",
+    "source": "star",
+    "publishedAt": "2026-11-20T07:50:17.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Cockerton",
+    "transfer": null
+   },
+   {
+    "id": "ba09b33442fd",
+    "url": "https://www.thesun.co.uk/sport/41079255/man-utd-drone-footage-training-pochettino/",
+    "title": "‘Total error of judgment’ – Drone footage filmer removes video and issues grovelling apology to Pochettino and Man Utd",
+    "ko": "드론 영상 촬영자, 포체티노·맨유에 사과 후 영상 삭제",
+    "source": "sun",
+    "publishedAt": "2026-11-20T08:58:11.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Fermie",
+    "transfer": null
+   },
+   {
+    "id": "40a53a9ea38e",
+    "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+    "title": "Drone operator takes down Man Utd footage and issues apology",
+    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제 후 사과",
+    "source": "sky",
+    "publishedAt": "2026-11-20T09:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7282b5c3c087",
+    "url": "https://www.lequipe.fr/Football/Actualites/Un-operateur-de-drone-retire-une-video-de-l-entrainement-de-manchester-united-et-presente-ses-excuses/1744826#at_medium=RSS_feeds",
+    "title": "Un opérateur de drone retire une vidéo de l'entraînement de Manchester United et présente ses excuses",
+    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제하고 사과",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T10:08:18.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Christine Thomas",
+    "transfer": null
+   },
+   {
+    "id": "8bfdfa83bc7e",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
+    "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
+    "ko": "드론 조종사, 포체티노 맨유 훈련 몰래 촬영 후 메시지",
+    "source": "men",
+    "publishedAt": "2026-11-20T10:16:59.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "895a29f2d993",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-drone-pochettino-liverpool-37898100",
+    "title": "Man Utd training footage removed after security breach as drone pilot speaks out on Liverpool",
+    "ko": "맨유 훈련 영상 보안 문제로 삭제…드론 조종자 입장 밝혀",
+    "source": "mirror",
+    "publishedAt": "2026-11-20T11:03:31.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": null
+   }
+  ],
+  "recentSources": 6,
+  "sourceCount": 6,
+  "score": 5.49,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-19T19:37:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training"
+ },
+ {
+  "slug": "thomas-frank-crystal-palace-appointment",
+  "mode": "llm",
+  "titleKo": "토마스 프랑크 크리스털 팰리스 감독 선임 합의",
+  "createdAt": "2026-11-10T06:00:00.000Z",
+  "updatedAt": "2026-11-20T11:01:59.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "tottenham",
+   "crystal-palace",
+   "chelsea",
+   "brentford",
+   "arsenal"
+  ],
+  "players": [
+   "토마스 프랑크",
+   "이스마일라 사르"
+  ],
+  "sig": [
+   "frank"
+  ],
+  "articles": [
+   {
+    "id": "770820ed44c7",
+    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
+    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
+    "ko": "크리스털 팰리스, 세이지 경질 가능성 속 토마스 프랑크 유력 후보",
+    "source": "sky",
+    "publishedAt": "2026-11-08T20:56:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c0571f0bf213",
+    "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
+    "title": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
+    "ko": "토마스 프랑크, 토트넘 악몽 뒤 크리스털 팰리스서 명예 회복 가능",
+    "source": "mirror",
+    "publishedAt": "2026-11-09T15:34:02.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Cross",
+    "transfer": null
+   },
+   {
+    "id": "73b196431796",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-could-be-in-big-trouble-over-thomas-frank",
+    "title": "'Crystal Palace could be in big trouble over Thomas Frank'",
+    "ko": "토마스 프랑크 놓고 크리스털 팰리스 큰 위기 가능성",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-09T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9d4fed4707ec",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-could-raid-tottenham-34882993",
+    "title": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace",
+    "ko": "토마스 프랑크, 크리스털 팰리스行 시 토트넘서 4명 영입 가능성",
+    "source": "fblondon",
+    "publishedAt": "2026-11-10T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham",
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Fasika Zelealem",
+    "transfer": null
+   },
+   {
+    "id": "06173cf31add",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-leading-list-of-four-names-in-contention-for-crystal-palace-expert",
+    "title": "Thomas Frank leading list of 'four names' in contention for Crystal Palace - expert",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 후보 4인 중 선두",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-10T07:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "24611ea462b4",
+    "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "title": "Palace latest: Talks progressing for Frank to succeed Sage",
+    "ko": "팰리스, 세이지 후임 프랭크와 협상 진전",
+    "source": "sky",
+    "publishedAt": "2026-11-11T14:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "781e85dbebfd",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palaces-thomas-frank-appointment-hits-stumbling-block",
+    "title": "Sources: Crystal Palace's Thomas Frank appointment hits stumbling block",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임설에 걸림돌",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-12T14:11:26.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ff9c02087d57",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/next-manager/club-adviser-updates-on-thomas-frank-getting-premium-contract-at-crystal-palace",
+    "title": "Club adviser updates on Thomas Frank getting 'premium contract' at Crystal Palace",
+    "ko": "크리스털 팰리스, 토마스 프랑크에게 프리미엄 계약 제시 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T09:40:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "54fed1d10fc2",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-thomas-frank-to-crystal-palace-update-2",
+    "title": "Sources: Thomas Frank to Crystal Palace update",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 관련 업데이트",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-13T18:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9f1fbbfa10fd",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-concerns-over-thomas-frank-emerge-amid-new-delay",
+    "title": "Sources: Crystal Palace 'concerns' over Thomas Frank emerge amid new delay",
+    "ko": "크리스털 팰리스, 토마스 프랑크 영입 지연 속 우려 제기",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-15T10:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e56177438e2c",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-the-real-reason-crystal-palace-want-to-appoint-thomas-frank-revealed",
+    "title": "Sources: The real reason Crystal Palace want to appoint Thomas Frank revealed",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 이유 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-15T20:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bfc83e76243f",
+    "url": "https://www.skysports.com/football/news/12040/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
+    "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
+    "ko": "프랭크, 크리스털 팰리스 신임 감독 원칙적 합의",
+    "source": "sky",
+    "publishedAt": "2026-11-16T11:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2f3b25723769",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-surprised-by-thomas-frank-demands-as-agreement-reached",
+    "title": "Crystal Palace 'surprised' by Thomas Frank demands as agreement reached",
+    "ko": "크리스털 팰리스, 토마스 프랑크 요구 조건에 '놀라'…합의 도달",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T12:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "61d2cbd3f4ec",
+    "url": "https://www.lequipe.fr/Football/Actualites/Crystal-palace-finaliserait-l-arrivee-de-thomas-frank-quelques-jours-apres-avoir-demis-de-ses-fonctions-pierre-sage/1743994#at_medium=RSS_feeds",
+    "title": "Crystal Palace finaliserait l'arrivée de Thomas Frank, quelques jours après avoir démis de ses fonctions Pierre Sage",
+    "ko": "크리스털 팰리스, 토마스 프랑크 영입 마무리 단계로 보도",
+    "source": "lequipe",
+    "publishedAt": "2026-11-16T12:53:07.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "b38c07dd24b0",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
+    "title": "How Frank can restore reputation and save Crystal Palace",
+    "ko": "프랭크, 크리스털 팰리스 명예 회복 방안 점검",
+    "source": "bbc",
+    "publishedAt": "2026-11-16T15:15:57.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d0884cffc2d8",
+    "url": "https://www.thesun.co.uk/sport/41038815/chelsea-raided-crystal-palace-thomas-frank-bernardo-cueva/",
+    "title": "Chelsea set to be raided by new Crystal Palace boss Thomas Frank for set-piece coach",
+    "ko": "프랑크, 크리스털 팰리스 감독 부임 후 첼시 코치 영입 검토",
+    "source": "sun",
+    "publishedAt": "2026-11-16T15:52:18.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Danny Rust",
+    "transfer": null
+   },
+   {
+    "id": "ef3c9ec60800",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-thomas-frank-crystal-palace-34920608",
+    "title": "Thomas Frank pushing to bring two ex-Tottenham staff members to Crystal Palace",
+    "ko": "토마스 프랑크, 전 토트넘 스태프 두 명 크리스털 팰리스 합류 추진",
+    "source": "fblondon",
+    "publishedAt": "2026-11-16T16:50:44.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ryan Taylor",
+    "transfer": null
+   },
+   {
+    "id": "f923e466d045",
+    "url": "https://www.skysports.com/football/news/12040/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park",
+    "title": "Frank appointed Crystal Palace manager",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 공식 선임",
+    "source": "sky",
+    "publishedAt": "2026-11-16T17:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fb6b60a2330f",
+    "url": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
+    "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
+    "ko": "토마스 프랑크, 크리스털 팰리스 감독 공식 확정",
+    "source": "guardian",
+    "publishedAt": "2026-11-16T17:03:14.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ed Aarons",
+    "transfer": null
+   },
+   {
+    "id": "77b35cce86d8",
+    "url": "https://www.thesun.co.uk/sport/41041088/crystal-palace-thomas-frank-tottenham-brentford-pierre-sage/",
+    "title": "Crystal Palace announce Thomas Frank as new manager with ex-Tottenham and Brentford boss hailed as ‘perfect fit’",
+    "ko": "크리스털 팰리스, 토마스 프랑크 감독 공식 발표",
+    "source": "sun",
+    "publishedAt": "2026-11-16T17:17:03.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "tottenham",
+     "brentford"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kostas Lianos",
+    "transfer": null
+   },
+   {
+    "id": "678569bd7bee",
+    "url": "https://www.kicker.de/dritte-station-in-london-frank-wird-neuer-palace-trainer-1272102/artikel#omrss",
+    "title": "Dritte Station in London: Frank wird neuer Palace-Trainer",
+    "ko": "프랭크, 크리스털 팰리스 신임 감독 선임 확정",
+    "source": "kicker",
+    "publishedAt": "2026-11-16T17:18:29.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a62701e6653e",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/crystal-palace/detalhe/oficial-thomas-frank-assina-pelo-lanterna-vermelha-crystal-palace-ate-2029",
+    "title": "Oficial: Thomas Frank assina pelo lanterna vermelha Crystal Palace até 2029",
+    "ko": "토마스 프랑크, 크리스털 팰리스와 2029년까지 계약",
+    "source": "record",
+    "publishedAt": "2026-11-16T18:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "토마스 프랑크"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bf383066781b",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/three-immediate-crystal-palace-changes-thomas-frank-should-make-including-new-formation",
+    "title": "Three immediate Crystal Palace changes Thomas Frank should make including new formation",
+    "ko": "프랭크 감독이 크리스털 팰리스에서 바로 바꿔야 할 세 가지",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-16T19:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1168c2a1c380",
+    "url": "https://www.mirror.co.uk/sport/football/news/crystal-palace-thomas-frank-manager-37883735",
+    "title": "Crystal Palace appoint Thomas Frank as ex-Tottenham boss takes major pay cut",
+    "ko": "크리스털 팰리스, 토마스 프랑크 감독 선임 합의…전 토트넘 감독 연봉 삭감",
+    "source": "mirror",
+    "publishedAt": "2026-11-16T20:08:13.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null
+   },
+   {
+    "id": "3860c0958788",
+    "url": "https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager",
+    "title": "Thomas Frank appointed new Crystal Palace manager",
+    "ko": "토마스 프랑크, 크리스털 팰리스 신임 감독 선임",
+    "source": "espn",
+    "publishedAt": "2026-11-16T22:43:16.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "26f1ab0fb0c5",
+    "url": "https://www.nytimes.com/athletic/7773783/2026/11/17/thomas-frank-crystal-palace-tactics-style-analysis/",
+    "title": "Will Thomas Frank's style and tactics suit Crystal Palace?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-17T05:08:57.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b1ae65e3daa1",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/match/sources-thomas-frank-has-big-ismaila-sarr-plan-as-crystal-palace-deal-imminent",
+    "title": "Sources: Thomas Frank has ‘big’ Ismaila Sarr plan as Crystal Palace deal imminent",
+    "ko": "토마스 프랑크, 크리스털 팰리스 이스마일라 사르 영입 계획 임박",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T07:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "이스마일라 사르"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "이스마일라 사르",
+     "from": null,
+     "to": "크리스털 팰리스"
+    }
+   },
+   {
+    "id": "5576d20b7ba7",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-has-been-set-up-to-fail-at-crystal-palace-as-red-flag-emerges-expert",
+    "title": "Thomas Frank has been 'set up to fail' at Crystal Palace as red flag emerges - expert",
+    "ko": "토마스 프랑크, 크리스털 팰리스에서 '실패하도록 설정됐다'는 전문가 지적",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T09:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "132f882488ca",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-owners-have-lost-their-minds-as-thomas-frank-terms-reported",
+    "title": "Crystal Palace owners have lost their minds as Thomas Frank terms reported",
+    "ko": "크리스털 팰리스 구단주, 토마스 프랑크 계약 조건 보도에 격앙",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T18:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a9f3b9d06673",
+    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-have-agreed-to-back-thomas-frank-as-january-plan-revealed-transfer-expert",
+    "title": "Crystal Palace 'have agreed' to back Thomas Frank as January plan revealed - Transfer expert",
+    "ko": "크리스털 팰리스, 프랭크 감독 지원 합의…1월 계획 공개",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T07:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "87ef0c2bbed3",
+    "url": "https://www.nytimes.com/athletic/7775695/2026/11/19/crystal-palace-frank-sage-manager/",
+    "title": "Pierre Sage out, Thomas Frank in: Why Crystal Palace had to act to revive their season",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-19T12:00:10.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fd3afcccc280",
+    "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+    "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
+    "ko": "토마스 프랑크, 크리스털 팰리스 지휘봉 잡고 증명 과제 떠안아",
+    "source": "guardian",
+    "publishedAt": "2026-11-19T19:50:10.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ed Aarons",
+    "transfer": null
+   },
+   {
+    "id": "5b5b533d7dbc",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+    "title": "Frank happy to be 'back in the circus' at Palace",
+    "ko": "프랭크, 크리스털 팰리스 복귀 후 '서커스 무대' 만족",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T20:16:10.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b5dbfa0ec72f",
+    "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
+    "title": "Frank eager to avoid repeat of Arsenal coffee cup controversy at Palace",
+    "ko": "토마스 프랑크, 팰리스에서 아스널식 커피잔 논란 재현 피하려 해",
+    "source": "espn",
+    "publishedAt": "2026-11-20T04:53:50.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace",
+     "arsenal"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "ESPN News Services",
+    "transfer": null
+   },
+   {
+    "id": "6af24f201b4f",
+    "url": "https://www.skysports.com/football/news/12040/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
+    "title": "Will Frank turn things around at Crystal Palace?",
+    "ko": "프랭크, 크리스털 팰리스 반등 이끌 수 있을까",
+    "source": "sky",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "crystal-palace"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0035a453cd62",
+    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-spurs-crystal-palace-34940946",
+    "title": "Thomas Frank will reveal more about Tottenham exit in brutally honest admission",
+    "ko": "토마스 프랑크, 토트넘 경질 배경 털어놓을 전망",
+    "source": "fblondon",
+    "publishedAt": "2026-11-20T11:01:59.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rachel Steinberg Press Association, Matt Maltby",
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 12,
+  "score": 3.8,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-08T20:56:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Frank happy to be 'back in the circus' at Palace"
+ },
+ {
+  "slug": "usmnt-manager-appointment",
+  "mode": "llm",
+  "titleKo": "미국 대표팀 차기 감독 선임 진행",
+  "createdAt": "2026-11-18T18:44:26.000Z",
+  "updatedAt": "2026-11-20T11:00:14.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "엠마 헤이즈"
+  ],
+  "sig": [
+   "hayes",
+   "soccer",
+   "usmnt"
+  ],
+  "articles": [
+   {
+    "id": "d6e80f91a590",
+    "url": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
+    "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+    "ko": "엠마 헤이스, 미국 대표팀 차기 감독 선임 과정 지원",
+    "source": "guardian",
+    "publishedAt": "2026-11-18T18:44:26.000Z",
+    "credited": "디 가디언",
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Iglesias Maurer",
+    "transfer": null
+   },
+   {
+    "id": "44f44ef4b94b",
+    "url": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
+    "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
+    "ko": "엠마 헤이즈, 미국 대표팀 감독 선임에 기술적 관점에서 참여",
+    "source": "espn",
+    "publishedAt": "2026-11-19T01:42:42.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "엠마 헤이즈"
+    ],
+    "playerTags": [],
+    "author": "Cesar Hernandez",
+    "transfer": null
+   },
+   {
+    "id": "c4a9a3fb2ed2",
+    "url": "https://www.nytimes.com/athletic/7796305/2026/11/20/usmnt-head-coach-soccer-pochettino-guardiola-helfrich/",
+    "title": "'High ambition,' not fame and celebrity: How U.S. Soccer will seek next USMNT coach",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-20T11:00:14.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 2.6,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 가디언",
+   "at": "2026-11-18T18:44:26.000Z",
+   "viaQuote": true
+  },
+  "headline": "'High ambition,' not fame and celebrity: How U.S. Soccer will seek next USMNT coach"
+ },
+ {
+  "slug": "saka-injury-20261120",
+  "mode": "llm",
+  "titleKo": "사카 부상 복귀 시점 불투명",
+  "createdAt": "2026-11-20T10:46:32.000Z",
+  "updatedAt": "2026-11-20T10:46:32.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "부카요 사카"
+  ],
+  "sig": [
+   "saka",
+   "christmas",
+   "mikel"
+  ],
+  "articles": [
+   {
+    "id": "eb4b3d8c95f6",
+    "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
+    "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+    "ko": "사카, 크리스마스 전 복귀 어려울 수도…아르테타 인정",
+    "source": "guardian",
+    "publishedAt": "2026-11-20T10:46:32.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "부카요 사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Ed Aarons",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.66,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bukayo-saka"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Guardian",
+   "source": "guardian",
+   "at": "2026-11-20T10:46:32.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits"
+ },
+ {
+  "slug": "valverde-real-madrid-contract",
+  "mode": "llm",
+  "titleKo": "발베르데 레알 마드리드 재계약 2031년",
+  "createdAt": "2026-11-20T06:09:12.000Z",
+  "updatedAt": "2026-11-20T10:36:05.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "발베르데",
+   "페데리코 발베르데"
+  ],
+  "sig": [
+   "valverde"
+  ],
+  "articles": [
+   {
+    "id": "319ef5d28934",
+    "url": "https://as.com/futbol/primera/valverde-2031-f202611-n/",
+    "title": "Valverde, 2031",
+    "ko": "발베르데, 2031년까지 재계약 관련 보도",
+    "source": "as",
+    "publishedAt": "2026-11-20T06:09:12.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": "Fernando S. Tavero,José Félix Díaz",
+    "transfer": null
+   },
+   {
+    "id": "3f1787b21fa5",
+    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-segura-federico-valverde-ate-2031",
+    "title": "Real Madrid segura Federico Valverde até 2031",
+    "ko": "레알 마드리드, 발베르데와 2031년까지 재계약",
+    "source": "record",
+    "publishedAt": "2026-11-20T10:36:05.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "페데리코 발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.36,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "federico-valverde"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-20T06:09:12.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid segura Federico Valverde até 2031"
  },
  {
   "slug": "inacio-injury",
@@ -359,7 +1745,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.86,
+  "score": 1.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -430,7 +1816,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.85,
+  "score": 1.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -657,7 +2043,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 3.28,
+  "score": 2.78,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -673,150 +2059,6 @@
    "viaQuote": false
   },
   "headline": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash"
- },
- {
-  "slug": "man-utd-affairs-drone-footage",
-  "mode": "llm",
-  "titleKo": "맨유 드론 영상 삭제 논란",
-  "createdAt": "2026-11-20T07:50:17.000Z",
-  "updatedAt": "2026-11-20T10:16:59.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "liverpool"
-  ],
-  "players": [],
-  "sig": [
-   "overview",
-   "deletes"
-  ],
-  "articles": [
-   {
-    "id": "d82771da52fa",
-    "url": "https://www.dailystar.co.uk/sport/secret-drone-footage-pochettino-man-37896649",
-    "title": "Secret drone footage of Pochettino Man United training session 'reveals Liverpool line-up'",
-    "ko": "포체티노 맨유 훈련 비밀 드론 영상, 리버풀 라인업 드러내",
-    "source": "star",
-    "publishedAt": "2026-11-19T19:37:58.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Edward Easton",
-    "transfer": null
-   },
-   {
-    "id": "d27ccb64a881",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-youtube-channel-cc-overview-37897343",
-    "title": "YouTube channel CC Overview DELETES Manchester United drone footage after backlash",
-    "ko": "유튜브 채널, 맨유 드론 영상 논란 뒤 삭제",
-    "source": "star",
-    "publishedAt": "2026-11-20T07:50:17.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Cockerton",
-    "transfer": null
-   },
-   {
-    "id": "ba09b33442fd",
-    "url": "https://www.thesun.co.uk/sport/41079255/man-utd-drone-footage-training-pochettino/",
-    "title": "‘Total error of judgment’ – Drone footage filmer removes video and issues grovelling apology to Pochettino and Man Utd",
-    "ko": "드론 영상 촬영자, 포체티노·맨유에 사과 후 영상 삭제",
-    "source": "sun",
-    "publishedAt": "2026-11-20T08:58:11.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Fermie",
-    "transfer": null
-   },
-   {
-    "id": "40a53a9ea38e",
-    "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
-    "title": "Drone operator takes down Man Utd footage and issues apology",
-    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제 후 사과",
-    "source": "sky",
-    "publishedAt": "2026-11-20T09:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7282b5c3c087",
-    "url": "https://www.lequipe.fr/Football/Actualites/Un-operateur-de-drone-retire-une-video-de-l-entrainement-de-manchester-united-et-presente-ses-excuses/1744826#at_medium=RSS_feeds",
-    "title": "Un opérateur de drone retire une vidéo de l'entraînement de Manchester United et présente ses excuses",
-    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제하고 사과",
-    "source": "lequipe",
-    "publishedAt": "2026-11-20T10:08:18.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Christine Thomas",
-    "transfer": null
-   },
-   {
-    "id": "8bfdfa83bc7e",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
-    "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
-    "ko": "드론 조종사, 포체티노 맨유 훈련 몰래 촬영 후 메시지",
-    "source": "men",
-    "publishedAt": "2026-11-20T10:16:59.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ben Crawford",
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 5,
-  "score": 5.85,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Daily Star",
-   "source": "star",
-   "at": "2026-11-19T19:37:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
@@ -7507,7 +8749,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 17,
-  "score": 3.07,
+  "score": 2.99,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7919,7 +9161,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 7,
-  "score": 3.88,
+  "score": 3.29,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7932,690 +9174,6 @@
    "viaQuote": false
   },
   "headline": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11"
- },
- {
-  "slug": "thomas-frank-crystal-palace-appointment",
-  "mode": "llm",
-  "titleKo": "토마스 프랑크 크리스털 팰리스 감독 선임 합의",
-  "createdAt": "2026-11-10T06:00:00.000Z",
-  "updatedAt": "2026-11-20T10:00:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "tottenham",
-   "crystal-palace",
-   "chelsea",
-   "brentford",
-   "arsenal"
-  ],
-  "players": [
-   "토마스 프랑크",
-   "이스마일라 사르"
-  ],
-  "sig": [
-   "frank"
-  ],
-  "articles": [
-   {
-    "id": "770820ed44c7",
-    "url": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
-    "title": "Frank leading candidate for Palace job with Sage likely to be sacked",
-    "ko": "크리스털 팰리스, 세이지 경질 가능성 속 토마스 프랑크 유력 후보",
-    "source": "sky",
-    "publishedAt": "2026-11-08T20:56:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c0571f0bf213",
-    "url": "https://www.mirror.co.uk/sport/football/news/thomas-frank-can-rebuild-reputation-37859388",
-    "title": "Thomas Frank can rebuild reputation at Crystal Palace after Tottenham nightmare",
-    "ko": "토마스 프랑크, 토트넘 악몽 뒤 크리스털 팰리스서 명예 회복 가능",
-    "source": "mirror",
-    "publishedAt": "2026-11-09T15:34:02.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "tottenham"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Cross",
-    "transfer": null
-   },
-   {
-    "id": "73b196431796",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-could-be-in-big-trouble-over-thomas-frank",
-    "title": "'Crystal Palace could be in big trouble over Thomas Frank'",
-    "ko": "토마스 프랑크 놓고 크리스털 팰리스 큰 위기 가능성",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-09T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9d4fed4707ec",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/thomas-frank-could-raid-tottenham-34882993",
-    "title": "Thomas Frank could raid Tottenham for 4 players if he takes charge at Crystal Palace",
-    "ko": "토마스 프랑크, 크리스털 팰리스行 시 토트넘서 4명 영입 가능성",
-    "source": "fblondon",
-    "publishedAt": "2026-11-10T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "tottenham",
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Fasika Zelealem",
-    "transfer": null
-   },
-   {
-    "id": "06173cf31add",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-leading-list-of-four-names-in-contention-for-crystal-palace-expert",
-    "title": "Thomas Frank leading list of 'four names' in contention for Crystal Palace - expert",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 후보 4인 중 선두",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-10T07:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "24611ea462b4",
-    "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-    "title": "Palace latest: Talks progressing for Frank to succeed Sage",
-    "ko": "팰리스, 세이지 후임 프랭크와 협상 진전",
-    "source": "sky",
-    "publishedAt": "2026-11-11T14:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "781e85dbebfd",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palaces-thomas-frank-appointment-hits-stumbling-block",
-    "title": "Sources: Crystal Palace's Thomas Frank appointment hits stumbling block",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임설에 걸림돌",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-12T14:11:26.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ff9c02087d57",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/next-manager/club-adviser-updates-on-thomas-frank-getting-premium-contract-at-crystal-palace",
-    "title": "Club adviser updates on Thomas Frank getting 'premium contract' at Crystal Palace",
-    "ko": "크리스털 팰리스, 토마스 프랑크에게 프리미엄 계약 제시 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T09:40:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "54fed1d10fc2",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-thomas-frank-to-crystal-palace-update-2",
-    "title": "Sources: Thomas Frank to Crystal Palace update",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 관련 업데이트",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-13T18:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9f1fbbfa10fd",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-crystal-palace-concerns-over-thomas-frank-emerge-amid-new-delay",
-    "title": "Sources: Crystal Palace 'concerns' over Thomas Frank emerge amid new delay",
-    "ko": "크리스털 팰리스, 토마스 프랑크 영입 지연 속 우려 제기",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-15T10:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e56177438e2c",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/sources-the-real-reason-crystal-palace-want-to-appoint-thomas-frank-revealed",
-    "title": "Sources: The real reason Crystal Palace want to appoint Thomas Frank revealed",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 부임 이유 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-15T20:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bfc83e76243f",
-    "url": "https://www.skysports.com/football/news/12040/13612758/thomas-frank-crystal-palace-agree-deal-in-principle-with-former-spurs-and-brentford-boss-as-pierre-sages-successor",
-    "title": "Frank agrees deal in principle to become new Crystal Palace head coach",
-    "ko": "프랭크, 크리스털 팰리스 신임 감독 원칙적 합의",
-    "source": "sky",
-    "publishedAt": "2026-11-16T11:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2f3b25723769",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-surprised-by-thomas-frank-demands-as-agreement-reached",
-    "title": "Crystal Palace 'surprised' by Thomas Frank demands as agreement reached",
-    "ko": "크리스털 팰리스, 토마스 프랑크 요구 조건에 '놀라'…합의 도달",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-16T12:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "61d2cbd3f4ec",
-    "url": "https://www.lequipe.fr/Football/Actualites/Crystal-palace-finaliserait-l-arrivee-de-thomas-frank-quelques-jours-apres-avoir-demis-de-ses-fonctions-pierre-sage/1743994#at_medium=RSS_feeds",
-    "title": "Crystal Palace finaliserait l'arrivée de Thomas Frank, quelques jours après avoir démis de ses fonctions Pierre Sage",
-    "ko": "크리스털 팰리스, 토마스 프랑크 영입 마무리 단계로 보도",
-    "source": "lequipe",
-    "publishedAt": "2026-11-16T12:53:07.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "b38c07dd24b0",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-    "title": "How Frank can restore reputation and save Crystal Palace",
-    "ko": "프랭크, 크리스털 팰리스 명예 회복 방안 점검",
-    "source": "bbc",
-    "publishedAt": "2026-11-16T15:15:57.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d0884cffc2d8",
-    "url": "https://www.thesun.co.uk/sport/41038815/chelsea-raided-crystal-palace-thomas-frank-bernardo-cueva/",
-    "title": "Chelsea set to be raided by new Crystal Palace boss Thomas Frank for set-piece coach",
-    "ko": "프랑크, 크리스털 팰리스 감독 부임 후 첼시 코치 영입 검토",
-    "source": "sun",
-    "publishedAt": "2026-11-16T15:52:18.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Danny Rust",
-    "transfer": null
-   },
-   {
-    "id": "ef3c9ec60800",
-    "url": "https://www.football.london/tottenham-hotspur-fc/news/tottenham-thomas-frank-crystal-palace-34920608",
-    "title": "Thomas Frank pushing to bring two ex-Tottenham staff members to Crystal Palace",
-    "ko": "토마스 프랑크, 전 토트넘 스태프 두 명 크리스털 팰리스 합류 추진",
-    "source": "fblondon",
-    "publishedAt": "2026-11-16T16:50:44.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "tottenham"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ryan Taylor",
-    "transfer": null
-   },
-   {
-    "id": "f923e466d045",
-    "url": "https://www.skysports.com/football/news/12040/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park",
-    "title": "Frank appointed Crystal Palace manager",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 공식 선임",
-    "source": "sky",
-    "publishedAt": "2026-11-16T17:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fb6b60a2330f",
-    "url": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
-    "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
-    "ko": "토마스 프랑크, 크리스털 팰리스 감독 공식 확정",
-    "source": "guardian",
-    "publishedAt": "2026-11-16T17:03:14.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ed Aarons",
-    "transfer": null
-   },
-   {
-    "id": "77b35cce86d8",
-    "url": "https://www.thesun.co.uk/sport/41041088/crystal-palace-thomas-frank-tottenham-brentford-pierre-sage/",
-    "title": "Crystal Palace announce Thomas Frank as new manager with ex-Tottenham and Brentford boss hailed as ‘perfect fit’",
-    "ko": "크리스털 팰리스, 토마스 프랑크 감독 공식 발표",
-    "source": "sun",
-    "publishedAt": "2026-11-16T17:17:03.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "tottenham",
-     "brentford"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kostas Lianos",
-    "transfer": null
-   },
-   {
-    "id": "678569bd7bee",
-    "url": "https://www.kicker.de/dritte-station-in-london-frank-wird-neuer-palace-trainer-1272102/artikel#omrss",
-    "title": "Dritte Station in London: Frank wird neuer Palace-Trainer",
-    "ko": "프랭크, 크리스털 팰리스 신임 감독 선임 확정",
-    "source": "kicker",
-    "publishedAt": "2026-11-16T17:18:29.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a62701e6653e",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/crystal-palace/detalhe/oficial-thomas-frank-assina-pelo-lanterna-vermelha-crystal-palace-ate-2029",
-    "title": "Oficial: Thomas Frank assina pelo lanterna vermelha Crystal Palace até 2029",
-    "ko": "토마스 프랑크, 크리스털 팰리스와 2029년까지 계약",
-    "source": "record",
-    "publishedAt": "2026-11-16T18:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "토마스 프랑크"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bf383066781b",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/three-immediate-crystal-palace-changes-thomas-frank-should-make-including-new-formation",
-    "title": "Three immediate Crystal Palace changes Thomas Frank should make including new formation",
-    "ko": "프랭크 감독이 크리스털 팰리스에서 바로 바꿔야 할 세 가지",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-16T19:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "1168c2a1c380",
-    "url": "https://www.mirror.co.uk/sport/football/news/crystal-palace-thomas-frank-manager-37883735",
-    "title": "Crystal Palace appoint Thomas Frank as ex-Tottenham boss takes major pay cut",
-    "ko": "크리스털 팰리스, 토마스 프랑크 감독 선임 합의…전 토트넘 감독 연봉 삭감",
-    "source": "mirror",
-    "publishedAt": "2026-11-16T20:08:13.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "tottenham"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Nathan Ridley",
-    "transfer": null
-   },
-   {
-    "id": "3860c0958788",
-    "url": "https://www.espn.com/soccer/story/_/id/50462553/thomas-frank-appointed-new-crystal-palace-manager",
-    "title": "Thomas Frank appointed new Crystal Palace manager",
-    "ko": "토마스 프랑크, 크리스털 팰리스 신임 감독 선임",
-    "source": "espn",
-    "publishedAt": "2026-11-16T22:43:16.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "26f1ab0fb0c5",
-    "url": "https://www.nytimes.com/athletic/7773783/2026/11/17/thomas-frank-crystal-palace-tactics-style-analysis/",
-    "title": "Will Thomas Frank's style and tactics suit Crystal Palace?",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-17T05:08:57.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b1ae65e3daa1",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/match/sources-thomas-frank-has-big-ismaila-sarr-plan-as-crystal-palace-deal-imminent",
-    "title": "Sources: Thomas Frank has ‘big’ Ismaila Sarr plan as Crystal Palace deal imminent",
-    "ko": "토마스 프랑크, 크리스털 팰리스 이스마일라 사르 영입 계획 임박",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T07:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "이스마일라 사르"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "이스마일라 사르",
-     "from": null,
-     "to": "크리스털 팰리스"
-    }
-   },
-   {
-    "id": "5576d20b7ba7",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/thomas-frank-has-been-set-up-to-fail-at-crystal-palace-as-red-flag-emerges-expert",
-    "title": "Thomas Frank has been 'set up to fail' at Crystal Palace as red flag emerges - expert",
-    "ko": "토마스 프랑크, 크리스털 팰리스에서 '실패하도록 설정됐다'는 전문가 지적",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T09:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "132f882488ca",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-owners-have-lost-their-minds-as-thomas-frank-terms-reported",
-    "title": "Crystal Palace owners have lost their minds as Thomas Frank terms reported",
-    "ko": "크리스털 팰리스 구단주, 토마스 프랑크 계약 조건 보도에 격앙",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T18:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a9f3b9d06673",
-    "url": "https://www.footballinsider247.com/crystal-palace-fc/crystal-palace-have-agreed-to-back-thomas-frank-as-january-plan-revealed-transfer-expert",
-    "title": "Crystal Palace 'have agreed' to back Thomas Frank as January plan revealed - Transfer expert",
-    "ko": "크리스털 팰리스, 프랭크 감독 지원 합의…1월 계획 공개",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T07:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "87ef0c2bbed3",
-    "url": "https://www.nytimes.com/athletic/7775695/2026/11/19/crystal-palace-frank-sage-manager/",
-    "title": "Pierre Sage out, Thomas Frank in: Why Crystal Palace had to act to revive their season",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-19T12:00:10.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fd3afcccc280",
-    "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
-    "title": "Thomas Frank admits he has a point to prove after taking reins at Crystal Palace",
-    "ko": "토마스 프랑크, 크리스털 팰리스 지휘봉 잡고 증명 과제 떠안아",
-    "source": "guardian",
-    "publishedAt": "2026-11-19T19:50:10.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ed Aarons",
-    "transfer": null
-   },
-   {
-    "id": "5b5b533d7dbc",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
-    "title": "Frank happy to be 'back in the circus' at Palace",
-    "ko": "프랭크, 크리스털 팰리스 복귀 후 '서커스 무대' 만족",
-    "source": "bbc",
-    "publishedAt": "2026-11-19T20:16:10.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b5dbfa0ec72f",
-    "url": "https://www.espn.com/soccer/story/_/id/50534780/thomas-frank-crystal-palace-arsenal-tottenham-coffee-cup",
-    "title": "Frank eager to avoid repeat of Arsenal coffee cup controversy at Palace",
-    "ko": "토마스 프랑크, 팰리스에서 아스널식 커피잔 논란 재현 피하려 해",
-    "source": "espn",
-    "publishedAt": "2026-11-20T04:53:50.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace",
-     "arsenal"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "ESPN News Services",
-    "transfer": null
-   },
-   {
-    "id": "6af24f201b4f",
-    "url": "https://www.skysports.com/football/news/12040/13613145/thomas-frank-what-should-crystal-palace-expect-from-their-new-manager-what-does-he-need-to-change-and-can-he-keep-the-eagles-up",
-    "title": "Will Frank turn things around at Crystal Palace?",
-    "ko": "프랭크, 크리스털 팰리스 반등 이끌 수 있을까",
-    "source": "sky",
-    "publishedAt": "2026-11-20T10:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "crystal-palace"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 12,
-  "score": 2.42,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-08T20:56:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Frank happy to be 'back in the circus' at Palace"
  },
  {
   "slug": "newcastle-affairs-stadium-training-ground",
@@ -8744,7 +9302,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.51,
+  "score": 0.44,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8836,7 +9394,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.86,
+  "score": 0.73,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9003,7 +9561,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.65,
+  "score": 1.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9113,7 +9671,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9199,7 +9757,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9322,7 +9880,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.96,
+  "score": 1.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9377,7 +9935,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.36,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9390,82 +9948,6 @@
    "viaQuote": false
   },
   "headline": "Newcastle left ‘disappointed’ as Joelinton suffers another injury blow"
- },
- {
-  "slug": "courtois-contract",
-  "mode": "llm",
-  "titleKo": "쿠르투아 레알 마드리드 재계약",
-  "createdAt": "2026-11-20T08:42:00.000Z",
-  "updatedAt": "2026-11-20T08:42:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "티보 쿠르투아"
-  ],
-  "sig": [
-   "thibaut",
-   "courtois"
-  ],
-  "articles": [
-   {
-    "id": "e47bfe48b1f7",
-    "url": "https://www.hln.be/voetbal/de-deal-is-rond-thibaut-courtois-verlengt-contract-bij-real-madrid-tot-2028~a42e00ca/",
-    "title": "De deal is rond: Thibaut Courtois verlengt contract bij Real Madrid tot 2028",
-    "ko": "티보 쿠르투아, 레알 마드리드와 2028년까지 재계약",
-    "source": "hln",
-    "publishedAt": "2026-11-20T08:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": {
-     "player": "티보 쿠르투아",
-     "from": null,
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.82,
-  "topTier": 3,
-  "stageHistory": [
-   {
-    "id": "e47bfe48b1f7",
-    "at": "2026-11-20T08:42:00.000Z",
-    "source": "hln",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "thibaut-courtois"
-  ],
-  "transfer": {
-   "player": "티보 쿠르투아",
-   "from": null,
-   "to": null
-  },
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-20T08:42:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "De deal is rond: Thibaut Courtois verlengt contract bij Real Madrid tot 2028"
  },
  {
   "slug": "bakayoko-besiktas-transfer",
@@ -9514,7 +9996,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.27,
+  "score": 1.08,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9593,7 +10075,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9922,7 +10404,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.11,
+  "score": 0.94,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9989,7 +10471,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10121,7 +10603,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.31,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11277,7 +11759,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.02,
+  "score": 0.87,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11369,7 +11851,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.55,
+  "score": 0.47,
   "topTier": 3,
   "stageHistory": [
    {
@@ -11576,7 +12058,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.71,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11716,7 +12198,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.86,
+  "score": 0.73,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11831,7 +12313,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.72,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11882,7 +12364,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11932,7 +12414,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12378,7 +12860,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.6,
+  "score": 0.51,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12434,7 +12916,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.5,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12499,7 +12981,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12663,9 +13145,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 6,
-  "score": 0.29,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12888,9 +13370,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.63,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12952,9 +13434,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13037,9 +13519,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13842,244 +14324,6 @@
    "viaQuote": false
   },
   "headline": "Sources: Arsenal's chances of signing Antonio Nusa in January revealed"
- },
- {
-  "slug": "man-city-affairs-charges-20261119",
-  "mode": "llm",
-  "titleKo": "맨시티 혐의 여파 확산",
-  "createdAt": "2026-11-19T08:53:43.000Z",
-  "updatedAt": "2026-11-19T18:54:08.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-city",
-   "arsenal",
-   "chelsea",
-   "tottenham"
-  ],
-  "players": [],
-  "sig": [
-   "richard",
-   "masters"
-  ],
-  "articles": [
-   {
-    "id": "84b4b6882dd2",
-    "url": "https://www.mirror.co.uk/sport/football/man-city-premier-league-charges-37893153",
-    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
-    "ko": "맨시티 구단주, 20억 달러 타격…프리미어리그 새 혐의 전개",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T08:53:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "9078b1b81328",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-charges-37893153",
-    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
-    "ko": "맨시티 구단주, 20억 달러 타격 속 새 프리미어리그 혐의 부상",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T08:53:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "c098e88470f8",
-    "url": "https://www.thesun.co.uk/sport/41069846/man-city-lose-loan-guilty-verdict/",
-    "title": "Man City miss out on £1.5BILLION as major finance organisation scrap loan after guilty verdict",
-    "ko": "맨시티, 금융기관 대출 철회로 15억 파운드 기회 놓쳐",
-    "source": "sun",
-    "publishedAt": "2026-11-19T12:55:47.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "0802b9aced6f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-    "ko": "프리미어리그 구단들, 맨시티 스폰서 소송 시 법률 비용 부담 논의",
-    "source": "bbc",
-    "publishedAt": "2026-11-19T13:29:42.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dee5ffa4f3bd",
-    "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271",
-    "title": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
-    "ko": "프리미어리그 구단들, 맨시티 유죄 판결 위협에 합의 도달",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T14:10:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "67970b92fd69",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-premier-league-34936649",
-    "title": "Premier League clubs agree to Richard Masters plea over Man City charges fear",
-    "ko": "프리미어리그 구단들, 맨시티 혐의 우려에 리처드 매스터스 요청 수용",
-    "source": "men",
-    "publishedAt": "2026-11-19T14:22:33.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "5624d776e653",
-    "url": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
-    "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
-    "ko": "아스널·첼시·토트넘, 맨시티 사태 속 추가 보호장치 투표",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T15:05:22.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "chelsea",
-     "tottenham",
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jamie Gardner Press Association Chief Sports Reporter",
-    "transfer": null
-   },
-   {
-    "id": "cfd627528d90",
-    "url": "https://www.skysports.com/football/news/12040/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
-    "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
-    "ko": "PL 구단들, 맨시티 스폰서 소송 시 이사진 법률비용 보전 투표",
-    "source": "sky",
-    "publishedAt": "2026-11-19T15:26:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "aedd45282566",
-    "url": "https://www.thesun.co.uk/sport/41073112/premier-league-clubs-back-chiefs-man-city-legal-costs/",
-    "title": "Man City in new blow as 18 Premier League clubs vote to cover legal costs of chiefs if club sued over ‘sham’ contracts",
-    "ko": "프리미어리그 18개 구단, 맨시티 임원 법률 비용 보장 투표",
-    "source": "sun",
-    "publishedAt": "2026-11-19T15:34:07.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "a5707539d58c",
-    "url": "https://as.com/futbol/internacional/bloqueo-millonario-al-city-f202611-n/",
-    "title": "Bloqueo millonario al City",
-    "ko": "맨시티, 수백만 유로 규모 제재 압박",
-    "source": "as",
-    "publishedAt": "2026-11-19T16:07:08.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Montaño",
-    "transfer": null
-   },
-   {
-    "id": "88c27834b41f",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-city-sponsors-premier-league-37896605",
-    "title": "Two clubs refusing to cover legal costs if Man City sponsors sue revealed after 18-2 vote",
-    "ko": "맨시티 스폰서 소송 시 법률비용 부담 거부 두 클럽 밝혀져",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T18:54:08.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 7,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-19T08:53:43.000Z",
-   "viaQuote": false
-  },
-  "headline": "Premier League clubs to cover legal costs if Man City sponsors sue"
  },
  {
   "slug": "brunner-monaco-contract",
@@ -23100,74 +23344,6 @@
    "viaQuote": false
   },
   "headline": "Prestianni volta com a moral em alta"
- },
- {
-  "slug": "usmnt-manager-appointment",
-  "mode": "llm",
-  "titleKo": "미국 대표팀 차기 감독 선임 진행",
-  "createdAt": "2026-11-18T18:44:26.000Z",
-  "updatedAt": "2026-11-19T01:42:42.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "엠마 헤이즈"
-  ],
-  "sig": [
-   "hayes",
-   "soccer",
-   "usmnt"
-  ],
-  "articles": [
-   {
-    "id": "d6e80f91a590",
-    "url": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
-    "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
-    "ko": "엠마 헤이스, 미국 대표팀 차기 감독 선임 과정 지원",
-    "source": "guardian",
-    "publishedAt": "2026-11-18T18:44:26.000Z",
-    "credited": "디 가디언",
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Iglesias Maurer",
-    "transfer": null
-   },
-   {
-    "id": "44f44ef4b94b",
-    "url": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
-    "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
-    "ko": "엠마 헤이즈, 미국 대표팀 감독 선임에 기술적 관점에서 참여",
-    "source": "espn",
-    "publishedAt": "2026-11-19T01:42:42.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "엠마 헤이즈"
-    ],
-    "playerTags": [],
-    "author": "Cesar Hernandez",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 가디언",
-   "at": "2026-11-18T18:44:26.000Z",
-   "viaQuote": true
-  },
-  "headline": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'"
  },
  {
   "slug": "tunisia-afcon-final-2026-protest-incident",
