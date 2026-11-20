@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T04:26:13.732Z",
+ "updatedAt": "2026-11-20T05:30:36.572Z",
  "hot": [
+  "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
+  "thomas-frank-crystal-palace-appointment",
   "arsenal-ol-lyonnes-2026-11-19",
-  "mudryk-discipline",
-  "tolisso-fonseca-relationship",
-  "england-affairs-fan-discrimination-uefa"
+  "mudryk-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -61,14 +61,14 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 20,
+   "added": 15,
+   "authorRate": 90
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "marca": {
@@ -98,8 +98,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 84
+   "added": 2,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -116,13 +116,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 98
   },
   "waz": {
@@ -140,19 +140,19 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -188,7 +188,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -228,15 +228,15 @@
    "count": 36
   },
   {
+   "name": "잭 그릴리시",
+   "count": 34
+  },
+  {
    "name": "베르나르두 실바",
    "count": 34
   },
   {
    "name": "웨인 루니",
-   "count": 33
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 33
   },
   {
@@ -321,24 +321,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
+  "recentIssues": 224,
   "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 106
+    "count": 109
    },
    {
     "slug": "wales-portugal-2026-11-12",
     "count": 23
    },
    {
-    "slug": "jj-gabriel-real-madrid-transfer",
+    "slug": "pochettino-usmnt-manager-future",
     "count": 16
    },
    {
-    "slug": "pochettino-usmnt-manager-future",
-    "count": 15
+    "slug": "jj-gabriel-real-madrid-transfer",
+    "count": 16
    }
   ]
  },
@@ -748,6 +748,20 @@
    ]
   },
   {
+   "en": "Rui Borges",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이 보르게스",
+     "count": 2
+    },
+    {
+     "ko": "루이 보르헤스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Emma Hayes",
    "dictionary": null,
    "variants": [
@@ -976,20 +990,6 @@
    ]
   },
   {
-   "en": "Rui Borges",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 보르헤스",
-     "count": 1
-    },
-    {
-     "ko": "루이 보르게스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kaminski",
    "dictionary": null,
    "variants": [
@@ -1174,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 322,
-   "llm": 322
+   "collected": 353,
+   "llm": 353
   }
  },
  "llmErrors": []
