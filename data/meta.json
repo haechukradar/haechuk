@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T23:26:09.725Z",
+ "updatedAt": "2026-11-20T00:11:45.488Z",
  "hot": [
   "arsenal-ol-lyonnes-2026-11-19",
-  "england-affairs-fan-discrimination-uefa",
-  "thomas-frank-crystal-palace-appointment",
+  "mudryk-discipline",
   "pochettino-man-utd-manager-future",
-  "mudryk-discipline"
+  "tolisso-fonseca-relationship",
+  "england-affairs-fan-discrimination-uefa"
  ],
  "days": [
   "2026-10-18",
@@ -43,20 +43,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
+   "items": 83,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,13 +92,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 84
   },
   "fblondon": {
@@ -110,7 +110,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -146,7 +146,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -158,12 +158,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 25,
+   "items": 20,
    "added": 0,
    "authorRate": 100
   },
@@ -188,12 +188,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -380,6 +380,24 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 5
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 2
+    },
+    {
+     "ko": "폰세카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Alanzinho",
    "dictionary": null,
    "variants": [
@@ -407,38 +425,6 @@
     },
     {
      "ko": "사비 알론소",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Scherhant",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "셰르한트",
-     "count": 6
-    },
-    {
-     "ko": "샤르한트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 5
-    },
-    {
-     "ko": "폰세카",
-     "count": 1
-    },
-    {
-     "ko": "파울루 퐁세카",
      "count": 1
     }
    ]
@@ -498,16 +484,16 @@
    ]
   },
   {
-   "en": "Hugo Oliveira",
+   "en": "Scherhant",
    "dictionary": null,
    "variants": [
     {
-     "ko": "위고 올리베이라",
-     "count": 3
+     "ko": "셰르한트",
+     "count": 4
     },
     {
-     "ko": "우고 올리베이라",
-     "count": 2
+     "ko": "샤르한트",
+     "count": 1
     }
    ]
   },
@@ -544,6 +530,20 @@
     {
      "ko": "조르즈 시망",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hugo Oliveira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "위고 올리베이라",
+     "count": 2
+    },
+    {
+     "ko": "우고 올리베이라",
+     "count": 2
     }
    ]
   },
@@ -1174,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 295,
-   "llm": 295
+   "collected": 305,
+   "llm": 305
   }
  },
  "llmErrors": []
