@@ -1,594 +1,34 @@
 [
  {
-  "slug": "courtois-contract",
+  "slug": "rankin-injury",
   "mode": "llm",
-  "titleKo": "쿠르투아 레알 마드리드 재계약",
-  "createdAt": "2026-11-20T08:42:00.000Z",
-  "updatedAt": "2026-11-20T11:42:07.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "티보 쿠르투아",
-   "쿠르투아"
-  ],
-  "sig": [
-   "thibaut",
-   "courtois"
-  ],
-  "articles": [
-   {
-    "id": "e47bfe48b1f7",
-    "url": "https://www.hln.be/voetbal/de-deal-is-rond-thibaut-courtois-verlengt-contract-bij-real-madrid-tot-2028~a42e00ca/",
-    "title": "De deal is rond: Thibaut Courtois verlengt contract bij Real Madrid tot 2028",
-    "ko": "티보 쿠르투아, 레알 마드리드와 2028년까지 재계약",
-    "source": "hln",
-    "publishedAt": "2026-11-20T08:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": {
-     "player": "티보 쿠르투아",
-     "from": null,
-     "to": null
-    }
-   },
-   {
-    "id": "1765d3e9a2c5",
-    "url": "https://www.kicker.de/bis-2028-courtois-verlaengert-bei-real-madrid-1273228/artikel#omrss",
-    "title": "Bis 2028: Courtois verlängert bei Real Madrid",
-    "ko": "쿠르투아, 레알 마드리드와 2028년까지 재계약",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T11:42:07.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 2.65,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "e47bfe48b1f7",
-    "at": "2026-11-20T08:42:00.000Z",
-    "source": "hln",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "thibaut-courtois"
-  ],
-  "transfer": {
-   "player": "티보 쿠르투아",
-   "from": null,
-   "to": null
-  },
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-20T08:42:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bis 2028: Courtois verlängert bei Real Madrid"
- },
- {
-  "slug": "man-city-affairs-charges-20261119",
-  "mode": "llm",
-  "titleKo": "맨시티 혐의 여파 확산",
-  "createdAt": "2026-11-19T08:53:43.000Z",
-  "updatedAt": "2026-11-20T11:40:14.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-city",
-   "arsenal",
-   "chelsea",
-   "tottenham"
-  ],
-  "players": [],
-  "sig": [
-   "richard",
-   "masters"
-  ],
-  "articles": [
-   {
-    "id": "84b4b6882dd2",
-    "url": "https://www.mirror.co.uk/sport/football/man-city-premier-league-charges-37893153",
-    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
-    "ko": "맨시티 구단주, 20억 달러 타격…프리미어리그 새 혐의 전개",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T08:53:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "9078b1b81328",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-charges-37893153",
-    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
-    "ko": "맨시티 구단주, 20억 달러 타격 속 새 프리미어리그 혐의 부상",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T08:53:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "c098e88470f8",
-    "url": "https://www.thesun.co.uk/sport/41069846/man-city-lose-loan-guilty-verdict/",
-    "title": "Man City miss out on £1.5BILLION as major finance organisation scrap loan after guilty verdict",
-    "ko": "맨시티, 금융기관 대출 철회로 15억 파운드 기회 놓쳐",
-    "source": "sun",
-    "publishedAt": "2026-11-19T12:55:47.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "0802b9aced6f",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
-    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
-    "ko": "프리미어리그 구단들, 맨시티 스폰서 소송 시 법률 비용 부담 논의",
-    "source": "bbc",
-    "publishedAt": "2026-11-19T13:29:42.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "dee5ffa4f3bd",
-    "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271",
-    "title": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
-    "ko": "프리미어리그 구단들, 맨시티 유죄 판결 위협에 합의 도달",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T14:10:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "67970b92fd69",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-premier-league-34936649",
-    "title": "Premier League clubs agree to Richard Masters plea over Man City charges fear",
-    "ko": "프리미어리그 구단들, 맨시티 혐의 우려에 리처드 매스터스 요청 수용",
-    "source": "men",
-    "publishedAt": "2026-11-19T14:22:33.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "5624d776e653",
-    "url": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
-    "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
-    "ko": "아스널·첼시·토트넘, 맨시티 사태 속 추가 보호장치 투표",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T15:05:22.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "chelsea",
-     "tottenham",
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jamie Gardner Press Association Chief Sports Reporter",
-    "transfer": null
-   },
-   {
-    "id": "cfd627528d90",
-    "url": "https://www.skysports.com/football/news/12040/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
-    "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
-    "ko": "PL 구단들, 맨시티 스폰서 소송 시 이사진 법률비용 보전 투표",
-    "source": "sky",
-    "publishedAt": "2026-11-19T15:26:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "aedd45282566",
-    "url": "https://www.thesun.co.uk/sport/41073112/premier-league-clubs-back-chiefs-man-city-legal-costs/",
-    "title": "Man City in new blow as 18 Premier League clubs vote to cover legal costs of chiefs if club sued over ‘sham’ contracts",
-    "ko": "프리미어리그 18개 구단, 맨시티 임원 법률 비용 보장 투표",
-    "source": "sun",
-    "publishedAt": "2026-11-19T15:34:07.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "a5707539d58c",
-    "url": "https://as.com/futbol/internacional/bloqueo-millonario-al-city-f202611-n/",
-    "title": "Bloqueo millonario al City",
-    "ko": "맨시티, 수백만 유로 규모 제재 압박",
-    "source": "as",
-    "publishedAt": "2026-11-19T16:07:08.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Montaño",
-    "transfer": null
-   },
-   {
-    "id": "88c27834b41f",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-city-sponsors-premier-league-37896605",
-    "title": "Two clubs refusing to cover legal costs if Man City sponsors sue revealed after 18-2 vote",
-    "ko": "맨시티 스폰서 소송 시 법률비용 부담 거부 두 클럽 밝혀져",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T18:54:08.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null
-   },
-   {
-    "id": "8d80d214840c",
-    "url": "https://www.footballinsider247.com/manchester-city/stefan-borson-drops-verdict-on-man-city-sponsors-suing-premier-league-figures-in-defamation-twist",
-    "title": "Stefan Borson drops verdict on Man City sponsors suing Premier League figures in 'defamation' twist",
-    "ko": "맨시티 스폰서들, 프리미어리그 인사 상대 명예훼손 소송 제기 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-20T11:40:14.000Z",
-    "credited": "스테판 보르손(X)",
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 8,
-  "score": 0.58,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스테판 보르손(X)",
-   "at": "2026-11-19T08:53:43.000Z",
-   "viaQuote": true
-  },
-  "headline": "Premier League clubs to cover legal costs if Man City sponsors sue"
- },
- {
-  "slug": "pote-sporting-manager-future",
-  "mode": "llm",
-  "titleKo": "포테 스포르팅 경질 뒤 인터뷰 심경",
-  "createdAt": "2026-11-20T03:00:00.000Z",
-  "updatedAt": "2026-11-20T11:30:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "stoke"
-  ],
-  "players": [
-   "기레스",
-   "루이스 수아레스"
-  ],
-  "sig": [
-   "sporting",
-   "record",
-   "afastarem"
-  ],
-  "articles": [
-   {
-    "id": "11a5cc425698",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/pote-abre-o-livro-sobre-os-ultimos-meses-no-sporting-em-entrevista-a-record-afastarem-me-nao-foi-a-melhor-decisao",
-    "title": "Pote abre o livro sobre os últimos meses no Sporting em entrevista a Record: «Afastarem-me não foi a melhor decisão»",
-    "ko": "포테, 스포르팅서 쫓겨난 뒤 심경 밝혀…\"나를 떼어낸 건 최선이 아니었다\"",
-    "source": "record",
-    "publishedAt": "2026-11-20T03:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a2152ec35ef7",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/pote-travao-de-mao-tentei-explicar-ao-presidente",
-    "title": "Pote: «Travão de mão? Tentei explicar ao presidente...»",
-    "ko": "포테 \"감속 브레이크? 회장에게 설명하려 했다\"",
-    "source": "record",
-    "publishedAt": "2026-11-20T04:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d26594902588",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/pote-o-golo-mais-marcante-pelo-sporting-a-ligacao-com-gyokeres-e-a-relacao-com-luis-suarez",
-    "title": "Pote: o \"golo mais marcante\" pelo Sporting, a ligação com Gyökeres e... a relação com Luis Suárez",
-    "ko": "포테, 스포르팅 시절 가장 기억에 남는 골과 기리고 및 루이스 수아레스와의 관계 언급",
-    "source": "record",
-    "publishedAt": "2026-11-20T06:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "기레스",
-     "루이스 수아레스"
-    ],
-    "playerTags": [
-     "viktor-gyokeres"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "34b32e8f90e0",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/a-chance-de-trabalhar-com-ruben-amorim-nunca-chegou-a-100-pote-conta-tudo-sobre-a-saida-do-sporting",
-    "title": "«A chance de trabalhar com Ruben Amorim nunca chegou a 100%»: Pote conta tudo sobre a saída do Sporting",
-    "ko": "포테, 아모림과 함께한 스포르팅 시절과 퇴단 배경 털어놔",
-    "source": "record",
-    "publishedAt": "2026-11-20T07:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e85f6ccf3530",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/jogador-treinador-ou-presidente-quem-decidiu-encerrar-o-ciclo-de-pote-no-sporting",
-    "title": "Jogador, treinador ou presidente: quem decidiu encerrar o ciclo de Pote no Sporting?",
-    "ko": "스포르팅 포테 경질 결정은 선수·감독·회장 중 누구의 뜻인가",
-    "source": "record",
-    "publishedAt": "2026-11-20T08:05:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a32e46f62d37",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-justifica-desabafo-do-travao-de-mao-nao-sou-um-escritor-nem-tenho-um-vocabulario-vasto",
-    "title": "Pote justifica desabafo do \"travão de mão\": «Não sou um escritor nem tenho um vocabulário vasto»",
-    "ko": "포테, 자신의 \"핸드브레이크\" 발언 해명 \"나는 작가가 아니다\"",
-    "source": "record",
-    "publishedAt": "2026-11-20T08:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "be126ff3c584",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-recorda-ligacao-do-plantel-do-sporting-a-rui-borges-nunca-houve-desconfianca",
-    "title": "Pote recorda ligação do plantel do Sporting a Rui Borges: «Nunca houve desconfiança»",
-    "ko": "포테, 스포르팅 시절 루이 보르게스와의 관계 회상",
-    "source": "record",
-    "publishedAt": "2026-11-20T10:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c801596a8197",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-lembra-elogios-de-ruben-amorim-se-foram-as-palavras-dele-nao-cumpriu",
-    "title": "Pote lembra elogios de Ruben Amorim: «Se foram as palavras dele, não cumpriu»",
-    "ko": "포테, 아모림의 과거 칭찬 언급하며 심경 토로",
-    "source": "record",
-    "publishedAt": "2026-11-20T10:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ed763cfe54e7",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/entrevista-de-pote-cai-mal-em-alvalade",
-    "title": "Entrevista de Pote cai mal em Alvalade",
-    "ko": "포테 인터뷰 논란, 알발라데 심경 질문",
-    "source": "record",
-    "publishedAt": "2026-11-20T11:02:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c28ddea4be0d",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-revela-a-unica-vez-que-pediu-para-sair-do-sporting-foi-com-amorim-e-o-destino-era-inglaterra",
-    "title": "Pote revela a única vez que pediu para sair do Sporting: foi com Amorim e o destino era Inglaterra…",
-    "ko": "포테, 스포르팅 시절 이적 요청 일화 회고",
-    "source": "record",
-    "publishedAt": "2026-11-20T11:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.43,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "viktor-gyokeres"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-20T03:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Pote revela a única vez que pediu para sair do Sporting: foi com Amorim e o destino era Inglaterra…"
- },
- {
-  "slug": "semenyo-discipline",
-  "mode": "llm",
-  "titleKo": "세메뇨 인종차별 혐의 팬 무죄 평결",
-  "createdAt": "2026-11-20T11:12:35.000Z",
-  "updatedAt": "2026-11-20T11:12:35.000Z",
-  "category": "other",
+  "titleKo": "프랑크푸르트 랭킨 장기 부상 결장",
+  "createdAt": "2026-11-20T12:49:26.000Z",
+  "updatedAt": "2026-11-20T12:49:26.000Z",
+  "category": "injury",
   "stage": null,
   "clubs": [],
   "players": [
-   "세메뇨"
+   "랭킨"
   ],
   "sig": [
-   "semenyo"
+   "frankfurt",
+   "rankin"
   ],
   "articles": [
    {
-    "id": "a7479d77059d",
-    "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
-    "title": "Fan found not guilty of racially abusing Semenyo",
-    "ko": "세메뇨 인종차별 혐의 팬, 무죄 평결",
-    "source": "bbc",
-    "publishedAt": "2026-11-20T11:12:35.000Z",
+    "id": "91b994d1ed58",
+    "url": "https://www.kicker.de/eintracht-frankfurt-rankin-faellt-monatelang-aus-1273249/artikel#omrss",
+    "title": "Eintracht Frankfurt: Rankin fällt monatelang aus",
+    "ko": "프랑크푸르트 랭킨, 수개월 결장 소식",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T12:49:26.000Z",
     "credited": null,
     "clubs": [],
-    "category": "other",
+    "category": "injury",
     "stage": null,
     "players": [
-     "세메뇨"
+     "랭킨"
     ],
     "playerTags": [],
     "author": null,
@@ -597,189 +37,26 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 2.69,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-20T11:12:35.000Z",
-   "viaQuote": false
-  },
-  "headline": "Fan found not guilty of racially abusing Semenyo"
- },
- {
-  "slug": "man-utd-affairs-drone-footage",
-  "mode": "llm",
-  "titleKo": "맨유 드론 영상 삭제 논란",
-  "createdAt": "2026-11-20T07:50:17.000Z",
-  "updatedAt": "2026-11-20T11:03:31.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "liverpool"
-  ],
-  "players": [],
-  "sig": [
-   "overview",
-   "deletes"
-  ],
-  "articles": [
-   {
-    "id": "d82771da52fa",
-    "url": "https://www.dailystar.co.uk/sport/secret-drone-footage-pochettino-man-37896649",
-    "title": "Secret drone footage of Pochettino Man United training session 'reveals Liverpool line-up'",
-    "ko": "포체티노 맨유 훈련 비밀 드론 영상, 리버풀 라인업 드러내",
-    "source": "star",
-    "publishedAt": "2026-11-19T19:37:58.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Edward Easton",
-    "transfer": null
-   },
-   {
-    "id": "d27ccb64a881",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-youtube-channel-cc-overview-37897343",
-    "title": "YouTube channel CC Overview DELETES Manchester United drone footage after backlash",
-    "ko": "유튜브 채널, 맨유 드론 영상 논란 뒤 삭제",
-    "source": "star",
-    "publishedAt": "2026-11-20T07:50:17.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Cockerton",
-    "transfer": null
-   },
-   {
-    "id": "ba09b33442fd",
-    "url": "https://www.thesun.co.uk/sport/41079255/man-utd-drone-footage-training-pochettino/",
-    "title": "‘Total error of judgment’ – Drone footage filmer removes video and issues grovelling apology to Pochettino and Man Utd",
-    "ko": "드론 영상 촬영자, 포체티노·맨유에 사과 후 영상 삭제",
-    "source": "sun",
-    "publishedAt": "2026-11-20T08:58:11.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Fermie",
-    "transfer": null
-   },
-   {
-    "id": "40a53a9ea38e",
-    "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
-    "title": "Drone operator takes down Man Utd footage and issues apology",
-    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제 후 사과",
-    "source": "sky",
-    "publishedAt": "2026-11-20T09:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7282b5c3c087",
-    "url": "https://www.lequipe.fr/Football/Actualites/Un-operateur-de-drone-retire-une-video-de-l-entrainement-de-manchester-united-et-presente-ses-excuses/1744826#at_medium=RSS_feeds",
-    "title": "Un opérateur de drone retire une vidéo de l'entraînement de Manchester United et présente ses excuses",
-    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제하고 사과",
-    "source": "lequipe",
-    "publishedAt": "2026-11-20T10:08:18.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Christine Thomas",
-    "transfer": null
-   },
-   {
-    "id": "8bfdfa83bc7e",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
-    "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
-    "ko": "드론 조종사, 포체티노 맨유 훈련 몰래 촬영 후 메시지",
-    "source": "men",
-    "publishedAt": "2026-11-20T10:16:59.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ben Crawford",
-    "transfer": null
-   },
-   {
-    "id": "895a29f2d993",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-drone-pochettino-liverpool-37898100",
-    "title": "Man Utd training footage removed after security breach as drone pilot speaks out on Liverpool",
-    "ko": "맨유 훈련 영상 보안 문제로 삭제…드론 조종자 입장 밝혀",
-    "source": "mirror",
-    "publishedAt": "2026-11-20T11:03:31.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ben Crawford",
-    "transfer": null
-   }
-  ],
-  "recentSources": 6,
-  "sourceCount": 6,
-  "score": 5.49,
+  "score": 1.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Daily Star",
-   "source": "star",
-   "at": "2026-11-19T19:37:58.000Z",
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-20T12:49:26.000Z",
    "viaQuote": false
   },
-  "headline": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training"
+  "headline": "Eintracht Frankfurt: Rankin fällt monatelang aus"
  },
  {
   "slug": "thomas-frank-crystal-palace-appointment",
   "mode": "llm",
   "titleKo": "토마스 프랑크 크리스털 팰리스 감독 선임 합의",
   "createdAt": "2026-11-10T06:00:00.000Z",
-  "updatedAt": "2026-11-20T11:01:59.000Z",
+  "updatedAt": "2026-11-20T12:48:24.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -1458,11 +735,29 @@
     "playerTags": [],
     "author": "Rachel Steinberg Press Association, Matt Maltby",
     "transfer": null
+   },
+   {
+    "id": "89422ede1d01",
+    "url": "https://www.thesun.co.uk/sport/41082250/thomas-frank-crystal-palace-press-conference-tottenham/",
+    "title": "How Thomas Frank went travelling to get over Tottenham heartache as he returns to Premier League with glow-up",
+    "ko": "토마스 프랑크, 토트넘 아픔 딛고 프리미어리그 복귀 준비",
+    "source": "sun",
+    "publishedAt": "2026-11-20T12:48:24.000Z",
+    "credited": null,
+    "clubs": [
+     "tottenham"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Barclay",
+    "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 4,
   "sourceCount": 12,
-  "score": 3.8,
+  "score": 3.73,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1477,595 +772,254 @@
   "headline": "Frank happy to be 'back in the circus' at Palace"
  },
  {
-  "slug": "usmnt-manager-appointment",
+  "slug": "everton-manager-future",
   "mode": "llm",
-  "titleKo": "미국 대표팀 차기 감독 선임 진행",
-  "createdAt": "2026-11-18T18:44:26.000Z",
-  "updatedAt": "2026-11-20T11:00:14.000Z",
+  "titleKo": "에버턴 모예스 감독 거취 논란",
+  "createdAt": "2026-11-17T12:30:00.000Z",
+  "updatedAt": "2026-11-20T12:47:35.000Z",
   "category": "manager",
   "stage": null,
-  "clubs": [],
+  "clubs": [
+   "everton"
+  ],
   "players": [
-   "엠마 헤이즈"
+   "잭 그릴리시"
   ],
   "sig": [
-   "hayes",
-   "soccer",
-   "usmnt"
+   "david",
+   "moyes"
   ],
   "articles": [
    {
-    "id": "d6e80f91a590",
-    "url": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
-    "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
-    "ko": "엠마 헤이스, 미국 대표팀 차기 감독 선임 과정 지원",
-    "source": "guardian",
-    "publishedAt": "2026-11-18T18:44:26.000Z",
-    "credited": "디 가디언",
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Iglesias Maurer",
-    "transfer": null
-   },
-   {
-    "id": "44f44ef4b94b",
-    "url": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
-    "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
-    "ko": "엠마 헤이즈, 미국 대표팀 감독 선임에 기술적 관점에서 참여",
-    "source": "espn",
-    "publishedAt": "2026-11-19T01:42:42.000Z",
+    "id": "3798518d0948",
+    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
+    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
+    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T12:30:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "엠마 헤이즈"
+    "clubs": [
+     "everton"
     ],
-    "playerTags": [],
-    "author": "Cesar Hernandez",
-    "transfer": null
-   },
-   {
-    "id": "c4a9a3fb2ed2",
-    "url": "https://www.nytimes.com/athletic/7796305/2026/11/20/usmnt-head-coach-soccer-pochettino-guardiola-helfrich/",
-    "title": "'High ambition,' not fame and celebrity: How U.S. Soccer will seek next USMNT coach",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-20T11:00:14.000Z",
-    "credited": null,
-    "clubs": [],
     "category": "manager",
     "stage": null,
     "players": [],
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "508038c6fa5f",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
+    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
+    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
+    "source": "lecho",
+    "publishedAt": "2026-11-17T17:01:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "0103274da076",
+    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
+    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
+    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T08:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e254ecd6068d",
+    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
+    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
+    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cf456d0f7a79",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
+    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
+    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
+    "source": "lecho",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "2654b96e85c7",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/moyes-everton-press-conference-live-34941714",
+    "title": "David Moyes press conference LIVE - Jack Grealish latest and Everton injury news for Brentford",
+    "ko": "모예스 기자회견 라이브…에버턴 브렌트퍼드전 부상 소식",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T12:47:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
    }
   ],
   "recentSources": 1,
-  "sourceCount": 3,
-  "score": 2.6,
-  "topTier": 1,
+  "sourceCount": 2,
+  "score": 0.59,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "디 가디언",
-   "at": "2026-11-18T18:44:26.000Z",
-   "viaQuote": true
-  },
-  "headline": "'High ambition,' not fame and celebrity: How U.S. Soccer will seek next USMNT coach"
- },
- {
-  "slug": "saka-injury-20261120",
-  "mode": "llm",
-  "titleKo": "사카 부상 복귀 시점 불투명",
-  "createdAt": "2026-11-20T10:46:32.000Z",
-  "updatedAt": "2026-11-20T10:46:32.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "부카요 사카"
-  ],
-  "sig": [
-   "saka",
-   "christmas",
-   "mikel"
-  ],
-  "articles": [
-   {
-    "id": "eb4b3d8c95f6",
-    "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-    "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
-    "ko": "사카, 크리스마스 전 복귀 어려울 수도…아르테타 인정",
-    "source": "guardian",
-    "publishedAt": "2026-11-20T10:46:32.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "부카요 사카"
-    ],
-    "playerTags": [
-     "bukayo-saka"
-    ],
-    "author": "Ed Aarons",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.66,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bukayo-saka"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Guardian",
-   "source": "guardian",
-   "at": "2026-11-20T10:46:32.000Z",
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-17T12:30:00.000Z",
    "viaQuote": false
   },
-  "headline": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits"
+  "headline": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January"
  },
  {
-  "slug": "valverde-real-madrid-contract",
+  "slug": "man-utd-affairs-ownership-sale",
   "mode": "llm",
-  "titleKo": "발베르데 레알 마드리드 재계약 2031년",
-  "createdAt": "2026-11-20T06:09:12.000Z",
-  "updatedAt": "2026-11-20T10:36:05.000Z",
+  "titleKo": "글레이저 일가 맨유 매각 분열",
+  "createdAt": "2026-11-20T12:45:21.000Z",
+  "updatedAt": "2026-11-20T12:45:21.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "발베르데",
-   "페데리코 발베르데"
-  ],
-  "sig": [
-   "valverde"
-  ],
-  "articles": [
-   {
-    "id": "319ef5d28934",
-    "url": "https://as.com/futbol/primera/valverde-2031-f202611-n/",
-    "title": "Valverde, 2031",
-    "ko": "발베르데, 2031년까지 재계약 관련 보도",
-    "source": "as",
-    "publishedAt": "2026-11-20T06:09:12.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": "Fernando S. Tavero,José Félix Díaz",
-    "transfer": null
-   },
-   {
-    "id": "3f1787b21fa5",
-    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-segura-federico-valverde-ate-2031",
-    "title": "Real Madrid segura Federico Valverde até 2031",
-    "ko": "레알 마드리드, 발베르데와 2031년까지 재계약",
-    "source": "record",
-    "publishedAt": "2026-11-20T10:36:05.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "transfer",
-    "stage": "done",
-    "players": [
-     "페데리코 발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 2.36,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "federico-valverde"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-20T06:09:12.000Z",
-   "viaQuote": false
-  },
-  "headline": "Real Madrid segura Federico Valverde até 2031"
- },
- {
-  "slug": "inacio-injury",
-  "mode": "llm",
-  "titleKo": "도르트문트 이나시오 부상 장기 결장 우려",
-  "createdAt": "2026-11-20T10:27:30.000Z",
-  "updatedAt": "2026-11-20T10:27:30.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "dortmund"
-  ],
-  "players": [
-   "이나시오"
-  ],
-  "sig": [
-   "italiens",
-   "inacio"
-  ],
-  "articles": [
-   {
-    "id": "cc9cace52e0a",
-    "url": "https://www.kicker.de/verletzung-bei-italiens-u-21-inacio-fehlt-dem-bvb-monatelang-1273202/artikel#omrss",
-    "title": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang",
-    "ko": "이탈리아 U-21 대표팀 부상자 발생…도르트문트 이나시오 수개월 결장 위기",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T10:27:30.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "이나시오"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.58,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-20T10:27:30.000Z",
-   "viaQuote": false
-  },
-  "headline": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang"
- },
- {
-  "slug": "stoke-birmingham-2026-11-19",
-  "mode": "llm",
-  "titleKo": "스토크 대 버밍엄 선두 경기 앞둔 감독 발언",
-  "createdAt": "2026-11-19T10:04:50.000Z",
-  "updatedAt": "2026-11-20T10:27:04.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "stoke",
-   "birmingham"
+   "man-utd"
   ],
   "players": [],
   "sig": [
-   "robins"
+   "mauricio",
+   "pochettino"
   ],
   "articles": [
    {
-    "id": "bbb1de7bc26e",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-city-robins-11247478",
-    "title": "Mark Robins makes Stoke City promise ahead of top-of-the-table Birmingham clash",
-    "ko": "스토크 감독, 선두 버밍엄전 앞두고 선수들에게 약속 요구",
-    "source": "stoke",
-    "publishedAt": "2026-11-19T10:04:50.000Z",
+    "id": "e9886aa60cf7",
+    "url": "https://www.dailystar.co.uk/sport/football/glazers-split-over-man-utd-37898777",
+    "title": "Glazers 'split' over Man Utd sale after Mauricio Pochettino intervention",
+    "ko": "글레이저 일가, 포체티노 개입 뒤 맨유 매각 두고 분열",
+    "source": "star",
+    "publishedAt": "2026-11-20T12:45:21.000Z",
     "credited": null,
     "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   },
-   {
-    "id": "c4e933551d13",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-injury-news-11249184",
-    "title": "Five players could miss Stoke City vs Birmingham City as Potters handed huge boost",
-    "ko": "스토크, 버밍엄전 결장 가능 선수 5명…호재도 전해져",
-    "source": "stoke",
-    "publishedAt": "2026-11-20T10:27:04.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke",
-     "birmingham"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.57,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Stoke Sentinel",
-   "source": "stoke",
-   "at": "2026-11-19T10:04:50.000Z",
-   "viaQuote": false
-  },
-  "headline": "Five players could miss Stoke City vs Birmingham City as Potters handed huge boost"
- },
- {
-  "slug": "newcastle-arsenal-2026-11-22",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 대 아스널 경기 결장 선수",
-  "createdAt": "2026-11-18T15:49:30.000Z",
-  "updatedAt": "2026-11-20T10:26:40.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "arsenal"
-  ],
-  "players": [
-   "윌 오술라",
-   "션 스테우르",
-   "사카",
-   "윌리엄 살리바",
-   "부카요 사카",
-   "마르틴 수비멘디"
-  ],
-  "sig": [
-   "osula"
-  ],
-  "articles": [
-   {
-    "id": "479407a968d7",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-clash-arsenal-handed-34931326",
-    "title": "Newcastle United clash with Arsenal handed unpopular new kick off time by TV chiefs",
-    "ko": "뉴캐슬-아스널 경기, 방송사가 킥오프 시간 변경",
-    "source": "chronicle",
-    "publishedAt": "2026-11-18T15:49:30.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "fe035b26422c",
-    "url": "https://www.footballinsider247.com/arsenal/will-osula-axed-newcastle-should-drop-forward-vs-arsenal-to-start-speedster-with-27-sprints-per-90",
-    "title": "Will Osula axed: Newcastle should drop forward vs Arsenal to start speedster with 27 sprints per 90",
-    "ko": "뉴캐슬, 아스널전 윙어 기용 두고 윌 오술라 제외 논쟁",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T08:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "윌 오술라"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "60f131c1ed62",
-    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-arsenal-injury-news-34934228",
-    "title": "Seven players set to miss Newcastle vs Arsenal as Mikel Arteta suffers fresh injury blow",
-    "ko": "아르테타, 뉴캐슬전 앞두고 부상 악재…7명 결장 우려",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T09:47:59.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matt Maltby",
-    "transfer": null
-   },
-   {
-    "id": "59c7c8842d75",
-    "url": "https://www.footballinsider247.com/newcastle-united/sean-steur-among-newcastle-trio-who-mattias-jaissle-should-axe-vs-arsenal-to-save-his-job",
-    "title": "Sean Steur among Newcastle trio who Mattias Jaissle should axe vs Arsenal to save his job",
-    "ko": "뉴캐슬 세 선수, 아스널전 선발 제외 필요성 거론",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T09:55:12.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "16d7a9519317",
-    "url": "https://www.footballinsider247.com/newcastle-united/ex-refs-chief-raises-serious-questions-over-chris-kavanagh-appointment-for-newcastle-vs-arsenal",
-    "title": "Ex-refs chief raises serious questions over Chris Kavanagh appointment for Newcastle vs Arsenal",
-    "ko": "뉴캐슬 대 아스널 주심 선정에 전 심판장 의문 제기",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T10:39:46.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
+     "man-utd"
     ],
     "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "51b7d669ba49",
-    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-fixture-premier-league-34935513",
-    "title": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement",
-    "ko": "아스널 대 뉴캐슬 킥오프 시간 변경 발표",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T12:20:33.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "115a6bc3ac33",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/flimsy-newcastle-united-must-recall-34934947",
-    "title": "Flimsy Newcastle United must recall efforts of one specific glorious performance to stun Arsenal",
-    "ko": "허약한 뉴캐슬, 아스널 꺾으려면 영광의 한 경기 떠올려야",
-    "source": "chronicle",
-    "publishedAt": "2026-11-19T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null
-   },
-   {
-    "id": "db57609ae9f4",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/dowman-saka-4-players-set-34940114",
-    "title": "Dowman, Saka and 4 players set to miss Newcastle United vs Arsenal amid Mikel Arteta update",
-    "ko": "뉴캐슬 대 아스널 경기, 다우먼·사카 등 4명 결장 가능성",
-    "source": "chronicle",
-    "publishedAt": "2026-11-20T08:55:51.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "사카"
-    ],
-    "playerTags": [
-     "bukayo-saka"
-    ],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "4bd65c188b28",
-    "url": "https://www.football.london/arsenal-fc/news/arsenal-injury-news-latest-newcastle-34940482",
-    "title": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash",
-    "ko": "살리바·사카·지베멘디 등 아스널 부상 현황과 뉴캐슬전 복귀 시점",
-    "source": "fblondon",
-    "publishedAt": "2026-11-20T10:26:40.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "윌리엄 살리바",
-     "부카요 사카",
-     "마르틴 수비멘디"
-    ],
-    "playerTags": [
-     "bukayo-saka",
-     "william-saliba"
-    ],
-    "author": "Aaron Morris",
+    "author": "Will Schofield, Dan Marsh",
     "transfer": null
    }
   ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 2.78,
-  "topTier": 2,
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.58,
+  "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [
-   "bukayo-saka",
-   "william-saliba"
-  ],
+  "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Chronicle Live (뉴캐슬)",
-   "source": "chronicle",
-   "at": "2026-11-18T15:49:30.000Z",
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-20T12:45:21.000Z",
    "viaQuote": false
   },
-  "headline": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash"
+  "headline": "Glazers 'split' over Man Utd sale after Mauricio Pochettino intervention"
+ },
+ {
+  "slug": "arsenal-affairs-team-news-leak",
+  "mode": "llm",
+  "titleKo": "아르테타 아스널 선수 팀뉴스 유출 징계",
+  "createdAt": "2026-11-20T12:45:08.000Z",
+  "updatedAt": "2026-11-20T12:45:08.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [],
+  "sig": [],
+  "articles": [
+   {
+    "id": "9d1caade21c5",
+    "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-arsenal-ban-tzolis-37898843",
+    "title": "Mikel Arteta confirms Arsenal ban after one of his players leaked team news",
+    "ko": "아르테타, 선수 팀 소식 유출로 아스널 징계 확인",
+    "source": "mirror",
+    "publishedAt": "2026-11-20T12:45:08.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.58,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-20T12:45:08.000Z",
+   "viaQuote": false
+  },
+  "headline": "Mikel Arteta confirms Arsenal ban after one of his players leaked team news"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-20T10:15:46.000Z",
+  "updatedAt": "2026-11-20T12:41:47.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -2098,7 +1052,8 @@
    "니코 파스",
    "애슐리 영",
    "마우리시오 포체티노",
-   "음뵈모"
+   "음뵈모",
+   "아모스"
   ],
   "sig": [
    "pochettino",
@@ -8745,11 +7700,85 @@
     "playerTags": [],
     "author": "Dan Marsh",
     "transfer": null
+   },
+   {
+    "id": "ce71ff4d6b18",
+    "url": "https://www.lequipe.fr/Football/Video/Premier-league-arsenal-arteta-pochettino-a-toutes-les-qualites-pour-construire-quelque-chose-d-incroyable/20245946#at_medium=RSS_feeds",
+    "title": "Arteta : « Pochettino a toutes les qualités pour construire quelque chose d'incroyable »",
+    "ko": "아르테타, 포체티노 맨유 감독 능력 극찬",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T12:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b6760c9cf8ca",
+    "url": "https://www.dailystar.co.uk/sport/football/inside-mauricio-pochettinos-first-day-37898606",
+    "title": "Inside Mauricio Pochettino's first day – from meeting players to Carrington arrival",
+    "ko": "포체티노 맨유 첫날 일정 공개…선수 면담부터 캐링턴 도착까지",
+    "source": "star",
+    "publishedAt": "2026-11-20T12:01:25.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "0e09822692ee",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-pictured-taking-manchester-34934144",
+    "title": "Mauricio Pochettino pictured taking Manchester United training for the first time",
+    "ko": "포체티노, 맨유 훈련 첫 지휘하는 모습 포착",
+    "source": "men",
+    "publishedAt": "2026-11-20T12:37:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall",
+    "transfer": null
+   },
+   {
+    "id": "7ed6bcd04388",
+    "url": "https://www.thesun.co.uk/sport/41080361/man-utd-pochettino-drone-liverpool-zirkzee-amass/",
+    "title": "Man Utd files: Pochettino handed injury boost, academy star called up to first session and last chance saloon for Amass",
+    "ko": "맨유, 포체티노 부상 호재와 유스 선수 첫 훈련 합류",
+    "source": "sun",
+    "publishedAt": "2026-11-20T12:41:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "아모스"
+    ],
+    "playerTags": [],
+    "author": "Samuel Luckhurst, Katherine Walsh",
+    "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 7,
   "sourceCount": 17,
-  "score": 2.99,
+  "score": 5.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8771,6 +7800,1700 @@
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "belgium-vietnam-2026-11-20",
+  "mode": "llm",
+  "titleKo": "벨기에 U17 대 베트남 월드컵 개막전",
+  "createdAt": "2026-11-20T12:40:00.000Z",
+  "updatedAt": "2026-11-20T12:40:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "belgische",
+   "u17",
+   "vietnam",
+   "sven",
+   "vermant",
+   "genk"
+  ],
+  "articles": [
+   {
+    "id": "a4bb37c6353b",
+    "url": "https://www.hln.be/voetbal/live-belgische-u17-aangekomen-voor-wk-opener-tegen-vietnam-bondscoach-sven-vermant-kiest-voor-vijf-genk-spelers-in-basiself~a6dc6cae0/",
+    "title": "LIVE. Belgische U17 aangekomen voor WK-opener tegen Vietnam, bondscoach Sven Vermant kiest voor vijf Genk-spelers in basiself",
+    "ko": "벨기에 U17, 베트남과 월드컵 개막전 앞두고 베스트11 발표",
+    "source": "hln",
+    "publishedAt": "2026-11-20T12:40:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.57,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-20T12:40:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "LIVE. Belgische U17 aangekomen voor WK-opener tegen Vietnam, bondscoach Sven Vermant kiest voor vijf Genk-spelers in basiself"
+ },
+ {
+  "slug": "eckert-southampton-contract",
+  "mode": "llm",
+  "titleKo": "사우샘프턴 에커트 감독 재계약",
+  "createdAt": "2026-11-20T12:30:00.000Z",
+  "updatedAt": "2026-11-20T12:33:39.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "saints",
+   "spygate"
+  ],
+  "articles": [
+   {
+    "id": "6fb5aeca48a2",
+    "url": "https://www.skysports.com/football/news/12040/13614334/southampton-boss-tonda-eckert-given-contract-extension-despite-spygate-controversy",
+    "title": "Eckert signs new Saints deal despite 'Spygate' controversy",
+    "ko": "에커트, '스파이게이트' 논란 속 사우샘프턴과 새 계약",
+    "source": "sky",
+    "publishedAt": "2026-11-20T12:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "23063913d5ea",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss",
+    "title": "Southampton give head coach Eckert new deal",
+    "ko": "사우샘프턴, 에커트 감독과 새 계약 체결",
+    "source": "bbc",
+    "publishedAt": "2026-11-20T12:33:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 4.68,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-20T12:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Southampton give head coach Eckert new deal"
+ },
+ {
+  "slug": "anguissa-besiktas-transfer-20261120",
+  "mode": "llm",
+  "titleKo": "베식타스 잠보 앙기사 영입 추진",
+  "createdAt": "2026-11-20T12:22:16.000Z",
+  "updatedAt": "2026-11-20T12:22:16.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "besiktas"
+  ],
+  "players": [
+   "잠보 앙기사"
+  ],
+  "sig": [
+   "zambo",
+   "anguissa",
+   "bonservis"
+  ],
+  "articles": [
+   {
+    "id": "bc33132f85e7",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/20/besiktasta-zambo-anguissa-harekati-bonservis-bedeli-belli-oldu",
+    "title": "Beşiktaş'ta Zambo Anguissa harekatı! Bonservis bedeli belli oldu",
+    "ko": "베식타스, 잠보 앙기사 영입 이적료 확정",
+    "source": "fotomac",
+    "publishedAt": "2026-11-20T12:22:16.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "잠보 앙기사"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "잠보 앙기사",
+     "from": null,
+     "to": "베식타스"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.82,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "bc33132f85e7",
+    "at": "2026-11-20T12:22:16.000Z",
+    "source": "fotomac",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "잠보 앙기사",
+   "from": null,
+   "to": "베식타스"
+  },
+  "firstReport": {
+   "name": "포토마치 (베식타스)",
+   "source": "fotomac",
+   "at": "2026-11-20T12:22:16.000Z",
+   "viaQuote": false
+  },
+  "headline": "Beşiktaş'ta Zambo Anguissa harekatı! Bonservis bedeli belli oldu"
+ },
+ {
+  "slug": "man-utd-affairs-drone-footage",
+  "mode": "llm",
+  "titleKo": "맨유 드론 영상 삭제 논란",
+  "createdAt": "2026-11-20T07:50:17.000Z",
+  "updatedAt": "2026-11-20T12:22:07.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "liverpool",
+   "arsenal"
+  ],
+  "players": [],
+  "sig": [
+   "overview",
+   "deletes"
+  ],
+  "articles": [
+   {
+    "id": "d82771da52fa",
+    "url": "https://www.dailystar.co.uk/sport/secret-drone-footage-pochettino-man-37896649",
+    "title": "Secret drone footage of Pochettino Man United training session 'reveals Liverpool line-up'",
+    "ko": "포체티노 맨유 훈련 비밀 드론 영상, 리버풀 라인업 드러내",
+    "source": "star",
+    "publishedAt": "2026-11-19T19:37:58.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Edward Easton",
+    "transfer": null
+   },
+   {
+    "id": "d27ccb64a881",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-youtube-channel-cc-overview-37897343",
+    "title": "YouTube channel CC Overview DELETES Manchester United drone footage after backlash",
+    "ko": "유튜브 채널, 맨유 드론 영상 논란 뒤 삭제",
+    "source": "star",
+    "publishedAt": "2026-11-20T07:50:17.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Cockerton",
+    "transfer": null
+   },
+   {
+    "id": "ba09b33442fd",
+    "url": "https://www.thesun.co.uk/sport/41079255/man-utd-drone-footage-training-pochettino/",
+    "title": "‘Total error of judgment’ – Drone footage filmer removes video and issues grovelling apology to Pochettino and Man Utd",
+    "ko": "드론 영상 촬영자, 포체티노·맨유에 사과 후 영상 삭제",
+    "source": "sun",
+    "publishedAt": "2026-11-20T08:58:11.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Fermie",
+    "transfer": null
+   },
+   {
+    "id": "40a53a9ea38e",
+    "url": "https://www.skysports.com/football/news/12040/13614271/manchester-united-drone-operator-removes-training-footage-of-mauricio-pochettinos-first-training-session-and-apologises",
+    "title": "Drone operator takes down Man Utd footage and issues apology",
+    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제 후 사과",
+    "source": "sky",
+    "publishedAt": "2026-11-20T09:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7282b5c3c087",
+    "url": "https://www.lequipe.fr/Football/Actualites/Un-operateur-de-drone-retire-une-video-de-l-entrainement-de-manchester-united-et-presente-ses-excuses/1744826#at_medium=RSS_feeds",
+    "title": "Un opérateur de drone retire une vidéo de l'entraînement de Manchester United et présente ses excuses",
+    "ko": "맨유 훈련 영상 촬영 드론 조종사, 영상 삭제하고 사과",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T10:08:18.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Christine Thomas",
+    "transfer": null
+   },
+   {
+    "id": "8bfdfa83bc7e",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
+    "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
+    "ko": "드론 조종사, 포체티노 맨유 훈련 몰래 촬영 후 메시지",
+    "source": "men",
+    "publishedAt": "2026-11-20T10:16:59.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "895a29f2d993",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-drone-pochettino-liverpool-37898100",
+    "title": "Man Utd training footage removed after security breach as drone pilot speaks out on Liverpool",
+    "ko": "맨유 훈련 영상 보안 문제로 삭제…드론 조종자 입장 밝혀",
+    "source": "mirror",
+    "publishedAt": "2026-11-20T11:03:31.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "a356603fe625",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/arsenal/detalhe/drone-que-filmou-treino-do-manchester-united-deixa-arteta-preocupado-e-um-assunto-bastante-serio",
+    "title": "Drone que filmou treino do Manchester United deixa Arteta preocupado: «É um assunto bastante sério»",
+    "ko": "아르테타, 맨유 훈련 촬영 드론에 우려 표명",
+    "source": "record",
+    "publishedAt": "2026-11-20T12:22:07.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 7,
+  "sourceCount": 7,
+  "score": 6.36,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-19T19:37:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Drone que filmou treino do Manchester United deixa Arteta preocupado: «É um assunto bastante sério»"
+ },
+ {
+  "slug": "semenyo-discipline",
+  "mode": "llm",
+  "titleKo": "세메뇨 인종차별 혐의 팬 무죄 평결",
+  "createdAt": "2026-11-20T11:12:35.000Z",
+  "updatedAt": "2026-11-20T12:20:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "liverpool",
+   "man-city"
+  ],
+  "players": [
+   "세메뇨",
+   "앙투안 세메뇨"
+  ],
+  "sig": [
+   "semenyo"
+  ],
+  "articles": [
+   {
+    "id": "a7479d77059d",
+    "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss",
+    "title": "Fan found not guilty of racially abusing Semenyo",
+    "ko": "세메뇨 인종차별 혐의 팬, 무죄 평결",
+    "source": "bbc",
+    "publishedAt": "2026-11-20T11:12:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "세메뇨"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "704325bb8f94",
+    "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/liverpool-fan-found-not-guilty-34941405",
+    "title": "Liverpool fan not guilty of racially abusing Antoine Semenyo after Man City star withdraws support",
+    "ko": "세메뇨 지지 철회 뒤 리버풀 팬 인종차별 무죄",
+    "source": "men",
+    "publishedAt": "2026-11-20T11:47:10.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "앙투안 세메뇨"
+    ],
+    "playerTags": [],
+    "author": "PA, Paul Britton",
+    "transfer": null
+   },
+   {
+    "id": "d4ffe66549ce",
+    "url": "https://www.dailystar.co.uk/sport/football/liverpool-fan-cleared-racially-abusing-37898497",
+    "title": "Liverpool fan cleared of racially abusing Manchester City star after last minute switch",
+    "ko": "막판 교체 뒤 리버풀 팬 인종차별 혐의 무죄",
+    "source": "star",
+    "publishedAt": "2026-11-20T11:52:34.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "앙투안 세메뇨"
+    ],
+    "playerTags": [],
+    "author": "Eleanor Barlow",
+    "transfer": null
+   },
+   {
+    "id": "35d879b111e0",
+    "url": "https://www.theguardian.com/football/2026/nov/20/liverpool-fan-not-guilty-racial-abuse-antoine-semenyo-withdraws-from-case-bournemouth-liverpool",
+    "title": "Liverpool fan found not guilty of racial abuse after Antoine Semenyo withdraws from case",
+    "ko": "세메뇨 인종차별 사건 피고 무죄 평결",
+    "source": "guardian",
+    "publishedAt": "2026-11-20T12:20:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "세메뇨"
+    ],
+    "playerTags": [],
+    "author": "Press Association",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 6.18,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-20T11:12:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fan found not guilty of racially abusing Semenyo"
+ },
+ {
+  "slug": "rice-contract",
+  "mode": "llm",
+  "titleKo": "라이스 아스널 재계약 협상",
+  "createdAt": "2026-11-20T11:53:57.000Z",
+  "updatedAt": "2026-11-20T11:53:57.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "데클란 라이스"
+  ],
+  "sig": [
+   "stan",
+   "kroenke",
+   "declan",
+   "rice"
+  ],
+  "articles": [
+   {
+    "id": "86959c4085ff",
+    "url": "https://www.football.london/arsenal-fc/news/mikel-arteta-declan-rice-contract-34941540",
+    "title": "Mikel Arteta makes Stan Kroenke joke in cryptic update on Declan Rice's new contract",
+    "ko": "아르테타, 데클란 라이스 새 계약 관련 암시적 글 올려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-20T11:53:57.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "데클란 라이스"
+    ],
+    "playerTags": [
+     "declan-rice"
+    ],
+    "author": "Robert O’Connor Press Association",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.67,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "declan-rice"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-20T11:53:57.000Z",
+   "viaQuote": false
+  },
+  "headline": "Mikel Arteta makes Stan Kroenke joke in cryptic update on Declan Rice's new contract"
+ },
+ {
+  "slug": "courtois-contract",
+  "mode": "llm",
+  "titleKo": "쿠르투아 레알 마드리드 재계약",
+  "createdAt": "2026-11-20T08:42:00.000Z",
+  "updatedAt": "2026-11-20T11:42:07.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "티보 쿠르투아",
+   "쿠르투아"
+  ],
+  "sig": [
+   "thibaut",
+   "courtois"
+  ],
+  "articles": [
+   {
+    "id": "e47bfe48b1f7",
+    "url": "https://www.hln.be/voetbal/de-deal-is-rond-thibaut-courtois-verlengt-contract-bij-real-madrid-tot-2028~a42e00ca/",
+    "title": "De deal is rond: Thibaut Courtois verlengt contract bij Real Madrid tot 2028",
+    "ko": "티보 쿠르투아, 레알 마드리드와 2028년까지 재계약",
+    "source": "hln",
+    "publishedAt": "2026-11-20T08:42:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": {
+     "player": "티보 쿠르투아",
+     "from": null,
+     "to": null
+    }
+   },
+   {
+    "id": "1765d3e9a2c5",
+    "url": "https://www.kicker.de/bis-2028-courtois-verlaengert-bei-real-madrid-1273228/artikel#omrss",
+    "title": "Bis 2028: Courtois verlängert bei Real Madrid",
+    "ko": "쿠르투아, 레알 마드리드와 2028년까지 재계약",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T11:42:07.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.2,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "e47bfe48b1f7",
+    "at": "2026-11-20T08:42:00.000Z",
+    "source": "hln",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "thibaut-courtois"
+  ],
+  "transfer": {
+   "player": "티보 쿠르투아",
+   "from": null,
+   "to": null
+  },
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-20T08:42:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bis 2028: Courtois verlängert bei Real Madrid"
+ },
+ {
+  "slug": "man-city-affairs-charges-20261119",
+  "mode": "llm",
+  "titleKo": "맨시티 혐의 여파 확산",
+  "createdAt": "2026-11-19T08:53:43.000Z",
+  "updatedAt": "2026-11-20T11:40:14.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "man-city",
+   "arsenal",
+   "chelsea",
+   "tottenham"
+  ],
+  "players": [],
+  "sig": [
+   "richard",
+   "masters"
+  ],
+  "articles": [
+   {
+    "id": "84b4b6882dd2",
+    "url": "https://www.mirror.co.uk/sport/football/man-city-premier-league-charges-37893153",
+    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
+    "ko": "맨시티 구단주, 20억 달러 타격…프리미어리그 새 혐의 전개",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T08:53:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "9078b1b81328",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-city-premier-league-charges-37893153",
+    "title": "Man City owner dealt $2bn blow as new Premier League charges twist emerges",
+    "ko": "맨시티 구단주, 20억 달러 타격 속 새 프리미어리그 혐의 부상",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T08:53:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "c098e88470f8",
+    "url": "https://www.thesun.co.uk/sport/41069846/man-city-lose-loan-guilty-verdict/",
+    "title": "Man City miss out on £1.5BILLION as major finance organisation scrap loan after guilty verdict",
+    "ko": "맨시티, 금융기관 대출 철회로 15억 파운드 기회 놓쳐",
+    "source": "sun",
+    "publishedAt": "2026-11-19T12:55:47.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "0802b9aced6f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+    "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
+    "ko": "프리미어리그 구단들, 맨시티 스폰서 소송 시 법률 비용 부담 논의",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T13:29:42.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "dee5ffa4f3bd",
+    "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-charges-37895271",
+    "title": "Premier League clubs reach agreement after Man City’s guilty verdict threat",
+    "ko": "프리미어리그 구단들, 맨시티 유죄 판결 위협에 합의 도달",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T14:10:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "67970b92fd69",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-premier-league-34936649",
+    "title": "Premier League clubs agree to Richard Masters plea over Man City charges fear",
+    "ko": "프리미어리그 구단들, 맨시티 혐의 우려에 리처드 매스터스 요청 수용",
+    "source": "men",
+    "publishedAt": "2026-11-19T14:22:33.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "5624d776e653",
+    "url": "https://www.football.london/premier-league/arsenal-tottenham-chelsea-premier-league-34937171",
+    "title": "Arsenal, Chelsea and Tottenham vote for extra protection as Man City case rumbles on",
+    "ko": "아스널·첼시·토트넘, 맨시티 사태 속 추가 보호장치 투표",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T15:05:22.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "chelsea",
+     "tottenham",
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jamie Gardner Press Association Chief Sports Reporter",
+    "transfer": null
+   },
+   {
+    "id": "cfd627528d90",
+    "url": "https://www.skysports.com/football/news/12040/13614031/premier-league-clubs-vote-to-cover-legal-costs-if-man-city-sponsors-sue-competitions-board-members",
+    "title": "PL clubs vote to cover legal costs of board members if Man City sponsors sue",
+    "ko": "PL 구단들, 맨시티 스폰서 소송 시 이사진 법률비용 보전 투표",
+    "source": "sky",
+    "publishedAt": "2026-11-19T15:26:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "aedd45282566",
+    "url": "https://www.thesun.co.uk/sport/41073112/premier-league-clubs-back-chiefs-man-city-legal-costs/",
+    "title": "Man City in new blow as 18 Premier League clubs vote to cover legal costs of chiefs if club sued over ‘sham’ contracts",
+    "ko": "프리미어리그 18개 구단, 맨시티 임원 법률 비용 보장 투표",
+    "source": "sun",
+    "publishedAt": "2026-11-19T15:34:07.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "a5707539d58c",
+    "url": "https://as.com/futbol/internacional/bloqueo-millonario-al-city-f202611-n/",
+    "title": "Bloqueo millonario al City",
+    "ko": "맨시티, 수백만 유로 규모 제재 압박",
+    "source": "as",
+    "publishedAt": "2026-11-19T16:07:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Montaño",
+    "transfer": null
+   },
+   {
+    "id": "88c27834b41f",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-city-sponsors-premier-league-37896605",
+    "title": "Two clubs refusing to cover legal costs if Man City sponsors sue revealed after 18-2 vote",
+    "ko": "맨시티 스폰서 소송 시 법률비용 부담 거부 두 클럽 밝혀져",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T18:54:08.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "8d80d214840c",
+    "url": "https://www.footballinsider247.com/manchester-city/stefan-borson-drops-verdict-on-man-city-sponsors-suing-premier-league-figures-in-defamation-twist",
+    "title": "Stefan Borson drops verdict on Man City sponsors suing Premier League figures in 'defamation' twist",
+    "ko": "맨시티 스폰서들, 프리미어리그 인사 상대 명예훼손 소송 제기 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-20T11:40:14.000Z",
+    "credited": "스테판 보르손(X)",
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 8,
+  "score": 0.48,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스테판 보르손(X)",
+   "at": "2026-11-19T08:53:43.000Z",
+   "viaQuote": true
+  },
+  "headline": "Premier League clubs to cover legal costs if Man City sponsors sue"
+ },
+ {
+  "slug": "pote-sporting-manager-future",
+  "mode": "llm",
+  "titleKo": "포테 스포르팅 경질 뒤 인터뷰 심경",
+  "createdAt": "2026-11-20T03:00:00.000Z",
+  "updatedAt": "2026-11-20T11:30:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "stoke"
+  ],
+  "players": [
+   "기레스",
+   "루이스 수아레스"
+  ],
+  "sig": [
+   "sporting",
+   "record",
+   "afastarem"
+  ],
+  "articles": [
+   {
+    "id": "11a5cc425698",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/pote-abre-o-livro-sobre-os-ultimos-meses-no-sporting-em-entrevista-a-record-afastarem-me-nao-foi-a-melhor-decisao",
+    "title": "Pote abre o livro sobre os últimos meses no Sporting em entrevista a Record: «Afastarem-me não foi a melhor decisão»",
+    "ko": "포테, 스포르팅서 쫓겨난 뒤 심경 밝혀…\"나를 떼어낸 건 최선이 아니었다\"",
+    "source": "record",
+    "publishedAt": "2026-11-20T03:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a2152ec35ef7",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/pote-travao-de-mao-tentei-explicar-ao-presidente",
+    "title": "Pote: «Travão de mão? Tentei explicar ao presidente...»",
+    "ko": "포테 \"감속 브레이크? 회장에게 설명하려 했다\"",
+    "source": "record",
+    "publishedAt": "2026-11-20T04:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d26594902588",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/pote-o-golo-mais-marcante-pelo-sporting-a-ligacao-com-gyokeres-e-a-relacao-com-luis-suarez",
+    "title": "Pote: o \"golo mais marcante\" pelo Sporting, a ligação com Gyökeres e... a relação com Luis Suárez",
+    "ko": "포테, 스포르팅 시절 가장 기억에 남는 골과 기리고 및 루이스 수아레스와의 관계 언급",
+    "source": "record",
+    "publishedAt": "2026-11-20T06:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "기레스",
+     "루이스 수아레스"
+    ],
+    "playerTags": [
+     "viktor-gyokeres"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "34b32e8f90e0",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/a-chance-de-trabalhar-com-ruben-amorim-nunca-chegou-a-100-pote-conta-tudo-sobre-a-saida-do-sporting",
+    "title": "«A chance de trabalhar com Ruben Amorim nunca chegou a 100%»: Pote conta tudo sobre a saída do Sporting",
+    "ko": "포테, 아모림과 함께한 스포르팅 시절과 퇴단 배경 털어놔",
+    "source": "record",
+    "publishedAt": "2026-11-20T07:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e85f6ccf3530",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/jogador-treinador-ou-presidente-quem-decidiu-encerrar-o-ciclo-de-pote-no-sporting",
+    "title": "Jogador, treinador ou presidente: quem decidiu encerrar o ciclo de Pote no Sporting?",
+    "ko": "스포르팅 포테 경질 결정은 선수·감독·회장 중 누구의 뜻인가",
+    "source": "record",
+    "publishedAt": "2026-11-20T08:05:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a32e46f62d37",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-justifica-desabafo-do-travao-de-mao-nao-sou-um-escritor-nem-tenho-um-vocabulario-vasto",
+    "title": "Pote justifica desabafo do \"travão de mão\": «Não sou um escritor nem tenho um vocabulário vasto»",
+    "ko": "포테, 자신의 \"핸드브레이크\" 발언 해명 \"나는 작가가 아니다\"",
+    "source": "record",
+    "publishedAt": "2026-11-20T08:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "be126ff3c584",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-recorda-ligacao-do-plantel-do-sporting-a-rui-borges-nunca-houve-desconfianca",
+    "title": "Pote recorda ligação do plantel do Sporting a Rui Borges: «Nunca houve desconfiança»",
+    "ko": "포테, 스포르팅 시절 루이 보르게스와의 관계 회상",
+    "source": "record",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c801596a8197",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-lembra-elogios-de-ruben-amorim-se-foram-as-palavras-dele-nao-cumpriu",
+    "title": "Pote lembra elogios de Ruben Amorim: «Se foram as palavras dele, não cumpriu»",
+    "ko": "포테, 아모림의 과거 칭찬 언급하며 심경 토로",
+    "source": "record",
+    "publishedAt": "2026-11-20T10:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ed763cfe54e7",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/entrevista-de-pote-cai-mal-em-alvalade",
+    "title": "Entrevista de Pote cai mal em Alvalade",
+    "ko": "포테 인터뷰 논란, 알발라데 심경 질문",
+    "source": "record",
+    "publishedAt": "2026-11-20T11:02:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c28ddea4be0d",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/pote-revela-a-unica-vez-que-pediu-para-sair-do-sporting-foi-com-amorim-e-o-destino-era-inglaterra",
+    "title": "Pote revela a única vez que pediu para sair do Sporting: foi com Amorim e o destino era Inglaterra…",
+    "ko": "포테, 스포르팅 시절 이적 요청 일화 회고",
+    "source": "record",
+    "publishedAt": "2026-11-20T11:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.36,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "viktor-gyokeres"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-20T03:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Pote revela a única vez que pediu para sair do Sporting: foi com Amorim e o destino era Inglaterra…"
+ },
+ {
+  "slug": "usmnt-manager-appointment",
+  "mode": "llm",
+  "titleKo": "미국 대표팀 차기 감독 선임 진행",
+  "createdAt": "2026-11-18T18:44:26.000Z",
+  "updatedAt": "2026-11-20T11:00:14.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "엠마 헤이즈"
+  ],
+  "sig": [
+   "hayes",
+   "soccer",
+   "usmnt"
+  ],
+  "articles": [
+   {
+    "id": "d6e80f91a590",
+    "url": "https://www.theguardian.com/football/2026/nov/18/emma-hayes-usmnt-head-coach-hiring-process",
+    "title": "Emma Hayes to assist in US Soccer hiring process for next USMNT coach",
+    "ko": "엠마 헤이스, 미국 대표팀 차기 감독 선임 과정 지원",
+    "source": "guardian",
+    "publishedAt": "2026-11-18T18:44:26.000Z",
+    "credited": "디 가디언",
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Iglesias Maurer",
+    "transfer": null
+   },
+   {
+    "id": "44f44ef4b94b",
+    "url": "https://www.espn.com/soccer/story/_/id/50522474/uswnt-emma-hayes-role-usmnt-coach-search-technical-lens",
+    "title": "USWNT's Emma Hayes on role in USMNT coach search: 'Through a technical lens'",
+    "ko": "엠마 헤이즈, 미국 대표팀 감독 선임에 기술적 관점에서 참여",
+    "source": "espn",
+    "publishedAt": "2026-11-19T01:42:42.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "엠마 헤이즈"
+    ],
+    "playerTags": [],
+    "author": "Cesar Hernandez",
+    "transfer": null
+   },
+   {
+    "id": "c4a9a3fb2ed2",
+    "url": "https://www.nytimes.com/athletic/7796305/2026/11/20/usmnt-head-coach-soccer-pochettino-guardiola-helfrich/",
+    "title": "'High ambition,' not fame and celebrity: How U.S. Soccer will seek next USMNT coach",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-20T11:00:14.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 2.15,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 가디언",
+   "at": "2026-11-18T18:44:26.000Z",
+   "viaQuote": true
+  },
+  "headline": "'High ambition,' not fame and celebrity: How U.S. Soccer will seek next USMNT coach"
+ },
+ {
+  "slug": "saka-injury-20261120",
+  "mode": "llm",
+  "titleKo": "사카 부상 복귀 시점 불투명",
+  "createdAt": "2026-11-20T10:46:32.000Z",
+  "updatedAt": "2026-11-20T10:46:32.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "부카요 사카"
+  ],
+  "sig": [
+   "saka",
+   "christmas",
+   "mikel"
+  ],
+  "articles": [
+   {
+    "id": "eb4b3d8c95f6",
+    "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
+    "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+    "ko": "사카, 크리스마스 전 복귀 어려울 수도…아르테타 인정",
+    "source": "guardian",
+    "publishedAt": "2026-11-20T10:46:32.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "부카요 사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Ed Aarons",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.38,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bukayo-saka"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Guardian",
+   "source": "guardian",
+   "at": "2026-11-20T10:46:32.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits"
+ },
+ {
+  "slug": "valverde-real-madrid-contract",
+  "mode": "llm",
+  "titleKo": "발베르데 레알 마드리드 재계약 2031년",
+  "createdAt": "2026-11-20T06:09:12.000Z",
+  "updatedAt": "2026-11-20T10:36:05.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "발베르데",
+   "페데리코 발베르데"
+  ],
+  "sig": [
+   "valverde"
+  ],
+  "articles": [
+   {
+    "id": "319ef5d28934",
+    "url": "https://as.com/futbol/primera/valverde-2031-f202611-n/",
+    "title": "Valverde, 2031",
+    "ko": "발베르데, 2031년까지 재계약 관련 보도",
+    "source": "as",
+    "publishedAt": "2026-11-20T06:09:12.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": "Fernando S. Tavero,José Félix Díaz",
+    "transfer": null
+   },
+   {
+    "id": "3f1787b21fa5",
+    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/real-madrid-segura-federico-valverde-ate-2031",
+    "title": "Real Madrid segura Federico Valverde até 2031",
+    "ko": "레알 마드리드, 발베르데와 2031년까지 재계약",
+    "source": "record",
+    "publishedAt": "2026-11-20T10:36:05.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "transfer",
+    "stage": "done",
+    "players": [
+     "페데리코 발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 1.96,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "federico-valverde"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-20T06:09:12.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid segura Federico Valverde até 2031"
+ },
+ {
+  "slug": "inacio-injury",
+  "mode": "llm",
+  "titleKo": "도르트문트 이나시오 부상 장기 결장 우려",
+  "createdAt": "2026-11-20T10:27:30.000Z",
+  "updatedAt": "2026-11-20T10:27:30.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "dortmund"
+  ],
+  "players": [
+   "이나시오"
+  ],
+  "sig": [
+   "italiens",
+   "inacio"
+  ],
+  "articles": [
+   {
+    "id": "cc9cace52e0a",
+    "url": "https://www.kicker.de/verletzung-bei-italiens-u-21-inacio-fehlt-dem-bvb-monatelang-1273202/artikel#omrss",
+    "title": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang",
+    "ko": "이탈리아 U-21 대표팀 부상자 발생…도르트문트 이나시오 수개월 결장 위기",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T10:27:30.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "이나시오"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.3,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-20T10:27:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Verletzung bei Italiens U 21: Inacio fehlt dem BVB monatelang"
+ },
+ {
+  "slug": "stoke-birmingham-2026-11-19",
+  "mode": "llm",
+  "titleKo": "스토크 대 버밍엄 선두 경기 앞둔 감독 발언",
+  "createdAt": "2026-11-19T10:04:50.000Z",
+  "updatedAt": "2026-11-20T10:27:04.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "stoke",
+   "birmingham"
+  ],
+  "players": [],
+  "sig": [
+   "robins"
+  ],
+  "articles": [
+   {
+    "id": "bbb1de7bc26e",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-city-robins-11247478",
+    "title": "Mark Robins makes Stoke City promise ahead of top-of-the-table Birmingham clash",
+    "ko": "스토크 감독, 선두 버밍엄전 앞두고 선수들에게 약속 요구",
+    "source": "stoke",
+    "publishedAt": "2026-11-19T10:04:50.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "c4e933551d13",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-injury-news-11249184",
+    "title": "Five players could miss Stoke City vs Birmingham City as Potters handed huge boost",
+    "ko": "스토크, 버밍엄전 결장 가능 선수 5명…호재도 전해져",
+    "source": "stoke",
+    "publishedAt": "2026-11-20T10:27:04.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke",
+     "birmingham"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.3,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Stoke Sentinel",
+   "source": "stoke",
+   "at": "2026-11-19T10:04:50.000Z",
+   "viaQuote": false
+  },
+  "headline": "Five players could miss Stoke City vs Birmingham City as Potters handed huge boost"
+ },
+ {
+  "slug": "newcastle-arsenal-2026-11-22",
+  "mode": "llm",
+  "titleKo": "뉴캐슬 대 아스널 경기 결장 선수",
+  "createdAt": "2026-11-18T15:49:30.000Z",
+  "updatedAt": "2026-11-20T10:26:40.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "newcastle",
+   "arsenal"
+  ],
+  "players": [
+   "윌 오술라",
+   "션 스테우르",
+   "사카",
+   "윌리엄 살리바",
+   "부카요 사카",
+   "마르틴 수비멘디"
+  ],
+  "sig": [
+   "osula"
+  ],
+  "articles": [
+   {
+    "id": "479407a968d7",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-clash-arsenal-handed-34931326",
+    "title": "Newcastle United clash with Arsenal handed unpopular new kick off time by TV chiefs",
+    "ko": "뉴캐슬-아스널 경기, 방송사가 킥오프 시간 변경",
+    "source": "chronicle",
+    "publishedAt": "2026-11-18T15:49:30.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "fe035b26422c",
+    "url": "https://www.footballinsider247.com/arsenal/will-osula-axed-newcastle-should-drop-forward-vs-arsenal-to-start-speedster-with-27-sprints-per-90",
+    "title": "Will Osula axed: Newcastle should drop forward vs Arsenal to start speedster with 27 sprints per 90",
+    "ko": "뉴캐슬, 아스널전 윙어 기용 두고 윌 오술라 제외 논쟁",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T08:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "윌 오술라"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "60f131c1ed62",
+    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-arsenal-injury-news-34934228",
+    "title": "Seven players set to miss Newcastle vs Arsenal as Mikel Arteta suffers fresh injury blow",
+    "ko": "아르테타, 뉴캐슬전 앞두고 부상 악재…7명 결장 우려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T09:47:59.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matt Maltby",
+    "transfer": null
+   },
+   {
+    "id": "59c7c8842d75",
+    "url": "https://www.footballinsider247.com/newcastle-united/sean-steur-among-newcastle-trio-who-mattias-jaissle-should-axe-vs-arsenal-to-save-his-job",
+    "title": "Sean Steur among Newcastle trio who Mattias Jaissle should axe vs Arsenal to save his job",
+    "ko": "뉴캐슬 세 선수, 아스널전 선발 제외 필요성 거론",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T09:55:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "션 스테우르"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "16d7a9519317",
+    "url": "https://www.footballinsider247.com/newcastle-united/ex-refs-chief-raises-serious-questions-over-chris-kavanagh-appointment-for-newcastle-vs-arsenal",
+    "title": "Ex-refs chief raises serious questions over Chris Kavanagh appointment for Newcastle vs Arsenal",
+    "ko": "뉴캐슬 대 아스널 주심 선정에 전 심판장 의문 제기",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T10:39:46.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "51b7d669ba49",
+    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-fixture-premier-league-34935513",
+    "title": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement",
+    "ko": "아스널 대 뉴캐슬 킥오프 시간 변경 발표",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T12:20:33.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "115a6bc3ac33",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/flimsy-newcastle-united-must-recall-34934947",
+    "title": "Flimsy Newcastle United must recall efforts of one specific glorious performance to stun Arsenal",
+    "ko": "허약한 뉴캐슬, 아스널 꺾으려면 영광의 한 경기 떠올려야",
+    "source": "chronicle",
+    "publishedAt": "2026-11-19T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null
+   },
+   {
+    "id": "db57609ae9f4",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/dowman-saka-4-players-set-34940114",
+    "title": "Dowman, Saka and 4 players set to miss Newcastle United vs Arsenal amid Mikel Arteta update",
+    "ko": "뉴캐슬 대 아스널 경기, 다우먼·사카 등 4명 결장 가능성",
+    "source": "chronicle",
+    "publishedAt": "2026-11-20T08:55:51.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "4bd65c188b28",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-injury-news-latest-newcastle-34940482",
+    "title": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash",
+    "ko": "살리바·사카·지베멘디 등 아스널 부상 현황과 뉴캐슬전 복귀 시점",
+    "source": "fblondon",
+    "publishedAt": "2026-11-20T10:26:40.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "윌리엄 살리바",
+     "부카요 사카",
+     "마르틴 수비멘디"
+    ],
+    "playerTags": [
+     "bukayo-saka",
+     "william-saliba"
+    ],
+    "author": "Aaron Morris",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 3,
+  "score": 2.3,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bukayo-saka",
+   "william-saliba"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Chronicle Live (뉴캐슬)",
+   "source": "chronicle",
+   "at": "2026-11-18T15:49:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash"
  },
  {
   "slug": "liverpool-man-utd-2026-11-22",
@@ -9161,7 +9884,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 7,
-  "score": 3.29,
+  "score": 2.73,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9302,7 +10025,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.44,
+  "score": 0.36,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9394,7 +10117,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.73,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9561,7 +10284,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.4,
+  "score": 1.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9671,7 +10394,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.38,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9757,7 +10480,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -9880,7 +10603,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.66,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9935,7 +10658,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -9996,7 +10719,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.08,
+  "score": 0.89,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10075,7 +10798,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.26,
   "topTier": 4,
   "stageHistory": [
    {
@@ -10404,7 +11127,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.94,
+  "score": 0.78,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10471,7 +11194,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.72,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10603,7 +11326,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.26,
+  "score": 0.21,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11759,7 +12482,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.87,
+  "score": 0.72,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11851,7 +12574,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.39,
   "topTier": 3,
   "stageHistory": [
    {
@@ -12058,7 +12781,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.6,
+  "score": 0.5,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12198,7 +12921,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.73,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [
    {
@@ -12313,7 +13036,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.61,
+  "score": 0.51,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12364,7 +13087,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.58,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12414,7 +13137,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.56,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12860,7 +13583,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.51,
+  "score": 0.42,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12916,7 +13639,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.43,
+  "score": 0.35,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12981,7 +13704,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -23146,128 +23869,6 @@
    "viaQuote": false
   },
   "headline": "Beşiktaş-Real Madrid maçı kaç kaç bitti? Maçtan kareler"
- },
- {
-  "slug": "everton-manager-future",
-  "mode": "llm",
-  "titleKo": "에버턴 모예스 감독 거취 논란",
-  "createdAt": "2026-11-17T12:30:00.000Z",
-  "updatedAt": "2026-11-19T05:00:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "everton"
-  ],
-  "players": [],
-  "sig": [
-   "david",
-   "moyes"
-  ],
-  "articles": [
-   {
-    "id": "3798518d0948",
-    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
-    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
-    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T12:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "508038c6fa5f",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
-    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
-    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
-    "source": "lecho",
-    "publishedAt": "2026-11-17T17:01:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "0103274da076",
-    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
-    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
-    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T08:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e254ecd6068d",
-    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
-    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
-    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cf456d0f7a79",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
-    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
-    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
-    "source": "lecho",
-    "publishedAt": "2026-11-19T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Wheelock, Connor O'Neill",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-17T12:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January"
  },
  {
   "slug": "prestianni-vinicius-relationship",
@@ -112571,80 +113172,6 @@
    "viaQuote": false
   },
   "headline": "Meet the people set for key role in deciding Man City fate"
- },
- {
-  "slug": "guirassy-injury",
-  "mode": "llm",
-  "titleKo": "기라시 허벅지 부상 우려",
-  "createdAt": "2026-11-04T23:23:27.000Z",
-  "updatedAt": "2026-11-06T11:50:49.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "dortmund"
-  ],
-  "players": [
-   "기라시"
-  ],
-  "sig": [
-   "guirassy",
-   "oberschenkel"
-  ],
-  "articles": [
-   {
-    "id": "8586400f2c27",
-    "url": "https://www.kicker.de/sorgen-um-guirassy-oberschenkel-gespuert-1268716/artikel#omrss",
-    "title": "Sorgen um Guirassy: \"Oberschenkel gespürt\"",
-    "ko": "기라시 허벅지 통증 우려",
-    "source": "kicker",
-    "publishedAt": "2026-11-04T23:23:27.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "기라시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "aad5d5747b3c",
-    "url": "https://www.kicker.de/bvb-muss-auf-guirassy-verzichten-1269189/artikel#omrss",
-    "title": "BVB muss auf Guirassy verzichten",
-    "ko": "도르트문트, 기라시 결장…부상 공백 발생",
-    "source": "kicker",
-    "publishedAt": "2026-11-06T11:50:49.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "기라시"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-04T23:23:27.000Z",
-   "viaQuote": false
-  },
-  "headline": "BVB muss auf Guirassy verzichten"
  },
  {
   "slug": "leicester-affairs-sponsor-controversy",

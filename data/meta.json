@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T11:50:10.517Z",
+ "updatedAt": "2026-11-20T12:55:25.572Z",
  "hot": [
   "man-utd-affairs-drone-footage",
-  "thomas-frank-crystal-palace-appointment",
-  "liverpool-man-utd-2026-11-22",
+  "semenyo-discipline",
   "pochettino-man-utd-manager-future",
-  "newcastle-arsenal-2026-11-22"
+  "eckert-southampton-contract",
+  "thomas-frank-crystal-palace-appointment"
  ],
  "days": [
   "2026-10-18",
@@ -44,7 +44,7 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -56,7 +56,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -92,25 +92,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 84
+   "added": 4,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -140,7 +140,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -152,7 +152,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
@@ -163,38 +163,38 @@
   },
   "stoke": {
    "ok": true,
-   "items": 22,
-   "added": 0,
+   "items": 23,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 2,
+   "items": 13,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -228,12 +228,12 @@
    "count": 36
   },
   {
-   "name": "루카쿠",
+   "name": "잭 그릴리시",
    "count": 36
   },
   {
-   "name": "잭 그릴리시",
-   "count": 35
+   "name": "루카쿠",
+   "count": 36
   },
   {
    "name": "베르나르두 실바",
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
+  "recentIssues": 223,
   "singleArticleRate": 53,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 108
+    "count": 111
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -403,7 +403,7 @@
     },
     {
      "ko": "파울루 퐁세카",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "폰세카",
@@ -509,6 +509,20 @@
     },
     {
      "ko": "예수스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Justin Devenny",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "저스틴 데브니",
+     "count": 3
+    },
+    {
+     "ko": "저스틴 데버니",
      "count": 1
     }
    ]
@@ -746,34 +760,6 @@
    ]
   },
   {
-   "en": "Regis Le Bris",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레지스 르 브리스",
-     "count": 1
-    },
-    {
-     "ko": "레 브리스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Chatzialexiou",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "샤탈렉시우",
-     "count": 1
-    },
-    {
-     "ko": "차찰렉시오우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Simon Ebonog",
    "dictionary": null,
    "variants": [
@@ -984,6 +970,20 @@
    ]
   },
   {
+   "en": "Milos Kerkez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "밀로시 케르케스",
+     "count": 1
+    },
+    {
+     "ko": "케르케즈",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Pereira",
    "dictionary": null,
    "variants": [
@@ -993,6 +993,20 @@
     },
     {
      "ko": "파울루 페레이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Henri Koudossou",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헨리 쿠두수",
+     "count": 1
+    },
+    {
+     "ko": "앙리 쿠두수",
      "count": 1
     }
    ]
@@ -1021,6 +1035,20 @@
     },
     {
      "ko": "페르난도 고메스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 1
+    },
+    {
+     "ko": "퓰크루크",
      "count": 1
     }
    ]
@@ -1112,8 +1140,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 588,
-   "llm": 588
+   "collected": 643,
+   "llm": 643
   }
  },
  "llmErrors": []
