@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T05:30:36.572Z",
+ "updatedAt": "2026-11-20T06:40:41.446Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
   "thomas-frank-crystal-palace-appointment",
-  "arsenal-ol-lyonnes-2026-11-19",
-  "mudryk-discipline"
+  "bayern-koln-2026-11-19",
+  "arsenal-ol-lyonnes-2026-11-19"
  ],
  "days": [
   "2026-10-18",
@@ -44,7 +44,7 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -56,19 +56,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 1,
    "authorRate": 90
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,7 +92,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
@@ -104,7 +104,7 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -122,7 +122,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "waz": {
@@ -134,13 +134,13 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -158,7 +158,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -170,7 +170,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -229,7 +229,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 34
+   "count": 35
   },
   {
    "name": "베르나르두 실바",
@@ -253,7 +253,7 @@
   },
   {
    "name": "이스테방",
-   "count": 21
+   "count": 22
   },
   {
    "name": "루이스 홀",
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
-  "singleArticleRate": 52,
+  "recentIssues": 222,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 109
+    "count": 110
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -389,7 +389,7 @@
     },
     {
      "ko": "파울루 퐁세카",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "폰세카",
@@ -470,15 +470,15 @@
    ]
   },
   {
-   "en": "Scherhant",
+   "en": "Pote",
    "dictionary": null,
    "variants": [
     {
-     "ko": "셰르한트",
-     "count": 4
+     "ko": "포테",
+     "count": 5
     },
     {
-     "ko": "샤르한트",
+     "ko": "포트",
      "count": 1
     }
    ]
@@ -497,20 +497,6 @@
     },
     {
      "ko": "누사",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pote",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포테",
-     "count": 4
-    },
-    {
-     "ko": "포트",
      "count": 1
     }
    ]
@@ -1086,6 +1072,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Ramon Vega",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "람 베가",
+     "count": 1
+    },
+    {
+     "ko": "라몬 베가",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1174,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 353,
-   "llm": 353
+   "collected": 380,
+   "llm": 380
   }
  },
  "llmErrors": []
