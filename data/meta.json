@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-20T00:11:45.488Z",
+ "updatedAt": "2026-11-20T01:22:11.833Z",
  "hot": [
   "arsenal-ol-lyonnes-2026-11-19",
-  "mudryk-discipline",
   "pochettino-man-utd-manager-future",
+  "mudryk-discipline",
   "tolisso-fonseca-relationship",
   "england-affairs-fan-discrimination-uefa"
  ],
@@ -44,19 +44,19 @@
   "bbc": {
    "ok": true,
    "items": 83,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -98,7 +98,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 84
   },
   "fblondon": {
@@ -146,7 +146,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
@@ -193,7 +193,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 2,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -321,7 +321,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
+  "recentIssues": 221,
   "singleArticleRate": 53,
   "broad": [
    {
@@ -920,20 +920,6 @@
    ]
   },
   {
-   "en": "Carlos André Gomes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 앙드레 고메스",
-     "count": 1
-    },
-    {
-     "ko": "카를루스 앙드레 고메스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Simon Ebonog",
    "dictionary": null,
    "variants": [
@@ -1086,6 +1072,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Giulian Biancone",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "줄리안 비안코네",
+     "count": 1
+    },
+    {
+     "ko": "지아눌리앙 비안코네",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1174,8 +1174,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 305,
-   "llm": 305
+   "collected": 308,
+   "llm": 308
   }
  },
  "llmErrors": []
