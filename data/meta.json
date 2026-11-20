@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T22:39:16.605Z",
+ "updatedAt": "2026-11-20T23:28:06.336Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
   "kane-olise-injury",
+  "pochettino-man-utd-manager-future",
+  "chelsea-affairs-tom-brady-stake",
   "bayern-koln-2026-11-19",
-  "infantino-fifa-affairs-election-candidacy",
-  "mudryk-shevchenko-relationship"
+  "infantino-fifa-affairs-election-candidacy"
  ],
  "days": [
   "2026-10-18",
@@ -51,7 +51,7 @@
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,19 +93,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 4,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -117,13 +117,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 93
   },
   "waz": {
@@ -147,19 +147,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -177,25 +177,25 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -322,12 +322,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 207,
-  "singleArticleRate": 45,
+  "recentIssues": 205,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 122
+    "count": 121
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -513,6 +513,20 @@
    ]
   },
   {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 3
+    },
+    {
+     "ko": "빅터 브루노",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -550,20 +564,6 @@
     },
     {
      "ko": "조르즈 시망",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pedro Neto",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드로 네투",
-     "count": 2
-    },
-    {
-     "ko": "페드루 네투",
      "count": 1
     }
    ]
@@ -624,34 +624,6 @@
     },
     {
      "ko": "케다",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Paz",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파스",
-     "count": 2
-    },
-    {
-     "ko": "파즈",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 2
-    },
-    {
-     "ko": "빅터 브루노",
      "count": 1
     }
    ]
@@ -759,6 +731,34 @@
    ]
   },
   {
+   "en": "Mille",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "밀",
+     "count": 2
+    },
+    {
+     "ko": "밀레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Neto",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드루 네투",
+     "count": 1
+    },
+    {
+     "ko": "페드로 네투",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Simon Ebonog",
    "dictionary": null,
    "variants": [
@@ -857,6 +857,20 @@
    ]
   },
   {
+   "en": "Paz",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파즈",
+     "count": 1
+    },
+    {
+     "ko": "파스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Tiago Margarido",
    "dictionary": null,
    "variants": [
@@ -866,20 +880,6 @@
     },
     {
      "ko": "티아고 마가리두",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Dalot",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오고 달롯",
-     "count": 1
-    },
-    {
-     "ko": "디오구 달롯",
      "count": 1
     }
    ]
@@ -1171,8 +1171,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 402,
-   "llm": 402
+   "collected": 424,
+   "llm": 424
   }
  },
  "llmErrors": []
