@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T15:08:06.513Z",
+ "updatedAt": "2026-11-20T16:06:09.773Z",
  "hot": [
-  "eckert-southampton-contract",
-  "courtois-contract",
-  "arsenal-affairs-team-news-leak",
   "man-utd-affairs-drone-footage",
-  "semenyo-discipline"
+  "arsenal-affairs-team-news-leak",
+  "pochettino-man-utd-manager-future",
+  "eckert-southampton-contract",
+  "courtois-contract"
  ],
  "days": [
   "2026-10-18",
@@ -45,26 +45,26 @@
   "bbc": {
    "ok": true,
    "items": 82,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 6,
+   "authorRate": 92
   },
   "athletic": {
    "ok": true,
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,38 +93,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 88
+   "added": 7,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 5,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 98
+   "added": 4,
+   "authorRate": 93
   },
   "waz": {
    "ok": true,
@@ -135,32 +135,30 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
-   "ok": true,
-   "items": 30,
-   "added": 3,
-   "authorRate": 100
+   "ok": false,
+   "error": "HTTP 403"
   },
   "stoke": {
    "ok": true,
@@ -177,7 +175,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 7,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
@@ -189,13 +187,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 0,
+   "items": 8,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -225,11 +223,11 @@
    "count": 38
   },
   {
-   "name": "웨인 루니",
-   "count": 36
+   "name": "잭 그릴리시",
+   "count": 37
   },
   {
-   "name": "잭 그릴리시",
+   "name": "웨인 루니",
    "count": 36
   },
   {
@@ -322,12 +320,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 211,
+  "recentIssues": 209,
   "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 115
+    "count": 122
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -354,6 +352,24 @@
     },
     {
      "ko": "포트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Matthias Jaissle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야이슬레",
+     "count": 6
+    },
+    {
+     "ko": "마티아스 야이슬레",
+     "count": 6
+    },
+    {
+     "ko": "하이슬레",
      "count": 1
     }
    ]
@@ -391,30 +407,12 @@
    ]
   },
   {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 6
-    },
-    {
-     "ko": "야이슬레",
-     "count": 5
-    },
-    {
-     "ko": "하이슬레",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
     {
      "ko": "파울루 폰세카",
-     "count": 5
+     "count": 4
     },
     {
      "ko": "파울루 퐁세카",
@@ -451,6 +449,20 @@
     {
      "ko": "카를루스 포브스",
      "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Kai",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카이",
+     "count": 4
+    },
+    {
+     "ko": "카이 루니",
+     "count": 1
     }
    ]
   },
@@ -501,20 +513,6 @@
    ]
   },
   {
-   "en": "Kai",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카이",
-     "count": 3
-    },
-    {
-     "ko": "카이 루니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matos",
    "dictionary": null,
    "variants": [
@@ -537,15 +535,15 @@
      "count": 1
     },
     {
+     "ko": "부치치",
+     "count": 1
+    },
+    {
      "ko": "부쉬코비치",
      "count": 1
     },
     {
      "ko": "부코비치",
-     "count": 1
-    },
-    {
-     "ko": "부치치",
      "count": 1
     }
    ]
@@ -709,6 +707,20 @@
    ]
   },
   {
+   "en": "Kieran Maguire",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키런 매과이어",
+     "count": 2
+    },
+    {
+     "ko": "키에런 매과이어",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Emma Hayes",
    "dictionary": null,
    "variants": [
@@ -811,6 +823,20 @@
    ]
   },
   {
+   "en": "Rosenior",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "로지오르",
+     "count": 1
+    },
+    {
+     "ko": "로즈니어",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jean-Michel Aulas",
    "dictionary": null,
    "variants": [
@@ -904,20 +930,6 @@
     },
     {
      "ko": "카미스키",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lemke",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레미케",
-     "count": 1
-    },
-    {
-     "ko": "레름케",
      "count": 1
     }
    ]
@@ -1035,43 +1047,29 @@
    ]
   },
   {
-   "en": "Tibe De Vlieger",
+   "en": "Baur",
    "dictionary": null,
    "variants": [
     {
-     "ko": "드 블리에허",
+     "ko": "바우르",
      "count": 1
     },
     {
-     "ko": "티베 더 블리허",
+     "ko": "바우어",
      "count": 1
     }
    ]
   },
   {
-   "en": "Füllkrug",
+   "en": "Baum",
    "dictionary": null,
    "variants": [
     {
-     "ko": "퓰크루크",
+     "ko": "바움",
      "count": 1
     },
     {
-     "ko": "퓔크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Henri Koudossou",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헨리 쿠두수",
-     "count": 1
-    },
-    {
-     "ko": "앙리 쿠두수",
+     "ko": "바우마",
      "count": 1
     }
    ]
@@ -1167,8 +1165,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 40,
-   "llm": 40
+   "collected": 102,
+   "llm": 102
   }
  },
  "llmErrors": []
