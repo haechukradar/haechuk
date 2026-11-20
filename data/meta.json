@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T12:55:25.572Z",
+ "updatedAt": "2026-11-20T14:11:43.942Z",
  "hot": [
-  "man-utd-affairs-drone-footage",
-  "semenyo-discipline",
-  "pochettino-man-utd-manager-future",
+  "courtois-contract",
+  "arsenal-affairs-team-news-leak",
   "eckert-southampton-contract",
-  "thomas-frank-crystal-palace-appointment"
+  "man-utd-affairs-drone-footage",
+  "semenyo-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -43,8 +43,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 1,
+   "items": 81,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -56,7 +56,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 18,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,14 +92,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 82
+   "added": 8,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
@@ -110,7 +110,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -122,7 +122,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 98
   },
   "waz": {
@@ -134,37 +134,37 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 23,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -176,7 +176,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 6,
+   "added": 7,
    "authorRate": 100
   },
   "star": {
@@ -188,13 +188,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 0,
+   "items": 10,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -205,7 +205,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 55
+   "count": 56
   },
   {
    "name": "프레스티아니",
@@ -277,6 +277,14 @@
   },
   {
    "name": "윌 랭크셔",
+   "count": 17
+  },
+  {
+   "name": "수비멘디",
+   "count": 17
+  },
+  {
+   "name": "반 다이크",
    "count": 16
   },
   {
@@ -284,16 +292,8 @@
    "count": 16
   },
   {
-   "name": "수비멘디",
-   "count": 16
-  },
-  {
    "name": "벤 화이트",
    "count": 16
-  },
-  {
-   "name": "반 다이크",
-   "count": 15
   },
   {
    "name": "돈나룸마",
@@ -321,12 +321,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 223,
-  "singleArticleRate": 53,
+  "recentIssues": 216,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 111
+    "count": 113
    },
    {
     "slug": "wales-portugal-2026-11-12",
@@ -358,6 +358,20 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 11
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jorge Jesus",
    "dictionary": null,
    "variants": [
@@ -380,11 +394,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "야이슬레",
-     "count": 5
+     "ko": "마티아스 야이슬레",
+     "count": 6
     },
     {
-     "ko": "마티아스 야이슬레",
+     "ko": "야이슬레",
      "count": 5
     },
     {
@@ -453,6 +467,20 @@
     },
     {
      "ko": "누사",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "José Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 3
+    },
+    {
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -551,20 +579,6 @@
     },
     {
      "ko": "마르쿠 실바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gary Neville",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게리 네빌",
-     "count": 2
-    },
-    {
-     "ko": "개리 네빌",
      "count": 1
     }
    ]
@@ -746,15 +760,15 @@
    ]
   },
   {
-   "en": "Hincapie",
+   "en": "Gary Neville",
    "dictionary": null,
    "variants": [
     {
-     "ko": "히칸피에",
+     "ko": "개리 네빌",
      "count": 1
     },
     {
-     "ko": "힌카피에",
+     "ko": "게리 네빌",
      "count": 1
     }
    ]
@@ -825,6 +839,20 @@
     },
     {
      "ko": "타시마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Folarin Balogun",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "폴라린 발룬",
+     "count": 1
+    },
+    {
+     "ko": "폴라린 발로군",
      "count": 1
     }
    ]
@@ -998,6 +1026,20 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓰크루크",
+     "count": 1
+    },
+    {
+     "ko": "퓔크루크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Henri Koudossou",
    "dictionary": null,
    "variants": [
@@ -1021,34 +1063,6 @@
     },
     {
      "ko": "주스 아호카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Fernando Gomes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르난두 고메스",
-     "count": 1
-    },
-    {
-     "ko": "페르난도 고메스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 1
-    },
-    {
-     "ko": "퓰크루크",
      "count": 1
     }
    ]
@@ -1140,8 +1154,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 643,
-   "llm": 643
+   "collected": 721,
+   "llm": 721
   }
  },
  "llmErrors": []
