@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T20:10:48.755Z",
+ "updatedAt": "2026-11-20T20:59:49.816Z",
  "hot": [
-  "man-utd-affairs-drone-footage",
   "pochettino-man-utd-manager-future",
-  "chelsea-affairs-tom-brady-stake",
-  "arsenal-affairs-team-news-leak",
-  "bayern-koln-2026-11-19"
+  "man-utd-affairs-drone-footage",
+  "bayern-koln-2026-11-19",
+  "infantino-fifa-affairs-election-candidacy",
+  "chelsea-affairs-tom-brady-stake"
  ],
  "days": [
   "2026-10-18",
@@ -45,19 +45,19 @@
   "bbc": {
    "ok": true,
    "items": 77,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 59,
+   "items": 55,
    "added": 1,
-   "authorRate": 97
+   "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -99,8 +99,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 84
+   "added": 3,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -123,7 +123,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 93
   },
   "waz": {
@@ -135,31 +135,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -171,13 +171,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -189,13 +189,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 16,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -269,12 +269,12 @@
    "count": 18
   },
   {
-   "name": "지단",
+   "name": "반 다이크",
    "count": 18
   },
   {
-   "name": "반 다이크",
-   "count": 17
+   "name": "지단",
+   "count": 18
   },
   {
    "name": "데 미겔",
@@ -322,12 +322,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 205,
+  "recentIssues": 204,
   "singleArticleRate": 48,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 121
+    "count": 122
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -335,10 +335,6 @@
    },
    {
     "slug": "man-city-affairs-charges-20261119",
-    "count": 16
-   },
-   {
-    "slug": "wales-portugal-2026-11-12",
     "count": 16
    },
    {
@@ -354,7 +350,7 @@
    "variants": [
     {
      "ko": "포테",
-     "count": 15
+     "count": 16
     },
     {
      "ko": "포트",
@@ -395,24 +391,6 @@
    ]
   },
   {
-   "en": "Jorge Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 제수스",
-     "count": 8
-    },
-    {
-     "ko": "호르헤 제수스",
-     "count": 2
-    },
-    {
-     "ko": "조르제 제수스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -426,6 +404,24 @@
     },
     {
      "ko": "하이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jorge Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 제수스",
+     "count": 8
+    },
+    {
+     "ko": "호르헤 제수스",
+     "count": 1
+    },
+    {
+     "ko": "조르제 제수스",
      "count": 1
     }
    ]
@@ -519,20 +515,6 @@
    ]
   },
   {
-   "en": "Pedro Neto",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드루 네투",
-     "count": 2
-    },
-    {
-     "ko": "페드로 네투",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Vuskovic",
    "dictionary": null,
    "variants": [
@@ -592,6 +574,20 @@
     },
     {
      "ko": "조르즈 시망",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Neto",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드로 네투",
+     "count": 2
+    },
+    {
+     "ko": "페드루 네투",
      "count": 1
     }
    ]
@@ -913,6 +909,20 @@
    ]
   },
   {
+   "en": "Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브루노 기마랑이스",
+     "count": 1
+    },
+    {
+     "ko": "브루노 페르난데스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Agostinho Bento",
    "dictionary": null,
    "variants": [
@@ -1065,20 +1075,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Henri Koudossou",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헨리 쿠두수",
-     "count": 1
-    },
-    {
-     "ko": "앙리 쿠두수",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1171,8 +1167,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 298,
-   "llm": 298
+   "collected": 324,
+   "llm": 324
   }
  },
  "llmErrors": []
