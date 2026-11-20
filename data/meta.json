@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T16:06:09.773Z",
+ "updatedAt": "2026-11-20T17:07:40.819Z",
  "hot": [
   "man-utd-affairs-drone-footage",
-  "arsenal-affairs-team-news-leak",
   "pochettino-man-utd-manager-future",
+  "arsenal-affairs-team-news-leak",
   "eckert-southampton-contract",
-  "courtois-contract"
+  "man-city-affairs-charges-20261119"
  ],
  "days": [
   "2026-10-18",
@@ -44,27 +44,27 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 3,
+   "items": 83,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
    "items": 25,
-   "added": 6,
-   "authorRate": 92
+   "added": 2,
+   "authorRate": 84
   },
   "athletic": {
    "ok": true,
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,25 +93,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 86
+   "added": 4,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -123,7 +123,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 4,
+   "added": 0,
    "authorRate": 93
   },
   "waz": {
@@ -135,19 +135,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
@@ -157,8 +157,10 @@
    "authorRate": 0
   },
   "hln": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 30,
+   "added": 3,
+   "authorRate": 100
   },
   "stoke": {
    "ok": true,
@@ -175,7 +177,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -187,13 +189,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 3,
+   "items": 11,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -204,7 +206,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 56
+   "count": 57
   },
   {
    "name": "프레스티아니",
@@ -320,16 +322,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 209,
-  "singleArticleRate": 51,
+  "recentIssues": 206,
+  "singleArticleRate": 50,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 122
+    "count": 123
    },
    {
     "slug": "wales-portugal-2026-11-12",
-    "count": 23
+    "count": 22
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -338,6 +340,10 @@
    {
     "slug": "jj-gabriel-real-madrid-transfer",
     "count": 16
+   },
+   {
+    "slug": "man-city-affairs-charges-20261119",
+    "count": 15
    }
   ]
  },
@@ -357,6 +363,20 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 13
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -370,20 +390,6 @@
     },
     {
      "ko": "하이슬레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 11
-    },
-    {
-     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -563,20 +569,6 @@
    ]
   },
   {
-   "en": "Rui Borges",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 보르게스",
-     "count": 3
-    },
-    {
-     "ko": "루이 보르헤스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -587,6 +579,20 @@
     {
      "ko": "마르쿠 실바",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 2
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 2
     }
    ]
   },
@@ -702,6 +708,20 @@
     },
     {
      "ko": "라민",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 2
+    },
+    {
+     "ko": "빅터 브루노",
      "count": 1
     }
    ]
@@ -865,6 +885,20 @@
    ]
   },
   {
+   "en": "Regis Le Bris",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레 브리스",
+     "count": 1
+    },
+    {
+     "ko": "레지스 르 브리스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -902,34 +936,6 @@
     },
     {
      "ko": "오워노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hugo Oliveira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "위고 올리베이라",
-     "count": 1
-    },
-    {
-     "ko": "우고 올리베이라",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kaminski",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카민스키",
-     "count": 1
-    },
-    {
-     "ko": "카미스키",
      "count": 1
     }
    ]
@@ -986,20 +992,6 @@
     },
     {
      "ko": "지아눌리앙 비안코네",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "빅터 브루노",
-     "count": 1
-    },
-    {
-     "ko": "비토르 브루노",
      "count": 1
     }
    ]
@@ -1070,6 +1062,20 @@
     },
     {
      "ko": "바우마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tibe De Vlieger",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "드 블리에허",
+     "count": 1
+    },
+    {
+     "ko": "티베 더 블리허",
      "count": 1
     }
    ]
@@ -1165,8 +1171,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 102,
-   "llm": 102
+   "collected": 152,
+   "llm": 152
   }
  },
  "llmErrors": []
