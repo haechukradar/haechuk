@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T07:57:48.677Z",
+ "updatedAt": "2026-11-20T08:56:48.988Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
   "bayern-koln-2026-11-19",
-  "diallo-infantino-affairs-dispute",
   "arsenal-ol-lyonnes-2026-11-19",
-  "pochettino-man-utd-manager-future"
+  "pochettino-man-utd-manager-future",
+  "tolisso-fonseca-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -43,8 +43,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
-   "added": 4,
+   "items": 82,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -56,7 +56,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 7,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +68,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -80,7 +80,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 17,
    "authorRate": 100
   },
   "gazzetta": {
@@ -92,31 +92,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 84
+   "added": 0,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -152,7 +152,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
@@ -176,7 +176,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -188,13 +188,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 7,
+   "items": 8,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -228,12 +228,12 @@
    "count": 36
   },
   {
-   "name": "잭 그릴리시",
+   "name": "웨인 루니",
    "count": 35
   },
   {
-   "name": "웨인 루니",
-   "count": 34
+   "name": "잭 그릴리시",
+   "count": 35
   },
   {
    "name": "베르나르두 실바",
@@ -284,6 +284,10 @@
    "count": 16
   },
   {
+   "name": "벤 화이트",
+   "count": 16
+  },
+  {
    "name": "반 다이크",
    "count": 15
   },
@@ -297,10 +301,6 @@
   },
   {
    "name": "트루빈",
-   "count": 15
-  },
-  {
-   "name": "벤 화이트",
    "count": 15
   },
   {
@@ -321,8 +321,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
-  "singleArticleRate": 51,
+  "recentIssues": 220,
+  "singleArticleRate": 52,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -333,12 +333,12 @@
     "count": 23
    },
    {
-    "slug": "pochettino-usmnt-manager-future",
+    "slug": "jj-gabriel-real-madrid-transfer",
     "count": 16
    },
    {
-    "slug": "jj-gabriel-real-madrid-transfer",
-    "count": 16
+    "slug": "pochettino-usmnt-manager-future",
+    "count": 15
    }
   ]
  },
@@ -380,6 +380,20 @@
    ]
   },
   {
+   "en": "Pote",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포테",
+     "count": 9
+    },
+    {
+     "ko": "포트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -407,46 +421,6 @@
     },
     {
      "ko": "바스코 페소",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pote",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포테",
-     "count": 6
-    },
-    {
-     "ko": "포트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오워노",
-     "count": 2
-    },
-    {
-     "ko": "오와노",
-     "count": 1
-    },
-    {
-     "ko": "오요노",
-     "count": 1
-    },
-    {
-     "ko": "오노워",
-     "count": 1
-    },
-    {
-     "ko": "오노노",
      "count": 1
     }
    ]
@@ -502,30 +476,20 @@
    ]
   },
   {
-   "en": "Xavi",
+   "en": "Owono",
    "dictionary": null,
    "variants": [
     {
-     "ko": "사비",
-     "count": 3
+     "ko": "오워노",
+     "count": 2
     },
     {
-     "ko": "사비 알론소",
+     "ko": "오와노",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hugo Oliveira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "위고 올리베이라",
-     "count": 2
     },
     {
-     "ko": "우고 올리베이라",
-     "count": 2
+     "ko": "오노노",
+     "count": 1
     }
    ]
   },
@@ -600,6 +564,20 @@
    ]
   },
   {
+   "en": "Xavi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사비",
+     "count": 2
+    },
+    {
+     "ko": "사비 알론소",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mohya",
    "dictionary": null,
    "variants": [
@@ -614,15 +592,15 @@
    ]
   },
   {
-   "en": "Gustavo Varela",
+   "en": "Hugo Oliveira",
    "dictionary": null,
    "variants": [
     {
-     "ko": "구스타보 바렐라",
+     "ko": "위고 올리베이라",
      "count": 2
     },
     {
-     "ko": "구스타부 바렐라",
+     "ko": "우고 올리베이라",
      "count": 1
     }
    ]
@@ -846,20 +824,6 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이미 캐러거",
-     "count": 1
-    },
-    {
-     "ko": "카라거",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Franck Haise",
    "dictionary": null,
    "variants": [
@@ -869,34 +833,6 @@
     },
     {
      "ko": "프랭크 하이즈",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nick Woltemade",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "니크 볼테마더",
-     "count": 1
-    },
-    {
-     "ko": "니크 볼테마데",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gerard Piqué",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제라드 피케",
-     "count": 1
-    },
-    {
-     "ko": "제라르 피케",
      "count": 1
     }
    ]
@@ -1082,6 +1018,62 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Roberto Martínez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "로베르토 마르티네스",
+     "count": 1
+    },
+    {
+     "ko": "로베르투 마르티네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Paulo Pereira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울로 페레이라",
+     "count": 1
+    },
+    {
+     "ko": "파울루 페레이라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Fernando Gomes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르난두 고메스",
+     "count": 1
+    },
+    {
+     "ko": "페르난도 고메스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jules Ahoka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "줄스 아호카",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1170,8 +1162,8 @@
    "llm": 769
   },
   "2026-11-20": {
-   "collected": 426,
-   "llm": 426
+   "collected": 472,
+   "llm": 472
   }
  },
  "llmErrors": []
