@@ -258,5 +258,92 @@
     "leadHours": 45.7
    }
   }
+ },
+ {
+  "slug": "vitor-matos-swansea-transfer",
+  "title": "스완지 비토르 마토스 스트라스부르 이적 가능성",
+  "players": [],
+  "transfer": {
+   "player": "비토르 마토스",
+   "from": "스완지",
+   "to": "스트라스부르"
+  },
+  "result": "done",
+  "inferred": false,
+  "manual": false,
+  "note": null,
+  "resolvedAt": "2026-11-20T16:57:06.000Z",
+  "firstReportAt": "2026-11-16T23:32:23.000Z",
+  "durationDays": 3.7,
+  "scoredAt": "2026-11-20T18:06:15.221Z",
+  "revision": 0,
+  "scores": [
+   {
+    "source": "guardian",
+    "tier": 2,
+    "lastStage": "interest",
+    "author": "Ben Fisher",
+    "excluded": "interest-only"
+   },
+   {
+    "source": "lequipe",
+    "tier": 2,
+    "lastStage": "done",
+    "author": "Cyril Olivès",
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T23:00:00.000Z",
+    "leadHours": 66
+   },
+   {
+    "source": "stoke",
+    "tier": 3,
+    "lastStage": "collapsed",
+    "author": "Peter Smith",
+    "prediction": "fail",
+    "hit": false,
+    "firstSignalAt": "2026-11-17T14:23:29.000Z",
+    "leadHours": 74.6
+   },
+   {
+    "source": "mirror",
+    "tier": 4,
+    "lastStage": "negotiation",
+    "author": "Felix Keith",
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-17T16:01:14.000Z",
+    "leadHours": 72.9
+   },
+   {
+    "source": "record",
+    "tier": 2,
+    "lastStage": "negotiation",
+    "author": null,
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-19T20:46:33.000Z",
+    "leadHours": 20.2
+   },
+   {
+    "source": "bbc",
+    "tier": 1,
+    "lastStage": "done",
+    "author": null,
+    "prediction": "success",
+    "hit": true,
+    "firstSignalAt": "2026-11-20T16:57:06.000Z",
+    "leadHours": 0
+   }
+  ],
+  "summary": {
+   "scored": 5,
+   "hits": 4,
+   "excluded": 1,
+   "firstCorrect": {
+    "source": "mirror",
+    "leadHours": 72.9
+   }
+  }
  }
 ]

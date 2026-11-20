@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-11-20T17:07:40.819Z",
+ "generatedAt": "2026-11-20T18:06:15.221Z",
  "minSampleForDisplay": 10,
- "resolvedIssues": 2,
+ "resolvedIssues": 3,
  "sources": {
   "sky": {
    "name": "Sky Sports",
@@ -70,18 +70,18 @@
    "name": "Mirror",
    "tier": 4,
    "all": {
-    "scored": 1,
-    "hits": 1,
+    "scored": 2,
+    "hits": 2,
     "rate": 100,
-    "avgLeadHours": 0.1,
+    "avgLeadHours": 36.5,
     "excludedInterest": 0
    },
    "seasons": {
     "off-season": {
-     "scored": 1,
-     "hits": 1,
+     "scored": 2,
+     "hits": 2,
      "rate": 100,
-     "avgLeadHours": 0.1,
+     "avgLeadHours": 36.5,
      "excludedInterest": 0
     }
    },
@@ -91,16 +91,16 @@
    "name": "BBC Sport",
    "tier": 1,
    "all": {
-    "scored": 1,
-    "hits": 1,
+    "scored": 2,
+    "hits": 2,
     "rate": 100,
     "avgLeadHours": 0,
     "excludedInterest": 0
    },
    "seasons": {
     "off-season": {
-     "scored": 1,
-     "hits": 1,
+     "scored": 2,
+     "hits": 2,
      "rate": 100,
      "avgLeadHours": 0,
      "excludedInterest": 0
@@ -124,6 +124,90 @@
      "hits": 1,
      "rate": 100,
      "avgLeadHours": 45.7,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "guardian": {
+   "name": "Guardian",
+   "tier": 2,
+   "all": {
+    "scored": 0,
+    "hits": 0,
+    "rate": null,
+    "avgLeadHours": null,
+    "excludedInterest": 1
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 0,
+     "hits": 0,
+     "rate": null,
+     "avgLeadHours": null,
+     "excludedInterest": 1
+    }
+   },
+   "displayable": false
+  },
+  "lequipe": {
+   "name": "레퀴프",
+   "tier": 2,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 66,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 66,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "stoke": {
+   "name": "Stoke Sentinel",
+   "tier": 3,
+   "all": {
+    "scored": 1,
+    "hits": 0,
+    "rate": 0,
+    "avgLeadHours": null,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 0,
+     "rate": 0,
+     "avgLeadHours": null,
+     "excludedInterest": 0
+    }
+   },
+   "displayable": false
+  },
+  "record": {
+   "name": "헤코르드",
+   "tier": 2,
+   "all": {
+    "scored": 1,
+    "hits": 1,
+    "rate": 100,
+    "avgLeadHours": 20.2,
+    "excludedInterest": 0
+   },
+   "seasons": {
+    "off-season": {
+     "scored": 1,
+     "hits": 1,
+     "rate": 100,
+     "avgLeadHours": 20.2,
      "excludedInterest": 0
     }
    },
