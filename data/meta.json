@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T20:59:49.816Z",
+ "updatedAt": "2026-11-20T21:47:12.924Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
-  "man-utd-affairs-drone-footage",
   "bayern-koln-2026-11-19",
   "infantino-fifa-affairs-election-candidacy",
-  "chelsea-affairs-tom-brady-stake"
+  "pochettino-man-utd-manager-future",
+  "man-utd-affairs-drone-footage",
+  "bilbao-espanyol-2026-11-20"
  ],
  "days": [
   "2026-10-18",
@@ -44,20 +44,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
+   "items": 78,
    "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 55,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -80,8 +80,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 0,
+   "items": 50,
+   "added": 11,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,14 +93,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 82
+   "added": 1,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -123,7 +123,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 93
   },
   "waz": {
@@ -135,7 +135,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
@@ -147,7 +147,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -177,7 +177,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -189,13 +189,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 16,
-   "added": 0,
+   "items": 14,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -289,15 +289,15 @@
    "count": 17
   },
   {
+   "name": "무드리크",
+   "count": 17
+  },
+  {
    "name": "니코 파스",
    "count": 16
   },
   {
    "name": "벤 화이트",
-   "count": 16
-  },
-  {
-   "name": "무드리크",
    "count": 16
   },
   {
@@ -322,20 +322,28 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 204,
-  "singleArticleRate": 48,
+  "recentIssues": 207,
+  "singleArticleRate": 47,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 122
+    "count": 123
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
     "count": 18
    },
    {
+    "slug": "bayern-koln-2026-11-19",
+    "count": 17
+   },
+   {
     "slug": "man-city-affairs-charges-20261119",
     "count": 16
+   },
+   {
+    "slug": "infantino-fifa-affairs-election-candidacy",
+    "count": 15
    },
    {
     "slug": "man-utd-affairs-drone-footage",
@@ -350,7 +358,7 @@
    "variants": [
     {
      "ko": "포테",
-     "count": 16
+     "count": 17
     },
     {
      "ko": "포트",
@@ -446,7 +454,7 @@
    "variants": [
     {
      "ko": "카를로스 포브스",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "카를루스 포브스",
@@ -501,20 +509,6 @@
    ]
   },
   {
-   "en": "José Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 3
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vuskovic",
    "dictionary": null,
    "variants": [
@@ -537,20 +531,6 @@
    ]
   },
   {
-   "en": "Justin Devenny",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "저스틴 데브니",
-     "count": 3
-    },
-    {
-     "ko": "저스틴 데버니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -560,6 +540,20 @@
     },
     {
      "ko": "마르쿠 실바",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "José Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 2
+    },
+    {
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -667,15 +661,15 @@
    ]
   },
   {
-   "en": "Lamine",
+   "en": "Justin Devenny",
    "dictionary": null,
    "variants": [
     {
-     "ko": "라민 야말",
+     "ko": "저스틴 데브니",
      "count": 2
     },
     {
-     "ko": "라민",
+     "ko": "저스틴 데버니",
      "count": 1
     }
    ]
@@ -965,6 +959,20 @@
    ]
   },
   {
+   "en": "Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오워노",
+     "count": 1
+    },
+    {
+     "ko": "오노워",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Ramon Vega",
    "dictionary": null,
    "variants": [
@@ -1167,8 +1175,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 324,
-   "llm": 324
+   "collected": 360,
+   "llm": 360
   }
  },
  "llmErrors": []
