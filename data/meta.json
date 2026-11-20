@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-20T14:11:43.942Z",
+ "updatedAt": "2026-11-20T15:08:06.513Z",
  "hot": [
+  "eckert-southampton-contract",
   "courtois-contract",
   "arsenal-affairs-team-news-leak",
-  "eckert-southampton-contract",
   "man-utd-affairs-drone-footage",
   "semenyo-discipline"
  ],
@@ -38,25 +38,26 @@
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 3,
+   "items": 82,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -68,7 +69,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -80,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 18,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +99,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 1,
    "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -122,7 +123,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 98
   },
   "waz": {
@@ -152,13 +153,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -182,7 +183,7 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -193,8 +194,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 5,
+   "items": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -241,11 +242,11 @@
   },
   {
    "name": "노이어",
-   "count": 33
+   "count": 34
   },
   {
    "name": "그릴리시",
-   "count": 32
+   "count": 33
   },
   {
    "name": "알리송",
@@ -272,6 +273,10 @@
    "count": 18
   },
   {
+   "name": "반 다이크",
+   "count": 17
+  },
+  {
    "name": "데 미겔",
    "count": 17
   },
@@ -284,16 +289,16 @@
    "count": 17
   },
   {
-   "name": "반 다이크",
-   "count": 16
-  },
-  {
    "name": "니코 파스",
    "count": 16
   },
   {
    "name": "벤 화이트",
    "count": 16
+  },
+  {
+   "name": "발로군",
+   "count": 15
   },
   {
    "name": "돈나룸마",
@@ -308,37 +313,33 @@
    "count": 14
   },
   {
-   "name": "발로군",
-   "count": 14
-  },
-  {
    "name": "조브 벨링엄",
    "count": 14
   },
   {
-   "name": "모히아",
-   "count": 13
+   "name": "무드리크",
+   "count": 14
   }
  ],
  "issueHealth": {
-  "recentIssues": 216,
-  "singleArticleRate": 52,
+  "recentIssues": 211,
+  "singleArticleRate": 51,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 113
+    "count": 115
    },
    {
     "slug": "wales-portugal-2026-11-12",
     "count": 23
    },
    {
-    "slug": "jj-gabriel-real-madrid-transfer",
+    "slug": "liverpool-man-utd-2026-11-22",
     "count": 16
    },
    {
-    "slug": "liverpool-man-utd-2026-11-22",
-    "count": 15
+    "slug": "jj-gabriel-real-madrid-transfer",
+    "count": 16
    }
   ]
  },
@@ -528,15 +529,23 @@
    ]
   },
   {
-   "en": "Jesus",
+   "en": "Vuskovic",
    "dictionary": null,
    "variants": [
     {
-     "ko": "제수스",
-     "count": 3
+     "ko": "부스코비치",
+     "count": 1
     },
     {
-     "ko": "예수스",
+     "ko": "부쉬코비치",
+     "count": 1
+    },
+    {
+     "ko": "부코비치",
+     "count": 1
+    },
+    {
+     "ko": "부치치",
      "count": 1
     }
    ]
@@ -612,19 +621,33 @@
    ]
   },
   {
-   "en": "Vuskovic",
+   "en": "Kozo Tashima",
    "dictionary": null,
    "variants": [
     {
-     "ko": "부스코비치",
+     "ko": "타시마 고조",
      "count": 1
     },
     {
-     "ko": "부쉬코비치",
+     "ko": "타시마",
      "count": 1
     },
     {
-     "ko": "부코비치",
+     "ko": "코조 타시마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제수스",
+     "count": 2
+    },
+    {
+     "ko": "예수스",
      "count": 1
     }
    ]
@@ -746,20 +769,6 @@
    ]
   },
   {
-   "en": "Harry Amass",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "하리 어매스",
-     "count": 1
-    },
-    {
-     "ko": "해리 아마스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gary Neville",
    "dictionary": null,
    "variants": [
@@ -830,20 +839,6 @@
    ]
   },
   {
-   "en": "Kozo Tashima",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "타시마 고조",
-     "count": 1
-    },
-    {
-     "ko": "타시마",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Folarin Balogun",
    "dictionary": null,
    "variants": [
@@ -853,6 +848,20 @@
     },
     {
      "ko": "폴라린 발로군",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tiago Margarido",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티아구 마가리두",
+     "count": 1
+    },
+    {
+     "ko": "티아고 마가리두",
      "count": 1
     }
    ]
@@ -1026,6 +1035,20 @@
    ]
   },
   {
+   "en": "Tibe De Vlieger",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "드 블리에허",
+     "count": 1
+    },
+    {
+     "ko": "티베 더 블리허",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Füllkrug",
    "dictionary": null,
    "variants": [
@@ -1049,20 +1072,6 @@
     },
     {
      "ko": "앙리 쿠두수",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jules Ahoka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "줄스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "주스 아호카",
      "count": 1
     }
    ]
@@ -1156,6 +1165,10 @@
   "2026-11-20": {
    "collected": 721,
    "llm": 721
+  },
+  "2026-11-21": {
+   "collected": 40,
+   "llm": 40
   }
  },
  "llmErrors": []
