@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T02:35:59.680Z",
+ "updatedAt": "2026-11-21T03:32:08.672Z",
  "hot": [
   "kane-olise-injury",
   "pochettino-man-utd-manager-future",
@@ -57,7 +57,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -147,7 +147,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
@@ -322,7 +322,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 205,
+  "recentIssues": 203,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -596,20 +596,6 @@
     },
     {
      "ko": "코조 타시마",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제수스",
-     "count": 2
-    },
-    {
-     "ko": "예수스",
      "count": 1
     }
    ]
@@ -1083,6 +1069,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓰크루크",
+     "count": 1
+    },
+    {
+     "ko": "퓔크루크",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1175,8 +1175,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 450,
-   "llm": 450
+   "collected": 452,
+   "llm": 452
   }
  },
  "llmErrors": []
