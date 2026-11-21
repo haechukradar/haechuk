@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T11:18:18.146Z",
+ "updatedAt": "2026-11-21T12:10:42.425Z",
  "hot": [
-  "newcastle-arsenal-2026-11-22",
-  "kane-olise-injury",
-  "liverpool-man-utd-2026-11-22",
   "kane-injury",
-  "pochettino-man-utd-manager-future"
+  "man-city-fulham-2026-11-20",
+  "newcastle-arsenal-2026-11-22",
+  "liverpool-man-utd-2026-11-22",
+  "kane-olise-injury"
  ],
  "days": [
   "2026-10-18",
@@ -44,20 +44,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 1,
+   "items": 77,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,25 +93,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 4,
    "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -124,7 +124,7 @@
    "ok": true,
    "items": 40,
    "added": 1,
-   "authorRate": 90
+   "authorRate": 88
   },
   "waz": {
    "ok": true,
@@ -135,7 +135,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
@@ -153,13 +153,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -176,7 +176,7 @@
   },
   "sun": {
    "ok": true,
-   "items": 29,
+   "items": 23,
    "added": 1,
    "authorRate": 100
   },
@@ -194,8 +194,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 15,
-   "added": 0,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -206,7 +206,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 59
+   "count": 60
   },
   {
    "name": "프레스티아니",
@@ -322,7 +322,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
+  "recentIssues": 198,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -331,7 +331,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 23
+    "count": 24
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -376,29 +376,11 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 12
+     "count": 13
     },
     {
      "ko": "모리뉴",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 퐁세카",
-     "count": 6
-    },
-    {
-     "ko": "파울루 폰세카",
-     "count": 5
-    },
-    {
-     "ko": "폰세카",
-     "count": 2
     }
    ]
   },
@@ -417,6 +399,24 @@
     {
      "ko": "하이슬레",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 퐁세카",
+     "count": 6
+    },
+    {
+     "ko": "파울루 폰세카",
+     "count": 4
+    },
+    {
+     "ko": "폰세카",
+     "count": 2
     }
    ]
   },
@@ -481,16 +481,16 @@
    ]
   },
   {
-   "en": "José Mourinho",
+   "en": "Mikey Moore",
    "dictionary": null,
    "variants": [
     {
-     "ko": "무리뉴",
-     "count": 3
+     "ko": "마이키 무어",
+     "count": 2
     },
     {
-     "ko": "모리뉴",
-     "count": 1
+     "ko": "미키 무어",
+     "count": 2
     }
    ]
   },
@@ -527,15 +527,15 @@
    ]
   },
   {
-   "en": "Mikey Moore",
+   "en": "José Mourinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마이키 무어",
+     "ko": "무리뉴",
      "count": 2
     },
     {
-     "ko": "미키 무어",
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -784,48 +784,6 @@
     },
     {
      "ko": "조르주 미카우타제",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Arda Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아르다 귈러",
-     "count": 1
-    },
-    {
-     "ko": "아르다 귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rosenior",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "로지오르",
-     "count": 1
-    },
-    {
-     "ko": "로즈니어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jean-Michel Aulas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "장미셸 오뷔 아울라스",
-     "count": 1
-    },
-    {
-     "ko": "오라스",
      "count": 1
     }
    ]
@@ -1095,6 +1053,48 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Fernando Gomes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르난두 고메스",
+     "count": 1
+    },
+    {
+     "ko": "페르난도 고메스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gilberto Batista",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "질베르투 바티스타",
+     "count": 1
+    },
+    {
+     "ko": "길베르투 바티스타",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marquinhos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르키뇨스",
+     "count": 1
+    },
+    {
+     "ko": "마르키뉴스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1187,8 +1187,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 667,
-   "llm": 667
+   "collected": 695,
+   "llm": 695
   }
  },
  "llmErrors": []
