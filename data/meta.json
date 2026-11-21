@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T17:14:38.013Z",
+ "updatedAt": "2026-11-21T17:57:13.514Z",
  "hot": [
+  "chelsea-leeds-2026-11-22",
   "man-city-fulham-2026-11-20",
-  "nice-psg-2026-11-21",
-  "kane-injury",
+  "newcastle-arsenal-2026-11-22",
   "tottenham-ipswich-2026-11-22",
-  "newcastle-arsenal-2026-11-22"
+  "nice-psg-2026-11-21"
  ],
  "days": [
   "2026-10-18",
@@ -45,20 +45,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 56,
-   "added": 0,
+   "items": 50,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 60,
-   "added": 1,
+   "items": 64,
+   "added": 4,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 15,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 10,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -100,13 +100,13 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 94
+   "added": 9,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -124,8 +124,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
-   "authorRate": 83
+   "added": 1,
+   "authorRate": 80
   },
   "waz": {
    "ok": true,
@@ -142,12 +142,14 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 20,
+   "added": 19,
+   "authorRate": 0
   },
   "fotomac": {
    "ok": true,
@@ -158,26 +160,26 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 8,
-   "added": 2,
-   "authorRate": 100
+   "items": 9,
+   "added": 3,
+   "authorRate": 89
   },
   "star": {
    "ok": true,
@@ -188,13 +190,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 0,
+   "items": 12,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -216,15 +218,15 @@
    "count": 40
   },
   {
+   "name": "루카쿠",
+   "count": 40
+  },
+  {
    "name": "맥스 다우먼",
    "count": 39
   },
   {
    "name": "잭 그릴리시",
-   "count": 39
-  },
-  {
-   "name": "루카쿠",
    "count": 39
   },
   {
@@ -321,24 +323,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
-  "singleArticleRate": 45,
+  "recentIssues": 203,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 93
+    "count": 94
    },
    {
     "slug": "man-city-fulham-2026-11-20",
-    "count": 31
+    "count": 33
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 23
+    "count": 24
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -350,6 +352,10 @@
    },
    {
     "slug": "infantino-fifa-affairs-election-candidacy",
+    "count": 17
+   },
+   {
+    "slug": "chelsea-leeds-2026-11-22",
     "count": 16
    },
    {
@@ -419,7 +425,29 @@
     },
     {
      "ko": "폰세카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르쿠 실바",
      "count": 2
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 1
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 1
     }
    ]
   },
@@ -448,24 +476,6 @@
     {
      "ko": "루멘니게",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 2
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 1
     }
    ]
   },
@@ -516,6 +526,24 @@
    ]
   },
   {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄스-바넷",
+     "count": 2
+    },
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 1
+    },
+    {
+     "ko": "루카 윌리엄스-바넷",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Agostinho Bento",
    "dictionary": null,
    "variants": [
@@ -543,20 +571,6 @@
     },
     {
      "ko": "키에런 매과이어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lampard",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "램파드",
-     "count": 2
-    },
-    {
-     "ko": "램퍼드",
      "count": 1
     }
    ]
@@ -593,6 +607,24 @@
     },
     {
      "ko": "케르케스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Quenda",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퀜다",
+     "count": 1
+    },
+    {
+     "ko": "케다",
+     "count": 1
+    },
+    {
+     "ko": "케르다",
      "count": 1
     }
    ]
@@ -722,6 +754,38 @@
    ]
   },
   {
+   "en": "Evanilson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에바닐손",
+     "count": 2
+    },
+    {
+     "ko": "에바닐송",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Emegha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엠에가",
+     "count": 1
+    },
+    {
+     "ko": "에메냐",
+     "count": 1
+    },
+    {
+     "ko": "에메그하",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mille",
    "dictionary": null,
    "variants": [
@@ -820,6 +884,20 @@
    ]
   },
   {
+   "en": "Lampard",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "램파드",
+     "count": 1
+    },
+    {
+     "ko": "램퍼드",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Emma Hayes",
    "dictionary": null,
    "variants": [
@@ -843,20 +921,6 @@
     },
     {
      "ko": "미셸 강",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Quenda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퀜다",
-     "count": 1
-    },
-    {
-     "ko": "케다",
      "count": 1
     }
    ]
@@ -1056,48 +1120,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 1
-    },
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Philippe Clement",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클레멘트",
-     "count": 1
-    },
-    {
-     "ko": "필리프 클레망",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kniat",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크니아츠",
-     "count": 1
-    },
-    {
-     "ko": "크니아트",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1194,8 +1216,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 142,
-   "llm": 142
+   "collected": 231,
+   "llm": 231
   }
  },
  "llmErrors": []
