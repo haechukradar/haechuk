@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T14:08:09.703Z",
+ "updatedAt": "2026-11-21T14:58:28.038Z",
  "hot": [
-  "kane-injury",
   "man-city-fulham-2026-11-20",
-  "pochettino-man-utd-manager-future",
+  "kane-injury",
   "gladbach-dortmund-2026-11-19",
-  "newcastle-arsenal-2026-11-22"
+  "pochettino-man-utd-manager-future",
+  "chelsea-affairs-tom-brady-stake"
  ],
  "days": [
   "2026-10-18",
@@ -44,14 +44,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 71,
+   "items": 67,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 0,
+   "added": 3,
    "authorRate": 97
   },
   "sky": {
@@ -69,7 +69,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -105,13 +105,13 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -123,7 +123,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -147,19 +147,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 7,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -171,19 +171,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 24,
+   "items": 4,
    "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -194,8 +194,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 0,
+   "items": 12,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -265,12 +265,12 @@
    "count": 19
   },
   {
-   "name": "트레솔디",
+   "name": "반 다이크",
    "count": 19
   },
   {
-   "name": "반 다이크",
-   "count": 18
+   "name": "트레솔디",
+   "count": 19
   },
   {
    "name": "지단",
@@ -322,12 +322,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 196,
+  "recentIssues": 199,
   "singleArticleRate": 45,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 100
+    "count": 101
+   },
+   {
+    "slug": "man-city-fulham-2026-11-20",
+    "count": 26
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -338,16 +342,12 @@
     "count": 21
    },
    {
+    "slug": "newcastle-arsenal-2026-11-22",
+    "count": 20
+   },
+   {
     "slug": "man-city-affairs-charges-20261119",
     "count": 18
-   },
-   {
-    "slug": "newcastle-arsenal-2026-11-22",
-    "count": 18
-   },
-   {
-    "slug": "man-city-fulham-2026-11-20",
-    "count": 15
    },
    {
     "slug": "infantino-fifa-affairs-election-candidacy",
@@ -380,7 +380,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 14
+     "count": 13
     },
     {
      "ko": "모리뉴",
@@ -512,20 +512,6 @@
     },
     {
      "ko": "카이 루니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "José Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 2
-    },
-    {
-     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -759,11 +745,11 @@
      "count": 1
     },
     {
-     "ko": "마르키뉴스",
+     "ko": "마르퀴뇨스",
      "count": 1
     },
     {
-     "ko": "마르퀴뇨스",
+     "ko": "마르키뉴스",
      "count": 1
     }
    ]
@@ -778,20 +764,6 @@
     },
     {
      "ko": "밀레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kniat",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크니아츠",
-     "count": 1
-    },
-    {
-     "ko": "크니아트",
      "count": 1
     }
    ]
@@ -965,6 +937,20 @@
    ]
   },
   {
+   "en": "Jose Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모리뉴",
+     "count": 1
+    },
+    {
+     "ko": "무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Justin Devenny",
    "dictionary": null,
    "variants": [
@@ -1091,6 +1077,20 @@
    ]
   },
   {
+   "en": "Kniat",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크니아트",
+     "count": 1
+    },
+    {
+     "ko": "크니아츠",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jesus Owono",
    "dictionary": null,
    "variants": [
@@ -1195,8 +1195,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 784,
-   "llm": 784
+   "collected": 829,
+   "llm": 829
   }
  },
  "llmErrors": []
