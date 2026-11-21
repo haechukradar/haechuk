@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T09:31:31.694Z",
+ "updatedAt": "2026-11-21T10:29:38.852Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
   "chelsea-affairs-tom-brady-stake",
-  "kane-olise-injury"
+  "man-city-fulham-2026-11-20"
  ],
  "days": [
   "2026-10-18",
@@ -57,7 +57,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,7 +93,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
@@ -105,13 +105,13 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -123,7 +123,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 90
   },
   "waz": {
@@ -141,7 +141,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -177,7 +177,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -194,15 +194,15 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 15,
+   "added": 6,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 81
+   "count": 82
   },
   {
    "name": "JJ 가브리엘",
@@ -261,12 +261,12 @@
    "count": 22
   },
   {
-   "name": "트레솔디",
+   "name": "티에르노 배리",
    "count": 19
   },
   {
-   "name": "티에르노 배리",
-   "count": 18
+   "name": "트레솔디",
+   "count": 19
   },
   {
    "name": "반 다이크",
@@ -323,11 +323,11 @@
  ],
  "issueHealth": {
   "recentIssues": 206,
-  "singleArticleRate": 46,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 107
+    "count": 104
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -338,12 +338,12 @@
     "count": 21
    },
    {
-    "slug": "newcastle-arsenal-2026-11-22",
+    "slug": "man-city-affairs-charges-20261119",
     "count": 18
    },
    {
-    "slug": "man-city-affairs-charges-20261119",
-    "count": 17
+    "slug": "newcastle-arsenal-2026-11-22",
+    "count": 18
    },
    {
     "slug": "infantino-fifa-affairs-election-candidacy",
@@ -408,7 +408,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "마티아스 야이슬레",
@@ -426,7 +426,7 @@
    "variants": [
     {
      "ko": "스테판 보슨",
-     "count": 4
+     "count": 5
     },
     {
      "ko": "스테판 보르손",
@@ -444,24 +444,6 @@
     },
     {
      "ko": "카이 루니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Antonio Nusa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니오 누사",
-     "count": 3
-    },
-    {
-     "ko": "안토니 누사",
-     "count": 1
-    },
-    {
-     "ko": "누사",
      "count": 1
     }
    ]
@@ -513,20 +495,6 @@
    ]
   },
   {
-   "en": "Vasco Peso",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스쿠 페소",
-     "count": 3
-    },
-    {
-     "ko": "바스코 페소",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -564,24 +532,6 @@
     },
     {
      "ko": "아르다 귈레르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kozo Tashima",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "타시마 고조",
-     "count": 1
-    },
-    {
-     "ko": "타시마",
-     "count": 1
-    },
-    {
-     "ko": "코조 타시마",
      "count": 1
     }
    ]
@@ -651,6 +601,24 @@
    ]
   },
   {
+   "en": "Antonio Nusa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "안토니오 누사",
+     "count": 1
+    },
+    {
+     "ko": "안토니 누사",
+     "count": 1
+    },
+    {
+     "ko": "누사",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Emma Hayes",
    "dictionary": null,
    "variants": [
@@ -710,6 +678,24 @@
     },
     {
      "ko": "부코비치",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thioune",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티우네",
+     "count": 1
+    },
+    {
+     "ko": "투운",
+     "count": 1
+    },
+    {
+     "ko": "티운",
      "count": 1
     }
    ]
@@ -1023,20 +1009,6 @@
    ]
   },
   {
-   "en": "Thioune",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티우네",
-     "count": 1
-    },
-    {
-     "ko": "투운",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Justin Devenny",
    "dictionary": null,
    "variants": [
@@ -1088,6 +1060,34 @@
     },
     {
      "ko": "인야시오",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Emanuel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드로 에마누엘",
+     "count": 1
+    },
+    {
+     "ko": "페드루 에마누엘",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jules Ahoka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "줄스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "주스 아호카",
      "count": 1
     }
    ]
@@ -1183,8 +1183,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 621,
-   "llm": 621
+   "collected": 642,
+   "llm": 642
   }
  },
  "llmErrors": []
