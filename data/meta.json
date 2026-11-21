@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T07:54:28.322Z",
+ "updatedAt": "2026-11-21T08:42:59.344Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
-  "kane-olise-injury",
   "liverpool-man-utd-2026-11-22",
-  "man-city-fulham-2026-11-20",
-  "chelsea-leeds-2026-11-22"
+  "chelsea-affairs-tom-brady-stake",
+  "kane-olise-injury",
+  "man-city-fulham-2026-11-20"
  ],
  "days": [
   "2026-10-18",
@@ -50,14 +50,14 @@
   },
   "guardian": {
    "ok": true,
-   "items": 58,
+   "items": 59,
    "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 11,
    "authorRate": 100
   },
   "gazzetta": {
@@ -99,31 +99,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 11,
-   "authorRate": 94
+   "added": 3,
+   "authorRate": 96
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 90
   },
   "waz": {
@@ -135,7 +135,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
@@ -147,55 +147,55 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 23,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
-   "added": 4,
+   "items": 9,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -222,7 +222,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 38
+   "count": 39
   },
   {
    "name": "호나우지뉴",
@@ -322,16 +322,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 205,
-  "singleArticleRate": 45,
+  "recentIssues": 206,
+  "singleArticleRate": 46,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 116
+    "count": 112
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 21
+    "count": 23
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -340,6 +340,10 @@
    {
     "slug": "man-city-affairs-charges-20261119",
     "count": 17
+   },
+   {
+    "slug": "newcastle-arsenal-2026-11-22",
+    "count": 16
    },
    {
     "slug": "infantino-fifa-affairs-election-candidacy",
@@ -481,6 +485,24 @@
    ]
   },
   {
+   "en": "Francisco Moura",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프란시스쿠 모우라",
+     "count": 2
+    },
+    {
+     "ko": "모우라",
+     "count": 2
+    },
+    {
+     "ko": "프란시스코 모우라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "José Mourinho",
    "dictionary": null,
    "variants": [
@@ -509,28 +531,6 @@
    ]
   },
   {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부스코비치",
-     "count": 1
-    },
-    {
-     "ko": "부치치",
-     "count": 1
-    },
-    {
-     "ko": "부쉬코비치",
-     "count": 1
-    },
-    {
-     "ko": "부코비치",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -540,6 +540,20 @@
     },
     {
      "ko": "빅터 브루노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mikey Moore",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마이키 무어",
+     "count": 2
+    },
+    {
+     "ko": "미키 무어",
      "count": 1
     }
    ]
@@ -586,20 +600,6 @@
     },
     {
      "ko": "카를루스 포브스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Quenda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퀜다",
-     "count": 2
-    },
-    {
-     "ko": "케다",
      "count": 1
     }
    ]
@@ -697,6 +697,24 @@
    ]
   },
   {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부치치",
+     "count": 1
+    },
+    {
+     "ko": "부쉬코비치",
+     "count": 1
+    },
+    {
+     "ko": "부코비치",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Frick",
    "dictionary": null,
    "variants": [
@@ -720,20 +738,6 @@
     },
     {
      "ko": "시체프첸코",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Francisco Moura",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프란시스쿠 모우라",
-     "count": 2
-    },
-    {
-     "ko": "프란시스코 모우라",
      "count": 1
     }
    ]
@@ -935,6 +939,20 @@
    ]
   },
   {
+   "en": "Quenda",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퀜다",
+     "count": 1
+    },
+    {
+     "ko": "케다",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Pereira",
    "dictionary": null,
    "variants": [
@@ -1073,20 +1091,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Carlos Vicens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 비센스",
-     "count": 1
-    },
-    {
-     "ko": "카를로스 비첸스",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1179,8 +1183,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 561,
-   "llm": 561
+   "collected": 599,
+   "llm": 599
   }
  },
  "llmErrors": []
