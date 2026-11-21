@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T21:52:45.821Z",
+ "updatedAt": "2026-11-21T22:30:22.354Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
-  "sevilla-betis-2026-11-21",
-  "raya-injury",
+  "real-madrid-celta-2026-11-22",
   "pochettino-man-utd-manager-future",
-  "chelsea-leeds-2026-11-22"
+  "sevilla-betis-2026-11-21",
+  "raya-injury"
  ],
  "days": [
   "2026-10-18",
@@ -45,8 +45,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 60,
-   "added": 1,
+   "items": 61,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,32 +94,26 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 88
+   "added": 9,
+   "authorRate": 86
   },
   "fblondon": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
+   "ok": false,
+   "error": "HTTP 403"
   },
   "men": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
+   "ok": false,
+   "error": "HTTP 403"
   },
   "lecho": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
+   "ok": false,
+   "error": "HTTP 403"
   },
   "tz": {
    "ok": true,
@@ -160,42 +154,34 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
-   "authorRate": 100
-  },
-  "stoke": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
-  },
-  "chronicle": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
-  },
-  "sun": {
-   "ok": true,
-   "items": 22,
-   "added": 3,
-   "authorRate": 95
-  },
-  "star": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
-  },
-  "mirror": {
-   "ok": true,
-   "items": 25,
    "added": 1,
    "authorRate": 100
   },
+  "stoke": {
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  "chronicle": {
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  "sun": {
+   "ok": true,
+   "items": 24,
+   "added": 3,
+   "authorRate": 96
+  },
+  "star": {
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  "mirror": {
+   "ok": false,
+   "error": "HTTP 403"
+  },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 15,
    "added": 0,
    "authorRate": 0
   }
@@ -324,7 +310,7 @@
  ],
  "issueHealth": {
   "recentIssues": 199,
-  "singleArticleRate": 40,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -344,7 +330,7 @@
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
-    "count": 22
+    "count": 23
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -403,7 +389,7 @@
    "variants": [
     {
      "ko": "파울루 퐁세카",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "파울루 폰세카",
@@ -699,6 +685,20 @@
     },
     {
      "ko": "마이키 무어",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Vicens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 비센스",
+     "count": 2
+    },
+    {
+     "ko": "카를로스 비첸스",
      "count": 1
     }
    ]
@@ -1090,29 +1090,15 @@
    ]
   },
   {
-   "en": "Carlos Vicens",
+   "en": "Vítor Pinto",
    "dictionary": null,
    "variants": [
     {
-     "ko": "카를로스 비센스",
+     "ko": "비토르 피뇨",
      "count": 1
     },
     {
-     "ko": "카를로스 비첸스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Fernando Gomes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르난두 고메스",
-     "count": 1
-    },
-    {
-     "ko": "페르난도 고메스",
+     "ko": "비토르 핀투",
      "count": 1
     }
    ]
@@ -1212,8 +1198,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 492,
-   "llm": 492
+   "collected": 521,
+   "llm": 521
   }
  },
  "llmErrors": []
