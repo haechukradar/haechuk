@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T21:11:26.881Z",
+ "updatedAt": "2026-11-21T21:52:45.821Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
+  "sevilla-betis-2026-11-21",
+  "raya-injury",
   "pochettino-man-utd-manager-future",
-  "tottenham-ipswich-2026-11-22",
-  "chelsea-leeds-2026-11-22",
-  "sevilla-betis-2026-11-21"
+  "chelsea-leeds-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,7 +46,7 @@
   "bbc": {
    "ok": true,
    "items": 60,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,19 +94,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 92
+   "added": 3,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -142,13 +142,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -172,31 +172,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 19,
+   "items": 22,
    "added": 3,
    "authorRate": 95
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 15,
-   "added": 3,
+   "items": 10,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
+  "recentIssues": 199,
   "singleArticleRate": 40,
   "broad": [
    {
@@ -332,7 +332,7 @@
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 44
+    "count": 46
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -351,11 +351,11 @@
     "count": 21
    },
    {
-    "slug": "infantino-fifa-affairs-election-candidacy",
-    "count": 18
+    "slug": "man-city-affairs-charges-20261119",
+    "count": 19
    },
    {
-    "slug": "man-city-affairs-charges-20261119",
+    "slug": "infantino-fifa-affairs-election-candidacy",
     "count": 18
    },
    {
@@ -1212,8 +1212,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 463,
-   "llm": 463
+   "collected": 492,
+   "llm": 492
   }
  },
  "llmErrors": []
