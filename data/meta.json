@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T03:32:08.672Z",
+ "updatedAt": "2026-11-21T04:38:06.191Z",
  "hot": [
   "kane-olise-injury",
   "pochettino-man-utd-manager-future",
+  "bayern-koln-2026-11-19",
   "musiala-bayern-transfer",
-  "chelsea-affairs-tom-brady-stake",
-  "bayern-koln-2026-11-19"
+  "man-city-fulham-2026-11-20"
  ],
  "days": [
   "2026-10-18",
@@ -57,7 +57,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -111,7 +111,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -123,8 +123,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 93
+   "added": 2,
+   "authorRate": 90
   },
   "waz": {
    "ok": true,
@@ -147,13 +147,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 9,
    "authorRate": 0
   },
   "hln": {
@@ -210,7 +210,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 44
+   "count": 45
   },
   {
    "name": "오워노",
@@ -508,20 +508,6 @@
     },
     {
      "ko": "부코비치",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Cláudio Ramos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클라우디우 호스",
-     "count": 3
-    },
-    {
-     "ko": "클라우디오 호스",
      "count": 1
     }
    ]
@@ -1083,6 +1069,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Henri Koudossou",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헨리 쿠두수",
+     "count": 1
+    },
+    {
+     "ko": "앙리 쿠두수",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1175,8 +1175,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 452,
-   "llm": 452
+   "collected": 466,
+   "llm": 466
   }
  },
  "llmErrors": []
