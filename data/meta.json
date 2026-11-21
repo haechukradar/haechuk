@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T12:10:42.425Z",
+ "updatedAt": "2026-11-21T13:08:03.902Z",
  "hot": [
-  "kane-injury",
   "man-city-fulham-2026-11-20",
+  "kane-injury",
+  "pochettino-man-utd-manager-future",
   "newcastle-arsenal-2026-11-22",
-  "liverpool-man-utd-2026-11-22",
-  "kane-olise-injury"
+  "liverpool-man-utd-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -44,32 +44,32 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
+   "items": 75,
    "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 25,
+   "added": 3,
+   "authorRate": 80
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,13 +93,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 11,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 3,
    "authorRate": 94
   },
   "fblondon": {
@@ -117,7 +117,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -153,19 +153,19 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 23,
-   "added": 0,
+   "items": 24,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -177,7 +177,7 @@
   "sun": {
    "ok": true,
    "items": 23,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -189,13 +189,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 13,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -322,7 +322,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 198,
+  "recentIssues": 195,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -449,20 +449,6 @@
    ]
   },
   {
-   "en": "Kai",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카이",
-     "count": 4
-    },
-    {
-     "ko": "카이 루니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -522,6 +508,20 @@
     },
     {
      "ko": "빅터 브루노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kai",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카이",
+     "count": 3
+    },
+    {
+     "ko": "카이 루니",
      "count": 1
     }
    ]
@@ -756,34 +756,6 @@
     },
     {
      "ko": "밀레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Simon Ebonog",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사이먼 에보노그",
-     "count": 1
-    },
-    {
-     "ko": "시몬 에보농",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Georges Mikautadze",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미카우타드제",
-     "count": 1
-    },
-    {
-     "ko": "조르주 미카우타제",
      "count": 1
     }
    ]
@@ -1095,6 +1067,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jesus Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호세스 오노노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오노노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Urbig",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "우르비히",
+     "count": 1
+    },
+    {
+     "ko": "우르빅",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1187,8 +1187,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 695,
-   "llm": 695
+   "collected": 738,
+   "llm": 738
   }
  },
  "llmErrors": []
