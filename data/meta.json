@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T00:17:54.419Z",
+ "updatedAt": "2026-11-21T01:44:12.340Z",
  "hot": [
   "kane-olise-injury",
   "pochettino-man-utd-manager-future",
@@ -57,7 +57,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -69,7 +69,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,13 +93,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 86
   },
   "fblondon": {
@@ -177,7 +177,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -194,7 +194,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -763,20 +763,6 @@
    ]
   },
   {
-   "en": "Mille",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "밀",
-     "count": 2
-    },
-    {
-     "ko": "밀레",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Francisco Moura",
    "dictionary": null,
    "variants": [
@@ -786,6 +772,20 @@
     },
     {
      "ko": "프란시스코 모우라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mille",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "밀",
+     "count": 2
+    },
+    {
+     "ko": "밀레",
      "count": 1
     }
    ]
@@ -912,20 +912,6 @@
     },
     {
      "ko": "파스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tiago Margarido",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티아구 마가리두",
-     "count": 1
-    },
-    {
-     "ko": "티아고 마가리두",
      "count": 1
     }
    ]
@@ -1083,6 +1069,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Thioune",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티우네",
+     "count": 1
+    },
+    {
+     "ko": "투운",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1175,8 +1175,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 442,
-   "llm": 442
+   "collected": 450,
+   "llm": 450
   }
  },
  "llmErrors": []
