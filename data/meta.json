@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T17:57:13.514Z",
+ "updatedAt": "2026-11-21T18:38:58.563Z",
  "hot": [
   "chelsea-leeds-2026-11-22",
   "man-city-fulham-2026-11-20",
-  "newcastle-arsenal-2026-11-22",
-  "tottenham-ipswich-2026-11-22",
-  "nice-psg-2026-11-21"
+  "nottingham-forest-bournemouth-2026-11-21",
+  "musiala-bayern-transfer",
+  "newcastle-arsenal-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -45,20 +45,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 50,
-   "added": 2,
+   "items": 52,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 4,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,19 +94,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 14,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
-   "authorRate": 92
+   "added": 2,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
@@ -118,14 +118,14 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
    "added": 1,
-   "authorRate": 80
+   "authorRate": 78
   },
   "waz": {
    "ok": true,
@@ -136,7 +136,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,43 +160,43 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 9,
-   "added": 3,
-   "authorRate": 89
+   "items": 11,
+   "added": 2,
+   "authorRate": 91
   },
   "star": {
-   "ok": true,
-   "items": 25,
-   "added": 1,
-   "authorRate": 100
-  },
-  "mirror": {
    "ok": true,
    "items": 25,
    "added": 0,
    "authorRate": 100
   },
+  "mirror": {
+   "ok": true,
+   "items": 25,
+   "added": 1,
+   "authorRate": 100
+  },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 5,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -302,6 +302,10 @@
    "count": 16
   },
   {
+   "name": "트루빈",
+   "count": 16
+  },
+  {
    "name": "벤 화이트",
    "count": 16
   },
@@ -314,21 +318,17 @@
    "count": 15
   },
   {
-   "name": "트루빈",
-   "count": 15
-  },
-  {
    "name": "알렉스 스콧",
    "count": 14
   }
  ],
  "issueHealth": {
-  "recentIssues": 203,
-  "singleArticleRate": 44,
+  "recentIssues": 201,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 94
+    "count": 93
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -347,16 +347,16 @@
     "count": 21
    },
    {
+    "slug": "chelsea-leeds-2026-11-22",
+    "count": 18
+   },
+   {
     "slug": "man-city-affairs-charges-20261119",
     "count": 18
    },
    {
     "slug": "infantino-fifa-affairs-election-candidacy",
     "count": 17
-   },
-   {
-    "slug": "chelsea-leeds-2026-11-22",
-    "count": 16
    },
    {
     "slug": "man-utd-affairs-drone-footage",
@@ -380,20 +380,6 @@
    ]
   },
   {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 12
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Matthias Jaissle",
    "dictionary": null,
    "variants": [
@@ -407,6 +393,20 @@
     },
     {
      "ko": "하이슬레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 11
+    },
+    {
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -434,12 +434,12 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르코 실바",
-     "count": 3
+     "ko": "마르쿠 실바",
+     "count": 4
     },
     {
-     "ko": "마르쿠 실바",
-     "count": 2
+     "ko": "마르코 실바",
+     "count": 3
     },
     {
      "ko": "마르코 시우바",
@@ -476,6 +476,20 @@
     {
      "ko": "루멘니게",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄스-바넷",
+     "count": 5
+    },
+    {
+     "ko": "윌리엄스바넷",
+     "count": 1
     }
    ]
   },
@@ -526,6 +540,20 @@
    ]
   },
   {
+   "en": "Frick",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프릭",
+     "count": 3
+    },
+    {
+     "ko": "프리크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -539,6 +567,20 @@
     },
     {
      "ko": "루카 윌리엄스-바넷",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Nmecha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "은메차",
+     "count": 3
+    },
+    {
+     "ko": "누메차",
      "count": 1
     }
    ]
@@ -612,38 +654,6 @@
    ]
   },
   {
-   "en": "Quenda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퀜다",
-     "count": 1
-    },
-    {
-     "ko": "케다",
-     "count": 1
-    },
-    {
-     "ko": "케르다",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Roberto Martínez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "로베르토 마르티네스",
-     "count": 2
-    },
-    {
-     "ko": "로베르투 마르티네스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vuskovic",
    "dictionary": null,
    "variants": [
@@ -689,20 +699,6 @@
     },
     {
      "ko": "앨런 셔러",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Frick",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프릭",
-     "count": 2
-    },
-    {
-     "ko": "프리크",
      "count": 1
     }
    ]
@@ -776,11 +772,11 @@
      "count": 1
     },
     {
-     "ko": "에메냐",
+     "ko": "에메그하",
      "count": 1
     },
     {
-     "ko": "에메그하",
+     "ko": "에메냐",
      "count": 1
     }
    ]
@@ -795,6 +791,34 @@
     },
     {
      "ko": "밀레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "팀 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "티미 시몬스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keating",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키팅",
+     "count": 2
+    },
+    {
+     "ko": "키닝",
      "count": 1
     }
    ]
@@ -898,6 +922,20 @@
    ]
   },
   {
+   "en": "Glasner",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "글래스너",
+     "count": 1
+    },
+    {
+     "ko": "글라스너",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Emma Hayes",
    "dictionary": null,
    "variants": [
@@ -926,15 +964,15 @@
    ]
   },
   {
-   "en": "Paulo Pereira",
+   "en": "Quenda",
    "dictionary": null,
    "variants": [
     {
-     "ko": "파울로 페레이라",
+     "ko": "퀜다",
      "count": 1
     },
     {
-     "ko": "파울루 페레이라",
+     "ko": "케르다",
      "count": 1
     }
    ]
@@ -1038,6 +1076,20 @@
    ]
   },
   {
+   "en": "Roberto Martínez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "로베르토 마르티네스",
+     "count": 1
+    },
+    {
+     "ko": "로베르투 마르티네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Inacio",
    "dictionary": null,
    "variants": [
@@ -1061,62 +1113,6 @@
     },
     {
      "ko": "페드루 에마누엘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jules Ahoka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "줄스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "주스 아호카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Vicens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 비센스",
-     "count": 1
-    },
-    {
-     "ko": "카를로스 비첸스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Fernando Gomes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르난두 고메스",
-     "count": 1
-    },
-    {
-     "ko": "페르난도 고메스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gilberto Batista",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "질베르투 바티스타",
-     "count": 1
-    },
-    {
-     "ko": "길베르투 바티스타",
      "count": 1
     }
    ]
@@ -1216,8 +1212,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 231,
-   "llm": 231
+   "collected": 285,
+   "llm": 285
   }
  },
  "llmErrors": []
