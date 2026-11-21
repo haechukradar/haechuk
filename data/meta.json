@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T06:40:32.734Z",
+ "updatedAt": "2026-11-21T07:54:28.322Z",
  "hot": [
+  "newcastle-arsenal-2026-11-22",
   "kane-olise-injury",
   "liverpool-man-utd-2026-11-22",
-  "pochettino-man-utd-manager-future",
-  "chelsea-affairs-tom-brady-stake",
-  "bayern-koln-2026-11-19"
+  "man-city-fulham-2026-11-20",
+  "chelsea-leeds-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -50,14 +50,14 @@
   },
   "guardian": {
    "ok": true,
-   "items": 59,
-   "added": 0,
+   "items": 58,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -99,31 +99,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 88
+   "added": 11,
+   "authorRate": 94
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 90
   },
   "waz": {
@@ -135,7 +135,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -147,7 +147,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -159,50 +159,50 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 22,
-   "added": 0,
+   "items": 23,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 0,
-   "added": 0,
+   "items": 4,
+   "added": 4,
    "authorRate": 0
   }
  },
  "playerCandidates": [
   {
    "name": "헤수스 데 미겔",
-   "count": 80
+   "count": 81
   },
   {
    "name": "JJ 가브리엘",
@@ -249,16 +249,16 @@
    "count": 34
   },
   {
+   "name": "이스테방",
+   "count": 25
+  },
+  {
    "name": "알리송",
    "count": 25
   },
   {
-   "name": "이스테방",
-   "count": 24
-  },
-  {
    "name": "루이스 홀",
-   "count": 21
+   "count": 22
   },
   {
    "name": "트레솔디",
@@ -322,20 +322,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
-  "singleArticleRate": 44,
+  "recentIssues": 205,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 119
+    "count": 116
+   },
+   {
+    "slug": "liverpool-man-utd-2026-11-22",
+    "count": 21
    },
    {
     "slug": "bayern-koln-2026-11-19",
     "count": 21
-   },
-   {
-    "slug": "liverpool-man-utd-2026-11-22",
-    "count": 20
    },
    {
     "slug": "man-city-affairs-charges-20261119",
@@ -404,7 +404,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "마티아스 야이슬레",
@@ -440,20 +440,6 @@
     },
     {
      "ko": "카이 루니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vasco Peso",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스쿠 페소",
-     "count": 4
-    },
-    {
-     "ko": "바스코 페소",
      "count": 1
     }
    ]
@@ -509,15 +495,15 @@
    ]
   },
   {
-   "en": "Carlos Forbs",
+   "en": "Vasco Peso",
    "dictionary": null,
    "variants": [
     {
-     "ko": "카를로스 포브스",
+     "ko": "바스쿠 페소",
      "count": 3
     },
     {
-     "ko": "카를루스 포브스",
+     "ko": "바스코 페소",
      "count": 1
     }
    ]
@@ -586,6 +572,20 @@
     },
     {
      "ko": "코조 타시마",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Carlos Forbs",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 포브스",
+     "count": 2
+    },
+    {
+     "ko": "카를루스 포브스",
      "count": 1
     }
    ]
@@ -823,34 +823,6 @@
    ]
   },
   {
-   "en": "Regis Le Bris",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "레 브리스",
-     "count": 1
-    },
-    {
-     "ko": "레지스 르 브리스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Folarin Balogun",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "폴라린 발룬",
-     "count": 1
-    },
-    {
-     "ko": "폴라린 발로군",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -874,6 +846,20 @@
     },
     {
      "ko": "브루노 페르난데스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sascha Mölders",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사샤 묄더스",
+     "count": 1
+    },
+    {
+     "ko": "사샤 뮐더스",
      "count": 1
     }
    ]
@@ -1087,6 +1073,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Carlos Vicens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 비센스",
+     "count": 1
+    },
+    {
+     "ko": "카를로스 비첸스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1179,8 +1179,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 510,
-   "llm": 510
+   "collected": 561,
+   "llm": 561
   }
  },
  "llmErrors": []
