@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T22:30:22.354Z",
+ "updatedAt": "2026-11-21T23:19:44.139Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
   "real-madrid-celta-2026-11-22",
@@ -46,19 +46,19 @@
   "bbc": {
    "ok": true,
    "items": 61,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -100,20 +100,26 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
-   "authorRate": 86
+   "added": 5,
+   "authorRate": 88
   },
   "fblondon": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "men": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 1,
+   "authorRate": 100
   },
   "lecho": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "tz": {
    "ok": true,
@@ -142,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -154,34 +160,42 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "chronicle": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 24,
-   "added": 3,
+   "added": 1,
    "authorRate": 96
   },
   "star": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "mirror": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 15,
+   "items": 5,
    "added": 0,
    "authorRate": 0
   }
@@ -309,12 +323,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 199,
-  "singleArticleRate": 39,
+  "recentIssues": 197,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 94
+    "count": 92
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -375,7 +389,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 11
+     "count": 12
     },
     {
      "ko": "모리뉴",
@@ -429,7 +443,7 @@
    "variants": [
     {
      "ko": "윌리엄스-바넷",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "윌리엄스바넷",
@@ -657,6 +671,20 @@
     },
     {
      "ko": "투운",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marvin Compper",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마빈 콤퍼",
+     "count": 2
+    },
+    {
+     "ko": "마르빈 콤퍼",
      "count": 1
     }
    ]
@@ -1088,20 +1116,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Vítor Pinto",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 피뇨",
-     "count": 1
-    },
-    {
-     "ko": "비토르 핀투",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1198,8 +1212,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 521,
-   "llm": 521
+   "collected": 551,
+   "llm": 551
   }
  },
  "llmErrors": []
