@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T05:38:19.931Z",
+ "updatedAt": "2026-11-21T06:40:32.734Z",
  "hot": [
   "kane-olise-injury",
+  "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
   "chelsea-affairs-tom-brady-stake",
-  "bayern-koln-2026-11-19",
-  "musiala-bayern-transfer"
+  "bayern-koln-2026-11-19"
  ],
  "days": [
   "2026-10-18",
@@ -45,7 +45,7 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -57,19 +57,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 24,
-   "added": 8,
-   "authorRate": 83
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -93,7 +93,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
@@ -105,7 +105,7 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -117,13 +117,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 90
   },
   "waz": {
@@ -171,7 +171,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -335,7 +335,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 18
+    "count": 20
    },
    {
     "slug": "man-city-affairs-charges-20261119",
@@ -417,20 +417,6 @@
    ]
   },
   {
-   "en": "Vasco Peso",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스쿠 페소",
-     "count": 5
-    },
-    {
-     "ko": "바스코 페소",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
@@ -459,6 +445,20 @@
    ]
   },
   {
+   "en": "Vasco Peso",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바스쿠 페소",
+     "count": 4
+    },
+    {
+     "ko": "바스코 페소",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
@@ -472,6 +472,24 @@
     },
     {
      "ko": "누사",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르쿠 실바",
+     "count": 1
+    },
+    {
+     "ko": "마르코 시우바",
      "count": 1
     }
    ]
@@ -536,20 +554,6 @@
     },
     {
      "ko": "빅터 브루노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르쿠 실바",
      "count": 1
     }
    ]
@@ -847,20 +851,6 @@
    ]
   },
   {
-   "en": "Paz",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파즈",
-     "count": 1
-    },
-    {
-     "ko": "파스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -1083,6 +1073,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jules Ahoka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "줄스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "주스 아호카",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1175,8 +1179,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 493,
-   "llm": 493
+   "collected": 510,
+   "llm": 510
   }
  },
  "llmErrors": []
