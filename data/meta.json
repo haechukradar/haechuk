@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-21T18:38:58.563Z",
+ "updatedAt": "2026-11-21T19:29:47.651Z",
  "hot": [
   "chelsea-leeds-2026-11-22",
   "man-city-fulham-2026-11-20",
   "nottingham-forest-bournemouth-2026-11-21",
-  "musiala-bayern-transfer",
-  "newcastle-arsenal-2026-11-22"
+  "parma-roma-2026-11-21",
+  "musiala-bayern-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -45,20 +45,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 52,
-   "added": 4,
+   "items": 53,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 2,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,19 +94,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 90
+   "added": 7,
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -118,13 +118,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 78
   },
   "waz": {
@@ -136,19 +136,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,13 +160,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -177,9 +177,9 @@
   },
   "sun": {
    "ok": true,
-   "items": 11,
-   "added": 2,
-   "authorRate": 91
+   "items": 14,
+   "added": 3,
+   "authorRate": 93
   },
   "star": {
    "ok": true,
@@ -196,7 +196,7 @@
   "fbinsider": {
    "ok": true,
    "items": 11,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -239,7 +239,7 @@
   },
   {
    "name": "베르나르두 실바",
-   "count": 35
+   "count": 36
   },
   {
    "name": "그릴리시",
@@ -323,8 +323,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 201,
-  "singleArticleRate": 43,
+  "recentIssues": 199,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -335,12 +335,12 @@
     "count": 33
    },
    {
-    "slug": "liverpool-man-utd-2026-11-22",
+    "slug": "newcastle-arsenal-2026-11-22",
     "count": 24
    },
    {
-    "slug": "newcastle-arsenal-2026-11-22",
-    "count": 22
+    "slug": "liverpool-man-utd-2026-11-22",
+    "count": 24
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -348,15 +348,15 @@
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
+    "count": 19
+   },
+   {
+    "slug": "infantino-fifa-affairs-election-candidacy",
     "count": 18
    },
    {
     "slug": "man-city-affairs-charges-20261119",
     "count": 18
-   },
-   {
-    "slug": "infantino-fifa-affairs-election-candidacy",
-    "count": 17
    },
    {
     "slug": "man-utd-affairs-drone-footage",
@@ -466,6 +466,20 @@
    ]
   },
   {
+   "en": "Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄스-바넷",
+     "count": 5
+    },
+    {
+     "ko": "윌리엄스바넷",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Rummenigge",
    "dictionary": null,
    "variants": [
@@ -476,20 +490,6 @@
     {
      "ko": "루멘니게",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 5
-    },
-    {
-     "ko": "윌리엄스바넷",
-     "count": 1
     }
    ]
   },
@@ -572,6 +572,20 @@
    ]
   },
   {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "팀 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "티미 시몬스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Nmecha",
    "dictionary": null,
    "variants": [
@@ -586,24 +600,6 @@
    ]
   },
   {
-   "en": "Agostinho Bento",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아고스티뇨 벤투",
-     "count": 1
-    },
-    {
-     "ko": "아고스티뉴 벤토",
-     "count": 1
-    },
-    {
-     "ko": "아고스티뉴 벤투",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kieran Maguire",
    "dictionary": null,
    "variants": [
@@ -613,24 +609,6 @@
     },
     {
      "ko": "키에런 매과이어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Antonio Nusa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니오 누사",
-     "count": 1
-    },
-    {
-     "ko": "안토니 누사",
-     "count": 1
-    },
-    {
-     "ko": "누사",
      "count": 1
     }
    ]
@@ -796,20 +774,6 @@
    ]
   },
   {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "팀 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "티미 시몬스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Keating",
    "dictionary": null,
    "variants": [
@@ -833,6 +797,20 @@
     },
     {
      "ko": "브루노 페르난데스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Agostinho Bento",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아고스티뇨 벤투",
+     "count": 1
+    },
+    {
+     "ko": "아고스티뉴 벤투",
      "count": 1
     }
    ]
@@ -936,20 +914,6 @@
    ]
   },
   {
-   "en": "Emma Hayes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "엠마 헤이즈",
-     "count": 1
-    },
-    {
-     "ko": "엠마 헤이스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Michele Kang",
    "dictionary": null,
    "variants": [
@@ -959,6 +923,20 @@
     },
     {
      "ko": "미셸 강",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Reese",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "레제",
+     "count": 1
+    },
+    {
+     "ko": "리스",
      "count": 1
     }
    ]
@@ -1116,6 +1094,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jules Ahoka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "줄스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "주스 아호카",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1212,8 +1204,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 285,
-   "llm": 285
+   "collected": 340,
+   "llm": 340
   }
  },
  "llmErrors": []

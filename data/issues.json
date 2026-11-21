@@ -1,32 +1,468 @@
 [
  {
-  "slug": "liverpool-chelsea-2026-11-22",
+  "slug": "newcastle-arsenal-2026-11-22",
   "mode": "llm",
-  "titleKo": "리버풀 대 첼시 여자 경기 라이브",
-  "createdAt": "2026-11-21T12:20:00.000Z",
-  "updatedAt": "2026-11-21T18:34:55.000Z",
+  "titleKo": "뉴캐슬 대 아스널 경기 결과",
+  "createdAt": "2026-11-18T15:49:30.000Z",
+  "updatedAt": "2026-11-21T19:27:30.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
-   "liverpool",
-   "chelsea"
+   "newcastle",
+   "arsenal"
   ],
   "players": [
-   "키닝"
+   "윌 오술라",
+   "션 스테우르",
+   "사카",
+   "윌리엄 살리바",
+   "부카요 사카",
+   "마르틴 수비멘디",
+   "니코 곤살레스",
+   "앙가 엘랑가",
+   "브루노 기마랑이스",
+   "번",
+   "마두에케"
   ],
-  "sig": [],
+  "sig": [
+   "osula"
+  ],
   "articles": [
    {
-    "id": "9b7169b89cc0",
-    "url": "https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829",
-    "title": "WSL: Liverpool vs Chelsea LIVE!",
-    "ko": "WSL 리버풀 대 첼시 라이브 중계",
-    "source": "sky",
-    "publishedAt": "2026-11-21T12:20:00.000Z",
+    "id": "479407a968d7",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-clash-arsenal-handed-34931326",
+    "title": "Newcastle United clash with Arsenal handed unpopular new kick off time by TV chiefs",
+    "ko": "뉴캐슬-아스널 경기, 방송사가 킥오프 시간 변경",
+    "source": "chronicle",
+    "publishedAt": "2026-11-18T15:49:30.000Z",
     "credited": null,
     "clubs": [
-     "liverpool",
-     "chelsea"
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "fe035b26422c",
+    "url": "https://www.footballinsider247.com/arsenal/will-osula-axed-newcastle-should-drop-forward-vs-arsenal-to-start-speedster-with-27-sprints-per-90",
+    "title": "Will Osula axed: Newcastle should drop forward vs Arsenal to start speedster with 27 sprints per 90",
+    "ko": "뉴캐슬, 아스널전 윙어 기용 두고 윌 오술라 제외 논쟁",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T08:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "윌 오술라"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "60f131c1ed62",
+    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-arsenal-injury-news-34934228",
+    "title": "Seven players set to miss Newcastle vs Arsenal as Mikel Arteta suffers fresh injury blow",
+    "ko": "아르테타, 뉴캐슬전 앞두고 부상 악재…7명 결장 우려",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T09:47:59.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matt Maltby",
+    "transfer": null
+   },
+   {
+    "id": "59c7c8842d75",
+    "url": "https://www.footballinsider247.com/newcastle-united/sean-steur-among-newcastle-trio-who-mattias-jaissle-should-axe-vs-arsenal-to-save-his-job",
+    "title": "Sean Steur among Newcastle trio who Mattias Jaissle should axe vs Arsenal to save his job",
+    "ko": "뉴캐슬 세 선수, 아스널전 선발 제외 필요성 거론",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T09:55:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "션 스테우르"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "16d7a9519317",
+    "url": "https://www.footballinsider247.com/newcastle-united/ex-refs-chief-raises-serious-questions-over-chris-kavanagh-appointment-for-newcastle-vs-arsenal",
+    "title": "Ex-refs chief raises serious questions over Chris Kavanagh appointment for Newcastle vs Arsenal",
+    "ko": "뉴캐슬 대 아스널 주심 선정에 전 심판장 의문 제기",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-19T10:39:46.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "51b7d669ba49",
+    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-fixture-premier-league-34935513",
+    "title": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement",
+    "ko": "아스널 대 뉴캐슬 킥오프 시간 변경 발표",
+    "source": "fblondon",
+    "publishedAt": "2026-11-19T12:20:33.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "115a6bc3ac33",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/flimsy-newcastle-united-must-recall-34934947",
+    "title": "Flimsy Newcastle United must recall efforts of one specific glorious performance to stun Arsenal",
+    "ko": "허약한 뉴캐슬, 아스널 꺾으려면 영광의 한 경기 떠올려야",
+    "source": "chronicle",
+    "publishedAt": "2026-11-19T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Gibson",
+    "transfer": null
+   },
+   {
+    "id": "db57609ae9f4",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/dowman-saka-4-players-set-34940114",
+    "title": "Dowman, Saka and 4 players set to miss Newcastle United vs Arsenal amid Mikel Arteta update",
+    "ko": "뉴캐슬 대 아스널 경기, 다우먼·사카 등 4명 결장 가능성",
+    "source": "chronicle",
+    "publishedAt": "2026-11-20T08:55:51.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "사카"
+    ],
+    "playerTags": [
+     "bukayo-saka"
+    ],
+    "author": "Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "4bd65c188b28",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-injury-news-latest-newcastle-34940482",
+    "title": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash",
+    "ko": "살리바·사카·지베멘디 등 아스널 부상 현황과 뉴캐슬전 복귀 시점",
+    "source": "fblondon",
+    "publishedAt": "2026-11-20T10:26:40.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "윌리엄 살리바",
+     "부카요 사카",
+     "마르틴 수비멘디"
+    ],
+    "playerTags": [
+     "bukayo-saka",
+     "william-saliba"
+    ],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "cac69f4a3f7c",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-makes-mikel-arteta-34942389",
+    "title": "Matthias Jaissle makes Mikel Arteta a promise ahead of Newcastle United's battle with Arsenal",
+    "ko": "야이슬레, 아르테타에게 약속…뉴캐슬, 아스널과 맞대결 앞둬",
+    "source": "chronicle",
+    "publishedAt": "2026-11-20T16:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lee Ryder",
+    "transfer": null
+   },
+   {
+    "id": "c8839281ed91",
+    "url": "https://www.football.london/arsenal-fc/fixtures-results/arsenal-predicted-team-vs-newcastle-34943448",
+    "title": "Arsenal predicted team vs Newcastle - Mikel Arteta rewards key star as big back four change made",
+    "ko": "아르테타, 뉴캐슬전 예상 선발 공개…뒷선 대폭 변화",
+    "source": "fblondon",
+    "publishedAt": "2026-11-21T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Canton",
+    "transfer": null
+   },
+   {
+    "id": "9b8c11ecc48d",
+    "url": "https://www.football.london/arsenal-fc/news/bruno-guimaraes-newcastle-premier-league-34941437",
+    "title": "Mikel Arteta issues Bruno Guimaraes demand with Arsenal star braced for Newcastle nightmare",
+    "ko": "아르테타, 브루노 기마랑이스 관련 요구…뉴캐슬전 앞둔 아스널 선수 부담",
+    "source": "fblondon",
+    "publishedAt": "2026-11-21T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 기마랑이스"
+    ],
+    "playerTags": [
+     "bruno-guimaraes"
+    ],
+    "author": "Tom Canton",
+    "transfer": null
+   },
+   {
+    "id": "e6a40a2e56cf",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-newcastle-arsenal-en-premier-league/1744281#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Newcastle-Arsenal en Premier League ?",
+    "ko": "뉴캐슬 대 아스널, 방송 채널과 킥오프 시간 안내",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T07:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "1415f05da9b2",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-line-up-arsenal-34918044",
+    "title": "Newcastle United line-ups vs Arsenal with Nico Gonzalez facing axe and Anthony Elanga call-up",
+    "ko": "뉴캐슬, 아스널전 선발 발표…니코 곤살레스 제외 가능성",
+    "source": "chronicle",
+    "publishedAt": "2026-11-21T07:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "니코 곤살레스",
+     "앙가 엘랑가"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder, Stuart Jamieson, Sean McCormick, Ross Gregory",
+    "transfer": null
+   },
+   {
+    "id": "6cb08f50faf6",
+    "url": "https://www.thesun.co.uk/sport/41046143/newcastle-arsenal-predictions-free-bets-preview/",
+    "title": "Newcastle vs Arsenal | Premier League predictions, preview and free bets",
+    "ko": "뉴캐슬 대 아스널 승부 예측과 무료 베팅",
+    "source": "sun",
+    "publishedAt": "2026-11-21T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "4aa172fb1974",
+    "url": "https://www.mirror.co.uk/sport/football/news/arsenal-newcastle-kick-off-time-37901172",
+    "title": "Arsenal and Newcastle given detested new kick-off time for Premier League clash",
+    "ko": "아스널·뉴캐슬 경기, 불만 큰 새 킥오프 시간 배정",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Dan Burnham",
+    "transfer": null
+   },
+   {
+    "id": "e34d15c9f631",
+    "url": "https://www.football.london/arsenal-fc/news/alan-shearer-jamie-carragher-agree-34946665",
+    "title": "Alan Shearer and Jamie Carragher agree on Newcastle vs Arsenal Premier League score prediction",
+    "ko": "섀러·카라허, 뉴캐슬 대 아스널 스코어 예측 일치",
+    "source": "fblondon",
+    "publishedAt": "2026-11-21T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sam Truelove",
+    "transfer": null
+   },
+   {
+    "id": "69686c2311d2",
+    "url": "https://www.thesun.co.uk/sport/41071576/newcastle-arsenal-betfred-free-bet-builder/",
+    "title": "Newcastle vs Arsenal: Get money back as free bets if your Bet Builder loses, plus our 11/1 tip | Betfred",
+    "ko": "뉴캐슬 대 아스널 베팅 빌더 추천 및 환급 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-21T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "b0629a9b9121",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-vs-arsenal-live-34941198",
+    "title": "Newcastle United vs Arsenal LIVE: Early team news and Bruno Guimaraes role",
+    "ko": "뉴캐슬 대 아스널 라이브: 초기 팀뉴스와 브루노 기마랑이스 역할",
+    "source": "chronicle",
+    "publishedAt": "2026-11-21T14:04:44.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 기마랑이스"
+    ],
+    "playerTags": [
+     "bruno-guimaraes"
+    ],
+    "author": "Lee Ryder, Sean McCormick",
+    "transfer": null
+   },
+   {
+    "id": "0c83d43fe83d",
+    "url": "https://www.football.london/arsenal-fc/fixtures-results/newcastle-united-vs-arsenal-live-34944129",
+    "title": "Newcastle United vs Arsenal LIVE - Kick-off time, TV channel, team news, live stream details",
+    "ko": "뉴캐슬 대 아스널 킥오프 시간·중계·선발 정보",
+    "source": "fblondon",
+    "publishedAt": "2026-11-21T14:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tom Canton",
+    "transfer": null
+   },
+   {
+    "id": "43b73a55b93c",
+    "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+    "title": "Newcastle United v Arsenal: Premier League – live",
+    "ko": "뉴캐슬 대 아스널 프리미어리그 생중계",
+    "source": "guardian",
+    "publishedAt": "2026-11-21T16:19:32.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rob Smyth",
+    "transfer": null
+   },
+   {
+    "id": "d10db35f4959",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/20261121-105637-newcastle-arsenal-em-direto",
+    "title": "Newcastle-Arsenal, em direto",
+    "ko": "뉴캐슬 대 아스널 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-21T16:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
     ],
     "category": "match",
     "stage": null,
@@ -36,22 +472,288 @@
     "transfer": null
    },
    {
-    "id": "f990796ab6f6",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
-    "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
-    "ko": "키닝 활약…리버풀, 첼시와 무득점 무승부",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T18:34:55.000Z",
+    "id": "9ef378269af2",
+    "url": "https://as.com/futbol/internacional/newcastle-arsenal-en-directo-premier-league-hoy-en-vivo-f202611-d/",
+    "title": "Newcastle - Arsenal en directo: Premier League hoy, en vivo",
+    "ko": "뉴캐슬 대 아스널 프리미어리그 생중계 정보",
+    "source": "as",
+    "publishedAt": "2026-11-21T17:06:00.000Z",
     "credited": null,
     "clubs": [
-     "liverpool",
-     "chelsea"
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Almohalla",
+    "transfer": null
+   },
+   {
+    "id": "ba5fa83e06cf",
+    "url": "https://www.thesun.co.uk/sport/41102548/england-stars-bust-up-newcastle-arsenal-burn-madueke-rice/",
+    "title": "England stars in furious bust-up during Newcastle vs Arsenal as tensions boil over after Dan Burn challenge",
+    "ko": "뉴캐슬 대 아스널 경기 중 잉글랜드 선수들 격한 충돌",
+    "source": "sun",
+    "publishedAt": "2026-11-21T19:15:12.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
     ],
     "category": "match",
     "stage": null,
     "players": [
-     "키닝"
+     "번"
     ],
+    "playerTags": [],
+    "author": "Daisy Redhead",
+    "transfer": null
+   },
+   {
+    "id": "cec3a2f29b63",
+    "url": "https://www.thesun.co.uk/sport/41102468/newcastle-2-2-arsenal-match-report-noni-madueke/",
+    "title": "Newcastle 2 Arsenal 2: Noni Madueke rescues point for Gunners after Toon’s thrilling second-half fightback",
+    "ko": "뉴캐슬 2-2 아스널, 마두에케 후반 막판 극적 동점골",
+    "source": "sun",
+    "publishedAt": "2026-11-21T19:27:30.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마두에케"
+    ],
+    "playerTags": [],
+    "author": "Charlie Wyett",
+    "transfer": null
+   }
+  ],
+  "recentSources": 7,
+  "sourceCount": 9,
+  "score": 4.41,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "bukayo-saka",
+   "william-saliba",
+   "bruno-guimaraes"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Chronicle Live (뉴캐슬)",
+   "source": "chronicle",
+   "at": "2026-11-18T15:49:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle - Arsenal en directo: Premier League hoy, en vivo"
+ },
+ {
+  "slug": "schalke-stuttgart-2026-11-22",
+  "mode": "llm",
+  "titleKo": "샬케 대 슈투트가르트 경기 중계 정보",
+  "createdAt": "2026-11-21T06:30:00.000Z",
+  "updatedAt": "2026-11-21T19:21:35.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "schalke"
+  ],
+  "players": [],
+  "sig": [
+   "vfb",
+   "stuttgart",
+   "stream"
+  ],
+  "articles": [
+   {
+    "id": "b578dafa74d8",
+    "url": "https://www.kicker.de/wer-uebertraegt-fc-schalke-04-gegen-vfb-stuttgart-live-im-tv-und-stream-1271331/artikel#omrss",
+    "title": "Wer überträgt FC Schalke 04 gegen VfB Stuttgart live im TV und Stream?",
+    "ko": "샬케 대 슈투트가르트 경기 TV·스트리밍 중계 정보",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T06:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8de61e3feb70",
+    "url": "https://www.kicker.de/wieder-sieg-und-torlos-schalke-belohnt-sich-gegen-stuttgart-nicht-1272758/artikel#omrss",
+    "title": "Wieder sieg- und torlos: Schalke belohnt sich gegen Stuttgart nicht",
+    "ko": "샬케, 슈투트가르트전 무승부 속 또 무득점",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T19:21:35.000Z",
+    "credited": null,
+    "clubs": [
+     "schalke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.95,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-21T06:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wieder sieg- und torlos: Schalke belohnt sich gegen Stuttgart nicht"
+ },
+ {
+  "slug": "saint-etienne-reims-fans-incident",
+  "mode": "llm",
+  "titleKo": "생테티엔 랭스 원정 응원단 이동 논란",
+  "createdAt": "2026-11-21T09:10:04.000Z",
+  "updatedAt": "2026-11-21T19:08:52.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "étienne",
+   "reims",
+   "conseil",
+   "état"
+  ],
+  "articles": [
+   {
+    "id": "bcd35f3ed721",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-deplacement-des-supporters-de-saint-etienne-a-reims-en-suspens-apres-une-decision-du-conseil-d-etat-qui-l-autorise-sous-certaines-conditions/1745059#at_medium=RSS_feeds",
+    "title": "Le déplacement des supporters de Saint-Étienne à Reims en suspens après une décision du Conseil d'État qui l'autorise sous certaines conditions",
+    "ko": "생테티엔 원정 팬 이동, 콩세유 데타 조건부 허용 결정 보류",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T09:10:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José Barroso",
+    "transfer": null
+   },
+   {
+    "id": "732cd5a3c584",
+    "url": "https://www.lequipe.fr/Football/Actualites/Malgre-un-arrete-ministeriel-les-supporters-de-saint-etienne-seront-bien-a-reims/1745102#at_medium=RSS_feeds",
+    "title": "Malgré un arrêté ministériel, les supporters de Saint-Étienne seront bien à Reims",
+    "ko": "생테티엔 서포터즈, 장관 명령에도 랭스 원정 간다",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T14:20:13.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "José Barroso",
+    "transfer": null
+   },
+   {
+    "id": "3cef029ca429",
+    "url": "https://www.lequipe.fr/Football/Actualites/Imbroglio-en-ligue-2-les-supporters-de-l-as-saint-etienne-ont-du-faire-demi-tour-et-ne-se-sont-finalement-pas-rendus-a-reims/1745189#at_medium=RSS_feeds",
+    "title": "Imbroglio en Ligue 2 : les supporters de l'AS Saint-Étienne ont dû faire demi-tour et ne se sont finalement pas rendus à Reims",
+    "ko": "생테티엔 서포터, 랭스 원정 중 이동 문제로 회항 소동",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T19:08:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Laurent Grandcolas",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.33,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-21T09:10:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Imbroglio en Ligue 2 : les supporters de l'AS Saint-Étienne ont dû faire demi-tour et ne se sont finalement pas rendus à Reims"
+ },
+ {
+  "slug": "chelsea-manager-future",
+  "mode": "llm",
+  "titleKo": "첼시 알론소 감독 경질 위기설",
+  "createdAt": "2026-11-21T19:04:09.000Z",
+  "updatedAt": "2026-11-21T19:05:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [],
+  "sig": [
+   "alonso"
+  ],
+  "articles": [
+   {
+    "id": "d1d69e83406f",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss",
+    "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+    "ko": "알론소 첼시 허니문 끝났나…\"취약하고 한참 부족하다\"",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T19:04:09.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "81110c090782",
+    "url": "https://www.footballinsider247.com/chelsea/xabi-alonso-must-be-in-serious-danger-of-dismissal-hes-just-made-chelsea-history-for-second-time",
+    "title": "Xabi Alonso must be in serious danger of dismissal, he's just made Chelsea history for second time",
+    "ko": "사비 알론소, 첼시 역사에 또 한 번 기록 남기며 경질 위기설",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-21T19:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
     "playerTags": [],
     "author": null,
     "transfer": null
@@ -59,82 +761,26 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 3.17,
+  "score": 3.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-21T12:20:00.000Z",
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-21T19:04:09.000Z",
    "viaQuote": false
   },
-  "headline": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw"
- },
- {
-  "slug": "doue-injury",
-  "mode": "llm",
-  "titleKo": "두에 무릎 부상 우려",
-  "createdAt": "2026-11-21T18:33:00.000Z",
-  "updatedAt": "2026-11-21T18:33:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "데지레 두에"
-  ],
-  "sig": [
-   "desire",
-   "doué"
-  ],
-  "articles": [
-   {
-    "id": "48cf9c0a2193",
-    "url": "https://www.hln.be/buitenlands-voetbal/drama-voor-desire-doue-psg-ster-verlaat-in-tranen-het-veld-en-moet-vrezen-voor-ernstige-knieblessure~a58d0934/",
-    "title": "Drama voor Desire Doué: PSG-ster verlaat in tranen het veld en moet vrezen voor ernstige knieblessure",
-    "ko": "두에, 눈물 속 교체 아웃…PSG 무릎 부상 우려",
-    "source": "hln",
-    "publishedAt": "2026-11-21T18:33:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "데지레 두에"
-    ],
-    "playerTags": [
-     "desire-doue"
-    ],
-    "author": "Emma Van Avermaet",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.18,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "desire-doue"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-21T18:33:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Drama voor Desire Doué: PSG-ster verlaat in tranen het veld en moet vrezen voor ernstige knieblessure"
+  "headline": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over"
  },
  {
   "slug": "parma-roma-2026-11-21",
   "mode": "llm",
   "titleKo": "파르마 대 로마 세리에A 경기",
   "createdAt": "2026-11-21T17:43:31.000Z",
-  "updatedAt": "2026-11-21T18:31:14.000Z",
+  "updatedAt": "2026-11-21T18:58:52.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -226,11 +872,91 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "b1bed11e2ddb",
+    "url": "https://www.kicker.de/parma-roma-tor-zum-1-4-durch-malen-in-der-77-minute-1273634/video#omrss",
+    "title": "Parma - Roma: Tor zum 1:4 durch Malen in der 77. Minute",
+    "ko": "파르마 대 로마 77분 말렌 골로 1-4",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:38:17.000Z",
+    "credited": null,
+    "clubs": [
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "말렌"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d8df599e50b2",
+    "url": "https://www.kicker.de/parma-roma-tor-zum-1-5-durch-malen-in-der-90-minute-1273642/video#omrss",
+    "title": "Parma - Roma: Tor zum 1:5 durch Malen in der 90. Minute",
+    "ko": "파르마 대 로마, 말렌 90분 골로 1-5 스코어",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:51:15.000Z",
+    "credited": null,
+    "clubs": [
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "말렌"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "066686ae6eec",
+    "url": "https://www.lequipe.fr/Football/Actualites/Un-quadruple-de-donyell-malen-et-une-invincibilite-preservee-en-serie-a-l-as-rome-deroule-contre-parme-avant-de-retrouver-le-psg-en-ligue-des-champions/1745185#at_medium=RSS_feeds",
+    "title": "Un quadruplé de Donyell Malen et une invincibilité préservée en Serie A : l'AS Rome déroule contre Parme avant de retrouver le PSG en Ligue des champions",
+    "ko": "말렌 4골 활약…로마, 파르마 대파하고 무패 행진 유지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T18:54:38.000Z",
+    "credited": null,
+    "clubs": [
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "말렌"
+    ],
+    "playerTags": [],
+    "author": "Louis Rousseau",
+    "transfer": null
+   },
+   {
+    "id": "f0cc5955fead",
+    "url": "https://as.com/futbol/roma-deslumbrante-con-un-malen-imparable-f202611-n/",
+    "title": "Roma deslumbrante con un Malen imparable",
+    "ko": "로마, 말렌의 무적 활약 속 파르마 상대 경기",
+    "source": "as",
+    "publishedAt": "2026-11-21T18:58:52.000Z",
+    "credited": null,
+    "clubs": [
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "말렌"
+    ],
+    "playerTags": [],
+    "author": "Sabrina Uccello",
+    "transfer": null
    }
   ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.7,
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 5.11,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -242,679 +968,268 @@
    "at": "2026-11-21T17:43:31.000Z",
    "viaQuote": false
   },
-  "headline": "Parma - Roma: Tor zum 1:3 durch Rodrigo Mora in der 71. Minute"
+  "headline": "Roma deslumbrante con un Malen imparable"
  },
  {
-  "slug": "rogers-handball-incident",
+  "slug": "doue-injury",
   "mode": "llm",
-  "titleKo": "로저스 핸드볼 판정 논란",
-  "createdAt": "2026-11-21T18:30:22.000Z",
-  "updatedAt": "2026-11-21T18:30:22.000Z",
-  "category": "match",
+  "titleKo": "두에 무릎 부상 우려",
+  "createdAt": "2026-11-21T18:33:00.000Z",
+  "updatedAt": "2026-11-21T18:58:13.000Z",
+  "category": "injury",
   "stage": null,
   "clubs": [],
   "players": [
-   "모건 로저스"
+   "데지레 두에"
   ],
   "sig": [
-   "rogers"
+   "desire",
+   "doué"
   ],
   "articles": [
    {
-    "id": "f91c0c5bb6c2",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
-    "title": "'Officials can't use common sense' - was Rogers handball correct?",
-    "ko": "로저스 핸드볼 판정 논란…BBC \"심판이 상식을 쓰지 못해\"",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T18:30:22.000Z",
+    "id": "051e570ed4ae",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-psg-remporte-une-12e-victoire-de-suite-a-nice-mais-perd-desire-doue/1745176#at_medium=RSS_feeds",
+    "title": "Le PSG remporte une 12e victoire de suite à Nice mais perd Désiré Doué",
+    "ko": "PSG, 니스 원정 12연승 달성했지만 데지레 두에 잃어",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T18:18:52.000Z",
     "credited": null,
     "clubs": [],
-    "category": "match",
+    "category": "injury",
     "stage": null,
     "players": [
-     "모건 로저스"
+     "데지레 두에"
     ],
     "playerTags": [
-     "morgan-rogers"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 2.93,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "morgan-rogers"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-21T18:30:22.000Z",
-   "viaQuote": false
-  },
-  "headline": "'Officials can't use common sense' - was Rogers handball correct?"
- },
- {
-  "slug": "musiala-bayern-transfer",
-  "mode": "llm",
-  "titleKo": "무시알라 바이에른 이적설 논란",
-  "createdAt": "2026-11-20T22:18:38.000Z",
-  "updatedAt": "2026-11-21T18:24:17.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "자말 무시알라",
-   "무시알라"
-  ],
-  "sig": [
-   "rummenigge",
-   "musiala",
-   "hammer"
-  ],
-  "articles": [
-   {
-    "id": "1ba553da2cb7",
-    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-rummenigge-laesst-naechsten-musiala-hammer-fallen-zr-94601245.html",
-    "title": "„Summen nicht mehr darstellbar“: Rummenigge lässt nächsten Musiala-Hammer fallen",
-    "ko": "뤼멘니게, 무시알라 관련 또 한 번 폭탄 발언",
-    "source": "tz",
-    "publishedAt": "2026-11-20T22:18:38.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Maximilian Bohne",
-    "transfer": null
-   },
-   {
-    "id": "2a110131cd94",
-    "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
-    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
-    "ko": "\"이런 조건에서 누가 뮤시알라를 살 거라고 상상이 안 된다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T22:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "자말 무시알라",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "32eff73ab2fc",
-    "url": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video#omrss",
-    "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
-    "ko": "바이에른의 암울한 금요일…루메니게·무시알라 논란 배경",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T23:30:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8540345a9d91",
-    "url": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video#omrss",
-    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
-    "ko": "루메니게 강한 비판 후 콤파니, 무시알라 감싸",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T23:32:10.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ad44893cd3e7",
-    "url": "https://www.lequipe.fr/Football/Actualites/Karl-heinz-rummenigge-evoque-une-reduction-de-salaire-pour-musiala-il-a-des-problemes-de-sante-c-est-un-fait-connu/1745034#at_medium=RSS_feeds",
-    "title": "Karl-Heinz Rummenigge évoque une réduction de salaire pour Musiala : « Il a des problèmes de santé, c'est un fait connu »",
-    "ko": "루메니게, 무시알라 연봉 삭감 언급…\"건강 문제 있다는 건 알려진 사실\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-20T23:41:29.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "5d4bed4aa353",
-    "url": "https://www.tz.de/sport/fc-bayern/patrick-helmes-reagiert-auf-rummenigges-bayern-kritik-wegen-musiala-zr-94601253.html",
-    "title": "Rummenigges Musiala-Aussagen: Helmes hat einen brisanten Verdacht",
-    "ko": "루메니게, 무시알라 관련 발언 논란…의혹 제기",
-    "source": "tz",
-    "publishedAt": "2026-11-21T04:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "eb784b3b7ec9",
-    "url": "https://www.tz.de/sport/fc-bayern/debatte-um-musiala-rummenigge-verteidigt-hoeness-aussagen-94601385.html",
-    "title": "Bayern-Boss Rummenigge stellt sich mit Musiala-Knall schützend vor Uli Hoeneß",
-    "ko": "루멘니게, 뮐러 발언 두고 무시알라 사건으로 후이네스 옹호",
-    "source": "tz",
-    "publishedAt": "2026-11-21T08:55:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Florian Puth",
-    "transfer": null
-   },
-   {
-    "id": "2caaca3c5fdc",
-    "url": "https://www.mirror.co.uk/sport/football/news/bayern-chief-admits-jamal-musiala-37902251",
-    "title": "Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch",
-    "ko": "바이에른 회장, 무시알라 쓰러진 뒤 수개월 내 매각 가능성 인정",
-    "source": "mirror",
-    "publishedAt": "2026-11-21T15:58:31.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Ben Husband",
-    "transfer": {
-     "player": "무시알라",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "b411c751a485",
-    "url": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video#omrss",
-    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
-    "ko": "드레젠, 루메니게 발언 설명…무시알라에 압박",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:25:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2ecbe52b4aa5",
-    "url": "https://www.tz.de/sport/fc-bayern/matthaeus-mit-deutlicher-kritik-am-fc-bayern-wegen-musiala-94601682.html",
-    "title": "Matthäus mit deutlicher Kritik am FC Bayern wegen Musiala",
-    "ko": "마테우스, 무시알라 관련 바이에른에 직격 비판",
-    "source": "tz",
-    "publishedAt": "2026-11-21T17:40:42.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b1d5b38d6e18",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
-    "title": "Fifpro criticises Bayern Munich for Musiala comments",
-    "ko": "피프로, 무시알라 발언 두고 바이에른 뮌헨 비판",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T17:43:44.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5efb160a4156",
-    "url": "https://www.hln.be/bundesliga/het-is-hun-plicht-om-voor-hem-te-zorgen-spelersvakbond-maakt-zich-ernstige-zorgen-om-uitspraken-bayern-bestuur-over-jamal-musiala~a4df5bd0/",
-    "title": "“Het is hun plicht om voor hem te zorgen”: spelersvakbond “maakt zich ernstige zorgen” om uitspraken Bayern-bestuur over Jamal Musiala",
-    "ko": "선수노조 \"무시알라 관련 바이에른 경영진 발언 깊이 우려\"",
-    "source": "hln",
-    "publishedAt": "2026-11-21T18:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Johannes De Rijcke",
-    "transfer": null
-   },
-   {
-    "id": "d13a5b42c589",
-    "url": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video#omrss",
-    "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
-    "ko": "바이에른 팬, 무시알라 관련 보스 비판",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T18:24:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 6,
-  "score": 5.74,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "jamal-musiala"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-20T22:18:38.000Z",
-   "viaQuote": false
-  },
-  "headline": "Fifpro criticises Bayern Munich for Musiala comments"
- },
- {
-  "slug": "nice-psg-2026-11-21",
-  "mode": "llm",
-  "titleKo": "니스 대 PSG 리그1 경기",
-  "createdAt": "2026-11-21T15:15:00.000Z",
-  "updatedAt": "2026-11-21T18:19:37.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "psg"
-  ],
-  "players": [
-   "모리스 코앵",
-   "데지레 두에",
-   "누누 멘데스",
-   "우스만 뎀벨레",
-   "비티냐",
-   "아무라",
-   "하키미",
-   "페란 토레스"
-  ],
-  "sig": [
-   "maurice",
-   "cohen",
-   "nice"
-  ],
-  "articles": [
-   {
-    "id": "e3b11f271764",
-    "url": "https://www.lequipe.fr/Football/Actualites/Mini-feux-d-artifice-chants-elle-fumigenes-et-bain-de-foule-pour-maurice-cohen-l-ambiance-monte-d-un-cran-avant-nice-psg/1745108#at_medium=RSS_feeds",
-    "title": "Mini feux d'artifice, chants, fumigènes et bain de foule pour Maurice Cohen : l'ambiance monte d'un cran avant Nice-PSG",
-    "ko": "니스·PSG 경기 앞두고 모리스 코앵 환영 열기 고조",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T14:47:14.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "모리스 코앵"
-    ],
-    "playerTags": [],
-    "author": "Thomas Doucet",
-    "transfer": null
-   },
-   {
-    "id": "b46adb8ecab9",
-    "url": "https://www.record.pt/internacional/paises/franca/detalhe/20261121-105229-nice-psg-em-direto",
-    "title": "Nice-PSG, em direto",
-    "ko": "니스 대 PSG 경기 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-21T15:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d146bd1f02f4",
-    "url": "https://www.lequipe.fr/Football/Actualites/Les-compos-de-nice-psg-avec-desire-doue-et-nuno-mendes-sans-ousmane-dembele-ni-vitinha/1745122#at_medium=RSS_feeds",
-    "title": "Les compos de Nice-PSG : avec Désiré Doué et Nuno Mendes, sans Ousmane Dembélé ni Vitinha",
-    "ko": "니스-PSG 선발 명단…두에·누누 멘데스 출전, 뎀벨레·비티냐 결장",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T15:41:56.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "데지레 두에",
-     "누누 멘데스",
-     "우스만 뎀벨레",
-     "비티냐"
-    ],
-    "playerTags": [
-     "ousmane-dembele",
-     "vitinha",
      "desire-doue"
     ],
     "author": "Hugo Delom",
     "transfer": null
    },
    {
-    "id": "1ba5809e1f9c",
-    "url": "https://as.com/futbol/internacional/niza-psg-en-directo-ligue-1-hoy-en-vivo-f202611-n/",
-    "title": "Niza-PSG en directo: Ligue 1, hoy en vivo",
-    "ko": "니스 대 PSG 리그1 경기 실시간 중계",
-    "source": "as",
-    "publishedAt": "2026-11-21T16:06:17.000Z",
+    "id": "48cf9c0a2193",
+    "url": "https://www.hln.be/buitenlands-voetbal/drama-voor-desire-doue-psg-ster-verlaat-in-tranen-het-veld-en-moet-vrezen-voor-ernstige-knieblessure~a58d0934/",
+    "title": "Drama voor Desire Doué: PSG-ster verlaat in tranen het veld en moet vrezen voor ernstige knieblessure",
+    "ko": "두에, 눈물 속 교체 아웃…PSG 무릎 부상 우려",
+    "source": "hln",
+    "publishedAt": "2026-11-21T18:33:00.000Z",
     "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "As.com As.com",
-    "transfer": null
-   },
-   {
-    "id": "b04e87ca44b6",
-    "url": "https://www.kicker.de/nizza-paris-sg-tor-zum-1-0-durch-amoura-in-der-8-minute-1273556/video#omrss",
-    "title": "Nizza - Paris SG: Tor zum 1:0 durch Amoura in der 8. Minute",
-    "ko": "니스 대 PSG 전반 8분 아무라로 선제골",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:28:07.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
+    "clubs": [],
+    "category": "injury",
     "stage": null,
     "players": [
-     "아무라"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "181667bf21a5",
-    "url": "https://www.kicker.de/nice-paris-sg-tor-in-der-31-minute-1273573/video#omrss",
-    "title": "Nice - Paris SG: Tor in der 31. Minute",
-    "ko": "니스 대 PSG 전반 31분 득점 장면",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:52:07.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ded698c448b4",
-    "url": "https://www.kicker.de/nice-paris-sg-elfmeter-in-der-32-minute-1273576/video#omrss",
-    "title": "Nice - Paris SG: Elfmeter in der 32. Minute",
-    "ko": "니스 대 PSG 전반 32분 페널티킥 장면",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:53:24.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "1126a86ee136",
-    "url": "https://www.kicker.de/psg-mit-dem-doppelschlag-starker-hakimi-assist-bringt-das-2-1-1273577/video#omrss",
-    "title": "PSG mit dem Doppelschlag: Starker Hakimi-Assist bringt das 2:1",
-    "ko": "PSG 연속골, 하키미 도움으로 2-1 역전",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:53:30.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "하키미"
+     "데지레 두에"
     ],
     "playerTags": [
-     "achraf-hakimi"
+     "desire-doue"
     ],
-    "author": null,
+    "author": "Emma Van Avermaet",
     "transfer": null
    },
    {
-    "id": "f2531aa8dc2a",
-    "url": "https://www.kicker.de/nizza-paris-sg-tor-zum-1-3-durch-ferran-torres-in-der-85-minute-1273621/video#omrss",
-    "title": "Nizza - Paris SG: Tor zum 1:3 durch Ferran Torres in der 85. Minute",
-    "ko": "니스 대 PSG 85분 페란 토레스 골, 1-3",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T18:11:20.000Z",
+    "id": "4021ae9a6eea",
+    "url": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-l-entraineur-du-psg-desire-doue-reviendra-deux-fois-plus-fort/1745187#at_medium=RSS_feeds",
+    "title": "Luis Enrique, l'entraîneur du PSG : « Désiré Doué reviendra deux fois plus fort »",
+    "ko": "루이스 엔리케 \"두에, 두 배 더 강해져 돌아올 것\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T18:57:22.000Z",
     "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
+    "clubs": [],
+    "category": "injury",
     "stage": null,
     "players": [
-     "페란 토레스"
+     "데지레 두에"
     ],
-    "playerTags": [],
-    "author": null,
+    "playerTags": [
+     "desire-doue"
+    ],
+    "author": "Vincent Menichini",
     "transfer": null
    },
    {
-    "id": "fc9ad1df0612",
-    "url": "https://www.kicker.de/nizza-paris-sg-tor-zum-2-3-durch-abdi-in-der-90-5-minute-1273625/video#omrss",
-    "title": "Nizza - Paris SG: Tor zum 2:3 durch Abdi in der 90.+5 Minute",
-    "ko": "니스 대 PSG, 막판 실점으로 3-2 역전패 위기",
+    "id": "815d2db86202",
+    "url": "https://www.kicker.de/geschockte-reaktionen-dou-verletzung-ueberschattet-psg-sieg-1273644/video#omrss",
+    "title": "Geschockte Reaktionen: Doué-Verletzung überschattet PSG-Sieg",
+    "ko": "두에 부상에 PSG 승리 빛바래…독일 반응 엇갈려",
     "source": "kicker",
-    "publishedAt": "2026-11-21T18:19:37.000Z",
+    "publishedAt": "2026-11-21T18:58:13.000Z",
     "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
+    "clubs": [],
+    "category": "injury",
     "stage": null,
-    "players": [],
-    "playerTags": [],
+    "players": [
+     "데지레 두에"
+    ],
+    "playerTags": [
+     "desire-doue"
+    ],
     "author": null,
     "transfer": null
    }
   ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 4.79,
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 4.47,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
-   "ousmane-dembele",
-   "vitinha",
-   "desire-doue",
-   "achraf-hakimi"
+   "desire-doue"
   ],
   "transfer": null,
   "firstReport": {
    "name": "레퀴프",
    "source": "lequipe",
-   "at": "2026-11-21T14:47:14.000Z",
+   "at": "2026-11-21T18:18:52.000Z",
    "viaQuote": false
   },
-  "headline": "Nizza - Paris SG: Tor zum 2:3 durch Abdi in der 90.+5 Minute"
+  "headline": "Geschockte Reaktionen: Doué-Verletzung überschattet PSG-Sieg"
  },
  {
-  "slug": "nottingham-forest-bournemouth-2026-11-21",
+  "slug": "real-madrid-celta-2026-11-22",
   "mode": "llm",
-  "titleKo": "본머스 대 노팅엄 포레스트 경기 결과",
-  "createdAt": "2026-11-21T17:05:00.000Z",
-  "updatedAt": "2026-11-21T18:16:48.000Z",
+  "titleKo": "레알 마드리드 대 셀타 경기 예상 선발",
+  "createdAt": "2026-11-21T07:33:36.000Z",
+  "updatedAt": "2026-11-21T18:58:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
-   "nottingham-forest",
-   "bournemouth"
+   "real-madrid"
   ],
   "players": [
-   "에바닐송",
-   "에바닐손",
-   "클라위버르트"
+   "티보 쿠르투아"
   ],
   "sig": [
-   "cherries",
-   "prem",
-   "evanilson"
+   "celta",
+   "laliga",
+   "sports"
   ],
   "articles": [
    {
-    "id": "a4e5524c0774",
-    "url": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/report/559545",
-    "title": "Bournemouth make more history with comfortable win against Forest",
-    "ko": "본머스, 노팅엄 포레스트 꺾고 구단 역사 또 경신",
-    "source": "sky",
-    "publishedAt": "2026-11-21T17:05:00.000Z",
+    "id": "b3892e2f6937",
+    "url": "https://www.hln.be/primera-division/live-21u-houdt-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
+    "title": "LIVE (21u). Houdt Thibaut Courtois zijn netten bij Real proper tegen Celta?",
+    "ko": "쿠르투아, 셀타전에서 레알 골문 지킬 수 있을지 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-20T23:00:28.000Z",
     "credited": null,
     "clubs": [
-     "nottingham-forest",
-     "bournemouth"
+     "real-madrid"
     ],
     "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "d9d21666918e",
+    "url": "https://as.com/futbol/alineacion-posible-del-real-madrid-contra-el-celta-en-laliga-ea-sports-f202611-n/",
+    "title": "Posible alineación del Real Madrid contra el Celta en LaLiga EA Sports",
+    "ko": "레알 마드리드, 셀타전 예상 선발 라인업 공개",
+    "source": "as",
+    "publishedAt": "2026-11-21T07:33:36.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Agustín Martín",
+    "transfer": null
+   },
+   {
+    "id": "9df33fa1cc45",
+    "url": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+    "title": "Real Madrid - Celta, en directo: previa y última hora de LaLiga EA Sports, hoy en vivo",
+    "ko": "레알 마드리드 대 셀타 라리가 경기 실시간 중계",
+    "source": "as",
+    "publishedAt": "2026-11-21T10:18:13.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López",
+    "transfer": null
+   },
+   {
+    "id": "601f3dd30b62",
+    "url": "https://www.hln.be/primera-division/live-21u-houdt-aanvoerder-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
+    "title": "LIVE (21u). Houdt aanvoerder Thibaut Courtois zijn netten bij Real proper tegen Celta?",
+    "ko": "쿠르투아, 셀타전 골문 지킬지 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-21T18:58:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 0.8,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "thibaut-courtois"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-20T23:00:28.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid - Celta, en directo: previa y última hora de LaLiga EA Sports, hoy en vivo"
+ },
+ {
+  "slug": "infantino-fifa-affairs-election-candidacy",
+  "mode": "llm",
+  "titleKo": "FIFA 회장 선거 후보 등록 완료",
+  "createdAt": "2026-11-19T09:31:00.000Z",
+  "updatedAt": "2026-11-21T18:42:50.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "람 베가",
+   "폴라린 발로군"
+  ],
+  "sig": [
+   "fifa"
+  ],
+  "articles": [
+   {
+    "id": "c6ae478592e9",
+    "url": "https://www.record.pt/internacional/detalhe/oficial-estao-confirmados-os-tres-candidatos-que-vao-a-votos-nas-eleicoes-para-a-presidencia-da-fifa",
+    "title": "Oficial: estão confirmados os três candidatos que vão a votos nas eleições para a presidência da FIFA",
+    "ko": "FIFA 회장 선거 최종 후보 3명 확정",
+    "source": "record",
+    "publishedAt": "2026-11-19T09:31:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -922,58 +1237,275 @@
     "transfer": null
    },
    {
-    "id": "40d3bd219c78",
-    "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-    "title": "Bournemouth’s Evanilson and Kluivert sink Forest to make it eight wins in a row",
-    "ko": "에바닐손·클라위버르트 골…본머스, 노팅엄 꺾고 8연승",
-    "source": "guardian",
-    "publishedAt": "2026-11-21T17:10:24.000Z",
-    "credited": null,
-    "clubs": [
-     "bournemouth",
-     "nottingham-forest"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에바닐손",
-     "클라위버르트"
-    ],
-    "playerTags": [],
-    "author": "Press Association",
-    "transfer": null
-   },
-   {
-    "id": "357b626aab82",
-    "url": "https://www.thesun.co.uk/sport/41101573/bournemouth-2-0-nottingham-forest-evanilson-scores-again/",
-    "title": "Bournemouth 2 Nottingham Forest 0: Cherries gatecrash Prem top four as Evanilson scores for sixth successive game",
-    "ko": "본머스 2-0 노팅엄 포레스트, 에바닐송 6경기 연속 득점",
-    "source": "sun",
-    "publishedAt": "2026-11-21T17:34:32.000Z",
-    "credited": null,
-    "clubs": [
-     "bournemouth",
-     "nottingham-forest"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에바닐송"
-    ],
-    "playerTags": [],
-    "author": "Charlie Gordon",
-    "transfer": null
-   },
-   {
-    "id": "ddcebdfb99fe",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
-    "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
-    "ko": "글라스너 \"본머스전 패배 정당해\"",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T18:16:48.000Z",
+    "id": "ee0466783074",
+    "url": "https://www.kicker.de/offiziell-zwei-kandidaten-treten-gegen-infantino-an-1272914/artikel#omrss",
+    "title": "Offiziell: Zwei Kandidaten treten gegen Infantino an",
+    "ko": "인판티노에 도전장…두 후보 공식 출마",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T09:43:44.000Z",
     "credited": null,
     "clubs": [],
-    "category": "manager",
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6927892b5aa9",
+    "url": "https://www.lequipe.fr/Football/Actualites/Gianni-infantino-philippe-diallo-et-kozo-tashima-ont-transmis-leur-candidature-a-la-fifa-pour-l-election-a-la-presidence/1744600#at_medium=RSS_feeds",
+    "title": "Gianni Infantino, Philippe Diallo et Kozo Tashima ont transmis leur candidature à la FIFA pour l'élection à la présidence",
+    "ko": "인판티노·디알로·타시마, FIFA 회장 선거 후보 등록",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T09:48:13.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Moatti",
+    "transfer": null
+   },
+   {
+    "id": "dd2aaa5b2e44",
+    "url": "https://www.hln.be/wk-voetbal/ramon-vega-valt-af-infantino-wordt-uitgedaagd-door-twee-kandidaten-belgie-steunt-philippe-diallo~acc7073e/",
+    "title": "Ramon Vega valt af: Infantino wordt uitgedaagd door twee kandidaten, België steunt Philippe Diallo",
+    "ko": "람 베가 탈락, 인판티노에 두 후보 도전…벨기에는 디알로 지지",
+    "source": "hln",
+    "publishedAt": "2026-11-19T10:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "람 베가"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "b62e45ed2070",
+    "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
+    "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
+    "ko": "인판티노에 도전장, FIFA 회장 선거 후보 라인업 공개",
+    "source": "guardian",
+    "publishedAt": "2026-11-19T10:56:21.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matt Hughes",
+    "transfer": null
+   },
+   {
+    "id": "47f14bff80a4",
+    "url": "https://www.kicker.de/beschwerdebrief-europaeer-erhoehen-den-druck-im-fifa-machtkampf-1273021/artikel#omrss",
+    "title": "Beschwerdebrief: Europäer erhöhen den Druck im FIFA-Machtkampf",
+    "ko": "유럽 측 항의 서한 발송…FIFA 권력 다툼 압박 높여",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T14:17:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7c2698cccb61",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-federation-anglaise-a-envisage-de-contester-l-eligibilite-de-gianni-infantino-pour-un-quatrieme-mandat-a-la-tete-de-la-fifa-avant-de-se-retracter/1744658#at_medium=RSS_feeds",
+    "title": "La Fédération anglaise a envisagé de contester l'éligibilité de Gianni Infantino pour un quatrième mandat à la tête de la FIFA avant de se rétracter",
+    "ko": "잉글랜드 협회, 인판티노 FIFA 4선 도전 두고 자격 이의 검토 후 철회",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T14:52:33.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "0f8798ca14ba",
+    "url": "https://www.hln.be/voetbal/zijn-tegenstanders-zijn-een-grote-grap-waarom-er-maar-een-manier-is-om-gianni-infantino-van-de-fifa-troon-te-stoten~a3f3b091/",
+    "title": "“Zijn tegenstanders zijn één grote grap”: waarom er maar één manier is om Gianni Infantino van de FIFA-troon te stoten",
+    "ko": "인판티노 FIFA 회장 자리 도전자 누가 있나",
+    "source": "hln",
+    "publishedAt": "2026-11-19T17:24:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Niels Vleminckx",
+    "transfer": null
+   },
+   {
+    "id": "de9ce9d87af2",
+    "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
+    "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
+    "ko": "인판티노, 다가오는 FIFA 선거에서 공정한 경쟁 촉구",
+    "source": "espn",
+    "publishedAt": "2026-11-20T04:53:50.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Ogden",
+    "transfer": null
+   },
+   {
+    "id": "7eee77a8eedc",
+    "url": "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino",
+    "title": "FIFA presidential challenger Tashima willing to unite with Diallo against Infantino",
+    "ko": "FIFA 회장 도전자 타시마, 디알로와 손잡고 인판티노에 맞설 의향",
+    "source": "espn",
+    "publishedAt": "2026-11-20T06:15:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Associated Press",
+    "transfer": null
+   },
+   {
+    "id": "9101e915b443",
+    "url": "https://www.nytimes.com/athletic/7797697/2026/11/20/kozo-tashima-folarin-balogun-fifa-presidency/",
+    "title": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-20T13:05:24.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "폴라린 발로군"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a2854a6474d3",
+    "url": "https://as.com/futbol/internacional/conmebol-elige-a-infantino-f202611-n/",
+    "title": "CONMEBOL elige a Infantino",
+    "ko": "CONMEBOL, 인판티노 선택",
+    "source": "as",
+    "publishedAt": "2026-11-20T18:27:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Víctor Martín J.",
+    "transfer": null
+   },
+   {
+    "id": "e2e07e4bc531",
+    "url": "https://www.lequipe.fr/Football/Actualites/Les-pays-sud-americains-de-la-conmebol-annoncent-leur-soutien-a-l-unanimite-a-gianni-infantino-candidat-a-la-presidence-de-la-fifa/1744980#at_medium=RSS_feeds",
+    "title": "Les pays sud-américains de la Conmebol annoncent leur soutien « à l'unanimité » à Gianni Infantino, candidat à la présidence de la FIFA",
+    "ko": "남미축구연맹, 인판티노 FIFA 회장 후보 지지 선언",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T19:46:33.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "ed3cff5f2691",
+    "url": "https://www.kicker.de/fuehrungsstaerke-als-argument-suedamerikaner-stuetzen-infantino-1273355/artikel#omrss",
+    "title": "Führungsstärke als Argument: Südamerikaner stützen Infantino",
+    "ko": "남미 협회들, 인판티노 리더십 강조하며 지지 표명",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T20:24:13.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ec6b7546b91a",
+    "url": "https://www.record.pt/internacional/detalhe/infantino-tem-apoio-da-conmebol-na-corrida-a-presidencia-da-fifa",
+    "title": "Infantino tem apoio da CONMEBOL na corrida à presidência da FIFA",
+    "ko": "인판티노, 남미축구연맹 지지 확보…FIFA 회장 선거 가속",
+    "source": "record",
+    "publishedAt": "2026-11-20T21:33:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8c5b2743bbbe",
+    "url": "https://www.kicker.de/im-namen-der-54-nationen-auch-caf-unterstuetzt-infantino-1273538/artikel#omrss",
+    "title": "\"Im Namen der 54 Nationen\": Auch CAF unterstützt Infantino",
+    "ko": "인판티노, 'FIFA 54개 국가 이름으로' 지지 확보 나서",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T15:55:54.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c3cda544a8b3",
+    "url": "https://www.hln.be/wk-voetbal/gianni-je-hebt-onze-steun-afrikaanse-landen-herhalen-steun-richting-fifa-voorzitter-infantino~acc7073e/",
+    "title": "“Gianni, je hebt onze steun”: Afrikaanse landen herhalen steun richting FIFA-voorzitter Infantino",
+    "ko": "아프리카 국가들, 인판티노 FIFA 회장 지지 재확인",
+    "source": "hln",
+    "publishedAt": "2026-11-21T17:17:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "4e39442458e0",
+    "url": "https://www.record.pt/internacional/detalhe/confederacao-africana-de-futebol-reitera-apoio-unanime-a-reeleicao-de-infantino",
+    "title": "Confederação Africana de Futebol reitera apoio unânime à reeleição de Infantino",
+    "ko": "아프리카축구연맹, 인판티노 재선 지지 재확인",
+    "source": "record",
+    "publishedAt": "2026-11-21T18:42:50.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -981,28 +1513,95 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
-  "sourceCount": 4,
-  "score": 6.39,
+  "recentSources": 3,
+  "sourceCount": 8,
+  "score": 3.64,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-21T17:05:00.000Z",
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-19T09:31:00.000Z",
    "viaQuote": false
   },
-  "headline": "'It's a deserved defeat' - Glasner on Bournemouth loss"
+  "headline": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima"
+ },
+ {
+  "slug": "st-pauli-bochum-2026-11-22",
+  "mode": "llm",
+  "titleKo": "장크트파울리 대 보훔 경기 중계 정보",
+  "createdAt": "2026-11-21T06:30:00.000Z",
+  "updatedAt": "2026-11-21T18:39:51.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "pauli",
+   "vfl",
+   "bochum",
+   "free",
+   "stream"
+  ],
+  "articles": [
+   {
+    "id": "5dbe33b0e5a7",
+    "url": "https://www.kicker.de/wer-uebertraegt-fc-st-pauli-gegen-vfl-bochum-live-im-free-tv-und-stream-1272688/artikel#omrss",
+    "title": "Wer überträgt FC St. Pauli gegen VfL Bochum live im Free-TV und Stream?",
+    "ko": "장크트파울리 대 보훔 경기 무료 TV·스트리밍 중계 정보",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T06:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ff159e59352c",
+    "url": "https://www.kicker.de/live-richtungweisendes-duell-drei-wechsel-bei-st-pauli-1272810/artikel#omrss",
+    "title": "LIVE! Richtungweisendes Duell? Drei Wechsel bei St. Pauli",
+    "ko": "생중계: 판도 가를 한판? 장크트파울리 선발 교체 3명",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:39:51.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.52,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-21T06:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wer überträgt FC St. Pauli gegen VfL Bochum live im Free-TV und Stream?"
  },
  {
   "slug": "chelsea-leeds-2026-11-22",
   "mode": "llm",
   "titleKo": "첼시 대 리즈 경기 결과",
   "createdAt": "2026-11-21T07:00:00.000Z",
-  "updatedAt": "2026-11-21T18:13:32.000Z",
+  "updatedAt": "2026-11-21T18:35:38.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -1384,11 +1983,29 @@
     "playerTags": [],
     "author": "Ben Husband",
     "transfer": null
+   },
+   {
+    "id": "5a5b3257beb1",
+    "url": "https://www.footballinsider247.com/chelsea/stamford-bridge-headloss-wild-celebrations-four-things-you-may-have-missed-from-chelsea-vs-leeds",
+    "title": "Stamford Bridge headloss, wild celebrations: Four things you may have missed from Chelsea vs Leeds",
+    "ko": "첼시 대 리즈 경기 주요 장면 4가지",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-21T18:35:38.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 9,
   "sourceCount": 9,
-  "score": 8.58,
+  "score": 7.87,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1405,6 +2022,833 @@
    "viaQuote": true
   },
   "headline": "Leeds 'created piece of history' in Chelsea win - Farke"
+ },
+ {
+  "slug": "liverpool-chelsea-2026-11-22",
+  "mode": "llm",
+  "titleKo": "리버풀 대 첼시 여자 경기 라이브",
+  "createdAt": "2026-11-21T12:20:00.000Z",
+  "updatedAt": "2026-11-21T18:34:55.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "liverpool",
+   "chelsea"
+  ],
+  "players": [
+   "키닝"
+  ],
+  "sig": [],
+  "articles": [
+   {
+    "id": "9b7169b89cc0",
+    "url": "https://www.skysports.com/football/liverpool-women-vs-chelsea-women/live/575829",
+    "title": "WSL: Liverpool vs Chelsea LIVE!",
+    "ko": "WSL 리버풀 대 첼시 라이브 중계",
+    "source": "sky",
+    "publishedAt": "2026-11-21T12:20:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f990796ab6f6",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss",
+    "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+    "ko": "키닝 활약…리버풀, 첼시와 무득점 무승부",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T18:34:55.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "키닝"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.73,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-21T12:20:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw"
+ },
+ {
+  "slug": "rogers-handball-incident",
+  "mode": "llm",
+  "titleKo": "로저스 핸드볼 판정 논란",
+  "createdAt": "2026-11-21T18:30:22.000Z",
+  "updatedAt": "2026-11-21T18:30:22.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "모건 로저스"
+  ],
+  "sig": [
+   "rogers"
+  ],
+  "articles": [
+   {
+    "id": "f91c0c5bb6c2",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
+    "title": "'Officials can't use common sense' - was Rogers handball correct?",
+    "ko": "로저스 핸드볼 판정 논란…BBC \"심판이 상식을 쓰지 못해\"",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T18:30:22.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "모건 로저스"
+    ],
+    "playerTags": [
+     "morgan-rogers"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 2.53,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "morgan-rogers"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-21T18:30:22.000Z",
+   "viaQuote": false
+  },
+  "headline": "'Officials can't use common sense' - was Rogers handball correct?"
+ },
+ {
+  "slug": "musiala-bayern-transfer",
+  "mode": "llm",
+  "titleKo": "무시알라 바이에른 이적설 논란",
+  "createdAt": "2026-11-20T22:18:38.000Z",
+  "updatedAt": "2026-11-21T18:24:17.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "자말 무시알라",
+   "무시알라"
+  ],
+  "sig": [
+   "rummenigge",
+   "musiala",
+   "hammer"
+  ],
+  "articles": [
+   {
+    "id": "1ba553da2cb7",
+    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-rummenigge-laesst-naechsten-musiala-hammer-fallen-zr-94601245.html",
+    "title": "„Summen nicht mehr darstellbar“: Rummenigge lässt nächsten Musiala-Hammer fallen",
+    "ko": "뤼멘니게, 무시알라 관련 또 한 번 폭탄 발언",
+    "source": "tz",
+    "publishedAt": "2026-11-20T22:18:38.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Maximilian Bohne",
+    "transfer": null
+   },
+   {
+    "id": "2a110131cd94",
+    "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
+    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
+    "ko": "\"이런 조건에서 누가 뮤시알라를 살 거라고 상상이 안 된다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T22:33:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "자말 무시알라",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "32eff73ab2fc",
+    "url": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video#omrss",
+    "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
+    "ko": "바이에른의 암울한 금요일…루메니게·무시알라 논란 배경",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T23:30:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8540345a9d91",
+    "url": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video#omrss",
+    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
+    "ko": "루메니게 강한 비판 후 콤파니, 무시알라 감싸",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T23:32:10.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ad44893cd3e7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Karl-heinz-rummenigge-evoque-une-reduction-de-salaire-pour-musiala-il-a-des-problemes-de-sante-c-est-un-fait-connu/1745034#at_medium=RSS_feeds",
+    "title": "Karl-Heinz Rummenigge évoque une réduction de salaire pour Musiala : « Il a des problèmes de santé, c'est un fait connu »",
+    "ko": "루메니게, 무시알라 연봉 삭감 언급…\"건강 문제 있다는 건 알려진 사실\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T23:41:29.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "5d4bed4aa353",
+    "url": "https://www.tz.de/sport/fc-bayern/patrick-helmes-reagiert-auf-rummenigges-bayern-kritik-wegen-musiala-zr-94601253.html",
+    "title": "Rummenigges Musiala-Aussagen: Helmes hat einen brisanten Verdacht",
+    "ko": "루메니게, 무시알라 관련 발언 논란…의혹 제기",
+    "source": "tz",
+    "publishedAt": "2026-11-21T04:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "eb784b3b7ec9",
+    "url": "https://www.tz.de/sport/fc-bayern/debatte-um-musiala-rummenigge-verteidigt-hoeness-aussagen-94601385.html",
+    "title": "Bayern-Boss Rummenigge stellt sich mit Musiala-Knall schützend vor Uli Hoeneß",
+    "ko": "루멘니게, 뮐러 발언 두고 무시알라 사건으로 후이네스 옹호",
+    "source": "tz",
+    "publishedAt": "2026-11-21T08:55:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Florian Puth",
+    "transfer": null
+   },
+   {
+    "id": "2caaca3c5fdc",
+    "url": "https://www.mirror.co.uk/sport/football/news/bayern-chief-admits-jamal-musiala-37902251",
+    "title": "Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch",
+    "ko": "바이에른 회장, 무시알라 쓰러진 뒤 수개월 내 매각 가능성 인정",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T15:58:31.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Ben Husband",
+    "transfer": {
+     "player": "무시알라",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "b411c751a485",
+    "url": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video#omrss",
+    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
+    "ko": "드레젠, 루메니게 발언 설명…무시알라에 압박",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:25:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2ecbe52b4aa5",
+    "url": "https://www.tz.de/sport/fc-bayern/matthaeus-mit-deutlicher-kritik-am-fc-bayern-wegen-musiala-94601682.html",
+    "title": "Matthäus mit deutlicher Kritik am FC Bayern wegen Musiala",
+    "ko": "마테우스, 무시알라 관련 바이에른에 직격 비판",
+    "source": "tz",
+    "publishedAt": "2026-11-21T17:40:42.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b1d5b38d6e18",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+    "title": "Fifpro criticises Bayern Munich for Musiala comments",
+    "ko": "피프로, 무시알라 발언 두고 바이에른 뮌헨 비판",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T17:43:44.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5efb160a4156",
+    "url": "https://www.hln.be/bundesliga/het-is-hun-plicht-om-voor-hem-te-zorgen-spelersvakbond-maakt-zich-ernstige-zorgen-om-uitspraken-bayern-bestuur-over-jamal-musiala~a4df5bd0/",
+    "title": "“Het is hun plicht om voor hem te zorgen”: spelersvakbond “maakt zich ernstige zorgen” om uitspraken Bayern-bestuur over Jamal Musiala",
+    "ko": "선수노조 \"무시알라 관련 바이에른 경영진 발언 깊이 우려\"",
+    "source": "hln",
+    "publishedAt": "2026-11-21T18:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "d13a5b42c589",
+    "url": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video#omrss",
+    "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
+    "ko": "바이에른 팬, 무시알라 관련 보스 비판",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:24:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 5,
+  "sourceCount": 6,
+  "score": 4.96,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jamal-musiala"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-20T22:18:38.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fifpro criticises Bayern Munich for Musiala comments"
+ },
+ {
+  "slug": "nice-psg-2026-11-21",
+  "mode": "llm",
+  "titleKo": "니스 대 PSG 리그1 경기",
+  "createdAt": "2026-11-21T15:15:00.000Z",
+  "updatedAt": "2026-11-21T18:19:37.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "psg"
+  ],
+  "players": [
+   "모리스 코앵",
+   "데지레 두에",
+   "누누 멘데스",
+   "우스만 뎀벨레",
+   "비티냐",
+   "아무라",
+   "하키미",
+   "페란 토레스"
+  ],
+  "sig": [
+   "maurice",
+   "cohen",
+   "nice"
+  ],
+  "articles": [
+   {
+    "id": "e3b11f271764",
+    "url": "https://www.lequipe.fr/Football/Actualites/Mini-feux-d-artifice-chants-elle-fumigenes-et-bain-de-foule-pour-maurice-cohen-l-ambiance-monte-d-un-cran-avant-nice-psg/1745108#at_medium=RSS_feeds",
+    "title": "Mini feux d'artifice, chants, fumigènes et bain de foule pour Maurice Cohen : l'ambiance monte d'un cran avant Nice-PSG",
+    "ko": "니스·PSG 경기 앞두고 모리스 코앵 환영 열기 고조",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T14:47:14.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "모리스 코앵"
+    ],
+    "playerTags": [],
+    "author": "Thomas Doucet",
+    "transfer": null
+   },
+   {
+    "id": "b46adb8ecab9",
+    "url": "https://www.record.pt/internacional/paises/franca/detalhe/20261121-105229-nice-psg-em-direto",
+    "title": "Nice-PSG, em direto",
+    "ko": "니스 대 PSG 경기 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-21T15:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "d146bd1f02f4",
+    "url": "https://www.lequipe.fr/Football/Actualites/Les-compos-de-nice-psg-avec-desire-doue-et-nuno-mendes-sans-ousmane-dembele-ni-vitinha/1745122#at_medium=RSS_feeds",
+    "title": "Les compos de Nice-PSG : avec Désiré Doué et Nuno Mendes, sans Ousmane Dembélé ni Vitinha",
+    "ko": "니스-PSG 선발 명단…두에·누누 멘데스 출전, 뎀벨레·비티냐 결장",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T15:41:56.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "데지레 두에",
+     "누누 멘데스",
+     "우스만 뎀벨레",
+     "비티냐"
+    ],
+    "playerTags": [
+     "ousmane-dembele",
+     "vitinha",
+     "desire-doue"
+    ],
+    "author": "Hugo Delom",
+    "transfer": null
+   },
+   {
+    "id": "1ba5809e1f9c",
+    "url": "https://as.com/futbol/internacional/niza-psg-en-directo-ligue-1-hoy-en-vivo-f202611-n/",
+    "title": "Niza-PSG en directo: Ligue 1, hoy en vivo",
+    "ko": "니스 대 PSG 리그1 경기 실시간 중계",
+    "source": "as",
+    "publishedAt": "2026-11-21T16:06:17.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "b04e87ca44b6",
+    "url": "https://www.kicker.de/nizza-paris-sg-tor-zum-1-0-durch-amoura-in-der-8-minute-1273556/video#omrss",
+    "title": "Nizza - Paris SG: Tor zum 1:0 durch Amoura in der 8. Minute",
+    "ko": "니스 대 PSG 전반 8분 아무라로 선제골",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:28:07.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "아무라"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "181667bf21a5",
+    "url": "https://www.kicker.de/nice-paris-sg-tor-in-der-31-minute-1273573/video#omrss",
+    "title": "Nice - Paris SG: Tor in der 31. Minute",
+    "ko": "니스 대 PSG 전반 31분 득점 장면",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:52:07.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ded698c448b4",
+    "url": "https://www.kicker.de/nice-paris-sg-elfmeter-in-der-32-minute-1273576/video#omrss",
+    "title": "Nice - Paris SG: Elfmeter in der 32. Minute",
+    "ko": "니스 대 PSG 전반 32분 페널티킥 장면",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:53:24.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1126a86ee136",
+    "url": "https://www.kicker.de/psg-mit-dem-doppelschlag-starker-hakimi-assist-bringt-das-2-1-1273577/video#omrss",
+    "title": "PSG mit dem Doppelschlag: Starker Hakimi-Assist bringt das 2:1",
+    "ko": "PSG 연속골, 하키미 도움으로 2-1 역전",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:53:30.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "하키미"
+    ],
+    "playerTags": [
+     "achraf-hakimi"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f2531aa8dc2a",
+    "url": "https://www.kicker.de/nizza-paris-sg-tor-zum-1-3-durch-ferran-torres-in-der-85-minute-1273621/video#omrss",
+    "title": "Nizza - Paris SG: Tor zum 1:3 durch Ferran Torres in der 85. Minute",
+    "ko": "니스 대 PSG 85분 페란 토레스 골, 1-3",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:11:20.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "페란 토레스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fc9ad1df0612",
+    "url": "https://www.kicker.de/nizza-paris-sg-tor-zum-2-3-durch-abdi-in-der-90-5-minute-1273625/video#omrss",
+    "title": "Nizza - Paris SG: Tor zum 2:3 durch Abdi in der 90.+5 Minute",
+    "ko": "니스 대 PSG, 막판 실점으로 3-2 역전패 위기",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:19:37.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 4.14,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "ousmane-dembele",
+   "vitinha",
+   "desire-doue",
+   "achraf-hakimi"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-21T14:47:14.000Z",
+   "viaQuote": false
+  },
+  "headline": "Nizza - Paris SG: Tor zum 2:3 durch Abdi in der 90.+5 Minute"
+ },
+ {
+  "slug": "nottingham-forest-bournemouth-2026-11-21",
+  "mode": "llm",
+  "titleKo": "본머스 대 노팅엄 포레스트 경기 결과",
+  "createdAt": "2026-11-21T17:05:00.000Z",
+  "updatedAt": "2026-11-21T18:16:48.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "nottingham-forest",
+   "bournemouth"
+  ],
+  "players": [
+   "에바닐송",
+   "에바닐손",
+   "클라위버르트"
+  ],
+  "sig": [
+   "cherries",
+   "prem",
+   "evanilson"
+  ],
+  "articles": [
+   {
+    "id": "a4e5524c0774",
+    "url": "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/report/559545",
+    "title": "Bournemouth make more history with comfortable win against Forest",
+    "ko": "본머스, 노팅엄 포레스트 꺾고 구단 역사 또 경신",
+    "source": "sky",
+    "publishedAt": "2026-11-21T17:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "nottingham-forest",
+     "bournemouth"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "40d3bd219c78",
+    "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+    "title": "Bournemouth’s Evanilson and Kluivert sink Forest to make it eight wins in a row",
+    "ko": "에바닐손·클라위버르트 골…본머스, 노팅엄 꺾고 8연승",
+    "source": "guardian",
+    "publishedAt": "2026-11-21T17:10:24.000Z",
+    "credited": null,
+    "clubs": [
+     "bournemouth",
+     "nottingham-forest"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에바닐손",
+     "클라위버르트"
+    ],
+    "playerTags": [],
+    "author": "Press Association",
+    "transfer": null
+   },
+   {
+    "id": "357b626aab82",
+    "url": "https://www.thesun.co.uk/sport/41101573/bournemouth-2-0-nottingham-forest-evanilson-scores-again/",
+    "title": "Bournemouth 2 Nottingham Forest 0: Cherries gatecrash Prem top four as Evanilson scores for sixth successive game",
+    "ko": "본머스 2-0 노팅엄 포레스트, 에바닐송 6경기 연속 득점",
+    "source": "sun",
+    "publishedAt": "2026-11-21T17:34:32.000Z",
+    "credited": null,
+    "clubs": [
+     "bournemouth",
+     "nottingham-forest"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에바닐송"
+    ],
+    "playerTags": [],
+    "author": "Charlie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "ddcebdfb99fe",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss",
+    "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
+    "ko": "글라스너 \"본머스전 패배 정당해\"",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T18:16:48.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 4,
+  "score": 5.51,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-21T17:05:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "'It's a deserved defeat' - Glasner on Bournemouth loss"
  },
  {
   "slug": "stoke-birmingham-2026-11-19",
@@ -1561,7 +3005,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.83,
+  "score": 2,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1822,7 +3266,7 @@
   ],
   "recentSources": 6,
   "sourceCount": 6,
-  "score": 5.2,
+  "score": 4.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9185,7 +10629,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 17,
-  "score": 4.22,
+  "score": 3.65,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9245,7 +10689,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.68,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9327,7 +10771,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.68,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [
    {
@@ -9392,7 +10836,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.63,
+  "score": 1.41,
   "topTier": 2,
   "stageHistory": [
    {
@@ -10005,7 +11449,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 8,
-  "score": 0.62,
+  "score": 1.71,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10022,316 +11466,6 @@
    "viaQuote": false
   },
   "headline": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11"
- },
- {
-  "slug": "infantino-fifa-affairs-election-candidacy",
-  "mode": "llm",
-  "titleKo": "FIFA 회장 선거 후보 등록 완료",
-  "createdAt": "2026-11-19T09:31:00.000Z",
-  "updatedAt": "2026-11-21T17:17:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "람 베가",
-   "폴라린 발로군"
-  ],
-  "sig": [
-   "fifa"
-  ],
-  "articles": [
-   {
-    "id": "c6ae478592e9",
-    "url": "https://www.record.pt/internacional/detalhe/oficial-estao-confirmados-os-tres-candidatos-que-vao-a-votos-nas-eleicoes-para-a-presidencia-da-fifa",
-    "title": "Oficial: estão confirmados os três candidatos que vão a votos nas eleições para a presidência da FIFA",
-    "ko": "FIFA 회장 선거 최종 후보 3명 확정",
-    "source": "record",
-    "publishedAt": "2026-11-19T09:31:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ee0466783074",
-    "url": "https://www.kicker.de/offiziell-zwei-kandidaten-treten-gegen-infantino-an-1272914/artikel#omrss",
-    "title": "Offiziell: Zwei Kandidaten treten gegen Infantino an",
-    "ko": "인판티노에 도전장…두 후보 공식 출마",
-    "source": "kicker",
-    "publishedAt": "2026-11-19T09:43:44.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "6927892b5aa9",
-    "url": "https://www.lequipe.fr/Football/Actualites/Gianni-infantino-philippe-diallo-et-kozo-tashima-ont-transmis-leur-candidature-a-la-fifa-pour-l-election-a-la-presidence/1744600#at_medium=RSS_feeds",
-    "title": "Gianni Infantino, Philippe Diallo et Kozo Tashima ont transmis leur candidature à la FIFA pour l'élection à la présidence",
-    "ko": "인판티노·디알로·타시마, FIFA 회장 선거 후보 등록",
-    "source": "lequipe",
-    "publishedAt": "2026-11-19T09:48:13.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Moatti",
-    "transfer": null
-   },
-   {
-    "id": "dd2aaa5b2e44",
-    "url": "https://www.hln.be/wk-voetbal/ramon-vega-valt-af-infantino-wordt-uitgedaagd-door-twee-kandidaten-belgie-steunt-philippe-diallo~acc7073e/",
-    "title": "Ramon Vega valt af: Infantino wordt uitgedaagd door twee kandidaten, België steunt Philippe Diallo",
-    "ko": "람 베가 탈락, 인판티노에 두 후보 도전…벨기에는 디알로 지지",
-    "source": "hln",
-    "publishedAt": "2026-11-19T10:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "람 베가"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "b62e45ed2070",
-    "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
-    "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
-    "ko": "인판티노에 도전장, FIFA 회장 선거 후보 라인업 공개",
-    "source": "guardian",
-    "publishedAt": "2026-11-19T10:56:21.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matt Hughes",
-    "transfer": null
-   },
-   {
-    "id": "47f14bff80a4",
-    "url": "https://www.kicker.de/beschwerdebrief-europaeer-erhoehen-den-druck-im-fifa-machtkampf-1273021/artikel#omrss",
-    "title": "Beschwerdebrief: Europäer erhöhen den Druck im FIFA-Machtkampf",
-    "ko": "유럽 측 항의 서한 발송…FIFA 권력 다툼 압박 높여",
-    "source": "kicker",
-    "publishedAt": "2026-11-19T14:17:29.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7c2698cccb61",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-federation-anglaise-a-envisage-de-contester-l-eligibilite-de-gianni-infantino-pour-un-quatrieme-mandat-a-la-tete-de-la-fifa-avant-de-se-retracter/1744658#at_medium=RSS_feeds",
-    "title": "La Fédération anglaise a envisagé de contester l'éligibilité de Gianni Infantino pour un quatrième mandat à la tête de la FIFA avant de se rétracter",
-    "ko": "잉글랜드 협회, 인판티노 FIFA 4선 도전 두고 자격 이의 검토 후 철회",
-    "source": "lequipe",
-    "publishedAt": "2026-11-19T14:52:33.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "0f8798ca14ba",
-    "url": "https://www.hln.be/voetbal/zijn-tegenstanders-zijn-een-grote-grap-waarom-er-maar-een-manier-is-om-gianni-infantino-van-de-fifa-troon-te-stoten~a3f3b091/",
-    "title": "“Zijn tegenstanders zijn één grote grap”: waarom er maar één manier is om Gianni Infantino van de FIFA-troon te stoten",
-    "ko": "인판티노 FIFA 회장 자리 도전자 누가 있나",
-    "source": "hln",
-    "publishedAt": "2026-11-19T17:24:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Niels Vleminckx",
-    "transfer": null
-   },
-   {
-    "id": "de9ce9d87af2",
-    "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
-    "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
-    "ko": "인판티노, 다가오는 FIFA 선거에서 공정한 경쟁 촉구",
-    "source": "espn",
-    "publishedAt": "2026-11-20T04:53:50.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Ogden",
-    "transfer": null
-   },
-   {
-    "id": "7eee77a8eedc",
-    "url": "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino",
-    "title": "FIFA presidential challenger Tashima willing to unite with Diallo against Infantino",
-    "ko": "FIFA 회장 도전자 타시마, 디알로와 손잡고 인판티노에 맞설 의향",
-    "source": "espn",
-    "publishedAt": "2026-11-20T06:15:57.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Associated Press",
-    "transfer": null
-   },
-   {
-    "id": "9101e915b443",
-    "url": "https://www.nytimes.com/athletic/7797697/2026/11/20/kozo-tashima-folarin-balogun-fifa-presidency/",
-    "title": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-20T13:05:24.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "폴라린 발로군"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a2854a6474d3",
-    "url": "https://as.com/futbol/internacional/conmebol-elige-a-infantino-f202611-n/",
-    "title": "CONMEBOL elige a Infantino",
-    "ko": "CONMEBOL, 인판티노 선택",
-    "source": "as",
-    "publishedAt": "2026-11-20T18:27:30.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Víctor Martín J.",
-    "transfer": null
-   },
-   {
-    "id": "e2e07e4bc531",
-    "url": "https://www.lequipe.fr/Football/Actualites/Les-pays-sud-americains-de-la-conmebol-annoncent-leur-soutien-a-l-unanimite-a-gianni-infantino-candidat-a-la-presidence-de-la-fifa/1744980#at_medium=RSS_feeds",
-    "title": "Les pays sud-américains de la Conmebol annoncent leur soutien « à l'unanimité » à Gianni Infantino, candidat à la présidence de la FIFA",
-    "ko": "남미축구연맹, 인판티노 FIFA 회장 후보 지지 선언",
-    "source": "lequipe",
-    "publishedAt": "2026-11-20T19:46:33.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Arthur Verdelet",
-    "transfer": null
-   },
-   {
-    "id": "ed3cff5f2691",
-    "url": "https://www.kicker.de/fuehrungsstaerke-als-argument-suedamerikaner-stuetzen-infantino-1273355/artikel#omrss",
-    "title": "Führungsstärke als Argument: Südamerikaner stützen Infantino",
-    "ko": "남미 협회들, 인판티노 리더십 강조하며 지지 표명",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T20:24:13.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ec6b7546b91a",
-    "url": "https://www.record.pt/internacional/detalhe/infantino-tem-apoio-da-conmebol-na-corrida-a-presidencia-da-fifa",
-    "title": "Infantino tem apoio da CONMEBOL na corrida à presidência da FIFA",
-    "ko": "인판티노, 남미축구연맹 지지 확보…FIFA 회장 선거 가속",
-    "source": "record",
-    "publishedAt": "2026-11-20T21:33:52.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8c5b2743bbbe",
-    "url": "https://www.kicker.de/im-namen-der-54-nationen-auch-caf-unterstuetzt-infantino-1273538/artikel#omrss",
-    "title": "\"Im Namen der 54 Nationen\": Auch CAF unterstützt Infantino",
-    "ko": "인판티노, 'FIFA 54개 국가 이름으로' 지지 확보 나서",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T15:55:54.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c3cda544a8b3",
-    "url": "https://www.hln.be/wk-voetbal/gianni-je-hebt-onze-steun-afrikaanse-landen-herhalen-steun-richting-fifa-voorzitter-infantino~acc7073e/",
-    "title": "“Gianni, je hebt onze steun”: Afrikaanse landen herhalen steun richting FIFA-voorzitter Infantino",
-    "ko": "아프리카 국가들, 인판티노 FIFA 회장 지지 재확인",
-    "source": "hln",
-    "publishedAt": "2026-11-21T17:17:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 8,
-  "score": 2.2,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-19T09:31:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima"
  },
  {
   "slug": "man-city-fulham-2026-11-20",
@@ -11017,7 +12151,7 @@
   ],
   "recentSources": 14,
   "sourceCount": 14,
-  "score": 7.22,
+  "score": 6.91,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11337,7 +12471,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 9,
-  "score": 2.19,
+  "score": 1.89,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11409,7 +12543,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.79,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -11422,516 +12556,6 @@
    "viaQuote": false
   },
   "headline": "Joedrick Pupe bezorgt Sint-Truiden met fenomenale hakbal verdiend gelijkspel tegen Charleroi, dat met veldspeler in doel eindigt"
- },
- {
-  "slug": "newcastle-arsenal-2026-11-22",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 대 아스널 경기 예상 선발",
-  "createdAt": "2026-11-18T15:49:30.000Z",
-  "updatedAt": "2026-11-21T17:06:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "newcastle",
-   "arsenal"
-  ],
-  "players": [
-   "윌 오술라",
-   "션 스테우르",
-   "사카",
-   "윌리엄 살리바",
-   "부카요 사카",
-   "마르틴 수비멘디",
-   "니코 곤살레스",
-   "앙가 엘랑가",
-   "브루노 기마랑이스"
-  ],
-  "sig": [
-   "osula"
-  ],
-  "articles": [
-   {
-    "id": "479407a968d7",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-clash-arsenal-handed-34931326",
-    "title": "Newcastle United clash with Arsenal handed unpopular new kick off time by TV chiefs",
-    "ko": "뉴캐슬-아스널 경기, 방송사가 킥오프 시간 변경",
-    "source": "chronicle",
-    "publishedAt": "2026-11-18T15:49:30.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "fe035b26422c",
-    "url": "https://www.footballinsider247.com/arsenal/will-osula-axed-newcastle-should-drop-forward-vs-arsenal-to-start-speedster-with-27-sprints-per-90",
-    "title": "Will Osula axed: Newcastle should drop forward vs Arsenal to start speedster with 27 sprints per 90",
-    "ko": "뉴캐슬, 아스널전 윙어 기용 두고 윌 오술라 제외 논쟁",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T08:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "윌 오술라"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "60f131c1ed62",
-    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-arsenal-injury-news-34934228",
-    "title": "Seven players set to miss Newcastle vs Arsenal as Mikel Arteta suffers fresh injury blow",
-    "ko": "아르테타, 뉴캐슬전 앞두고 부상 악재…7명 결장 우려",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T09:47:59.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matt Maltby",
-    "transfer": null
-   },
-   {
-    "id": "59c7c8842d75",
-    "url": "https://www.footballinsider247.com/newcastle-united/sean-steur-among-newcastle-trio-who-mattias-jaissle-should-axe-vs-arsenal-to-save-his-job",
-    "title": "Sean Steur among Newcastle trio who Mattias Jaissle should axe vs Arsenal to save his job",
-    "ko": "뉴캐슬 세 선수, 아스널전 선발 제외 필요성 거론",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T09:55:12.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "션 스테우르"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "16d7a9519317",
-    "url": "https://www.footballinsider247.com/newcastle-united/ex-refs-chief-raises-serious-questions-over-chris-kavanagh-appointment-for-newcastle-vs-arsenal",
-    "title": "Ex-refs chief raises serious questions over Chris Kavanagh appointment for Newcastle vs Arsenal",
-    "ko": "뉴캐슬 대 아스널 주심 선정에 전 심판장 의문 제기",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-19T10:39:46.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "51b7d669ba49",
-    "url": "https://www.football.london/arsenal-fc/news/newcastle-united-fixture-premier-league-34935513",
-    "title": "Arsenal vs Newcastle kick-off time moved as Premier League issue statement",
-    "ko": "아스널 대 뉴캐슬 킥오프 시간 변경 발표",
-    "source": "fblondon",
-    "publishedAt": "2026-11-19T12:20:33.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "115a6bc3ac33",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/flimsy-newcastle-united-must-recall-34934947",
-    "title": "Flimsy Newcastle United must recall efforts of one specific glorious performance to stun Arsenal",
-    "ko": "허약한 뉴캐슬, 아스널 꺾으려면 영광의 한 경기 떠올려야",
-    "source": "chronicle",
-    "publishedAt": "2026-11-19T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Gibson",
-    "transfer": null
-   },
-   {
-    "id": "db57609ae9f4",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/dowman-saka-4-players-set-34940114",
-    "title": "Dowman, Saka and 4 players set to miss Newcastle United vs Arsenal amid Mikel Arteta update",
-    "ko": "뉴캐슬 대 아스널 경기, 다우먼·사카 등 4명 결장 가능성",
-    "source": "chronicle",
-    "publishedAt": "2026-11-20T08:55:51.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "사카"
-    ],
-    "playerTags": [
-     "bukayo-saka"
-    ],
-    "author": "Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "4bd65c188b28",
-    "url": "https://www.football.london/arsenal-fc/news/arsenal-injury-news-latest-newcastle-34940482",
-    "title": "Saliba, Saka, Zubimendi - Arsenal injury latest and return dates ahead of Newcastle clash",
-    "ko": "살리바·사카·지베멘디 등 아스널 부상 현황과 뉴캐슬전 복귀 시점",
-    "source": "fblondon",
-    "publishedAt": "2026-11-20T10:26:40.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "윌리엄 살리바",
-     "부카요 사카",
-     "마르틴 수비멘디"
-    ],
-    "playerTags": [
-     "bukayo-saka",
-     "william-saliba"
-    ],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "cac69f4a3f7c",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/matthias-jaissle-makes-mikel-arteta-34942389",
-    "title": "Matthias Jaissle makes Mikel Arteta a promise ahead of Newcastle United's battle with Arsenal",
-    "ko": "야이슬레, 아르테타에게 약속…뉴캐슬, 아스널과 맞대결 앞둬",
-    "source": "chronicle",
-    "publishedAt": "2026-11-20T16:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lee Ryder",
-    "transfer": null
-   },
-   {
-    "id": "c8839281ed91",
-    "url": "https://www.football.london/arsenal-fc/fixtures-results/arsenal-predicted-team-vs-newcastle-34943448",
-    "title": "Arsenal predicted team vs Newcastle - Mikel Arteta rewards key star as big back four change made",
-    "ko": "아르테타, 뉴캐슬전 예상 선발 공개…뒷선 대폭 변화",
-    "source": "fblondon",
-    "publishedAt": "2026-11-21T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tom Canton",
-    "transfer": null
-   },
-   {
-    "id": "9b8c11ecc48d",
-    "url": "https://www.football.london/arsenal-fc/news/bruno-guimaraes-newcastle-premier-league-34941437",
-    "title": "Mikel Arteta issues Bruno Guimaraes demand with Arsenal star braced for Newcastle nightmare",
-    "ko": "아르테타, 브루노 기마랑이스 관련 요구…뉴캐슬전 앞둔 아스널 선수 부담",
-    "source": "fblondon",
-    "publishedAt": "2026-11-21T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 기마랑이스"
-    ],
-    "playerTags": [
-     "bruno-guimaraes"
-    ],
-    "author": "Tom Canton",
-    "transfer": null
-   },
-   {
-    "id": "e6a40a2e56cf",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-newcastle-arsenal-en-premier-league/1744281#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Newcastle-Arsenal en Premier League ?",
-    "ko": "뉴캐슬 대 아스널, 방송 채널과 킥오프 시간 안내",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T07:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "1415f05da9b2",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-line-up-arsenal-34918044",
-    "title": "Newcastle United line-ups vs Arsenal with Nico Gonzalez facing axe and Anthony Elanga call-up",
-    "ko": "뉴캐슬, 아스널전 선발 발표…니코 곤살레스 제외 가능성",
-    "source": "chronicle",
-    "publishedAt": "2026-11-21T07:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "니코 곤살레스",
-     "앙가 엘랑가"
-    ],
-    "playerTags": [],
-    "author": "Lee Ryder, Stuart Jamieson, Sean McCormick, Ross Gregory",
-    "transfer": null
-   },
-   {
-    "id": "6cb08f50faf6",
-    "url": "https://www.thesun.co.uk/sport/41046143/newcastle-arsenal-predictions-free-bets-preview/",
-    "title": "Newcastle vs Arsenal | Premier League predictions, preview and free bets",
-    "ko": "뉴캐슬 대 아스널 승부 예측과 무료 베팅",
-    "source": "sun",
-    "publishedAt": "2026-11-21T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "4aa172fb1974",
-    "url": "https://www.mirror.co.uk/sport/football/news/arsenal-newcastle-kick-off-time-37901172",
-    "title": "Arsenal and Newcastle given detested new kick-off time for Premier League clash",
-    "ko": "아스널·뉴캐슬 경기, 불만 큰 새 킥오프 시간 배정",
-    "source": "mirror",
-    "publishedAt": "2026-11-21T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Dan Burnham",
-    "transfer": null
-   },
-   {
-    "id": "e34d15c9f631",
-    "url": "https://www.football.london/arsenal-fc/news/alan-shearer-jamie-carragher-agree-34946665",
-    "title": "Alan Shearer and Jamie Carragher agree on Newcastle vs Arsenal Premier League score prediction",
-    "ko": "섀러·카라허, 뉴캐슬 대 아스널 스코어 예측 일치",
-    "source": "fblondon",
-    "publishedAt": "2026-11-21T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sam Truelove",
-    "transfer": null
-   },
-   {
-    "id": "69686c2311d2",
-    "url": "https://www.thesun.co.uk/sport/41071576/newcastle-arsenal-betfred-free-bet-builder/",
-    "title": "Newcastle vs Arsenal: Get money back as free bets if your Bet Builder loses, plus our 11/1 tip | Betfred",
-    "ko": "뉴캐슬 대 아스널 베팅 빌더 추천 및 환급 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-21T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "b0629a9b9121",
-    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-vs-arsenal-live-34941198",
-    "title": "Newcastle United vs Arsenal LIVE: Early team news and Bruno Guimaraes role",
-    "ko": "뉴캐슬 대 아스널 라이브: 초기 팀뉴스와 브루노 기마랑이스 역할",
-    "source": "chronicle",
-    "publishedAt": "2026-11-21T14:04:44.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 기마랑이스"
-    ],
-    "playerTags": [
-     "bruno-guimaraes"
-    ],
-    "author": "Lee Ryder, Sean McCormick",
-    "transfer": null
-   },
-   {
-    "id": "0c83d43fe83d",
-    "url": "https://www.football.london/arsenal-fc/fixtures-results/newcastle-united-vs-arsenal-live-34944129",
-    "title": "Newcastle United vs Arsenal LIVE - Kick-off time, TV channel, team news, live stream details",
-    "ko": "뉴캐슬 대 아스널 킥오프 시간·중계·선발 정보",
-    "source": "fblondon",
-    "publishedAt": "2026-11-21T14:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tom Canton",
-    "transfer": null
-   },
-   {
-    "id": "43b73a55b93c",
-    "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
-    "title": "Newcastle United v Arsenal: Premier League – live",
-    "ko": "뉴캐슬 대 아스널 프리미어리그 생중계",
-    "source": "guardian",
-    "publishedAt": "2026-11-21T16:19:32.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rob Smyth",
-    "transfer": null
-   },
-   {
-    "id": "d10db35f4959",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/20261121-105637-newcastle-arsenal-em-direto",
-    "title": "Newcastle-Arsenal, em direto",
-    "ko": "뉴캐슬 대 아스널 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-21T16:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9ef378269af2",
-    "url": "https://as.com/futbol/internacional/newcastle-arsenal-en-directo-premier-league-hoy-en-vivo-f202611-d/",
-    "title": "Newcastle - Arsenal en directo: Premier League hoy, en vivo",
-    "ko": "뉴캐슬 대 아스널 프리미어리그 생중계 정보",
-    "source": "as",
-    "publishedAt": "2026-11-21T17:06:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Pablo Almohalla",
-    "transfer": null
-   }
-  ],
-  "recentSources": 8,
-  "sourceCount": 9,
-  "score": 5.29,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "bukayo-saka",
-   "william-saliba",
-   "bruno-guimaraes"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Chronicle Live (뉴캐슬)",
-   "source": "chronicle",
-   "at": "2026-11-18T15:49:30.000Z",
-   "viaQuote": false
-  },
-  "headline": "Newcastle - Arsenal en directo: Premier League hoy, en vivo"
  },
  {
   "slug": "gladbach-dortmund-2026-11-19",
@@ -12156,7 +12780,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 3.48,
+  "score": 3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12339,7 +12963,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.5,
+  "score": 1.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12435,7 +13059,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.31,
+  "score": 1.99,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12561,7 +13185,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.28,
+  "score": 1.97,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12621,7 +13245,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.32,
+  "score": 1.14,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12678,7 +13302,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.3,
+  "score": 1.12,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12729,7 +13353,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.14,
+  "score": 0.98,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12802,7 +13426,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.98,
+  "score": 0.84,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12888,7 +13512,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.09,
+  "score": 1.8,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12941,7 +13565,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.11,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12993,7 +13617,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.08,
+  "score": 0.94,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13325,7 +13949,7 @@
   ],
   "recentSources": 9,
   "sourceCount": 10,
-  "score": 4.31,
+  "score": 3.72,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13387,7 +14011,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.05,
+  "score": 0.91,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13871,7 +14495,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 1.55,
+  "score": 1.34,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13935,7 +14559,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0.25,
   "topTier": 4,
   "stageHistory": [
    {
@@ -13960,72 +14584,6 @@
    "viaQuote": false
   },
   "headline": "Liverpool could benefit from Newcastle's Lamine Camara blunder as 'expected' move revealed"
- },
- {
-  "slug": "saint-etienne-reims-fans-incident",
-  "mode": "llm",
-  "titleKo": "생테티엔 랭스 원정 응원단 이동 논란",
-  "createdAt": "2026-11-21T09:10:04.000Z",
-  "updatedAt": "2026-11-21T14:20:13.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "étienne",
-   "reims",
-   "conseil",
-   "état"
-  ],
-  "articles": [
-   {
-    "id": "bcd35f3ed721",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-deplacement-des-supporters-de-saint-etienne-a-reims-en-suspens-apres-une-decision-du-conseil-d-etat-qui-l-autorise-sous-certaines-conditions/1745059#at_medium=RSS_feeds",
-    "title": "Le déplacement des supporters de Saint-Étienne à Reims en suspens après une décision du Conseil d'État qui l'autorise sous certaines conditions",
-    "ko": "생테티엔 원정 팬 이동, 콩세유 데타 조건부 허용 결정 보류",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T09:10:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "José Barroso",
-    "transfer": null
-   },
-   {
-    "id": "732cd5a3c584",
-    "url": "https://www.lequipe.fr/Football/Actualites/Malgre-un-arrete-ministeriel-les-supporters-de-saint-etienne-seront-bien-a-reims/1745102#at_medium=RSS_feeds",
-    "title": "Malgré un arrêté ministériel, les supporters de Saint-Étienne seront bien à Reims",
-    "ko": "생테티엔 서포터즈, 장관 명령에도 랭스 원정 간다",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T14:20:13.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "José Barroso",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.39,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-21T09:10:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Malgré un arrêté ministériel, les supporters de Saint-Étienne seront bien à Reims"
  },
  {
   "slug": "chelsea-affairs-tom-brady-stake",
@@ -14201,7 +14759,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 1.28,
+  "score": 1.11,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14461,7 +15019,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.83,
+  "score": 0.72,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14516,7 +15074,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.83,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14575,7 +15133,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.24,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -14662,7 +15220,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.57,
+  "score": 0.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14993,7 +15551,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.66,
+  "score": 0.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15251,7 +15809,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.17,
+  "score": 0.15,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15304,7 +15862,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.49,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15317,103 +15875,6 @@
    "viaQuote": false
   },
   "headline": "Florentino: “No voy a descansar, el caso Negreira no puede quedar impune”"
- },
- {
-  "slug": "real-madrid-celta-2026-11-22",
-  "mode": "llm",
-  "titleKo": "레알 마드리드 대 셀타 경기 예상 선발",
-  "createdAt": "2026-11-21T07:33:36.000Z",
-  "updatedAt": "2026-11-21T10:18:13.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "티보 쿠르투아"
-  ],
-  "sig": [
-   "celta",
-   "laliga",
-   "sports"
-  ],
-  "articles": [
-   {
-    "id": "b3892e2f6937",
-    "url": "https://www.hln.be/primera-division/live-21u-houdt-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
-    "title": "LIVE (21u). Houdt Thibaut Courtois zijn netten bij Real proper tegen Celta?",
-    "ko": "쿠르투아, 셀타전에서 레알 골문 지킬 수 있을지 주목",
-    "source": "hln",
-    "publishedAt": "2026-11-20T23:00:28.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "d9d21666918e",
-    "url": "https://as.com/futbol/alineacion-posible-del-real-madrid-contra-el-celta-en-laliga-ea-sports-f202611-n/",
-    "title": "Posible alineación del Real Madrid contra el Celta en LaLiga EA Sports",
-    "ko": "레알 마드리드, 셀타전 예상 선발 라인업 공개",
-    "source": "as",
-    "publishedAt": "2026-11-21T07:33:36.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Agustín Martín",
-    "transfer": null
-   },
-   {
-    "id": "9df33fa1cc45",
-    "url": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-    "title": "Real Madrid - Celta, en directo: previa y última hora de LaLiga EA Sports, hoy en vivo",
-    "ko": "레알 마드리드 대 셀타 라리가 경기 실시간 중계",
-    "source": "as",
-    "publishedAt": "2026-11-21T10:18:13.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.29,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "thibaut-courtois"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-20T23:00:28.000Z",
-   "viaQuote": false
-  },
-  "headline": "Real Madrid - Celta, en directo: previa y última hora de LaLiga EA Sports, hoy en vivo"
  },
  {
   "slug": "matos-strasbourg-appointment",
@@ -15516,7 +15977,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.44,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15890,7 +16351,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.13,
+  "score": 0.11,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15968,7 +16429,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16057,7 +16518,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.39,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17257,7 +17718,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 0.38,
+  "score": 0.42,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17318,7 +17779,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17382,7 +17843,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -17439,7 +17900,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17511,7 +17972,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17583,7 +18044,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17655,7 +18116,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17729,7 +18190,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -17819,9 +18280,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17903,9 +18364,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -18196,9 +18657,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18416,9 +18877,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 6,
-  "score": 0.26,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [
    {
@@ -18481,110 +18942,6 @@
     }
    }
   }
- },
- {
-  "slug": "schalke-stuttgart-2026-11-22",
-  "mode": "llm",
-  "titleKo": "샬케 대 슈투트가르트 경기 중계 정보",
-  "createdAt": "2026-11-21T06:30:00.000Z",
-  "updatedAt": "2026-11-21T06:30:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "schalke"
-  ],
-  "players": [],
-  "sig": [
-   "vfb",
-   "stuttgart",
-   "stream"
-  ],
-  "articles": [
-   {
-    "id": "b578dafa74d8",
-    "url": "https://www.kicker.de/wer-uebertraegt-fc-schalke-04-gegen-vfb-stuttgart-live-im-tv-und-stream-1271331/artikel#omrss",
-    "title": "Wer überträgt FC Schalke 04 gegen VfB Stuttgart live im TV und Stream?",
-    "ko": "샬케 대 슈투트가르트 경기 TV·스트리밍 중계 정보",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T06:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "schalke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-21T06:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Wer überträgt FC Schalke 04 gegen VfB Stuttgart live im TV und Stream?"
- },
- {
-  "slug": "st-pauli-bochum-2026-11-22",
-  "mode": "llm",
-  "titleKo": "장크트파울리 대 보훔 경기 중계 정보",
-  "createdAt": "2026-11-21T06:30:00.000Z",
-  "updatedAt": "2026-11-21T06:30:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "pauli",
-   "vfl",
-   "bochum",
-   "free",
-   "stream"
-  ],
-  "articles": [
-   {
-    "id": "5dbe33b0e5a7",
-    "url": "https://www.kicker.de/wer-uebertraegt-fc-st-pauli-gegen-vfl-bochum-live-im-free-tv-und-stream-1272688/artikel#omrss",
-    "title": "Wer überträgt FC St. Pauli gegen VfL Bochum live im Free-TV und Stream?",
-    "ko": "장크트파울리 대 보훔 경기 무료 TV·스트리밍 중계 정보",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T06:30:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-21T06:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Wer überträgt FC St. Pauli gegen VfL Bochum live im Free-TV und Stream?"
  },
  {
   "slug": "mourinho-real-madrid-training-incident",
@@ -113901,64 +114258,6 @@
   "headline": "Chaves-Penafiel, 2-3: visitantes vencem e sobem provisoriamente à liderança da 2.ª Liga"
  },
  {
-  "slug": "osasuna-athletic-2026-11-10",
-  "mode": "llm",
-  "titleKo": "오사수나 대 빌바오 경기",
-  "createdAt": "2026-11-07T19:19:36.000Z",
-  "updatedAt": "2026-11-07T19:19:36.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "니코 윌리엄스"
-  ],
-  "sig": [
-   "bilbao",
-   "tor",
-   "williams",
-   "minute"
-  ],
-  "articles": [
-   {
-    "id": "8516a57bb44c",
-    "url": "https://www.kicker.de/osasuna-bilbao-tor-zum-0-1-durch-williams-in-der-84-minute-1269559/video#omrss",
-    "title": "Osasuna - Bilbao: Tor zum 0:1 durch Williams in der 84. Minute",
-    "ko": "오사수나 대 빌바오, 84분 윌리엄스 득점으로 빌바오 1-0 리드",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T19:19:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "니코 윌리엄스"
-    ],
-    "playerTags": [
-     "nico-williams"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "nico-williams"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-07T19:19:36.000Z",
-   "viaQuote": false
-  },
-  "headline": "Osasuna - Bilbao: Tor zum 0:1 durch Williams in der 84. Minute"
- },
- {
   "slug": "mainz-bayern-2026-11-07",
   "mode": "llm",
   "titleKo": "마인츠 대 바이에른 경기 전망",
@@ -114218,144 +114517,6 @@
    "viaQuote": false
   },
   "headline": "Kane bags two assists in Bayern’s win over Mainz"
- },
- {
-  "slug": "vermeeren-injury",
-  "mode": "llm",
-  "titleKo": "페르메렌 발목 부상 우려",
-  "createdAt": "2026-11-05T12:46:09.000Z",
-  "updatedAt": "2026-11-07T18:41:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "아르튀르 페르메렌",
-   "아르튀르 베르메렌"
-  ],
-  "sig": [
-   "antwerp",
-   "arthur",
-   "vermeeren",
-   "lommel"
-  ],
-  "articles": [
-   {
-    "id": "579e8dbab5ec",
-    "url": "https://www.hln.be/antwerp/streep-door-de-rekening-voor-antwerp-arthur-vermeeren-onzeker-voor-cruciaal-duel-tegen-lommel-met-enkelblessure~ab87d11b/",
-    "title": "Streep door de rekening voor Antwerp? Arthur Vermeeren onzeker voor cruciaal duel tegen Lommel met enkelblessure",
-    "ko": "안트베르펜 아르튀르 페르메렌, 롬멜전 발목 부상으로 출전 불투명",
-    "source": "hln",
-    "publishedAt": "2026-11-05T12:46:09.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "아르튀르 페르메렌"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "1fb16b90027e",
-    "url": "https://www.hln.be/antwerp/flinke-domper-voor-antwerp-arthur-vermeeren-moet-met-enkelblessure-passen-voor-cruciaal-duel-tegen-lommel~ab87d11b/",
-    "title": "Flinke domper voor Antwerp: Arthur Vermeeren moet met enkelblessure passen voor cruciaal duel tegen Lommel",
-    "ko": "아르튀르 페르메렌, 발목 부상으로 로멜전 출전 불투명",
-    "source": "hln",
-    "publishedAt": "2026-11-06T12:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "아르튀르 페르메렌"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-05T12:46:09.000Z",
-   "viaQuote": false
-  },
-  "headline": "Flinke domper voor Antwerp: Arthur Vermeeren moet met enkelblessure passen voor cruciaal duel tegen Lommel"
- },
- {
-  "slug": "parma-bol-2026-11-10",
-  "mode": "llm",
-  "titleKo": "파르마 대 BOL 경기 72분 페널티킥",
-  "createdAt": "2026-11-07T18:39:43.000Z",
-  "updatedAt": "2026-11-07T18:40:01.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "bol",
-   "tor",
-   "minute"
-  ],
-  "articles": [
-   {
-    "id": "7a6ee5352911",
-    "url": "https://www.kicker.de/parma-bol-tor-in-der-72-minute-1269548/video#omrss",
-    "title": "Parma - BOL: Tor in der 72. Minute",
-    "ko": "파르마 대 BOL 경기 72분 득점 상황",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T18:39:43.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c24fb5eca90a",
-    "url": "https://www.kicker.de/parma-bol-elfmeter-in-der-72-minute-1269549/video#omrss",
-    "title": "Parma - BOL: Elfmeter in der 72. Minute",
-    "ko": "파르마 대 BOL 경기 72분 페널티킥 상황",
-    "source": "kicker",
-    "publishedAt": "2026-11-07T18:40:01.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-07T18:39:43.000Z",
-   "viaQuote": false
-  },
-  "headline": "Parma - BOL: Elfmeter in der 72. Minute"
  },
  {
   "slug": "dalot-man-utd-transfer",
