@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T23:28:06.336Z",
+ "updatedAt": "2026-11-21T00:17:54.419Z",
  "hot": [
   "kane-olise-injury",
   "pochettino-man-utd-manager-future",
+  "musiala-bayern-transfer",
   "chelsea-affairs-tom-brady-stake",
-  "bayern-koln-2026-11-19",
-  "infantino-fifa-affairs-election-candidacy"
+  "bayern-koln-2026-11-19"
  ],
  "days": [
   "2026-10-18",
@@ -45,19 +45,19 @@
   "bbc": {
    "ok": true,
    "items": 80,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 59,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -81,7 +81,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -93,13 +93,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 1,
    "authorRate": 86
   },
   "fblondon": {
@@ -164,7 +164,7 @@
   },
   "stoke": {
    "ok": true,
-   "items": 23,
+   "items": 22,
    "added": 0,
    "authorRate": 100
   },
@@ -177,13 +177,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -194,7 +194,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -322,7 +322,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 205,
+  "recentIssues": 206,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -513,6 +513,20 @@
    ]
   },
   {
+   "en": "Cláudio Ramos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "클라우디우 호스",
+     "count": 3
+    },
+    {
+     "ko": "클라우디오 호스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -629,6 +643,24 @@
    ]
   },
   {
+   "en": "Agostinho Bento",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아고스티뇨 벤투",
+     "count": 1
+    },
+    {
+     "ko": "아고스티뉴 벤토",
+     "count": 1
+    },
+    {
+     "ko": "아고스티뉴 벤투",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kieran Maguire",
    "dictionary": null,
    "variants": [
@@ -740,6 +772,20 @@
     },
     {
      "ko": "밀레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Francisco Moura",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프란시스쿠 모우라",
+     "count": 2
+    },
+    {
+     "ko": "프란시스코 모우라",
      "count": 1
     }
    ]
@@ -913,20 +959,6 @@
    ]
   },
   {
-   "en": "Agostinho Bento",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아고스티뇨 벤투",
-     "count": 1
-    },
-    {
-     "ko": "아고스티뉴 벤토",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "John McGinn",
    "dictionary": null,
    "variants": [
@@ -1051,34 +1083,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Thioune",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티우네",
-     "count": 1
-    },
-    {
-     "ko": "투운",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Justin Devenny",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "저스틴 데버니",
-     "count": 1
-    },
-    {
-     "ko": "저스틴 데브니",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1171,8 +1175,8 @@
    "llm": 721
   },
   "2026-11-21": {
-   "collected": 424,
-   "llm": 424
+   "collected": 442,
+   "llm": 442
   }
  },
  "llmErrors": []
