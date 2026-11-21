@@ -4,11 +4,12 @@
   "mode": "llm",
   "titleKo": "케인 중상 부상 수개월 결장",
   "createdAt": "2026-11-21T07:59:43.000Z",
-  "updatedAt": "2026-11-21T10:27:12.000Z",
+  "updatedAt": "2026-11-21T11:05:36.000Z",
   "category": "injury",
   "stage": null,
   "clubs": [
-   "man-utd"
+   "man-utd",
+   "bayern"
   ],
   "players": [
    "해리 케인"
@@ -19,6 +20,26 @@
    "england"
   ],
   "articles": [
+   {
+    "id": "01afc638bc9b",
+    "url": "https://www.kicker.de/torjaeger-bereits-operiert-kane-erleidet-syndesmoseriss-1273380/artikel#omrss",
+    "title": "Torjäger bereits operiert: Kane erleidet Syndesmoseriss",
+    "ko": "케인, 십자인대 손상 수술…수개월 결장 불가피",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T22:09:32.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": null,
+    "transfer": null
+   },
    {
     "id": "f45c37de1b8c",
     "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-injury-bayern-munich-37901390",
@@ -60,12 +81,56 @@
     ],
     "author": "Tony Robertson",
     "transfer": null
+   },
+   {
+    "id": "67f46b93edf1",
+    "url": "https://www.mirror.co.uk/sport/football/news/harry-kane-injury-hospital-england-37901621",
+    "title": "Harry Kane breaks silence on major injury from hospital as he faces months out",
+    "ko": "해리 케인, 병원에서 중상 부상 심경 밝혀…수개월 결장 전망",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T10:45:14.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Ben Crawford",
+    "transfer": null
+   },
+   {
+    "id": "317229365057",
+    "url": "https://www.hln.be/bundesliga/terug-voor-de-beslissende-fase-van-het-seizoen-gouden-bal-harry-kane-vannacht-al-geopereerd-aan-enkel-vincent-kompany-is-hem-maanden-kwijt~ac032732/",
+    "title": "“Terug voor de beslissende fase van het seizoen”: Gouden Bal Harry Kane vannacht al geopereerd aan enkel, Vincent Kompany is hem maanden kwijt",
+    "ko": "해리 케인 발목 수술 완료, 콤파니 감독은 수개월 결장 예고",
+    "source": "hln",
+    "publishedAt": "2026-11-21T11:05:36.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Redactie",
+    "transfer": null
    }
   ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 0.98,
-  "topTier": 4,
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 2.01,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
@@ -73,12 +138,65 @@
   ],
   "transfer": null,
   "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-21T07:59:43.000Z",
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-20T22:09:32.000Z",
    "viaQuote": false
   },
-  "headline": "Harry Kane shares pic from hospital bed wearing protective boot as he breaks silence on devastating ligament injury"
+  "headline": "Torjäger bereits operiert: Kane erleidet Syndesmoseriss"
+ },
+ {
+  "slug": "real-madrid-affairs-negreira-case",
+  "mode": "llm",
+  "titleKo": "레알 마드리드 네그레이라 사건 대응 공방",
+  "createdAt": "2026-11-21T10:34:42.000Z",
+  "updatedAt": "2026-11-21T10:34:42.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "barcelona",
+   "real-madrid"
+  ],
+  "players": [],
+  "sig": [
+   "negreira"
+  ],
+  "articles": [
+   {
+    "id": "9549505864ba",
+    "url": "https://as.com/futbol/primera/florentino-no-voy-a-descansar-el-caso-negreira-no-puede-quedar-impune-f202611-n/",
+    "title": "Florentino: “No voy a descansar, el caso Negreira no puede quedar impune”",
+    "ko": "플로렌티노 \"네그레이라 사건 면죄부는 없다\"",
+    "source": "as",
+    "publishedAt": "2026-11-21T10:34:42.000Z",
+    "credited": null,
+    "clubs": [
+     "barcelona",
+     "real-madrid"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mario de la Riva,Sergio López",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.76,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-21T10:34:42.000Z",
+   "viaQuote": false
+  },
+  "headline": "Florentino: “No voy a descansar, el caso Negreira no puede quedar impune”"
  },
  {
   "slug": "real-madrid-celta-2026-11-22",
@@ -137,7 +255,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.05,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -311,7 +429,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 4,
-  "score": 2.01,
+  "score": 1.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -7577,9 +7695,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 17,
-  "score": 2.56,
+  "score": 2.01,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -7703,7 +7821,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.93,
+  "score": 0.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8077,7 +8195,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.53,
+  "score": 0.46,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8196,7 +8314,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.85,
+  "score": 1.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8276,7 +8394,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.64,
+  "score": 1.42,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8365,7 +8483,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.61,
+  "score": 1.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -8418,7 +8536,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.59,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9615,7 +9733,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 1.55,
+  "score": 1.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10023,7 +10141,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 6,
-  "score": 4.11,
+  "score": 3.57,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10137,7 +10255,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.54,
+  "score": 1.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10333,7 +10451,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.22,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10404,7 +10522,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.48,
+  "score": 1.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10700,9 +10818,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 3,
   "sourceCount": 9,
-  "score": 1.75,
+  "score": 2.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10871,9 +10989,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 6,
-  "score": 2.13,
+  "score": 1.52,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10932,7 +11050,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.35,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11513,7 +11631,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 7,
-  "score": 2.63,
+  "score": 2.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11569,7 +11687,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.34,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -11626,7 +11744,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.34,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11698,7 +11816,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.26,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11770,7 +11888,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [
    {
@@ -11842,7 +11960,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.05,
   "topTier": 2,
   "stageHistory": [
    {
@@ -11918,7 +12036,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.04,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11982,7 +12100,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12074,7 +12192,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.16,
+  "score": 1,
   "topTier": 2,
   "stageHistory": [
    {
@@ -12158,7 +12276,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.3,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12451,7 +12569,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12540,7 +12658,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.09,
+  "score": 0.95,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12760,7 +12878,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.09,
+  "score": 0.94,
   "topTier": 1,
   "stageHistory": [
    {
@@ -12863,7 +12981,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1,
+  "score": 0.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12914,7 +13032,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1,
+  "score": 0.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13007,7 +13125,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 1.23,
+  "score": 1.07,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13473,7 +13591,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.36,
+  "score": 0.31,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13536,7 +13654,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [
    {
@@ -13615,9 +13733,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.43,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13685,9 +13803,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13817,9 +13935,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -113148,60 +113266,6 @@
    "viaQuote": false
   },
   "headline": "200 und 50: Ginter eilt von Jubiläum zu Jubiläum"
- },
- {
-  "slug": "lille-troyes-2026-11-08",
-  "mode": "llm",
-  "titleKo": "릴 대 트루아 리그1 경기 전망",
-  "createdAt": "2026-11-07T10:45:11.000Z",
-  "updatedAt": "2026-11-07T10:45:11.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "이디르"
-  ],
-  "sig": [
-   "troyes",
-   "ligue",
-   "younes",
-   "idder"
-  ],
-  "articles": [
-   {
-    "id": "ebab53d8daca",
-    "url": "https://www.lequipe.fr/Football/Actualites/Un-groupe-de-20-joueurs-pour-defier-troyes-en-ligue-1-grand-premiere-pour-le-jeune-younes-idder/1741875#at_medium=RSS_feeds",
-    "title": "Un groupe de 20 joueurs pour défier Troyes en Ligue 1, grand première pour le jeune Younes Idder",
-    "ko": "트루아전 앞둔 릴, 20명 명단 발표…유망주 이디르 첫 출전 준비",
-    "source": "lequipe",
-    "publishedAt": "2026-11-07T10:45:11.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "이디르"
-    ],
-    "playerTags": [],
-    "author": "Matteo Amghar",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-07T10:45:11.000Z",
-   "viaQuote": false
-  },
-  "headline": "Un groupe de 20 joueurs pour défier Troyes en Ligue 1, grand première pour le jeune Younes Idder"
  },
  {
   "slug": "amorim-ac-milan-manager-future",
