@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T23:19:44.139Z",
+ "updatedAt": "2026-11-22T00:04:02.732Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
   "real-madrid-celta-2026-11-22",
@@ -46,13 +46,13 @@
   "bbc": {
    "ok": true,
    "items": 61,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,13 +94,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 2,
    "authorRate": 88
   },
   "fblondon": {
@@ -112,7 +112,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,12 +160,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 25,
+   "items": 23,
    "added": 0,
    "authorRate": 100
   },
@@ -195,7 +195,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -323,8 +323,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 197,
-  "singleArticleRate": 41,
+  "recentIssues": 196,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -361,6 +361,10 @@
    {
     "slug": "man-utd-affairs-drone-footage",
     "count": 16
+   },
+   {
+    "slug": "kane-injury",
+    "count": 15
    }
   ]
  },
@@ -1212,8 +1216,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 551,
-   "llm": 551
+   "collected": 567,
+   "llm": 567
   }
  },
  "llmErrors": []
