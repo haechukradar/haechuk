@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T13:42:21.151Z",
+ "updatedAt": "2026-11-22T14:32:00.797Z",
  "hot": [
   "bruno-fernandes-man-utd-contract",
   "doue-injury",
@@ -45,20 +45,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 69,
-   "added": 1,
+   "items": 67,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -94,31 +94,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 14,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 70
+   "added": 4,
+   "authorRate": 66
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -136,25 +136,25 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -172,31 +172,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 4,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -323,24 +323,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 195,
+  "recentIssues": 197,
   "singleArticleRate": 39,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 73
+    "count": 75
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
     "count": 43
    },
    {
-    "slug": "liverpool-man-utd-2026-11-22",
+    "slug": "man-city-fulham-2026-11-20",
     "count": 34
    },
    {
-    "slug": "man-city-fulham-2026-11-20",
-    "count": 34
+    "slug": "liverpool-man-utd-2026-11-22",
+    "count": 33
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
@@ -363,7 +363,7 @@
     "count": 16
    },
    {
-    "slug": "man-city-affairs-charges-20261119",
+    "slug": "kane-olise-injury",
     "count": 15
    }
   ]
@@ -375,7 +375,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 12
+     "count": 11
     },
     {
      "ko": "마티아스 야이슬레",
@@ -393,7 +393,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 11
+     "count": 14
     },
     {
      "ko": "모리뉴",
@@ -488,6 +488,24 @@
    ]
   },
   {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회네스",
+     "count": 4
+    },
+    {
+     "ko": "회너스",
+     "count": 1
+    },
+    {
+     "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Timmy Simons",
    "dictionary": null,
    "variants": [
@@ -500,11 +518,11 @@
      "count": 2
     },
     {
-     "ko": "타미 시몬스",
+     "ko": "티미 시먼스",
      "count": 1
     },
     {
-     "ko": "티미 시먼스",
+     "ko": "타미 시몬스",
      "count": 1
     }
    ]
@@ -552,24 +570,6 @@
     {
      "ko": "에바닐손",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 2
-    },
-    {
-     "ko": "회너스",
-     "count": 1
-    },
-    {
-     "ko": "회이네스",
-     "count": 1
     }
    ]
   },
@@ -652,6 +652,20 @@
    ]
   },
   {
+   "en": "Woltemade",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "볼테마데",
+     "count": 3
+    },
+    {
+     "ko": "보르테마데",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nmecha",
    "dictionary": null,
    "variants": [
@@ -661,24 +675,6 @@
     },
     {
      "ko": "누메차",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브루노 기마랑이스",
-     "count": 1
-    },
-    {
-     "ko": "브루노 페르난데스",
-     "count": 1
-    },
-    {
-     "ko": "브루노",
      "count": 1
     }
    ]
@@ -776,6 +772,24 @@
    ]
   },
   {
+   "en": "Jules Ahoka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "줄스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "주스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "줄 아호카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Shevchenko",
    "dictionary": null,
    "variants": [
@@ -840,20 +854,6 @@
    ]
   },
   {
-   "en": "Woltemade",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "볼테마데",
-     "count": 2
-    },
-    {
-     "ko": "보르테마데",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Keating",
    "dictionary": null,
    "variants": [
@@ -863,20 +863,6 @@
     },
     {
      "ko": "키닝",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Madueke",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "매듀케",
-     "count": 1
-    },
-    {
-     "ko": "마두에케",
      "count": 1
     }
    ]
@@ -1022,20 +1008,6 @@
    ]
   },
   {
-   "en": "Jules Ahoka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "줄스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "주스 아호카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vítor Pinto",
    "dictionary": null,
    "variants": [
@@ -1129,6 +1101,34 @@
     },
     {
      "ko": "포토니크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sascha Mölders",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사샤 뮐더스",
+     "count": 1
+    },
+    {
+     "ko": "자샤 묄더스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튀헬",
+     "count": 1
+    },
+    {
+     "ko": "토마스 투헬",
      "count": 1
     }
    ]
@@ -1228,8 +1228,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 917,
-   "llm": 917
+   "collected": 955,
+   "llm": 955
   }
  },
  "llmErrors": []
