@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-22T03:17:05.950Z",
+ "updatedAt": "2026-11-22T04:25:36.144Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
   "real-madrid-celta-2026-11-22",
-  "chelsea-leeds-2026-11-22",
+  "liverpool-man-utd-2026-11-22",
   "sevilla-betis-2026-11-21",
   "raya-injury"
  ],
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -112,7 +112,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -154,7 +154,7 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 8,
    "authorRate": 0
   },
   "hln": {
@@ -214,11 +214,11 @@
    "count": 45
   },
   {
-   "name": "오워노",
-   "count": 40
+   "name": "루카쿠",
+   "count": 41
   },
   {
-   "name": "루카쿠",
+   "name": "오워노",
    "count": 40
   },
   {
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 197,
+  "recentIssues": 196,
   "singleArticleRate": 40,
   "broad": [
    {
@@ -340,7 +340,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 24
+    "count": 25
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
@@ -538,20 +538,6 @@
    ]
   },
   {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 3
-    },
-    {
-     "ko": "빅터 브루노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kai",
    "dictionary": null,
    "variants": [
@@ -625,6 +611,20 @@
     },
     {
      "ko": "브루노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vítor Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "비토르 브루노",
+     "count": 2
+    },
+    {
+     "ko": "빅터 브루노",
      "count": 1
     }
    ]
@@ -1216,8 +1216,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 575,
-   "llm": 575
+   "collected": 585,
+   "llm": 585
   }
  },
  "llmErrors": []
