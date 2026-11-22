@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T04:25:36.144Z",
+ "updatedAt": "2026-11-22T05:25:53.747Z",
  "hot": [
+  "kane-injury",
   "newcastle-arsenal-2026-11-22",
+  "pochettino-man-utd-manager-future",
   "real-madrid-celta-2026-11-22",
-  "liverpool-man-utd-2026-11-22",
-  "sevilla-betis-2026-11-21",
-  "raya-injury"
+  "liverpool-man-utd-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 6,
    "authorRate": 0
   },
   "marca": {
@@ -100,8 +100,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 88
+   "added": 4,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
@@ -118,13 +118,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 78
   },
   "waz": {
@@ -148,13 +148,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -172,7 +172,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 196,
+  "recentIssues": 197,
   "singleArticleRate": 40,
   "broad": [
    {
@@ -340,7 +340,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 25
+    "count": 26
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
@@ -359,12 +359,12 @@
     "count": 18
    },
    {
-    "slug": "man-utd-affairs-drone-footage",
+    "slug": "kane-injury",
     "count": 16
    },
    {
-    "slug": "kane-injury",
-    "count": 15
+    "slug": "man-utd-affairs-drone-footage",
+    "count": 16
    }
   ]
  },
@@ -375,7 +375,7 @@
    "variants": [
     {
      "ko": "야이슬레",
-     "count": 9
+     "count": 10
     },
     {
      "ko": "마티아스 야이슬레",
@@ -566,6 +566,20 @@
    ]
   },
   {
+   "en": "Carlos Vicens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를로스 비센스",
+     "count": 3
+    },
+    {
+     "ko": "카를로스 비첸스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -662,6 +676,20 @@
    ]
   },
   {
+   "en": "Ivan Toney",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이반 토니",
+     "count": 2
+    },
+    {
+     "ko": "아이반 토니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Thioune",
    "dictionary": null,
    "variants": [
@@ -731,20 +759,6 @@
     },
     {
      "ko": "마이키 무어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Carlos Vicens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카를로스 비센스",
-     "count": 2
-    },
-    {
-     "ko": "카를로스 비첸스",
      "count": 1
     }
    ]
@@ -1106,20 +1120,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Jules Ahoka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "줄스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "주스 아호카",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1216,8 +1216,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 585,
-   "llm": 585
+   "collected": 605,
+   "llm": 605
   }
  },
  "llmErrors": []
