@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T16:15:15.996Z",
+ "updatedAt": "2026-11-22T17:12:43.661Z",
  "hot": [
+  "hull-brighton-2026-11-22",
   "barcelona-villarreal-2026-11-22",
   "doue-injury",
-  "bruno-fernandes-man-utd-contract",
-  "liverpool-man-utd-2026-11-22",
-  "paris-fc-angers-2026-11-22"
+  "pochettino-man-utd-manager-future",
+  "liverpool-man-utd-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 1,
+   "items": 65,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -82,8 +82,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 6,
+   "items": 50,
+   "added": 10,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,13 +95,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 14,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
+   "added": 5,
    "authorRate": 62
   },
   "fblondon": {
@@ -113,7 +113,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -123,8 +123,10 @@
    "authorRate": 100
   },
   "tz": {
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 40,
+   "added": 0,
+   "authorRate": 78
   },
   "waz": {
    "ok": true,
@@ -153,13 +155,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -171,13 +173,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 27,
-   "added": 3,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
@@ -194,8 +196,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 5,
+   "items": 12,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -322,12 +324,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
-  "singleArticleRate": 42,
+  "recentIssues": 207,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 78
+    "count": 85
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -335,7 +337,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 37
+    "count": 38
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -343,7 +345,11 @@
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
-    "count": 30
+    "count": 29
+   },
+   {
+    "slug": "barcelona-villarreal-2026-11-22",
+    "count": 21
    },
    {
     "slug": "doue-injury",
@@ -352,10 +358,6 @@
    {
     "slug": "bayern-koln-2026-11-19",
     "count": 21
-   },
-   {
-    "slug": "barcelona-villarreal-2026-11-22",
-    "count": 19
    },
    {
     "slug": "kane-injury",
@@ -513,28 +515,6 @@
    ]
   },
   {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부스코비치",
-     "count": 2
-    },
-    {
-     "ko": "부치치",
-     "count": 1
-    },
-    {
-     "ko": "부쉬코비치",
-     "count": 1
-    },
-    {
-     "ko": "부코비치",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Mikey Moore",
    "dictionary": null,
    "variants": [
@@ -572,6 +552,56 @@
     },
     {
      "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Nmecha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "은메차",
+     "count": 3
+    },
+    {
+     "ko": "누메차",
+     "count": 1
+    },
+    {
+     "ko": "은마하",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부스코비치",
+     "count": 2
+    },
+    {
+     "ko": "부치치",
+     "count": 1
+    },
+    {
+     "ko": "부쉬코비치",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Baum",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바움",
+     "count": 3
+    },
+    {
+     "ko": "바우마",
      "count": 1
     }
    ]
@@ -647,30 +677,34 @@
    ]
   },
   {
-   "en": "Nmecha",
+   "en": "Gary Neville",
    "dictionary": null,
    "variants": [
     {
-     "ko": "은메차",
-     "count": 3
+     "ko": "게리 네빌",
+     "count": 2
     },
     {
-     "ko": "누메차",
+     "ko": "개리 네빌",
+     "count": 1
+    },
+    {
+     "ko": "네빌",
      "count": 1
     }
    ]
   },
   {
-   "en": "Baum",
+   "en": "McBurnie",
    "dictionary": null,
    "variants": [
     {
-     "ko": "바움",
+     "ko": "맥번리",
      "count": 2
     },
     {
-     "ko": "바우마",
-     "count": 1
+     "ko": "맥번",
+     "count": 2
     }
    ]
   },
@@ -766,6 +800,20 @@
     },
     {
      "ko": "줄 아호카",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vasco Seabra",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바스쿠 세브라",
+     "count": 2
+    },
+    {
+     "ko": "바스쿠 세아브라",
      "count": 1
     }
    ]
@@ -900,20 +948,6 @@
     },
     {
      "ko": "스벤 베르만트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Justin Devenny",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "저스틴 데버니",
-     "count": 1
-    },
-    {
-     "ko": "저스틴 데브니",
      "count": 1
     }
    ]
@@ -1059,6 +1093,20 @@
    ]
   },
   {
+   "en": "Hurzeler",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "허젤러",
+     "count": 1
+    },
+    {
+     "ko": "휴이슬러",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1082,48 +1130,6 @@
     },
     {
      "ko": "모리스 코엔",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kniat",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크니아츠",
-     "count": 1
-    },
-    {
-     "ko": "크니아트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Potocnik",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포토츠니크",
-     "count": 1
-    },
-    {
-     "ko": "포토니크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sascha Mölders",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사샤 뮐더스",
-     "count": 1
-    },
-    {
-     "ko": "자샤 묄더스",
      "count": 1
     }
    ]
@@ -1227,8 +1233,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 103,
-   "llm": 103
+   "collected": 170,
+   "llm": 170
   }
  },
  "llmErrors": []
