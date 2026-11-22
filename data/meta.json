@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T12:41:32.271Z",
+ "updatedAt": "2026-11-22T13:42:21.151Z",
  "hot": [
   "bruno-fernandes-man-utd-contract",
   "doue-injury",
+  "barcelona-villarreal-2026-11-22",
   "paredes-collapse-incident",
-  "inter-miami-columbus-2026-11-22",
-  "pochettino-man-utd-manager-future"
+  "inter-miami-columbus-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -45,20 +45,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
+   "items": 69,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 63,
-   "added": 2,
+   "items": 64,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 6,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,31 +94,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 13,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 78
+   "added": 7,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -136,19 +136,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -172,31 +172,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 2,
+   "items": 28,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 12,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -243,7 +243,7 @@
   },
   {
    "name": "그릴리시",
-   "count": 34
+   "count": 35
   },
   {
    "name": "노이어",
@@ -302,15 +302,15 @@
    "count": 17
   },
   {
+   "name": "다비드 라야",
+   "count": 17
+  },
+  {
    "name": "발로군",
    "count": 16
   },
   {
    "name": "벤 화이트",
-   "count": 16
-  },
-  {
-   "name": "다비드 라야",
    "count": 16
   },
   {
@@ -323,16 +323,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 200,
-  "singleArticleRate": 41,
+  "recentIssues": 195,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 76
+    "count": 73
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
     "count": 43
+   },
+   {
+    "slug": "liverpool-man-utd-2026-11-22",
+    "count": 34
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -343,16 +347,12 @@
     "count": 31
    },
    {
-    "slug": "liverpool-man-utd-2026-11-22",
-    "count": 30
-   },
-   {
     "slug": "bayern-koln-2026-11-19",
     "count": 21
    },
    {
-    "slug": "man-city-affairs-charges-20261119",
-    "count": 17
+    "slug": "doue-injury",
+    "count": 18
    },
    {
     "slug": "kane-injury",
@@ -363,7 +363,7 @@
     "count": 16
    },
    {
-    "slug": "doue-injury",
+    "slug": "man-city-affairs-charges-20261119",
     "count": 15
    }
   ]
@@ -488,6 +488,42 @@
    ]
   },
   {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티미 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "팀 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "타미 시몬스",
+     "count": 1
+    },
+    {
+     "ko": "티미 시먼스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Frick",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프릭",
+     "count": 3
+    },
+    {
+     "ko": "프리크",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Luca Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -516,24 +552,6 @@
     {
      "ko": "에바닐손",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "팀 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "타미 시몬스",
-     "count": 1
     }
    ]
   },
@@ -588,20 +606,6 @@
     {
      "ko": "마르빈 콤퍼",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Frick",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프릭",
-     "count": 3
-    },
-    {
-     "ko": "프리크",
-     "count": 1
     }
    ]
   },
@@ -675,24 +679,6 @@
     },
     {
      "ko": "브루노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sascha Mölders",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사샤 묄더스",
-     "count": 1
-    },
-    {
-     "ko": "사샤 뮐더스",
-     "count": 1
-    },
-    {
-     "ko": "자샤 묄더스",
      "count": 1
     }
    ]
@@ -854,6 +840,20 @@
    ]
   },
   {
+   "en": "Woltemade",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "볼테마데",
+     "count": 2
+    },
+    {
+     "ko": "보르테마데",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keating",
    "dictionary": null,
    "variants": [
@@ -877,20 +877,6 @@
     },
     {
      "ko": "마두에케",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Agostinho Bento",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아고스티뇨 벤투",
-     "count": 1
-    },
-    {
-     "ko": "아고스티뉴 벤투",
      "count": 1
     }
    ]
@@ -1132,6 +1118,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Potocnik",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포토츠니크",
+     "count": 1
+    },
+    {
+     "ko": "포토니크",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1228,8 +1228,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 864,
-   "llm": 864
+   "collected": 917,
+   "llm": 917
   }
  },
  "llmErrors": []
