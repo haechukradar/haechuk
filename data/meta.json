@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-22T14:32:00.797Z",
+ "updatedAt": "2026-11-22T15:27:05.111Z",
  "hot": [
   "bruno-fernandes-man-utd-contract",
-  "doue-injury",
   "barcelona-villarreal-2026-11-22",
+  "doue-injury",
   "paredes-collapse-incident",
   "inter-miami-columbus-2026-11-22"
  ],
@@ -40,7 +40,8 @@
   "2026-11-19",
   "2026-11-20",
   "2026-11-21",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "feeds": {
   "bbc": {
@@ -52,13 +53,13 @@
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 2,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -100,31 +101,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 66
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 78
   },
   "waz": {
@@ -136,7 +137,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -148,19 +149,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -172,31 +173,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 2,
+   "items": 27,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -323,8 +324,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 197,
-  "singleArticleRate": 39,
+  "recentIssues": 204,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -335,12 +336,12 @@
     "count": 43
    },
    {
-    "slug": "man-city-fulham-2026-11-20",
-    "count": 34
+    "slug": "liverpool-man-utd-2026-11-22",
+    "count": 35
    },
    {
-    "slug": "liverpool-man-utd-2026-11-22",
-    "count": 33
+    "slug": "man-city-fulham-2026-11-20",
+    "count": 34
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
@@ -363,30 +364,16 @@
     "count": 16
    },
    {
+    "slug": "barcelona-villarreal-2026-11-22",
+    "count": 15
+   },
+   {
     "slug": "kane-olise-injury",
     "count": 15
    }
   ]
  },
  "nameReport": [
-  {
-   "en": "Matthias Jaissle",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야이슬레",
-     "count": 11
-    },
-    {
-     "ko": "마티아스 야이슬레",
-     "count": 3
-    },
-    {
-     "ko": "하이슬레",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Mourinho",
    "dictionary": null,
@@ -402,24 +389,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 퐁세카",
-     "count": 8
-    },
-    {
-     "ko": "파울루 폰세카",
-     "count": 3
-    },
-    {
-     "ko": "폰세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -430,6 +399,24 @@
     {
      "ko": "윌리엄스바넷",
      "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 퐁세카",
+     "count": 8
+    },
+    {
+     "ko": "파울루 폰세카",
+     "count": 2
+    },
+    {
+     "ko": "폰세카",
+     "count": 1
     }
    ]
   },
@@ -488,24 +475,6 @@
    ]
   },
   {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 4
-    },
-    {
-     "ko": "회너스",
-     "count": 1
-    },
-    {
-     "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Timmy Simons",
    "dictionary": null,
    "variants": [
@@ -528,38 +497,6 @@
    ]
   },
   {
-   "en": "Frick",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프릭",
-     "count": 3
-    },
-    {
-     "ko": "프리크",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카 윌리엄스-바넷",
-     "count": 2
-    },
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Evanilson",
    "dictionary": null,
    "variants": [
@@ -570,6 +507,20 @@
     {
      "ko": "에바닐손",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회네스",
+     "count": 4
+    },
+    {
+     "ko": "회이네스",
+     "count": 1
     }
    ]
   },
@@ -605,6 +556,20 @@
     },
     {
      "ko": "마르빈 콤퍼",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Frick",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프리크",
+     "count": 2
+    },
+    {
+     "ko": "프릭",
      "count": 2
     }
    ]
@@ -1008,6 +973,20 @@
    ]
   },
   {
+   "en": "Gerard Martín",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제라르 마르틴",
+     "count": 1
+    },
+    {
+     "ko": "제라드 마르틴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vítor Pinto",
    "dictionary": null,
    "variants": [
@@ -1132,6 +1111,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Jesus Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호세스 오노노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오노노",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1230,6 +1223,10 @@
   "2026-11-22": {
    "collected": 955,
    "llm": 955
+  },
+  "2026-11-23": {
+   "collected": 45,
+   "llm": 45
   }
  },
  "llmErrors": []
