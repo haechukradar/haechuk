@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T19:33:52.148Z",
+ "updatedAt": "2026-11-22T20:27:52.394Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 3,
+   "items": 70,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -102,7 +102,7 @@
    "ok": true,
    "items": 50,
    "added": 5,
-   "authorRate": 62
+   "authorRate": 66
   },
   "fblondon": {
    "ok": true,
@@ -113,7 +113,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -125,7 +125,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 78
   },
   "waz": {
@@ -137,31 +137,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -185,19 +185,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 6,
+   "items": 9,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 206,
-  "singleArticleRate": 38,
+  "recentIssues": 209,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 89
+    "count": 96
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 66
+    "count": 68
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -349,11 +349,11 @@
    },
    {
     "slug": "barcelona-villarreal-2026-11-22",
-    "count": 23
+    "count": 25
    },
    {
     "slug": "doue-injury",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -364,11 +364,11 @@
     "count": 17
    },
    {
-    "slug": "man-utd-affairs-drone-footage",
-    "count": 16
+    "slug": "kane-olise-injury",
+    "count": 15
    },
    {
-    "slug": "kane-olise-injury",
+    "slug": "man-utd-affairs-drone-footage",
     "count": 15
    }
   ]
@@ -533,6 +533,20 @@
    ]
   },
   {
+   "en": "Baum",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바움",
+     "count": 4
+    },
+    {
+     "ko": "바우마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Mikey Moore",
    "dictionary": null,
    "variants": [
@@ -607,15 +621,19 @@
    ]
   },
   {
-   "en": "Baum",
+   "en": "McBurnie",
    "dictionary": null,
    "variants": [
     {
-     "ko": "바움",
-     "count": 3
+     "ko": "맥번",
+     "count": 2
     },
     {
-     "ko": "바우마",
+     "ko": "맥번리",
+     "count": 2
+    },
+    {
+     "ko": "맥버니",
      "count": 1
     }
    ]
@@ -631,6 +649,20 @@
     {
      "ko": "마르빈 콤퍼",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Nuno Dias",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "누노 디아스",
+     "count": 3
+    },
+    {
+     "ko": "누누 디아스",
+     "count": 1
     }
    ]
   },
@@ -695,20 +727,6 @@
     {
      "ko": "senne lammens",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "McBurnie",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥번",
-     "count": 2
-    },
-    {
-     "ko": "맥번리",
-     "count": 2
     }
    ]
   },
@@ -1115,20 +1133,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Kniat",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "크니아츠",
-     "count": 1
-    },
-    {
-     "ko": "크니아트",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1229,8 +1233,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 326,
-   "llm": 326
+   "collected": 390,
+   "llm": 390
   }
  },
  "llmErrors": []
