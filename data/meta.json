@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T06:22:16.254Z",
+ "updatedAt": "2026-11-22T07:41:52.445Z",
  "hot": [
   "pochettino-man-utd-manager-future",
+  "inter-miami-columbus-2026-11-22",
   "liverpool-man-utd-2026-11-22",
   "kane-injury",
-  "newcastle-arsenal-2026-11-22",
-  "inter-miami-columbus-2026-11-22"
+  "newcastle-arsenal-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -45,8 +45,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 61,
-   "added": 0,
+   "items": 64,
+   "added": 6,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,37 +94,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 90
+   "authorRate": 92
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 78
   },
   "waz": {
@@ -136,7 +136,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -148,37 +148,37 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 23,
-   "added": 0,
+   "items": 24,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 24,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "star": {
@@ -190,7 +190,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
@@ -294,15 +294,15 @@
    "count": 17
   },
   {
+   "name": "트루빈",
+   "count": 17
+  },
+  {
    "name": "발로군",
    "count": 16
   },
   {
    "name": "니코 파스",
-   "count": 16
-  },
-  {
-   "name": "트루빈",
    "count": 16
   },
   {
@@ -323,12 +323,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 196,
+  "recentIssues": 197,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 93
+    "count": 92
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -344,7 +344,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 27
+    "count": 28
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -552,6 +552,28 @@
    ]
   },
   {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부치치",
+     "count": 1
+    },
+    {
+     "ko": "부쉬코비치",
+     "count": 1
+    },
+    {
+     "ko": "부코비치",
+     "count": 1
+    },
+    {
+     "ko": "부스코비치",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Frick",
    "dictionary": null,
    "variants": [
@@ -630,6 +652,24 @@
    ]
   },
   {
+   "en": "Sascha Mölders",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "사샤 묄더스",
+     "count": 1
+    },
+    {
+     "ko": "사샤 뮐더스",
+     "count": 1
+    },
+    {
+     "ko": "자샤 묄더스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vítor Bruno",
    "dictionary": null,
    "variants": [
@@ -653,24 +693,6 @@
     },
     {
      "ko": "키에런 매과이어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부치치",
-     "count": 1
-    },
-    {
-     "ko": "부쉬코비치",
-     "count": 1
-    },
-    {
-     "ko": "부코비치",
      "count": 1
     }
    ]
@@ -870,20 +892,6 @@
    ]
   },
   {
-   "en": "Sascha Mölders",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "사샤 묄더스",
-     "count": 1
-    },
-    {
-     "ko": "사샤 뮐더스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Giulian Biancone",
    "dictionary": null,
    "variants": [
@@ -907,6 +915,20 @@
     },
     {
      "ko": "오노워",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yasir Al-Rumayyan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야시르 알루마이안",
+     "count": 1
+    },
+    {
+     "ko": "야시르 알 루마이얀",
      "count": 1
     }
    ]
@@ -949,20 +971,6 @@
     },
     {
      "ko": "램퍼드",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Glasner",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "글래스너",
-     "count": 1
-    },
-    {
-     "ko": "글라스너",
      "count": 1
     }
    ]
@@ -1216,8 +1224,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 625,
-   "llm": 625
+   "collected": 664,
+   "llm": 664
   }
  },
  "llmErrors": []

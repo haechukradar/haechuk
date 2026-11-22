@@ -1,10 +1,108 @@
 [
  {
+  "slug": "inter-miami-columbus-2026-11-22",
+  "mode": "llm",
+  "titleKo": "인터 마이애미 대 콜럼버스 MLS컵 결과",
+  "createdAt": "2026-11-22T01:48:52.000Z",
+  "updatedAt": "2026-11-22T07:00:19.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "리오넬 메시",
+   "메시"
+  ],
+  "sig": [
+   "columbus",
+   "mls",
+   "messi"
+  ],
+  "articles": [
+   {
+    "id": "3a7eaac3af14",
+    "url": "https://www.nytimes.com/athletic/7801386/2026/11/21/inter-miami-columbus-crew-mls-cup-score-result/",
+    "title": "Miami falls to Columbus in stunning blow to MLS Cup title defense; Should Messi have seen red?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-22T01:48:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "리오넬 메시"
+    ],
+    "playerTags": [
+     "lionel-messi"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "03059a2c454e",
+    "url": "https://www.hln.be/buitenlands-voetbal/lionel-messi-en-co-nu-al-op-rand-van-uitschakeling-in-titelplay-offs-mls-inter-miami-gaat-in-eigen-huis-pijnlijk-onderuit~afc56887/",
+    "title": "Lionel Messi en co nu al op rand van uitschakeling in titelplay-offs MLS: Inter Miami gaat in eigen huis pijnlijk onderuit",
+    "ko": "메시·마이애미, MLS 플레이오프 홈 패배로 탈락 위기",
+    "source": "hln",
+    "publishedAt": "2026-11-22T05:32:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "리오넬 메시"
+    ],
+    "playerTags": [
+     "lionel-messi"
+    ],
+    "author": "Sportredactie",
+    "transfer": null
+   },
+   {
+    "id": "65aef94feee5",
+    "url": "https://www.kicker.de/inter-miami-gegen-columbus-2026-mls-playoffs-5276397/spielbericht#omrss",
+    "title": "Messi sorgt für hässliche Szene - Miami droht frühes Playoff-Aus",
+    "ko": "메시, 추악한 장면 연출…마이애미 플레이오프 조기 탈락 위기",
+    "source": "kicker",
+    "publishedAt": "2026-11-22T07:00:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "메시"
+    ],
+    "playerTags": [
+     "lionel-messi"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 3.68,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "lionel-messi"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "디 애슬레틱",
+   "source": "athletic",
+   "at": "2026-11-22T01:48:52.000Z",
+   "viaQuote": false
+  },
+  "headline": "Miami falls to Columbus in stunning blow to MLS Cup title defense; Should Messi have seen red?"
+ },
+ {
   "slug": "liverpool-man-utd-2026-11-22",
   "mode": "llm",
   "titleKo": "리버풀 대 맨유 프리미어리그 경기 관심",
   "createdAt": "2026-11-16T14:49:58.000Z",
-  "updatedAt": "2026-11-22T06:00:00.000Z",
+  "updatedAt": "2026-11-22T07:00:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -665,11 +763,30 @@
     "playerTags": [],
     "author": "Craig Mahood",
     "transfer": null
+   },
+   {
+    "id": "9afa34fa3b31",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-man-united-result-prediction-34948519",
+    "title": "Eight pundits predict Liverpool vs Man United as Gary Neville and Jamie Carragher disagree",
+    "ko": "리버풀 대 맨유, 전문가 8명 예측…네빌과 카라거 의견 엇갈려",
+    "source": "men",
+    "publishedAt": "2026-11-22T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jordan Seward",
+    "transfer": null
    }
   ],
   "recentSources": 3,
   "sourceCount": 8,
-  "score": 3.47,
+  "score": 2.75,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -688,11 +805,742 @@
   "headline": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11"
  },
  {
+  "slug": "stoke-birmingham-2026-11-19",
+  "mode": "llm",
+  "titleKo": "스토크 대 버밍엄 선두 경기 앞둔 감독 발언",
+  "createdAt": "2026-11-19T10:04:50.000Z",
+  "updatedAt": "2026-11-22T07:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "stoke",
+   "birmingham"
+  ],
+  "players": [
+   "허스트",
+   "맥글린",
+   "보밤비노"
+  ],
+  "sig": [
+   "robins"
+  ],
+  "articles": [
+   {
+    "id": "bbb1de7bc26e",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-city-robins-11247478",
+    "title": "Mark Robins makes Stoke City promise ahead of top-of-the-table Birmingham clash",
+    "ko": "스토크 감독, 선두 버밍엄전 앞두고 선수들에게 약속 요구",
+    "source": "stoke",
+    "publishedAt": "2026-11-19T10:04:50.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "c4e933551d13",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-injury-news-11249184",
+    "title": "Five players could miss Stoke City vs Birmingham City as Potters handed huge boost",
+    "ko": "스토크, 버밍엄전 결장 가능 선수 5명…호재도 전해져",
+    "source": "stoke",
+    "publishedAt": "2026-11-20T10:27:04.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke",
+     "birmingham"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "f4b488d3568d",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-kevin-phillips-11249948",
+    "title": "Ex-Birmingham star Kevin Phillips offers Stoke prediction before top-of-the-table clash",
+    "ko": "전 버밍엄 케빈 필립스, 스토크 선두 대결 예상",
+    "source": "stoke",
+    "publishedAt": "2026-11-21T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "b319b94b0470",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-city-live-11249601",
+    "title": "Stoke City vs Birmingham City LIVE match updates and team news from Championship clash",
+    "ko": "스토크 시티 대 버밍엄 시티 챔피언십 실시간 소식",
+    "source": "stoke",
+    "publishedAt": "2026-11-21T13:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "1e2bc976ed08",
+    "url": "https://www.stokesentinel.co.uk/sport/football/match-reports/stoke-city-birmingham-player-ratings-11250114",
+    "title": "Stoke City player ratings vs Birmingham as Hirst and McGlynn shine as Bombino dismissed",
+    "ko": "스토크 시티 버밍엄전 평점, 허스트·맥글린 활약 속 보밤비노 퇴장",
+    "source": "stoke",
+    "publishedAt": "2026-11-21T16:58:07.000Z",
+    "credited": "스토크 센티널(X)",
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "허스트",
+     "맥글린",
+     "보밤비노"
+    ],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "ddc1880cc679",
+    "url": "https://www.skysports.com/football/stoke-city-vs-birmingham-city/report/560686",
+    "title": "Birmingham beaten at 10-man Stoke",
+    "ko": "버밍엄, 10명이 뛴 스토크에 패배",
+    "source": "sky",
+    "publishedAt": "2026-11-21T17:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5cb25bc05280",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/mark-robins-stoke-city-birmingham-11251088",
+    "title": "Mark Robins hails Stoke stars as three things lead Potters to huge Birmingham win",
+    "ko": "마크 로빈스, 버밍엄 대승 이끈 스토크 선수들 칭찬",
+    "source": "stoke",
+    "publishedAt": "2026-11-21T18:07:47.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   },
+   {
+    "id": "35524e7951bd",
+    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-talking-points-11251167",
+    "title": "Stoke City have got fans believing again as George Hirst proves a point vs Birmingham",
+    "ko": "스토크, 조지 허스트 활약으로 버밍엄 상대로 팬들 믿음 회복",
+    "source": "stoke",
+    "publishedAt": "2026-11-22T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "stoke"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Orme",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.77,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스토크 센티널(X)",
+   "at": "2026-11-19T10:04:50.000Z",
+   "viaQuote": true
+  },
+  "headline": "Stoke City have got fans believing again as George Hirst proves a point vs Birmingham"
+ },
+ {
+  "slug": "bruno-fernandes-man-utd-contract",
+  "mode": "llm",
+  "titleKo": "브루노 페르난데스 맨유 재계약 협상",
+  "createdAt": "2026-11-20T20:52:00.000Z",
+  "updatedAt": "2026-11-22T07:00:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "브루노 페르난데스"
+  ],
+  "sig": [
+   "bruno",
+   "fernandes",
+   "está"
+  ],
+  "articles": [
+   {
+    "id": "dde936fd9285",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/ceo-do-man-united-confirma-conversas-para-renovar-com-bruno-fernandes-esta-a-ser-discutida-nos-bastidores",
+    "title": "CEO do Man. United confirma conversas para renovar com Bruno Fernandes: «Está a ser discutida nos bastidores»",
+    "ko": "맨유 CEO, 브루노 페르난데스 재계약 협상 공식 확인",
+    "source": "record",
+    "publishedAt": "2026-11-20T20:52:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "브루노 페르난데스",
+     "from": "맨체스터 유나이티드",
+     "to": null
+    }
+   },
+   {
+    "id": "915f31386a50",
+    "url": "https://www.skysports.com/football/news/12040/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold",
+    "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
+    "ko": "페르난데스 \"맨유가 새 계약 제시했지만 지금은 협상할 때 아냐\"",
+    "source": "sky",
+    "publishedAt": "2026-11-22T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.77,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "dde936fd9285",
+    "at": "2026-11-20T20:52:00.000Z",
+    "source": "record",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [
+   "bruno-fernandes"
+  ],
+  "transfer": {
+   "player": "브루노 페르난데스",
+   "from": "맨체스터 유나이티드",
+   "to": null
+  },
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-20T20:52:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fernandes: Man Utd have offered new deal but now is not time for talks"
+ },
+ {
+  "slug": "lorient-rennes-2026-11-22",
+  "mode": "llm",
+  "titleKo": "로리앙 대 렌 리그1 경기 중계 정보",
+  "createdAt": "2026-11-22T06:50:00.000Z",
+  "updatedAt": "2026-11-22T06:50:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "lorient",
+   "rennes",
+   "ligue"
+  ],
+  "articles": [
+   {
+    "id": "b65cd29bceb2",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-le-derby-breton-entre-lorient-et-rennes-en-ligue-1/1744654#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir le derby breton entre Lorient et Rennes en Ligue 1 ?",
+    "ko": "로리앙 대 렌 브르타뉴 더비, 시청 방법은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T06:50:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.72,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-22T06:50:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "À quelle heure et sur quelle chaîne voir le derby breton entre Lorient et Rennes en Ligue 1 ?"
+ },
+ {
+  "slug": "atalanta-inter-2026-11-22",
+  "mode": "llm",
+  "titleKo": "아탈란타 대 인터 밀란 세리에A 경기 중계 정보",
+  "createdAt": "2026-11-22T06:40:00.000Z",
+  "updatedAt": "2026-11-22T06:40:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "atalanta",
+   "serie"
+  ],
+  "articles": [
+   {
+    "id": "60b299a95b76",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-atalanta-inter-en-serie-a/1744873#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Atalanta-Inter en Serie A ?",
+    "ko": "아탈란타 대 인터 세리에A 경기, 시청 방법은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T06:40:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.67,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-22T06:40:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "À quelle heure et sur quelle chaîne voir Atalanta-Inter en Serie A ?"
+ },
+ {
+  "slug": "werder-bremen-hsv-2026-11-22",
+  "mode": "llm",
+  "titleKo": "베르더 브레멘 대 함부르크 경기 중계 정보",
+  "createdAt": "2026-11-22T06:30:00.000Z",
+  "updatedAt": "2026-11-22T06:30:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "werder",
+   "bremen",
+   "hsv",
+   "stream"
+  ],
+  "articles": [
+   {
+    "id": "8032524048e0",
+    "url": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-den-hsv-live-im-tv-und-stream-1272618/artikel#omrss",
+    "title": "Wer überträgt Werder Bremen gegen den HSV live im TV und Stream?",
+    "ko": "베르더 브레멘 대 함부르크 경기, TV·스트리밍 중계 어디서?",
+    "source": "kicker",
+    "publishedAt": "2026-11-22T06:30:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.63,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-22T06:30:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wer überträgt Werder Bremen gegen den HSV live im TV und Stream?"
+ },
+ {
+  "slug": "porto-paredes-2026-11-20",
+  "mode": "llm",
+  "titleKo": "FC 포르투 대 파레데스 경기",
+  "createdAt": "2026-11-20T19:00:00.000Z",
+  "updatedAt": "2026-11-22T06:25:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "porto"
+  ],
+  "players": [
+   "클라우디우 호스",
+   "다니엘 로드리게스",
+   "호스"
+  ],
+  "sig": [
+   "paredes"
+  ],
+  "articles": [
+   {
+    "id": "463ac6c546ed",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/fc-porto-paredes-em-direto",
+    "title": "FC Porto-Paredes, em direto",
+    "ko": "FC 포르투 대 파레데스 경기 생중계",
+    "source": "record",
+    "publishedAt": "2026-11-20T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1473d806af40",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/o-onze-do-fc-porto-para-o-jogo-com-o-paredes",
+    "title": "O onze do FC Porto para o jogo com o Paredes",
+    "ko": "FC 포르투, 파레데스전 선발 명단 공개",
+    "source": "record",
+    "publishedAt": "2026-11-20T19:39:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bffe04b7c7cd",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/ouca-aqui-o-relato-do-fc-porto-paredes-na-cm-radio",
+    "title": "Ouça aqui o relato do FC Porto-Paredes na CM Rádio",
+    "ko": "포르투-파레데스 경기 중계 라디오 방송 안내",
+    "source": "record",
+    "publishedAt": "2026-11-20T20:22:37.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "27a77650e323",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/respirou-se-de-alivio-no-dragao-heroi-claudio-ramos-muito-abracado-apos-vitoria-do-fc-porto-nos-penaltis",
+    "title": "Respirou-se de alívio no Dragão: herói Cláudio Ramos muito abraçado após vitória do FC Porto nos penáltis",
+    "ko": "FC 포르투 승부차기 승리 뒤 영웅 클라우디우 호스 포옹 장면",
+    "source": "record",
+    "publishedAt": "2026-11-20T23:48:10.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "클라우디우 호스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "74689f62ab9e",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/claudio-ramos-apos-ser-heroi-nos-penaltis-as-vezes-e-feeling-outras-e-estudado",
+    "title": "Cláudio Ramos após ser herói nos penáltis: «Às vezes é feeling, outras é estudado»",
+    "ko": "클라우디우 호스, 승부차기 영웅 후 \"때로는 감, 때로는 연구\"",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "클라우디우 호스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ad3d9cd992d4",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/claudio-ramos-impediu-o-escandalo-assim-foi-o-desempate-por-penaltis-do-fc-porto-paredes",
+    "title": "Cláudio Ramos impediu o escândalo: assim foi o desempate por penáltis do FC Porto-Paredes",
+    "ko": "클라우디우 호스 승부차기 선방…FC 포르투-파레데스전 승부차기 과정",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "클라우디우 호스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e03ac532e3b2",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/daniel-rodrigues-um-orgulho-extraordinario-pelo-paredes-fizemos-algo-que-poucas-equipas-da-1-liga-fazem",
+    "title": "Daniel Rodrigues: «Um orgulho extraordinário pelo Paredes. Fizemos algo que poucas equipas da 1.ª Liga fazem»",
+    "ko": "다니엘 로드리게스 \"파레데스에 대한 자부심…1부리그 팀 대부분이 못 하는 일 해냈다\"",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:10:57.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "다니엘 로드리게스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "754b74ad28d9",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/agostinho-bento-destaca-atitude-frente-ao-fc-porto-prometi-que-iamos-jogar-olhos-nos-olhos-e-cumprimos",
+    "title": "Agostinho Bento destaca atitude frente ao FC Porto: «Prometi que íamos jogar olhos nos olhos e cumprimos»",
+    "ko": "아고스티뉴 벤투, FC 포르투전 태도 강조…\"눈을 마주치며 뛰겠다 약속 지켰다\"",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:11:26.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f11afce3f744",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/as-notas-dos-jogadores-do-fc-porto-diante-do-paredes-ramos-com-alcance-para-segurar-a-taca",
+    "title": "As notas dos jogadores do FC Porto diante do Paredes: Ramos com alcance para segurar a Taça",
+    "ko": "FC 포르투 선수 평점, 호스 선방 돋보여",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:31:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "호스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e37c9df6edf7",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/a-cronica-do-fc-porto-paredes-1-1-3-1-pen-de-paredes-meias-com-o-desastre",
+    "title": "A crónica do FC Porto-Paredes, 1-1 (3-1 pen.): de Paredes-meias com o desastre",
+    "ko": "FC 포르투, 파레데스와 1-1 무승부 후 승부차기 3-1 승리",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:44:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ea2f05f796cf",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/o-interrogatorio-do-fc-porto-paredes-luvas-de-claudio-salvam-moura",
+    "title": "O interrogatório do FC Porto-Paredes: luvas de Cláudio salvam Moura",
+    "ko": "FC 포르투-파레데스 점검, 클라우디우 장갑 선방 조명",
+    "source": "record",
+    "publishedAt": "2026-11-21T00:49:49.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "클라우디우 호스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7e7bac6d56a7",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/um-susto-como-ha-muito-nao-se-via-fc-porto-evitou-novo-escandalo-na-taca",
+    "title": "Um susto como há muito não se via: FC Porto evitou novo escândalo na Taça",
+    "ko": "FC 포르투, 컵대회서 새 스캔들 피해",
+    "source": "record",
+    "publishedAt": "2026-11-21T01:07:28.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a992a4abe3c2",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/claudio-ramos-evitou-eliminacao-historica-as-reacoes-a-vitoria-do-fc-porto-sobre-o-paredes-nos-penaltis",
+    "title": "«Cláudio Ramos evitou eliminação histórica»: as reações à vitória do FC Porto sobre o Paredes nos penáltis",
+    "ko": "FC 포르투, 파레데스 승부차기 제압…클라우디우 호스 선방 재조명",
+    "source": "record",
+    "publishedAt": "2026-11-21T07:05:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "클라우디우 호스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "60f7fd05bbb4",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/andre-villas-boas-foi-ao-balneario-do-fc-porto-falar-ao-grupo-apos-o-jogo-com-o-paredes",
+    "title": "André Villas-Boas foi ao balneário do FC Porto falar ao grupo após o jogo com o Paredes",
+    "ko": "빌라스 보아스, 파레데스전 후 FC 포르투 선수단에게 연설",
+    "source": "record",
+    "publishedAt": "2026-11-22T06:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.6,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-20T19:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "André Villas-Boas foi ao balneário do FC Porto falar ao grupo após o jogo com o Paredes"
+ },
+ {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-22T06:00:00.000Z",
+  "updatedAt": "2026-11-22T06:21:55.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -8193,11 +9041,29 @@
     "playerTags": [],
     "author": "Dan Marsh",
     "transfer": null
+   },
+   {
+    "id": "2850d5e4ecb3",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+    "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+    "ko": "풀리스 '맨유 실력 보게 될 것'…포체티노 첫 경기 주목",
+    "source": "bbc",
+    "publishedAt": "2026-11-22T06:21:55.000Z",
+    "credited": "스티브 풀리스(X)",
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
-  "recentSources": 7,
+  "recentSources": 8,
   "sourceCount": 17,
-  "score": 4.83,
+  "score": 4.79,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -8219,6 +9085,95 @@
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "lille-lyon-2026-11-21",
+  "mode": "llm",
+  "titleKo": "릴 대 리옹 경기 평점",
+  "createdAt": "2026-11-21T22:55:00.000Z",
+  "updatedAt": "2026-11-22T06:16:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "비센스",
+   "디아운"
+  ],
+  "sig": [
+   "lille",
+   "lyon",
+   "vicens",
+   "bidstrup",
+   "diaoune"
+  ],
+  "articles": [
+   {
+    "id": "71a2225505fe",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lille-lyon-vicens-s-en-remet-a-bidstrup-diaoune-se-loupe/1745279#at_medium=RSS_feeds",
+    "title": "Les notes de Lille-Lyon : Vicens s'en remet à Bidstrup, Diaoune se loupe",
+    "ko": "릴 대 리옹 경기 선수 평점: 비센스·디아운 활약 엇갈려",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T22:55:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "비센스",
+     "디아운"
+    ],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   },
+   {
+    "id": "f6e3abc74cc8",
+    "url": "https://www.lequipe.fr/Football/Article/Du-jeu-et-les-trois-points-a-lille-l-heureux-bapteme-de-carlos-vicens-le-nouveau-coach-de-l-ol/1745300#at_medium=RSS_feeds",
+    "title": "Du jeu et les trois points à Lille : l'heureux baptême de Carlos Vicens, le nouveau coach de l'OL",
+    "ko": "리옹 신임 감독 카를로스 비센스, 릴전 승리로 데뷔",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T04:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Romain Lafont",
+    "transfer": null
+   },
+   {
+    "id": "bd283fd5094f",
+    "url": "https://www.lequipe.fr/Football/Article/Davide-ancelotti-a-evoque-la-theorie-du-jour-sans-pour-justifier-la-defaite-de-lille-contre-l-ol/1745295#at_medium=RSS_feeds",
+    "title": "Davide Ancelotti a évoqué la théorie du jour sans pour justifier la défaite de Lille contre l'OL",
+    "ko": "안첼로티 주니어, 릴의 리옹전 패배 이론 제시",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T06:16:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.44,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-21T22:55:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Davide Ancelotti a évoqué la théorie du jour sans pour justifier la défaite de Lille contre l'OL"
  },
  {
   "slug": "newcastle-arsenal-2026-11-22",
@@ -9219,9 +10174,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 12,
+  "recentSources": 9,
   "sourceCount": 13,
-  "score": 3.05,
+  "score": 2.2,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -9284,7 +10239,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.88,
+  "score": 1.49,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -9501,7 +10456,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10149,9 +11104,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 4,
   "sourceCount": 11,
-  "score": 1.49,
+  "score": 1.12,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10171,83 +11126,6 @@
   "aliases": [
    "lens-toulouse-2026-11-19"
   ]
- },
- {
-  "slug": "inter-miami-columbus-2026-11-22",
-  "mode": "llm",
-  "titleKo": "인터 마이애미 대 콜럼버스 MLS컵 결과",
-  "createdAt": "2026-11-22T01:48:52.000Z",
-  "updatedAt": "2026-11-22T05:32:46.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "리오넬 메시"
-  ],
-  "sig": [
-   "columbus",
-   "mls",
-   "messi"
-  ],
-  "articles": [
-   {
-    "id": "3a7eaac3af14",
-    "url": "https://www.nytimes.com/athletic/7801386/2026/11/21/inter-miami-columbus-crew-mls-cup-score-result/",
-    "title": "Miami falls to Columbus in stunning blow to MLS Cup title defense; Should Messi have seen red?",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-22T01:48:52.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리오넬 메시"
-    ],
-    "playerTags": [
-     "lionel-messi"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "03059a2c454e",
-    "url": "https://www.hln.be/buitenlands-voetbal/lionel-messi-en-co-nu-al-op-rand-van-uitschakeling-in-titelplay-offs-mls-inter-miami-gaat-in-eigen-huis-pijnlijk-onderuit~afc56887/",
-    "title": "Lionel Messi en co nu al op rand van uitschakeling in titelplay-offs MLS: Inter Miami gaat in eigen huis pijnlijk onderuit",
-    "ko": "메시·마이애미, MLS 플레이오프 홈 패배로 탈락 위기",
-    "source": "hln",
-    "publishedAt": "2026-11-22T05:32:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "리오넬 메시"
-    ],
-    "playerTags": [
-     "lionel-messi"
-    ],
-    "author": "Sportredactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 2.4,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "lionel-messi"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "디 애슬레틱",
-   "source": "athletic",
-   "at": "2026-11-22T01:48:52.000Z",
-   "viaQuote": false
-  },
-  "headline": "Miami falls to Columbus in stunning blow to MLS Cup title defense; Should Messi have seen red?"
  },
  {
   "slug": "kane-injury",
@@ -10609,7 +11487,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 11,
-  "score": 3.11,
+  "score": 2.47,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10676,7 +11554,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10733,7 +11611,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.95,
+  "score": 0.75,
   "topTier": 3,
   "stageHistory": [
    {
@@ -10758,79 +11636,6 @@
    "viaQuote": false
   },
   "headline": "Ivan Toney 'open' to Matthias Jaissle reunion as ex-Newcastle United striker eyes January move"
- },
- {
-  "slug": "lille-lyon-2026-11-21",
-  "mode": "llm",
-  "titleKo": "릴 대 리옹 경기 평점",
-  "createdAt": "2026-11-21T22:55:00.000Z",
-  "updatedAt": "2026-11-22T04:45:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "비센스",
-   "디아운"
-  ],
-  "sig": [
-   "lille",
-   "lyon",
-   "vicens",
-   "bidstrup",
-   "diaoune"
-  ],
-  "articles": [
-   {
-    "id": "71a2225505fe",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-de-lille-lyon-vicens-s-en-remet-a-bidstrup-diaoune-se-loupe/1745279#at_medium=RSS_feeds",
-    "title": "Les notes de Lille-Lyon : Vicens s'en remet à Bidstrup, Diaoune se loupe",
-    "ko": "릴 대 리옹 경기 선수 평점: 비센스·디아운 활약 엇갈려",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T22:55:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "비센스",
-     "디아운"
-    ],
-    "playerTags": [],
-    "author": "Régis Testelin",
-    "transfer": null
-   },
-   {
-    "id": "f6e3abc74cc8",
-    "url": "https://www.lequipe.fr/Football/Article/Du-jeu-et-les-trois-points-a-lille-l-heureux-bapteme-de-carlos-vicens-le-nouveau-coach-de-l-ol/1745300#at_medium=RSS_feeds",
-    "title": "Du jeu et les trois points à Lille : l'heureux baptême de Carlos Vicens, le nouveau coach de l'OL",
-    "ko": "리옹 신임 감독 카를로스 비센스, 릴전 승리로 데뷔",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T04:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Romain Lafont",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.55,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-21T22:55:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Du jeu et les trois points à Lille : l'heureux baptême de Carlos Vicens, le nouveau coach de l'OL"
  },
  {
   "slug": "doue-injury",
@@ -11074,9 +11879,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 3,
   "sourceCount": 5,
-  "score": 1.24,
+  "score": 0.68,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11091,6 +11896,292 @@
    "viaQuote": false
   },
   "headline": "Un soir qui change presque tout : la grave blessure de Doué à Nice va obliger le PSG à revoir ses plans, en France et en Europe"
+ },
+ {
+  "slug": "real-madrid-celta-2026-11-22",
+  "mode": "llm",
+  "titleKo": "레알 마드리드 대 셀타 경기 예상 선발",
+  "createdAt": "2026-11-21T07:33:36.000Z",
+  "updatedAt": "2026-11-22T00:35:44.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "real-madrid"
+  ],
+  "players": [
+   "티보 쿠르투아",
+   "킬리안 음바페",
+   "비니시우스 주니오르",
+   "에스피",
+   "부르시오"
+  ],
+  "sig": [
+   "celta",
+   "laliga",
+   "sports"
+  ],
+  "articles": [
+   {
+    "id": "b3892e2f6937",
+    "url": "https://www.hln.be/primera-division/live-21u-houdt-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
+    "title": "LIVE (21u). Houdt Thibaut Courtois zijn netten bij Real proper tegen Celta?",
+    "ko": "쿠르투아, 셀타전에서 레알 골문 지킬 수 있을지 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-20T23:00:28.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "d9d21666918e",
+    "url": "https://as.com/futbol/alineacion-posible-del-real-madrid-contra-el-celta-en-laliga-ea-sports-f202611-n/",
+    "title": "Posible alineación del Real Madrid contra el Celta en LaLiga EA Sports",
+    "ko": "레알 마드리드, 셀타전 예상 선발 라인업 공개",
+    "source": "as",
+    "publishedAt": "2026-11-21T07:33:36.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Agustín Martín",
+    "transfer": null
+   },
+   {
+    "id": "9df33fa1cc45",
+    "url": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+    "title": "Real Madrid - Celta, en directo: previa y última hora de LaLiga EA Sports, hoy en vivo",
+    "ko": "레알 마드리드 대 셀타 라리가 경기 실시간 중계",
+    "source": "as",
+    "publishedAt": "2026-11-21T10:18:13.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López",
+    "transfer": null
+   },
+   {
+    "id": "601f3dd30b62",
+    "url": "https://www.hln.be/primera-division/live-21u-houdt-aanvoerder-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
+    "title": "LIVE (21u). Houdt aanvoerder Thibaut Courtois zijn netten bij Real proper tegen Celta?",
+    "ko": "쿠르투아, 셀타전 골문 지킬지 주목",
+    "source": "hln",
+    "publishedAt": "2026-11-21T18:58:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "ff60c2608f91",
+    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/20261121-150534-real-madrid-celta-de-vigo-em-direto",
+    "title": "Real Madrid-Celta de Vigo, em direto",
+    "ko": "레알 마드리드 대 셀타 비고 실시간 경기",
+    "source": "record",
+    "publishedAt": "2026-11-21T19:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3c166f130515",
+    "url": "https://www.kicker.de/real-madrid-gegen-vigo-2026-la-liga-5223921/spielbericht#omrss",
+    "title": "LIVE! Heimspiel gegen Vigo: Setzt Real den Spitzenreiter unter Druck?",
+    "ko": "레알 마드리드, 셀타전 라이브…선두 압박 가능할까",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T19:43:30.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b04b53d5b8c2",
+    "url": "https://www.hln.be/primera-division/live-aanvoerder-thibaut-courtois-en-real-madrid-nog-steeds-op-achterstand-kylian-mbappe-trapt-penalty-huizenhoog-over~a78c62bc/",
+    "title": "LIVE. Aanvoerder Thibaut Courtois en Real Madrid nog steeds op achterstand: Kylian Mbappé trapt penalty huizenhoog over",
+    "ko": "레알 마드리드, 음바페 페널티킥 실축 속 쿠르투아 주장 아래 열세",
+    "source": "hln",
+    "publishedAt": "2026-11-21T20:52:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아",
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe",
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "71f8f1aad489",
+    "url": "https://www.kicker.de/elfmeter-ueber-das-tor-mbapp-verpasst-den-ausgleich-vom-punkt-1273677/video#omrss",
+    "title": "Elfmeter über das Tor: Mbappè verpasst den Ausgleich vom Punkt",
+    "ko": "음바페, 페널티킥 실축으로 동점 기회 날려",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T20:53:49.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e0d44b338c79",
+    "url": "https://www.kicker.de/vinicius-junior-legt-stark-vor-real-jubelt-ueber-spaetes-2-1-von-espi-1273696/video#omrss",
+    "title": "Vinicius Junior legt stark vor: Real jubelt über spätes 2:1 von Espi",
+    "ko": "비니시우스 선제 활약, 레알 후반 에스피 결승골로 2-1 승리",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T21:58:39.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "비니시우스 주니오르",
+     "에스피"
+    ],
+    "playerTags": [
+     "vinicius-junior"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e33127a624d1",
+    "url": "https://www.lequipe.fr/Football/Actualites/Carlos-espi-offre-encore-les-trois-points-au-real-madrid-au-bout-d-un-match-brouillon-contre-le-celta-vigo/1745259#at_medium=RSS_feeds",
+    "title": "Carlos Espi offre encore les trois points au Real Madrid au bout d'un match brouillon contre le Celta Vigo",
+    "ko": "에스피, 셀타전 후반 결승골로 레알 승리 안겨",
+    "source": "lequipe",
+    "publishedAt": "2026-11-21T22:04:17.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에스피"
+    ],
+    "playerTags": [],
+    "author": "Marius Veillerot",
+    "transfer": null
+   },
+   {
+    "id": "db5be526464e",
+    "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-madrid-vs-celta-jornada-13-de-laliga-ea-sports-f202611-v/",
+    "title": "Resumen y goles del Real Madrid vs. Celta, jornada 13 de LaLiga EA Sports",
+    "ko": "레알 마드리드 대 셀타 경기 하이라이트·득점 정리",
+    "source": "as",
+    "publishedAt": "2026-11-21T22:21:31.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "LALIGA",
+    "transfer": null
+   },
+   {
+    "id": "3bf32f00f7f9",
+    "url": "https://as.com/futbol/primera/aprobados-y-suspensos-del-celta-burcio-aquel-nino-del-real-madrid-brilla-como-rival-blanco-f202611-n/",
+    "title": "Aprobados y suspensos del Celta: Burcio, aquel niño del Real Madrid se luce como rival blanco",
+    "ko": "셀타 선수 평점: 부르시오 활약, 레알 마드리드 상대 존재감",
+    "source": "as",
+    "publishedAt": "2026-11-22T00:35:44.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "부르시오"
+    ],
+    "playerTags": [],
+    "author": "Abraham Martínez",
+    "transfer": null
+   }
+  ],
+  "recentSources": 4,
+  "sourceCount": 5,
+  "score": 1.12,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "thibaut-courtois",
+   "kylian-mbappe",
+   "vinicius-junior"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-20T23:00:28.000Z",
+   "viaQuote": false
+  },
+  "headline": "Aprobados y suspensos del Celta: Burcio, aquel niño del Real Madrid se luce como rival blanco"
  },
  {
   "slug": "rogers-handball-incident",
@@ -11147,7 +12238,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.81,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11299,7 +12390,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11799,7 +12890,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.18,
+  "score": 0.15,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11846,7 +12937,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.69,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11980,7 +13071,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.83,
+  "score": 0.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12081,7 +13172,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.21,
+  "score": 0.16,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -12212,7 +13303,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.52,
+  "score": 0.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12225,271 +13316,6 @@
    "viaQuote": false
   },
   "headline": "Strasbourg appoint Swansea boss Matos"
- },
- {
-  "slug": "real-madrid-celta-2026-11-22",
-  "mode": "llm",
-  "titleKo": "레알 마드리드 대 셀타 경기 예상 선발",
-  "createdAt": "2026-11-21T07:33:36.000Z",
-  "updatedAt": "2026-11-21T22:21:31.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "real-madrid"
-  ],
-  "players": [
-   "티보 쿠르투아",
-   "킬리안 음바페",
-   "비니시우스 주니오르",
-   "에스피"
-  ],
-  "sig": [
-   "celta",
-   "laliga",
-   "sports"
-  ],
-  "articles": [
-   {
-    "id": "b3892e2f6937",
-    "url": "https://www.hln.be/primera-division/live-21u-houdt-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
-    "title": "LIVE (21u). Houdt Thibaut Courtois zijn netten bij Real proper tegen Celta?",
-    "ko": "쿠르투아, 셀타전에서 레알 골문 지킬 수 있을지 주목",
-    "source": "hln",
-    "publishedAt": "2026-11-20T23:00:28.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "d9d21666918e",
-    "url": "https://as.com/futbol/alineacion-posible-del-real-madrid-contra-el-celta-en-laliga-ea-sports-f202611-n/",
-    "title": "Posible alineación del Real Madrid contra el Celta en LaLiga EA Sports",
-    "ko": "레알 마드리드, 셀타전 예상 선발 라인업 공개",
-    "source": "as",
-    "publishedAt": "2026-11-21T07:33:36.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Agustín Martín",
-    "transfer": null
-   },
-   {
-    "id": "9df33fa1cc45",
-    "url": "https://as.com/futbol/primera/real-madrid-celta-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-    "title": "Real Madrid - Celta, en directo: previa y última hora de LaLiga EA Sports, hoy en vivo",
-    "ko": "레알 마드리드 대 셀타 라리가 경기 실시간 중계",
-    "source": "as",
-    "publishedAt": "2026-11-21T10:18:13.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López",
-    "transfer": null
-   },
-   {
-    "id": "601f3dd30b62",
-    "url": "https://www.hln.be/primera-division/live-21u-houdt-aanvoerder-thibaut-courtois-zijn-netten-bij-real-proper-tegen-celta~a78c62bc/",
-    "title": "LIVE (21u). Houdt aanvoerder Thibaut Courtois zijn netten bij Real proper tegen Celta?",
-    "ko": "쿠르투아, 셀타전 골문 지킬지 주목",
-    "source": "hln",
-    "publishedAt": "2026-11-21T18:58:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "ff60c2608f91",
-    "url": "https://www.record.pt/internacional/paises/espanha/detalhe/20261121-150534-real-madrid-celta-de-vigo-em-direto",
-    "title": "Real Madrid-Celta de Vigo, em direto",
-    "ko": "레알 마드리드 대 셀타 비고 실시간 경기",
-    "source": "record",
-    "publishedAt": "2026-11-21T19:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3c166f130515",
-    "url": "https://www.kicker.de/real-madrid-gegen-vigo-2026-la-liga-5223921/spielbericht#omrss",
-    "title": "LIVE! Heimspiel gegen Vigo: Setzt Real den Spitzenreiter unter Druck?",
-    "ko": "레알 마드리드, 셀타전 라이브…선두 압박 가능할까",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T19:43:30.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b04b53d5b8c2",
-    "url": "https://www.hln.be/primera-division/live-aanvoerder-thibaut-courtois-en-real-madrid-nog-steeds-op-achterstand-kylian-mbappe-trapt-penalty-huizenhoog-over~a78c62bc/",
-    "title": "LIVE. Aanvoerder Thibaut Courtois en Real Madrid nog steeds op achterstand: Kylian Mbappé trapt penalty huizenhoog over",
-    "ko": "레알 마드리드, 음바페 페널티킥 실축 속 쿠르투아 주장 아래 열세",
-    "source": "hln",
-    "publishedAt": "2026-11-21T20:52:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아",
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe",
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "71f8f1aad489",
-    "url": "https://www.kicker.de/elfmeter-ueber-das-tor-mbapp-verpasst-den-ausgleich-vom-punkt-1273677/video#omrss",
-    "title": "Elfmeter über das Tor: Mbappè verpasst den Ausgleich vom Punkt",
-    "ko": "음바페, 페널티킥 실축으로 동점 기회 날려",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T20:53:49.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e0d44b338c79",
-    "url": "https://www.kicker.de/vinicius-junior-legt-stark-vor-real-jubelt-ueber-spaetes-2-1-von-espi-1273696/video#omrss",
-    "title": "Vinicius Junior legt stark vor: Real jubelt über spätes 2:1 von Espi",
-    "ko": "비니시우스 선제 활약, 레알 후반 에스피 결승골로 2-1 승리",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T21:58:39.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "비니시우스 주니오르",
-     "에스피"
-    ],
-    "playerTags": [
-     "vinicius-junior"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e33127a624d1",
-    "url": "https://www.lequipe.fr/Football/Actualites/Carlos-espi-offre-encore-les-trois-points-au-real-madrid-au-bout-d-un-match-brouillon-contre-le-celta-vigo/1745259#at_medium=RSS_feeds",
-    "title": "Carlos Espi offre encore les trois points au Real Madrid au bout d'un match brouillon contre le Celta Vigo",
-    "ko": "에스피, 셀타전 후반 결승골로 레알 승리 안겨",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T22:04:17.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "에스피"
-    ],
-    "playerTags": [],
-    "author": "Marius Veillerot",
-    "transfer": null
-   },
-   {
-    "id": "db5be526464e",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-madrid-vs-celta-jornada-13-de-laliga-ea-sports-f202611-v/",
-    "title": "Resumen y goles del Real Madrid vs. Celta, jornada 13 de LaLiga EA Sports",
-    "ko": "레알 마드리드 대 셀타 경기 하이라이트·득점 정리",
-    "source": "as",
-    "publishedAt": "2026-11-21T22:21:31.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "LALIGA",
-    "transfer": null
-   }
-  ],
-  "recentSources": 5,
-  "sourceCount": 5,
-  "score": 1.68,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "thibaut-courtois",
-   "kylian-mbappe",
-   "vinicius-junior"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-20T23:00:28.000Z",
-   "viaQuote": false
-  },
-  "headline": "Resumen y goles del Real Madrid vs. Celta, jornada 13 de LaLiga EA Sports"
  },
  {
   "slug": "man-utd-affairs-ownership-sale",
@@ -12583,7 +13409,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.5,
+  "score": 0.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12632,7 +13458,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.46,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12806,7 +13632,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 5,
-  "score": 1.45,
+  "score": 1.19,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13198,7 +14024,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.13,
+  "score": 0.11,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13499,7 +14325,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 7,
-  "score": 0.63,
+  "score": 0.5,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13584,7 +14410,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13931,7 +14757,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.41,
+  "score": 0.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14047,7 +14873,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 1.47,
+  "score": 1.17,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14097,7 +14923,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14423,7 +15249,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.12,
+  "score": 0.09,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15644,7 +16470,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.39,
+  "score": 0.31,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15983,7 +16809,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.38,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16243,7 +17069,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.38,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16360,7 +17186,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16442,7 +17268,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16498,7 +17324,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -16657,7 +17483,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.5,
+  "score": 0.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16870,9 +17696,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.81,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17137,7 +17963,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.33,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17860,7 +18686,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 14,
-  "score": 0.5,
+  "score": 0.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17917,7 +18743,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18004,9 +18830,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18091,9 +18917,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.8,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -18173,9 +18999,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18499,9 +19325,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 8,
-  "score": 0.27,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -18573,9 +19399,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.39,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -18903,9 +19729,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 6,
-  "score": 0.25,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -18920,174 +19746,6 @@
    "viaQuote": false
   },
   "headline": "Fifpro criticises Bayern Munich for Musiala comments"
- },
- {
-  "slug": "stoke-birmingham-2026-11-19",
-  "mode": "llm",
-  "titleKo": "스토크 대 버밍엄 선두 경기 앞둔 감독 발언",
-  "createdAt": "2026-11-19T10:04:50.000Z",
-  "updatedAt": "2026-11-21T18:07:47.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "stoke",
-   "birmingham"
-  ],
-  "players": [
-   "허스트",
-   "맥글린",
-   "보밤비노"
-  ],
-  "sig": [
-   "robins"
-  ],
-  "articles": [
-   {
-    "id": "bbb1de7bc26e",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-city-robins-11247478",
-    "title": "Mark Robins makes Stoke City promise ahead of top-of-the-table Birmingham clash",
-    "ko": "스토크 감독, 선두 버밍엄전 앞두고 선수들에게 약속 요구",
-    "source": "stoke",
-    "publishedAt": "2026-11-19T10:04:50.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   },
-   {
-    "id": "c4e933551d13",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-injury-news-11249184",
-    "title": "Five players could miss Stoke City vs Birmingham City as Potters handed huge boost",
-    "ko": "스토크, 버밍엄전 결장 가능 선수 5명…호재도 전해져",
-    "source": "stoke",
-    "publishedAt": "2026-11-20T10:27:04.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke",
-     "birmingham"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   },
-   {
-    "id": "f4b488d3568d",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-kevin-phillips-11249948",
-    "title": "Ex-Birmingham star Kevin Phillips offers Stoke prediction before top-of-the-table clash",
-    "ko": "전 버밍엄 케빈 필립스, 스토크 선두 대결 예상",
-    "source": "stoke",
-    "publishedAt": "2026-11-21T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   },
-   {
-    "id": "b319b94b0470",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/stoke-city-birmingham-city-live-11249601",
-    "title": "Stoke City vs Birmingham City LIVE match updates and team news from Championship clash",
-    "ko": "스토크 시티 대 버밍엄 시티 챔피언십 실시간 소식",
-    "source": "stoke",
-    "publishedAt": "2026-11-21T13:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   },
-   {
-    "id": "1e2bc976ed08",
-    "url": "https://www.stokesentinel.co.uk/sport/football/match-reports/stoke-city-birmingham-player-ratings-11250114",
-    "title": "Stoke City player ratings vs Birmingham as Hirst and McGlynn shine as Bombino dismissed",
-    "ko": "스토크 시티 버밍엄전 평점, 허스트·맥글린 활약 속 보밤비노 퇴장",
-    "source": "stoke",
-    "publishedAt": "2026-11-21T16:58:07.000Z",
-    "credited": "스토크 센티널(X)",
-    "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "허스트",
-     "맥글린",
-     "보밤비노"
-    ],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   },
-   {
-    "id": "ddc1880cc679",
-    "url": "https://www.skysports.com/football/stoke-city-vs-birmingham-city/report/560686",
-    "title": "Birmingham beaten at 10-man Stoke",
-    "ko": "버밍엄, 10명이 뛴 스토크에 패배",
-    "source": "sky",
-    "publishedAt": "2026-11-21T17:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5cb25bc05280",
-    "url": "https://www.stokesentinel.co.uk/sport/football/football-news/mark-robins-stoke-city-birmingham-11251088",
-    "title": "Mark Robins hails Stoke stars as three things lead Potters to huge Birmingham win",
-    "ko": "마크 로빈스, 버밍엄 대승 이끈 스토크 선수들 칭찬",
-    "source": "stoke",
-    "publishedAt": "2026-11-21T18:07:47.000Z",
-    "credited": null,
-    "clubs": [
-     "stoke"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Orme",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스토크 센티널(X)",
-   "at": "2026-11-19T10:04:50.000Z",
-   "viaQuote": true
-  },
-  "headline": "Mark Robins hails Stoke stars as three things lead Potters to huge Birmingham win"
  },
  {
   "slug": "porto-affairs-annual-report-approval",
@@ -22125,287 +22783,6 @@
   "headline": "Clubs 'doubt how good Joe Gomez is' as Liverpool exit looms - Transfer expert"
  },
  {
-  "slug": "porto-paredes-2026-11-20",
-  "mode": "llm",
-  "titleKo": "FC 포르투 대 파레데스 경기",
-  "createdAt": "2026-11-20T19:00:00.000Z",
-  "updatedAt": "2026-11-21T07:05:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [
-   "클라우디우 호스",
-   "다니엘 로드리게스",
-   "호스"
-  ],
-  "sig": [
-   "paredes"
-  ],
-  "articles": [
-   {
-    "id": "463ac6c546ed",
-    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/fc-porto-paredes-em-direto",
-    "title": "FC Porto-Paredes, em direto",
-    "ko": "FC 포르투 대 파레데스 경기 생중계",
-    "source": "record",
-    "publishedAt": "2026-11-20T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "1473d806af40",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/o-onze-do-fc-porto-para-o-jogo-com-o-paredes",
-    "title": "O onze do FC Porto para o jogo com o Paredes",
-    "ko": "FC 포르투, 파레데스전 선발 명단 공개",
-    "source": "record",
-    "publishedAt": "2026-11-20T19:39:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bffe04b7c7cd",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/ouca-aqui-o-relato-do-fc-porto-paredes-na-cm-radio",
-    "title": "Ouça aqui o relato do FC Porto-Paredes na CM Rádio",
-    "ko": "포르투-파레데스 경기 중계 라디오 방송 안내",
-    "source": "record",
-    "publishedAt": "2026-11-20T20:22:37.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "27a77650e323",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/respirou-se-de-alivio-no-dragao-heroi-claudio-ramos-muito-abracado-apos-vitoria-do-fc-porto-nos-penaltis",
-    "title": "Respirou-se de alívio no Dragão: herói Cláudio Ramos muito abraçado após vitória do FC Porto nos penáltis",
-    "ko": "FC 포르투 승부차기 승리 뒤 영웅 클라우디우 호스 포옹 장면",
-    "source": "record",
-    "publishedAt": "2026-11-20T23:48:10.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "클라우디우 호스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "74689f62ab9e",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/claudio-ramos-apos-ser-heroi-nos-penaltis-as-vezes-e-feeling-outras-e-estudado",
-    "title": "Cláudio Ramos após ser herói nos penáltis: «Às vezes é feeling, outras é estudado»",
-    "ko": "클라우디우 호스, 승부차기 영웅 후 \"때로는 감, 때로는 연구\"",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "클라우디우 호스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ad3d9cd992d4",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/claudio-ramos-impediu-o-escandalo-assim-foi-o-desempate-por-penaltis-do-fc-porto-paredes",
-    "title": "Cláudio Ramos impediu o escândalo: assim foi o desempate por penáltis do FC Porto-Paredes",
-    "ko": "클라우디우 호스 승부차기 선방…FC 포르투-파레데스전 승부차기 과정",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "클라우디우 호스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e03ac532e3b2",
-    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/daniel-rodrigues-um-orgulho-extraordinario-pelo-paredes-fizemos-algo-que-poucas-equipas-da-1-liga-fazem",
-    "title": "Daniel Rodrigues: «Um orgulho extraordinário pelo Paredes. Fizemos algo que poucas equipas da 1.ª Liga fazem»",
-    "ko": "다니엘 로드리게스 \"파레데스에 대한 자부심…1부리그 팀 대부분이 못 하는 일 해냈다\"",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:10:57.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "다니엘 로드리게스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "754b74ad28d9",
-    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/agostinho-bento-destaca-atitude-frente-ao-fc-porto-prometi-que-iamos-jogar-olhos-nos-olhos-e-cumprimos",
-    "title": "Agostinho Bento destaca atitude frente ao FC Porto: «Prometi que íamos jogar olhos nos olhos e cumprimos»",
-    "ko": "아고스티뉴 벤투, FC 포르투전 태도 강조…\"눈을 마주치며 뛰겠다 약속 지켰다\"",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:11:26.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f11afce3f744",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/as-notas-dos-jogadores-do-fc-porto-diante-do-paredes-ramos-com-alcance-para-segurar-a-taca",
-    "title": "As notas dos jogadores do FC Porto diante do Paredes: Ramos com alcance para segurar a Taça",
-    "ko": "FC 포르투 선수 평점, 호스 선방 돋보여",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:31:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "호스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e37c9df6edf7",
-    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/a-cronica-do-fc-porto-paredes-1-1-3-1-pen-de-paredes-meias-com-o-desastre",
-    "title": "A crónica do FC Porto-Paredes, 1-1 (3-1 pen.): de Paredes-meias com o desastre",
-    "ko": "FC 포르투, 파레데스와 1-1 무승부 후 승부차기 3-1 승리",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:44:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ea2f05f796cf",
-    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/o-interrogatorio-do-fc-porto-paredes-luvas-de-claudio-salvam-moura",
-    "title": "O interrogatório do FC Porto-Paredes: luvas de Cláudio salvam Moura",
-    "ko": "FC 포르투-파레데스 점검, 클라우디우 장갑 선방 조명",
-    "source": "record",
-    "publishedAt": "2026-11-21T00:49:49.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "클라우디우 호스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7e7bac6d56a7",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/um-susto-como-ha-muito-nao-se-via-fc-porto-evitou-novo-escandalo-na-taca",
-    "title": "Um susto como há muito não se via: FC Porto evitou novo escândalo na Taça",
-    "ko": "FC 포르투, 컵대회서 새 스캔들 피해",
-    "source": "record",
-    "publishedAt": "2026-11-21T01:07:28.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a992a4abe3c2",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/claudio-ramos-evitou-eliminacao-historica-as-reacoes-a-vitoria-do-fc-porto-sobre-o-paredes-nos-penaltis",
-    "title": "«Cláudio Ramos evitou eliminação histórica»: as reações à vitória do FC Porto sobre o Paredes nos penáltis",
-    "ko": "FC 포르투, 파레데스 승부차기 제압…클라우디우 호스 선방 재조명",
-    "source": "record",
-    "publishedAt": "2026-11-21T07:05:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "클라우디우 호스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-20T19:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "«Cláudio Ramos evitou eliminação histórica»: as reações à vitória do FC Porto sobre o Paredes nos penáltis"
- },
- {
   "slug": "vitor-matos-swansea-transfer",
   "mode": "llm",
   "titleKo": "스완지 비토르 마토스 스트라스부르 이적 가능성",
@@ -24089,83 +24466,6 @@
    "viaQuote": false
   },
   "headline": "Veja a entrevista completa a Pote em estreia no Youtube do Record"
- },
- {
-  "slug": "bruno-fernandes-man-utd-contract",
-  "mode": "llm",
-  "titleKo": "브루노 페르난데스 맨유 재계약 협상",
-  "createdAt": "2026-11-20T20:52:00.000Z",
-  "updatedAt": "2026-11-20T20:52:00.000Z",
-  "category": "transfer",
-  "stage": "negotiation",
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [
-   "브루노 페르난데스"
-  ],
-  "sig": [
-   "bruno",
-   "fernandes",
-   "está"
-  ],
-  "articles": [
-   {
-    "id": "dde936fd9285",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/detalhe/ceo-do-man-united-confirma-conversas-para-renovar-com-bruno-fernandes-esta-a-ser-discutida-nos-bastidores",
-    "title": "CEO do Man. United confirma conversas para renovar com Bruno Fernandes: «Está a ser discutida nos bastidores»",
-    "ko": "맨유 CEO, 브루노 페르난데스 재계약 협상 공식 확인",
-    "source": "record",
-    "publishedAt": "2026-11-20T20:52:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "브루노 페르난데스",
-     "from": "맨체스터 유나이티드",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "dde936fd9285",
-    "at": "2026-11-20T20:52:00.000Z",
-    "source": "record",
-    "from": null,
-    "to": "negotiation"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [
-   "bruno-fernandes"
-  ],
-  "transfer": {
-   "player": "브루노 페르난데스",
-   "from": "맨체스터 유나이티드",
-   "to": null
-  },
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-20T20:52:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "CEO do Man. United confirma conversas para renovar com Bruno Fernandes: «Está a ser discutida nos bastidores»"
  },
  {
   "slug": "jaissle-newcastle-discipline",
@@ -113074,57 +113374,6 @@
    "viaQuote": true
   },
   "headline": "David Beckham's true feelings on Man United takeover as club legend given backing for huge move"
- },
- {
-  "slug": "man-utd-affairs-commercial-risk",
-  "mode": "llm",
-  "titleKo": "맨유 상업 계약 상실 위험 경고",
-  "createdAt": "2026-11-08T07:15:00.000Z",
-  "updatedAt": "2026-11-08T07:15:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [],
-  "sig": [
-   "borson"
-  ],
-  "articles": [
-   {
-    "id": "47dfbf51424e",
-    "url": "https://www.footballinsider247.com/manchester-united/stefan-borson-man-united-at-risk-of-losing-commercial-deals",
-    "title": "Stefan Borson: Man United at risk of losing commercial deals",
-    "ko": "스테판 보르손 '맨유, 상업 계약 상실 위험'",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-08T07:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-08T07:15:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Stefan Borson: Man United at risk of losing commercial deals"
  },
  {
   "slug": "aston-villa-affairs-carragher-lawsuit",
