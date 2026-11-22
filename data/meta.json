@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T18:36:08.965Z",
+ "updatedAt": "2026-11-22T19:33:52.148Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
-  "barcelona-villarreal-2026-11-22",
+  "pochettino-man-utd-manager-future",
   "hull-brighton-2026-11-22",
-  "doue-injury",
-  "pochettino-man-utd-manager-future"
+  "ac-milan-frosinone-2026-11-22",
+  "barcelona-villarreal-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
-   "added": 4,
+   "items": 68,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 0,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,14 +95,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 60
+   "added": 5,
+   "authorRate": 62
   },
   "fblondon": {
    "ok": true,
@@ -119,13 +119,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 78
   },
   "waz": {
@@ -137,31 +137,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -173,31 +173,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 6,
+   "items": 29,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 1,
+   "items": 8,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -248,7 +248,7 @@
   },
   {
    "name": "노이어",
-   "count": 34
+   "count": 35
   },
   {
    "name": "이스테방",
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 209,
+  "recentIssues": 206,
   "singleArticleRate": 38,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 85
+    "count": 89
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 54
+    "count": 66
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -349,7 +349,7 @@
    },
    {
     "slug": "barcelona-villarreal-2026-11-22",
-    "count": 22
+    "count": 23
    },
    {
     "slug": "doue-injury",
@@ -357,7 +357,7 @@
    },
    {
     "slug": "bayern-koln-2026-11-19",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "kane-injury",
@@ -457,6 +457,24 @@
    ]
   },
   {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 6
+    },
+    {
+     "ko": "네빌",
+     "count": 2
+    },
+    {
+     "ko": "개리 네빌",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rummenigge",
    "dictionary": null,
    "variants": [
@@ -488,24 +506,6 @@
     },
     {
      "ko": "타미 시몬스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gary Neville",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게리 네빌",
-     "count": 5
-    },
-    {
-     "ko": "개리 네빌",
-     "count": 1
-    },
-    {
-     "ko": "네빌",
      "count": 1
     }
    ]
@@ -575,6 +575,20 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 3
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Nmecha",
    "dictionary": null,
    "variants": [
@@ -621,20 +635,6 @@
    ]
   },
   {
-   "en": "Frick",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프리크",
-     "count": 2
-    },
-    {
-     "ko": "프릭",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Carlos Vicens",
    "dictionary": null,
    "variants": [
@@ -649,16 +649,16 @@
    ]
   },
   {
-   "en": "Keith Wyness",
+   "en": "Gonçalo Ramos",
    "dictionary": null,
    "variants": [
     {
-     "ko": "키스 와이네스",
-     "count": 2
+     "ko": "곤살루 하무스",
+     "count": 3
     },
     {
-     "ko": "키스 와이니스",
-     "count": 2
+     "ko": "곤살루 하모스",
+     "count": 1
     }
    ]
   },
@@ -685,15 +685,15 @@
      "count": 1
     },
     {
+     "ko": "센 라멘스",
+     "count": 1
+    },
+    {
      "ko": "셴 라먼스",
      "count": 1
     },
     {
      "ko": "senne lammens",
-     "count": 1
-    },
-    {
-     "ko": "센 라멘스",
      "count": 1
     }
    ]
@@ -805,6 +805,20 @@
    ]
   },
   {
+   "en": "Frick",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프리크",
+     "count": 2
+    },
+    {
+     "ko": "프릭",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vasco Seabra",
    "dictionary": null,
    "variants": [
@@ -874,6 +888,20 @@
     },
     {
      "ko": "키닝",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tzolakis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "촐라키스",
+     "count": 2
+    },
+    {
+     "ko": "졸라키스",
      "count": 1
     }
    ]
@@ -1061,20 +1089,6 @@
    ]
   },
   {
-   "en": "Gilberto Batista",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "질베르투 바티스타",
-     "count": 1
-    },
-    {
-     "ko": "길베르투 바티스타",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1112,20 +1126,6 @@
     },
     {
      "ko": "크니아트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marquinhos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르퀴뇨스",
-     "count": 1
-    },
-    {
-     "ko": "마르키뉴스",
      "count": 1
     }
    ]
@@ -1229,8 +1229,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 262,
-   "llm": 262
+   "collected": 326,
+   "llm": 326
   }
  },
  "llmErrors": []
