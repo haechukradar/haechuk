@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T08:33:17.006Z",
+ "updatedAt": "2026-11-22T09:29:52.001Z",
  "hot": [
   "inter-miami-columbus-2026-11-22",
   "liverpool-man-utd-2026-11-22",
-  "pochettino-man-utd-manager-future",
+  "bruno-fernandes-man-utd-contract",
   "paredes-collapse-incident",
-  "kane-injury"
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -45,27 +45,27 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 65,
-   "added": 1,
+   "items": 67,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 63,
-   "added": 5,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 18,
+   "added": 12,
+   "authorRate": 83
   },
   "athletic": {
    "ok": true,
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,25 +94,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 92
+   "added": 4,
+   "authorRate": 90
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -142,25 +142,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -172,13 +172,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 24,
-   "added": 1,
+   "items": 27,
+   "added": 3,
    "authorRate": 96
   },
   "star": {
@@ -190,12 +190,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 8,
    "added": 4,
    "authorRate": 0
   }
@@ -323,16 +323,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 197,
+  "recentIssues": 195,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 90
+    "count": 89
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 46
+    "count": 47
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -340,7 +340,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 31
+    "count": 33
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
@@ -351,12 +351,12 @@
     "count": 21
    },
    {
-    "slug": "man-city-affairs-charges-20261119",
-    "count": 19
-   },
-   {
     "slug": "infantino-fifa-affairs-election-candidacy",
     "count": 18
+   },
+   {
+    "slug": "man-city-affairs-charges-20261119",
+    "count": 17
    },
    {
     "slug": "kane-injury",
@@ -434,6 +434,24 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 5
+    },
+    {
+     "ko": "스테판 보르손",
+     "count": 2
+    },
+    {
+     "ko": "스티브 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -452,20 +470,6 @@
     {
      "ko": "마르쿠 시우바",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보슨",
-     "count": 5
-    },
-    {
-     "ko": "스테판 보르손",
-     "count": 2
     }
    ]
   },
@@ -1224,8 +1228,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 701,
-   "llm": 701
+   "collected": 737,
+   "llm": 737
   }
  },
  "llmErrors": []
