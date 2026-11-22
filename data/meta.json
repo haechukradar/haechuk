@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-22T00:04:02.732Z",
+ "updatedAt": "2026-11-22T01:18:31.202Z",
  "hot": [
   "newcastle-arsenal-2026-11-22",
   "real-madrid-celta-2026-11-22",
-  "pochettino-man-utd-manager-future",
+  "chelsea-leeds-2026-11-22",
   "sevilla-betis-2026-11-21",
   "raya-injury"
  ],
@@ -46,7 +46,7 @@
   "bbc": {
    "ok": true,
    "items": 61,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,13 +94,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 88
   },
   "fblondon": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -178,7 +178,7 @@
   "sun": {
    "ok": true,
    "items": 24,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "star": {
@@ -195,7 +195,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -420,6 +420,20 @@
    ]
   },
   {
+   "en": "Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄스-바넷",
+     "count": 7
+    },
+    {
+     "ko": "윌리엄스바넷",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -438,20 +452,6 @@
     {
      "ko": "마르쿠 시우바",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 7
-    },
-    {
-     "ko": "윌리엄스바넷",
-     "count": 2
     }
    ]
   },
@@ -703,6 +703,20 @@
     },
     {
      "ko": "앨런 셔러",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Pedro Emanuel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드루 에마누엘",
+     "count": 2
+    },
+    {
+     "ko": "페드로 에마누엘",
      "count": 1
     }
    ]
@@ -1094,20 +1108,6 @@
    ]
   },
   {
-   "en": "Pedro Emanuel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드로 에마누엘",
-     "count": 1
-    },
-    {
-     "ko": "페드루 에마누엘",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jules Ahoka",
    "dictionary": null,
    "variants": [
@@ -1216,8 +1216,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 567,
-   "llm": 567
+   "collected": 573,
+   "llm": 573
   }
  },
  "llmErrors": []
