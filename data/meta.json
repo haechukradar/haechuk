@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T22:55:21.415Z",
+ "updatedAt": "2026-11-22T23:34:39.328Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
   "liverpool-man-utd-2026-11-22",
+  "pochettino-man-utd-manager-future",
   "atalanta-inter-2026-11-22",
   "hull-brighton-2026-11-22",
-  "ac-milan-frosinone-2026-11-22"
+  "yoro-liverpool-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -47,7 +47,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -59,14 +59,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 19,
+   "added": 10,
+   "authorRate": 89
   },
   "athletic": {
    "ok": true,
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,13 +95,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 3,
    "authorRate": 76
   },
   "fblondon": {
@@ -149,7 +149,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 11,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,7 +161,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -179,7 +179,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
@@ -191,12 +191,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -212,7 +212,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 49
+   "count": 50
   },
   {
    "name": "루카쿠",
@@ -329,11 +329,11 @@
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 95
+    "count": 94
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 73
+    "count": 76
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -425,24 +425,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 퐁세카",
-     "count": 7
-    },
-    {
-     "ko": "파울루 폰세카",
-     "count": 3
-    },
-    {
-     "ko": "폰세카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -456,6 +438,24 @@
     },
     {
      "ko": "데이비드 모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 퐁세카",
+     "count": 6
+    },
+    {
+     "ko": "파울루 폰세카",
+     "count": 3
+    },
+    {
+     "ko": "폰세카",
      "count": 1
     }
    ]
@@ -492,7 +492,7 @@
     },
     {
      "ko": "마르코 시우바",
-     "count": 1
+     "count": 2
     },
     {
      "ko": "마르쿠 시우바",
@@ -975,20 +975,6 @@
    ]
   },
   {
-   "en": "Tibe De Vlieger",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "드 블리에허",
-     "count": 1
-    },
-    {
-     "ko": "티베 더 블리허",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jose Mourinho",
    "dictionary": null,
    "variants": [
@@ -1141,6 +1127,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Marquinhos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르퀴뇨스",
+     "count": 1
+    },
+    {
+     "ko": "마르키뉴스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1241,8 +1241,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 514,
-   "llm": 514
+   "collected": 541,
+   "llm": 541
   }
  },
  "llmErrors": []
