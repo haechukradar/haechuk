@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T10:21:11.906Z",
+ "updatedAt": "2026-11-22T11:11:25.819Z",
  "hot": [
   "inter-miami-columbus-2026-11-22",
   "liverpool-man-utd-2026-11-22",
   "bruno-fernandes-man-utd-contract",
-  "paredes-collapse-incident",
-  "pochettino-man-utd-manager-future"
+  "rochdale-manager-future",
+  "paredes-collapse-incident"
  ],
  "days": [
   "2026-10-18",
@@ -46,19 +46,19 @@
   "bbc": {
    "ok": true,
    "items": 67,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 63,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 10,
    "authorRate": 100
   },
   "gazzetta": {
@@ -101,12 +101,12 @@
    "ok": true,
    "items": 50,
    "added": 2,
-   "authorRate": 88
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -118,13 +118,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 78
   },
   "waz": {
@@ -136,13 +136,13 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -179,12 +179,12 @@
    "ok": true,
    "items": 29,
    "added": 2,
-   "authorRate": 97
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -195,8 +195,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 12,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -290,6 +290,10 @@
    "count": 17
   },
   {
+   "name": "니코 파스",
+   "count": 17
+  },
+  {
    "name": "수비멘디",
    "count": 17
   },
@@ -299,10 +303,6 @@
   },
   {
    "name": "발로군",
-   "count": 16
-  },
-  {
-   "name": "니코 파스",
    "count": 16
   },
   {
@@ -323,16 +323,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 192,
-  "singleArticleRate": 41,
+  "recentIssues": 194,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 88
+    "count": 83
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 45
+    "count": 44
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -353,10 +353,6 @@
    {
     "slug": "man-city-affairs-charges-20261119",
     "count": 17
-   },
-   {
-    "slug": "infantino-fifa-affairs-election-candidacy",
-    "count": 16
    },
    {
     "slug": "kane-injury",
@@ -488,28 +484,6 @@
    ]
   },
   {
-   "en": "Hoeneß",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회네스",
-     "count": 2
-    },
-    {
-     "ko": "회너스",
-     "count": 1
-    },
-    {
-     "ko": "회에스",
-     "count": 1
-    },
-    {
-     "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Evanilson",
    "dictionary": null,
    "variants": [
@@ -537,6 +511,24 @@
     },
     {
      "ko": "타미 시몬스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Hoeneß",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회네스",
+     "count": 2
+    },
+    {
+     "ko": "회너스",
+     "count": 1
+    },
+    {
+     "ko": "회이네스",
      "count": 1
     }
    ]
@@ -624,6 +616,20 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 2
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Nmecha",
    "dictionary": null,
    "variants": [
@@ -688,15 +694,15 @@
    ]
   },
   {
-   "en": "Kieran Maguire",
+   "en": "Baum",
    "dictionary": null,
    "variants": [
     {
-     "ko": "키런 매과이어",
+     "ko": "바움",
      "count": 2
     },
     {
-     "ko": "키에런 매과이어",
+     "ko": "바우마",
      "count": 1
     }
    ]
@@ -757,6 +763,24 @@
     },
     {
      "ko": "앨런 셔러",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Henri Koudossou",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "헨리 쿠두수",
+     "count": 1
+    },
+    {
+     "ko": "앙리 쿠두수",
+     "count": 1
+    },
+    {
+     "ko": "헨리 쿠두소우",
      "count": 1
     }
    ]
@@ -924,6 +948,20 @@
    ]
   },
   {
+   "en": "Kieran Maguire",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키런 매과이어",
+     "count": 1
+    },
+    {
+     "ko": "키에런 매과이어",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Baur",
    "dictionary": null,
    "variants": [
@@ -933,20 +971,6 @@
     },
     {
      "ko": "바우어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Baum",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바움",
-     "count": 1
-    },
-    {
-     "ko": "바우마",
      "count": 1
     }
    ]
@@ -975,6 +999,20 @@
     },
     {
      "ko": "무리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sven Vermant",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스벤 베르망",
+     "count": 1
+    },
+    {
+     "ko": "스벤 베르만트",
      "count": 1
     }
    ]
@@ -1036,20 +1074,6 @@
    ]
   },
   {
-   "en": "Henri Koudossou",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헨리 쿠두수",
-     "count": 1
-    },
-    {
-     "ko": "앙리 쿠두수",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Roberto Martínez",
    "dictionary": null,
    "variants": [
@@ -1101,34 +1125,6 @@
     },
     {
      "ko": "비토르 핀투",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Fernando Gomes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르난두 고메스",
-     "count": 1
-    },
-    {
-     "ko": "페르난도 고메스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gilberto Batista",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "질베르투 바티스타",
-     "count": 1
-    },
-    {
-     "ko": "길베르투 바티스타",
      "count": 1
     }
    ]
@@ -1228,8 +1224,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 758,
-   "llm": 758
+   "collected": 793,
+   "llm": 793
   }
  },
  "llmErrors": []
