@@ -1,8 +1,8 @@
 {
- "updatedAt": "2026-11-22T17:12:43.661Z",
+ "updatedAt": "2026-11-22T17:53:48.783Z",
  "hot": [
-  "hull-brighton-2026-11-22",
   "barcelona-villarreal-2026-11-22",
+  "hull-brighton-2026-11-22",
   "doue-injury",
   "pochettino-man-utd-manager-future",
   "liverpool-man-utd-2026-11-22"
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 65,
+   "items": 64,
    "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 2,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 10,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,14 +95,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 5,
-   "authorRate": 62
+   "authorRate": 60
   },
   "fblondon": {
    "ok": true,
@@ -113,13 +113,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -155,13 +155,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -179,25 +179,25 @@
   "sun": {
    "ok": true,
    "items": 27,
-   "added": 6,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 1,
+   "items": 11,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -325,11 +325,11 @@
  ],
  "issueHealth": {
   "recentIssues": 207,
-  "singleArticleRate": 39,
+  "singleArticleRate": 38,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 85
+    "count": 86
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -337,7 +337,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 38
+    "count": 41
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -349,7 +349,7 @@
    },
    {
     "slug": "barcelona-villarreal-2026-11-22",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "doue-injury",
@@ -361,7 +361,7 @@
    },
    {
     "slug": "kane-injury",
-    "count": 16
+    "count": 17
    },
    {
     "slug": "man-utd-affairs-drone-footage",
@@ -389,6 +389,24 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 퐁세카",
+     "count": 8
+    },
+    {
+     "ko": "파울루 폰세카",
+     "count": 3
+    },
+    {
+     "ko": "폰세카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -399,24 +417,6 @@
     {
      "ko": "윌리엄스바넷",
      "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 퐁세카",
-     "count": 8
-    },
-    {
-     "ko": "파울루 폰세카",
-     "count": 2
-    },
-    {
-     "ko": "폰세카",
-     "count": 1
     }
    ]
   },
@@ -457,28 +457,6 @@
    ]
   },
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 실바",
-     "count": 3
-    },
-    {
-     "ko": "마르코 실바",
-     "count": 2
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 1
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rummenigge",
    "dictionary": null,
    "variants": [
@@ -489,6 +467,28 @@
     {
      "ko": "루멘니게",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 1
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 1
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 1
     }
    ]
   },
@@ -699,11 +699,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "맥번리",
+     "ko": "맥번",
      "count": 2
     },
     {
-     "ko": "맥번",
+     "ko": "맥번리",
      "count": 2
     }
    ]
@@ -883,6 +883,24 @@
    ]
   },
   {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "람멘스",
+     "count": 1
+    },
+    {
+     "ko": "senne lammens",
+     "count": 1
+    },
+    {
+     "ko": "셴 라먼스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keating",
    "dictionary": null,
    "variants": [
@@ -981,20 +999,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓰크루크",
-     "count": 1
-    },
-    {
-     "ko": "퓔크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Roberto Martínez",
    "dictionary": null,
    "variants": [
@@ -1079,34 +1083,6 @@
    ]
   },
   {
-   "en": "De Ligt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "더 리흐트",
-     "count": 1
-    },
-    {
-     "ko": "드 리흐트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Hurzeler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "허젤러",
-     "count": 1
-    },
-    {
-     "ko": "휴이슬러",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1130,6 +1106,34 @@
     },
     {
      "ko": "모리스 코엔",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kniat",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크니아츠",
+     "count": 1
+    },
+    {
+     "ko": "크니아트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Janico",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "자니코",
+     "count": 1
+    },
+    {
+     "ko": "야니코",
      "count": 1
     }
    ]
@@ -1233,8 +1237,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 170,
-   "llm": 170
+   "collected": 213,
+   "llm": 213
   }
  },
  "llmErrors": []
