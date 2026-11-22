@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T17:53:48.783Z",
+ "updatedAt": "2026-11-22T18:36:08.965Z",
  "hot": [
+  "liverpool-man-utd-2026-11-22",
   "barcelona-villarreal-2026-11-22",
   "hull-brighton-2026-11-22",
   "doue-injury",
-  "pochettino-man-utd-manager-future",
-  "liverpool-man-utd-2026-11-22"
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 64,
-   "added": 3,
+   "items": 67,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,13 +95,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 2,
    "authorRate": 60
   },
   "fblondon": {
@@ -113,13 +113,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -155,13 +155,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -173,31 +173,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 27,
-   "added": 4,
+   "items": 28,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 0,
+   "items": 7,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -324,20 +324,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 207,
+  "recentIssues": 209,
   "singleArticleRate": 38,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 86
-   },
-   {
-    "slug": "newcastle-arsenal-2026-11-22",
-    "count": 43
+    "count": 85
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 41
+    "count": 54
+   },
+   {
+    "slug": "newcastle-arsenal-2026-11-22",
+    "count": 42
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -471,6 +471,46 @@
    ]
   },
   {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "팀 시몬스",
+     "count": 3
+    },
+    {
+     "ko": "티미 시몬스",
+     "count": 2
+    },
+    {
+     "ko": "티미 시먼스",
+     "count": 1
+    },
+    {
+     "ko": "타미 시몬스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 5
+    },
+    {
+     "ko": "개리 네빌",
+     "count": 1
+    },
+    {
+     "ko": "네빌",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -488,28 +528,6 @@
     },
     {
      "ko": "마르쿠 시우바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "팀 시몬스",
-     "count": 2
-    },
-    {
-     "ko": "티미 시먼스",
-     "count": 1
-    },
-    {
-     "ko": "타미 시몬스",
      "count": 1
     }
    ]
@@ -570,24 +588,6 @@
     },
     {
      "ko": "은마하",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부스코비치",
-     "count": 2
-    },
-    {
-     "ko": "부치치",
-     "count": 1
-    },
-    {
-     "ko": "부쉬코비치",
      "count": 1
     }
    ]
@@ -677,19 +677,23 @@
    ]
   },
   {
-   "en": "Gary Neville",
+   "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
     {
-     "ko": "게리 네빌",
-     "count": 2
-    },
-    {
-     "ko": "개리 네빌",
+     "ko": "람멘스",
      "count": 1
     },
     {
-     "ko": "네빌",
+     "ko": "셴 라먼스",
+     "count": 1
+    },
+    {
+     "ko": "senne lammens",
+     "count": 1
+    },
+    {
+     "ko": "센 라멘스",
      "count": 1
     }
    ]
@@ -705,6 +709,20 @@
     {
      "ko": "맥번리",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부스코비치",
+     "count": 2
+    },
+    {
+     "ko": "부치치",
+     "count": 1
     }
    ]
   },
@@ -787,24 +805,6 @@
    ]
   },
   {
-   "en": "Jules Ahoka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "줄스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "주스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "줄 아호카",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Vasco Seabra",
    "dictionary": null,
    "variants": [
@@ -828,24 +828,6 @@
     },
     {
      "ko": "시체프첸코",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marquinhos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르키뇨스",
-     "count": 1
-    },
-    {
-     "ko": "마르퀴뇨스",
-     "count": 1
-    },
-    {
-     "ko": "마르키뉴스",
      "count": 1
     }
    ]
@@ -878,24 +860,6 @@
     },
     {
      "ko": "밀레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "람멘스",
-     "count": 1
-    },
-    {
-     "ko": "senne lammens",
-     "count": 1
-    },
-    {
-     "ko": "셴 라먼스",
      "count": 1
     }
    ]
@@ -999,6 +963,20 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓰크루크",
+     "count": 1
+    },
+    {
+     "ko": "퓔크루크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Roberto Martínez",
    "dictionary": null,
    "variants": [
@@ -1036,6 +1014,20 @@
     },
     {
      "ko": "제라드 마르틴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jules Ahoka",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "줄스 아호카",
+     "count": 1
+    },
+    {
+     "ko": "줄 아호카",
      "count": 1
     }
    ]
@@ -1125,15 +1117,15 @@
    ]
   },
   {
-   "en": "Janico",
+   "en": "Marquinhos",
    "dictionary": null,
    "variants": [
     {
-     "ko": "자니코",
+     "ko": "마르퀴뇨스",
      "count": 1
     },
     {
-     "ko": "야니코",
+     "ko": "마르키뉴스",
      "count": 1
     }
    ]
@@ -1237,8 +1229,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 213,
-   "llm": 213
+   "collected": 262,
+   "llm": 262
   }
  },
  "llmErrors": []
