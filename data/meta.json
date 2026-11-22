@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T21:16:22.307Z",
+ "updatedAt": "2026-11-22T22:11:50.884Z",
  "hot": [
   "pochettino-man-utd-manager-future",
   "liverpool-man-utd-2026-11-22",
+  "atalanta-inter-2026-11-22",
   "hull-brighton-2026-11-22",
-  "ac-milan-frosinone-2026-11-22",
-  "barcelona-villarreal-2026-11-22"
+  "ac-milan-frosinone-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 73,
+   "items": 76,
    "added": 3,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 1,
+   "added": 0,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,14 +95,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 11,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 66
+   "added": 4,
+   "authorRate": 68
   },
   "fblondon": {
    "ok": true,
@@ -113,7 +113,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -125,8 +125,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 78
+   "added": 1,
+   "authorRate": 75
   },
   "waz": {
    "ok": true,
@@ -137,7 +137,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
@@ -149,7 +149,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,7 +161,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -173,13 +173,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
@@ -197,7 +197,7 @@
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -212,7 +212,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 45
+   "count": 46
   },
   {
    "name": "루카쿠",
@@ -324,8 +324,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 211,
-  "singleArticleRate": 39,
+  "recentIssues": 214,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -333,7 +333,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 72
+    "count": 74
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -353,7 +353,7 @@
    },
    {
     "slug": "doue-injury",
-    "count": 22
+    "count": 23
    },
    {
     "slug": "bayern-koln-2026-11-19",
@@ -361,7 +361,11 @@
    },
    {
     "slug": "kane-injury",
-    "count": 17
+    "count": 18
+   },
+   {
+    "slug": "atalanta-inter-2026-11-22",
+    "count": 15
    },
    {
     "slug": "kane-olise-injury",
@@ -384,24 +388,6 @@
     },
     {
      "ko": "모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 퐁세카",
-     "count": 8
-    },
-    {
-     "ko": "파울루 폰세카",
-     "count": 3
-    },
-    {
-     "ko": "폰세카",
      "count": 1
     }
    ]
@@ -430,11 +416,29 @@
     },
     {
      "ko": "개리 네빌",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "네빌",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 퐁세카",
+     "count": 7
+    },
+    {
+     "ko": "파울루 폰세카",
+     "count": 3
+    },
+    {
+     "ko": "폰세카",
+     "count": 1
     }
    ]
   },
@@ -739,11 +743,11 @@
      "count": 2
     },
     {
-     "ko": "데 리흐트",
+     "ko": "더 리흐트",
      "count": 1
     },
     {
-     "ko": "더 리흐트",
+     "ko": "데 리흐트",
      "count": 1
     }
    ]
@@ -1111,29 +1115,29 @@
    ]
   },
   {
-   "en": "Vítor Pinto",
+   "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
     {
-     "ko": "비토르 피뇨",
+     "ko": "클레멘트",
      "count": 1
     },
     {
-     "ko": "비토르 핀투",
+     "ko": "필리프 클레망",
      "count": 1
     }
    ]
   },
   {
-   "en": "Fernando Gomes",
+   "en": "Maurice Cohen",
    "dictionary": null,
    "variants": [
     {
-     "ko": "페르난두 고메스",
+     "ko": "모리스 코앵",
      "count": 1
     },
     {
-     "ko": "페르난도 고메스",
+     "ko": "모리스 코엔",
      "count": 1
     }
    ]
@@ -1237,8 +1241,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 427,
-   "llm": 427
+   "collected": 480,
+   "llm": 480
   }
  },
  "llmErrors": []
