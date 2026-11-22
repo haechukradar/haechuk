@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-22T11:11:25.819Z",
+ "updatedAt": "2026-11-22T11:53:20.010Z",
  "hot": [
+  "bruno-fernandes-man-utd-contract",
   "inter-miami-columbus-2026-11-22",
   "liverpool-man-utd-2026-11-22",
-  "bruno-fernandes-man-utd-contract",
   "rochdale-manager-future",
   "paredes-collapse-incident"
  ],
@@ -45,8 +45,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
-   "added": 1,
+   "items": 65,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 10,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,37 +94,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 3,
    "authorRate": 78
   },
   "waz": {
@@ -136,31 +136,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -172,19 +172,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 2,
+   "items": 28,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -195,8 +195,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 3,
+   "items": 13,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -274,6 +274,10 @@
    "count": 19
   },
   {
+   "name": "니코 파스",
+   "count": 18
+  },
+  {
    "name": "지단",
    "count": 18
   },
@@ -287,10 +291,6 @@
   },
   {
    "name": "윌 랭크셔",
-   "count": 17
-  },
-  {
-   "name": "니코 파스",
    "count": 17
   },
   {
@@ -310,25 +310,25 @@
    "count": 16
   },
   {
+   "name": "다비드 라야",
+   "count": 16
+  },
+  {
    "name": "로멜루 루카쿠",
    "count": 15
   },
   {
    "name": "돈나룸마",
    "count": 15
-  },
-  {
-   "name": "다비드 라야",
-   "count": 15
   }
  ],
  "issueHealth": {
-  "recentIssues": 194,
+  "recentIssues": 195,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 83
+    "count": 82
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -439,7 +439,7 @@
     },
     {
      "ko": "스테판 보르손",
-     "count": 2
+     "count": 3
     },
     {
      "ko": "스티브 보슨",
@@ -480,6 +480,24 @@
     {
      "ko": "루멘니게",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Luca Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄스-바넷",
+     "count": 2
+    },
+    {
+     "ko": "루카 윌리엄스-바넷",
+     "count": 2
+    },
+    {
+     "ko": "루카 윌리엄스바넷",
+     "count": 1
     }
    ]
   },
@@ -556,6 +574,20 @@
    ]
   },
   {
+   "en": "Marvin Compper",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마빈 콤퍼",
+     "count": 2
+    },
+    {
+     "ko": "마르빈 콤퍼",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Frick",
    "dictionary": null,
    "variants": [
@@ -593,24 +625,6 @@
     },
     {
      "ko": "카를로스 비첸스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Luca Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 2
-    },
-    {
-     "ko": "루카 윌리엄스바넷",
-     "count": 1
-    },
-    {
-     "ko": "루카 윌리엄스-바넷",
      "count": 1
     }
    ]
@@ -680,20 +694,6 @@
    ]
   },
   {
-   "en": "Vítor Bruno",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "비토르 브루노",
-     "count": 2
-    },
-    {
-     "ko": "빅터 브루노",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Baum",
    "dictionary": null,
    "variants": [
@@ -735,20 +735,6 @@
     },
     {
      "ko": "투운",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marvin Compper",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마빈 콤퍼",
-     "count": 2
-    },
-    {
-     "ko": "마르빈 콤퍼",
      "count": 1
     }
    ]
@@ -948,20 +934,6 @@
    ]
   },
   {
-   "en": "Kieran Maguire",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키런 매과이어",
-     "count": 1
-    },
-    {
-     "ko": "키에런 매과이어",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Baur",
    "dictionary": null,
    "variants": [
@@ -1128,6 +1100,34 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Fernando Gomes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르난두 고메스",
+     "count": 1
+    },
+    {
+     "ko": "페르난도 고메스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gilberto Batista",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "질베르투 바티스타",
+     "count": 1
+    },
+    {
+     "ko": "길베르투 바티스타",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1224,8 +1224,8 @@
    "llm": 829
   },
   "2026-11-22": {
-   "collected": 793,
-   "llm": 793
+   "collected": 817,
+   "llm": 817
   }
  },
  "llmErrors": []

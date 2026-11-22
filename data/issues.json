@@ -1,10 +1,86 @@
 [
  {
+  "slug": "david-raya-injury",
+  "mode": "llm",
+  "titleKo": "다비드 라야 부상, 아스널 골키퍼 공백 우려",
+  "createdAt": "2026-11-21T20:14:06.000Z",
+  "updatedAt": "2026-11-22T11:44:16.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "다비드 라야"
+  ],
+  "sig": [
+   "david",
+   "raya"
+  ],
+  "articles": [
+   {
+    "id": "abc7c6f65f77",
+    "url": "https://www.mirror.co.uk/sport/football/news/david-raya-injury-mikel-arteta-37902681",
+    "title": "Mikel Arteta issues David Raya update after injury that 'could change everything' for Arsenal",
+    "ko": "아르테타 \"라야 부상, 모든 걸 바꿀 수 있다\"…아스널 골키퍼 우려",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T20:14:06.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Ben Husband",
+    "transfer": null
+   },
+   {
+    "id": "68abd2beac85",
+    "url": "https://www.football.london/arsenal-fc/news/massive-blow-arsenal-worrying-david-34949849",
+    "title": "'Massive blow' - Arsenal get worrying David Raya injury update as Ian Wright admits concern",
+    "ko": "다비드 라야 부상 우려…라이트 \"아스널에 큰 타격\"",
+    "source": "fblondon",
+    "publishedAt": "2026-11-22T11:44:16.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Jake Polden",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.95,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-21T20:14:06.000Z",
+   "viaQuote": false
+  },
+  "headline": "'Massive blow' - Arsenal get worrying David Raya injury update as Ian Wright admits concern"
+ },
+ {
   "slug": "bruno-fernandes-man-utd-contract",
   "mode": "llm",
   "titleKo": "브루노 페르난데스 맨유 재계약 협상",
   "createdAt": "2026-11-20T20:52:00.000Z",
-  "updatedAt": "2026-11-22T10:55:07.000Z",
+  "updatedAt": "2026-11-22T11:30:00.000Z",
   "category": "transfer",
   "stage": "negotiation",
   "clubs": [
@@ -140,11 +216,89 @@
      "from": "맨체스터 유나이티드",
      "to": null
     }
+   },
+   {
+    "id": "190f793de734",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-carrick-34949435",
+    "title": "Bruno Fernandes explains why he's refused new Man United deal and manager's big mistake",
+    "ko": "브루노 페르난데스, 맨유 재계약 거절 이유와 감독 실수 지적",
+    "source": "men",
+    "publishedAt": "2026-11-22T11:14:06.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Jake Polden, Ben Crawford",
+    "transfer": {
+     "player": "브루노 페르난데스",
+     "from": "맨체스터 유나이티드",
+     "to": null
+    }
+   },
+   {
+    "id": "8d79c659f34b",
+    "url": "https://www.nytimes.com/athletic/7802361/2026/11/22/bruno-fernandes-contract-manchester-united/",
+    "title": "Bruno Fernandes says no ongoing Manchester United contract talks: ‘It’s not the right moment’",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-22T11:21:45.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "브루노 페르난데스",
+     "from": "맨체스터 유나이티드",
+     "to": null
+    }
+   },
+   {
+    "id": "8c2bdcde645f",
+    "url": "https://www.footballinsider247.com/manchester-united/transfers/club-adviser-reveals-man-united-noises-after-bruno-fernandes-rejects-another-offer",
+    "title": "Club adviser reveals Man United 'noises' after Bruno Fernandes rejects another offer",
+    "ko": "브루노 페르난데스 재계약 거절 후 맨유 움직임 감지",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T11:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "브루노 페르난데스",
+     "from": "맨체스터 유나이티드",
+     "to": null
+    }
    }
   ],
-  "recentSources": 4,
-  "sourceCount": 5,
-  "score": 3.95,
+  "recentSources": 7,
+  "sourceCount": 8,
+  "score": 8.59,
   "topTier": 1,
   "stageHistory": [
    {
@@ -170,2397 +324,72 @@
    "at": "2026-11-20T20:52:00.000Z",
    "viaQuote": false
   },
-  "headline": "'Not the right time' - Fernandes pauses Man Utd contract talks"
+  "headline": "Bruno Fernandes says no ongoing Manchester United contract talks: ‘It’s not the right moment’"
  },
  {
-  "slug": "rochdale-manager-future",
+  "slug": "bayern-affairs-members-revenue-record",
   "mode": "llm",
-  "titleKo": "로치데일 감독 경질",
-  "createdAt": "2026-11-22T10:09:18.000Z",
-  "updatedAt": "2026-11-22T10:55:05.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "sack",
-   "ian",
-   "watson"
-  ],
-  "articles": [
-   {
-    "id": "3947985cf0d3",
-    "url": "https://www.thesun.co.uk/sport/41105467/rochdale-sack-manager-ian-watson/",
-    "title": "Rochdale SACK manager Ian Watson as club release blunt 62-word statement as they fall into relegation fight",
-    "ko": "로치데일, 이언 왓슨 감독 경질…강등 싸움 중",
-    "source": "sun",
-    "publishedAt": "2026-11-22T10:09:18.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null
-   },
-   {
-    "id": "090255f8d78a",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
-    "title": "Rochdale sack boss Watson after Northampton defeat",
-    "ko": "로치데일, 노샘프턴전 패배 후 왓슨 감독 경질",
-    "source": "bbc",
-    "publishedAt": "2026-11-22T10:55:05.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 3.36,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-22T10:09:18.000Z",
-   "viaQuote": false
-  },
-  "headline": "Rochdale sack boss Watson after Northampton defeat"
- },
- {
-  "slug": "palmer-chelsea-relationship",
-  "mode": "llm",
-  "titleKo": "콜 파머 첼시 동료와 설전",
-  "createdAt": "2026-11-22T06:00:00.000Z",
-  "updatedAt": "2026-11-22T10:35:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "콜 파머"
-  ],
-  "sig": [
-   "palmer",
-   "xabi",
-   "alonso"
-  ],
-  "articles": [
-   {
-    "id": "e907f03f1f54",
-    "url": "https://www.football.london/chelsea-fc/news/cole-palmers-heated-back-forth-34948797",
-    "title": "Cole Palmer's heated back and forth with Chelsea duo as Xabi Alonso tasked with tough decision",
-    "ko": "콜 파머, 첼시 동료와 언쟁…알론소 난제 직면",
-    "source": "fblondon",
-    "publishedAt": "2026-11-22T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Bobby Vincent",
-    "transfer": null
-   },
-   {
-    "id": "f2d2fa6cc58b",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/palmer-nao-agradece-aos-adeptos-do-chelsea-e-xabi-alonso-comenta-caso-e-um-momento-fragil",
-    "title": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»",
-    "ko": "파머, 첼시 팬들에 감사 표하지 않아…알론소 \"깨지기 쉬운 순간\"",
-    "source": "record",
-    "publishedAt": "2026-11-22T10:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 2.61,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "cole-palmer"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-22T06:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»"
- },
- {
-  "slug": "porto-feyenoord-2026-11-26",
-  "mode": "llm",
-  "titleKo": "포르투 대 페예노르트 경기 주심 배정",
-  "createdAt": "2026-11-22T10:27:54.000Z",
-  "updatedAt": "2026-11-22T10:27:54.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "porto",
-   "feyenoord"
-  ],
-  "players": [],
-  "sig": [
-   "irfan",
-   "peljto"
-  ],
-  "articles": [
-   {
-    "id": "1a1cd42ac8e1",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/bosnio-irfan-peljto-vai-arbitrar-visita-do-fc-porto-ao-feyenoord",
-    "title": "Bósnio Irfan Peljto vai arbitrar visita do FC Porto ao Feyenoord",
-    "ko": "보스니아 심판 이르판 펠비치, 포르투의 페예노르트 원정 주심 배정",
-    "source": "record",
-    "publishedAt": "2026-11-22T10:27:54.000Z",
-    "credited": null,
-    "clubs": [
-     "porto",
-     "feyenoord"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.76,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-22T10:27:54.000Z",
-   "viaQuote": false
-  },
-  "headline": "Bósnio Irfan Peljto vai arbitrar visita do FC Porto ao Feyenoord"
- },
- {
-  "slug": "gladbach-dortmund-2026-11-19",
-  "mode": "llm",
-  "titleKo": "묀헨글라트바흐 대 도르트문트 보루시아 더비",
-  "createdAt": "2026-11-19T09:59:00.000Z",
-  "updatedAt": "2026-11-22T10:19:51.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "gladbach",
-   "dortmund"
-  ],
-  "players": [
-   "바츠",
-   "키아로디아",
-   "우노",
-   "은메차"
-  ],
-  "sig": [
-   "spiel",
-   "borussen",
-   "duell"
-  ],
-  "articles": [
-   {
-    "id": "804614ca7590",
-    "url": "https://rp-online.de/sport/fussball/borussia/borussia-moenchengladbach-borussia-dortmund-liveticker-zum-spiel_aid-79115875",
-    "title": "Liveticker zum Spiel: Gladbach empfängt Dortmund zum Borussen-Duell",
-    "ko": "묀헨글라트바흐, 도르트문트 맞아 보루시아 더비 라이브",
-    "source": "rp",
-    "publishedAt": "2026-11-19T09:59:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
-    "transfer": null
-   },
-   {
-    "id": "2e71b1fff7c3",
-    "url": "https://www.kicker.de/vor-borussen-duell-drei-fragezeichen-beim-bvb-1272969/artikel#omrss",
-    "title": "Vor Borussen-Duell: Drei Fragezeichen beim BVB",
-    "ko": "도르트문트 더비 앞둔 세 가지 불확실 요소",
-    "source": "kicker",
-    "publishedAt": "2026-11-19T13:08:41.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "90c86a26efd8",
-    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-hartes-programm-ist-kein-thema-fuer-blessin-und-co_aid-158645557",
-    "title": "Erinnerungen an letztes BVB-Spiel: Borussias hartes Programm ist kein Thema für Blessin und Co.",
-    "ko": "묀헨글라트바흐, 지난 도르트문트전 회고…블레싱 체제의 강행군",
-    "source": "rp",
-    "publishedAt": "2026-11-20T19:39:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Thomas Grulke",
-    "transfer": null
-   },
-   {
-    "id": "605183597e89",
-    "url": "https://rp-online.de/nrw/staedte/moenchengladbach/sport/borussia-frauen-fuenfter-sieg-in-folge-bei-der-sg-andernach_aid-158728993",
-    "title": "Schlechte Erinnerungen an ein 4:5: Borussia reist selbstbewusst zu einem „unberechenbaren“ Gegner",
-    "ko": "묀헨글라트바흐, 4-5 패배 기억 안고 자신감 있게 원정 출발",
-    "source": "rp",
-    "publishedAt": "2026-11-21T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel Brickwedde",
-    "transfer": null
-   },
-   {
-    "id": "e88a3a0d20e8",
-    "url": "https://www.record.pt/internacional/paises/alemanha/detalhe/borussia-dortmund-borussia-m-gladbach-em-direto",
-    "title": "Borussia M'Gladbach-Borussia Dortmund, em direto",
-    "ko": "묀헨글라트바흐-도르트문트, 실시간 중계",
-    "source": "record",
-    "publishedAt": "2026-11-21T13:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9b94da382d8c",
-    "url": "https://as.com/futbol/internacional/b-mgladbach-b-dortmund-en-directo-bundesliga-hoy-en-vivo-f202611-n/",
-    "title": "B. M`gladbach-B. Dortmund, en directo: Bundesliga, hoy en vivo",
-    "ko": "묀헨글라트바흐 대 도르트문트 분데스리가 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-21T14:17:53.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "As.com As.com",
-    "transfer": null
-   },
-   {
-    "id": "4aa2fb6582b1",
-    "url": "https://rp-online.de/sport/fussball/borussia/borussia-moenchengladbach-borussia-dortmund-liveticker-zum-nachlesen_aid-79115875",
-    "title": "Liveticker zum Nachlesen: Borussia verliert gegen den BVB",
-    "ko": "라이브 블로그: 보루시아, 도르트문트에 패배",
-    "source": "rp",
-    "publishedAt": "2026-11-21T16:20:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
-    "transfer": null
-   },
-   {
-    "id": "feb6993b8c5e",
-    "url": "https://www.kicker.de/mgladbach-gegen-dortmund-2026-bundesliga-5226895/spielbericht#omrss",
-    "title": "Batz sieht nicht gut aus: Nmecha schießt den BVB auf Platz 1",
-    "ko": "바츠 부진 속 은메차 득점, 도르트문트 선두 등극",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:20:45.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바츠",
-     "은메차"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fb246bb41b15",
-    "url": "https://rp-online.de/sport/fussball/borussia/borussia-moenchengladbach-verliert-gegen-bvb-durch-batz-patzer_aid-158770409",
-    "title": "Spätes Gegentor: Dortmund gewinnt das Borussen-Duell durch Bock von Batz",
-    "ko": "도르트문트, 묀헨글라트바흐 더비 후반 막판 실점으로 승리",
-    "source": "rp",
-    "publishedAt": "2026-11-21T16:24:00.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바츠"
-    ],
-    "playerTags": [],
-    "author": "Jonas Neff",
-    "transfer": null
-   },
-   {
-    "id": "823647b8efdd",
-    "url": "https://rp-online.de/sport/fussball/borussia/gladbacher-noten-zum-0-1-gegen-dortmund-batz-patzt-chiarodia-ueberzeugt_aid-158767783",
-    "title": "Einzelkritik gegen Dortmund: Batz patzt, Chiarodia überzeugt, Uno bringt sich in Bedrängnis",
-    "ko": "도르트문트전 개인 평점, 바츠 실수·키아로디아 호평",
-    "source": "rp",
-    "publishedAt": "2026-11-21T17:04:00.000Z",
-    "credited": null,
-    "clubs": [
-     "dortmund",
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바츠",
-     "키아로디아",
-     "우노"
-    ],
-    "playerTags": [],
-    "author": "Leah-Josefin Oldenburg",
-    "transfer": null
-   },
-   {
-    "id": "9e684e6067fb",
-    "url": "https://rp-online.de/sport/fussball/borussia/keine-gladbacher-torwartdebatte-nach-batz-patzer-gegen-bvb_aid-158765705",
-    "title": "„Kann mich nur entschuldigen“: Keine Torhüterdebatte und ein reumütiger Batz nach Gladbacher Niederlage",
-    "ko": "묀헨글라트바흐 패배 뒤 바츠 '사과할 수밖에'",
-    "source": "rp",
-    "publishedAt": "2026-11-21T20:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "바츠"
-    ],
-    "playerTags": [],
-    "author": "Leah-Josefin Oldenburg, Karsten Kellermann",
-    "transfer": null
-   },
-   {
-    "id": "9f181adfa41b",
-    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-die-wahrheit-des-bvb-spiels-ist-gefaehrlich-im-abstiegskampf_aid-158781587",
-    "title": "Gladbach im Abstiegskampf: Die Wahrheit des BVB-Spiels ist gefährlich",
-    "ko": "묀헨글라트바흐, 강등권 싸움…도르트문트전 교훈 위험",
-    "source": "rp",
-    "publishedAt": "2026-11-22T10:19:51.000Z",
-    "credited": null,
-    "clubs": [
-     "gladbach",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Karsten Kellermann",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 4,
-  "score": 1.72,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "RP 온라인 (묀헨글라트바흐)",
-   "source": "rp",
-   "at": "2026-11-19T09:59:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Gladbach im Abstiegskampf: Die Wahrheit des BVB-Spiels ist gefährlich"
- },
- {
-  "slug": "augsburg-affairs-membership-meeting-postponed",
-  "mode": "llm",
-  "titleKo": "아우크스부르크 회원총회 연기 논란",
-  "createdAt": "2026-11-22T10:16:37.000Z",
-  "updatedAt": "2026-11-22T10:16:37.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "augsburg"
-  ],
-  "players": [],
-  "sig": [
-   "warum",
-   "fca",
-   "mitgliederversammlung"
-  ],
-  "articles": [
-   {
-    "id": "8d0b92bfd5c1",
-    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/mitgliederversammlung-fc-augsburg-warum-die-veranstaltung-erst-2027-stattfindet-1-115736816",
-    "title": "Fans wundern sich: Warum der FCA seine Mitgliederversammlung verschiebt",
-    "ko": "아우크스부르크, 회원총회 연기에 팬들 의문",
-    "source": "augsburger",
-    "publishedAt": "2026-11-22T10:16:37.000Z",
-    "credited": null,
-    "clubs": [
-     "augsburg"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Robert Götz",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.71,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "아우크스부르거 알게마이네",
-   "source": "augsburger",
-   "at": "2026-11-22T10:16:37.000Z",
-   "viaQuote": false
-  },
-  "headline": "Fans wundern sich: Warum der FCA seine Mitgliederversammlung verschiebt"
- },
- {
-  "slug": "flamengo-manager-appointment",
-  "mode": "llm",
-  "titleKo": "플라멩구 감독 선임 추진",
-  "createdAt": "2026-11-22T10:06:00.000Z",
-  "updatedAt": "2026-11-22T10:06:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "leonardo",
-   "jardim",
-   "josé",
-   "boto"
-  ],
-  "articles": [
-   {
-    "id": "28d44f01e9e0",
-    "url": "https://www.record.pt/internacional/paises/brasil/detalhe/flamengo-quer-ficar-com-leonardo-jardim-e-situacao-de-jose-boto-sera-discutida",
-    "title": "Flamengo quer ficar com Leonardo Jardim e situação de José Boto será discutida",
-    "ko": "플라멩구, 레오나르두 자르딤 영입 추진…호세 보투 상황 논의",
-    "source": "record",
-    "publishedAt": "2026-11-22T10:06:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.66,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-22T10:06:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Flamengo quer ficar com Leonardo Jardim e situação de José Boto será discutida"
- },
- {
-  "slug": "liverpool-man-utd-2026-11-22",
-  "mode": "llm",
-  "titleKo": "리버풀 대 맨유 프리미어리그 경기 관심",
-  "createdAt": "2026-11-16T14:49:58.000Z",
-  "updatedAt": "2026-11-22T10:00:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "liverpool",
-   "man-utd",
-   "newcastle",
-   "arsenal"
-  ],
-  "players": [
-   "앨리슨",
-   "도르구",
-   "셰슈코",
-   "래시포드",
-   "브루노 페르난데스",
-   "트레이 뇨니",
-   "비르츠",
-   "도미니크 소보슬러이",
-   "알렉산데르 이삭"
-  ],
-  "sig": [
-   "fortress"
-  ],
-  "articles": [
-   {
-    "id": "21b7da1de09b",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-man-united-tickets-premier-34917488",
-    "title": "Last chance Liverpool vs Man United tickets running low for Premier League clash",
-    "ko": "리버풀 대 맨유 프리미어리그 빅매치 티켓 잔여분 임박",
-    "source": "lecho",
-    "publishedAt": "2026-11-16T14:49:58.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Hackney",
-    "transfer": null
-   },
-   {
-    "id": "89318c62c32e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-can-make-manchester-united-34919403",
-    "title": "Liverpool can make Manchester United their perfect visitors and restore Fortress Anfield",
-    "ko": "리버풀, 맨유 상대로 안필드 요새 회복 기회",
-    "source": "lecho",
-    "publishedAt": "2026-11-16T15:49:10.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "John Aldridge, Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "d46086fdeecb",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfield-decision-made-vs-34917771",
-    "title": "Liverpool midfield decision made vs Manchester United after injury concerns",
-    "ko": "리버풀, 부상 우려 속 맨유전 중원 선발 결정",
-    "source": "lecho",
-    "publishedAt": "2026-11-17T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle, Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "f8e096493ce3",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-mauricio-pochettino-liverpool-34921646",
-    "title": "Mauricio Pochettino mistake could cost Man United dearly against Liverpool",
-    "ko": "포체티노의 실수, 리버풀전서 맨유에 큰 대가 우려",
-    "source": "men",
-    "publishedAt": "2026-11-17T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "c6b3386f7bc7",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-vs-manchester-united-referee-34931676",
-    "title": "Liverpool vs Man Utd referee appointment questioned after Alisson FA sanction and big error",
-    "ko": "리버풀-맨유전 주심 배정 논란, 앨리슨 징계와 큰 오심 이후",
-    "source": "lecho",
-    "publishedAt": "2026-11-18T16:14:29.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "앨리슨"
-    ],
-    "playerTags": [],
-    "author": "Scott Trotter",
-    "transfer": null
-   },
-   {
-    "id": "06c3d4a6d978",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/13-players-could-miss-liverpool-34933423",
-    "title": "13 players could miss Liverpool vs Man United as injury updates imminent",
-    "ko": "리버풀 대 맨유, 부상자 13명 가능성…최신 부상 소식 임박",
-    "source": "lecho",
-    "publishedAt": "2026-11-19T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Wheelock",
-    "transfer": null
-   },
-   {
-    "id": "b6441c0f5592",
-    "url": "https://www.thesun.co.uk/sport/41070719/premer-league-january-tv-fixtures/",
-    "title": "Premier League fixtures revealed for January with new date for huge Man Utd vs Liverpool clash",
-    "ko": "1월 프리미어리그 일정 공개…맨유 대 리버풀 새 날짜 확정",
-    "source": "sun",
-    "publishedAt": "2026-11-19T12:12:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Fermie",
-    "transfer": null
-   },
-   {
-    "id": "66f07f2582f8",
-    "url": "https://www.mirror.co.uk/sport/football/premier-league-man-utd-liverpool-37894496",
-    "title": "Premier League confirm next TV picks including Man Utd vs Liverpool and Merseyside derby",
-    "ko": "프리미어리그, 맨유 대 리버풀 등 다음 TV 중계 경기 발표",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T12:18:31.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "de1c56cdac18",
-    "url": "https://www.mirror.co.uk/sport/football/news/premier-league-man-utd-liverpool-37894496",
-    "title": "Premier League confirm next TV picks including Man Utd vs Liverpool and Merseyside derby",
-    "ko": "프리미어리그, 맨유 대 리버풀 등 다음 TV 중계 경기 발표",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T12:18:31.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "1bbdc0c006eb",
-    "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
-    "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
-    "ko": "포체티노, 맨유에 리버풀전 두려움 없이 임하라고 촉구",
-    "source": "guardian",
-    "publishedAt": "2026-11-19T12:38:05.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Will Unwin",
-    "transfer": null
-   },
-   {
-    "id": "a332f1209f5a",
-    "url": "https://www.mirror.co.uk/sport/football/news/liverpool-injury-news-man-utd-37894999",
-    "title": "Andoni Iraola gets triple Liverpool injury boost ahead of Man Utd showdown",
-    "ko": "이라올라, 맨유전 앞두고 리버풀 부상 소식 3건 호재",
-    "source": "mirror",
-    "publishedAt": "2026-11-19T14:01:07.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Gorst, Dan Marsh",
-    "transfer": null
-   },
-   {
-    "id": "c1fabd4778a6",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-pochettino-liverpool-34939638",
-    "title": "Has Man United team for Liverpool been leaked? What secret drone footage captured",
-    "ko": "맨유, 리버풀전 선발 명단 유출 의혹…드론 영상 포착 논란",
-    "source": "men",
-    "publishedAt": "2026-11-19T22:46:30.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null
-   },
-   {
-    "id": "7b347b5044e4",
-    "url": "https://www.nytimes.com/athletic/7789072/2026/11/20/premier-league-predictions-liverpool-man-united-gw11/",
-    "title": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-20T05:12:54.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd",
-     "newcastle",
-     "arsenal"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5c19e27ca4d1",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jamie-redknapp-adamant-pressure-lies-34935000",
-    "title": "Jamie Redknapp adamant on where pressure lies ahead of Liverpool vs Manchester United",
-    "ko": "레드냅, 리버풀 대 맨유 경기 압박의 위치 강조",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "07f14a5d0600",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-humiliated-manchester-united-cant-34938100",
-    "title": "Liverpool humiliated Manchester United but can't afford repeat of what has happened since",
-    "ko": "리버풀, 맨유 완파 뒤 반복 우려 경계",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Jones",
-    "transfer": null
-   },
-   {
-    "id": "fa91c32a2fd2",
-    "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
-    "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
-    "ko": "리버풀 안필드 부진 지속, 맨유전 변수 될까",
-    "source": "espn",
-    "publishedAt": "2026-11-20T08:54:56.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Beth Lindop",
-    "transfer": null
-   },
-   {
-    "id": "282f5e7e9052",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettinos-preparations-manchester-united-34940174",
-    "title": "Mauricio Pochettino's preparations for Manchester United debut at Liverpool go wrong",
-    "ko": "포체티노, 리버풀 원정으로 맨유 데뷔 계획 차질",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T08:59:39.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Felix Keith, Mark Jones",
-    "transfer": null
-   },
-   {
-    "id": "cfd2c4cdfbbf",
-    "url": "https://www.thesun.co.uk/sport/41072859/liverpool-manchester-united-sky-bet-odds/",
-    "title": "Liverpool vs Manchester United: Get 50/1 for hosts to win with Sky Bet",
-    "ko": "리버풀 대 맨유, 홈팀 승리 배당 50배 제시",
-    "source": "sun",
-    "publishedAt": "2026-11-20T09:35:06.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "bc9ec696e637",
-    "url": "https://www.thesun.co.uk/sport/41079054/man-utd-pochettino-training-spying-footage-reveal-liverpool/",
-    "title": "What shock drone spying footage reveals about Pochettino’s line-up and tactics for Man Utd’s visit to Liverpool",
-    "ko": "드론 감시 영상이 드러낸 포체티노의 라인업과 전술",
-    "source": "sun",
-    "publishedAt": "2026-11-20T10:11:32.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tony Robertson",
-    "transfer": null
-   },
-   {
-    "id": "863c91338683",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-injury-news-liverpool-34943047",
-    "title": "Dorgu, Sesko, Rashford - Man United injury latest and return dates ahead of Liverpool showdown",
-    "ko": "맨유, 리버풀전 앞두고 도르구·셰슈코·래시포드 부상 현황",
-    "source": "men",
-    "publishedAt": "2026-11-20T14:54:30.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "도르구",
-     "셰슈코",
-     "래시포드"
-    ],
-    "playerTags": [
-     "benjamin-sesko",
-     "marcus-rashford"
-    ],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "c47207668c01",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-makes-bruno-fernandes-34945098",
-    "title": "Mauricio Pochettino makes Bruno Fernandes decision ahead of Man United match at Liverpool",
-    "ko": "포체티노, 리버풀전 앞두고 브루노 페르난데스 기용 결정",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T17:04:01.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": "Ian Parker Press Association, Paul Wheelock",
-    "transfer": null
-   },
-   {
-    "id": "50c085b957aa",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/relegation-threatened-man-united-exactly-34944853",
-    "title": "Relegation-threatened Man United are exactly what Andoni Iraola and Liverpool need right now",
-    "ko": "강등권 맨유가 이라올라와 리버풀에 필요한 상대라는 평가",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T17:21:39.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Gorst",
-    "transfer": null
-   },
-   {
-    "id": "c9507a404a14",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-news-liverpool-34946472",
-    "title": "10 players could miss Liverpool vs Man United as Pochettino left sweating on stars' fitness",
-    "ko": "리버풀 대 맨유전, 선수 10명 결장 가능성…포체티노 근심",
-    "source": "men",
-    "publishedAt": "2026-11-21T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Whiley",
-    "transfer": null
-   },
-   {
-    "id": "185ce9e56213",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/nine-players-could-miss-liverpool-34940872",
-    "title": "Nine players could miss Liverpool vs Manchester United after new injury update",
-    "ko": "리버풀 대 맨유전, 아홉 명 결장 가능성 새 부상 소식",
-    "source": "lecho",
-    "publishedAt": "2026-11-21T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   },
-   {
-    "id": "e06e4e00f9e3",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alan-shearer-sends-liverpool-warning-34941042",
-    "title": "Alan Shearer sends Liverpool warning over Manchester United new manager - 'seen it before'",
-    "ko": "셰어러, 맨유 새 감독 관련 리버풀에 경고…'본 적 있다'",
-    "source": "lecho",
-    "publishedAt": "2026-11-21T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   },
-   {
-    "id": "fd2d5e77c74f",
-    "url": "https://www.thesun.co.uk/sport/41083352/sunsport-picks-spain-england-efl/",
-    "title": "Betting column: SunSport picks for Liverpool vs Man Utd and more in huge Prem weekend",
-    "ko": "리버풀 대 맨유 승부 예측 베팅 픽",
-    "source": "sun",
-    "publishedAt": "2026-11-21T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bruce Archer",
-    "transfer": null
-   },
-   {
-    "id": "a058a89694ca",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-mauricio-pochettino-37901393",
-    "title": "12 players could be missing from Liverpool vs Man Utd in Mauricio Pochettino's first game",
-    "ko": "포체티노 맨유 데뷔전, 리버풀전 최대 12명 결장 가능성",
-    "source": "mirror",
-    "publishedAt": "2026-11-21T08:09:15.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ben Crawford, Mark Whiley",
-    "transfer": null
-   },
-   {
-    "id": "ee993917e13b",
-    "url": "https://www.footballinsider247.com/liverpool/andoni-iraola-should-snub-liverpool-duo-and-start-secret-weapon-vs-man-united-the-data-is-telling",
-    "title": "Andoni Iraola should snub Liverpool duo and start secret weapon vs Man United, the data is telling",
-    "ko": "이라올라, 맨유전 리버풀 듀오 제외하고 비밀 무기 기용해야",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-21T11:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "0e4f92967b45",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-two-players-who-can-34941007",
-    "title": "Liverpool have two players who can beat Manchester United and change 'apprehensive' Anfield",
-    "ko": "리버풀, 맨유전 앞두고 안필드 분위기 바꿀 두 선수 보유",
-    "source": "lecho",
-    "publishedAt": "2026-11-21T17:27:32.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   },
-   {
-    "id": "e68a5440ca33",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-line-up-vs-34948033",
-    "title": "Manchester United line-up vs Liverpool predicted as Mauricio Pochettino rings changes",
-    "ko": "포체티노, 리버풀전 맨유 선발 라인업 예상 변화",
-    "source": "men",
-    "publishedAt": "2026-11-22T04:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ross Jackson",
-    "transfer": null
-   },
-   {
-    "id": "aa445d2822a6",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34934302",
-    "title": "How Manchester United should line up vs Liverpool in Mauricio Pochettino's first game",
-    "ko": "포체티노 맨유 데뷔전 리버풀전 선발 구성은?",
-    "source": "men",
-    "publishedAt": "2026-11-22T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tyrone Marshall, Steven Railston",
-    "transfer": null
-   },
-   {
-    "id": "3ee02e4a3b0a",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/trey-nyoni-backed-liverpool-start-34947043",
-    "title": "Trey Nyoni backed for Liverpool start vs Manchester United as midfielder 'not fazed'",
-    "ko": "트레이 뇨니, 맨유전 리버풀 선발 기용 기대",
-    "source": "lecho",
-    "publishedAt": "2026-11-22T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "트레이 뇨니"
-    ],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   },
-   {
-    "id": "b81644277973",
-    "url": "https://www.thesun.co.uk/sport/41058697/liverpool-man-utd-mauricio-pochettino/",
-    "title": "Liverpool vs Man Utd | Premier League predictions, preview and free bets for first Mauricio Pochettino game",
-    "ko": "리버풀 대 맨유, 포체티노 데뷔전 프리미어리그 예측",
-    "source": "sun",
-    "publishedAt": "2026-11-22T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "9afa34fa3b31",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-man-united-result-prediction-34948519",
-    "title": "Eight pundits predict Liverpool vs Man United as Gary Neville and Jamie Carragher disagree",
-    "ko": "리버풀 대 맨유, 전문가 8명 예측…네빌과 카라거 의견 엇갈려",
-    "source": "men",
-    "publishedAt": "2026-11-22T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jordan Seward",
-    "transfer": null
-   },
-   {
-    "id": "695c2defaff7",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-liverpool-manchester-united-en-premier-league/1744814#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Liverpool - Manchester United en Premier League ?",
-    "ko": "리버풀 대 맨유 프리미어리그 경기 중계 시간·채널은?",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T07:55:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "d5d538c29a78",
-    "url": "https://www.mirror.co.uk/sport/football/news/liverpool-vs-man-utd-predictions-37902725",
-    "title": "8 pundits predict Liverpool vs Man Utd as one blocks unanimous Mauricio Pochettino agreement",
-    "ko": "8명 해설가 리버풀 대 맨유 예측, 포체티노 합의 막는 한 명",
-    "source": "mirror",
-    "publishedAt": "2026-11-22T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Scott Trotter, Jordan Seward",
-    "transfer": null
-   },
-   {
-    "id": "9474cdd9ff2c",
-    "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
-    "title": "Liverpool v Manchester United buildup and more Premier League news – matchday live",
-    "ko": "리버풀 대 맨유 프리미어리그 경기 관련 소식 총정리",
-    "source": "guardian",
-    "publishedAt": "2026-11-22T08:26:22.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Emillia Hawkins",
-    "transfer": null
-   },
-   {
-    "id": "191efdc0b05e",
-    "url": "https://www.thesun.co.uk/sport/41073349/liverpool-man-utd-betfred-free-builder/",
-    "title": "Liverpool vs Man Utd: Bet £5 on a bet builder & Get a free £5 bet builder, plus our 37/1 tip | Betfred",
-    "ko": "리버풀 대 맨유 베팅 프로모션 안내",
-    "source": "sun",
-    "publishedAt": "2026-11-22T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "9643f1be27a5",
-    "url": "https://www.thesun.co.uk/sport/41085553/florian-wirtz-liverpool-man-utd-boost/",
-    "title": "Liverpool vs Man Utd: Get Florian Wirtz 1+ shot on target at Evens | Betfred",
-    "ko": "리버풀 대 맨유, 비르츠 유효슈팅 베팅 정보",
-    "source": "sun",
-    "publishedAt": "2026-11-22T09:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "비르츠"
-    ],
-    "playerTags": [
-     "florian-wirtz"
-    ],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "a6b5ef06453e",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-line-ups-vs-manchester-34947608",
-    "title": "Liverpool line-ups vs Manchester United as Dominik Szoboszlai and Alexander Isak decisions made",
-    "ko": "리버풀 맨유전 선발 확정…소보슬라이·이삭 기용 결정",
-    "source": "lecho",
-    "publishedAt": "2026-11-22T10:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "도미니크 소보슬라이",
-     "알렉산데르 이삭"
-    ],
-    "playerTags": [
-     "alexander-isak",
-     "dominik-szoboszlai"
-    ],
-    "author": "Ian Doyle, Paul Gorst, Mark Jones",
-    "transfer": null
-   }
-  ],
-  "recentSources": 6,
-  "sourceCount": 9,
-  "score": 4.22,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "benjamin-sesko",
-   "marcus-rashford",
-   "bruno-fernandes",
-   "florian-wirtz",
-   "alexander-isak",
-   "dominik-szoboszlai"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Liverpool Echo",
-   "source": "lecho",
-   "at": "2026-11-16T14:49:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11"
- },
- {
-  "slug": "oscar-cortes-rangers-transfer",
-  "mode": "llm",
-  "titleKo": "레인저스 오스카 코르테스 영입 제안 수락 계획",
-  "createdAt": "2026-11-22T10:00:00.000Z",
-  "updatedAt": "2026-11-22T10:00:00.000Z",
-  "category": "transfer",
-  "stage": "agreement",
-  "clubs": [],
-  "players": [
-   "오스카 코르테스"
-  ],
-  "sig": [
-   "rangers",
-   "oscar",
-   "cortes"
-  ],
-  "articles": [
-   {
-    "id": "d379a9bc3e34",
-    "url": "https://www.footballinsider247.com/rangers/sources-rangers-plan-to-accept-oscar-cortes-offer-ahead-of-january",
-    "title": "Sources: Rangers plan to accept Oscar Cortes offer ahead of January",
-    "ko": "레인저스, 1월 전 오스카 코르테스 제안 수락 계획 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T10:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "오스카 코르테스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "오스카 코르테스",
-     "from": null,
-     "to": "레인저스"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.49,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "d379a9bc3e34",
-    "at": "2026-11-22T10:00:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "agreement"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "오스카 코르테스",
-   "from": null,
-   "to": "레인저스"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-22T10:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sources: Rangers plan to accept Oscar Cortes offer ahead of January"
- },
- {
-  "slug": "infantino-fifa-affairs-election-candidacy",
-  "mode": "llm",
-  "titleKo": "FIFA 회장 선거 후보 등록 완료",
-  "createdAt": "2026-11-19T09:31:00.000Z",
-  "updatedAt": "2026-11-22T09:50:55.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "람 베가",
-   "폴라린 발로군"
-  ],
-  "sig": [
-   "fifa"
-  ],
-  "articles": [
-   {
-    "id": "c6ae478592e9",
-    "url": "https://www.record.pt/internacional/detalhe/oficial-estao-confirmados-os-tres-candidatos-que-vao-a-votos-nas-eleicoes-para-a-presidencia-da-fifa",
-    "title": "Oficial: estão confirmados os três candidatos que vão a votos nas eleições para a presidência da FIFA",
-    "ko": "FIFA 회장 선거 최종 후보 3명 확정",
-    "source": "record",
-    "publishedAt": "2026-11-19T09:31:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ee0466783074",
-    "url": "https://www.kicker.de/offiziell-zwei-kandidaten-treten-gegen-infantino-an-1272914/artikel#omrss",
-    "title": "Offiziell: Zwei Kandidaten treten gegen Infantino an",
-    "ko": "인판티노에 도전장…두 후보 공식 출마",
-    "source": "kicker",
-    "publishedAt": "2026-11-19T09:43:44.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "6927892b5aa9",
-    "url": "https://www.lequipe.fr/Football/Actualites/Gianni-infantino-philippe-diallo-et-kozo-tashima-ont-transmis-leur-candidature-a-la-fifa-pour-l-election-a-la-presidence/1744600#at_medium=RSS_feeds",
-    "title": "Gianni Infantino, Philippe Diallo et Kozo Tashima ont transmis leur candidature à la FIFA pour l'élection à la présidence",
-    "ko": "인판티노·디알로·타시마, FIFA 회장 선거 후보 등록",
-    "source": "lequipe",
-    "publishedAt": "2026-11-19T09:48:13.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Moatti",
-    "transfer": null
-   },
-   {
-    "id": "dd2aaa5b2e44",
-    "url": "https://www.hln.be/wk-voetbal/ramon-vega-valt-af-infantino-wordt-uitgedaagd-door-twee-kandidaten-belgie-steunt-philippe-diallo~acc7073e/",
-    "title": "Ramon Vega valt af: Infantino wordt uitgedaagd door twee kandidaten, België steunt Philippe Diallo",
-    "ko": "람 베가 탈락, 인판티노에 두 후보 도전…벨기에는 디알로 지지",
-    "source": "hln",
-    "publishedAt": "2026-11-19T10:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "람 베가"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "b62e45ed2070",
-    "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
-    "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
-    "ko": "인판티노에 도전장, FIFA 회장 선거 후보 라인업 공개",
-    "source": "guardian",
-    "publishedAt": "2026-11-19T10:56:21.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Matt Hughes",
-    "transfer": null
-   },
-   {
-    "id": "47f14bff80a4",
-    "url": "https://www.kicker.de/beschwerdebrief-europaeer-erhoehen-den-druck-im-fifa-machtkampf-1273021/artikel#omrss",
-    "title": "Beschwerdebrief: Europäer erhöhen den Druck im FIFA-Machtkampf",
-    "ko": "유럽 측 항의 서한 발송…FIFA 권력 다툼 압박 높여",
-    "source": "kicker",
-    "publishedAt": "2026-11-19T14:17:29.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7c2698cccb61",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-federation-anglaise-a-envisage-de-contester-l-eligibilite-de-gianni-infantino-pour-un-quatrieme-mandat-a-la-tete-de-la-fifa-avant-de-se-retracter/1744658#at_medium=RSS_feeds",
-    "title": "La Fédération anglaise a envisagé de contester l'éligibilité de Gianni Infantino pour un quatrième mandat à la tête de la FIFA avant de se rétracter",
-    "ko": "잉글랜드 협회, 인판티노 FIFA 4선 도전 두고 자격 이의 검토 후 철회",
-    "source": "lequipe",
-    "publishedAt": "2026-11-19T14:52:33.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "0f8798ca14ba",
-    "url": "https://www.hln.be/voetbal/zijn-tegenstanders-zijn-een-grote-grap-waarom-er-maar-een-manier-is-om-gianni-infantino-van-de-fifa-troon-te-stoten~a3f3b091/",
-    "title": "“Zijn tegenstanders zijn één grote grap”: waarom er maar één manier is om Gianni Infantino van de FIFA-troon te stoten",
-    "ko": "인판티노 FIFA 회장 자리 도전자 누가 있나",
-    "source": "hln",
-    "publishedAt": "2026-11-19T17:24:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Niels Vleminckx",
-    "transfer": null
-   },
-   {
-    "id": "de9ce9d87af2",
-    "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
-    "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
-    "ko": "인판티노, 다가오는 FIFA 선거에서 공정한 경쟁 촉구",
-    "source": "espn",
-    "publishedAt": "2026-11-20T04:53:50.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mark Ogden",
-    "transfer": null
-   },
-   {
-    "id": "7eee77a8eedc",
-    "url": "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino",
-    "title": "FIFA presidential challenger Tashima willing to unite with Diallo against Infantino",
-    "ko": "FIFA 회장 도전자 타시마, 디알로와 손잡고 인판티노에 맞설 의향",
-    "source": "espn",
-    "publishedAt": "2026-11-20T06:15:57.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Associated Press",
-    "transfer": null
-   },
-   {
-    "id": "9101e915b443",
-    "url": "https://www.nytimes.com/athletic/7797697/2026/11/20/kozo-tashima-folarin-balogun-fifa-presidency/",
-    "title": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-20T13:05:24.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "폴라린 발로군"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a2854a6474d3",
-    "url": "https://as.com/futbol/internacional/conmebol-elige-a-infantino-f202611-n/",
-    "title": "CONMEBOL elige a Infantino",
-    "ko": "CONMEBOL, 인판티노 선택",
-    "source": "as",
-    "publishedAt": "2026-11-20T18:27:30.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Víctor Martín J.",
-    "transfer": null
-   },
-   {
-    "id": "e2e07e4bc531",
-    "url": "https://www.lequipe.fr/Football/Actualites/Les-pays-sud-americains-de-la-conmebol-annoncent-leur-soutien-a-l-unanimite-a-gianni-infantino-candidat-a-la-presidence-de-la-fifa/1744980#at_medium=RSS_feeds",
-    "title": "Les pays sud-américains de la Conmebol annoncent leur soutien « à l'unanimité » à Gianni Infantino, candidat à la présidence de la FIFA",
-    "ko": "남미축구연맹, 인판티노 FIFA 회장 후보 지지 선언",
-    "source": "lequipe",
-    "publishedAt": "2026-11-20T19:46:33.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Arthur Verdelet",
-    "transfer": null
-   },
-   {
-    "id": "ed3cff5f2691",
-    "url": "https://www.kicker.de/fuehrungsstaerke-als-argument-suedamerikaner-stuetzen-infantino-1273355/artikel#omrss",
-    "title": "Führungsstärke als Argument: Südamerikaner stützen Infantino",
-    "ko": "남미 협회들, 인판티노 리더십 강조하며 지지 표명",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T20:24:13.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ec6b7546b91a",
-    "url": "https://www.record.pt/internacional/detalhe/infantino-tem-apoio-da-conmebol-na-corrida-a-presidencia-da-fifa",
-    "title": "Infantino tem apoio da CONMEBOL na corrida à presidência da FIFA",
-    "ko": "인판티노, 남미축구연맹 지지 확보…FIFA 회장 선거 가속",
-    "source": "record",
-    "publishedAt": "2026-11-20T21:33:52.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8c5b2743bbbe",
-    "url": "https://www.kicker.de/im-namen-der-54-nationen-auch-caf-unterstuetzt-infantino-1273538/artikel#omrss",
-    "title": "\"Im Namen der 54 Nationen\": Auch CAF unterstützt Infantino",
-    "ko": "인판티노, 'FIFA 54개 국가 이름으로' 지지 확보 나서",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T15:55:54.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "c3cda544a8b3",
-    "url": "https://www.hln.be/wk-voetbal/gianni-je-hebt-onze-steun-afrikaanse-landen-herhalen-steun-richting-fifa-voorzitter-infantino~acc7073e/",
-    "title": "“Gianni, je hebt onze steun”: Afrikaanse landen herhalen steun richting FIFA-voorzitter Infantino",
-    "ko": "아프리카 국가들, 인판티노 FIFA 회장 지지 재확인",
-    "source": "hln",
-    "publishedAt": "2026-11-21T17:17:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "4e39442458e0",
-    "url": "https://www.record.pt/internacional/detalhe/confederacao-africana-de-futebol-reitera-apoio-unanime-a-reeleicao-de-infantino",
-    "title": "Confederação Africana de Futebol reitera apoio unânime à reeleição de Infantino",
-    "ko": "아프리카축구연맹, 인판티노 재선 지지 재확인",
-    "source": "record",
-    "publishedAt": "2026-11-21T18:42:50.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "306973021fdc",
-    "url": "https://www.record.pt/internacional/detalhe/mexico-anuncia-apoio-a-gianni-infantino-na-corrida-pela-fifa",
-    "title": "México anuncia apoio a Gianni Infantino na 'corrida' pela FIFA",
-    "ko": "멕시코, 인판티노 FIFA 회장 지지 선언",
-    "source": "record",
-    "publishedAt": "2026-11-22T09:50:55.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 8,
-  "score": 1.59,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-19T09:31:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima"
- },
- {
-  "slug": "bayern-sosa-2026-11-22",
-  "mode": "llm",
-  "titleKo": "올리세 봉쇄 속 소사 100% 성공률 활약",
-  "createdAt": "2026-11-22T09:16:18.000Z",
-  "updatedAt": "2026-11-22T09:16:18.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "올리세",
-   "소사"
-  ],
-  "sig": [
-   "sosa",
-   "prozent",
-   "quote"
-  ],
-  "articles": [
-   {
-    "id": "9008a2312972",
-    "url": "https://www.kicker.de/olise-einfach-abgemeldet-sosa-glaenzt-mit-einer-100-prozent-quote-1273431/artikel#omrss",
-    "title": "Olise einfach abgemeldet: Sosa glänzt mit einer 100-Prozent-Quote",
-    "ko": "올리세 완벽 봉쇄…소사 100% 성공률로 빛나",
-    "source": "kicker",
-    "publishedAt": "2026-11-22T09:16:18.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "올리세",
-     "소사"
-    ],
-    "playerTags": [
-     "michael-olise"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.43,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "michael-olise"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-22T09:16:18.000Z",
-   "viaQuote": false
-  },
-  "headline": "Olise einfach abgemeldet: Sosa glänzt mit einer 100-Prozent-Quote"
- },
- {
-  "slug": "armstrong-rangers-transfer",
-  "mode": "llm",
-  "titleKo": "암스트롱 레인저스 이적설",
-  "createdAt": "2026-11-18T12:00:00.000Z",
-  "updatedAt": "2026-11-22T09:10:02.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [],
-  "players": [
-   "대니 암스트롱",
-   "암스트롱"
-  ],
-  "sig": [
-   "danny",
-   "armstrong",
-   "rangers"
-  ],
-  "articles": [
-   {
-    "id": "99e82c0765ab",
-    "url": "https://www.footballinsider247.com/rangers/transfers/sources-danny-armstrong-keen-on-rangers-move-hell-find-it-hard-to-turn-down",
-    "title": "Sources: Danny Armstrong keen on Rangers move, he'll find it 'hard to turn down'",
-    "ko": "대니 암스트롱, 레인저스 이적에 관심 보여",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T12:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "대니 암스트롱"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "대니 암스트롱",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "8381518d0e95",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm62pqd0v7dlo?at_medium=RSS&at_campaign=rss",
-    "title": "Armstrong would relish Rangers switch - gossip",
-    "ko": "아므스트롱, 레인저스 이적 가능성 가십에 긍정적 반응",
-    "source": "bbc",
-    "publishedAt": "2026-11-19T08:01:39.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "대니 암스트롱"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "대니 암스트롱",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "1a2d96863a4c",
-    "url": "https://www.footballinsider247.com/rangers/transfers/sources-rangers-to-revisit-danny-armstrong-deal",
-    "title": "Sources: Rangers to revisit Danny Armstrong deal",
-    "ko": "레인저스, 대니 암스트롱 영입 협상 재개 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-20T16:00:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "대니 암스트롱"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "대니 암스트롱",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "236e99d0bdc6",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
-    "title": "Armstrong plays down talk of Rangers transfer - gossip",
-    "ko": "암스트롱, 레인저스 이적설 일축…가십 취급",
-    "source": "bbc",
-    "publishedAt": "2026-11-22T09:10:02.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "암스트롱"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "암스트롱",
-     "from": null,
-     "to": "레인저스"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.42,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "99e82c0765ab",
-    "at": "2026-11-18T12:00:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   },
-   {
-    "id": "1a2d96863a4c",
-    "at": "2026-11-20T16:00:00.000Z",
-    "source": "fbinsider",
-    "from": "interest",
-    "to": "negotiation"
-   },
-   {
-    "id": "236e99d0bdc6",
-    "at": "2026-11-22T09:10:02.000Z",
-    "source": "bbc",
-    "from": "negotiation",
-    "to": "interest"
-   }
-  ],
-  "stageChange": {
-   "from": "negotiation",
-   "to": "interest",
-   "at": "2026-11-22T09:10:02.000Z",
-   "source": "bbc"
-  },
-  "playerTags": [],
-  "transfer": {
-   "player": "대니 암스트롱",
-   "from": null,
-   "to": "레인저스"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-18T12:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Armstrong plays down talk of Rangers transfer - gossip"
- },
- {
-  "slug": "messi-incident-2026-11-22",
-  "mode": "llm",
-  "titleKo": "메시 상대 얼굴 공 차기 장면 논란",
-  "createdAt": "2026-11-22T09:02:42.000Z",
-  "updatedAt": "2026-11-22T09:02:42.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "메시"
-  ],
-  "sig": [
-   "messi"
-  ],
-  "articles": [
-   {
-    "id": "088cf0c4a398",
-    "url": "https://www.thesun.co.uk/sport/41105005/lionel-messi-mls-inter-miami-ball-throw-columbus-crew/",
-    "title": "Lionel Messi launches ball off opponent’s face in moment of madness but escapes red card in ‘really sad’ scenes",
-    "ko": "메시, 상대 얼굴 향해 공 차 논란…레드카드는 면해",
-    "source": "sun",
-    "publishedAt": "2026-11-22T09:02:42.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "메시"
-    ],
-    "playerTags": [
-     "lionel-messi"
-    ],
-    "author": "Henry Tomlinson",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.41,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "lionel-messi"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-22T09:02:42.000Z",
-   "viaQuote": false
-  },
-  "headline": "Lionel Messi launches ball off opponent’s face in moment of madness but escapes red card in ‘really sad’ scenes"
- },
- {
-  "slug": "joelinton-injury",
-  "mode": "llm",
-  "titleKo": "조엘린턴 부상 악재",
-  "createdAt": "2026-11-20T08:50:00.000Z",
-  "updatedAt": "2026-11-22T09:00:00.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [
-   "조엘린턴"
-  ],
-  "sig": [
-   "joelinton"
-  ],
-  "articles": [
-   {
-    "id": "552d27947ee0",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-left-disappointed-as-joelinton-suffers-another-injury-blow",
-    "title": "Newcastle left ‘disappointed’ as Joelinton suffers another injury blow",
-    "ko": "뉴캐슬, 조엘린턴 또 부상 악재…구단 실망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-20T08:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "조엘린턴"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "3d977ef76a10",
-    "url": "https://www.footballinsider247.com/newcastle-united/sources-newcastle-hopeful-over-joelinton-as-return-timeline-revealed",
-    "title": "Sources: Newcastle ‘hopeful’ over Joelinton as return timeline revealed",
-    "ko": "뉴캐슬, 조엘린턴 복귀 시점 공개…회복 희망적",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T09:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "조엘린턴"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.41,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-20T08:50:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sources: Newcastle ‘hopeful’ over Joelinton as return timeline revealed"
- },
- {
-  "slug": "musiala-bayern-transfer",
-  "mode": "llm",
-  "titleKo": "무시알라 바이에른 이적설 논란",
-  "createdAt": "2026-11-20T22:18:38.000Z",
-  "updatedAt": "2026-11-22T08:57:23.000Z",
+  "titleKo": "바이에른 회원 50만 명·매출 역대 최고",
+  "createdAt": "2026-11-21T15:01:02.000Z",
+  "updatedAt": "2026-11-22T11:16:16.000Z",
   "category": "other",
   "stage": null,
   "clubs": [
    "bayern"
   ],
   "players": [
-   "자말 무시알라",
    "무시알라"
   ],
   "sig": [
-   "rummenigge",
-   "musiala",
-   "hammer"
+   "applaus",
+   "hainer",
+   "verkündung",
+   "mitglieder"
   ],
   "articles": [
    {
-    "id": "1ba553da2cb7",
-    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-rummenigge-laesst-naechsten-musiala-hammer-fallen-zr-94601245.html",
-    "title": "„Summen nicht mehr darstellbar“: Rummenigge lässt nächsten Musiala-Hammer fallen",
-    "ko": "뤼멘니게, 무시알라 관련 또 한 번 폭탄 발언",
-    "source": "tz",
-    "publishedAt": "2026-11-20T22:18:38.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Maximilian Bohne",
-    "transfer": null
-   },
-   {
-    "id": "2a110131cd94",
-    "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
-    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
-    "ko": "\"이런 조건에서 누가 뮤시알라를 살 거라고 상상이 안 된다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T22:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "자말 무시알라",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "32eff73ab2fc",
-    "url": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video#omrss",
-    "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
-    "ko": "바이에른의 암울한 금요일…루메니게·무시알라 논란 배경",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T23:30:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8540345a9d91",
-    "url": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video#omrss",
-    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
-    "ko": "루메니게 강한 비판 후 콤파니, 무시알라 감싸",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T23:32:10.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ad44893cd3e7",
-    "url": "https://www.lequipe.fr/Football/Actualites/Karl-heinz-rummenigge-evoque-une-reduction-de-salaire-pour-musiala-il-a-des-problemes-de-sante-c-est-un-fait-connu/1745034#at_medium=RSS_feeds",
-    "title": "Karl-Heinz Rummenigge évoque une réduction de salaire pour Musiala : « Il a des problèmes de santé, c'est un fait connu »",
-    "ko": "루메니게, 무시알라 연봉 삭감 언급…\"건강 문제 있다는 건 알려진 사실\"",
+    "id": "e7e90dd1195c",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-bayern-munich-annonce-500-000-membres-et-un-chiffre-d-affaires-record/1745113#at_medium=RSS_feeds",
+    "title": "Le Bayern Munich annonce 500 000 membres et un chiffre d'affaires record",
+    "ko": "바이에른, 회원 50만 명 돌파·매출 역대 최고 발표",
     "source": "lequipe",
-    "publishedAt": "2026-11-20T23:41:29.000Z",
+    "publishedAt": "2026-11-21T15:01:02.000Z",
     "credited": null,
     "clubs": [
      "bayern"
     ],
     "category": "other",
     "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Rédaction",
+    "players": [],
+    "playerTags": [],
+    "author": "José Barroso",
     "transfer": null
    },
    {
-    "id": "5d4bed4aa353",
-    "url": "https://www.tz.de/sport/fc-bayern/patrick-helmes-reagiert-auf-rummenigges-bayern-kritik-wegen-musiala-zr-94601253.html",
-    "title": "Rummenigges Musiala-Aussagen: Helmes hat einen brisanten Verdacht",
-    "ko": "루메니게, 무시알라 관련 발언 논란…의혹 제기",
-    "source": "tz",
-    "publishedAt": "2026-11-21T04:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "eb784b3b7ec9",
-    "url": "https://www.tz.de/sport/fc-bayern/debatte-um-musiala-rummenigge-verteidigt-hoeness-aussagen-94601385.html",
-    "title": "Bayern-Boss Rummenigge stellt sich mit Musiala-Knall schützend vor Uli Hoeneß",
-    "ko": "루멘니게, 뮐러 발언 두고 무시알라 사건으로 후이네스 옹호",
-    "source": "tz",
-    "publishedAt": "2026-11-21T08:55:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Florian Puth",
-    "transfer": null
-   },
-   {
-    "id": "2caaca3c5fdc",
-    "url": "https://www.mirror.co.uk/sport/football/news/bayern-chief-admits-jamal-musiala-37902251",
-    "title": "Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch",
-    "ko": "바이에른 회장, 무시알라 쓰러진 뒤 수개월 내 매각 가능성 인정",
-    "source": "mirror",
-    "publishedAt": "2026-11-21T15:58:31.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Ben Husband",
-    "transfer": {
-     "player": "무시알라",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "b411c751a485",
-    "url": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video#omrss",
-    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
-    "ko": "드레젠, 루메니게 발언 설명…무시알라에 압박",
+    "id": "b5a36a0ad38d",
+    "url": "https://www.kicker.de/grosser-applaus-bei-hainer-verkuendung-bayern-knackt-die-500-000-mitglieder-1273542/video#omrss",
+    "title": "Großer Applaus bei Hainer-Verkündung: Bayern knackt die 500.000 Mitglieder",
+    "ko": "바이에른, 회원 50만 명 돌파…하이너 발표에 환호",
     "source": "kicker",
-    "publishedAt": "2026-11-21T16:25:30.000Z",
+    "publishedAt": "2026-11-21T15:53:52.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "72fd458279b8",
+    "url": "https://www.kicker.de/thema-musiala-und-die-mitgliederversammlung-spannend-wurde-es-erst-danach-1273558/video#omrss",
+    "title": "Thema Musiala und die Mitgliederversammlung: \"Spannend wurde es erst danach\"",
+    "ko": "무시알라와 회원총회, '진짜 흥미로운 건 그 다음'",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:33:00.000Z",
     "credited": null,
     "clubs": [
      "bayern"
@@ -2577,118 +406,28 @@
     "transfer": null
    },
    {
-    "id": "2ecbe52b4aa5",
-    "url": "https://www.tz.de/sport/fc-bayern/matthaeus-mit-deutlicher-kritik-am-fc-bayern-wegen-musiala-94601682.html",
-    "title": "Matthäus mit deutlicher Kritik am FC Bayern wegen Musiala",
-    "ko": "마테우스, 무시알라 관련 바이에른에 직격 비판",
+    "id": "a72304036523",
+    "url": "https://www.tz.de/sport/fc-bayern/500-000-mitglieder-fc-bayern-schnappt-sich-weltrekord-94602121.html",
+    "title": "500.000 Mitglieder! FC Bayern schnappt sich Weltrekord",
+    "ko": "바이에른 회원 50만 명 돌파, 세계 기록 경신",
     "source": "tz",
-    "publishedAt": "2026-11-21T17:40:42.000Z",
+    "publishedAt": "2026-11-22T11:16:16.000Z",
     "credited": null,
     "clubs": [
      "bayern"
     ],
     "category": "other",
     "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b1d5b38d6e18",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
-    "title": "Fifpro criticises Bayern Munich for Musiala comments",
-    "ko": "피프로, 무시알라 발언 두고 바이에른 뮌헨 비판",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T17:43:44.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5efb160a4156",
-    "url": "https://www.hln.be/bundesliga/het-is-hun-plicht-om-voor-hem-te-zorgen-spelersvakbond-maakt-zich-ernstige-zorgen-om-uitspraken-bayern-bestuur-over-jamal-musiala~a4df5bd0/",
-    "title": "“Het is hun plicht om voor hem te zorgen”: spelersvakbond “maakt zich ernstige zorgen” om uitspraken Bayern-bestuur over Jamal Musiala",
-    "ko": "선수노조 \"무시알라 관련 바이에른 경영진 발언 깊이 우려\"",
-    "source": "hln",
-    "publishedAt": "2026-11-21T18:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Johannes De Rijcke",
-    "transfer": null
-   },
-   {
-    "id": "d13a5b42c589",
-    "url": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video#omrss",
-    "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
-    "ko": "바이에른 팬, 무시알라 관련 보스 비판",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T18:24:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "50b37263b2ff",
-    "url": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel#omrss",
-    "title": "Ist das Bayern-Vorgehen bei Musiala richtig?",
-    "ko": "바이에른, 무시알라 기용 방식 적절한가 논쟁",
-    "source": "kicker",
-    "publishedAt": "2026-11-22T08:57:23.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hanna Raif, Manuel Bonke",
     "transfer": null
    }
   ],
   "recentSources": 1,
-  "sourceCount": 6,
-  "score": 1.36,
-  "topTier": 1,
+  "sourceCount": 3,
+  "score": 1.8,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
@@ -2696,517 +435,19 @@
   ],
   "transfer": null,
   "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-20T22:18:38.000Z",
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-21T15:01:02.000Z",
    "viaQuote": false
   },
-  "headline": "Fifpro criticises Bayern Munich for Musiala comments"
- },
- {
-  "slug": "paredes-collapse-incident",
-  "mode": "llm",
-  "titleKo": "파레데스 인터뷰 중 쓰러짐 사건",
-  "createdAt": "2026-11-22T07:58:17.000Z",
-  "updatedAt": "2026-11-22T08:56:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [
-   "파레데스"
-  ],
-  "sig": [
-   "leandro",
-   "paredes",
-   "collapses"
-  ],
-  "articles": [
-   {
-    "id": "4656ea298a14",
-    "url": "https://www.thesun.co.uk/sport/41104745/leandro-paredes-collapse-argentina-boca-juniors/",
-    "title": "World Cup winner Leandro Paredes COLLAPSES during live TV interview as medics rush to help",
-    "ko": "월드컵 우승자 파레데스, 생방송 인터뷰 중 쓰러져 의료진 출동",
-    "source": "sun",
-    "publishedAt": "2026-11-22T07:58:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "파레데스"
-    ],
-    "playerTags": [],
-    "author": "Henry Tomlinson",
-    "transfer": null
-   },
-   {
-    "id": "fc31bfdc3f71",
-    "url": "https://www.lequipe.fr/Football/Actualites/L-ancien-du-psg-leandro-paredes-s-evanouit-en-pleine-interview-apres-sa-victoire-en-finale-de-copa-sudamericana/1745332#at_medium=RSS_feeds",
-    "title": "L'ancien du PSG Leandro Paredes s'évanouit en pleine interview après sa victoire en finale de Copa Sudamericana",
-    "ko": "파레데스, 코파 수다메리카나 우승 후 인터뷰 중 쓰러져",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T08:06:59.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "파레데스"
-    ],
-    "playerTags": [],
-    "author": "Julie Vimond",
-    "transfer": null
-   },
-   {
-    "id": "fecbd17327f9",
-    "url": "https://www.record.pt/multimedia/videos/detalhe/leandro-paredes-desmaia-durante-entrevista-apos-vencer-taca-sul-americana",
-    "title": "Leandro Paredes desmaia durante entrevista após vencer Taça sul-americana",
-    "ko": "파레데스, 남미 컵 우승 인터뷰 중 쓰러져",
-    "source": "record",
-    "publishedAt": "2026-11-22T08:56:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "파레데스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.87,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-22T07:58:17.000Z",
-   "viaQuote": false
-  },
-  "headline": "Leandro Paredes desmaia durante entrevista após vencer Taça sul-americana"
- },
- {
-  "slug": "cerny-rangers-transfer",
-  "mode": "llm",
-  "titleKo": "레인저스 체르니 재영입 추진",
-  "createdAt": "2026-11-17T17:15:00.000Z",
-  "updatedAt": "2026-11-22T08:45:00.000Z",
-  "category": "transfer",
-  "stage": "negotiation",
-  "clubs": [
-   "lafc",
-   "besiktas"
-  ],
-  "players": [
-   "바츨라프 체르니",
-   "체르니"
-  ],
-  "sig": [
-   "vaclav",
-   "cerny"
-  ],
-  "articles": [
-   {
-    "id": "ed4848a11b1a",
-    "url": "https://www.footballinsider247.com/rangers/rangers-working-on-deal-to-re-sign-vaclav-cerny-after-twist-transfer-expert",
-    "title": "Rangers 'working on' deal to re-sign Vaclav Cerny after twist - Transfer expert",
-    "ko": "레인저스, 체르니 재영입 작업 중 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T17:15:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "바츨라프 체르니"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "바츨라프 체르니",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "bad8f652d08d",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o?at_medium=RSS&at_campaign=rss",
-    "title": "Rangers explore return for Cerny - gossip",
-    "ko": "레인저스, 체르니 재영입 검토",
-    "source": "bbc",
-    "publishedAt": "2026-11-18T08:15:37.000Z",
-    "credited": null,
-    "clubs": [
-     "lafc"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "체르니"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "체르니",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "3628866f6302",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/20/vaclav-cerny-sarti-belli-oldu",
-    "title": "Vaclav Cerny şartı belli oldu",
-    "ko": "베식타스, 체르니 영입 조건 확정",
-    "source": "fotomac",
-    "publishedAt": "2026-11-19T17:47:01.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "체르니"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "체르니",
-     "from": null,
-     "to": "베식타스"
-    }
-   },
-   {
-    "id": "39d91d0ae189",
-    "url": "https://www.footballinsider247.com/rangers/sources-besiktas-ready-to-accept-offer-for-rangers-target-vaclav-cerny",
-    "title": "Sources: Besiktas ready to accept offer for Rangers target Vaclav Cerny",
-    "ko": "베식타스, 레인저스 관심 체르니 제안 수락 준비",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-20T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "transfer",
-    "stage": "agreement",
-    "players": [
-     "체르니"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "체르니",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "9879d4feadad",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/21/rangers-cerny-icin-hazir-kita",
-    "title": "Rangers, Cerny için hazır kıta",
-    "ko": "레인저스, 체르니 영입 준비 완료",
-    "source": "fotomac",
-    "publishedAt": "2026-11-20T17:06:50.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "transfer",
-    "stage": "negotiation",
-    "players": [
-     "체르니"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "체르니",
-     "from": null,
-     "to": "레인저스"
-    }
-   },
-   {
-    "id": "ef7204ef8d77",
-    "url": "https://www.footballinsider247.com/rangers/sources-rangers-updated-stance-on-signing-vaclav-cerny-in-january-revealed",
-    "title": "Sources: Rangers’ updated stance on signing Vaclav Cerny in January revealed",
-    "ko": "레인저스, 체르니 1월 영입 입장 변화 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T08:45:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "체르니"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "체르니",
-     "from": null,
-     "to": "레인저스"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 3,
-  "score": 0.39,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "ed4848a11b1a",
-    "at": "2026-11-17T17:15:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "negotiation"
-   },
-   {
-    "id": "bad8f652d08d",
-    "at": "2026-11-18T08:15:37.000Z",
-    "source": "bbc",
-    "from": "negotiation",
-    "to": "interest"
-   },
-   {
-    "id": "3628866f6302",
-    "at": "2026-11-19T17:47:01.000Z",
-    "source": "fotomac",
-    "from": "interest",
-    "to": "negotiation"
-   }
-  ],
-  "stageChange": {
-   "from": "interest",
-   "to": "negotiation",
-   "at": "2026-11-19T17:47:01.000Z",
-   "source": "fotomac"
-  },
-  "playerTags": [],
-  "transfer": {
-   "player": "체르니",
-   "from": null,
-   "to": "레인저스"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-17T17:15:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Rangers, Cerny için hazır kıta"
- },
- {
-  "slug": "everton-manager-future",
-  "mode": "llm",
-  "titleKo": "에버턴 모예스 감독 거취 논란",
-  "createdAt": "2026-11-17T12:30:00.000Z",
-  "updatedAt": "2026-11-22T08:30:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "everton"
-  ],
-  "players": [
-   "잭 그릴리시",
-   "그릴리시",
-   "픽포드"
-  ],
-  "sig": [
-   "david",
-   "moyes"
-  ],
-  "articles": [
-   {
-    "id": "3798518d0948",
-    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
-    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
-    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T12:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "508038c6fa5f",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
-    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
-    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
-    "source": "lecho",
-    "publishedAt": "2026-11-17T17:01:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "0103274da076",
-    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
-    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
-    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T08:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e254ecd6068d",
-    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
-    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
-    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cf456d0f7a79",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
-    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
-    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
-    "source": "lecho",
-    "publishedAt": "2026-11-19T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Wheelock, Connor O'Neill",
-    "transfer": null
-   },
-   {
-    "id": "2654b96e85c7",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/moyes-everton-press-conference-live-34941714",
-    "title": "David Moyes press conference LIVE - Jack Grealish latest and Everton injury news for Brentford",
-    "ko": "모예스 기자회견 라이브…에버턴 브렌트퍼드전 부상 소식",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T12:47:35.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Paul Wheelock, Connor O'Neill",
-    "transfer": null
-   },
-   {
-    "id": "7d63448a54b8",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-delivers-jack-grealish-34943246",
-    "title": "David Moyes delivers Jack Grealish Everton update and emphatic Jordan Pickford verdict",
-    "ko": "모예스, 그릴리시 에버턴 상황 업데이트와 픽포드 평가",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T14:52:22.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시",
-     "픽포드"
-    ],
-    "playerTags": [],
-    "author": "Paul Wheelock",
-    "transfer": null
-   },
-   {
-    "id": "7088c9dc3bb2",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/exclusive-david-moyes-reveals-what-34946108",
-    "title": "EXCLUSIVE: David Moyes reveals what he wants before leaving Everton as he makes future admission",
-    "ko": "모이스, 에버턴 떠나기 전 원하는 것 밝혀",
-    "source": "lecho",
-    "publishedAt": "2026-11-21T17:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null
-   },
-   {
-    "id": "bcf50b973f9a",
-    "url": "https://www.footballinsider247.com/everton/stefan-borson-rates-david-moyes-chances-of-quitting-everton-mid-season",
-    "title": "Stefan Borson rates David Moyes' chances of quitting Everton 'mid-season'",
-    "ko": "스티브 보슨, 모예스 에버턴 이탈 가능성 시즌 중 언급",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T08:30:00.000Z",
-    "credited": "스티브 보슨",
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.38,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스티브 보슨",
-   "at": "2026-11-17T12:30:00.000Z",
-   "viaQuote": true
-  },
-  "headline": "EXCLUSIVE: David Moyes reveals what he wants before leaving Everton as he makes future admission"
+  "headline": "500.000 Mitglieder! FC Bayern schnappt sich Weltrekord"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-22T08:12:54.000Z",
+  "updatedAt": "2026-11-22T11:13:17.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -10744,11 +7985,29 @@
     "playerTags": [],
     "author": "Ben Crawford",
     "transfer": null
+   },
+   {
+    "id": "e5ad51eb1de9",
+    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-manchester-united-training-37903281",
+    "title": "Mauricio Pochettino makes instant changes to Man Utd training with warning to players",
+    "ko": "포체티노, 맨유 훈련에 즉각 변화 주며 선수들에 경고",
+    "source": "mirror",
+    "publishedAt": "2026-11-22T11:13:17.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Nathan Ridley",
+    "transfer": null
    }
   ],
   "recentSources": 4,
   "sourceCount": 17,
-  "score": 2.21,
+  "score": 1.96,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10770,6 +8029,3088 @@
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "club-brugge-liverpool-2026-11-26",
+  "mode": "llm",
+  "titleKo": "클럽 브뤼허 대 리버풀 역사적 맞대결",
+  "createdAt": "2026-11-22T11:00:00.000Z",
+  "updatedAt": "2026-11-22T11:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "club-brugge",
+   "liverpool"
+  ],
+  "players": [],
+  "sig": [
+   "europese"
+  ],
+  "articles": [
+   {
+    "id": "56aee9281044",
+    "url": "https://www.hln.be/club-brugge/vanaf-nu-denken-we-aan-liverpool-club-brugge-maakt-zich-op-voor-historische-clash-met-europese-rivaal-uit-de-jaren-70~a77c7e28/",
+    "title": "“Vanaf nu denken we aan Liverpool”: Club Brugge maakt zich op voor historische clash met Europese rivaal uit de jaren 70",
+    "ko": "클럽 브뤼허, 70년대 유럽 라이벌과 역사적 맞대결 준비",
+    "source": "hln",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.03,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-22T11:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "“Vanaf nu denken we aan Liverpool”: Club Brugge maakt zich op voor historische clash met Europese rivaal uit de jaren 70"
+ },
+ {
+  "slug": "rochdale-manager-future",
+  "mode": "llm",
+  "titleKo": "로치데일 감독 경질",
+  "createdAt": "2026-11-22T10:09:18.000Z",
+  "updatedAt": "2026-11-22T10:55:05.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "sack",
+   "ian",
+   "watson"
+  ],
+  "articles": [
+   {
+    "id": "3947985cf0d3",
+    "url": "https://www.thesun.co.uk/sport/41105467/rochdale-sack-manager-ian-watson/",
+    "title": "Rochdale SACK manager Ian Watson as club release blunt 62-word statement as they fall into relegation fight",
+    "ko": "로치데일, 이언 왓슨 감독 경질…강등 싸움 중",
+    "source": "sun",
+    "publishedAt": "2026-11-22T10:09:18.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   },
+   {
+    "id": "090255f8d78a",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj62pz1v7zdwo?at_medium=RSS&at_campaign=rss",
+    "title": "Rochdale sack boss Watson after Northampton defeat",
+    "ko": "로치데일, 노샘프턴전 패배 후 왓슨 감독 경질",
+    "source": "bbc",
+    "publishedAt": "2026-11-22T10:55:05.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.98,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-22T10:09:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rochdale sack boss Watson after Northampton defeat"
+ },
+ {
+  "slug": "palmer-chelsea-relationship",
+  "mode": "llm",
+  "titleKo": "콜 파머 첼시 동료와 설전",
+  "createdAt": "2026-11-22T06:00:00.000Z",
+  "updatedAt": "2026-11-22T10:35:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "콜 파머"
+  ],
+  "sig": [
+   "palmer",
+   "xabi",
+   "alonso"
+  ],
+  "articles": [
+   {
+    "id": "e907f03f1f54",
+    "url": "https://www.football.london/chelsea-fc/news/cole-palmers-heated-back-forth-34948797",
+    "title": "Cole Palmer's heated back and forth with Chelsea duo as Xabi Alonso tasked with tough decision",
+    "ko": "콜 파머, 첼시 동료와 언쟁…알론소 난제 직면",
+    "source": "fblondon",
+    "publishedAt": "2026-11-22T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Bobby Vincent",
+    "transfer": null
+   },
+   {
+    "id": "f2d2fa6cc58b",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/palmer-nao-agradece-aos-adeptos-do-chelsea-e-xabi-alonso-comenta-caso-e-um-momento-fragil",
+    "title": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»",
+    "ko": "파머, 첼시 팬들에 감사 표하지 않아…알론소 \"깨지기 쉬운 순간\"",
+    "source": "record",
+    "publishedAt": "2026-11-22T10:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 2.32,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cole-palmer"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-22T06:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»"
+ },
+ {
+  "slug": "porto-feyenoord-2026-11-26",
+  "mode": "llm",
+  "titleKo": "포르투 대 페예노르트 경기 주심 배정",
+  "createdAt": "2026-11-22T10:27:54.000Z",
+  "updatedAt": "2026-11-22T10:27:54.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "porto",
+   "feyenoord"
+  ],
+  "players": [],
+  "sig": [
+   "irfan",
+   "peljto"
+  ],
+  "articles": [
+   {
+    "id": "1a1cd42ac8e1",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/bosnio-irfan-peljto-vai-arbitrar-visita-do-fc-porto-ao-feyenoord",
+    "title": "Bósnio Irfan Peljto vai arbitrar visita do FC Porto ao Feyenoord",
+    "ko": "보스니아 심판 이르판 펠비치, 포르투의 페예노르트 원정 주심 배정",
+    "source": "record",
+    "publishedAt": "2026-11-22T10:27:54.000Z",
+    "credited": null,
+    "clubs": [
+     "porto",
+     "feyenoord"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.56,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-22T10:27:54.000Z",
+   "viaQuote": false
+  },
+  "headline": "Bósnio Irfan Peljto vai arbitrar visita do FC Porto ao Feyenoord"
+ },
+ {
+  "slug": "gladbach-dortmund-2026-11-19",
+  "mode": "llm",
+  "titleKo": "묀헨글라트바흐 대 도르트문트 보루시아 더비",
+  "createdAt": "2026-11-19T09:59:00.000Z",
+  "updatedAt": "2026-11-22T10:19:51.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "gladbach",
+   "dortmund"
+  ],
+  "players": [
+   "바츠",
+   "키아로디아",
+   "우노",
+   "은메차"
+  ],
+  "sig": [
+   "spiel",
+   "borussen",
+   "duell"
+  ],
+  "articles": [
+   {
+    "id": "804614ca7590",
+    "url": "https://rp-online.de/sport/fussball/borussia/borussia-moenchengladbach-borussia-dortmund-liveticker-zum-spiel_aid-79115875",
+    "title": "Liveticker zum Spiel: Gladbach empfängt Dortmund zum Borussen-Duell",
+    "ko": "묀헨글라트바흐, 도르트문트 맞아 보루시아 더비 라이브",
+    "source": "rp",
+    "publishedAt": "2026-11-19T09:59:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
+    "transfer": null
+   },
+   {
+    "id": "2e71b1fff7c3",
+    "url": "https://www.kicker.de/vor-borussen-duell-drei-fragezeichen-beim-bvb-1272969/artikel#omrss",
+    "title": "Vor Borussen-Duell: Drei Fragezeichen beim BVB",
+    "ko": "도르트문트 더비 앞둔 세 가지 불확실 요소",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T13:08:41.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "90c86a26efd8",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-hartes-programm-ist-kein-thema-fuer-blessin-und-co_aid-158645557",
+    "title": "Erinnerungen an letztes BVB-Spiel: Borussias hartes Programm ist kein Thema für Blessin und Co.",
+    "ko": "묀헨글라트바흐, 지난 도르트문트전 회고…블레싱 체제의 강행군",
+    "source": "rp",
+    "publishedAt": "2026-11-20T19:39:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Thomas Grulke",
+    "transfer": null
+   },
+   {
+    "id": "605183597e89",
+    "url": "https://rp-online.de/nrw/staedte/moenchengladbach/sport/borussia-frauen-fuenfter-sieg-in-folge-bei-der-sg-andernach_aid-158728993",
+    "title": "Schlechte Erinnerungen an ein 4:5: Borussia reist selbstbewusst zu einem „unberechenbaren“ Gegner",
+    "ko": "묀헨글라트바흐, 4-5 패배 기억 안고 자신감 있게 원정 출발",
+    "source": "rp",
+    "publishedAt": "2026-11-21T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel Brickwedde",
+    "transfer": null
+   },
+   {
+    "id": "e88a3a0d20e8",
+    "url": "https://www.record.pt/internacional/paises/alemanha/detalhe/borussia-dortmund-borussia-m-gladbach-em-direto",
+    "title": "Borussia M'Gladbach-Borussia Dortmund, em direto",
+    "ko": "묀헨글라트바흐-도르트문트, 실시간 중계",
+    "source": "record",
+    "publishedAt": "2026-11-21T13:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9b94da382d8c",
+    "url": "https://as.com/futbol/internacional/b-mgladbach-b-dortmund-en-directo-bundesliga-hoy-en-vivo-f202611-n/",
+    "title": "B. M`gladbach-B. Dortmund, en directo: Bundesliga, hoy en vivo",
+    "ko": "묀헨글라트바흐 대 도르트문트 분데스리가 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-21T14:17:53.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "4aa2fb6582b1",
+    "url": "https://rp-online.de/sport/fussball/borussia/borussia-moenchengladbach-borussia-dortmund-liveticker-zum-nachlesen_aid-79115875",
+    "title": "Liveticker zum Nachlesen: Borussia verliert gegen den BVB",
+    "ko": "라이브 블로그: 보루시아, 도르트문트에 패배",
+    "source": "rp",
+    "publishedAt": "2026-11-21T16:20:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hannah Gobrecht, Karsten Kellermann, Thomas Grulke, Jannik Sorgatz",
+    "transfer": null
+   },
+   {
+    "id": "feb6993b8c5e",
+    "url": "https://www.kicker.de/mgladbach-gegen-dortmund-2026-bundesliga-5226895/spielbericht#omrss",
+    "title": "Batz sieht nicht gut aus: Nmecha schießt den BVB auf Platz 1",
+    "ko": "바츠 부진 속 은메차 득점, 도르트문트 선두 등극",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:20:45.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바츠",
+     "은메차"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fb246bb41b15",
+    "url": "https://rp-online.de/sport/fussball/borussia/borussia-moenchengladbach-verliert-gegen-bvb-durch-batz-patzer_aid-158770409",
+    "title": "Spätes Gegentor: Dortmund gewinnt das Borussen-Duell durch Bock von Batz",
+    "ko": "도르트문트, 묀헨글라트바흐 더비 후반 막판 실점으로 승리",
+    "source": "rp",
+    "publishedAt": "2026-11-21T16:24:00.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바츠"
+    ],
+    "playerTags": [],
+    "author": "Jonas Neff",
+    "transfer": null
+   },
+   {
+    "id": "823647b8efdd",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbacher-noten-zum-0-1-gegen-dortmund-batz-patzt-chiarodia-ueberzeugt_aid-158767783",
+    "title": "Einzelkritik gegen Dortmund: Batz patzt, Chiarodia überzeugt, Uno bringt sich in Bedrängnis",
+    "ko": "도르트문트전 개인 평점, 바츠 실수·키아로디아 호평",
+    "source": "rp",
+    "publishedAt": "2026-11-21T17:04:00.000Z",
+    "credited": null,
+    "clubs": [
+     "dortmund",
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바츠",
+     "키아로디아",
+     "우노"
+    ],
+    "playerTags": [],
+    "author": "Leah-Josefin Oldenburg",
+    "transfer": null
+   },
+   {
+    "id": "9e684e6067fb",
+    "url": "https://rp-online.de/sport/fussball/borussia/keine-gladbacher-torwartdebatte-nach-batz-patzer-gegen-bvb_aid-158765705",
+    "title": "„Kann mich nur entschuldigen“: Keine Torhüterdebatte und ein reumütiger Batz nach Gladbacher Niederlage",
+    "ko": "묀헨글라트바흐 패배 뒤 바츠 '사과할 수밖에'",
+    "source": "rp",
+    "publishedAt": "2026-11-21T20:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "바츠"
+    ],
+    "playerTags": [],
+    "author": "Leah-Josefin Oldenburg, Karsten Kellermann",
+    "transfer": null
+   },
+   {
+    "id": "9f181adfa41b",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-die-wahrheit-des-bvb-spiels-ist-gefaehrlich-im-abstiegskampf_aid-158781587",
+    "title": "Gladbach im Abstiegskampf: Die Wahrheit des BVB-Spiels ist gefährlich",
+    "ko": "묀헨글라트바흐, 강등권 싸움…도르트문트전 교훈 위험",
+    "source": "rp",
+    "publishedAt": "2026-11-22T10:19:51.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Karsten Kellermann",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 4,
+  "score": 1.53,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "RP 온라인 (묀헨글라트바흐)",
+   "source": "rp",
+   "at": "2026-11-19T09:59:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Gladbach im Abstiegskampf: Die Wahrheit des BVB-Spiels ist gefährlich"
+ },
+ {
+  "slug": "augsburg-affairs-membership-meeting-postponed",
+  "mode": "llm",
+  "titleKo": "아우크스부르크 회원총회 연기 논란",
+  "createdAt": "2026-11-22T10:16:37.000Z",
+  "updatedAt": "2026-11-22T10:16:37.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "augsburg"
+  ],
+  "players": [],
+  "sig": [
+   "warum",
+   "fca",
+   "mitgliederversammlung"
+  ],
+  "articles": [
+   {
+    "id": "8d0b92bfd5c1",
+    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/mitgliederversammlung-fc-augsburg-warum-die-veranstaltung-erst-2027-stattfindet-1-115736816",
+    "title": "Fans wundern sich: Warum der FCA seine Mitgliederversammlung verschiebt",
+    "ko": "아우크스부르크, 회원총회 연기에 팬들 의문",
+    "source": "augsburger",
+    "publishedAt": "2026-11-22T10:16:37.000Z",
+    "credited": null,
+    "clubs": [
+     "augsburg"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Robert Götz",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.51,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "아우크스부르거 알게마이네",
+   "source": "augsburger",
+   "at": "2026-11-22T10:16:37.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fans wundern sich: Warum der FCA seine Mitgliederversammlung verschiebt"
+ },
+ {
+  "slug": "flamengo-manager-appointment",
+  "mode": "llm",
+  "titleKo": "플라멩구 감독 선임 추진",
+  "createdAt": "2026-11-22T10:06:00.000Z",
+  "updatedAt": "2026-11-22T10:06:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "leonardo",
+   "jardim",
+   "josé",
+   "boto"
+  ],
+  "articles": [
+   {
+    "id": "28d44f01e9e0",
+    "url": "https://www.record.pt/internacional/paises/brasil/detalhe/flamengo-quer-ficar-com-leonardo-jardim-e-situacao-de-jose-boto-sera-discutida",
+    "title": "Flamengo quer ficar com Leonardo Jardim e situação de José Boto será discutida",
+    "ko": "플라멩구, 레오나르두 자르딤 영입 추진…호세 보투 상황 논의",
+    "source": "record",
+    "publishedAt": "2026-11-22T10:06:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.47,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-22T10:06:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Flamengo quer ficar com Leonardo Jardim e situação de José Boto será discutida"
+ },
+ {
+  "slug": "liverpool-man-utd-2026-11-22",
+  "mode": "llm",
+  "titleKo": "리버풀 대 맨유 프리미어리그 경기 관심",
+  "createdAt": "2026-11-16T14:49:58.000Z",
+  "updatedAt": "2026-11-22T10:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "liverpool",
+   "man-utd",
+   "newcastle",
+   "arsenal"
+  ],
+  "players": [
+   "앨리슨",
+   "도르구",
+   "셰슈코",
+   "래시포드",
+   "브루노 페르난데스",
+   "트레이 뇨니",
+   "비르츠",
+   "도미니크 소보슬러이",
+   "알렉산데르 이삭"
+  ],
+  "sig": [
+   "fortress"
+  ],
+  "articles": [
+   {
+    "id": "21b7da1de09b",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-man-united-tickets-premier-34917488",
+    "title": "Last chance Liverpool vs Man United tickets running low for Premier League clash",
+    "ko": "리버풀 대 맨유 프리미어리그 빅매치 티켓 잔여분 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-16T14:49:58.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Hackney",
+    "transfer": null
+   },
+   {
+    "id": "89318c62c32e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-can-make-manchester-united-34919403",
+    "title": "Liverpool can make Manchester United their perfect visitors and restore Fortress Anfield",
+    "ko": "리버풀, 맨유 상대로 안필드 요새 회복 기회",
+    "source": "lecho",
+    "publishedAt": "2026-11-16T15:49:10.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "John Aldridge, Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "d46086fdeecb",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfield-decision-made-vs-34917771",
+    "title": "Liverpool midfield decision made vs Manchester United after injury concerns",
+    "ko": "리버풀, 부상 우려 속 맨유전 중원 선발 결정",
+    "source": "lecho",
+    "publishedAt": "2026-11-17T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle, Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "f8e096493ce3",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-mauricio-pochettino-liverpool-34921646",
+    "title": "Mauricio Pochettino mistake could cost Man United dearly against Liverpool",
+    "ko": "포체티노의 실수, 리버풀전서 맨유에 큰 대가 우려",
+    "source": "men",
+    "publishedAt": "2026-11-17T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "c6b3386f7bc7",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-vs-manchester-united-referee-34931676",
+    "title": "Liverpool vs Man Utd referee appointment questioned after Alisson FA sanction and big error",
+    "ko": "리버풀-맨유전 주심 배정 논란, 앨리슨 징계와 큰 오심 이후",
+    "source": "lecho",
+    "publishedAt": "2026-11-18T16:14:29.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "앨리슨"
+    ],
+    "playerTags": [],
+    "author": "Scott Trotter",
+    "transfer": null
+   },
+   {
+    "id": "06c3d4a6d978",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/13-players-could-miss-liverpool-34933423",
+    "title": "13 players could miss Liverpool vs Man United as injury updates imminent",
+    "ko": "리버풀 대 맨유, 부상자 13명 가능성…최신 부상 소식 임박",
+    "source": "lecho",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Wheelock",
+    "transfer": null
+   },
+   {
+    "id": "b6441c0f5592",
+    "url": "https://www.thesun.co.uk/sport/41070719/premer-league-january-tv-fixtures/",
+    "title": "Premier League fixtures revealed for January with new date for huge Man Utd vs Liverpool clash",
+    "ko": "1월 프리미어리그 일정 공개…맨유 대 리버풀 새 날짜 확정",
+    "source": "sun",
+    "publishedAt": "2026-11-19T12:12:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Fermie",
+    "transfer": null
+   },
+   {
+    "id": "66f07f2582f8",
+    "url": "https://www.mirror.co.uk/sport/football/premier-league-man-utd-liverpool-37894496",
+    "title": "Premier League confirm next TV picks including Man Utd vs Liverpool and Merseyside derby",
+    "ko": "프리미어리그, 맨유 대 리버풀 등 다음 TV 중계 경기 발표",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T12:18:31.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "de1c56cdac18",
+    "url": "https://www.mirror.co.uk/sport/football/news/premier-league-man-utd-liverpool-37894496",
+    "title": "Premier League confirm next TV picks including Man Utd vs Liverpool and Merseyside derby",
+    "ko": "프리미어리그, 맨유 대 리버풀 등 다음 TV 중계 경기 발표",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T12:18:31.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "1bbdc0c006eb",
+    "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
+    "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
+    "ko": "포체티노, 맨유에 리버풀전 두려움 없이 임하라고 촉구",
+    "source": "guardian",
+    "publishedAt": "2026-11-19T12:38:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Will Unwin",
+    "transfer": null
+   },
+   {
+    "id": "a332f1209f5a",
+    "url": "https://www.mirror.co.uk/sport/football/news/liverpool-injury-news-man-utd-37894999",
+    "title": "Andoni Iraola gets triple Liverpool injury boost ahead of Man Utd showdown",
+    "ko": "이라올라, 맨유전 앞두고 리버풀 부상 소식 3건 호재",
+    "source": "mirror",
+    "publishedAt": "2026-11-19T14:01:07.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Gorst, Dan Marsh",
+    "transfer": null
+   },
+   {
+    "id": "c1fabd4778a6",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-pochettino-liverpool-34939638",
+    "title": "Has Man United team for Liverpool been leaked? What secret drone footage captured",
+    "ko": "맨유, 리버풀전 선발 명단 유출 의혹…드론 영상 포착 논란",
+    "source": "men",
+    "publishedAt": "2026-11-19T22:46:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "7b347b5044e4",
+    "url": "https://www.nytimes.com/athletic/7789072/2026/11/20/premier-league-predictions-liverpool-man-united-gw11/",
+    "title": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-20T05:12:54.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd",
+     "newcastle",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5c19e27ca4d1",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jamie-redknapp-adamant-pressure-lies-34935000",
+    "title": "Jamie Redknapp adamant on where pressure lies ahead of Liverpool vs Manchester United",
+    "ko": "레드냅, 리버풀 대 맨유 경기 압박의 위치 강조",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "07f14a5d0600",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-humiliated-manchester-united-cant-34938100",
+    "title": "Liverpool humiliated Manchester United but can't afford repeat of what has happened since",
+    "ko": "리버풀, 맨유 완파 뒤 반복 우려 경계",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Jones",
+    "transfer": null
+   },
+   {
+    "id": "fa91c32a2fd2",
+    "url": "https://www.espn.com/soccer/story/_/id/50520411/liverpool-manchester-united-anfield-premier-league",
+    "title": "Liverpool are terrible at Anfield this season, but will it matter vs. Man United?",
+    "ko": "리버풀 안필드 부진 지속, 맨유전 변수 될까",
+    "source": "espn",
+    "publishedAt": "2026-11-20T08:54:56.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Beth Lindop",
+    "transfer": null
+   },
+   {
+    "id": "282f5e7e9052",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettinos-preparations-manchester-united-34940174",
+    "title": "Mauricio Pochettino's preparations for Manchester United debut at Liverpool go wrong",
+    "ko": "포체티노, 리버풀 원정으로 맨유 데뷔 계획 차질",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T08:59:39.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith, Mark Jones",
+    "transfer": null
+   },
+   {
+    "id": "cfd2c4cdfbbf",
+    "url": "https://www.thesun.co.uk/sport/41072859/liverpool-manchester-united-sky-bet-odds/",
+    "title": "Liverpool vs Manchester United: Get 50/1 for hosts to win with Sky Bet",
+    "ko": "리버풀 대 맨유, 홈팀 승리 배당 50배 제시",
+    "source": "sun",
+    "publishedAt": "2026-11-20T09:35:06.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "bc9ec696e637",
+    "url": "https://www.thesun.co.uk/sport/41079054/man-utd-pochettino-training-spying-footage-reveal-liverpool/",
+    "title": "What shock drone spying footage reveals about Pochettino’s line-up and tactics for Man Utd’s visit to Liverpool",
+    "ko": "드론 감시 영상이 드러낸 포체티노의 라인업과 전술",
+    "source": "sun",
+    "publishedAt": "2026-11-20T10:11:32.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tony Robertson",
+    "transfer": null
+   },
+   {
+    "id": "863c91338683",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-injury-news-liverpool-34943047",
+    "title": "Dorgu, Sesko, Rashford - Man United injury latest and return dates ahead of Liverpool showdown",
+    "ko": "맨유, 리버풀전 앞두고 도르구·셰슈코·래시포드 부상 현황",
+    "source": "men",
+    "publishedAt": "2026-11-20T14:54:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "도르구",
+     "셰슈코",
+     "래시포드"
+    ],
+    "playerTags": [
+     "benjamin-sesko",
+     "marcus-rashford"
+    ],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "c47207668c01",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-makes-bruno-fernandes-34945098",
+    "title": "Mauricio Pochettino makes Bruno Fernandes decision ahead of Man United match at Liverpool",
+    "ko": "포체티노, 리버풀전 앞두고 브루노 페르난데스 기용 결정",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T17:04:01.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Ian Parker Press Association, Paul Wheelock",
+    "transfer": null
+   },
+   {
+    "id": "50c085b957aa",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/relegation-threatened-man-united-exactly-34944853",
+    "title": "Relegation-threatened Man United are exactly what Andoni Iraola and Liverpool need right now",
+    "ko": "강등권 맨유가 이라올라와 리버풀에 필요한 상대라는 평가",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T17:21:39.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "c9507a404a14",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-news-liverpool-34946472",
+    "title": "10 players could miss Liverpool vs Man United as Pochettino left sweating on stars' fitness",
+    "ko": "리버풀 대 맨유전, 선수 10명 결장 가능성…포체티노 근심",
+    "source": "men",
+    "publishedAt": "2026-11-21T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "185ce9e56213",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/nine-players-could-miss-liverpool-34940872",
+    "title": "Nine players could miss Liverpool vs Manchester United after new injury update",
+    "ko": "리버풀 대 맨유전, 아홉 명 결장 가능성 새 부상 소식",
+    "source": "lecho",
+    "publishedAt": "2026-11-21T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "e06e4e00f9e3",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alan-shearer-sends-liverpool-warning-34941042",
+    "title": "Alan Shearer sends Liverpool warning over Manchester United new manager - 'seen it before'",
+    "ko": "셰어러, 맨유 새 감독 관련 리버풀에 경고…'본 적 있다'",
+    "source": "lecho",
+    "publishedAt": "2026-11-21T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "fd2d5e77c74f",
+    "url": "https://www.thesun.co.uk/sport/41083352/sunsport-picks-spain-england-efl/",
+    "title": "Betting column: SunSport picks for Liverpool vs Man Utd and more in huge Prem weekend",
+    "ko": "리버풀 대 맨유 승부 예측 베팅 픽",
+    "source": "sun",
+    "publishedAt": "2026-11-21T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Bruce Archer",
+    "transfer": null
+   },
+   {
+    "id": "a058a89694ca",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-mauricio-pochettino-37901393",
+    "title": "12 players could be missing from Liverpool vs Man Utd in Mauricio Pochettino's first game",
+    "ko": "포체티노 맨유 데뷔전, 리버풀전 최대 12명 결장 가능성",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T08:09:15.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ben Crawford, Mark Whiley",
+    "transfer": null
+   },
+   {
+    "id": "ee993917e13b",
+    "url": "https://www.footballinsider247.com/liverpool/andoni-iraola-should-snub-liverpool-duo-and-start-secret-weapon-vs-man-united-the-data-is-telling",
+    "title": "Andoni Iraola should snub Liverpool duo and start secret weapon vs Man United, the data is telling",
+    "ko": "이라올라, 맨유전 리버풀 듀오 제외하고 비밀 무기 기용해야",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-21T11:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "0e4f92967b45",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-two-players-who-can-34941007",
+    "title": "Liverpool have two players who can beat Manchester United and change 'apprehensive' Anfield",
+    "ko": "리버풀, 맨유전 앞두고 안필드 분위기 바꿀 두 선수 보유",
+    "source": "lecho",
+    "publishedAt": "2026-11-21T17:27:32.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "e68a5440ca33",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-line-up-vs-34948033",
+    "title": "Manchester United line-up vs Liverpool predicted as Mauricio Pochettino rings changes",
+    "ko": "포체티노, 리버풀전 맨유 선발 라인업 예상 변화",
+    "source": "men",
+    "publishedAt": "2026-11-22T04:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ross Jackson",
+    "transfer": null
+   },
+   {
+    "id": "aa445d2822a6",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34934302",
+    "title": "How Manchester United should line up vs Liverpool in Mauricio Pochettino's first game",
+    "ko": "포체티노 맨유 데뷔전 리버풀전 선발 구성은?",
+    "source": "men",
+    "publishedAt": "2026-11-22T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "3ee02e4a3b0a",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/trey-nyoni-backed-liverpool-start-34947043",
+    "title": "Trey Nyoni backed for Liverpool start vs Manchester United as midfielder 'not fazed'",
+    "ko": "트레이 뇨니, 맨유전 리버풀 선발 기용 기대",
+    "source": "lecho",
+    "publishedAt": "2026-11-22T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "트레이 뇨니"
+    ],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "b81644277973",
+    "url": "https://www.thesun.co.uk/sport/41058697/liverpool-man-utd-mauricio-pochettino/",
+    "title": "Liverpool vs Man Utd | Premier League predictions, preview and free bets for first Mauricio Pochettino game",
+    "ko": "리버풀 대 맨유, 포체티노 데뷔전 프리미어리그 예측",
+    "source": "sun",
+    "publishedAt": "2026-11-22T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "9afa34fa3b31",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-man-united-result-prediction-34948519",
+    "title": "Eight pundits predict Liverpool vs Man United as Gary Neville and Jamie Carragher disagree",
+    "ko": "리버풀 대 맨유, 전문가 8명 예측…네빌과 카라거 의견 엇갈려",
+    "source": "men",
+    "publishedAt": "2026-11-22T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jordan Seward",
+    "transfer": null
+   },
+   {
+    "id": "695c2defaff7",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-liverpool-manchester-united-en-premier-league/1744814#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Liverpool - Manchester United en Premier League ?",
+    "ko": "리버풀 대 맨유 프리미어리그 경기 중계 시간·채널은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T07:55:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "d5d538c29a78",
+    "url": "https://www.mirror.co.uk/sport/football/news/liverpool-vs-man-utd-predictions-37902725",
+    "title": "8 pundits predict Liverpool vs Man Utd as one blocks unanimous Mauricio Pochettino agreement",
+    "ko": "8명 해설가 리버풀 대 맨유 예측, 포체티노 합의 막는 한 명",
+    "source": "mirror",
+    "publishedAt": "2026-11-22T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Scott Trotter, Jordan Seward",
+    "transfer": null
+   },
+   {
+    "id": "9474cdd9ff2c",
+    "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+    "title": "Liverpool v Manchester United buildup and more Premier League news – matchday live",
+    "ko": "리버풀 대 맨유 프리미어리그 경기 관련 소식 총정리",
+    "source": "guardian",
+    "publishedAt": "2026-11-22T08:26:22.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Emillia Hawkins",
+    "transfer": null
+   },
+   {
+    "id": "191efdc0b05e",
+    "url": "https://www.thesun.co.uk/sport/41073349/liverpool-man-utd-betfred-free-builder/",
+    "title": "Liverpool vs Man Utd: Bet £5 on a bet builder & Get a free £5 bet builder, plus our 37/1 tip | Betfred",
+    "ko": "리버풀 대 맨유 베팅 프로모션 안내",
+    "source": "sun",
+    "publishedAt": "2026-11-22T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "9643f1be27a5",
+    "url": "https://www.thesun.co.uk/sport/41085553/florian-wirtz-liverpool-man-utd-boost/",
+    "title": "Liverpool vs Man Utd: Get Florian Wirtz 1+ shot on target at Evens | Betfred",
+    "ko": "리버풀 대 맨유, 비르츠 유효슈팅 베팅 정보",
+    "source": "sun",
+    "publishedAt": "2026-11-22T09:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "비르츠"
+    ],
+    "playerTags": [
+     "florian-wirtz"
+    ],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "a6b5ef06453e",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-line-ups-vs-manchester-34947608",
+    "title": "Liverpool line-ups vs Manchester United as Dominik Szoboszlai and Alexander Isak decisions made",
+    "ko": "리버풀 맨유전 선발 확정…소보슬라이·이삭 기용 결정",
+    "source": "lecho",
+    "publishedAt": "2026-11-22T10:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "도미니크 소보슬라이",
+     "알렉산데르 이삭"
+    ],
+    "playerTags": [
+     "alexander-isak",
+     "dominik-szoboszlai"
+    ],
+    "author": "Ian Doyle, Paul Gorst, Mark Jones",
+    "transfer": null
+   }
+  ],
+  "recentSources": 6,
+  "sourceCount": 9,
+  "score": 3.74,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "benjamin-sesko",
+   "marcus-rashford",
+   "bruno-fernandes",
+   "florian-wirtz",
+   "alexander-isak",
+   "dominik-szoboszlai"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Liverpool Echo",
+   "source": "lecho",
+   "at": "2026-11-16T14:49:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Premier League predictions: Liverpool vs Man Utd, Newcastle vs Arsenal and rest of GW11"
+ },
+ {
+  "slug": "oscar-cortes-rangers-transfer",
+  "mode": "llm",
+  "titleKo": "레인저스 오스카 코르테스 영입 제안 수락 계획",
+  "createdAt": "2026-11-22T10:00:00.000Z",
+  "updatedAt": "2026-11-22T10:00:00.000Z",
+  "category": "transfer",
+  "stage": "agreement",
+  "clubs": [],
+  "players": [
+   "오스카 코르테스"
+  ],
+  "sig": [
+   "rangers",
+   "oscar",
+   "cortes"
+  ],
+  "articles": [
+   {
+    "id": "d379a9bc3e34",
+    "url": "https://www.footballinsider247.com/rangers/sources-rangers-plan-to-accept-oscar-cortes-offer-ahead-of-january",
+    "title": "Sources: Rangers plan to accept Oscar Cortes offer ahead of January",
+    "ko": "레인저스, 1월 전 오스카 코르테스 제안 수락 계획 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T10:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "오스카 코르테스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "오스카 코르테스",
+     "from": null,
+     "to": "레인저스"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.43,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "d379a9bc3e34",
+    "at": "2026-11-22T10:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "agreement"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "오스카 코르테스",
+   "from": null,
+   "to": "레인저스"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-22T10:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Rangers plan to accept Oscar Cortes offer ahead of January"
+ },
+ {
+  "slug": "infantino-fifa-affairs-election-candidacy",
+  "mode": "llm",
+  "titleKo": "FIFA 회장 선거 후보 등록 완료",
+  "createdAt": "2026-11-19T09:31:00.000Z",
+  "updatedAt": "2026-11-22T09:50:55.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "람 베가",
+   "폴라린 발로군"
+  ],
+  "sig": [
+   "fifa"
+  ],
+  "articles": [
+   {
+    "id": "c6ae478592e9",
+    "url": "https://www.record.pt/internacional/detalhe/oficial-estao-confirmados-os-tres-candidatos-que-vao-a-votos-nas-eleicoes-para-a-presidencia-da-fifa",
+    "title": "Oficial: estão confirmados os três candidatos que vão a votos nas eleições para a presidência da FIFA",
+    "ko": "FIFA 회장 선거 최종 후보 3명 확정",
+    "source": "record",
+    "publishedAt": "2026-11-19T09:31:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ee0466783074",
+    "url": "https://www.kicker.de/offiziell-zwei-kandidaten-treten-gegen-infantino-an-1272914/artikel#omrss",
+    "title": "Offiziell: Zwei Kandidaten treten gegen Infantino an",
+    "ko": "인판티노에 도전장…두 후보 공식 출마",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T09:43:44.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6927892b5aa9",
+    "url": "https://www.lequipe.fr/Football/Actualites/Gianni-infantino-philippe-diallo-et-kozo-tashima-ont-transmis-leur-candidature-a-la-fifa-pour-l-election-a-la-presidence/1744600#at_medium=RSS_feeds",
+    "title": "Gianni Infantino, Philippe Diallo et Kozo Tashima ont transmis leur candidature à la FIFA pour l'élection à la présidence",
+    "ko": "인판티노·디알로·타시마, FIFA 회장 선거 후보 등록",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T09:48:13.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Moatti",
+    "transfer": null
+   },
+   {
+    "id": "dd2aaa5b2e44",
+    "url": "https://www.hln.be/wk-voetbal/ramon-vega-valt-af-infantino-wordt-uitgedaagd-door-twee-kandidaten-belgie-steunt-philippe-diallo~acc7073e/",
+    "title": "Ramon Vega valt af: Infantino wordt uitgedaagd door twee kandidaten, België steunt Philippe Diallo",
+    "ko": "람 베가 탈락, 인판티노에 두 후보 도전…벨기에는 디알로 지지",
+    "source": "hln",
+    "publishedAt": "2026-11-19T10:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "람 베가"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "b62e45ed2070",
+    "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
+    "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
+    "ko": "인판티노에 도전장, FIFA 회장 선거 후보 라인업 공개",
+    "source": "guardian",
+    "publishedAt": "2026-11-19T10:56:21.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Matt Hughes",
+    "transfer": null
+   },
+   {
+    "id": "47f14bff80a4",
+    "url": "https://www.kicker.de/beschwerdebrief-europaeer-erhoehen-den-druck-im-fifa-machtkampf-1273021/artikel#omrss",
+    "title": "Beschwerdebrief: Europäer erhöhen den Druck im FIFA-Machtkampf",
+    "ko": "유럽 측 항의 서한 발송…FIFA 권력 다툼 압박 높여",
+    "source": "kicker",
+    "publishedAt": "2026-11-19T14:17:29.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7c2698cccb61",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-federation-anglaise-a-envisage-de-contester-l-eligibilite-de-gianni-infantino-pour-un-quatrieme-mandat-a-la-tete-de-la-fifa-avant-de-se-retracter/1744658#at_medium=RSS_feeds",
+    "title": "La Fédération anglaise a envisagé de contester l'éligibilité de Gianni Infantino pour un quatrième mandat à la tête de la FIFA avant de se rétracter",
+    "ko": "잉글랜드 협회, 인판티노 FIFA 4선 도전 두고 자격 이의 검토 후 철회",
+    "source": "lequipe",
+    "publishedAt": "2026-11-19T14:52:33.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "0f8798ca14ba",
+    "url": "https://www.hln.be/voetbal/zijn-tegenstanders-zijn-een-grote-grap-waarom-er-maar-een-manier-is-om-gianni-infantino-van-de-fifa-troon-te-stoten~a3f3b091/",
+    "title": "“Zijn tegenstanders zijn één grote grap”: waarom er maar één manier is om Gianni Infantino van de FIFA-troon te stoten",
+    "ko": "인판티노 FIFA 회장 자리 도전자 누가 있나",
+    "source": "hln",
+    "publishedAt": "2026-11-19T17:24:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Niels Vleminckx",
+    "transfer": null
+   },
+   {
+    "id": "de9ce9d87af2",
+    "url": "https://www.espn.com/soccer/story/_/id/50532452/infantino-respect-fifa-elections-rivals-diallo-tashima",
+    "title": "Infantino calls for 'fair play' in upcoming FIFA elections",
+    "ko": "인판티노, 다가오는 FIFA 선거에서 공정한 경쟁 촉구",
+    "source": "espn",
+    "publishedAt": "2026-11-20T04:53:50.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mark Ogden",
+    "transfer": null
+   },
+   {
+    "id": "7eee77a8eedc",
+    "url": "https://www.espn.com/soccer/story/_/id/50538498/tashima-unite-diallo-fifa-president-infantino",
+    "title": "FIFA presidential challenger Tashima willing to unite with Diallo against Infantino",
+    "ko": "FIFA 회장 도전자 타시마, 디알로와 손잡고 인판티노에 맞설 의향",
+    "source": "espn",
+    "publishedAt": "2026-11-20T06:15:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Associated Press",
+    "transfer": null
+   },
+   {
+    "id": "9101e915b443",
+    "url": "https://www.nytimes.com/athletic/7797697/2026/11/20/kozo-tashima-folarin-balogun-fifa-presidency/",
+    "title": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-20T13:05:24.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "폴라린 발로군"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a2854a6474d3",
+    "url": "https://as.com/futbol/internacional/conmebol-elige-a-infantino-f202611-n/",
+    "title": "CONMEBOL elige a Infantino",
+    "ko": "CONMEBOL, 인판티노 선택",
+    "source": "as",
+    "publishedAt": "2026-11-20T18:27:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Víctor Martín J.",
+    "transfer": null
+   },
+   {
+    "id": "e2e07e4bc531",
+    "url": "https://www.lequipe.fr/Football/Actualites/Les-pays-sud-americains-de-la-conmebol-annoncent-leur-soutien-a-l-unanimite-a-gianni-infantino-candidat-a-la-presidence-de-la-fifa/1744980#at_medium=RSS_feeds",
+    "title": "Les pays sud-américains de la Conmebol annoncent leur soutien « à l'unanimité » à Gianni Infantino, candidat à la présidence de la FIFA",
+    "ko": "남미축구연맹, 인판티노 FIFA 회장 후보 지지 선언",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T19:46:33.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "ed3cff5f2691",
+    "url": "https://www.kicker.de/fuehrungsstaerke-als-argument-suedamerikaner-stuetzen-infantino-1273355/artikel#omrss",
+    "title": "Führungsstärke als Argument: Südamerikaner stützen Infantino",
+    "ko": "남미 협회들, 인판티노 리더십 강조하며 지지 표명",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T20:24:13.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ec6b7546b91a",
+    "url": "https://www.record.pt/internacional/detalhe/infantino-tem-apoio-da-conmebol-na-corrida-a-presidencia-da-fifa",
+    "title": "Infantino tem apoio da CONMEBOL na corrida à presidência da FIFA",
+    "ko": "인판티노, 남미축구연맹 지지 확보…FIFA 회장 선거 가속",
+    "source": "record",
+    "publishedAt": "2026-11-20T21:33:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8c5b2743bbbe",
+    "url": "https://www.kicker.de/im-namen-der-54-nationen-auch-caf-unterstuetzt-infantino-1273538/artikel#omrss",
+    "title": "\"Im Namen der 54 Nationen\": Auch CAF unterstützt Infantino",
+    "ko": "인판티노, 'FIFA 54개 국가 이름으로' 지지 확보 나서",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T15:55:54.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "c3cda544a8b3",
+    "url": "https://www.hln.be/wk-voetbal/gianni-je-hebt-onze-steun-afrikaanse-landen-herhalen-steun-richting-fifa-voorzitter-infantino~acc7073e/",
+    "title": "“Gianni, je hebt onze steun”: Afrikaanse landen herhalen steun richting FIFA-voorzitter Infantino",
+    "ko": "아프리카 국가들, 인판티노 FIFA 회장 지지 재확인",
+    "source": "hln",
+    "publishedAt": "2026-11-21T17:17:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "4e39442458e0",
+    "url": "https://www.record.pt/internacional/detalhe/confederacao-africana-de-futebol-reitera-apoio-unanime-a-reeleicao-de-infantino",
+    "title": "Confederação Africana de Futebol reitera apoio unânime à reeleição de Infantino",
+    "ko": "아프리카축구연맹, 인판티노 재선 지지 재확인",
+    "source": "record",
+    "publishedAt": "2026-11-21T18:42:50.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "306973021fdc",
+    "url": "https://www.record.pt/internacional/detalhe/mexico-anuncia-apoio-a-gianni-infantino-na-corrida-pela-fifa",
+    "title": "México anuncia apoio a Gianni Infantino na 'corrida' pela FIFA",
+    "ko": "멕시코, 인판티노 FIFA 회장 지지 선언",
+    "source": "record",
+    "publishedAt": "2026-11-22T09:50:55.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 8,
+  "score": 1.4,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-19T09:31:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Folarin Balogun red card scandal behind challenge for FIFA presidency - Kozo Tashima"
+ },
+ {
+  "slug": "bayern-sosa-2026-11-22",
+  "mode": "llm",
+  "titleKo": "올리세 봉쇄 속 소사 100% 성공률 활약",
+  "createdAt": "2026-11-22T09:16:18.000Z",
+  "updatedAt": "2026-11-22T09:16:18.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "올리세",
+   "소사"
+  ],
+  "sig": [
+   "sosa",
+   "prozent",
+   "quote"
+  ],
+  "articles": [
+   {
+    "id": "9008a2312972",
+    "url": "https://www.kicker.de/olise-einfach-abgemeldet-sosa-glaenzt-mit-einer-100-prozent-quote-1273431/artikel#omrss",
+    "title": "Olise einfach abgemeldet: Sosa glänzt mit einer 100-Prozent-Quote",
+    "ko": "올리세 완벽 봉쇄…소사 100% 성공률로 빛나",
+    "source": "kicker",
+    "publishedAt": "2026-11-22T09:16:18.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "올리세",
+     "소사"
+    ],
+    "playerTags": [
+     "michael-olise"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.27,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "michael-olise"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-22T09:16:18.000Z",
+   "viaQuote": false
+  },
+  "headline": "Olise einfach abgemeldet: Sosa glänzt mit einer 100-Prozent-Quote"
+ },
+ {
+  "slug": "armstrong-rangers-transfer",
+  "mode": "llm",
+  "titleKo": "암스트롱 레인저스 이적설",
+  "createdAt": "2026-11-18T12:00:00.000Z",
+  "updatedAt": "2026-11-22T09:10:02.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "대니 암스트롱",
+   "암스트롱"
+  ],
+  "sig": [
+   "danny",
+   "armstrong",
+   "rangers"
+  ],
+  "articles": [
+   {
+    "id": "99e82c0765ab",
+    "url": "https://www.footballinsider247.com/rangers/transfers/sources-danny-armstrong-keen-on-rangers-move-hell-find-it-hard-to-turn-down",
+    "title": "Sources: Danny Armstrong keen on Rangers move, he'll find it 'hard to turn down'",
+    "ko": "대니 암스트롱, 레인저스 이적에 관심 보여",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T12:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "대니 암스트롱"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "대니 암스트롱",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "8381518d0e95",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm62pqd0v7dlo?at_medium=RSS&at_campaign=rss",
+    "title": "Armstrong would relish Rangers switch - gossip",
+    "ko": "아므스트롱, 레인저스 이적 가능성 가십에 긍정적 반응",
+    "source": "bbc",
+    "publishedAt": "2026-11-19T08:01:39.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "대니 암스트롱"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "대니 암스트롱",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "1a2d96863a4c",
+    "url": "https://www.footballinsider247.com/rangers/transfers/sources-rangers-to-revisit-danny-armstrong-deal",
+    "title": "Sources: Rangers to revisit Danny Armstrong deal",
+    "ko": "레인저스, 대니 암스트롱 영입 협상 재개 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-20T16:00:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "대니 암스트롱"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "대니 암스트롱",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "236e99d0bdc6",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckdd1epzz60eo?at_medium=RSS&at_campaign=rss",
+    "title": "Armstrong plays down talk of Rangers transfer - gossip",
+    "ko": "암스트롱, 레인저스 이적설 일축…가십 취급",
+    "source": "bbc",
+    "publishedAt": "2026-11-22T09:10:02.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "암스트롱"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "암스트롱",
+     "from": null,
+     "to": "레인저스"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.37,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "99e82c0765ab",
+    "at": "2026-11-18T12:00:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   },
+   {
+    "id": "1a2d96863a4c",
+    "at": "2026-11-20T16:00:00.000Z",
+    "source": "fbinsider",
+    "from": "interest",
+    "to": "negotiation"
+   },
+   {
+    "id": "236e99d0bdc6",
+    "at": "2026-11-22T09:10:02.000Z",
+    "source": "bbc",
+    "from": "negotiation",
+    "to": "interest"
+   }
+  ],
+  "stageChange": {
+   "from": "negotiation",
+   "to": "interest",
+   "at": "2026-11-22T09:10:02.000Z",
+   "source": "bbc"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "대니 암스트롱",
+   "from": null,
+   "to": "레인저스"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-18T12:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Armstrong plays down talk of Rangers transfer - gossip"
+ },
+ {
+  "slug": "messi-incident-2026-11-22",
+  "mode": "llm",
+  "titleKo": "메시 상대 얼굴 공 차기 장면 논란",
+  "createdAt": "2026-11-22T09:02:42.000Z",
+  "updatedAt": "2026-11-22T09:02:42.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "메시"
+  ],
+  "sig": [
+   "messi"
+  ],
+  "articles": [
+   {
+    "id": "088cf0c4a398",
+    "url": "https://www.thesun.co.uk/sport/41105005/lionel-messi-mls-inter-miami-ball-throw-columbus-crew/",
+    "title": "Lionel Messi launches ball off opponent’s face in moment of madness but escapes red card in ‘really sad’ scenes",
+    "ko": "메시, 상대 얼굴 향해 공 차 논란…레드카드는 면해",
+    "source": "sun",
+    "publishedAt": "2026-11-22T09:02:42.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "메시"
+    ],
+    "playerTags": [
+     "lionel-messi"
+    ],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.37,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "lionel-messi"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-22T09:02:42.000Z",
+   "viaQuote": false
+  },
+  "headline": "Lionel Messi launches ball off opponent’s face in moment of madness but escapes red card in ‘really sad’ scenes"
+ },
+ {
+  "slug": "joelinton-injury",
+  "mode": "llm",
+  "titleKo": "조엘린턴 부상 악재",
+  "createdAt": "2026-11-20T08:50:00.000Z",
+  "updatedAt": "2026-11-22T09:00:00.000Z",
+  "category": "injury",
+  "stage": null,
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "조엘린턴"
+  ],
+  "sig": [
+   "joelinton"
+  ],
+  "articles": [
+   {
+    "id": "552d27947ee0",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-left-disappointed-as-joelinton-suffers-another-injury-blow",
+    "title": "Newcastle left ‘disappointed’ as Joelinton suffers another injury blow",
+    "ko": "뉴캐슬, 조엘린턴 또 부상 악재…구단 실망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-20T08:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "조엘린턴"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "3d977ef76a10",
+    "url": "https://www.footballinsider247.com/newcastle-united/sources-newcastle-hopeful-over-joelinton-as-return-timeline-revealed",
+    "title": "Sources: Newcastle ‘hopeful’ over Joelinton as return timeline revealed",
+    "ko": "뉴캐슬, 조엘린턴 복귀 시점 공개…회복 희망적",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T09:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "조엘린턴"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.36,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-20T08:50:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Newcastle ‘hopeful’ over Joelinton as return timeline revealed"
+ },
+ {
+  "slug": "musiala-bayern-transfer",
+  "mode": "llm",
+  "titleKo": "무시알라 바이에른 이적설 논란",
+  "createdAt": "2026-11-20T22:18:38.000Z",
+  "updatedAt": "2026-11-22T08:57:23.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "자말 무시알라",
+   "무시알라"
+  ],
+  "sig": [
+   "rummenigge",
+   "musiala",
+   "hammer"
+  ],
+  "articles": [
+   {
+    "id": "1ba553da2cb7",
+    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-rummenigge-laesst-naechsten-musiala-hammer-fallen-zr-94601245.html",
+    "title": "„Summen nicht mehr darstellbar“: Rummenigge lässt nächsten Musiala-Hammer fallen",
+    "ko": "뤼멘니게, 무시알라 관련 또 한 번 폭탄 발언",
+    "source": "tz",
+    "publishedAt": "2026-11-20T22:18:38.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Maximilian Bohne",
+    "transfer": null
+   },
+   {
+    "id": "2a110131cd94",
+    "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
+    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
+    "ko": "\"이런 조건에서 누가 뮤시알라를 살 거라고 상상이 안 된다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T22:33:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "자말 무시알라",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "32eff73ab2fc",
+    "url": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video#omrss",
+    "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
+    "ko": "바이에른의 암울한 금요일…루메니게·무시알라 논란 배경",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T23:30:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8540345a9d91",
+    "url": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video#omrss",
+    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
+    "ko": "루메니게 강한 비판 후 콤파니, 무시알라 감싸",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T23:32:10.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ad44893cd3e7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Karl-heinz-rummenigge-evoque-une-reduction-de-salaire-pour-musiala-il-a-des-problemes-de-sante-c-est-un-fait-connu/1745034#at_medium=RSS_feeds",
+    "title": "Karl-Heinz Rummenigge évoque une réduction de salaire pour Musiala : « Il a des problèmes de santé, c'est un fait connu »",
+    "ko": "루메니게, 무시알라 연봉 삭감 언급…\"건강 문제 있다는 건 알려진 사실\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T23:41:29.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "5d4bed4aa353",
+    "url": "https://www.tz.de/sport/fc-bayern/patrick-helmes-reagiert-auf-rummenigges-bayern-kritik-wegen-musiala-zr-94601253.html",
+    "title": "Rummenigges Musiala-Aussagen: Helmes hat einen brisanten Verdacht",
+    "ko": "루메니게, 무시알라 관련 발언 논란…의혹 제기",
+    "source": "tz",
+    "publishedAt": "2026-11-21T04:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "eb784b3b7ec9",
+    "url": "https://www.tz.de/sport/fc-bayern/debatte-um-musiala-rummenigge-verteidigt-hoeness-aussagen-94601385.html",
+    "title": "Bayern-Boss Rummenigge stellt sich mit Musiala-Knall schützend vor Uli Hoeneß",
+    "ko": "루멘니게, 뮐러 발언 두고 무시알라 사건으로 후이네스 옹호",
+    "source": "tz",
+    "publishedAt": "2026-11-21T08:55:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Florian Puth",
+    "transfer": null
+   },
+   {
+    "id": "2caaca3c5fdc",
+    "url": "https://www.mirror.co.uk/sport/football/news/bayern-chief-admits-jamal-musiala-37902251",
+    "title": "Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch",
+    "ko": "바이에른 회장, 무시알라 쓰러진 뒤 수개월 내 매각 가능성 인정",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T15:58:31.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Ben Husband",
+    "transfer": {
+     "player": "무시알라",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "b411c751a485",
+    "url": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video#omrss",
+    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
+    "ko": "드레젠, 루메니게 발언 설명…무시알라에 압박",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:25:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2ecbe52b4aa5",
+    "url": "https://www.tz.de/sport/fc-bayern/matthaeus-mit-deutlicher-kritik-am-fc-bayern-wegen-musiala-94601682.html",
+    "title": "Matthäus mit deutlicher Kritik am FC Bayern wegen Musiala",
+    "ko": "마테우스, 무시알라 관련 바이에른에 직격 비판",
+    "source": "tz",
+    "publishedAt": "2026-11-21T17:40:42.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b1d5b38d6e18",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+    "title": "Fifpro criticises Bayern Munich for Musiala comments",
+    "ko": "피프로, 무시알라 발언 두고 바이에른 뮌헨 비판",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T17:43:44.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5efb160a4156",
+    "url": "https://www.hln.be/bundesliga/het-is-hun-plicht-om-voor-hem-te-zorgen-spelersvakbond-maakt-zich-ernstige-zorgen-om-uitspraken-bayern-bestuur-over-jamal-musiala~a4df5bd0/",
+    "title": "“Het is hun plicht om voor hem te zorgen”: spelersvakbond “maakt zich ernstige zorgen” om uitspraken Bayern-bestuur over Jamal Musiala",
+    "ko": "선수노조 \"무시알라 관련 바이에른 경영진 발언 깊이 우려\"",
+    "source": "hln",
+    "publishedAt": "2026-11-21T18:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "d13a5b42c589",
+    "url": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video#omrss",
+    "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
+    "ko": "바이에른 팬, 무시알라 관련 보스 비판",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:24:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "50b37263b2ff",
+    "url": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel#omrss",
+    "title": "Ist das Bayern-Vorgehen bei Musiala richtig?",
+    "ko": "바이에른, 무시알라 기용 방식 적절한가 논쟁",
+    "source": "kicker",
+    "publishedAt": "2026-11-22T08:57:23.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 6,
+  "score": 1.2,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jamal-musiala"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-20T22:18:38.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fifpro criticises Bayern Munich for Musiala comments"
+ },
+ {
+  "slug": "paredes-collapse-incident",
+  "mode": "llm",
+  "titleKo": "파레데스 인터뷰 중 쓰러짐 사건",
+  "createdAt": "2026-11-22T07:58:17.000Z",
+  "updatedAt": "2026-11-22T08:56:00.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "파레데스"
+  ],
+  "sig": [
+   "leandro",
+   "paredes",
+   "collapses"
+  ],
+  "articles": [
+   {
+    "id": "4656ea298a14",
+    "url": "https://www.thesun.co.uk/sport/41104745/leandro-paredes-collapse-argentina-boca-juniors/",
+    "title": "World Cup winner Leandro Paredes COLLAPSES during live TV interview as medics rush to help",
+    "ko": "월드컵 우승자 파레데스, 생방송 인터뷰 중 쓰러져 의료진 출동",
+    "source": "sun",
+    "publishedAt": "2026-11-22T07:58:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파레데스"
+    ],
+    "playerTags": [],
+    "author": "Henry Tomlinson",
+    "transfer": null
+   },
+   {
+    "id": "fc31bfdc3f71",
+    "url": "https://www.lequipe.fr/Football/Actualites/L-ancien-du-psg-leandro-paredes-s-evanouit-en-pleine-interview-apres-sa-victoire-en-finale-de-copa-sudamericana/1745332#at_medium=RSS_feeds",
+    "title": "L'ancien du PSG Leandro Paredes s'évanouit en pleine interview après sa victoire en finale de Copa Sudamericana",
+    "ko": "파레데스, 코파 수다메리카나 우승 후 인터뷰 중 쓰러져",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T08:06:59.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파레데스"
+    ],
+    "playerTags": [],
+    "author": "Julie Vimond",
+    "transfer": null
+   },
+   {
+    "id": "fecbd17327f9",
+    "url": "https://www.record.pt/multimedia/videos/detalhe/leandro-paredes-desmaia-durante-entrevista-apos-vencer-taca-sul-americana",
+    "title": "Leandro Paredes desmaia durante entrevista após vencer Taça sul-americana",
+    "ko": "파레데스, 남미 컵 우승 인터뷰 중 쓰러져",
+    "source": "record",
+    "publishedAt": "2026-11-22T08:56:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "파레데스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 3,
+  "score": 2.54,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-22T07:58:17.000Z",
+   "viaQuote": false
+  },
+  "headline": "Leandro Paredes desmaia durante entrevista após vencer Taça sul-americana"
+ },
+ {
+  "slug": "cerny-rangers-transfer",
+  "mode": "llm",
+  "titleKo": "레인저스 체르니 재영입 추진",
+  "createdAt": "2026-11-17T17:15:00.000Z",
+  "updatedAt": "2026-11-22T08:45:00.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "lafc",
+   "besiktas"
+  ],
+  "players": [
+   "바츨라프 체르니",
+   "체르니"
+  ],
+  "sig": [
+   "vaclav",
+   "cerny"
+  ],
+  "articles": [
+   {
+    "id": "ed4848a11b1a",
+    "url": "https://www.footballinsider247.com/rangers/rangers-working-on-deal-to-re-sign-vaclav-cerny-after-twist-transfer-expert",
+    "title": "Rangers 'working on' deal to re-sign Vaclav Cerny after twist - Transfer expert",
+    "ko": "레인저스, 체르니 재영입 작업 중 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T17:15:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "바츨라프 체르니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "바츨라프 체르니",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "bad8f652d08d",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq702kr3xd38o?at_medium=RSS&at_campaign=rss",
+    "title": "Rangers explore return for Cerny - gossip",
+    "ko": "레인저스, 체르니 재영입 검토",
+    "source": "bbc",
+    "publishedAt": "2026-11-18T08:15:37.000Z",
+    "credited": null,
+    "clubs": [
+     "lafc"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "체르니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "체르니",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "3628866f6302",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/20/vaclav-cerny-sarti-belli-oldu",
+    "title": "Vaclav Cerny şartı belli oldu",
+    "ko": "베식타스, 체르니 영입 조건 확정",
+    "source": "fotomac",
+    "publishedAt": "2026-11-19T17:47:01.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "체르니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "체르니",
+     "from": null,
+     "to": "베식타스"
+    }
+   },
+   {
+    "id": "39d91d0ae189",
+    "url": "https://www.footballinsider247.com/rangers/sources-besiktas-ready-to-accept-offer-for-rangers-target-vaclav-cerny",
+    "title": "Sources: Besiktas ready to accept offer for Rangers target Vaclav Cerny",
+    "ko": "베식타스, 레인저스 관심 체르니 제안 수락 준비",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-20T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "체르니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "체르니",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "9879d4feadad",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/21/rangers-cerny-icin-hazir-kita",
+    "title": "Rangers, Cerny için hazır kıta",
+    "ko": "레인저스, 체르니 영입 준비 완료",
+    "source": "fotomac",
+    "publishedAt": "2026-11-20T17:06:50.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "체르니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "체르니",
+     "from": null,
+     "to": "레인저스"
+    }
+   },
+   {
+    "id": "ef7204ef8d77",
+    "url": "https://www.footballinsider247.com/rangers/sources-rangers-updated-stance-on-signing-vaclav-cerny-in-january-revealed",
+    "title": "Sources: Rangers’ updated stance on signing Vaclav Cerny in January revealed",
+    "ko": "레인저스, 체르니 1월 영입 입장 변화 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T08:45:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "체르니"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "체르니",
+     "from": null,
+     "to": "레인저스"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 3,
+  "score": 0.35,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "ed4848a11b1a",
+    "at": "2026-11-17T17:15:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   },
+   {
+    "id": "bad8f652d08d",
+    "at": "2026-11-18T08:15:37.000Z",
+    "source": "bbc",
+    "from": "negotiation",
+    "to": "interest"
+   },
+   {
+    "id": "3628866f6302",
+    "at": "2026-11-19T17:47:01.000Z",
+    "source": "fotomac",
+    "from": "interest",
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": {
+   "from": "interest",
+   "to": "negotiation",
+   "at": "2026-11-19T17:47:01.000Z",
+   "source": "fotomac"
+  },
+  "playerTags": [],
+  "transfer": {
+   "player": "체르니",
+   "from": null,
+   "to": "레인저스"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-17T17:15:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rangers, Cerny için hazır kıta"
+ },
+ {
+  "slug": "everton-manager-future",
+  "mode": "llm",
+  "titleKo": "에버턴 모예스 감독 거취 논란",
+  "createdAt": "2026-11-17T12:30:00.000Z",
+  "updatedAt": "2026-11-22T08:30:00.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "everton"
+  ],
+  "players": [
+   "잭 그릴리시",
+   "그릴리시",
+   "픽포드"
+  ],
+  "sig": [
+   "david",
+   "moyes"
+  ],
+  "articles": [
+   {
+    "id": "3798518d0948",
+    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
+    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
+    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T12:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "508038c6fa5f",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
+    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
+    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
+    "source": "lecho",
+    "publishedAt": "2026-11-17T17:01:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Theo Squires",
+    "transfer": null
+   },
+   {
+    "id": "0103274da076",
+    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
+    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
+    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T08:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e254ecd6068d",
+    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
+    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
+    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cf456d0f7a79",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
+    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
+    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
+    "source": "lecho",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "2654b96e85c7",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/moyes-everton-press-conference-live-34941714",
+    "title": "David Moyes press conference LIVE - Jack Grealish latest and Everton injury news for Brentford",
+    "ko": "모예스 기자회견 라이브…에버턴 브렌트퍼드전 부상 소식",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T12:47:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "7d63448a54b8",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-delivers-jack-grealish-34943246",
+    "title": "David Moyes delivers Jack Grealish Everton update and emphatic Jordan Pickford verdict",
+    "ko": "모예스, 그릴리시 에버턴 상황 업데이트와 픽포드 평가",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T14:52:22.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시",
+     "픽포드"
+    ],
+    "playerTags": [],
+    "author": "Paul Wheelock",
+    "transfer": null
+   },
+   {
+    "id": "7088c9dc3bb2",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/exclusive-david-moyes-reveals-what-34946108",
+    "title": "EXCLUSIVE: David Moyes reveals what he wants before leaving Everton as he makes future admission",
+    "ko": "모이스, 에버턴 떠나기 전 원하는 것 밝혀",
+    "source": "lecho",
+    "publishedAt": "2026-11-21T17:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null
+   },
+   {
+    "id": "bcf50b973f9a",
+    "url": "https://www.footballinsider247.com/everton/stefan-borson-rates-david-moyes-chances-of-quitting-everton-mid-season",
+    "title": "Stefan Borson rates David Moyes' chances of quitting Everton 'mid-season'",
+    "ko": "스티브 보슨, 모예스 에버턴 이탈 가능성 시즌 중 언급",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T08:30:00.000Z",
+    "credited": "스티브 보슨",
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.33,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "스티브 보슨",
+   "at": "2026-11-17T12:30:00.000Z",
+   "viaQuote": true
+  },
+  "headline": "EXCLUSIVE: David Moyes reveals what he wants before leaving Everton as he makes future admission"
  },
  {
   "slug": "inter-miami-columbus-2026-11-22",
@@ -10973,7 +11314,7 @@
   ],
   "recentSources": 7,
   "sourceCount": 7,
-  "score": 5.72,
+  "score": 5.07,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12214,7 +12555,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.15,
+  "score": 1.02,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12302,7 +12643,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.34,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12541,7 +12882,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 8,
-  "score": 1.22,
+  "score": 1.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12595,7 +12936,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.09,
+  "score": 0.96,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12826,7 +13167,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13015,7 +13356,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.97,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13063,7 +13404,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.94,
+  "score": 0.83,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13111,7 +13452,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.91,
+  "score": 0.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13392,7 +13733,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 1.55,
+  "score": 1.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13696,7 +14037,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 6,
-  "score": 1.21,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -13750,7 +14091,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.89,
+  "score": 0.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14049,7 +14390,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.87,
+  "score": 0.77,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14138,7 +14479,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15172,7 +15513,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 14,
-  "score": 1.21,
+  "score": 1.07,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15824,7 +16165,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.77,
+  "score": 0.68,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16203,9 +16544,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 11,
-  "score": 1.35,
+  "score": 0.95,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16272,7 +16613,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.68,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16329,7 +16670,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.36,
   "topTier": 3,
   "stageHistory": [
    {
@@ -16410,7 +16751,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16560,9 +16901,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17060,9 +17401,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 9,
-  "score": 0.08,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17107,9 +17448,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -19802,62 +20143,6 @@
   "headline": "Nations Championship: France vs South Africa in final as England face NZ rematch"
  },
  {
-  "slug": "david-raya-injury",
-  "mode": "llm",
-  "titleKo": "다비드 라야 부상, 아스널 골키퍼 공백 우려",
-  "createdAt": "2026-11-21T20:14:06.000Z",
-  "updatedAt": "2026-11-21T20:14:06.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal"
-  ],
-  "players": [
-   "다비드 라야"
-  ],
-  "sig": [
-   "david",
-   "raya"
-  ],
-  "articles": [
-   {
-    "id": "abc7c6f65f77",
-    "url": "https://www.mirror.co.uk/sport/football/news/david-raya-injury-mikel-arteta-37902681",
-    "title": "Mikel Arteta issues David Raya update after injury that 'could change everything' for Arsenal",
-    "ko": "아르테타 \"라야 부상, 모든 걸 바꿀 수 있다\"…아스널 골키퍼 우려",
-    "source": "mirror",
-    "publishedAt": "2026-11-21T20:14:06.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Ben Husband",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-21T20:14:06.000Z",
-   "viaQuote": false
-  },
-  "headline": "Mikel Arteta issues David Raya update after injury that 'could change everything' for Arsenal"
- },
- {
   "slug": "nottingham-forest-bournemouth-2026-11-21",
   "mode": "llm",
   "titleKo": "본머스 대 노팅엄 포레스트 경기 결과",
@@ -21882,104 +22167,6 @@
    "viaQuote": false
   },
   "headline": "Joedrick Pupe bezorgt Sint-Truiden met fenomenale hakbal verdiend gelijkspel tegen Charleroi, dat met veldspeler in doel eindigt"
- },
- {
-  "slug": "bayern-affairs-members-revenue-record",
-  "mode": "llm",
-  "titleKo": "바이에른 회원 50만 명·매출 역대 최고",
-  "createdAt": "2026-11-21T15:01:02.000Z",
-  "updatedAt": "2026-11-21T16:33:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "무시알라"
-  ],
-  "sig": [
-   "applaus",
-   "hainer",
-   "verkündung",
-   "mitglieder"
-  ],
-  "articles": [
-   {
-    "id": "e7e90dd1195c",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-bayern-munich-annonce-500-000-membres-et-un-chiffre-d-affaires-record/1745113#at_medium=RSS_feeds",
-    "title": "Le Bayern Munich annonce 500 000 membres et un chiffre d'affaires record",
-    "ko": "바이에른, 회원 50만 명 돌파·매출 역대 최고 발표",
-    "source": "lequipe",
-    "publishedAt": "2026-11-21T15:01:02.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "José Barroso",
-    "transfer": null
-   },
-   {
-    "id": "b5a36a0ad38d",
-    "url": "https://www.kicker.de/grosser-applaus-bei-hainer-verkuendung-bayern-knackt-die-500-000-mitglieder-1273542/video#omrss",
-    "title": "Großer Applaus bei Hainer-Verkündung: Bayern knackt die 500.000 Mitglieder",
-    "ko": "바이에른, 회원 50만 명 돌파…하이너 발표에 환호",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T15:53:52.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "72fd458279b8",
-    "url": "https://www.kicker.de/thema-musiala-und-die-mitgliederversammlung-spannend-wurde-es-erst-danach-1273558/video#omrss",
-    "title": "Thema Musiala und die Mitgliederversammlung: \"Spannend wurde es erst danach\"",
-    "ko": "무시알라와 회원총회, '진짜 흥미로운 건 그 다음'",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "jamal-musiala"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-21T15:01:02.000Z",
-   "viaQuote": false
-  },
-  "headline": "Thema Musiala und die Mitgliederversammlung: \"Spannend wurde es erst danach\""
  },
  {
   "slug": "lazio-lecce-2026-11-21",
