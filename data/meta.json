@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-22T15:27:05.111Z",
+ "updatedAt": "2026-11-22T16:15:15.996Z",
  "hot": [
-  "bruno-fernandes-man-utd-contract",
   "barcelona-villarreal-2026-11-22",
   "doue-injury",
-  "paredes-collapse-incident",
-  "inter-miami-columbus-2026-11-22"
+  "bruno-fernandes-man-utd-contract",
+  "liverpool-man-utd-2026-11-22",
+  "paris-fc-angers-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
-   "added": 0,
+   "items": 66,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 2,
+   "added": 1,
    "authorRate": 97
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 9,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,38 +95,36 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 14,
+   "added": 13,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 66
+   "added": 9,
+   "authorRate": 62
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
-   "ok": true,
-   "items": 40,
-   "added": 2,
-   "authorRate": 78
+   "ok": false,
+   "error": "fetch failed"
   },
   "waz": {
    "ok": true,
@@ -137,7 +135,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
@@ -149,19 +147,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -179,13 +177,13 @@
   "sun": {
    "ok": true,
    "items": 27,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -196,8 +194,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 0,
+   "items": 11,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -260,7 +258,7 @@
   },
   {
    "name": "루이스 홀",
-   "count": 22
+   "count": 23
   },
   {
    "name": "트레솔디",
@@ -324,12 +322,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 204,
-  "singleArticleRate": 41,
+  "recentIssues": 210,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 75
+    "count": 78
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -337,7 +335,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 35
+    "count": 37
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -345,15 +343,19 @@
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
-    "count": 31
+    "count": 30
+   },
+   {
+    "slug": "doue-injury",
+    "count": 21
    },
    {
     "slug": "bayern-koln-2026-11-19",
     "count": 21
    },
    {
-    "slug": "doue-injury",
-    "count": 18
+    "slug": "barcelona-villarreal-2026-11-22",
+    "count": 19
    },
    {
     "slug": "kane-injury",
@@ -362,10 +364,6 @@
    {
     "slug": "man-utd-affairs-drone-footage",
     "count": 16
-   },
-   {
-    "slug": "barcelona-villarreal-2026-11-22",
-    "count": 15
    },
    {
     "slug": "kane-olise-injury",
@@ -421,12 +419,30 @@
    ]
   },
   {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 6
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 3
+    },
+    {
+     "ko": "데이비드 모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Stefan Borson",
    "dictionary": null,
    "variants": [
     {
      "ko": "스테판 보슨",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "스테판 보르손",
@@ -444,7 +460,7 @@
    "variants": [
     {
      "ko": "마르쿠 실바",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "마르코 실바",
@@ -497,6 +513,42 @@
    ]
   },
   {
+   "en": "Vuskovic",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부스코비치",
+     "count": 2
+    },
+    {
+     "ko": "부치치",
+     "count": 1
+    },
+    {
+     "ko": "부쉬코비치",
+     "count": 1
+    },
+    {
+     "ko": "부코비치",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mikey Moore",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "미키 무어",
+     "count": 4
+    },
+    {
+     "ko": "마이키 무어",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Evanilson",
    "dictionary": null,
    "variants": [
@@ -520,28 +572,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vuskovic",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "부치치",
-     "count": 1
-    },
-    {
-     "ko": "부쉬코비치",
-     "count": 1
-    },
-    {
-     "ko": "부코비치",
-     "count": 1
-    },
-    {
-     "ko": "부스코비치",
      "count": 1
     }
    ]
@@ -571,20 +601,6 @@
     {
      "ko": "프릭",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Mikey Moore",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "미키 무어",
-     "count": 3
-    },
-    {
-     "ko": "마이키 무어",
-     "count": 1
     }
    ]
   },
@@ -1029,6 +1045,20 @@
    ]
   },
   {
+   "en": "De Ligt",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "더 리흐트",
+     "count": 1
+    },
+    {
+     "ko": "드 리흐트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1094,34 +1124,6 @@
     },
     {
      "ko": "자샤 묄더스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "튀헬",
-     "count": 1
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jesus Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호세스 오노노",
-     "count": 1
-    },
-    {
-     "ko": "헤수스 오노노",
      "count": 1
     }
    ]
@@ -1225,8 +1227,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 45,
-   "llm": 45
+   "collected": 103,
+   "llm": 103
   }
  },
  "llmErrors": []
