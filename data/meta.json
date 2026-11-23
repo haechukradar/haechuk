@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T16:28:07.873Z",
+ "updatedAt": "2026-11-23T17:27:48.410Z",
  "hot": [
   "david-raya-injury",
+  "man-utd-affairs-direction-20261123",
   "yoro-liverpool-discipline",
-  "endrick-injury",
-  "pochettino-man-utd-manager-future",
-  "man-city-affairs-charges-20261119"
+  "infantino-fifa-affairs-investor-deal",
+  "musiala-bayern-transfer"
  ],
  "days": [
   "2026-10-18",
@@ -47,20 +47,18 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 78,
-   "added": 4,
+   "items": 79,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
-   "ok": true,
-   "items": 64,
-   "added": 3,
-   "authorRate": 95
+   "ok": false,
+   "error": "HTTP 403"
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -72,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -84,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,38 +94,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 86
+   "added": 4,
+   "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
    "added": 2,
-   "authorRate": 75
+   "authorRate": 73
   },
   "waz": {
    "ok": true,
@@ -144,7 +142,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -180,25 +178,25 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 1,
+   "items": 9,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -253,7 +251,7 @@
   },
   {
    "name": "다비드 라야",
-   "count": 28
+   "count": 30
   },
   {
    "name": "이스테방",
@@ -325,16 +323,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
-  "singleArticleRate": 45,
+  "recentIssues": 213,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 83
+    "count": 82
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 80
+    "count": 78
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -361,20 +359,20 @@
     "count": 25
    },
    {
+    "slug": "kane-injury",
+    "count": 19
+   },
+   {
     "slug": "atalanta-inter-2026-11-22",
     "count": 18
    },
    {
-    "slug": "kane-injury",
-    "count": 18
+    "slug": "musiala-bayern-transfer",
+    "count": 16
    },
    {
     "slug": "bayern-koln-2026-11-19",
     "count": 16
-   },
-   {
-    "slug": "musiala-bayern-transfer",
-    "count": 15
    },
    {
     "slug": "kane-olise-injury",
@@ -456,24 +454,6 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보슨",
-     "count": 6
-    },
-    {
-     "ko": "스테판 보르손",
-     "count": 2
-    },
-    {
-     "ko": "스티브 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -482,11 +462,11 @@
      "count": 4
     },
     {
-     "ko": "파울루 폰세카",
-     "count": 3
+     "ko": "폰세카",
+     "count": 2
     },
     {
-     "ko": "폰세카",
+     "ko": "파울루 폰세카",
      "count": 2
     }
    ]
@@ -516,6 +496,24 @@
     {
      "ko": "키스 와이니스",
      "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 4
+    },
+    {
+     "ko": "스테판 보르손",
+     "count": 2
+    },
+    {
+     "ko": "스티브 보슨",
+     "count": 1
     }
    ]
   },
@@ -588,6 +586,24 @@
    ]
   },
   {
+   "en": "Nmecha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "은메차",
+     "count": 4
+    },
+    {
+     "ko": "누메차",
+     "count": 1
+    },
+    {
+     "ko": "은마하",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Hoeneß",
    "dictionary": null,
    "variants": [
@@ -597,6 +613,20 @@
     },
     {
      "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 4
+    },
+    {
+     "ko": "파리오리",
      "count": 1
     }
    ]
@@ -616,19 +646,23 @@
    ]
   },
   {
-   "en": "Nmecha",
+   "en": "Senne Lammens",
    "dictionary": null,
    "variants": [
     {
-     "ko": "은메차",
-     "count": 3
+     "ko": "람멘스",
+     "count": 2
     },
     {
-     "ko": "누메차",
+     "ko": "센 라멘스",
      "count": 1
     },
     {
-     "ko": "은마하",
+     "ko": "셴 라먼스",
+     "count": 1
+    },
+    {
+     "ko": "senne lammens",
      "count": 1
     }
    ]
@@ -666,23 +700,19 @@
    ]
   },
   {
-   "en": "Senne Lammens",
+   "en": "Nicolò Tresoldi",
    "dictionary": null,
    "variants": [
     {
-     "ko": "람멘스",
+     "ko": "니콜로 트레졸디",
+     "count": 2
+    },
+    {
+     "ko": "니콜로 트레솔디",
      "count": 1
     },
     {
-     "ko": "센 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "셴 라먼스",
-     "count": 1
-    },
-    {
-     "ko": "senne lammens",
+     "ko": "트레솔디",
      "count": 1
     }
    ]
@@ -816,6 +846,20 @@
    ]
   },
   {
+   "en": "Frick",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프릭",
+     "count": 2
+    },
+    {
+     "ko": "프리크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marvin Compper",
    "dictionary": null,
    "variants": [
@@ -830,24 +874,6 @@
    ]
   },
   {
-   "en": "Nicolò Tresoldi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "니콜로 트레솔디",
-     "count": 1
-    },
-    {
-     "ko": "트레솔디",
-     "count": 1
-    },
-    {
-     "ko": "니콜로 트레졸디",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "André Villas-Boas",
    "dictionary": null,
    "variants": [
@@ -857,6 +883,20 @@
     },
     {
      "ko": "빌라스보아스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Glazers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "글레이저 가문",
+     "count": 2
+    },
+    {
+     "ko": "글레이저",
      "count": 1
     }
    ]
@@ -1120,48 +1160,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Lucas Da Cunha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루카스 다 쿤야",
-     "count": 1
-    },
-    {
-     "ko": "루카스 다 쿠냐",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lassine Sinayoko",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라시네 시나요코",
-     "count": 1
-    },
-    {
-     "ko": "라신 시나요코",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Urbig",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "우르비히",
-     "count": 1
-    },
-    {
-     "ko": "우르빅",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1266,8 +1264,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 98,
-   "llm": 98
+   "collected": 150,
+   "llm": 150
   }
  },
  "llmErrors": []
