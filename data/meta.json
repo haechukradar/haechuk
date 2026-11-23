@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T19:29:33.581Z",
+ "updatedAt": "2026-11-23T20:24:30.574Z",
  "hot": [
   "david-raya-injury",
-  "man-utd-affairs-direction-20261123",
-  "yoro-liverpool-discipline",
   "infantino-fifa-affairs-investor-deal",
-  "musiala-bayern-transfer"
+  "yoro-liverpool-discipline",
+  "man-utd-affairs-direction-20261123",
+  "spain-fiji-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -63,9 +63,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 22,
+   "added": 14,
+   "authorRate": 91
   },
   "athletic": {
    "ok": true,
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -100,19 +100,19 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 3,
    "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -136,7 +136,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -172,12 +172,12 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
+   "items": 29,
    "added": 2,
    "authorRate": 100
   },
@@ -195,8 +195,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 2,
+   "items": 11,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -251,7 +251,7 @@
   },
   {
    "name": "다비드 라야",
-   "count": 30
+   "count": 31
   },
   {
    "name": "이스테방",
@@ -306,6 +306,10 @@
    "count": 17
   },
   {
+   "name": "요로",
+   "count": 17
+  },
+  {
    "name": "발로군",
    "count": 16
   },
@@ -314,25 +318,21 @@
    "count": 16
   },
   {
-   "name": "요로",
-   "count": 16
-  },
-  {
    "name": "벤 화이트",
    "count": 16
   }
  ],
  "issueHealth": {
-  "recentIssues": 216,
+  "recentIssues": 218,
   "singleArticleRate": 44,
   "broad": [
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 80
+    "count": 81
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 77
+    "count": 75
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -340,15 +340,15 @@
    },
    {
     "slug": "man-city-fulham-2026-11-20",
-    "count": 34
+    "count": 33
+   },
+   {
+    "slug": "yoro-liverpool-discipline",
+    "count": 28
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
     "count": 28
-   },
-   {
-    "slug": "yoro-liverpool-discipline",
-    "count": 27
    },
    {
     "slug": "doue-injury",
@@ -369,6 +369,10 @@
    {
     "slug": "musiala-bayern-transfer",
     "count": 16
+   },
+   {
+    "slug": "david-raya-injury",
+    "count": 15
    },
    {
     "slug": "kane-olise-injury",
@@ -664,6 +668,24 @@
    ]
   },
   {
+   "en": "Nicolò Tresoldi",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "니콜로 트레졸디",
+     "count": 3
+    },
+    {
+     "ko": "니콜로 트레솔디",
+     "count": 1
+    },
+    {
+     "ko": "트레솔디",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "McBurnie",
    "dictionary": null,
    "variants": [
@@ -691,24 +713,6 @@
     },
     {
      "ko": "앨런 셔러",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nicolò Tresoldi",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "니콜로 트레졸디",
-     "count": 2
-    },
-    {
-     "ko": "니콜로 트레솔디",
-     "count": 1
-    },
-    {
-     "ko": "트레솔디",
      "count": 1
     }
    ]
@@ -805,20 +809,6 @@
     },
     {
      "ko": "카를로스 비첸스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mille",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "밀",
-     "count": 2
-    },
-    {
-     "ko": "밀레",
      "count": 1
     }
    ]
@@ -1023,6 +1013,20 @@
     },
     {
      "ko": "모리스 코엔",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marquinhos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르퀴뇨스",
+     "count": 1
+    },
+    {
+     "ko": "마르키뇨스",
      "count": 1
     }
    ]
@@ -1256,8 +1260,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 200,
-   "llm": 200
+   "collected": 244,
+   "llm": 244
   }
  },
  "llmErrors": []
