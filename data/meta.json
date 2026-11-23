@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T08:02:02.054Z",
+ "updatedAt": "2026-11-23T09:34:14.831Z",
  "hot": [
+  "marseille-le-mans-2026-11-22",
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
   "yoro-liverpool-discipline",
-  "atalanta-inter-2026-11-22",
-  "getafe-atletico-2026-11-22"
+  "atalanta-inter-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,20 +46,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 3,
+   "items": 80,
+   "added": 6,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 5,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,25 +95,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 84
+   "added": 5,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -126,7 +126,7 @@
    "ok": true,
    "items": 40,
    "added": 1,
-   "authorRate": 75
+   "authorRate": 73
   },
   "waz": {
    "ok": true,
@@ -137,19 +137,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -179,7 +179,7 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
@@ -191,13 +191,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
-   "added": 4,
+   "items": 10,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -324,20 +324,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 215,
+  "recentIssues": 216,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 93
+    "count": 92
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 78
+    "count": 77
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 43
+    "count": 42
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -360,11 +360,11 @@
     "count": 18
    },
    {
-    "slug": "bayern-koln-2026-11-19",
-    "count": 18
+    "slug": "atalanta-inter-2026-11-22",
+    "count": 17
    },
    {
-    "slug": "atalanta-inter-2026-11-22",
+    "slug": "bayern-koln-2026-11-19",
     "count": 17
    },
    {
@@ -375,34 +375,34 @@
  },
  "nameReport": [
   {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 14
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gary Neville",
    "dictionary": null,
    "variants": [
     {
      "ko": "게리 네빌",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "개리 네빌",
-     "count": 5
+     "count": 6
     },
     {
      "ko": "네빌",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 13
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
     }
    ]
   },
@@ -457,6 +457,28 @@
    ]
   },
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르쿠 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르코 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 2
+    },
+    {
+     "ko": "마르쿠 시우바",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
@@ -470,28 +492,6 @@
     },
     {
      "ko": "폰세카",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르쿠 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 2
-    },
-    {
-     "ko": "마르코 실바",
-     "count": 2
-    },
-    {
-     "ko": "마르쿠 시우바",
      "count": 1
     }
    ]
@@ -611,11 +611,11 @@
      "count": 3
     },
     {
-     "ko": "티에르노 바리",
+     "ko": "토마스 배리",
      "count": 1
     },
     {
-     "ko": "토마스 배리",
+     "ko": "티에르노 바리",
      "count": 1
     }
    ]
@@ -657,6 +657,28 @@
    ]
   },
   {
+   "en": "Thioune",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티우네",
+     "count": 1
+    },
+    {
+     "ko": "티운",
+     "count": 1
+    },
+    {
+     "ko": "투운",
+     "count": 1
+    },
+    {
+     "ko": "틸레만",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marvin Compper",
    "dictionary": null,
    "variants": [
@@ -667,6 +689,20 @@
     {
      "ko": "마르빈 콤퍼",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Pedro Emanuel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페드루 에마누엘",
+     "count": 3
+    },
+    {
+     "ko": "페드로 에마누엘",
+     "count": 1
     }
    ]
   },
@@ -767,24 +803,6 @@
    ]
   },
   {
-   "en": "Thioune",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티우네",
-     "count": 1
-    },
-    {
-     "ko": "티운",
-     "count": 1
-    },
-    {
-     "ko": "투운",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Alan Shearer",
    "dictionary": null,
    "variants": [
@@ -813,6 +831,20 @@
    ]
   },
   {
+   "en": "Füllkrug",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퓔크루크",
+     "count": 2
+    },
+    {
+     "ko": "퓰크루크",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Henri Koudossou",
    "dictionary": null,
    "variants": [
@@ -826,34 +858,6 @@
     },
     {
      "ko": "헨리 쿠두소우",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pedro Emanuel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페드루 에마누엘",
-     "count": 2
-    },
-    {
-     "ko": "페드로 에마누엘",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Frick",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프리크",
-     "count": 2
-    },
-    {
-     "ko": "프릭",
      "count": 1
     }
    ]
@@ -946,6 +950,24 @@
     },
     {
      "ko": "키닝",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Patrick Videira",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파트리크 비디라",
+     "count": 1
+    },
+    {
+     "ko": "파트리크 비데이라",
+     "count": 1
+    },
+    {
+     "ko": "패트릭 비에이라",
      "count": 1
     }
    ]
@@ -1049,20 +1071,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓰크루크",
-     "count": 1
-    },
-    {
-     "ko": "퓔크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Inacio",
    "dictionary": null,
    "variants": [
@@ -1072,34 +1080,6 @@
     },
     {
      "ko": "인야시오",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gerard Martín",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제라르 마르틴",
-     "count": 1
-    },
-    {
-     "ko": "제라드 마르틴",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jules Ahoka",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "줄스 아호카",
-     "count": 1
-    },
-    {
-     "ko": "줄 아호카",
      "count": 1
     }
    ]
@@ -1142,6 +1122,34 @@
     },
     {
      "ko": "마르키뉴스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vasco Seabra",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바스쿠 세브라",
+     "count": 1
+    },
+    {
+     "ko": "바스쿠 세아브라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Janico",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "자니코",
+     "count": 1
+    },
+    {
+     "ko": "야니코",
      "count": 1
     }
    ]
@@ -1245,8 +1253,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 660,
-   "llm": 660
+   "collected": 708,
+   "llm": 708
   }
  },
  "llmErrors": []
