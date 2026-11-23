@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T03:54:13.046Z",
+ "updatedAt": "2026-11-23T05:07:39.121Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
-  "atalanta-inter-2026-11-22",
   "yoro-liverpool-discipline",
-  "hull-brighton-2026-11-22"
+  "atalanta-inter-2026-11-22",
+  "ac-milan-frosinone-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -64,9 +64,9 @@
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 19,
+   "added": 1,
+   "authorRate": 89
   },
   "athletic": {
    "ok": true,
@@ -101,8 +101,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
-   "authorRate": 80
+   "added": 5,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -113,13 +113,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
@@ -149,13 +149,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 14,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 220,
+  "recentIssues": 218,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 95
+    "count": 94
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 78
+    "count": 79
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -393,6 +393,24 @@
    ]
   },
   {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "게리 네빌",
+     "count": 6
+    },
+    {
+     "ko": "개리 네빌",
+     "count": 5
+    },
+    {
+     "ko": "네빌",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -403,24 +421,6 @@
     {
      "ko": "윌리엄스바넷",
      "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Gary Neville",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "게리 네빌",
-     "count": 6
-    },
-    {
-     "ko": "개리 네빌",
-     "count": 4
-    },
-    {
-     "ko": "네빌",
-     "count": 2
     }
    ]
   },
@@ -1241,8 +1241,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 589,
-   "llm": 589
+   "collected": 602,
+   "llm": 602
   }
  },
  "llmErrors": []
