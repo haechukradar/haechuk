@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T11:35:17.632Z",
+ "updatedAt": "2026-11-23T12:44:07.520Z",
  "hot": [
   "yoro-liverpool-discipline",
+  "david-raya-injury",
   "liverpool-man-utd-2026-11-22",
-  "watford-manager-future",
   "pochettino-man-utd-manager-future",
-  "marseille-le-mans-2026-11-22"
+  "chelsea-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -46,14 +46,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 82,
-   "added": 1,
+   "items": 84,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 62,
-   "added": 2,
+   "items": 63,
+   "added": 1,
    "authorRate": 95
   },
   "sky": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -101,8 +101,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 86
+   "added": 3,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
@@ -113,19 +113,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 73
   },
   "waz": {
@@ -137,19 +137,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,43 +161,43 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 23,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 6,
+   "items": 11,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -212,7 +212,11 @@
   },
   {
    "name": "프레스티아니",
-   "count": 53
+   "count": 54
+  },
+  {
+   "name": "잭 그릴리시",
+   "count": 41
   },
   {
    "name": "루카쿠",
@@ -220,10 +224,6 @@
   },
   {
    "name": "오워노",
-   "count": 40
-  },
-  {
-   "name": "잭 그릴리시",
    "count": 40
   },
   {
@@ -275,6 +275,10 @@
    "count": 20
   },
   {
+   "name": "다비드 라야",
+   "count": 20
+  },
+  {
    "name": "윌 랭크셔",
    "count": 18
   },
@@ -284,10 +288,6 @@
   },
   {
    "name": "지단",
-   "count": 18
-  },
-  {
-   "name": "다비드 라야",
    "count": 18
   },
   {
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 215,
-  "singleArticleRate": 42,
+  "recentIssues": 217,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 92
+    "count": 89
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 79
+    "count": 80
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -353,15 +353,15 @@
    },
    {
     "slug": "doue-injury",
-    "count": 23
+    "count": 24
+   },
+   {
+    "slug": "yoro-liverpool-discipline",
+    "count": 20
    },
    {
     "slug": "kane-injury",
     "count": 18
-   },
-   {
-    "slug": "yoro-liverpool-discipline",
-    "count": 17
    },
    {
     "slug": "atalanta-inter-2026-11-22",
@@ -393,20 +393,6 @@
     {
      "ko": "네빌",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 12
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
     }
    ]
   },
@@ -443,19 +429,15 @@
    ]
   },
   {
-   "en": "Stefan Borson",
+   "en": "Mourinho",
    "dictionary": null,
    "variants": [
     {
-     "ko": "스테판 보슨",
-     "count": 6
+     "ko": "무리뉴",
+     "count": 10
     },
     {
-     "ko": "스테판 보르손",
-     "count": 3
-    },
-    {
-     "ko": "스티브 보슨",
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -483,12 +465,30 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 6
+    },
+    {
+     "ko": "스테판 보르손",
+     "count": 2
+    },
+    {
+     "ko": "스티브 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulo Fonseca",
    "dictionary": null,
    "variants": [
     {
      "ko": "파울루 퐁세카",
-     "count": 5
+     "count": 4
     },
     {
      "ko": "파울루 폰세카",
@@ -551,6 +551,20 @@
    ]
   },
   {
+   "en": "Baum",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바움",
+     "count": 5
+    },
+    {
+     "ko": "바우마",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gonçalo Ramos",
    "dictionary": null,
    "variants": [
@@ -583,20 +597,6 @@
    ]
   },
   {
-   "en": "Baum",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바움",
-     "count": 4
-    },
-    {
-     "ko": "바우마",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Evanilson",
    "dictionary": null,
    "variants": [
@@ -620,6 +620,20 @@
     },
     {
      "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Woltemade",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "볼테마데",
+     "count": 4
+    },
+    {
+     "ko": "보르테마데",
      "count": 1
     }
    ]
@@ -693,34 +707,6 @@
     {
      "ko": "마르빈 콤퍼",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Alan Shearer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "앨런 시어러",
-     "count": 3
-    },
-    {
-     "ko": "앨런 셔러",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Woltemade",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "볼테마데",
-     "count": 3
-    },
-    {
-     "ko": "보르테마데",
-     "count": 1
     }
    ]
   },
@@ -807,20 +793,6 @@
    ]
   },
   {
-   "en": "Nuno Dias",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "누노 디아스",
-     "count": 2
-    },
-    {
-     "ko": "누누 디아스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kniat",
    "dictionary": null,
    "variants": [
@@ -848,6 +820,20 @@
     },
     {
      "ko": "에메냐",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Alan Shearer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앨런 시어러",
+     "count": 2
+    },
+    {
+     "ko": "앨런 셔러",
      "count": 1
     }
    ]
@@ -894,6 +880,20 @@
     },
     {
      "ko": "밀레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "André Villas-Boas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "빌라스 보아스",
+     "count": 2
+    },
+    {
+     "ko": "빌라스보아스",
      "count": 1
     }
    ]
@@ -1001,62 +1001,6 @@
    ]
   },
   {
-   "en": "Sven Vermant",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스벤 베르망",
-     "count": 1
-    },
-    {
-     "ko": "스벤 베르만트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Justin Devenny",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "저스틴 데버니",
-     "count": 1
-    },
-    {
-     "ko": "저스틴 데번니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Pellegrini",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "펠레그리니",
-     "count": 1
-    },
-    {
-     "ko": "페예그리니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Milos Kerkez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "케르케즈",
-     "count": 1
-    },
-    {
-     "ko": "케르케스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1150,6 +1094,62 @@
     },
     {
      "ko": "포토니크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Nuno Dias",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "누노 디아스",
+     "count": 1
+    },
+    {
+     "ko": "누누 디아스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Antonee Robinson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앤터니 로빈슨",
+     "count": 1
+    },
+    {
+     "ko": "앤토니 로빈슨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thomas Tuchel",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "튀헬",
+     "count": 1
+    },
+    {
+     "ko": "토마스 투헬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesus Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호세스 오노노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오노노",
      "count": 1
     }
    ]
@@ -1253,8 +1253,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 791,
-   "llm": 791
+   "collected": 842,
+   "llm": 842
   }
  },
  "llmErrors": []
