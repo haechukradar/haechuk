@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T10:44:00.717Z",
+ "updatedAt": "2026-11-23T11:35:17.632Z",
  "hot": [
   "yoro-liverpool-discipline",
   "liverpool-man-utd-2026-11-22",
+  "watford-manager-future",
   "pochettino-man-utd-manager-future",
-  "marseille-le-mans-2026-11-22",
-  "leeds-chelsea-2026-11-22"
+  "marseille-le-mans-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,14 +46,14 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
+   "items": 82,
    "added": 1,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 64,
-   "added": 0,
+   "items": 62,
+   "added": 2,
    "authorRate": 95
   },
   "sky": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,19 +95,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -119,7 +119,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -137,19 +137,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,31 +161,31 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 22,
-   "added": 0,
+   "items": 23,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 3,
+   "items": 30,
+   "added": 5,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -196,8 +196,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 0,
+   "items": 13,
+   "added": 6,
    "authorRate": 0
   }
  },
@@ -212,7 +212,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 52
+   "count": 53
   },
   {
    "name": "루카쿠",
@@ -264,7 +264,7 @@
   },
   {
    "name": "티에르노 배리",
-   "count": 21
+   "count": 22
   },
   {
    "name": "트레솔디",
@@ -272,7 +272,7 @@
   },
   {
    "name": "반 다이크",
-   "count": 19
+   "count": 20
   },
   {
    "name": "윌 랭크셔",
@@ -284,6 +284,10 @@
   },
   {
    "name": "지단",
+   "count": 18
+  },
+  {
+   "name": "다비드 라야",
    "count": 18
   },
   {
@@ -300,10 +304,6 @@
   },
   {
    "name": "트루빈",
-   "count": 17
-  },
-  {
-   "name": "다비드 라야",
    "count": 17
   },
   {
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 213,
-  "singleArticleRate": 41,
+  "recentIssues": 215,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 90
+    "count": 92
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 78
+    "count": 79
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -358,6 +358,10 @@
    {
     "slug": "kane-injury",
     "count": 18
+   },
+   {
+    "slug": "yoro-liverpool-discipline",
+    "count": 17
    },
    {
     "slug": "atalanta-inter-2026-11-22",
@@ -393,6 +397,20 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 12
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "David Moyes",
    "dictionary": null,
    "variants": [
@@ -406,20 +424,6 @@
     },
     {
      "ko": "데이비드 모이스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 11
-    },
-    {
-     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -561,6 +565,24 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 4
+    },
+    {
+     "ko": "토마스 배리",
+     "count": 1
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Baum",
    "dictionary": null,
    "variants": [
@@ -598,24 +620,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 배리",
-     "count": 3
-    },
-    {
-     "ko": "토마스 배리",
-     "count": 1
-    },
-    {
-     "ko": "티에르노 바리",
      "count": 1
     }
    ]
@@ -817,38 +821,6 @@
    ]
   },
   {
-   "en": "Füllkrug",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퓔크루크",
-     "count": 2
-    },
-    {
-     "ko": "퓰크루크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Henri Koudossou",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "헨리 쿠두수",
-     "count": 1
-    },
-    {
-     "ko": "앙리 쿠두수",
-     "count": 1
-    },
-    {
-     "ko": "헨리 쿠두소우",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kniat",
    "dictionary": null,
    "variants": [
@@ -922,6 +894,20 @@
     },
     {
      "ko": "밀레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Wagner",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바그너",
+     "count": 2
+    },
+    {
+     "ko": "빈터",
      "count": 1
     }
    ]
@@ -1024,6 +1010,20 @@
     },
     {
      "ko": "스벤 베르만트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Justin Devenny",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "저스틴 데버니",
+     "count": 1
+    },
+    {
+     "ko": "저스틴 데번니",
      "count": 1
     }
    ]
@@ -1253,8 +1253,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 740,
-   "llm": 740
+   "collected": 791,
+   "llm": 791
   }
  },
  "llmErrors": []
