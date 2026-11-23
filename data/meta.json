@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T20:24:30.574Z",
+ "updatedAt": "2026-11-23T21:16:47.628Z",
  "hot": [
   "david-raya-injury",
   "infantino-fifa-affairs-investor-deal",
   "yoro-liverpool-discipline",
-  "man-utd-affairs-direction-20261123",
-  "spain-fiji-2026-11-22"
+  "tarkowski-discipline",
+  "man-utd-affairs-direction-20261123"
  ],
  "days": [
   "2026-10-18",
@@ -48,7 +48,7 @@
   "bbc": {
    "ok": true,
    "items": 79,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -58,14 +58,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 22,
-   "added": 14,
-   "authorRate": 91
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,14 +94,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 78
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -112,13 +112,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -136,7 +136,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -172,7 +172,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
@@ -184,19 +184,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 4,
+   "items": 10,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
+  "recentIssues": 222,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -332,7 +332,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 75
+    "count": 77
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -1144,15 +1144,15 @@
    ]
   },
   {
-   "en": "Jesus Owono",
+   "en": "Mille",
    "dictionary": null,
    "variants": [
     {
-     "ko": "호세스 오노노",
+     "ko": "밀",
      "count": 1
     },
     {
-     "ko": "헤수스 오노노",
+     "ko": "밀레",
      "count": 1
     }
    ]
@@ -1260,8 +1260,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 244,
-   "llm": 244
+   "collected": 272,
+   "llm": 272
   }
  },
  "llmErrors": []
