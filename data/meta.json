@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T21:16:47.628Z",
+ "updatedAt": "2026-11-23T22:18:02.631Z",
  "hot": [
+  "monza-fiorentina-2026-11-23",
   "david-raya-injury",
   "infantino-fifa-affairs-investor-deal",
-  "yoro-liverpool-discipline",
   "tarkowski-discipline",
-  "man-utd-affairs-direction-20261123"
+  "yoro-liverpool-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -47,8 +47,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 1,
+   "items": 80,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,14 +94,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 80
+   "added": 6,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -112,7 +112,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -172,30 +172,30 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 10,
+   "items": 7,
    "added": 0,
    "authorRate": 0
   }
@@ -207,7 +207,7 @@
   },
   {
    "name": "JJ 가브리엘",
-   "count": 61
+   "count": 62
   },
   {
    "name": "프레스티아니",
@@ -230,12 +230,12 @@
    "count": 39
   },
   {
-   "name": "호나우지뉴",
+   "name": "베르나르두 실바",
    "count": 38
   },
   {
-   "name": "베르나르두 실바",
-   "count": 37
+   "name": "호나우지뉴",
+   "count": 38
   },
   {
    "name": "웨인 루니",
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 222,
+  "recentIssues": 219,
   "singleArticleRate": 44,
   "broad": [
    {
@@ -332,7 +332,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 77
+    "count": 78
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -360,7 +360,7 @@
    },
    {
     "slug": "kane-injury",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "atalanta-inter-2026-11-22",
@@ -372,10 +372,6 @@
    },
    {
     "slug": "david-raya-injury",
-    "count": 15
-   },
-   {
-    "slug": "kane-olise-injury",
     "count": 15
    }
   ]
@@ -414,6 +410,24 @@
    ]
   },
   {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 6
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 4
+    },
+    {
+     "ko": "데이비드 모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -431,24 +445,6 @@
     },
     {
      "ko": "마르쿠 시우바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 5
-    },
-    {
-     "ko": "데이비드 모예스",
-     "count": 4
-    },
-    {
-     "ko": "데이비드 모이스",
      "count": 1
     }
    ]
@@ -1144,15 +1140,15 @@
    ]
   },
   {
-   "en": "Mille",
+   "en": "Ivan Toney",
    "dictionary": null,
    "variants": [
     {
-     "ko": "밀",
+     "ko": "이반 토니",
      "count": 1
     },
     {
-     "ko": "밀레",
+     "ko": "아이반 토니",
      "count": 1
     }
    ]
@@ -1260,8 +1256,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 272,
-   "llm": 272
+   "collected": 315,
+   "llm": 315
   }
  },
  "llmErrors": []
