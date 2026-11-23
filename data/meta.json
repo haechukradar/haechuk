@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T09:34:14.831Z",
+ "updatedAt": "2026-11-23T10:44:00.717Z",
  "hot": [
-  "marseille-le-mans-2026-11-22",
+  "yoro-liverpool-discipline",
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
-  "yoro-liverpool-discipline",
-  "atalanta-inter-2026-11-22"
+  "marseille-le-mans-2026-11-22",
+  "leeds-chelsea-2026-11-22"
  ],
  "days": [
   "2026-10-18",
@@ -46,8 +46,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 6,
+   "items": 81,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,13 +95,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 86
   },
   "fblondon": {
@@ -119,13 +119,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 73
   },
   "waz": {
@@ -143,13 +143,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,7 +161,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -185,19 +185,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 6,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -324,20 +324,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 216,
+  "recentIssues": 213,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 92
+    "count": 90
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 77
+    "count": 78
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 42
+    "count": 41
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -380,7 +380,7 @@
    "variants": [
     {
      "ko": "게리 네빌",
-     "count": 7
+     "count": 9
     },
     {
      "ko": "개리 네빌",
@@ -389,20 +389,6 @@
     {
      "ko": "네빌",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 13
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
     }
    ]
   },
@@ -420,6 +406,20 @@
     },
     {
      "ko": "데이비드 모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 11
+    },
+    {
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -448,7 +448,7 @@
     },
     {
      "ko": "스테판 보르손",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "스티브 보슨",
@@ -693,15 +693,15 @@
    ]
   },
   {
-   "en": "Pedro Emanuel",
+   "en": "Alan Shearer",
    "dictionary": null,
    "variants": [
     {
-     "ko": "페드루 에마누엘",
+     "ko": "앨런 시어러",
      "count": 3
     },
     {
-     "ko": "페드로 에마누엘",
+     "ko": "앨런 셔러",
      "count": 1
     }
    ]
@@ -798,20 +798,6 @@
     },
     {
      "ko": "아이반 토니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Alan Shearer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "앨런 시어러",
-     "count": 2
-    },
-    {
-     "ko": "앨런 셔러",
      "count": 1
     }
    ]
@@ -963,11 +949,11 @@
      "count": 1
     },
     {
-     "ko": "파트리크 비데이라",
+     "ko": "패트릭 비에이라",
      "count": 1
     },
     {
-     "ko": "패트릭 비에이라",
+     "ko": "파트리크 비데이라",
      "count": 1
     }
    ]
@@ -1071,20 +1057,6 @@
    ]
   },
   {
-   "en": "Inacio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이나시오",
-     "count": 1
-    },
-    {
-     "ko": "인야시오",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1150,6 +1122,34 @@
     },
     {
      "ko": "야니코",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jeremy Jacquet",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "자쿠",
+     "count": 1
+    },
+    {
+     "ko": "제레미 자케",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Potocnik",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포토츠니크",
+     "count": 1
+    },
+    {
+     "ko": "포토니크",
      "count": 1
     }
    ]
@@ -1253,8 +1253,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 708,
-   "llm": 708
+   "collected": 740,
+   "llm": 740
   }
  },
  "llmErrors": []

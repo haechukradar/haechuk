@@ -1,63 +1,10 @@
 [
  {
-  "slug": "brentford-everton-2026-11-22",
-  "mode": "llm",
-  "titleKo": "브렌트퍼드 대 에버턴 경기",
-  "createdAt": "2026-11-23T09:28:42.000Z",
-  "updatedAt": "2026-11-23T09:28:42.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "brentford",
-   "everton"
-  ],
-  "players": [],
-  "sig": [
-   "bet"
-  ],
-  "articles": [
-   {
-    "id": "0785df8cce02",
-    "url": "https://www.thesun.co.uk/sport/41112227/brentford-everton-talksport-bet-offer/",
-    "title": "Brentford vs Everton: Bet £10+ on football and get up to £30 in free bets | talkSPORT BET",
-    "ko": "브렌트퍼드 대 에버턴 경기 베팅 광고",
-    "source": "sun",
-    "publishedAt": "2026-11-23T09:28:42.000Z",
-    "credited": null,
-    "clubs": [
-     "brentford",
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.59,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-23T09:28:42.000Z",
-   "viaQuote": false
-  },
-  "headline": "Brentford vs Everton: Bet £10+ on football and get up to £30 in free bets | talkSPORT BET"
- },
- {
   "slug": "liverpool-man-utd-2026-11-22",
   "mode": "llm",
   "titleKo": "리버풀 대 맨유 프리미어리그 경기",
   "createdAt": "2026-11-16T14:49:58.000Z",
-  "updatedAt": "2026-11-23T09:22:24.000Z",
+  "updatedAt": "2026-11-23T10:37:20.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -89,7 +36,8 @@
    "마이누",
    "바르콜라",
    "리오 은구모하",
-   "브래들리 바르콜라"
+   "브래들리 바르콜라",
+   "디오고 달롯"
   ],
   "sig": [
    "fortress"
@@ -1964,11 +1912,74 @@
     "playerTags": [],
     "author": "Ben Crawford",
     "transfer": null
+   },
+   {
+    "id": "c07e1943f3a4",
+    "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-liverpool-37905200",
+    "title": "Bruno Fernandes 'very proud' of Man Utd with Liverpool result 'hiding good things'",
+    "ko": "브루노 페르난데스, 리버풀전 결과 속 맨유에 자부심",
+    "source": "mirror",
+    "publishedAt": "2026-11-23T10:16:53.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": "Samuel Meade",
+    "transfer": null
+   },
+   {
+    "id": "35724e7f251c",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/national-media-deliver-liverpool-verdict-34952404",
+    "title": "National media deliver Liverpool verdict after Man United 'ripped asunder' - 'They can dream'",
+    "ko": "리버풀 승리 뒤 전국 매체 평가 쏟아져",
+    "source": "lecho",
+    "publishedAt": "2026-11-23T10:28:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Gorst",
+    "transfer": null
+   },
+   {
+    "id": "f6b0d48fda45",
+    "url": "https://www.thesun.co.uk/sport/41112790/diogo-dalot-gta-6-man-utd-liverpool/",
+    "title": "Diogo Dalot trolled by hilarious GTA 6 meme after Man Utd’s disastrous defeat to Liverpool",
+    "ko": "달롯, 맨유 리버풀전 참패 뒤 GTA 6 밈 조롱",
+    "source": "sun",
+    "publishedAt": "2026-11-23T10:37:20.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "디오고 달롯"
+    ],
+    "playerTags": [],
+    "author": "Charlie Gordon",
+    "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 6,
   "sourceCount": 15,
-  "score": 2.23,
+  "score": 2.61,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1994,503 +2005,418 @@
   "headline": "Did Liverpool 'get lucky' with red card decision?"
  },
  {
-  "slug": "marseille-le-mans-2026-11-22",
+  "slug": "everton-manager-future",
   "mode": "llm",
-  "titleKo": "마르세유 대 르 망 경기 결과",
-  "createdAt": "2026-11-22T21:44:51.000Z",
-  "updatedAt": "2026-11-23T09:16:30.000Z",
-  "category": "match",
+  "titleKo": "에버턴 모예스 감독 거취 논란",
+  "createdAt": "2026-11-17T12:30:00.000Z",
+  "updatedAt": "2026-11-23T10:37:04.000Z",
+  "category": "manager",
   "stage": null,
   "clubs": [
-   "marseille"
+   "everton"
   ],
   "players": [
-   "베르크뷔스",
-   "비데이라",
-   "가르시아",
-   "사무엘 요호우",
-   "드 랑주",
-   "뤼카 브르텔",
-   "패트릭 비에이라"
+   "잭 그릴리시",
+   "그릴리시",
+   "픽포드",
+   "티에르노 배리"
   ],
   "sig": [
-   "mans",
-   "tor",
-   "vercruysse",
-   "minute"
+   "david",
+   "moyes"
   ],
   "articles": [
    {
-    "id": "024c2f28a422",
-    "url": "https://www.kicker.de/marseille-le-mans-tor-zum-2-3-durch-vercruysse-in-der-90-5-minute-1274095/video#omrss",
-    "title": "Marseille - Le Mans: Tor zum 2:3 durch Vercruysse in der 90.+5 Minute",
-    "ko": "마르세유 대 르 망 경기, 종료 직전 실점으로 2-3 패배",
-    "source": "kicker",
-    "publishedAt": "2026-11-22T21:44:51.000Z",
+    "id": "3798518d0948",
+    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
+    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
+    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-17T12:30:00.000Z",
     "credited": null,
     "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "베르크뷔스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "374610c0bae3",
-    "url": "https://www.lequipe.fr/Football/Actualites/Alors-qu-il-menait-2-0-l-om-s-incline-a-domicile-face-au-mans-et-voit-sa-serie-de-cinq-succes-de-rang-en-ligue-1-brutalement-stoppee/1745482#at_medium=RSS_feeds",
-    "title": "Alors qu'il menait 2-0, l'OM s'incline à domicile face au Mans et voit sa série de cinq succès de rang en Ligue 1 brutalement stoppée",
-    "ko": "마르세유, 홈에서 르 망에 패배…5연승 행진 중단",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T21:49:43.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Luc Hagège",
-    "transfer": null
-   },
-   {
-    "id": "e57946159e89",
-    "url": "https://www.lequipe.fr/Football/Actualites/Samuel-yohou-apres-la-victoire-du-mans-contre-l-om-on-s-est-dit-que-si-on-n-avait-pas-envie-d-y-croire-on-ne-sortait-pas-du-vestiaire/1745485#at_medium=RSS_feeds",
-    "title": "Samuel Yohou après la victoire du Mans contre l'OM : « On s'est dit que si on n'avait pas envie d'y croire, on ne sortait pas du vestiaire »",
-    "ko": "르 망, OM 상대 승리 뒤 요호우 '믿지 않으면 라커룸 못 나갔다'",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T22:00:14.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "사무엘 요호우"
-    ],
-    "playerTags": [],
-    "author": "Timothée Thomas-Collignon",
-    "transfer": null
-   },
-   {
-    "id": "8112898470b4",
-    "url": "https://www.lequipe.fr/Football/Article/Les-notes-d-om-le-mans-la-fougue-de-videira-la-houle-de-garcia/1745498#at_medium=RSS_feeds",
-    "title": "Les notes d'OM-Le Mans : la fougue de Videira, la houle de Garcia",
-    "ko": "OM-르 망전 평점…비데이라 열정, 가르시아 활약",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T22:39:38.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "비데이라",
-     "가르시아"
-    ],
-    "playerTags": [],
-    "author": "Vincent Menichini",
-    "transfer": null
-   },
-   {
-    "id": "5ebde0110318",
-    "url": "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds",
-    "title": "Patrick Videira après la victoire du Mans à Marseille : « Un grand coup de chapeau à ces 20 garçons »",
-    "ko": "르 망, 마르세유 원정 승리 후 비데이라 감독 찬사",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T23:07:03.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Thomas Doucet",
-    "transfer": null
-   },
-   {
-    "id": "d918fceb03da",
-    "url": "https://www.lequipe.fr/Football/Article/Seul-face-au-naufrage-jeffrey-de-lange-a-longtemps-repousse-l-echeance-pour-l-om-face-au-mans/1745509#at_medium=RSS_feeds",
-    "title": "Seul face au naufrage, Jeffrey De Lange a longtemps repoussé l'échéance pour l'OM face au Mans",
-    "ko": "르 망전 마르세유 골문 지킨 드 랑주, 무너지는 팀 홀로 버텨",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T23:20:29.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "드 랑주"
-    ],
-    "playerTags": [],
-    "author": "Vincent Menichini",
-    "transfer": null
-   },
-   {
-    "id": "4e221492980c",
-    "url": "https://www.lequipe.fr/Football/Actualites/-je-n-ai-pas-vu-un-manque-d-humilite-estime-bruno-genesio-apres-la-defaite-l-om-face-au-mans/1745510#at_medium=RSS_feeds",
-    "title": "« Je n'ai pas vu un manque d'humilité », estime Bruno Genesio après la défaite de l'OM face au Mans",
-    "ko": "제네시오 '마르세유 패배, 겸손함 부족 아니었다'",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T23:23:00.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
+     "everton"
     ],
     "category": "manager",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Thomas Doucet",
+    "author": null,
     "transfer": null
    },
    {
-    "id": "b9471b80b43d",
-    "url": "https://www.lequipe.fr/Football/Actualites/Lucas-bretelle-apres-la-victoire-du-mans-contre-l-om-en-ligue-1-c-est-incroyable/1745513#at_medium=RSS_feeds",
-    "title": "Lucas Bretelle après la victoire du Mans contre l'OM en Ligue 1 : « C'est incroyable »",
-    "ko": "브르텔 '르 망의 마르세유 격파, 믿기 힘들어'",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T23:28:50.000Z",
+    "id": "508038c6fa5f",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
+    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
+    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
+    "source": "lecho",
+    "publishedAt": "2026-11-17T17:01:46.000Z",
     "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "뤼카 브르텔"
-    ],
-    "playerTags": [],
-    "author": "Vincent Menichini",
-    "transfer": null
-   },
-   {
-    "id": "9b9faf4dfd79",
-    "url": "https://www.lequipe.fr/Football/Actualites/Apres-leur-exploit-les-manceaux-ne-peuvent-pas-prendre-l-avion-et-passeront-la-soiree-a-marseille/1745517#at_medium=RSS_feeds",
-    "title": "Après leur exploit, les Manceaux ne peuvent pas prendre l'avion et passeront la soirée à Marseille",
-    "ko": "르 망, 마르세유 꺾은 뒤 마르세유에서 숙박",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T23:33:55.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
+    "clubs": [],
+    "category": "manager",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Thomas Doucet",
+    "author": "Theo Squires",
     "transfer": null
    },
    {
-    "id": "a8c2f9fc062a",
-    "url": "https://www.lequipe.fr/Football/Article/Relachement-etourderies-coaching-tardif-les-raisons-de-la-desillusion-de-l-om-face-au-mans/1745507#at_medium=RSS_feeds",
-    "title": "Relâchement, étourderies, coaching tardif... les raisons de la désillusion de l'OM face au Mans",
-    "ko": "방심·실수·늦은 지도…마르세유, 르 망전 실망 이유",
-    "source": "lequipe",
-    "publishedAt": "2026-11-23T04:05:00.000Z",
+    "id": "0103274da076",
+    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
+    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
+    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T08:50:00.000Z",
     "credited": null,
     "clubs": [
-     "marseille"
+     "everton"
     ],
-    "category": "match",
+    "category": "other",
     "stage": null,
     "players": [],
-    "playerTags": [],
-    "author": "Baptiste Chaumier",
-    "transfer": null
-   },
-   {
-    "id": "2cca282c774b",
-    "url": "https://www.lequipe.fr/Football/Article/Un-coup-de-maitre-au-velodrome-pour-un-promu-grace-au-jeu-et-a-son-banc-le-mans-a-remporte-une-victoire-de-prestige-contre-l-om/1745512#at_medium=RSS_feeds",
-    "title": "Un coup de maître au Vélodrome pour un promu : grâce au jeu et à son banc, Le Mans a remporté une victoire de prestige contre l'OM",
-    "ko": "르 망, 벨로드롬에서 OM 꺾고 값진 승리",
-    "source": "lequipe",
-    "publishedAt": "2026-11-23T04:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Thomas Doucet",
-    "transfer": null
-   },
-   {
-    "id": "c34aadf42dd6",
-    "url": "https://www.record.pt/internacional/paises/franca/le-mans/detalhe/le-mans-do-luso-frances-patrick-videira-consegue-reviravolta-epica-em-marselha",
-    "title": "Le Mans do luso-francês Patrick Videira consegue reviravolta épica em Marselha",
-    "ko": "르 망, 마르세유 원정서 역전승",
-    "source": "record",
-    "publishedAt": "2026-11-23T09:16:30.000Z",
-    "credited": null,
-    "clubs": [
-     "marseille"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "패트릭 비에이라"
-    ],
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "e254ecd6068d",
+    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
+    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
+    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-18T18:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cf456d0f7a79",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
+    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
+    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
+    "source": "lecho",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "2654b96e85c7",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/moyes-everton-press-conference-live-34941714",
+    "title": "David Moyes press conference LIVE - Jack Grealish latest and Everton injury news for Brentford",
+    "ko": "모예스 기자회견 라이브…에버턴 브렌트퍼드전 부상 소식",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T12:47:35.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "잭 그릴리시"
+    ],
+    "playerTags": [],
+    "author": "Paul Wheelock, Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "7d63448a54b8",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-delivers-jack-grealish-34943246",
+    "title": "David Moyes delivers Jack Grealish Everton update and emphatic Jordan Pickford verdict",
+    "ko": "모예스, 그릴리시 에버턴 상황 업데이트와 픽포드 평가",
+    "source": "lecho",
+    "publishedAt": "2026-11-20T14:52:22.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "그릴리시",
+     "픽포드"
+    ],
+    "playerTags": [],
+    "author": "Paul Wheelock",
+    "transfer": null
+   },
+   {
+    "id": "7088c9dc3bb2",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/exclusive-david-moyes-reveals-what-34946108",
+    "title": "EXCLUSIVE: David Moyes reveals what he wants before leaving Everton as he makes future admission",
+    "ko": "모이스, 에버턴 떠나기 전 원하는 것 밝혀",
+    "source": "lecho",
+    "publishedAt": "2026-11-21T17:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Chris Beesley",
+    "transfer": null
+   },
+   {
+    "id": "bcf50b973f9a",
+    "url": "https://www.footballinsider247.com/everton/stefan-borson-rates-david-moyes-chances-of-quitting-everton-mid-season",
+    "title": "Stefan Borson rates David Moyes' chances of quitting Everton 'mid-season'",
+    "ko": "스티브 보슨, 모예스 에버턴 이탈 가능성 시즌 중 언급",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T08:30:00.000Z",
+    "credited": "스티브 보슨",
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "aa4630cba17a",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/has-gamble-paid-off-david-34950704",
+    "title": "'Has the gamble paid off?'- David Moyes delivers fresh Thierno Barry Everton verdict",
+    "ko": "데이비드 모예스, 에버턴의 티에르노 배리 영입 도박 성공 여부 평가",
+    "source": "lecho",
+    "publishedAt": "2026-11-23T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "티에르노 배리"
+    ],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null
+   },
+   {
+    "id": "06a97bfb12fd",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/everton-boss-left-disappointed-frustrated-34951383",
+    "title": "Everton boss left 'disappointed and frustrated' after unbeaten run comes to an end",
+    "ko": "에버턴 감독, 무패 행진 끝나고 실망·좌절",
+    "source": "lecho",
+    "publishedAt": "2026-11-23T10:37:04.000Z",
+    "credited": null,
+    "clubs": [
+     "everton"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Connor O'Neill",
+    "transfer": null
    }
   ],
-  "recentSources": 3,
-  "sourceCount": 3,
-  "score": 2.42,
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-22T21:44:51.000Z",
-   "viaQuote": false
+   "name": "스티브 보슨",
+   "at": "2026-11-17T12:30:00.000Z",
+   "viaQuote": true
   },
-  "headline": "Le Mans do luso-francês Patrick Videira consegue reviravolta épica em Marselha"
+  "headline": "Everton boss left 'disappointed and frustrated' after unbeaten run comes to an end"
  },
  {
-  "slug": "club-brugge-liverpool-2026-11-26",
+  "slug": "newcastle-affairs-interest-rate-loss",
   "mode": "llm",
-  "titleKo": "클럽 브뤼허 대 리버풀 역사적 맞대결",
-  "createdAt": "2026-11-22T11:00:00.000Z",
-  "updatedAt": "2026-11-23T09:10:00.000Z",
-  "category": "match",
+  "titleKo": "뉴캐슬 이자율 상승 재정 손실 우려",
+  "createdAt": "2026-11-22T13:30:00.000Z",
+  "updatedAt": "2026-11-23T10:18:08.000Z",
+  "category": "other",
   "stage": null,
   "clubs": [
-   "club-brugge",
-   "liverpool"
+   "newcastle"
   ],
   "players": [],
   "sig": [
-   "europese"
+   "finance",
+   "guru"
   ],
   "articles": [
    {
-    "id": "56aee9281044",
-    "url": "https://www.hln.be/club-brugge/vanaf-nu-denken-we-aan-liverpool-club-brugge-maakt-zich-op-voor-historische-clash-met-europese-rivaal-uit-de-jaren-70~a77c7e28/",
-    "title": "“Vanaf nu denken we aan Liverpool”: Club Brugge maakt zich op voor historische clash met Europese rivaal uit de jaren 70",
-    "ko": "클럽 브뤼허, 70년대 유럽 라이벌과 역사적 맞대결 준비",
-    "source": "hln",
-    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "id": "68e46c30f836",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-to-lose-75m-per-year-on-even-higher-interest-rate-finance-guru",
+    "title": "Newcastle to lose '£75m-per-year' on 'even higher' interest rate - Finance Guru",
+    "ko": "뉴캐슬, 더 높은 이자율로 연간 7500만 파운드 손실 우려",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T13:30:00.000Z",
     "credited": null,
     "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "36bc19b910d0",
-    "url": "https://www.hln.be/club-brugge/marc-degryse-kijkt-uit-naar-champions-league-duel-tussen-club-brugge-en-liverpool-dit-wordt-groter-dan-tegen-real-madrid-man-city-of-barcelona~a6348e23/",
-    "title": "Marc Degryse kijkt uit naar Champions League-duel tussen Club Brugge en Liverpool:“Dit wordt groter dan tegen Real Madrid, Man City, of Barcelona”",
-    "ko": "디그레이스 '클럽 브뤼허-리버풀, 레알·맨시티·바르셀로나전보다 클 것'",
-    "source": "hln",
-    "publishedAt": "2026-11-23T06:07:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephan Keygnaert",
-    "transfer": null
-   },
-   {
-    "id": "02495d225995",
-    "url": "https://www.hln.be/club-brugge/dit-wordt-groter-dan-tegen-real-man-city-of-barcelona-en-of-marc-degryse-uitkijkt-naar-het-champions-league-duel-tussen-club-en-liverpool~a6348e23/",
-    "title": "“Dit wordt groter dan tegen Real, Man City, of Barcelona”: en of Marc Degryse uitkijkt naar het Champions League-duel tussen Club en Liverpool",
-    "ko": "클럽 브뤼허-리버풀 챔피언스리그 맞대결, 데그라이스 '역대급 경기' 전망",
-    "source": "hln",
-    "publishedAt": "2026-11-23T06:07:18.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephan Keygnaert",
-    "transfer": null
-   },
-   {
-    "id": "c5004abf4394",
-    "url": "https://www.hln.be/champions-league/honderden-vips-op-de-wachtlijst-telefoons-die-roodgloeiend-staan-en-zelfs-een-museum-brugge-loopt-storm-voor-historische-clash-met-liverpool~a2ee9d70/",
-    "title": "Honderden vips op de wachtlijst, telefoons die roodgloeiend staan en zelfs een museum: Brugge loopt storm voor historische clash met Liverpool",
-    "ko": "브뤼허, 리버풀과 역사적 맞대결 준비 열기",
-    "source": "hln",
-    "publishedAt": "2026-11-23T09:10:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
+     "newcastle"
     ],
     "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Tomas Taecke",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.66,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-22T11:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Honderden vips op de wachtlijst, telefoons die roodgloeiend staan en zelfs een museum: Brugge loopt storm voor historische clash met Liverpool"
- },
- {
-  "slug": "watford-manager-future",
-  "mode": "llm",
-  "titleKo": "왓포드 디오니시 감독 경질",
-  "createdAt": "2026-11-22T12:00:45.000Z",
-  "updatedAt": "2026-11-23T08:55:36.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "dionisi"
-  ],
-  "articles": [
-   {
-    "id": "f21e607046f6",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
-    "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
-    "ko": "왓포드, 18개월 새 여섯 번째 감독 찾기 나서",
-    "source": "bbc",
-    "publishedAt": "2026-11-22T12:00:45.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "ec554886254a",
-    "url": "https://www.thesun.co.uk/sport/41106018/watford-sack-alessio-dionisi-championship-sheff-utd/",
-    "title": "Watford SACK manager Alessio Dionisi after 4-0 mauling at Sheff Utd but thank ‘really good guy’ in classy statement",
-    "ko": "왓포드, 디오니시 감독 경질…4-0 대패 뒤 결정",
-    "source": "sun",
-    "publishedAt": "2026-11-22T12:03:27.000Z",
+    "id": "239684dd035a",
+    "url": "https://www.chroniclelive.co.uk/sport/football/football-news/alan-shearer-newcastle-transfer-news-34952050",
+    "title": "Alan Shearer doubles down on 'noticeable' Newcastle United transfer concern - 'You need to'",
+    "ko": "시어러, 뉴캐슬 이적 우려 재차 강조",
+    "source": "chronicle",
+    "publishedAt": "2026-11-23T10:18:08.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "manager",
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "7aa2ad006455",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
-    "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
-    "ko": "왓포드 포추 체제, 개척자인가 감독 파괴자인가",
-    "source": "bbc",
-    "publishedAt": "2026-11-23T08:55:36.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
+    "author": "Sean McCormick",
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 2.68,
-  "topTier": 1,
+  "score": 1.86,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-22T12:00:45.000Z",
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-22T13:30:00.000Z",
    "viaQuote": false
   },
-  "headline": "Pioneer or coach-eater? The complex world of Pozzo's Watford"
+  "headline": "Alan Shearer doubles down on 'noticeable' Newcastle United transfer concern - 'You need to'"
  },
  {
-  "slug": "swindon-manager-future",
+  "slug": "torreense-benfica-incident",
   "mode": "llm",
-  "titleKo": "스윈던 홀로웨이 감독 경질",
-  "createdAt": "2026-11-23T08:37:30.000Z",
-  "updatedAt": "2026-11-23T08:37:30.000Z",
-  "category": "manager",
+  "titleKo": "토레넨세-벤피카 경기 중 팬 사망",
+  "createdAt": "2026-11-22T23:08:00.000Z",
+  "updatedAt": "2026-11-23T10:12:04.000Z",
+  "category": "other",
   "stage": null,
   "clubs": [],
   "players": [],
   "sig": [
-   "holloway",
-   "sacked",
-   "swindon"
+   "torreense",
+   "benfica"
   ],
   "articles": [
    {
-    "id": "82dbeb68326d",
-    "url": "https://www.thesun.co.uk/sport/41112019/ian-holloway-sacked-swindon-efl-league-two/",
-    "title": "Ian Holloway SACKED by Swindon after four straight defeats as League Two club release statement",
-    "ko": "스윈던, 4연패 후 이언 홀로웨이 감독 경질",
-    "source": "sun",
-    "publishedAt": "2026-11-23T08:37:30.000Z",
+    "id": "7017e850ed33",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/morreu-o-adepto-que-sofreu-paragem-cardiorrespiratoria-durante-o-torreense-benfica",
+    "title": "Morreu o adepto que sofreu paragem cardiorrespiratória durante o Torreense-Benfica",
+    "ko": "토레넨세-벤피카 경기 중 심정지 쓰러진 팬 사망",
+    "source": "record",
+    "publishedAt": "2026-11-22T23:08:00.000Z",
     "credited": null,
     "clubs": [],
-    "category": "manager",
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Charlie Gordon",
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b71194a79a5c",
+    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/benfica-deixa-mensagem-de-condolencias-a-familia-de-adepto-do-torreense-que-morreu-durante-jogo-da-taca",
+    "title": "Benfica deixa mensagem de condolências à família de adepto do Torreense que morreu durante jogo da Taça",
+    "ko": "벤피카, 토레넨세 팬 사망 애도 메시지",
+    "source": "record",
+    "publishedAt": "2026-11-23T10:12:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.51,
+  "score": 0.27,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-22T23:08:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Benfica deixa mensagem de condolências à família de adepto do Torreense que morreu durante jogo da Taça"
+ },
+ {
+  "slug": "man-utd-manager-future-20261123",
+  "mode": "llm",
+  "titleKo": "맨유 감독 거취 관련 후임 검토",
+  "createdAt": "2026-11-23T10:00:09.000Z",
+  "updatedAt": "2026-11-23T10:00:09.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-utd",
+   "arsenal"
+  ],
+  "players": [],
+  "sig": [
+   "mikel"
+  ],
+  "articles": [
+   {
+    "id": "4845700a641c",
+    "url": "https://www.thesun.co.uk/sport/41112718/man-utd-arsenal-coach-mikel-aretata-sam-wilson/",
+    "title": "Man Utd hire Arsenal coach who helped Mikel Arteta transform Gunners into title winners",
+    "ko": "맨유, 아르테타 우승 조련 아스널 코치 영입 검토",
+    "source": "sun",
+    "publishedAt": "2026-11-23T10:00:09.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "arsenal"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Simon Collings, Katherine Walsh",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.53,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -2499,288 +2425,384 @@
   "firstReport": {
    "name": "The Sun",
    "source": "sun",
-   "at": "2026-11-23T08:37:30.000Z",
+   "at": "2026-11-23T10:00:09.000Z",
    "viaQuote": false
   },
-  "headline": "Ian Holloway SACKED by Swindon after four straight defeats as League Two club release statement"
+  "headline": "Man Utd hire Arsenal coach who helped Mikel Arteta transform Gunners into title winners"
  },
  {
-  "slug": "man-city-manager-future-20261121",
+  "slug": "yoro-liverpool-discipline",
   "mode": "llm",
-  "titleKo": "맨시티 마레스카 감독 거취 논란",
-  "createdAt": "2026-11-21T08:00:00.000Z",
-  "updatedAt": "2026-11-23T08:31:05.000Z",
-  "category": "manager",
+  "titleKo": "요로 리버풀전 퇴장 징계 논란",
+  "createdAt": "2026-11-22T16:45:00.000Z",
+  "updatedAt": "2026-11-23T09:53:35.000Z",
+  "category": "other",
   "stage": null,
   "clubs": [
-   "man-city"
+   "man-utd",
+   "liverpool"
   ],
-  "players": [],
+  "players": [
+   "요로",
+   "레니 요로",
+   "Leny Yoro",
+   "코비 마이누",
+   "브루노 페르난데스",
+   "마이누",
+   "제레미 자케"
+  ],
   "sig": [
-   "enzo",
-   "maresca"
+   "poch"
   ],
   "articles": [
    {
-    "id": "639784fc9ab9",
-    "url": "https://www.footballinsider247.com/manchester-city/next-manager/man-citys-stance-on-sacking-enzo-maresca-revealed-by-club-adviser",
-    "title": "Man City's stance on sacking Enzo Maresca revealed by club adviser",
-    "ko": "맨시티, 엔초 마레스카 경질 가능성에 선 긋나",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-21T08:00:00.000Z",
+    "id": "49242f1c47ee",
+    "url": "https://www.skysports.com/watch/video/13615331/off-l-yoro-8-liverpool-0-0-manchester-utd",
+    "title": "Yoro sees red eight minutes into Poch's Man Utd reign",
+    "ko": "요로, 포체티노 맨유 부임 8분 만에 퇴장",
+    "source": "sky",
+    "publishedAt": "2026-11-22T16:45:00.000Z",
     "credited": null,
     "clubs": [
-     "man-city"
+     "man-utd"
     ],
-    "category": "manager",
+    "category": "match",
     "stage": null,
-    "players": [],
+    "players": [
+     "요로"
+    ],
     "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "7f242f7802e2",
-    "url": "https://www.footballinsider247.com/manchester-city/enzo-marescas-position-as-man-city-manager-is-far-more-perilous-than-people-think-verdict",
-    "title": "Enzo Maresca's position as Man City manager is far more perilous than people think - verdict",
-    "ko": "마레스카 맨시티 감독직 위태롭다는 평가 나와",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-23T08:31:05.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.5,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-21T08:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Enzo Maresca's position as Man City manager is far more perilous than people think - verdict",
-  "aliases": [
-   "man-city-manager-future-20261123"
-  ]
- },
- {
-  "slug": "freeman-man-utd-transfer",
-  "mode": "llm",
-  "titleKo": "맨유 알렉스 프리먼 영입 관심",
-  "createdAt": "2026-11-23T08:20:00.000Z",
-  "updatedAt": "2026-11-23T08:20:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [
-   "알렉스 프리먼"
-  ],
-  "sig": [
-   "mauricio",
-   "pochettino",
-   "alex",
-   "freeman"
-  ],
-  "articles": [
-   {
-    "id": "1f7c25796943",
-    "url": "https://www.footballinsider247.com/manchester-united/sources-mauricio-pochettino-holds-key-to-man-united-signing-alex-freeman",
-    "title": "Sources: Mauricio Pochettino holds key to Man United signing Alex Freeman",
-    "ko": "포체티노, 알렉스 프리먼 영입 성사 열쇠 쥐고 있다는 보도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-23T08:20:00.000Z",
+    "id": "21b424cf48f5",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-yoro-red-card-34950788",
+    "title": "Gary Neville points finger at Mauricio Pochettino as Leny Yoro red card stuns Man United icon",
+    "ko": "네빌, 레니 요로 퇴장에 포체티노 지목 비판",
+    "source": "men",
+    "publishedAt": "2026-11-22T16:45:25.000Z",
     "credited": null,
     "clubs": [
      "man-utd"
     ],
-    "category": "transfer",
-    "stage": "interest",
+    "category": "manager",
+    "stage": null,
     "players": [
-     "알렉스 프리먼"
+     "레니 요로"
     ],
     "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "알렉스 프리먼",
-     "from": null,
-     "to": "맨유"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.48,
-  "topTier": 4,
-  "stageHistory": [
+    "author": "Jake Stokes",
+    "transfer": null
+   },
    {
-    "id": "1f7c25796943",
-    "at": "2026-11-23T08:20:00.000Z",
-    "source": "fbinsider",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "알렉스 프리먼",
-   "from": null,
-   "to": "맨유"
-  },
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-23T08:20:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Sources: Mauricio Pochettino holds key to Man United signing Alex Freeman"
- },
- {
-  "slug": "cifuentes-rangers-transfer",
-  "mode": "llm",
-  "titleKo": "레인저스 시푸엔테스 1월 이적 가십",
-  "createdAt": "2026-11-23T08:09:49.000Z",
-  "updatedAt": "2026-11-23T08:09:49.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [],
-  "players": [
-   "시푸엔테스"
-  ],
-  "sig": [
-   "cifuentes"
-  ],
-  "articles": [
-   {
-    "id": "e2411e72660d",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6jeqweg7j2eo?at_medium=RSS&at_campaign=rss",
-    "title": "Rangers plan January exit for Cifuentes - gossip",
-    "ko": "레인저스, 1월 시푸엔테스 방출 계획 가십",
-    "source": "bbc",
-    "publishedAt": "2026-11-23T08:09:49.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "시푸엔테스"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "시푸엔테스",
-     "from": "레인저스",
-     "to": null
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.47,
-  "topTier": 4,
-  "stageHistory": [
-   {
-    "id": "e2411e72660d",
-    "at": "2026-11-23T08:09:49.000Z",
-    "source": "bbc",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "시푸엔테스",
-   "from": "레인저스",
-   "to": null
-  },
-  "firstReport": {
-   "name": "BBC Sport",
-   "source": "bbc",
-   "at": "2026-11-23T08:09:49.000Z",
-   "viaQuote": false
-  },
-  "headline": "Rangers plan January exit for Cifuentes - gossip"
- },
- {
-  "slug": "leeds-chelsea-2026-11-22",
-  "mode": "llm",
-  "titleKo": "리즈 대 첼시 경기",
-  "createdAt": "2026-11-22T22:53:50.000Z",
-  "updatedAt": "2026-11-23T07:51:50.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "에메냐"
-  ],
-  "sig": [
-   "emmanuel",
-   "emegha",
-   "robbed",
-   "leeds"
-  ],
-  "articles": [
-   {
-    "id": "3144cb5d9b3e",
-    "url": "https://www.thesun.co.uk/sport/41110978/chelsea-emmanuel-emegha-robbed/",
-    "title": "Chelsea star Emmanuel Emegha reveals he was ROBBED after scoring first Premier League goal in Leeds loss",
-    "ko": "에메냐, 리즈전 패배에도 첫 EPL 득점…'억울하다' 발언",
+    "id": "9a5e07972eee",
+    "url": "https://www.thesun.co.uk/sport/41108432/leny-yoro-sent-off-liverpool-man-utd-mauricio-pochettino/",
+    "title": "Leny Yoro SENT OFF just 7 minutes into Man Utd’s clash at Liverpool as Mauricio Pochettino suffers nightmare start",
+    "ko": "레니 요로, 맨유 리버풀전 7분 만에 퇴장",
     "source": "sun",
-    "publishedAt": "2026-11-22T22:53:50.000Z",
+    "publishedAt": "2026-11-22T16:46:59.000Z",
     "credited": null,
     "clubs": [
-     "chelsea"
+     "man-utd",
+     "liverpool"
     ],
     "category": "match",
     "stage": null,
     "players": [
-     "에메냐"
+     "레니 요로"
+    ],
+    "playerTags": [],
+    "author": "Danny Rust",
+    "transfer": null
+   },
+   {
+    "id": "a6a9ac108d95",
+    "url": "https://www.thesun.co.uk/sport/41108774/man-utd-mauricio-pochettino-liverpool-leny-yoro/",
+    "title": "‘That’s what Man Utd does to you’ – Fans spot Pochettino’s stunned reaction to Leny Yoro’s red card at Liverpool",
+    "ko": "포체티노, 리버풀전 요로 퇴장 장면에 충격 반응 포착",
+    "source": "sun",
+    "publishedAt": "2026-11-22T17:45:56.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "레니 요로"
     ],
     "playerTags": [],
     "author": "Etienne Fermie",
     "transfer": null
    },
    {
-    "id": "0daea7de9d18",
-    "url": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
-    "title": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released",
-    "ko": "첼시 선수, 리즈전 대패 후 '억울하다' 발언 공개",
-    "source": "mirror",
-    "publishedAt": "2026-11-23T07:51:50.000Z",
+    "id": "47d8d6649dd7",
+    "url": "https://www.thesun.co.uk/sport/41109003/man-utd-roy-keane-defends-leny-yoro-liverpool-red/",
+    "title": "Roy Keane explains why Man Utd star Leny Yoro should NOT have been sent off against Liverpool",
+    "ko": "로이 킨 \"요로, 리버풀전서 퇴장 당하면 안 됐다\"",
+    "source": "sun",
+    "publishedAt": "2026-11-22T18:20:00.000Z",
     "credited": null,
     "clubs": [
-     "chelsea"
+     "man-utd",
+     "liverpool"
     ],
-    "category": "match",
+    "category": "other",
+    "stage": null,
+    "players": [
+     "Leny Yoro"
+    ],
+    "playerTags": [],
+    "author": "Daisy Redhead",
+    "transfer": null
+   },
+   {
+    "id": "a0c766af5178",
+    "url": "https://www.footballinsider247.com/manchester-united/ex-pgmol-chief-makes-u-turn-on-man-united-red-card-as-new-footage-analysed",
+    "title": "Ex-PGMOL chief makes U-turn on Man United red card as new footage analysed",
+    "ko": "전 PGMOL 책임자, 맨유 퇴장 판정 입장 번복",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T18:40:11.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f201ca3ba1fd",
+    "url": "https://www.skysports.com/football/news/12040/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
+    "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
+    "ko": "포체티노·마이누, 요로 퇴장에 \"말도 안 된다\" 분노",
+    "source": "sky",
+    "publishedAt": "2026-11-22T18:58:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "마이누",
+     "요로"
+    ],
+    "playerTags": [
+     "kobbie-mainoo"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f95e10bfbd44",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/kobbie-mainoo-slams-leny-yoro-34950190",
+    "title": "Kobbie Mainoo slams Leny Yoro red card decision vs Liverpool and issues Man United rallying cry",
+    "ko": "마이누, 리버풀전 요로 퇴장 판정 정면 비판하며 맨유 결집 호소",
+    "source": "men",
+    "publishedAt": "2026-11-22T19:05:22.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "코비 마이누"
+    ],
+    "playerTags": [
+     "kobbie-mainoo"
+    ],
+    "author": "Steven Railston",
+    "transfer": null
+   },
+   {
+    "id": "9389ffc27721",
+    "url": "https://www.footballinsider247.com/manchester-united/leny-yoro-wrongly-sent-off-fernandes-rages-three-sam-barrott-howlers-in-liverpool-vs-man-united",
+    "title": "Leny Yoro wrongly sent off, Fernandes rages: Three Sam Barrott howlers in Liverpool vs Man United",
+    "ko": "요로 퇴장 오심 논란, 페르난데스 분노",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T19:55:38.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "요로",
+     "브루노 페르난데스"
+    ],
+    "playerTags": [
+     "bruno-fernandes"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "20a3d8cc3a3c",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-leny-yoro-red-34951312",
+    "title": "Everything said on Leny Yoro red and Premier League explanation as Man United hit out",
+    "ko": "요로 퇴장 판정 두고 맨유 강하게 반발",
+    "source": "men",
+    "publishedAt": "2026-11-22T21:17:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "레니 요로"
+    ],
+    "playerTags": [],
     "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "be21496fff01",
+    "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+    "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+    "ko": "포체티노 '요로 퇴장 아프다', 안필드 참패 비판",
+    "source": "guardian",
+    "publishedAt": "2026-11-22T21:31:03.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "요로"
+    ],
+    "playerTags": [],
+    "author": "Andy Hunter at Anfield",
+    "transfer": null
+   },
+   {
+    "id": "8679dd249da6",
+    "url": "https://www.lequipe.fr/Football/Video/Premier-league-manchester-united-mauricio-pochettino-crie-a-l-injustice-apres-le-rouge-de-yoro/20246118#at_medium=RSS_feeds",
+    "title": "Pochettino crie à l’injustice après le rouge de Yoro",
+    "ko": "포체티노, 요로 퇴장에 억울함 호소",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T22:57:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "요로"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "61eed17e1ba0",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-points-finger-jeremy-34949959",
+    "title": "Mauricio Pochettino points finger at Jeremy Jacquet and slams Liverpool red card - 'very, very low'",
+    "ko": "포체티노, 리버풀전 퇴장 두고 자쿠에 지목 후 '매우 낮은' 판정 비판",
+    "source": "lecho",
+    "publishedAt": "2026-11-23T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "제레미 자케"
+    ],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "f010c0fc8c0a",
+    "url": "https://www.kicker.de/united-coach-pochettino-zur-roten-karte-das-ist-niemals-ein-foul-1274214/video#omrss",
+    "title": "United-Coach Pochettino zur Roten Karte: \"Das ist niemals ein Foul\"",
+    "ko": "포체티노, 맨유 레드카드 두고 \"절대 파울 아니다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-23T09:53:35.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
     "transfer": null
    }
   ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 0.54,
+  "recentSources": 3,
+  "sourceCount": 8,
+  "score": 2.87,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "kobbie-mainoo",
+   "bruno-fernandes"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-22T16:45:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "United-Coach Pochettino zur Roten Karte: \"Das ist niemals ein Foul\""
+ },
+ {
+  "slug": "brentford-everton-2026-11-22",
+  "mode": "llm",
+  "titleKo": "브렌트퍼드 대 에버턴 경기",
+  "createdAt": "2026-11-23T09:28:42.000Z",
+  "updatedAt": "2026-11-23T09:28:42.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "brentford",
+   "everton"
+  ],
+  "players": [],
+  "sig": [
+   "bet"
+  ],
+  "articles": [
+   {
+    "id": "0785df8cce02",
+    "url": "https://www.thesun.co.uk/sport/41112227/brentford-everton-talksport-bet-offer/",
+    "title": "Brentford vs Everton: Bet £10+ on football and get up to £30 in free bets | talkSPORT BET",
+    "ko": "브렌트퍼드 대 에버턴 경기 베팅 광고",
+    "source": "sun",
+    "publishedAt": "2026-11-23T09:28:42.000Z",
+    "credited": null,
+    "clubs": [
+     "brentford",
+     "everton"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.48,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -2789,17 +2811,17 @@
   "firstReport": {
    "name": "The Sun",
    "source": "sun",
-   "at": "2026-11-22T22:53:50.000Z",
+   "at": "2026-11-23T09:28:42.000Z",
    "viaQuote": false
   },
-  "headline": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released"
+  "headline": "Brentford vs Everton: Bet £10+ on football and get up to £30 in free bets | talkSPORT BET"
  },
  {
   "slug": "pochettino-man-utd-manager-future",
   "mode": "llm",
   "titleKo": "포체티노 맨유 감독 부임 관련 논란",
   "createdAt": "2026-11-10T17:08:58.000Z",
-  "updatedAt": "2026-11-23T07:47:25.000Z",
+  "updatedAt": "2026-11-23T09:25:43.000Z",
   "category": "manager",
   "stage": null,
   "clubs": [
@@ -11144,11 +11166,29 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "7ecde34634f6",
+    "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-mistake-37905023",
+    "title": "Mauricio Pochettino must accept blame for his first huge Man Utd mistake",
+    "ko": "포체티노, 맨유 첫 큰 실수에 대한 책임 인정해야",
+    "source": "mirror",
+    "publishedAt": "2026-11-23T09:25:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null
    }
   ],
   "recentSources": 4,
   "sourceCount": 17,
-  "score": 1.78,
+  "score": 1.87,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11170,6 +11210,807 @@
   "aliases": [
    "pochettino-man-utd-transfer"
   ]
+ },
+ {
+  "slug": "marseille-le-mans-2026-11-22",
+  "mode": "llm",
+  "titleKo": "마르세유 대 르 망 경기 결과",
+  "createdAt": "2026-11-22T21:44:51.000Z",
+  "updatedAt": "2026-11-23T09:16:30.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "marseille"
+  ],
+  "players": [
+   "베르크뷔스",
+   "비데이라",
+   "가르시아",
+   "사무엘 요호우",
+   "드 랑주",
+   "뤼카 브르텔",
+   "패트릭 비에이라"
+  ],
+  "sig": [
+   "mans",
+   "tor",
+   "vercruysse",
+   "minute"
+  ],
+  "articles": [
+   {
+    "id": "024c2f28a422",
+    "url": "https://www.kicker.de/marseille-le-mans-tor-zum-2-3-durch-vercruysse-in-der-90-5-minute-1274095/video#omrss",
+    "title": "Marseille - Le Mans: Tor zum 2:3 durch Vercruysse in der 90.+5 Minute",
+    "ko": "마르세유 대 르 망 경기, 종료 직전 실점으로 2-3 패배",
+    "source": "kicker",
+    "publishedAt": "2026-11-22T21:44:51.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "베르크뷔스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "374610c0bae3",
+    "url": "https://www.lequipe.fr/Football/Actualites/Alors-qu-il-menait-2-0-l-om-s-incline-a-domicile-face-au-mans-et-voit-sa-serie-de-cinq-succes-de-rang-en-ligue-1-brutalement-stoppee/1745482#at_medium=RSS_feeds",
+    "title": "Alors qu'il menait 2-0, l'OM s'incline à domicile face au Mans et voit sa série de cinq succès de rang en Ligue 1 brutalement stoppée",
+    "ko": "마르세유, 홈에서 르 망에 패배…5연승 행진 중단",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T21:49:43.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Luc Hagège",
+    "transfer": null
+   },
+   {
+    "id": "e57946159e89",
+    "url": "https://www.lequipe.fr/Football/Actualites/Samuel-yohou-apres-la-victoire-du-mans-contre-l-om-on-s-est-dit-que-si-on-n-avait-pas-envie-d-y-croire-on-ne-sortait-pas-du-vestiaire/1745485#at_medium=RSS_feeds",
+    "title": "Samuel Yohou après la victoire du Mans contre l'OM : « On s'est dit que si on n'avait pas envie d'y croire, on ne sortait pas du vestiaire »",
+    "ko": "르 망, OM 상대 승리 뒤 요호우 '믿지 않으면 라커룸 못 나갔다'",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T22:00:14.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "사무엘 요호우"
+    ],
+    "playerTags": [],
+    "author": "Timothée Thomas-Collignon",
+    "transfer": null
+   },
+   {
+    "id": "8112898470b4",
+    "url": "https://www.lequipe.fr/Football/Article/Les-notes-d-om-le-mans-la-fougue-de-videira-la-houle-de-garcia/1745498#at_medium=RSS_feeds",
+    "title": "Les notes d'OM-Le Mans : la fougue de Videira, la houle de Garcia",
+    "ko": "OM-르 망전 평점…비데이라 열정, 가르시아 활약",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T22:39:38.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "비데이라",
+     "가르시아"
+    ],
+    "playerTags": [],
+    "author": "Vincent Menichini",
+    "transfer": null
+   },
+   {
+    "id": "5ebde0110318",
+    "url": "https://www.lequipe.fr/Football/Actualites/Patrick-videira-apres-la-victoire-du-mans-a-marseille-un-grand-coup-de-chapeau-a-ces-20-garcons/1745505#at_medium=RSS_feeds",
+    "title": "Patrick Videira après la victoire du Mans à Marseille : « Un grand coup de chapeau à ces 20 garçons »",
+    "ko": "르 망, 마르세유 원정 승리 후 비데이라 감독 찬사",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T23:07:03.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Thomas Doucet",
+    "transfer": null
+   },
+   {
+    "id": "d918fceb03da",
+    "url": "https://www.lequipe.fr/Football/Article/Seul-face-au-naufrage-jeffrey-de-lange-a-longtemps-repousse-l-echeance-pour-l-om-face-au-mans/1745509#at_medium=RSS_feeds",
+    "title": "Seul face au naufrage, Jeffrey De Lange a longtemps repoussé l'échéance pour l'OM face au Mans",
+    "ko": "르 망전 마르세유 골문 지킨 드 랑주, 무너지는 팀 홀로 버텨",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T23:20:29.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "드 랑주"
+    ],
+    "playerTags": [],
+    "author": "Vincent Menichini",
+    "transfer": null
+   },
+   {
+    "id": "4e221492980c",
+    "url": "https://www.lequipe.fr/Football/Actualites/-je-n-ai-pas-vu-un-manque-d-humilite-estime-bruno-genesio-apres-la-defaite-l-om-face-au-mans/1745510#at_medium=RSS_feeds",
+    "title": "« Je n'ai pas vu un manque d'humilité », estime Bruno Genesio après la défaite de l'OM face au Mans",
+    "ko": "제네시오 '마르세유 패배, 겸손함 부족 아니었다'",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T23:23:00.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Thomas Doucet",
+    "transfer": null
+   },
+   {
+    "id": "b9471b80b43d",
+    "url": "https://www.lequipe.fr/Football/Actualites/Lucas-bretelle-apres-la-victoire-du-mans-contre-l-om-en-ligue-1-c-est-incroyable/1745513#at_medium=RSS_feeds",
+    "title": "Lucas Bretelle après la victoire du Mans contre l'OM en Ligue 1 : « C'est incroyable »",
+    "ko": "브르텔 '르 망의 마르세유 격파, 믿기 힘들어'",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T23:28:50.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "뤼카 브르텔"
+    ],
+    "playerTags": [],
+    "author": "Vincent Menichini",
+    "transfer": null
+   },
+   {
+    "id": "9b9faf4dfd79",
+    "url": "https://www.lequipe.fr/Football/Actualites/Apres-leur-exploit-les-manceaux-ne-peuvent-pas-prendre-l-avion-et-passeront-la-soiree-a-marseille/1745517#at_medium=RSS_feeds",
+    "title": "Après leur exploit, les Manceaux ne peuvent pas prendre l'avion et passeront la soirée à Marseille",
+    "ko": "르 망, 마르세유 꺾은 뒤 마르세유에서 숙박",
+    "source": "lequipe",
+    "publishedAt": "2026-11-22T23:33:55.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Thomas Doucet",
+    "transfer": null
+   },
+   {
+    "id": "a8c2f9fc062a",
+    "url": "https://www.lequipe.fr/Football/Article/Relachement-etourderies-coaching-tardif-les-raisons-de-la-desillusion-de-l-om-face-au-mans/1745507#at_medium=RSS_feeds",
+    "title": "Relâchement, étourderies, coaching tardif... les raisons de la désillusion de l'OM face au Mans",
+    "ko": "방심·실수·늦은 지도…마르세유, 르 망전 실망 이유",
+    "source": "lequipe",
+    "publishedAt": "2026-11-23T04:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Baptiste Chaumier",
+    "transfer": null
+   },
+   {
+    "id": "2cca282c774b",
+    "url": "https://www.lequipe.fr/Football/Article/Un-coup-de-maitre-au-velodrome-pour-un-promu-grace-au-jeu-et-a-son-banc-le-mans-a-remporte-une-victoire-de-prestige-contre-l-om/1745512#at_medium=RSS_feeds",
+    "title": "Un coup de maître au Vélodrome pour un promu : grâce au jeu et à son banc, Le Mans a remporté une victoire de prestige contre l'OM",
+    "ko": "르 망, 벨로드롬에서 OM 꺾고 값진 승리",
+    "source": "lequipe",
+    "publishedAt": "2026-11-23T04:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Thomas Doucet",
+    "transfer": null
+   },
+   {
+    "id": "c34aadf42dd6",
+    "url": "https://www.record.pt/internacional/paises/franca/le-mans/detalhe/le-mans-do-luso-frances-patrick-videira-consegue-reviravolta-epica-em-marselha",
+    "title": "Le Mans do luso-francês Patrick Videira consegue reviravolta épica em Marselha",
+    "ko": "르 망, 마르세유 원정서 역전승",
+    "source": "record",
+    "publishedAt": "2026-11-23T09:16:30.000Z",
+    "credited": null,
+    "clubs": [
+     "marseille"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "패트릭 비에이라"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 3,
+  "score": 1.82,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-22T21:44:51.000Z",
+   "viaQuote": false
+  },
+  "headline": "Le Mans do luso-francês Patrick Videira consegue reviravolta épica em Marselha"
+ },
+ {
+  "slug": "club-brugge-liverpool-2026-11-26",
+  "mode": "llm",
+  "titleKo": "클럽 브뤼허 대 리버풀 역사적 맞대결",
+  "createdAt": "2026-11-22T11:00:00.000Z",
+  "updatedAt": "2026-11-23T09:10:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "club-brugge",
+   "liverpool"
+  ],
+  "players": [],
+  "sig": [
+   "europese"
+  ],
+  "articles": [
+   {
+    "id": "56aee9281044",
+    "url": "https://www.hln.be/club-brugge/vanaf-nu-denken-we-aan-liverpool-club-brugge-maakt-zich-op-voor-historische-clash-met-europese-rivaal-uit-de-jaren-70~a77c7e28/",
+    "title": "“Vanaf nu denken we aan Liverpool”: Club Brugge maakt zich op voor historische clash met Europese rivaal uit de jaren 70",
+    "ko": "클럽 브뤼허, 70년대 유럽 라이벌과 역사적 맞대결 준비",
+    "source": "hln",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "36bc19b910d0",
+    "url": "https://www.hln.be/club-brugge/marc-degryse-kijkt-uit-naar-champions-league-duel-tussen-club-brugge-en-liverpool-dit-wordt-groter-dan-tegen-real-madrid-man-city-of-barcelona~a6348e23/",
+    "title": "Marc Degryse kijkt uit naar Champions League-duel tussen Club Brugge en Liverpool:“Dit wordt groter dan tegen Real Madrid, Man City, of Barcelona”",
+    "ko": "디그레이스 '클럽 브뤼허-리버풀, 레알·맨시티·바르셀로나전보다 클 것'",
+    "source": "hln",
+    "publishedAt": "2026-11-23T06:07:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stephan Keygnaert",
+    "transfer": null
+   },
+   {
+    "id": "02495d225995",
+    "url": "https://www.hln.be/club-brugge/dit-wordt-groter-dan-tegen-real-man-city-of-barcelona-en-of-marc-degryse-uitkijkt-naar-het-champions-league-duel-tussen-club-en-liverpool~a6348e23/",
+    "title": "“Dit wordt groter dan tegen Real, Man City, of Barcelona”: en of Marc Degryse uitkijkt naar het Champions League-duel tussen Club en Liverpool",
+    "ko": "클럽 브뤼허-리버풀 챔피언스리그 맞대결, 데그라이스 '역대급 경기' 전망",
+    "source": "hln",
+    "publishedAt": "2026-11-23T06:07:18.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stephan Keygnaert",
+    "transfer": null
+   },
+   {
+    "id": "c5004abf4394",
+    "url": "https://www.hln.be/champions-league/honderden-vips-op-de-wachtlijst-telefoons-die-roodgloeiend-staan-en-zelfs-een-museum-brugge-loopt-storm-voor-historische-clash-met-liverpool~a2ee9d70/",
+    "title": "Honderden vips op de wachtlijst, telefoons die roodgloeiend staan en zelfs een museum: Brugge loopt storm voor historische clash met Liverpool",
+    "ko": "브뤼허, 리버풀과 역사적 맞대결 준비 열기",
+    "source": "hln",
+    "publishedAt": "2026-11-23T09:10:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tomas Taecke",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.54,
+  "topTier": 3,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-22T11:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Honderden vips op de wachtlijst, telefoons die roodgloeiend staan en zelfs een museum: Brugge loopt storm voor historische clash met Liverpool"
+ },
+ {
+  "slug": "watford-manager-future",
+  "mode": "llm",
+  "titleKo": "왓포드 디오니시 감독 경질",
+  "createdAt": "2026-11-22T12:00:45.000Z",
+  "updatedAt": "2026-11-23T08:55:36.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "dionisi"
+  ],
+  "articles": [
+   {
+    "id": "f21e607046f6",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+    "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+    "ko": "왓포드, 18개월 새 여섯 번째 감독 찾기 나서",
+    "source": "bbc",
+    "publishedAt": "2026-11-22T12:00:45.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ec554886254a",
+    "url": "https://www.thesun.co.uk/sport/41106018/watford-sack-alessio-dionisi-championship-sheff-utd/",
+    "title": "Watford SACK manager Alessio Dionisi after 4-0 mauling at Sheff Utd but thank ‘really good guy’ in classy statement",
+    "ko": "왓포드, 디오니시 감독 경질…4-0 대패 뒤 결정",
+    "source": "sun",
+    "publishedAt": "2026-11-22T12:03:27.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "7aa2ad006455",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss",
+    "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+    "ko": "왓포드 포추 체제, 개척자인가 감독 파괴자인가",
+    "source": "bbc",
+    "publishedAt": "2026-11-23T08:55:36.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 2.19,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-22T12:00:45.000Z",
+   "viaQuote": false
+  },
+  "headline": "Pioneer or coach-eater? The complex world of Pozzo's Watford"
+ },
+ {
+  "slug": "swindon-manager-future",
+  "mode": "llm",
+  "titleKo": "스윈던 홀로웨이 감독 경질",
+  "createdAt": "2026-11-23T08:37:30.000Z",
+  "updatedAt": "2026-11-23T08:37:30.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "holloway",
+   "sacked",
+   "swindon"
+  ],
+  "articles": [
+   {
+    "id": "82dbeb68326d",
+    "url": "https://www.thesun.co.uk/sport/41112019/ian-holloway-sacked-swindon-efl-league-two/",
+    "title": "Ian Holloway SACKED by Swindon after four straight defeats as League Two club release statement",
+    "ko": "스윈던, 4연패 후 이언 홀로웨이 감독 경질",
+    "source": "sun",
+    "publishedAt": "2026-11-23T08:37:30.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Charlie Gordon",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.42,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-23T08:37:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "Ian Holloway SACKED by Swindon after four straight defeats as League Two club release statement"
+ },
+ {
+  "slug": "man-city-manager-future-20261121",
+  "mode": "llm",
+  "titleKo": "맨시티 마레스카 감독 거취 논란",
+  "createdAt": "2026-11-21T08:00:00.000Z",
+  "updatedAt": "2026-11-23T08:31:05.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "man-city"
+  ],
+  "players": [],
+  "sig": [
+   "enzo",
+   "maresca"
+  ],
+  "articles": [
+   {
+    "id": "639784fc9ab9",
+    "url": "https://www.footballinsider247.com/manchester-city/next-manager/man-citys-stance-on-sacking-enzo-maresca-revealed-by-club-adviser",
+    "title": "Man City's stance on sacking Enzo Maresca revealed by club adviser",
+    "ko": "맨시티, 엔초 마레스카 경질 가능성에 선 긋나",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-21T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7f242f7802e2",
+    "url": "https://www.footballinsider247.com/manchester-city/enzo-marescas-position-as-man-city-manager-is-far-more-perilous-than-people-think-verdict",
+    "title": "Enzo Maresca's position as Man City manager is far more perilous than people think - verdict",
+    "ko": "마레스카 맨시티 감독직 위태롭다는 평가 나와",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-23T08:31:05.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.41,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-21T08:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Enzo Maresca's position as Man City manager is far more perilous than people think - verdict",
+  "aliases": [
+   "man-city-manager-future-20261123"
+  ]
+ },
+ {
+  "slug": "freeman-man-utd-transfer",
+  "mode": "llm",
+  "titleKo": "맨유 알렉스 프리먼 영입 관심",
+  "createdAt": "2026-11-23T08:20:00.000Z",
+  "updatedAt": "2026-11-23T08:20:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [
+   "알렉스 프리먼"
+  ],
+  "sig": [
+   "mauricio",
+   "pochettino",
+   "alex",
+   "freeman"
+  ],
+  "articles": [
+   {
+    "id": "1f7c25796943",
+    "url": "https://www.footballinsider247.com/manchester-united/sources-mauricio-pochettino-holds-key-to-man-united-signing-alex-freeman",
+    "title": "Sources: Mauricio Pochettino holds key to Man United signing Alex Freeman",
+    "ko": "포체티노, 알렉스 프리먼 영입 성사 열쇠 쥐고 있다는 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-23T08:20:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "알렉스 프리먼"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "알렉스 프리먼",
+     "from": null,
+     "to": "맨유"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.4,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "1f7c25796943",
+    "at": "2026-11-23T08:20:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "알렉스 프리먼",
+   "from": null,
+   "to": "맨유"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-23T08:20:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Mauricio Pochettino holds key to Man United signing Alex Freeman"
+ },
+ {
+  "slug": "cifuentes-rangers-transfer",
+  "mode": "llm",
+  "titleKo": "레인저스 시푸엔테스 1월 이적 가십",
+  "createdAt": "2026-11-23T08:09:49.000Z",
+  "updatedAt": "2026-11-23T08:09:49.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [],
+  "players": [
+   "시푸엔테스"
+  ],
+  "sig": [
+   "cifuentes"
+  ],
+  "articles": [
+   {
+    "id": "e2411e72660d",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6jeqweg7j2eo?at_medium=RSS&at_campaign=rss",
+    "title": "Rangers plan January exit for Cifuentes - gossip",
+    "ko": "레인저스, 1월 시푸엔테스 방출 계획 가십",
+    "source": "bbc",
+    "publishedAt": "2026-11-23T08:09:49.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "시푸엔테스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "시푸엔테스",
+     "from": "레인저스",
+     "to": null
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.38,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "e2411e72660d",
+    "at": "2026-11-23T08:09:49.000Z",
+    "source": "bbc",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "시푸엔테스",
+   "from": "레인저스",
+   "to": null
+  },
+  "firstReport": {
+   "name": "BBC Sport",
+   "source": "bbc",
+   "at": "2026-11-23T08:09:49.000Z",
+   "viaQuote": false
+  },
+  "headline": "Rangers plan January exit for Cifuentes - gossip"
+ },
+ {
+  "slug": "leeds-chelsea-2026-11-22",
+  "mode": "llm",
+  "titleKo": "리즈 대 첼시 경기",
+  "createdAt": "2026-11-22T22:53:50.000Z",
+  "updatedAt": "2026-11-23T07:51:50.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "에메냐"
+  ],
+  "sig": [
+   "emmanuel",
+   "emegha",
+   "robbed",
+   "leeds"
+  ],
+  "articles": [
+   {
+    "id": "3144cb5d9b3e",
+    "url": "https://www.thesun.co.uk/sport/41110978/chelsea-emmanuel-emegha-robbed/",
+    "title": "Chelsea star Emmanuel Emegha reveals he was ROBBED after scoring first Premier League goal in Leeds loss",
+    "ko": "에메냐, 리즈전 패배에도 첫 EPL 득점…'억울하다' 발언",
+    "source": "sun",
+    "publishedAt": "2026-11-22T22:53:50.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "에메냐"
+    ],
+    "playerTags": [],
+    "author": "Etienne Fermie",
+    "transfer": null
+   },
+   {
+    "id": "0daea7de9d18",
+    "url": "https://www.mirror.co.uk/sport/football/news/chelsea-star-robbed-leeds-statement-37904928",
+    "title": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released",
+    "ko": "첼시 선수, 리즈전 대패 후 '억울하다' 발언 공개",
+    "source": "mirror",
+    "publishedAt": "2026-11-23T07:51:50.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 0.44,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-22T22:53:50.000Z",
+   "viaQuote": false
+  },
+  "headline": "Chelsea star reveals he was 'robbed' after Leeds thrashing as statement released"
  },
  {
   "slug": "raya-injury",
@@ -11414,7 +12255,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.43,
+  "score": 0.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -11592,7 +12433,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.31,
+  "score": 1.07,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11728,7 +12569,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.37,
+  "score": 0.3,
   "topTier": 4,
   "stageHistory": [
    {
@@ -12021,7 +12862,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 1.7,
+  "score": 1.39,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12034,321 +12875,6 @@
    "viaQuote": false
   },
   "headline": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?"
- },
- {
-  "slug": "yoro-liverpool-discipline",
-  "mode": "llm",
-  "titleKo": "요로 리버풀전 퇴장 징계 논란",
-  "createdAt": "2026-11-22T16:45:00.000Z",
-  "updatedAt": "2026-11-23T06:00:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "man-utd",
-   "liverpool"
-  ],
-  "players": [
-   "요로",
-   "레니 요로",
-   "Leny Yoro",
-   "코비 마이누",
-   "브루노 페르난데스",
-   "마이누",
-   "제레미 자케"
-  ],
-  "sig": [
-   "poch"
-  ],
-  "articles": [
-   {
-    "id": "49242f1c47ee",
-    "url": "https://www.skysports.com/watch/video/13615331/off-l-yoro-8-liverpool-0-0-manchester-utd",
-    "title": "Yoro sees red eight minutes into Poch's Man Utd reign",
-    "ko": "요로, 포체티노 맨유 부임 8분 만에 퇴장",
-    "source": "sky",
-    "publishedAt": "2026-11-22T16:45:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "요로"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "21b424cf48f5",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-yoro-red-card-34950788",
-    "title": "Gary Neville points finger at Mauricio Pochettino as Leny Yoro red card stuns Man United icon",
-    "ko": "네빌, 레니 요로 퇴장에 포체티노 지목 비판",
-    "source": "men",
-    "publishedAt": "2026-11-22T16:45:25.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "레니 요로"
-    ],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "9a5e07972eee",
-    "url": "https://www.thesun.co.uk/sport/41108432/leny-yoro-sent-off-liverpool-man-utd-mauricio-pochettino/",
-    "title": "Leny Yoro SENT OFF just 7 minutes into Man Utd’s clash at Liverpool as Mauricio Pochettino suffers nightmare start",
-    "ko": "레니 요로, 맨유 리버풀전 7분 만에 퇴장",
-    "source": "sun",
-    "publishedAt": "2026-11-22T16:46:59.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "레니 요로"
-    ],
-    "playerTags": [],
-    "author": "Danny Rust",
-    "transfer": null
-   },
-   {
-    "id": "a6a9ac108d95",
-    "url": "https://www.thesun.co.uk/sport/41108774/man-utd-mauricio-pochettino-liverpool-leny-yoro/",
-    "title": "‘That’s what Man Utd does to you’ – Fans spot Pochettino’s stunned reaction to Leny Yoro’s red card at Liverpool",
-    "ko": "포체티노, 리버풀전 요로 퇴장 장면에 충격 반응 포착",
-    "source": "sun",
-    "publishedAt": "2026-11-22T17:45:56.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "레니 요로"
-    ],
-    "playerTags": [],
-    "author": "Etienne Fermie",
-    "transfer": null
-   },
-   {
-    "id": "47d8d6649dd7",
-    "url": "https://www.thesun.co.uk/sport/41109003/man-utd-roy-keane-defends-leny-yoro-liverpool-red/",
-    "title": "Roy Keane explains why Man Utd star Leny Yoro should NOT have been sent off against Liverpool",
-    "ko": "로이 킨 \"요로, 리버풀전서 퇴장 당하면 안 됐다\"",
-    "source": "sun",
-    "publishedAt": "2026-11-22T18:20:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "Leny Yoro"
-    ],
-    "playerTags": [],
-    "author": "Daisy Redhead",
-    "transfer": null
-   },
-   {
-    "id": "a0c766af5178",
-    "url": "https://www.footballinsider247.com/manchester-united/ex-pgmol-chief-makes-u-turn-on-man-united-red-card-as-new-footage-analysed",
-    "title": "Ex-PGMOL chief makes U-turn on Man United red card as new footage analysed",
-    "ko": "전 PGMOL 책임자, 맨유 퇴장 판정 입장 번복",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T18:40:11.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f201ca3ba1fd",
-    "url": "https://www.skysports.com/football/news/12040/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak",
-    "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
-    "ko": "포체티노·마이누, 요로 퇴장에 \"말도 안 된다\" 분노",
-    "source": "sky",
-    "publishedAt": "2026-11-22T18:58:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "마이누",
-     "요로"
-    ],
-    "playerTags": [
-     "kobbie-mainoo"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f95e10bfbd44",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/kobbie-mainoo-slams-leny-yoro-34950190",
-    "title": "Kobbie Mainoo slams Leny Yoro red card decision vs Liverpool and issues Man United rallying cry",
-    "ko": "마이누, 리버풀전 요로 퇴장 판정 정면 비판하며 맨유 결집 호소",
-    "source": "men",
-    "publishedAt": "2026-11-22T19:05:22.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "코비 마이누"
-    ],
-    "playerTags": [
-     "kobbie-mainoo"
-    ],
-    "author": "Steven Railston",
-    "transfer": null
-   },
-   {
-    "id": "9389ffc27721",
-    "url": "https://www.footballinsider247.com/manchester-united/leny-yoro-wrongly-sent-off-fernandes-rages-three-sam-barrott-howlers-in-liverpool-vs-man-united",
-    "title": "Leny Yoro wrongly sent off, Fernandes rages: Three Sam Barrott howlers in Liverpool vs Man United",
-    "ko": "요로 퇴장 오심 논란, 페르난데스 분노",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T19:55:38.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "요로",
-     "브루노 페르난데스"
-    ],
-    "playerTags": [
-     "bruno-fernandes"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "20a3d8cc3a3c",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-leny-yoro-red-34951312",
-    "title": "Everything said on Leny Yoro red and Premier League explanation as Man United hit out",
-    "ko": "요로 퇴장 판정 두고 맨유 강하게 반발",
-    "source": "men",
-    "publishedAt": "2026-11-22T21:17:05.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "레니 요로"
-    ],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "be21496fff01",
-    "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
-    "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
-    "ko": "포체티노 '요로 퇴장 아프다', 안필드 참패 비판",
-    "source": "guardian",
-    "publishedAt": "2026-11-22T21:31:03.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "요로"
-    ],
-    "playerTags": [],
-    "author": "Andy Hunter at Anfield",
-    "transfer": null
-   },
-   {
-    "id": "8679dd249da6",
-    "url": "https://www.lequipe.fr/Football/Video/Premier-league-manchester-united-mauricio-pochettino-crie-a-l-injustice-apres-le-rouge-de-yoro/20246118#at_medium=RSS_feeds",
-    "title": "Pochettino crie à l’injustice après le rouge de Yoro",
-    "ko": "포체티노, 요로 퇴장에 억울함 호소",
-    "source": "lequipe",
-    "publishedAt": "2026-11-22T22:57:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "요로"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "61eed17e1ba0",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mauricio-pochettino-points-finger-jeremy-34949959",
-    "title": "Mauricio Pochettino points finger at Jeremy Jacquet and slams Liverpool red card - 'very, very low'",
-    "ko": "포체티노, 리버풀전 퇴장 두고 자쿠에 지목 후 '매우 낮은' 판정 비판",
-    "source": "lecho",
-    "publishedAt": "2026-11-23T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "man-utd"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "제레미 자케"
-    ],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 7,
-  "score": 1.39,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "kobbie-mainoo",
-   "bruno-fernandes"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-22T16:45:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Mauricio Pochettino points finger at Jeremy Jacquet and slams Liverpool red card - 'very, very low'"
  },
  {
   "slug": "newcastle-manager-future",
@@ -13611,7 +14137,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.08,
+  "score": 0.88,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13771,7 +14297,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 1.08,
+  "score": 0.88,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13784,227 +14310,6 @@
    "viaQuote": false
   },
   "headline": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over"
- },
- {
-  "slug": "everton-manager-future",
-  "mode": "llm",
-  "titleKo": "에버턴 모예스 감독 거취 논란",
-  "createdAt": "2026-11-17T12:30:00.000Z",
-  "updatedAt": "2026-11-23T06:00:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "everton"
-  ],
-  "players": [
-   "잭 그릴리시",
-   "그릴리시",
-   "픽포드",
-   "티에르노 배리"
-  ],
-  "sig": [
-   "david",
-   "moyes"
-  ],
-  "articles": [
-   {
-    "id": "3798518d0948",
-    "url": "https://www.footballinsider247.com/everton/evertons-david-moyes-exit-fears-re-emerge-as-new-managers-job-could-soon-be-available-verdict",
-    "title": "Everton's David Moyes exit fears re-emerge as new manager's job could soon be available - verdict",
-    "ko": "에버턴 모예스 경질 우려 재부상…후임 감독 자리 곧 날 수도",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-17T12:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "508038c6fa5f",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-told-perfect-new-34926220",
-    "title": "David Moyes told he is 'perfect' for new job as Everton contract uncertainty continues",
-    "ko": "모예스, 에버턴 계약 불확실 속 새 자리에 적임자로 거론",
-    "source": "lecho",
-    "publishedAt": "2026-11-17T17:01:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Theo Squires",
-    "transfer": null
-   },
-   {
-    "id": "0103274da076",
-    "url": "https://www.footballinsider247.com/everton/match/david-moyes-to-be-blessed-by-return-of-very-valuable-everton-player-but-its-not-jack-grealish",
-    "title": "David Moyes to be ‘blessed’ by return of ‘very valuable’ Everton player - but it's not Jack Grealish",
-    "ko": "모예스, 에버턴 '매우 가치 있는' 선수 복귀로 축복받을 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T08:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e254ecd6068d",
-    "url": "https://www.footballinsider247.com/everton/sources-david-moyes-eyeing-dream-job-as-everton-exit-looms",
-    "title": "Sources: David Moyes eyeing 'dream' job as Everton exit looms",
-    "ko": "데이비드 모예스, 에버턴 이탈 임박 속 꿈의 자리 주시",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-18T18:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "cf456d0f7a79",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/friedkin-group-two-everton-transfers-34932859",
-    "title": "Friedkin Group have two Everton transfers they must deliver for David Moyes in January",
-    "ko": "에버턴, 모예스 위해 1월 이적 두 건 성사시켜야",
-    "source": "lecho",
-    "publishedAt": "2026-11-19T05:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Wheelock, Connor O'Neill",
-    "transfer": null
-   },
-   {
-    "id": "2654b96e85c7",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/moyes-everton-press-conference-live-34941714",
-    "title": "David Moyes press conference LIVE - Jack Grealish latest and Everton injury news for Brentford",
-    "ko": "모예스 기자회견 라이브…에버턴 브렌트퍼드전 부상 소식",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T12:47:35.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "잭 그릴리시"
-    ],
-    "playerTags": [],
-    "author": "Paul Wheelock, Connor O'Neill",
-    "transfer": null
-   },
-   {
-    "id": "7d63448a54b8",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/david-moyes-delivers-jack-grealish-34943246",
-    "title": "David Moyes delivers Jack Grealish Everton update and emphatic Jordan Pickford verdict",
-    "ko": "모예스, 그릴리시 에버턴 상황 업데이트와 픽포드 평가",
-    "source": "lecho",
-    "publishedAt": "2026-11-20T14:52:22.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "그릴리시",
-     "픽포드"
-    ],
-    "playerTags": [],
-    "author": "Paul Wheelock",
-    "transfer": null
-   },
-   {
-    "id": "7088c9dc3bb2",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/exclusive-david-moyes-reveals-what-34946108",
-    "title": "EXCLUSIVE: David Moyes reveals what he wants before leaving Everton as he makes future admission",
-    "ko": "모이스, 에버턴 떠나기 전 원하는 것 밝혀",
-    "source": "lecho",
-    "publishedAt": "2026-11-21T17:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Chris Beesley",
-    "transfer": null
-   },
-   {
-    "id": "bcf50b973f9a",
-    "url": "https://www.footballinsider247.com/everton/stefan-borson-rates-david-moyes-chances-of-quitting-everton-mid-season",
-    "title": "Stefan Borson rates David Moyes' chances of quitting Everton 'mid-season'",
-    "ko": "스티브 보슨, 모예스 에버턴 이탈 가능성 시즌 중 언급",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T08:30:00.000Z",
-    "credited": "스티브 보슨",
-    "clubs": [
-     "everton"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "aa4630cba17a",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/has-gamble-paid-off-david-34950704",
-    "title": "'Has the gamble paid off?'- David Moyes delivers fresh Thierno Barry Everton verdict",
-    "ko": "데이비드 모예스, 에버턴의 티에르노 배리 영입 도박 성공 여부 평가",
-    "source": "lecho",
-    "publishedAt": "2026-11-23T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "everton"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "티에르노 배리"
-    ],
-    "playerTags": [],
-    "author": "Connor O'Neill",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 1.08,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "스티브 보슨",
-   "at": "2026-11-17T12:30:00.000Z",
-   "viaQuote": true
-  },
-  "headline": "'Has the gamble paid off?'- David Moyes delivers fresh Thierno Barry Everton verdict"
  },
  {
   "slug": "man-utd-affairs-ownership-sale",
@@ -14118,7 +14423,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 1.08,
+  "score": 0.88,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14260,7 +14565,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.05,
+  "score": 0.86,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14351,7 +14656,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.74,
+  "score": 0.6,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14412,7 +14717,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.66,
+  "score": 0.54,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14568,7 +14873,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14617,7 +14922,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14693,7 +14998,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14718,54 +15023,6 @@
    "viaQuote": false
   },
   "headline": "Marco Silva: mensagem de condolências, o 'bate-boca' sobre o golo do Torreense e o futuro de Prestianni"
- },
- {
-  "slug": "torreense-benfica-incident",
-  "mode": "llm",
-  "titleKo": "토레넨세-벤피카 경기 중 팬 사망",
-  "createdAt": "2026-11-22T23:08:00.000Z",
-  "updatedAt": "2026-11-22T23:08:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "torreense",
-   "benfica"
-  ],
-  "articles": [
-   {
-    "id": "7017e850ed33",
-    "url": "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/morreu-o-adepto-que-sofreu-paragem-cardiorrespiratoria-durante-o-torreense-benfica",
-    "title": "Morreu o adepto que sofreu paragem cardiorrespiratória durante o Torreense-Benfica",
-    "ko": "토레넨세-벤피카 경기 중 심정지 쓰러진 팬 사망",
-    "source": "record",
-    "publishedAt": "2026-11-22T23:08:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.33,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-22T23:08:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Morreu o adepto que sofreu paragem cardiorrespiratória durante o Torreense-Benfica"
  },
  {
   "slug": "sporting-benfica-2026-11-22",
@@ -14819,7 +15076,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.26,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15172,9 +15429,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.93,
+  "score": 0.15,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15283,9 +15540,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.55,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15335,9 +15592,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.3,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16389,9 +16646,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 14,
-  "score": 0.09,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16445,9 +16702,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.28,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16496,9 +16753,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16549,9 +16806,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16597,9 +16854,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17016,9 +17273,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 11,
-  "score": 0.25,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -21632,58 +21889,6 @@
    "viaQuote": false
   },
   "headline": "World Cup winner collapses on live TV during interview as medics rush to his aid"
- },
- {
-  "slug": "newcastle-affairs-interest-rate-loss",
-  "mode": "llm",
-  "titleKo": "뉴캐슬 이자율 상승 재정 손실 우려",
-  "createdAt": "2026-11-22T13:30:00.000Z",
-  "updatedAt": "2026-11-22T13:30:00.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "newcastle"
-  ],
-  "players": [],
-  "sig": [
-   "finance",
-   "guru"
-  ],
-  "articles": [
-   {
-    "id": "68e46c30f836",
-    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-to-lose-75m-per-year-on-even-higher-interest-rate-finance-guru",
-    "title": "Newcastle to lose '£75m-per-year' on 'even higher' interest rate - Finance Guru",
-    "ko": "뉴캐슬, 더 높은 이자율로 연간 7500만 파운드 손실 우려",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T13:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "newcastle"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 4,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football Insider",
-   "source": "fbinsider",
-   "at": "2026-11-22T13:30:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Newcastle to lose '£75m-per-year' on 'even higher' interest rate - Finance Guru"
  },
  {
   "slug": "bruno-fernandes-man-utd-contract",
