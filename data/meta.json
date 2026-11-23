@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T00:25:40.563Z",
+ "updatedAt": "2026-11-23T01:50:26.354Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
   "pochettino-man-utd-manager-future",
@@ -47,13 +47,13 @@
   "bbc": {
    "ok": true,
    "items": 77,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
    "items": 64,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "sky": {
@@ -101,20 +101,26 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 80
   },
   "fblondon": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "men": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "lecho": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 1,
+   "authorRate": 100
   },
   "tz": {
    "ok": true,
@@ -143,7 +149,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -159,12 +165,16 @@
    "authorRate": 100
   },
   "stoke": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 22,
+   "added": 0,
+   "authorRate": 100
   },
   "chronicle": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "sun": {
    "ok": true,
@@ -173,16 +183,20 @@
    "authorRate": 100
   },
   "star": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "mirror": {
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true,
+   "items": 25,
+   "added": 0,
+   "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 2,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -310,8 +324,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
-  "singleArticleRate": 40,
+  "recentIssues": 217,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -319,7 +333,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 77
+    "count": 78
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -469,11 +483,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르코 실바",
-     "count": 3
+     "ko": "마르쿠 실바",
+     "count": 4
     },
     {
-     "ko": "마르쿠 실바",
+     "ko": "마르코 실바",
      "count": 3
     },
     {
@@ -707,6 +721,20 @@
    ]
   },
   {
+   "en": "Tzolakis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "졸라키스",
+     "count": 2
+    },
+    {
+     "ko": "촐라키스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "De Ligt",
    "dictionary": null,
    "variants": [
@@ -721,20 +749,6 @@
     {
      "ko": "데 리흐트",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tzolakis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "졸라키스",
-     "count": 2
-    },
-    {
-     "ko": "촐라키스",
-     "count": 2
     }
    ]
   },
@@ -1227,8 +1241,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 561,
-   "llm": 561
+   "collected": 571,
+   "llm": 571
   }
  },
  "llmErrors": []
