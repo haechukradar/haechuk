@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:27:48.410Z",
+ "updatedAt": "2026-11-23T18:21:13.091Z",
  "hot": [
   "david-raya-injury",
   "man-utd-affairs-direction-20261123",
@@ -47,8 +47,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 79,
-   "added": 2,
+   "items": 80,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,38 +94,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 3,
    "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
-   "authorRate": 73
+   "added": 1,
+   "authorRate": 75
   },
   "waz": {
    "ok": true,
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -178,7 +178,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -190,13 +190,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 9,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -323,12 +323,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 213,
+  "recentIssues": 211,
   "singleArticleRate": 43,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 82
+    "count": 81
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -454,24 +454,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 퐁세카",
-     "count": 4
-    },
-    {
-     "ko": "폰세카",
-     "count": 2
-    },
-    {
-     "ko": "파울루 폰세카",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Rummenigge",
    "dictionary": null,
    "variants": [
@@ -482,38 +464,6 @@
     {
      "ko": "루멘니게",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이네스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보슨",
-     "count": 4
-    },
-    {
-     "ko": "스테판 보르손",
-     "count": 2
-    },
-    {
-     "ko": "스티브 보슨",
-     "count": 1
     }
    ]
   },
@@ -554,6 +504,20 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이네스",
+     "count": 3
+    },
+    {
+     "ko": "키스 와이니스",
+     "count": 3
+    }
+   ]
+  },
+  {
    "en": "Gonçalo Ramos",
    "dictionary": null,
    "variants": [
@@ -586,6 +550,24 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 3
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 2
+    },
+    {
+     "ko": "폰세카",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nmecha",
    "dictionary": null,
    "variants": [
@@ -613,6 +595,24 @@
     },
     {
      "ko": "회이네스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보슨",
+     "count": 2
+    },
+    {
+     "ko": "스테판 보르손",
+     "count": 2
+    },
+    {
+     "ko": "스티브 보슨",
      "count": 1
     }
    ]
@@ -777,24 +777,6 @@
     },
     {
      "ko": "에메냐",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thioune",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티운",
-     "count": 1
-    },
-    {
-     "ko": "투운",
-     "count": 1
-    },
-    {
-     "ko": "틸레만",
      "count": 1
     }
    ]
@@ -994,6 +976,20 @@
    ]
   },
   {
+   "en": "Emre Mor",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "엠레 모르",
+     "count": 2
+    },
+    {
+     "ko": "에므레 모르",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1017,20 +1013,6 @@
     },
     {
      "ko": "모리스 코엔",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marquinhos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르퀴뇨스",
-     "count": 1
-    },
-    {
-     "ko": "마르키뉴스",
      "count": 1
     }
    ]
@@ -1101,6 +1083,20 @@
     },
     {
      "ko": "누누 디아스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Thioune",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티운",
+     "count": 1
+    },
+    {
+     "ko": "틸레만",
      "count": 1
     }
    ]
@@ -1264,8 +1260,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 150,
-   "llm": 150
+   "collected": 172,
+   "llm": 172
   }
  },
  "llmErrors": []
