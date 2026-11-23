@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-23T05:07:39.121Z",
+ "updatedAt": "2026-11-23T06:15:17.135Z",
  "hot": [
   "liverpool-man-utd-2026-11-22",
-  "pochettino-man-utd-manager-future",
   "yoro-liverpool-discipline",
+  "pochettino-man-utd-manager-future",
   "atalanta-inter-2026-11-22",
   "ac-milan-frosinone-2026-11-22"
  ],
@@ -59,19 +59,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 19,
-   "added": 1,
-   "authorRate": 89
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,31 +95,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 82
+   "added": 1,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -143,7 +143,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -155,13 +155,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -173,7 +173,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -263,16 +263,20 @@
    "count": 23
   },
   {
+   "name": "티에르노 배리",
+   "count": 21
+  },
+  {
    "name": "트레솔디",
    "count": 21
   },
   {
-   "name": "티에르노 배리",
-   "count": 20
-  },
-  {
    "name": "반 다이크",
    "count": 19
+  },
+  {
+   "name": "윌 랭크셔",
+   "count": 18
   },
   {
    "name": "니코 파스",
@@ -288,10 +292,6 @@
   },
   {
    "name": "데 미겔",
-   "count": 17
-  },
-  {
-   "name": "윌 랭크셔",
    "count": 17
   },
   {
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
+  "recentIssues": 217,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 94
+    "count": 93
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 79
+    "count": 78
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
@@ -434,7 +434,7 @@
     },
     {
      "ko": "데이비드 모예스",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "데이비드 모이스",
@@ -685,6 +685,20 @@
    ]
   },
   {
+   "en": "Thierno Barry",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티에르노 배리",
+     "count": 3
+    },
+    {
+     "ko": "티에르노 바리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Woltemade",
    "dictionary": null,
    "variants": [
@@ -873,20 +887,6 @@
    ]
   },
   {
-   "en": "Vasco Seabra",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스쿠 세브라",
-     "count": 2
-    },
-    {
-     "ko": "바스쿠 세아브라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kniat",
    "dictionary": null,
    "variants": [
@@ -914,20 +914,6 @@
     },
     {
      "ko": "에메냐",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Thierno Barry",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티에르노 배리",
-     "count": 2
-    },
-    {
-     "ko": "티에르노 바리",
      "count": 1
     }
    ]
@@ -970,6 +956,20 @@
     },
     {
      "ko": "바우어",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Tiago Margarido",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티아고 마가리두",
+     "count": 1
+    },
+    {
+     "ko": "티아구 마르가리두",
      "count": 1
     }
    ]
@@ -1241,8 +1241,8 @@
    "llm": 955
   },
   "2026-11-23": {
-   "collected": 602,
-   "llm": 602
+   "collected": 623,
+   "llm": 623
   }
  },
  "llmErrors": []
