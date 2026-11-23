@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T15:16:10.754Z",
+ "updatedAt": "2026-11-23T16:28:07.873Z",
  "hot": [
-  "yoro-liverpool-discipline",
   "david-raya-injury",
+  "yoro-liverpool-discipline",
+  "endrick-injury",
   "pochettino-man-utd-manager-future",
-  "man-city-affairs-charges-20261119",
-  "chelsea-manager-future"
+  "man-city-affairs-charges-20261119"
  ],
  "days": [
   "2026-10-18",
@@ -47,20 +47,20 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 0,
+   "items": 78,
+   "added": 4,
    "authorRate": 0
   },
   "guardian": {
    "ok": true,
-   "items": 63,
-   "added": 2,
+   "items": 64,
+   "added": 3,
    "authorRate": 95
   },
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -72,7 +72,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -84,7 +84,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,37 +96,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
-   "authorRate": 82
+   "added": 7,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 2,
    "authorRate": 75
   },
   "waz": {
@@ -150,7 +150,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,7 +162,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -180,7 +180,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 2,
    "authorRate": 100
   },
   "star": {
@@ -197,8 +197,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 14,
-   "added": 2,
+   "items": 11,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -253,7 +253,7 @@
   },
   {
    "name": "다비드 라야",
-   "count": 27
+   "count": 28
   },
   {
    "name": "이스테방",
@@ -325,20 +325,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 230,
-  "singleArticleRate": 47,
+  "recentIssues": 222,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 87
+    "count": 83
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 79
+    "count": 80
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 41
+    "count": 40
    },
    {
     "slug": "man-city-fulham-2026-11-20",
@@ -370,7 +370,11 @@
    },
    {
     "slug": "bayern-koln-2026-11-19",
-    "count": 17
+    "count": 16
+   },
+   {
+    "slug": "musiala-bayern-transfer",
+    "count": 15
    },
    {
     "slug": "kane-olise-injury",
@@ -593,20 +597,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Baum",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바움",
-     "count": 4
-    },
-    {
-     "ko": "바우마",
      "count": 1
     }
    ]
@@ -932,6 +922,38 @@
    ]
   },
   {
+   "en": "Kehl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "케흘",
+     "count": 1
+    },
+    {
+     "ko": "케일",
+     "count": 1
+    },
+    {
+     "ko": "켈",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Karl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카를",
+     "count": 2
+    },
+    {
+     "ko": "칼",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Philippe Clement",
    "dictionary": null,
    "variants": [
@@ -1140,20 +1162,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Antoine Mille",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "앙투안 밀",
-     "count": 1
-    },
-    {
-     "ko": "앙투안 밀레",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1258,8 +1266,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 50,
-   "llm": 50
+   "collected": 98,
+   "llm": 98
   }
  },
  "llmErrors": []
