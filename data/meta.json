@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T22:18:02.631Z",
+ "updatedAt": "2026-11-23T23:20:14.505Z",
  "hot": [
-  "monza-fiorentina-2026-11-23",
-  "david-raya-injury",
-  "infantino-fifa-affairs-investor-deal",
+  "brentford-everton-2026-11-22",
   "tarkowski-discipline",
-  "yoro-liverpool-discipline"
+  "monza-fiorentina-2026-11-23",
+  "levante-elche-2026-11-23",
+  "david-raya-injury"
  ],
  "days": [
   "2026-10-18",
@@ -47,8 +47,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 80,
-   "added": 3,
+   "items": 81,
+   "added": 5,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 8,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,13 +94,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 1,
    "authorRate": 76
   },
   "fblondon": {
@@ -112,13 +112,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,7 +160,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -178,13 +178,13 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
@@ -214,11 +214,11 @@
    "count": 54
   },
   {
-   "name": "잭 그릴리시",
-   "count": 41
+   "name": "루카쿠",
+   "count": 42
   },
   {
-   "name": "루카쿠",
+   "name": "잭 그릴리시",
    "count": 41
   },
   {
@@ -239,7 +239,7 @@
   },
   {
    "name": "웨인 루니",
-   "count": 36
+   "count": 37
   },
   {
    "name": "그릴리시",
@@ -314,17 +314,17 @@
    "count": 16
   },
   {
-   "name": "돈나룸마",
+   "name": "구스타보 바렐라",
    "count": 16
   },
   {
-   "name": "벤 화이트",
+   "name": "돈나룸마",
    "count": 16
   }
  ],
  "issueHealth": {
-  "recentIssues": 219,
-  "singleArticleRate": 44,
+  "recentIssues": 218,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -365,10 +365,6 @@
    {
     "slug": "atalanta-inter-2026-11-22",
     "count": 18
-   },
-   {
-    "slug": "musiala-bayern-transfer",
-    "count": 16
    },
    {
     "slug": "david-raya-injury",
@@ -415,7 +411,7 @@
    "variants": [
     {
      "ko": "모예스",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "데이비드 모예스",
@@ -446,20 +442,6 @@
     {
      "ko": "마르쿠 시우바",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rummenigge",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루메니게",
-     "count": 5
-    },
-    {
-     "ko": "루멘니게",
-     "count": 2
     }
    ]
   },
@@ -495,6 +477,20 @@
     },
     {
      "ko": "에바닐손",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Rummenigge",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루메니게",
+     "count": 4
+    },
+    {
+     "ko": "루멘니게",
      "count": 2
     }
    ]
@@ -912,6 +908,24 @@
    ]
   },
   {
+   "en": "Ethan Nwaneri",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "네와니",
+     "count": 1
+    },
+    {
+     "ko": "에탄 은와네리",
+     "count": 1
+    },
+    {
+     "ko": "에승 네와니",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "De Ketelaere",
    "dictionary": null,
    "variants": [
@@ -1138,20 +1152,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Ivan Toney",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "이반 토니",
-     "count": 1
-    },
-    {
-     "ko": "아이반 토니",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1256,8 +1256,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 315,
-   "llm": 315
+   "collected": 349,
+   "llm": 349
   }
  },
  "llmErrors": []
