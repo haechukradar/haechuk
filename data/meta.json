@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T11:50:11.792Z",
+ "updatedAt": "2026-11-24T12:59:50.689Z",
  "hot": [
-  "musiala-bayern-transfer",
+  "crystal-palace-women-affairs-substitutions",
+  "ferguson-glens-discipline",
   "infantino-fifa-affairs-investor-deal",
-  "yoro-liverpool-discipline",
-  "manuel-baum-augsburg-discipline",
-  "arsenal-dortmund-2026-11-24"
+  "losc-bayern-2026-11-25",
+  "chelsea-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -47,7 +47,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 83,
+   "items": 84,
    "added": 2,
    "authorRate": 0
   },
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -70,7 +70,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 17,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,19 +94,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 80
+   "added": 5,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -118,14 +118,14 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 4,
-   "authorRate": 75
+   "added": 2,
+   "authorRate": 78
   },
   "waz": {
    "ok": true,
@@ -136,7 +136,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -148,13 +148,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -178,25 +178,25 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 5,
    "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 2,
+   "items": 9,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -223,7 +223,7 @@
   },
   {
    "name": "오워노",
-   "count": 40
+   "count": 41
   },
   {
    "name": "맥스 다우먼",
@@ -323,12 +323,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 227,
-  "singleArticleRate": 45,
+  "recentIssues": 230,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 80
+    "count": 79
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -343,10 +343,6 @@
     "count": 30
    },
    {
-    "slug": "man-city-fulham-2026-11-20",
-    "count": 26
-   },
-   {
     "slug": "doue-injury",
     "count": 25
    },
@@ -355,16 +351,20 @@
     "count": 25
    },
    {
+    "slug": "man-city-fulham-2026-11-20",
+    "count": 24
+   },
+   {
     "slug": "chelsea-leeds-2026-11-22",
     "count": 23
    },
    {
-    "slug": "atalanta-inter-2026-11-22",
+    "slug": "chelsea-manager-future",
     "count": 19
    },
    {
-    "slug": "chelsea-manager-future",
-    "count": 17
+    "slug": "atalanta-inter-2026-11-22",
+    "count": 19
    },
    {
     "slug": "brentford-everton-2026-11-22",
@@ -396,6 +396,24 @@
    ]
   },
   {
+   "en": "David Moyes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모예스",
+     "count": 7
+    },
+    {
+     "ko": "데이비드 모예스",
+     "count": 5
+    },
+    {
+     "ko": "데이비드 모이스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Williams-Barnett",
    "dictionary": null,
    "variants": [
@@ -406,24 +424,6 @@
     {
      "ko": "윌리엄스바넷",
      "count": 3
-    }
-   ]
-  },
-  {
-   "en": "David Moyes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모예스",
-     "count": 7
-    },
-    {
-     "ko": "데이비드 모예스",
-     "count": 4
-    },
-    {
-     "ko": "데이비드 모이스",
-     "count": 1
     }
    ]
   },
@@ -474,6 +474,20 @@
     {
      "ko": "프란시스코 모우라",
      "count": 3
+    }
+   ]
+  },
+  {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제이미 캐러거",
+     "count": 7
+    },
+    {
+     "ko": "제이미 카라거",
+     "count": 1
     }
    ]
   },
@@ -536,20 +550,6 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이미 캐러거",
-     "count": 6
-    },
-    {
-     "ko": "제이미 카라거",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Evanilson",
    "dictionary": null,
    "variants": [
@@ -577,6 +577,20 @@
     },
     {
      "ko": "은마하",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gonçalo Ramos",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "곤살루 하무스",
+     "count": 5
+    },
+    {
+     "ko": "곤살루 하모스",
      "count": 1
     }
    ]
@@ -631,20 +645,6 @@
     },
     {
      "ko": "트레솔디",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gonçalo Ramos",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "곤살루 하무스",
-     "count": 4
-    },
-    {
-     "ko": "곤살루 하모스",
      "count": 1
     }
    ]
@@ -785,6 +785,20 @@
     },
     {
      "ko": "데 리흐트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Zabiri",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "자비리",
+     "count": 3
+    },
+    {
+     "ko": "사바리",
      "count": 1
     }
    ]
@@ -1162,20 +1176,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Vasco Seabra",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스쿠 세브라",
-     "count": 1
-    },
-    {
-     "ko": "바스쿠 세아브라",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1280,8 +1280,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 629,
-   "llm": 629
+   "collected": 694,
+   "llm": 694
   }
  },
  "llmErrors": []
