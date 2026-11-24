@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T23:20:14.505Z",
+ "updatedAt": "2026-11-24T00:15:35.460Z",
  "hot": [
   "brentford-everton-2026-11-22",
   "tarkowski-discipline",
@@ -48,7 +48,7 @@
   "bbc": {
    "ok": true,
    "items": 81,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -58,7 +58,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -82,7 +82,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -94,13 +94,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 76
   },
   "fblondon": {
@@ -112,13 +112,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -148,7 +148,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -160,12 +160,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 24,
+   "items": 18,
    "added": 0,
    "authorRate": 100
   },
@@ -178,24 +178,24 @@
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
+  "recentIssues": 217,
   "singleArticleRate": 45,
   "broad": [
    {
@@ -477,20 +477,6 @@
     },
     {
      "ko": "에바닐손",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Rummenigge",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루메니게",
-     "count": 4
-    },
-    {
-     "ko": "루멘니게",
      "count": 2
     }
    ]
@@ -696,6 +682,20 @@
    ]
   },
   {
+   "en": "Rummenigge",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루멘니게",
+     "count": 2
+    },
+    {
+     "ko": "루메니게",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Alan Shearer",
    "dictionary": null,
    "variants": [
@@ -885,6 +885,20 @@
     },
     {
      "ko": "키닝",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kaminski",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카미스키",
+     "count": 2
+    },
+    {
+     "ko": "카민스키",
      "count": 1
     }
    ]
@@ -1138,20 +1152,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Thomas Tuchel",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "튀헬",
-     "count": 1
-    },
-    {
-     "ko": "토마스 투헬",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1256,8 +1256,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 349,
-   "llm": 349
+   "collected": 357,
+   "llm": 357
   }
  },
  "llmErrors": []
