@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T14:22:17.044Z",
+ "updatedAt": "2026-11-24T15:31:03.739Z",
  "hot": [
+  "can-2025-affairs-tas-verdict",
+  "infantino-fifa-affairs-investor-deal",
   "crystal-palace-women-affairs-substitutions",
   "ferguson-glens-discipline",
-  "infantino-fifa-affairs-investor-deal",
-  "losc-bayern-2026-11-25",
-  "chelsea-manager-future"
+  "losc-bayern-2026-11-25"
  ],
  "days": [
   "2026-10-18",
@@ -42,13 +42,14 @@
   "2026-11-21",
   "2026-11-22",
   "2026-11-23",
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
    "items": 84,
-   "added": 1,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -58,19 +59,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 20,
+   "added": 11,
+   "authorRate": 85
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -82,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 10,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -100,31 +101,31 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
-   "authorRate": 80
+   "added": 1,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 2,
    "authorRate": 78
   },
   "waz": {
@@ -142,25 +143,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -179,24 +180,24 @@
    "ok": true,
    "items": 30,
    "added": 4,
-   "authorRate": 97
+   "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 5,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -255,7 +256,7 @@
   },
   {
    "name": "이스테방",
-   "count": 26
+   "count": 27
   },
   {
    "name": "알리송",
@@ -323,24 +324,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 234,
-  "singleArticleRate": 44,
+  "recentIssues": 229,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 78
+    "count": 79
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 76
-   },
-   {
-    "slug": "newcastle-arsenal-2026-11-22",
-    "count": 33
+    "count": 77
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 30
+    "count": 33
+   },
+   {
+    "slug": "newcastle-arsenal-2026-11-22",
+    "count": 32
    },
    {
     "slug": "doue-injury",
@@ -352,7 +353,7 @@
    },
    {
     "slug": "chelsea-leeds-2026-11-22",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "chelsea-manager-future",
@@ -367,8 +368,8 @@
     "count": 17
    },
    {
-    "slug": "man-city-fulham-2026-11-20",
-    "count": 16
+    "slug": "musiala-bayern-transfer",
+    "count": 15
    },
    {
     "slug": "david-raya-injury",
@@ -428,6 +429,24 @@
    ]
   },
   {
+   "en": "Paulo Fonseca",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울루 폰세카",
+     "count": 5
+    },
+    {
+     "ko": "파울루 퐁세카",
+     "count": 2
+    },
+    {
+     "ko": "폰세카",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -478,38 +497,6 @@
    ]
   },
   {
-   "en": "Paulo Fonseca",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파울루 폰세카",
-     "count": 4
-    },
-    {
-     "ko": "파울루 퐁세카",
-     "count": 2
-    },
-    {
-     "ko": "폰세카",
-     "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Francisco Moura",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프란시스쿠 모우라",
-     "count": 5
-    },
-    {
-     "ko": "프란시스코 모우라",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Timmy Simons",
    "dictionary": null,
    "variants": [
@@ -546,6 +533,20 @@
     {
      "ko": "키스 위니스",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Francisco Moura",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프란시스쿠 모우라",
+     "count": 5
+    },
+    {
+     "ko": "프란시스코 모우라",
+     "count": 1
     }
    ]
   },
@@ -594,6 +595,10 @@
      "count": 1
     },
     {
+     "ko": "에단 은와네리",
+     "count": 1
+    },
+    {
      "ko": "네와네리",
      "count": 1
     },
@@ -603,10 +608,6 @@
     },
     {
      "ko": "에승 네와니",
-     "count": 1
-    },
-    {
-     "ko": "에단 은와네리",
      "count": 1
     }
    ]
@@ -938,20 +939,6 @@
    ]
   },
   {
-   "en": "Keating",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키팅",
-     "count": 2
-    },
-    {
-     "ko": "키닝",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Kaminski",
    "dictionary": null,
    "variants": [
@@ -1122,34 +1109,6 @@
    ]
   },
   {
-   "en": "Philippe Clement",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "클레멘트",
-     "count": 1
-    },
-    {
-     "ko": "필리프 클레망",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Maurice Cohen",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "모리스 코앵",
-     "count": 1
-    },
-    {
-     "ko": "모리스 코엔",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sergio Busquets",
    "dictionary": null,
    "variants": [
@@ -1173,6 +1132,48 @@
     },
     {
      "ko": "키아로디아",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Buchanan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "부차난",
+     "count": 1
+    },
+    {
+     "ko": "부캐넌",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Wörle",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "뵐레",
+     "count": 1
+    },
+    {
+     "ko": "뵈를레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Kabak",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "카박",
+     "count": 1
+    },
+    {
+     "ko": "카바크",
      "count": 1
     }
    ]
@@ -1282,6 +1283,10 @@
   "2026-11-24": {
    "collected": 756,
    "llm": 756
+  },
+  "2026-11-25": {
+   "collected": 52,
+   "llm": 52
   }
  },
  "llmErrors": []
