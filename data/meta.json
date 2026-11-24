@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T16:44:00.148Z",
+ "updatedAt": "2026-11-24T17:35:36.912Z",
  "hot": [
   "can-2025-affairs-tas-verdict",
   "yoro-liverpool-discipline",
+  "aston-villa-galatasaray-2026-11-25",
   "infantino-fifa-affairs-investor-deal",
-  "crystal-palace-women-affairs-substitutions",
-  "ferguson-glens-discipline"
+  "arsenal-dortmund-2026-11-24"
  ],
  "days": [
   "2026-10-18",
@@ -48,8 +48,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 84,
-   "added": 3,
+   "items": 85,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -59,19 +59,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 20,
-   "added": 3,
-   "authorRate": 80
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,14 +95,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 4,
-   "authorRate": 88
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -113,7 +113,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -125,8 +125,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
-   "authorRate": 78
+   "added": 3,
+   "authorRate": 80
   },
   "waz": {
    "ok": true,
@@ -143,25 +143,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -173,31 +173,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 7,
+   "items": 28,
+   "added": 4,
    "authorRate": 93
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 4,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -259,6 +259,10 @@
    "count": 27
   },
   {
+   "name": "요로",
+   "count": 26
+  },
+  {
    "name": "알리송",
    "count": 25
   },
@@ -268,10 +272,6 @@
   },
   {
    "name": "티에르노 배리",
-   "count": 22
-  },
-  {
-   "name": "요로",
    "count": 22
   },
   {
@@ -324,24 +324,24 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 226,
+  "recentIssues": 224,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 80
+    "count": 82
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 77
+    "count": 76
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 38
+    "count": 43
    },
    {
     "slug": "newcastle-arsenal-2026-11-22",
-    "count": 30
+    "count": 29
    },
    {
     "slug": "doue-injury",
@@ -352,6 +352,10 @@
     "count": 25
    },
    {
+    "slug": "brentford-everton-2026-11-22",
+    "count": 19
+   },
+   {
     "slug": "chelsea-manager-future",
     "count": 19
    },
@@ -360,24 +364,20 @@
     "count": 19
    },
    {
-    "slug": "chelsea-leeds-2026-11-22",
-    "count": 19
-   },
-   {
-    "slug": "brentford-everton-2026-11-22",
+    "slug": "can-2025-affairs-tas-verdict",
     "count": 18
    },
    {
-    "slug": "can-2025-affairs-tas-verdict",
+    "slug": "musiala-bayern-transfer",
+    "count": 17
+   },
+   {
+    "slug": "arsenal-dortmund-2026-11-24",
     "count": 16
    },
    {
     "slug": "david-raya-injury",
     "count": 16
-   },
-   {
-    "slug": "musiala-bayern-transfer",
-    "count": 15
    }
   ]
  },
@@ -406,29 +406,15 @@
    "variants": [
     {
      "ko": "모예스",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "데이비드 모예스",
-     "count": 4
+     "count": 5
     },
     {
      "ko": "데이비드 모이스",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 9
-    },
-    {
-     "ko": "윌리엄스바넷",
-     "count": 3
     }
    ]
   },
@@ -451,24 +437,16 @@
    ]
   },
   {
-   "en": "Marco Silva",
+   "en": "Williams-Barnett",
    "dictionary": null,
    "variants": [
     {
-     "ko": "마르코 실바",
-     "count": 4
+     "ko": "윌리엄스-바넷",
+     "count": 6
     },
     {
-     "ko": "마르쿠 실바",
+     "ko": "윌리엄스바넷",
      "count": 3
-    },
-    {
-     "ko": "마르쿠 시우바",
-     "count": 1
-    },
-    {
-     "ko": "마르코 시우바",
-     "count": 1
     }
    ]
   },
@@ -496,6 +474,24 @@
     },
     {
      "ko": "제이미 카라거",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르쿠 실바",
+     "count": 3
+    },
+    {
+     "ko": "마르코 시우바",
      "count": 1
     }
    ]
@@ -536,20 +532,6 @@
     },
     {
      "ko": "티미 시몬스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Francisco Moura",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프란시스쿠 모우라",
-     "count": 5
-    },
-    {
-     "ko": "프란시스코 모우라",
      "count": 1
     }
    ]
@@ -667,38 +649,6 @@
    ]
   },
   {
-   "en": "Evanilson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에바닐송",
-     "count": 4
-    },
-    {
-     "ko": "에바닐손",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nmecha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "은메차",
-     "count": 3
-    },
-    {
-     "ko": "누메차",
-     "count": 1
-    },
-    {
-     "ko": "은마하",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Thierno Barry",
    "dictionary": null,
    "variants": [
@@ -748,6 +698,38 @@
     },
     {
      "ko": "스테판 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Francisco Moura",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프란시스쿠 모우라",
+     "count": 3
+    },
+    {
+     "ko": "프란시스코 모우라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Nmecha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "은메차",
+     "count": 2
+    },
+    {
+     "ko": "누메차",
+     "count": 1
+    },
+    {
+     "ko": "은마하",
      "count": 1
     }
    ]
@@ -869,20 +851,6 @@
    ]
   },
   {
-   "en": "Frick",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프릭",
-     "count": 2
-    },
-    {
-     "ko": "프리크",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marvin Compper",
    "dictionary": null,
    "variants": [
@@ -938,38 +906,6 @@
     },
     {
      "ko": "글레이저",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Kaminski",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "카미스키",
-     "count": 2
-    },
-    {
-     "ko": "카민스키",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Patrick Videira",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파트리크 비디라",
-     "count": 1
-    },
-    {
-     "ko": "패트릭 비에이라",
-     "count": 1
-    },
-    {
-     "ko": "파트리크 비데이라",
      "count": 1
     }
    ]
@@ -1113,15 +1049,15 @@
    ]
   },
   {
-   "en": "Chiarodia",
+   "en": "Frick",
    "dictionary": null,
    "variants": [
     {
-     "ko": "샤로디아",
+     "ko": "프리크",
      "count": 1
     },
     {
-     "ko": "키아로디아",
+     "ko": "프릭",
      "count": 1
     }
    ]
@@ -1178,6 +1114,62 @@
     },
     {
      "ko": "바트 페르브뤼헌",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Paulinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파울리뇨",
+     "count": 1
+    },
+    {
+     "ko": "파울리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yasir Al Rumayyan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야시르 알 루마이얀",
+     "count": 1
+    },
+    {
+     "ko": "야시르 알루마이안",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dries Mertens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "드리스 메르턴스",
+     "count": 1
+    },
+    {
+     "ko": "드리스 메르텐스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Cavan Sullivan",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "캐번 설리번",
+     "count": 1
+    },
+    {
+     "ko": "칸 설리번",
      "count": 1
     }
    ]
@@ -1289,8 +1281,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 106,
-   "llm": 106
+   "collected": 164,
+   "llm": 164
   }
  },
  "llmErrors": []
