@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T03:51:14.780Z",
+ "updatedAt": "2026-11-24T04:57:00.786Z",
  "hot": [
   "brentford-everton-2026-11-22",
   "tarkowski-discipline",
   "monza-fiorentina-2026-11-23",
   "levante-elche-2026-11-23",
-  "infantino-fifa-affairs-investor-deal"
+  "arsenal-dortmund-2026-11-24"
  ],
  "days": [
   "2026-10-18",
@@ -100,7 +100,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 76
   },
   "fblondon": {
@@ -112,7 +112,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -124,7 +124,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 75
   },
   "waz": {
@@ -148,13 +148,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 10,
    "authorRate": 0
   },
   "hln": {
@@ -323,7 +323,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
+  "recentIssues": 220,
   "singleArticleRate": 45,
   "broad": [
    {
@@ -340,7 +340,7 @@
    },
    {
     "slug": "man-city-fulham-2026-11-20",
-    "count": 33
+    "count": 32
    },
    {
     "slug": "yoro-liverpool-discipline",
@@ -682,20 +682,6 @@
    ]
   },
   {
-   "en": "Rummenigge",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루멘니게",
-     "count": 2
-    },
-    {
-     "ko": "루메니게",
-     "count": 2
-    }
-   ]
-  },
-  {
    "en": "Alan Shearer",
    "dictionary": null,
    "variants": [
@@ -769,6 +755,20 @@
     },
     {
      "ko": "에메냐",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rummenigge",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루멘니게",
+     "count": 2
+    },
+    {
+     "ko": "루메니게",
      "count": 1
     }
    ]
@@ -1256,8 +1256,8 @@
    "llm": 906
   },
   "2026-11-24": {
-   "collected": 375,
-   "llm": 375
+   "collected": 392,
+   "llm": 392
   }
  },
  "llmErrors": []
