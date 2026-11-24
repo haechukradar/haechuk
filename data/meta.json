@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T22:39:42.275Z",
+ "updatedAt": "2026-11-24T23:31:38.170Z",
  "hot": [
   "real-madrid-psv-2026-11-25",
   "man-city-napoli-2026-11-26",
@@ -48,8 +48,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 70,
-   "added": 0,
+   "items": 68,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -59,7 +59,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 12,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,25 +95,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 5,
    "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -149,19 +149,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 5,
    "authorRate": 100
   },
   "stoke": {
@@ -178,25 +178,25 @@
   },
   "sun": {
    "ok": true,
-   "items": 14,
-   "added": 5,
-   "authorRate": 93
+   "items": 17,
+   "added": 3,
+   "authorRate": 94
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 3,
    "added": 0,
    "authorRate": 0
   }
@@ -252,7 +252,7 @@
   },
   {
    "name": "다비드 라야",
-   "count": 35
+   "count": 36
   },
   {
    "name": "요로",
@@ -324,7 +324,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
+  "recentIssues": 217,
   "singleArticleRate": 41,
   "broad": [
    {
@@ -341,7 +341,7 @@
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 35
+    "count": 38
    },
    {
     "slug": "barcelona-villarreal-2026-11-22",
@@ -349,6 +349,10 @@
    },
    {
     "slug": "can-2025-affairs-tas-verdict",
+    "count": 22
+   },
+   {
+    "slug": "man-city-napoli-2026-11-26",
     "count": 21
    },
    {
@@ -356,8 +360,8 @@
     "count": 20
    },
    {
-    "slug": "man-city-napoli-2026-11-26",
-    "count": 20
+    "slug": "real-madrid-psv-2026-11-25",
+    "count": 19
    },
    {
     "slug": "brentford-everton-2026-11-22",
@@ -370,10 +374,6 @@
    {
     "slug": "doue-injury",
     "count": 17
-   },
-   {
-    "slug": "real-madrid-psv-2026-11-25",
-    "count": 16
    },
    {
     "slug": "david-raya-injury",
@@ -498,6 +498,20 @@
     },
     {
      "ko": "에단 네와네리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Poch",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포체티노",
+     "count": 6
+    },
+    {
+     "ko": "포체",
      "count": 1
     }
    ]
@@ -1155,20 +1169,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Glazers",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "글레이저",
-     "count": 1
-    },
-    {
-     "ko": "글레이저 가문",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1277,8 +1277,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 424,
-   "llm": 424
+   "collected": 465,
+   "llm": 465
   }
  },
  "llmErrors": []
