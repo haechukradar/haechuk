@@ -1,63 +1,961 @@
 [
  {
-  "slug": "hsv-affairs-property-damage",
+  "slug": "raya-injury",
   "mode": "llm",
-  "titleKo": "베르더 브레멘, 기물 파손 비용 HSV에 청구",
-  "createdAt": "2026-11-24T08:23:35.000Z",
-  "updatedAt": "2026-11-24T08:23:35.000Z",
-  "category": "other",
+  "titleKo": "라야 부상, 아스널 골키퍼 공백 우려",
+  "createdAt": "2026-11-21T19:34:33.000Z",
+  "updatedAt": "2026-11-24T09:31:27.000Z",
+  "category": "injury",
   "stage": null,
   "clubs": [
-   "augsburg"
+   "arsenal",
+   "newcastle",
+   "man-city"
   ],
-  "players": [],
+  "players": [
+   "다비드 라야",
+   "케파",
+   "라야"
+  ],
   "sig": [
-   "sachbeschädigung",
-   "kosten",
-   "hsv"
+   "mikel",
+   "raya"
   ],
   "articles": [
    {
-    "id": "c96e3a9d54a8",
-    "url": "https://www.kicker.de/werder-nennt-sachbeschaedigung-inakzeptabel-und-reicht-kosten-an-den-hsv-weiter-1274489/artikel#omrss",
-    "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter",
-    "ko": "베르더 브레멘, 기물 파손 행위에 비용 HSV에 청구",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T08:23:35.000Z",
+    "id": "1cc1ad166ad8",
+    "url": "https://www.football.london/arsenal-fc/news/arsenal-press-conference-live-mikel-34948164",
+    "title": "Arsenal press conference LIVE: Mikel Arteta on Newcastle draw, Raya injury and collapse",
+    "ko": "아르테타 뉴캐슬전 무승부·라야 부상 기자회견",
+    "source": "fblondon",
+    "publishedAt": "2026-11-21T19:34:33.000Z",
     "credited": null,
     "clubs": [
-     "augsburg"
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Tom Canton",
+    "transfer": null
+   },
+   {
+    "id": "2c2efad22b1e",
+    "url": "https://as.com/futbol/arteta-suspira-raya-preocupa-f202611-n/",
+    "title": "Arteta suspira, Raya preocupa",
+    "ko": "아르테타 한숨, 라야 부상에 걱정 커져",
+    "source": "as",
+    "publishedAt": "2026-11-21T19:44:55.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Pablo Montaño",
+    "transfer": null
+   },
+   {
+    "id": "ba619b61680f",
+    "url": "https://www.dailystar.co.uk/sport/football/arsenal-suffer-brutal-injury-blow-37902669",
+    "title": "Arsenal suffer brutal injury blow as David Raya leaves pitch in agony against Newcastle",
+    "ko": "아스널 다비드 라야, 뉴캐슬전 부상으로 쓰러져",
+    "source": "star",
+    "publishedAt": "2026-11-21T19:50:32.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Ashley Pemberton, Jordan Seward",
+    "transfer": null
+   },
+   {
+    "id": "f362774efe5f",
+    "url": "https://www.football.london/arsenal-fc/news/david-raya-injury-arsenal-arteta-34948783",
+    "title": "Mikel Arteta gives David Raya injury update as Arsenal star off for MRI in huge blow",
+    "ko": "아르테타, 라야 부상 상태 업데이트…MRI 검사 예정",
+    "source": "fblondon",
+    "publishedAt": "2026-11-21T20:28:08.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Ben Husband, Jordan Seward",
+    "transfer": null
+   },
+   {
+    "id": "da754bca6399",
+    "url": "https://www.thesun.co.uk/sport/41103007/arsenal-talking-points-newcastle-draw-david-raya-injury/",
+    "title": "Three points from Arsenal’s 2-2 draw from worrying David Raya injury to rare defensive howlers costing champions",
+    "ko": "아스널, 2-2 무승부 뒤 라야 부상과 수비 실수 악재",
+    "source": "sun",
+    "publishedAt": "2026-11-21T20:38:31.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Charlie Wyett, Jamie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "db89188eb1be",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+    "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+    "ko": "라야, 부상 정밀검사 예정…아스널 골키퍼 공백 우려",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T21:14:08.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "10d614d635c2",
+    "url": "https://www.thesun.co.uk/sport/41103653/mikel-arteta-david-raya-injury-update-arsenal-newcastle/",
+    "title": "‘Not good news’ – Mikel Arteta shares worrying David Raya update after nasty-looking injury in Arsenal draw vs Newcastle",
+    "ko": "아르테타 \"좋지 않은 소식\"…라야 뉴캐슬전 부상 업데이트",
+    "source": "sun",
+    "publishedAt": "2026-11-21T21:46:56.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Jamie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "2a3d56204f83",
+    "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+    "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+    "ko": "아르테타, 라야 부상 상태에 우려 '좋지 않다'",
+    "source": "guardian",
+    "publishedAt": "2026-11-21T21:48:21.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Louise Taylor at St James' Park",
+    "transfer": null
+   },
+   {
+    "id": "150c5d5495d1",
+    "url": "https://www.espn.com/soccer/story/_/id/50552162/david-raya-injured-arsenal-newcastle-premier-league",
+    "title": "Raya exits with injury as Arsenal held by Newcastle: 'Never good news'",
+    "ko": "라야 부상 교체 아웃, 아스널 뉴캐슬에 무승부",
+    "source": "espn",
+    "publishedAt": "2026-11-22T06:32:44.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "newcastle"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "라야"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "04c3cadec9e7",
+    "url": "https://www.footballinsider247.com/arsenal/kepa-arrizabalaga-set-for-extended-run-in-arsenal-team-after-shattering-david-raya-blow",
+    "title": "Kepa Arrizabalaga set for extended run in Arsenal team after shattering David Raya blow",
+    "ko": "케파, 라야 부상으로 아스널 출전 기회 확대 전망",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-22T07:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "케파",
+     "라야"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2c06cfdde7d3",
+    "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-january-target-psg-latest-37904827",
+    "title": "Arsenal face major transfer headache ahead of January after star's serious injury",
+    "ko": "아스널, 주전 중상으로 1월 이적시장 난관",
+    "source": "mirror",
+    "publishedAt": "2026-11-23T07:37:03.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Samuel Meade",
+    "transfer": null
+   },
+   {
+    "id": "2fb8ac66740f",
+    "url": "https://www.football.london/arsenal-fc/news/steven-gerrard-gives-honest-verdict-34957112",
+    "title": "Steven Gerrard gives honest verdict on David Raya injury as Arsenal face anxious Man City wait",
+    "ko": "제라드, 데이비드 라야 부상에 솔직한 평가…아스널 맨시티전 불안",
+    "source": "fblondon",
+    "publishedAt": "2026-11-24T09:31:27.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal",
+     "man-city"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "다비드 라야"
+    ],
+    "playerTags": [],
+    "author": "Sam Truelove",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 9,
+  "score": 1.91,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-21T19:34:33.000Z",
+   "viaQuote": false
+  },
+  "headline": "Raya set to have scan on injury - how much would Arsenal miss him?"
+ },
+ {
+  "slug": "musiala-bayern-transfer",
+  "mode": "llm",
+  "titleKo": "무시알라 바이에른 이적설 논란",
+  "createdAt": "2026-11-20T22:18:38.000Z",
+  "updatedAt": "2026-11-24T09:26:52.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "bayern"
+  ],
+  "players": [
+   "자말 무시알라",
+   "무시알라"
+  ],
+  "sig": [
+   "rummenigge",
+   "musiala",
+   "hammer"
+  ],
+  "articles": [
+   {
+    "id": "1ba553da2cb7",
+    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-rummenigge-laesst-naechsten-musiala-hammer-fallen-zr-94601245.html",
+    "title": "„Summen nicht mehr darstellbar“: Rummenigge lässt nächsten Musiala-Hammer fallen",
+    "ko": "뤼멘니게, 무시알라 관련 또 한 번 폭탄 발언",
+    "source": "tz",
+    "publishedAt": "2026-11-20T22:18:38.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Maximilian Bohne",
+    "transfer": null
+   },
+   {
+    "id": "2a110131cd94",
+    "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
+    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
+    "ko": "\"이런 조건에서 누가 뮤시알라를 살 거라고 상상이 안 된다\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T22:33:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": {
+     "player": "자말 무시알라",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "32eff73ab2fc",
+    "url": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video#omrss",
+    "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
+    "ko": "바이에른의 암울한 금요일…루메니게·무시알라 논란 배경",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T23:30:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "8540345a9d91",
+    "url": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video#omrss",
+    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
+    "ko": "루메니게 강한 비판 후 콤파니, 무시알라 감싸",
+    "source": "kicker",
+    "publishedAt": "2026-11-20T23:32:10.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ad44893cd3e7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Karl-heinz-rummenigge-evoque-une-reduction-de-salaire-pour-musiala-il-a-des-problemes-de-sante-c-est-un-fait-connu/1745034#at_medium=RSS_feeds",
+    "title": "Karl-Heinz Rummenigge évoque une réduction de salaire pour Musiala : « Il a des problèmes de santé, c'est un fait connu »",
+    "ko": "루메니게, 무시알라 연봉 삭감 언급…\"건강 문제 있다는 건 알려진 사실\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-20T23:41:29.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "5d4bed4aa353",
+    "url": "https://www.tz.de/sport/fc-bayern/patrick-helmes-reagiert-auf-rummenigges-bayern-kritik-wegen-musiala-zr-94601253.html",
+    "title": "Rummenigges Musiala-Aussagen: Helmes hat einen brisanten Verdacht",
+    "ko": "루메니게, 무시알라 관련 발언 논란…의혹 제기",
+    "source": "tz",
+    "publishedAt": "2026-11-21T04:05:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "eb784b3b7ec9",
+    "url": "https://www.tz.de/sport/fc-bayern/debatte-um-musiala-rummenigge-verteidigt-hoeness-aussagen-94601385.html",
+    "title": "Bayern-Boss Rummenigge stellt sich mit Musiala-Knall schützend vor Uli Hoeneß",
+    "ko": "루멘니게, 뮐러 발언 두고 무시알라 사건으로 후이네스 옹호",
+    "source": "tz",
+    "publishedAt": "2026-11-21T08:55:03.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Florian Puth",
+    "transfer": null
+   },
+   {
+    "id": "2caaca3c5fdc",
+    "url": "https://www.mirror.co.uk/sport/football/news/bayern-chief-admits-jamal-musiala-37902251",
+    "title": "Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch",
+    "ko": "바이에른 회장, 무시알라 쓰러진 뒤 수개월 내 매각 가능성 인정",
+    "source": "mirror",
+    "publishedAt": "2026-11-21T15:58:31.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Ben Husband",
+    "transfer": {
+     "player": "무시알라",
+     "from": "바이에른 뮌헨",
+     "to": null
+    }
+   },
+   {
+    "id": "b411c751a485",
+    "url": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video#omrss",
+    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
+    "ko": "드레젠, 루메니게 발언 설명…무시알라에 압박",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T16:25:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2ecbe52b4aa5",
+    "url": "https://www.tz.de/sport/fc-bayern/matthaeus-mit-deutlicher-kritik-am-fc-bayern-wegen-musiala-94601682.html",
+    "title": "Matthäus mit deutlicher Kritik am FC Bayern wegen Musiala",
+    "ko": "마테우스, 무시알라 관련 바이에른에 직격 비판",
+    "source": "tz",
+    "publishedAt": "2026-11-21T17:40:42.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "b1d5b38d6e18",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
+    "title": "Fifpro criticises Bayern Munich for Musiala comments",
+    "ko": "피프로, 무시알라 발언 두고 바이에른 뮌헨 비판",
+    "source": "bbc",
+    "publishedAt": "2026-11-21T17:43:44.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5efb160a4156",
+    "url": "https://www.hln.be/bundesliga/het-is-hun-plicht-om-voor-hem-te-zorgen-spelersvakbond-maakt-zich-ernstige-zorgen-om-uitspraken-bayern-bestuur-over-jamal-musiala~a4df5bd0/",
+    "title": "“Het is hun plicht om voor hem te zorgen”: spelersvakbond “maakt zich ernstige zorgen” om uitspraken Bayern-bestuur over Jamal Musiala",
+    "ko": "선수노조 \"무시알라 관련 바이에른 경영진 발언 깊이 우려\"",
+    "source": "hln",
+    "publishedAt": "2026-11-21T18:01:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Johannes De Rijcke",
+    "transfer": null
+   },
+   {
+    "id": "d13a5b42c589",
+    "url": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video#omrss",
+    "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
+    "ko": "바이에른 팬, 무시알라 관련 보스 비판",
+    "source": "kicker",
+    "publishedAt": "2026-11-21T18:24:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "50b37263b2ff",
+    "url": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel#omrss",
+    "title": "Ist das Bayern-Vorgehen bei Musiala richtig?",
+    "ko": "바이에른, 무시알라 기용 방식 적절한가 논쟁",
+    "source": "kicker",
+    "publishedAt": "2026-11-22T08:57:23.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f63ac737d327",
+    "url": "https://www.kicker.de/dreesen-kontert-kritik-im-fall-musiala-habe-mich-einfach-nur-gewundert-1274392/artikel#omrss",
+    "title": "Dreesen kontert Kritik im Fall Musiala: \"Habe mich einfach nur gewundert\"",
+    "ko": "드레젠, 무시알라 사안 비판에 반박 \"그저 의아했을 뿐\"",
+    "source": "kicker",
+    "publishedAt": "2026-11-23T16:06:49.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "38dd9d2abac0",
+    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-dreesen-kontert-marsch-und-spricht-ueber-musiala-wirbel-94604616.html",
+    "title": "Jan-Christian Dreesen stellt sich nach Musiala-Angriff hinter Bayern-Bosse",
+    "ko": "드리센, 무시알라 공격 후 바이에른 수뇌부 옹호",
+    "source": "tz",
+    "publishedAt": "2026-11-23T17:02:57.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Isabella Strehmann",
+    "transfer": null
+   },
+   {
+    "id": "d8970c04d552",
+    "url": "https://www.hln.be/champions-league/als-het-moeilijk-wordt-deinzen-we-niet-terug-bayern-ceo-jan-christian-dreesen-over-vele-blessures-vincent-kompany-en-heisa-rond-jamal-musiala~a990e3d0/",
+    "title": "“Als het moeilijk wordt, deinzen we niet terug”: Bayern-CEO Jan-Christian Dreesen over vele blessures, Vincent Kompany en heisa rond Jamal Musiala",
+    "ko": "바이에른 CEO 드레젠 \"어려울수록 물러서지 않는다\"…부상·콤파니·무시알라 논란 언급",
+    "source": "hln",
+    "publishedAt": "2026-11-24T09:05:51.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "ce6ae91145ce",
+    "url": "https://www.kicker.de/brisantes-detail-im-musiala-vertrag-veroeffentlicht-1274498/artikel#omrss",
+    "title": "Brisantes Detail im Musiala-Vertrag veröffentlicht",
+    "ko": "무시알라 바이에른 계약서의 주목할 조항 공개",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T09:26:52.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "자말 무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 6,
+  "score": 2.95,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "jamal-musiala"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "tz (바이에른)",
+   "source": "tz",
+   "at": "2026-11-20T22:18:38.000Z",
+   "viaQuote": false
+  },
+  "headline": "Fifpro criticises Bayern Munich for Musiala comments"
+ },
+ {
+  "slug": "gladbach-affairs-governance-election",
+  "mode": "llm",
+  "titleKo": "묀헨글라트바흐 구단 지배구조 변화 가능성",
+  "createdAt": "2026-11-24T09:24:14.000Z",
+  "updatedAt": "2026-11-24T09:24:14.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "gladbach"
+  ],
+  "players": [],
+  "sig": [
+   "gremien",
+   "präsidium",
+   "aufsichtsrat",
+   "wahlen"
+  ],
+  "articles": [
+   {
+    "id": "b634b00a8ffd",
+    "url": "https://rp-online.de/sport/fussball/borussia/gladbach-praesidium-und-aufsichtsrat-so-laufen-die-wahlen_aid-158869729",
+    "title": "Gladbachs Gremien könnten sich verändern: Präsidium und Aufsichtsrat – so laufen die Wahlen",
+    "ko": "묀헨글라트바흐 구단 지배구조 변화 가능성…회장·감독회 선거 진행",
+    "source": "rp",
+    "publishedAt": "2026-11-24T09:24:14.000Z",
+    "credited": null,
+    "clubs": [
+     "gladbach"
     ],
     "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": null,
+    "author": "Karsten Kellermann",
     "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.96,
+  "score": 1.87,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [],
   "transfer": null,
   "firstReport": {
-   "name": "키커",
-   "source": "kicker",
-   "at": "2026-11-24T08:23:35.000Z",
+   "name": "RP 온라인 (묀헨글라트바흐)",
+   "source": "rp",
+   "at": "2026-11-24T09:24:14.000Z",
    "viaQuote": false
   },
-  "headline": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter"
+  "headline": "Gladbachs Gremien könnten sich verändern: Präsidium und Aufsichtsrat – so laufen die Wahlen"
+ },
+ {
+  "slug": "liverpool-man-utd-incident",
+  "mode": "llm",
+  "titleKo": "리버풀 대 맨유 경기 체포 및 참사 조롱 응원 논란",
+  "createdAt": "2026-11-24T09:24:07.000Z",
+  "updatedAt": "2026-11-24T09:24:07.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "liverpool",
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [],
+  "articles": [
+   {
+    "id": "9f86f06bd10d",
+    "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-utd-arrests-chanting-37908785",
+    "title": "Seven arrested at Liverpool's win over Man Utd as statement made on tragedy chanting",
+    "ko": "리버풀 대 맨유 경기서 7명 체포…참사 조롱 응원 관련 성명 발표",
+    "source": "mirror",
+    "publishedAt": "2026-11-24T09:24:07.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "man-utd"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.56,
+  "topTier": 4,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-24T09:24:07.000Z",
+   "viaQuote": false
+  },
+  "headline": "Seven arrested at Liverpool's win over Man Utd as statement made on tragedy chanting"
+ },
+ {
+  "slug": "palmer-chelsea-relationship",
+  "mode": "llm",
+  "titleKo": "콜 파머 리즈전 행동 논란",
+  "createdAt": "2026-11-22T06:00:00.000Z",
+  "updatedAt": "2026-11-24T09:20:52.000Z",
+  "category": "manager",
+  "stage": null,
+  "clubs": [
+   "chelsea"
+  ],
+  "players": [
+   "콜 파머"
+  ],
+  "sig": [
+   "palmer",
+   "xabi",
+   "alonso"
+  ],
+  "articles": [
+   {
+    "id": "e907f03f1f54",
+    "url": "https://www.football.london/chelsea-fc/news/cole-palmers-heated-back-forth-34948797",
+    "title": "Cole Palmer's heated back and forth with Chelsea duo as Xabi Alonso tasked with tough decision",
+    "ko": "콜 파머, 첼시 동료와 언쟁…알론소 난제 직면",
+    "source": "fblondon",
+    "publishedAt": "2026-11-22T06:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Bobby Vincent",
+    "transfer": null
+   },
+   {
+    "id": "f2d2fa6cc58b",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/palmer-nao-agradece-aos-adeptos-do-chelsea-e-xabi-alonso-comenta-caso-e-um-momento-fragil",
+    "title": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»",
+    "ko": "파머, 첼시 팬들에 감사 표하지 않아…알론소 \"깨지기 쉬운 순간\"",
+    "source": "record",
+    "publishedAt": "2026-11-22T10:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "11192a4e9a66",
+    "url": "https://www.thesun.co.uk/sport/41122554/piers-morgan-cole-palmer-chelsea-sports-uncensored/",
+    "title": "Piers Morgan brands Cole Palmer a ‘d***head’ for what Chelsea star did after humiliating defeat at home to Leeds",
+    "ko": "피어스 모건, 콜 파머 비난 - 리즈전 후 행동 논란",
+    "source": "sun",
+    "publishedAt": "2026-11-24T07:50:40.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Charlie Gordon",
+    "transfer": null
+   },
+   {
+    "id": "2feea6a94eef",
+    "url": "https://www.mirror.co.uk/sport/football/news/chelsea-cole-palmer-piers-morgan-37908817",
+    "title": "Piers Morgan launches X-rated tirade at Cole Palmer and slams Chelsea star's behaviour",
+    "ko": "피어스 모건, 콜 파머 행동 두고 욕설 섞인 격앙 비판",
+    "source": "mirror",
+    "publishedAt": "2026-11-24T09:20:52.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "콜 파머"
+    ],
+    "playerTags": [
+     "cole-palmer"
+    ],
+    "author": "Jake Stokes",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 4,
+  "score": 0.98,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "cole-palmer"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "Football.London",
+   "source": "fblondon",
+   "at": "2026-11-22T06:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»"
  },
  {
   "slug": "brentford-everton-2026-11-22",
   "mode": "llm",
   "titleKo": "브렌트퍼드 대 에버턴 경기",
   "createdAt": "2026-11-23T09:28:42.000Z",
-  "updatedAt": "2026-11-24T08:14:40.000Z",
+  "updatedAt": "2026-11-24T09:19:48.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -375,11 +1273,49 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "90d10f05a87b",
+    "url": "https://www.footballinsider247.com/everton/prorefs-double-standards-were-infuriating-in-brentford-vs-everton-its-so-obvious-its-embarrassing-verdict",
+    "title": "ProRef's double standards were infuriating in Brentford vs Everton, it's so obvious it's embarrassing - verdict",
+    "ko": "브렌트퍼드 대 에버턴 경기 프로레프 이중 잣대 비판",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-24T09:15:00.000Z",
+    "credited": null,
+    "clubs": [
+     "brentford",
+     "everton"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "56994ce6f961",
+    "url": "https://www.footballinsider247.com/everton/ref-watch-three-craig-pawson-howlers-in-brentford-vs-everton",
+    "title": "Ref Watch: Three Craig Pawson howlers in Brentford vs Everton",
+    "ko": "브렌트퍼드 대 에버턴 경기 크레이그 포슨 오심 3건 평가",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-24T09:19:48.000Z",
+    "credited": null,
+    "clubs": [
+     "brentford",
+     "everton"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 7,
   "sourceCount": 8,
-  "score": 2.66,
+  "score": 2.13,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -392,6 +1328,417 @@
    "viaQuote": false
   },
   "headline": "Janelt scores stunner as Brentford beat 10-man Everton"
+ },
+ {
+  "slug": "besiktas-hapoel-2026-11-22",
+  "mode": "llm",
+  "titleKo": "베식타시 대 하파엘 유로파리그 경기",
+  "createdAt": "2026-11-22T20:15:39.000Z",
+  "updatedAt": "2026-11-24T09:12:01.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "besiktas"
+  ],
+  "players": [],
+  "sig": [
+   "avrupa",
+   "ligi",
+   "hapoel"
+  ],
+  "articles": [
+   {
+    "id": "70db632f03da",
+    "url": "https://www.fotomac.com.tr/besiktas/2026/11/22/besiktasin-avrupa-ligi-maci-ne-zaman-hapoel-maci-hangi-gun",
+    "title": "Beşiktaş'ın Avrupa Ligi maçı ne zaman, Hapoel maçı hangi gün?",
+    "ko": "베식타시 유로파리그 하파엘 경기 일정은?",
+    "source": "fotomac",
+    "publishedAt": "2026-11-22T20:15:39.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f05e9fc49a65",
+    "url": "https://www.fotomac.com.tr/avrupaligi/2026/11/24/besiktas-hapoel-beer-sheva-macinin-hakemi-aciklandi",
+    "title": "Beşiktaş-Hapoel Beer Sheva maçının hakemi açıklandı!",
+    "ko": "베식타스-하파엘 베르셰바전 심판 발표",
+    "source": "fotomac",
+    "publishedAt": "2026-11-24T09:12:01.000Z",
+    "credited": null,
+    "clubs": [
+     "besiktas"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.8,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "포토마치 (베식타스)",
+   "source": "fotomac",
+   "at": "2026-11-22T20:15:39.000Z",
+   "viaQuote": false
+  },
+  "headline": "Beşiktaş-Hapoel Beer Sheva maçının hakemi açıklandı!"
+ },
+ {
+  "slug": "noel-williams-discipline",
+  "mode": "llm",
+  "titleKo": "노엘윌리엄스 강간 혐의 기소",
+  "createdAt": "2026-11-24T08:41:58.000Z",
+  "updatedAt": "2026-11-24T08:50:17.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [
+   "아이자이아 노엘윌리엄스",
+   "노엘윌리엄스"
+  ],
+  "sig": [
+   "isiah",
+   "noel",
+   "williams"
+  ],
+  "articles": [
+   {
+    "id": "4bb86d756f17",
+    "url": "https://www.dailystar.co.uk/sport/football/barnet-star-isiah-noel-williams-37908640",
+    "title": "Barnet star Isiah Noel-Williams charged with rape and sexual communication with child",
+    "ko": "바닛 스타 노엘윌리엄스, 강간 및 아동 성적 메시지 혐의로 기소",
+    "source": "star",
+    "publishedAt": "2026-11-24T08:41:58.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "아이자이아 노엘윌리엄스"
+    ],
+    "playerTags": [],
+    "author": "Paul Cockerton",
+    "transfer": null
+   },
+   {
+    "id": "31527aa85b6c",
+    "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
+    "title": "Barnet forward Noel-Williams charged with rape",
+    "ko": "바닛 공격수 노엘윌리엄스, 강간 혐의로 기소",
+    "source": "bbc",
+    "publishedAt": "2026-11-24T08:50:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [
+     "노엘윌리엄스"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 3.04,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Daily Star",
+   "source": "star",
+   "at": "2026-11-24T08:41:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Barnet forward Noel-Williams charged with rape"
+ },
+ {
+  "slug": "havertz-arsenal-transfer",
+  "mode": "llm",
+  "titleKo": "하베르츠 아스널 이적 합의 진행",
+  "createdAt": "2026-11-24T08:45:00.000Z",
+  "updatedAt": "2026-11-24T08:45:00.000Z",
+  "category": "transfer",
+  "stage": "agreement",
+  "clubs": [
+   "arsenal"
+  ],
+  "players": [
+   "카이 하베르츠"
+  ],
+  "sig": [
+   "kai",
+   "havertz"
+  ],
+  "articles": [
+   {
+    "id": "b87dd234a2a5",
+    "url": "https://www.footballinsider247.com/arsenal/transfers/sources-kai-havertz-deal-to-follow-four-agreements-at-arsenal",
+    "title": "Sources: Kai Havertz deal to follow four agreements at Arsenal",
+    "ko": "하베르츠, 아스널 합의 4건 뒤 계약 임박 보도",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-24T08:45:00.000Z",
+    "credited": null,
+    "clubs": [
+     "arsenal"
+    ],
+    "category": "transfer",
+    "stage": "agreement",
+    "players": [
+     "카이 하베르츠"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "카이 하베르츠",
+     "from": null,
+     "to": "아스널"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.5,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "b87dd234a2a5",
+    "at": "2026-11-24T08:45:00.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "agreement"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "카이 하베르츠",
+   "from": null,
+   "to": "아스널"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-24T08:45:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Sources: Kai Havertz deal to follow four agreements at Arsenal"
+ },
+ {
+  "slug": "nwaneri-newcastle-transfer",
+  "mode": "llm",
+  "titleKo": "네와네리 뉴캐슬 이적 재추진",
+  "createdAt": "2026-11-24T08:30:52.000Z",
+  "updatedAt": "2026-11-24T08:30:52.000Z",
+  "category": "transfer",
+  "stage": "negotiation",
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "네와네리"
+  ],
+  "sig": [
+   "ethan",
+   "nwaneri"
+  ],
+  "articles": [
+   {
+    "id": "7834712a5533",
+    "url": "https://www.footballinsider247.com/newcastle-united/newcastle-to-reignite-ethan-nwaneri-deal-as-january-recall-on-the-cards-verdict",
+    "title": "Newcastle to reignite Ethan Nwaneri deal as January recall on the cards - verdict",
+    "ko": "뉴캐슬, 네와네리 영입 재추진…1월 복귀 가능성",
+    "source": "fbinsider",
+    "publishedAt": "2026-11-24T08:30:52.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "transfer",
+    "stage": "negotiation",
+    "players": [
+     "네와네리"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "네와네리",
+     "from": null,
+     "to": "뉴캐슬"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.48,
+  "topTier": 4,
+  "stageHistory": [
+   {
+    "id": "7834712a5533",
+    "at": "2026-11-24T08:30:52.000Z",
+    "source": "fbinsider",
+    "from": null,
+    "to": "negotiation"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "네와네리",
+   "from": null,
+   "to": "뉴캐슬"
+  },
+  "firstReport": {
+   "name": "Football Insider",
+   "source": "fbinsider",
+   "at": "2026-11-24T08:30:52.000Z",
+   "viaQuote": false
+  },
+  "headline": "Newcastle to reignite Ethan Nwaneri deal as January recall on the cards - verdict"
+ },
+ {
+  "slug": "toney-newcastle-transfer-20261124",
+  "mode": "llm",
+  "titleKo": "토니 뉴캐슬 복귀설",
+  "createdAt": "2026-11-24T08:28:44.000Z",
+  "updatedAt": "2026-11-24T08:28:44.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "newcastle"
+  ],
+  "players": [
+   "아이반 토니"
+  ],
+  "sig": [
+   "toney"
+  ],
+  "articles": [
+   {
+    "id": "1eb86cb2d009",
+    "url": "https://www.chroniclelive.co.uk/sport/football/transfer-news/ivan-toney-transfer-bombshell-he-34956860",
+    "title": "Ivan Toney transfer bombshell - 'He would love to return to Newcastle United'",
+    "ko": "토니, 뉴캐슬 복귀 희망 드러내…이적 가능성 제기",
+    "source": "chronicle",
+    "publishedAt": "2026-11-24T08:28:44.000Z",
+    "credited": null,
+    "clubs": [
+     "newcastle"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "아이반 토니"
+    ],
+    "playerTags": [],
+    "author": "Lee Ryder, Sean McCormick",
+    "transfer": {
+     "player": "아이반 토니",
+     "from": null,
+     "to": "뉴캐슬"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.59,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "1eb86cb2d009",
+    "at": "2026-11-24T08:28:44.000Z",
+    "source": "chronicle",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "아이반 토니",
+   "from": null,
+   "to": "뉴캐슬"
+  },
+  "firstReport": {
+   "name": "Chronicle Live (뉴캐슬)",
+   "source": "chronicle",
+   "at": "2026-11-24T08:28:44.000Z",
+   "viaQuote": false
+  },
+  "headline": "Ivan Toney transfer bombshell - 'He would love to return to Newcastle United'"
+ },
+ {
+  "slug": "hsv-affairs-property-damage",
+  "mode": "llm",
+  "titleKo": "베르더 브레멘, 기물 파손 비용 HSV에 청구",
+  "createdAt": "2026-11-24T08:23:35.000Z",
+  "updatedAt": "2026-11-24T08:23:35.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "augsburg"
+  ],
+  "players": [],
+  "sig": [
+   "sachbeschädigung",
+   "kosten",
+   "hsv"
+  ],
+  "articles": [
+   {
+    "id": "c96e3a9d54a8",
+    "url": "https://www.kicker.de/werder-nennt-sachbeschaedigung-inakzeptabel-und-reicht-kosten-an-den-hsv-weiter-1274489/artikel#omrss",
+    "title": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter",
+    "ko": "베르더 브레멘, 기물 파손 행위에 비용 HSV에 청구",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T08:23:35.000Z",
+    "credited": null,
+    "clubs": [
+     "augsburg"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.57,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "키커",
+   "source": "kicker",
+   "at": "2026-11-24T08:23:35.000Z",
+   "viaQuote": false
+  },
+  "headline": "Werder nennt Sachbeschädigung \"inakzeptabel\" - und reicht Kosten an den HSV weiter"
  },
  {
   "slug": "man-city-affairs-charges",
@@ -436,7 +1783,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.46,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -506,9 +1853,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.82,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -900,7 +2247,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.13,
+  "score": 0.9,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1008,7 +2355,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.17,
+  "score": 1.73,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1021,111 +2368,6 @@
    "viaQuote": false
   },
   "headline": "À quelle heure et sur quelle chaîne voir Manchester City - Naples en Ligue des champions ?"
- },
- {
-  "slug": "palmer-chelsea-relationship",
-  "mode": "llm",
-  "titleKo": "콜 파머 리즈전 행동 논란",
-  "createdAt": "2026-11-22T06:00:00.000Z",
-  "updatedAt": "2026-11-24T07:50:40.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [
-   "chelsea"
-  ],
-  "players": [
-   "콜 파머"
-  ],
-  "sig": [
-   "palmer",
-   "xabi",
-   "alonso"
-  ],
-  "articles": [
-   {
-    "id": "e907f03f1f54",
-    "url": "https://www.football.london/chelsea-fc/news/cole-palmers-heated-back-forth-34948797",
-    "title": "Cole Palmer's heated back and forth with Chelsea duo as Xabi Alonso tasked with tough decision",
-    "ko": "콜 파머, 첼시 동료와 언쟁…알론소 난제 직면",
-    "source": "fblondon",
-    "publishedAt": "2026-11-22T06:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Bobby Vincent",
-    "transfer": null
-   },
-   {
-    "id": "f2d2fa6cc58b",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/chelsea/detalhe/palmer-nao-agradece-aos-adeptos-do-chelsea-e-xabi-alonso-comenta-caso-e-um-momento-fragil",
-    "title": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»",
-    "ko": "파머, 첼시 팬들에 감사 표하지 않아…알론소 \"깨지기 쉬운 순간\"",
-    "source": "record",
-    "publishedAt": "2026-11-22T10:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "11192a4e9a66",
-    "url": "https://www.thesun.co.uk/sport/41122554/piers-morgan-cole-palmer-chelsea-sports-uncensored/",
-    "title": "Piers Morgan brands Cole Palmer a ‘d***head’ for what Chelsea star did after humiliating defeat at home to Leeds",
-    "ko": "피어스 모건, 콜 파머 비난 - 리즈전 후 행동 논란",
-    "source": "sun",
-    "publishedAt": "2026-11-24T07:50:40.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "콜 파머"
-    ],
-    "playerTags": [
-     "cole-palmer"
-    ],
-    "author": "Charlie Gordon",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 3,
-  "score": 0.53,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "cole-palmer"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-22T06:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Palmer não agradece aos adeptos do Chelsea e Xabi Alonso comenta caso: «É um momento frágil»"
  },
  {
   "slug": "chelsea-manager-future",
@@ -1443,9 +2685,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 3,
+  "recentSources": 2,
   "sourceCount": 6,
-  "score": 2.31,
+  "score": 1.77,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -1501,7 +2743,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.75,
+  "score": 1.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1567,7 +2809,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.04,
+  "score": 0.83,
   "topTier": 3,
   "stageHistory": [
    {
@@ -1822,7 +3064,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 3.32,
+  "score": 2.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -10542,9 +11784,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 4,
   "sourceCount": 17,
-  "score": 2.57,
+  "score": 2.03,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -10641,7 +11883,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.19,
+  "score": 0.95,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -11952,7 +13194,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 1.54,
+  "score": 1.23,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -12006,7 +13248,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.54,
+  "score": 1.23,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12065,7 +13307,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.54,
+  "score": 1.23,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -12119,7 +13361,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.46,
+  "score": 0.36,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -12170,7 +13412,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.46,
+  "score": 0.36,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -13262,7 +14504,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 14,
-  "score": 0.44,
+  "score": 0.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -13379,7 +14621,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 2.04,
+  "score": 1.63,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14022,7 +15264,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 12,
-  "score": 1.66,
+  "score": 1.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14212,9 +15454,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 2,
   "sourceCount": 4,
-  "score": 1.16,
+  "score": 0.76,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14319,7 +15561,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.94,
+  "score": 0.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14368,7 +15610,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.73,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14424,7 +15666,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.63,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14608,7 +15850,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.65,
+  "score": 0.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14803,7 +16045,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.41,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14923,7 +16165,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.68,
+  "score": 0.56,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15083,7 +16325,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15131,7 +16373,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.29,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15314,7 +16556,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 0.89,
+  "score": 0.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15614,7 +16856,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.33,
+  "score": 0.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15680,7 +16922,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.31,
+  "score": 0.25,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15801,9 +17043,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.09,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15963,9 +17205,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -16037,9 +17279,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -16099,9 +17341,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16159,9 +17401,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16210,9 +17452,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [
    {
@@ -16307,9 +17549,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 3,
-  "score": 0.26,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20339,404 +21581,6 @@
    "viaQuote": false
   },
   "headline": "Pour le choc face au Bayern Munich en Ligue des champions mercredi, un retour d'Ayase Ueda en pointe avec le LOSC ?"
- },
- {
-  "slug": "musiala-bayern-transfer",
-  "mode": "llm",
-  "titleKo": "무시알라 바이에른 이적설 논란",
-  "createdAt": "2026-11-20T22:18:38.000Z",
-  "updatedAt": "2026-11-23T17:02:57.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "bayern"
-  ],
-  "players": [
-   "자말 무시알라",
-   "무시알라"
-  ],
-  "sig": [
-   "rummenigge",
-   "musiala",
-   "hammer"
-  ],
-  "articles": [
-   {
-    "id": "1ba553da2cb7",
-    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-rummenigge-laesst-naechsten-musiala-hammer-fallen-zr-94601245.html",
-    "title": "„Summen nicht mehr darstellbar“: Rummenigge lässt nächsten Musiala-Hammer fallen",
-    "ko": "뤼멘니게, 무시알라 관련 또 한 번 폭탄 발언",
-    "source": "tz",
-    "publishedAt": "2026-11-20T22:18:38.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Maximilian Bohne",
-    "transfer": null
-   },
-   {
-    "id": "2a110131cd94",
-    "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
-    "title": "\"Kann mir nicht vorstellen, dass irgendein Verein Musiala unter diesen Voraussetzungen kaufen wird\"",
-    "ko": "\"이런 조건에서 누가 뮤시알라를 살 거라고 상상이 안 된다\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T22:33:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": {
-     "player": "자말 무시알라",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "32eff73ab2fc",
-    "url": "https://www.kicker.de/bayerns-schwarzer-freitag-die-hintergruende-zu-rummenigge-und-musiala-1273404/video#omrss",
-    "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
-    "ko": "바이에른의 암울한 금요일…루메니게·무시알라 논란 배경",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T23:30:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "8540345a9d91",
-    "url": "https://www.kicker.de/nach-harter-rummenigge-kritik-kompany-stellt-sich-vor-musiala-1273405/video#omrss",
-    "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
-    "ko": "루메니게 강한 비판 후 콤파니, 무시알라 감싸",
-    "source": "kicker",
-    "publishedAt": "2026-11-20T23:32:10.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ad44893cd3e7",
-    "url": "https://www.lequipe.fr/Football/Actualites/Karl-heinz-rummenigge-evoque-une-reduction-de-salaire-pour-musiala-il-a-des-problemes-de-sante-c-est-un-fait-connu/1745034#at_medium=RSS_feeds",
-    "title": "Karl-Heinz Rummenigge évoque une réduction de salaire pour Musiala : « Il a des problèmes de santé, c'est un fait connu »",
-    "ko": "루메니게, 무시알라 연봉 삭감 언급…\"건강 문제 있다는 건 알려진 사실\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-20T23:41:29.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "5d4bed4aa353",
-    "url": "https://www.tz.de/sport/fc-bayern/patrick-helmes-reagiert-auf-rummenigges-bayern-kritik-wegen-musiala-zr-94601253.html",
-    "title": "Rummenigges Musiala-Aussagen: Helmes hat einen brisanten Verdacht",
-    "ko": "루메니게, 무시알라 관련 발언 논란…의혹 제기",
-    "source": "tz",
-    "publishedAt": "2026-11-21T04:05:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "eb784b3b7ec9",
-    "url": "https://www.tz.de/sport/fc-bayern/debatte-um-musiala-rummenigge-verteidigt-hoeness-aussagen-94601385.html",
-    "title": "Bayern-Boss Rummenigge stellt sich mit Musiala-Knall schützend vor Uli Hoeneß",
-    "ko": "루멘니게, 뮐러 발언 두고 무시알라 사건으로 후이네스 옹호",
-    "source": "tz",
-    "publishedAt": "2026-11-21T08:55:03.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Florian Puth",
-    "transfer": null
-   },
-   {
-    "id": "2caaca3c5fdc",
-    "url": "https://www.mirror.co.uk/sport/football/news/bayern-chief-admits-jamal-musiala-37902251",
-    "title": "Bayern chief admits Jamal Musiala could be sold months after collpasing on pitch",
-    "ko": "바이에른 회장, 무시알라 쓰러진 뒤 수개월 내 매각 가능성 인정",
-    "source": "mirror",
-    "publishedAt": "2026-11-21T15:58:31.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Ben Husband",
-    "transfer": {
-     "player": "무시알라",
-     "from": "바이에른 뮌헨",
-     "to": null
-    }
-   },
-   {
-    "id": "b411c751a485",
-    "url": "https://www.kicker.de/druck-auf-musiala-dreesen-ordnet-rummenigge-aussagen-ein-1273555/video#omrss",
-    "title": "Druck auf Musiala: Dreesen ordnet Rummenigge-Aussagen ein",
-    "ko": "드레젠, 루메니게 발언 설명…무시알라에 압박",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T16:25:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2ecbe52b4aa5",
-    "url": "https://www.tz.de/sport/fc-bayern/matthaeus-mit-deutlicher-kritik-am-fc-bayern-wegen-musiala-94601682.html",
-    "title": "Matthäus mit deutlicher Kritik am FC Bayern wegen Musiala",
-    "ko": "마테우스, 무시알라 관련 바이에른에 직격 비판",
-    "source": "tz",
-    "publishedAt": "2026-11-21T17:40:42.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "b1d5b38d6e18",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss",
-    "title": "Fifpro criticises Bayern Munich for Musiala comments",
-    "ko": "피프로, 무시알라 발언 두고 바이에른 뮌헨 비판",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T17:43:44.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5efb160a4156",
-    "url": "https://www.hln.be/bundesliga/het-is-hun-plicht-om-voor-hem-te-zorgen-spelersvakbond-maakt-zich-ernstige-zorgen-om-uitspraken-bayern-bestuur-over-jamal-musiala~a4df5bd0/",
-    "title": "“Het is hun plicht om voor hem te zorgen”: spelersvakbond “maakt zich ernstige zorgen” om uitspraken Bayern-bestuur over Jamal Musiala",
-    "ko": "선수노조 \"무시알라 관련 바이에른 경영진 발언 깊이 우려\"",
-    "source": "hln",
-    "publishedAt": "2026-11-21T18:01:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Johannes De Rijcke",
-    "transfer": null
-   },
-   {
-    "id": "d13a5b42c589",
-    "url": "https://www.kicker.de/donnernder-applaus-bayern-fan-kritisiert-bosse-wegen-musiala-1273629/video#omrss",
-    "title": "Donnernder Applaus: Bayern-Fan kritisiert Bosse wegen Musiala",
-    "ko": "바이에른 팬, 무시알라 관련 보스 비판",
-    "source": "kicker",
-    "publishedAt": "2026-11-21T18:24:17.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "50b37263b2ff",
-    "url": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel#omrss",
-    "title": "Ist das Bayern-Vorgehen bei Musiala richtig?",
-    "ko": "바이에른, 무시알라 기용 방식 적절한가 논쟁",
-    "source": "kicker",
-    "publishedAt": "2026-11-22T08:57:23.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f63ac737d327",
-    "url": "https://www.kicker.de/dreesen-kontert-kritik-im-fall-musiala-habe-mich-einfach-nur-gewundert-1274392/artikel#omrss",
-    "title": "Dreesen kontert Kritik im Fall Musiala: \"Habe mich einfach nur gewundert\"",
-    "ko": "드레젠, 무시알라 사안 비판에 반박 \"그저 의아했을 뿐\"",
-    "source": "kicker",
-    "publishedAt": "2026-11-23T16:06:49.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "자말 무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "38dd9d2abac0",
-    "url": "https://www.tz.de/sport/fc-bayern/fc-bayern-dreesen-kontert-marsch-und-spricht-ueber-musiala-wirbel-94604616.html",
-    "title": "Jan-Christian Dreesen stellt sich nach Musiala-Angriff hinter Bayern-Bosse",
-    "ko": "드리센, 무시알라 공격 후 바이에른 수뇌부 옹호",
-    "source": "tz",
-    "publishedAt": "2026-11-23T17:02:57.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Isabella Strehmann",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 6,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "jamal-musiala"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "tz (바이에른)",
-   "source": "tz",
-   "at": "2026-11-20T22:18:38.000Z",
-   "viaQuote": false
-  },
-  "headline": "Fifpro criticises Bayern Munich for Musiala comments"
  },
  {
   "slug": "flamengo-manager-appointment",
@@ -26931,263 +27775,6 @@
   "headline": "Rangers plan January exit for Cifuentes - gossip"
  },
  {
-  "slug": "raya-injury",
-  "mode": "llm",
-  "titleKo": "라야 부상, 아스널 골키퍼 공백 우려",
-  "createdAt": "2026-11-21T19:34:33.000Z",
-  "updatedAt": "2026-11-23T07:37:03.000Z",
-  "category": "injury",
-  "stage": null,
-  "clubs": [
-   "arsenal",
-   "newcastle"
-  ],
-  "players": [
-   "다비드 라야",
-   "케파",
-   "라야"
-  ],
-  "sig": [
-   "mikel",
-   "raya"
-  ],
-  "articles": [
-   {
-    "id": "1cc1ad166ad8",
-    "url": "https://www.football.london/arsenal-fc/news/arsenal-press-conference-live-mikel-34948164",
-    "title": "Arsenal press conference LIVE: Mikel Arteta on Newcastle draw, Raya injury and collapse",
-    "ko": "아르테타 뉴캐슬전 무승부·라야 부상 기자회견",
-    "source": "fblondon",
-    "publishedAt": "2026-11-21T19:34:33.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Tom Canton",
-    "transfer": null
-   },
-   {
-    "id": "2c2efad22b1e",
-    "url": "https://as.com/futbol/arteta-suspira-raya-preocupa-f202611-n/",
-    "title": "Arteta suspira, Raya preocupa",
-    "ko": "아르테타 한숨, 라야 부상에 걱정 커져",
-    "source": "as",
-    "publishedAt": "2026-11-21T19:44:55.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Pablo Montaño",
-    "transfer": null
-   },
-   {
-    "id": "ba619b61680f",
-    "url": "https://www.dailystar.co.uk/sport/football/arsenal-suffer-brutal-injury-blow-37902669",
-    "title": "Arsenal suffer brutal injury blow as David Raya leaves pitch in agony against Newcastle",
-    "ko": "아스널 다비드 라야, 뉴캐슬전 부상으로 쓰러져",
-    "source": "star",
-    "publishedAt": "2026-11-21T19:50:32.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Ashley Pemberton, Jordan Seward",
-    "transfer": null
-   },
-   {
-    "id": "f362774efe5f",
-    "url": "https://www.football.london/arsenal-fc/news/david-raya-injury-arsenal-arteta-34948783",
-    "title": "Mikel Arteta gives David Raya injury update as Arsenal star off for MRI in huge blow",
-    "ko": "아르테타, 라야 부상 상태 업데이트…MRI 검사 예정",
-    "source": "fblondon",
-    "publishedAt": "2026-11-21T20:28:08.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Ben Husband, Jordan Seward",
-    "transfer": null
-   },
-   {
-    "id": "da754bca6399",
-    "url": "https://www.thesun.co.uk/sport/41103007/arsenal-talking-points-newcastle-draw-david-raya-injury/",
-    "title": "Three points from Arsenal’s 2-2 draw from worrying David Raya injury to rare defensive howlers costing champions",
-    "ko": "아스널, 2-2 무승부 뒤 라야 부상과 수비 실수 악재",
-    "source": "sun",
-    "publishedAt": "2026-11-21T20:38:31.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Charlie Wyett, Jamie Gordon",
-    "transfer": null
-   },
-   {
-    "id": "db89188eb1be",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
-    "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-    "ko": "라야, 부상 정밀검사 예정…아스널 골키퍼 공백 우려",
-    "source": "bbc",
-    "publishedAt": "2026-11-21T21:14:08.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "10d614d635c2",
-    "url": "https://www.thesun.co.uk/sport/41103653/mikel-arteta-david-raya-injury-update-arsenal-newcastle/",
-    "title": "‘Not good news’ – Mikel Arteta shares worrying David Raya update after nasty-looking injury in Arsenal draw vs Newcastle",
-    "ko": "아르테타 \"좋지 않은 소식\"…라야 뉴캐슬전 부상 업데이트",
-    "source": "sun",
-    "publishedAt": "2026-11-21T21:46:56.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Jamie Gordon",
-    "transfer": null
-   },
-   {
-    "id": "2a3d56204f83",
-    "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
-    "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
-    "ko": "아르테타, 라야 부상 상태에 우려 '좋지 않다'",
-    "source": "guardian",
-    "publishedAt": "2026-11-21T21:48:21.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "다비드 라야"
-    ],
-    "playerTags": [],
-    "author": "Louise Taylor at St James' Park",
-    "transfer": null
-   },
-   {
-    "id": "150c5d5495d1",
-    "url": "https://www.espn.com/soccer/story/_/id/50552162/david-raya-injured-arsenal-newcastle-premier-league",
-    "title": "Raya exits with injury as Arsenal held by Newcastle: 'Never good news'",
-    "ko": "라야 부상 교체 아웃, 아스널 뉴캐슬에 무승부",
-    "source": "espn",
-    "publishedAt": "2026-11-22T06:32:44.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal",
-     "newcastle"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "라야"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "04c3cadec9e7",
-    "url": "https://www.footballinsider247.com/arsenal/kepa-arrizabalaga-set-for-extended-run-in-arsenal-team-after-shattering-david-raya-blow",
-    "title": "Kepa Arrizabalaga set for extended run in Arsenal team after shattering David Raya blow",
-    "ko": "케파, 라야 부상으로 아스널 출전 기회 확대 전망",
-    "source": "fbinsider",
-    "publishedAt": "2026-11-22T07:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "케파",
-     "라야"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "2c06cfdde7d3",
-    "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-january-target-psg-latest-37904827",
-    "title": "Arsenal face major transfer headache ahead of January after star's serious injury",
-    "ko": "아스널, 주전 중상으로 1월 이적시장 난관",
-    "source": "mirror",
-    "publishedAt": "2026-11-23T07:37:03.000Z",
-    "credited": null,
-    "clubs": [
-     "arsenal"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Samuel Meade",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 9,
-  "score": 0,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Football.London",
-   "source": "fblondon",
-   "at": "2026-11-21T19:34:33.000Z",
-   "viaQuote": false
-  },
-  "headline": "Raya set to have scan on injury - how much would Arsenal miss him?"
- },
- {
   "slug": "lorient-rennes-2026-11-22",
   "mode": "llm",
   "titleKo": "로리앙 대 렌 리그1 경기 중계 정보",
@@ -28394,59 +28981,6 @@
    "viaQuote": false
   },
   "headline": "“Als dat geen handspel is, wat dan wel?”: ongenoegen bij OH Leuven over penalty van Anderlecht"
- },
- {
-  "slug": "besiktas-hapoel-2026-11-22",
-  "mode": "llm",
-  "titleKo": "베식타시 대 하파엘 유로파리그 경기",
-  "createdAt": "2026-11-22T20:15:39.000Z",
-  "updatedAt": "2026-11-22T20:15:39.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "besiktas"
-  ],
-  "players": [],
-  "sig": [
-   "avrupa",
-   "ligi",
-   "hapoel"
-  ],
-  "articles": [
-   {
-    "id": "70db632f03da",
-    "url": "https://www.fotomac.com.tr/besiktas/2026/11/22/besiktasin-avrupa-ligi-maci-ne-zaman-hapoel-maci-hangi-gun",
-    "title": "Beşiktaş'ın Avrupa Ligi maçı ne zaman, Hapoel maçı hangi gün?",
-    "ko": "베식타시 유로파리그 하파엘 경기 일정은?",
-    "source": "fotomac",
-    "publishedAt": "2026-11-22T20:15:39.000Z",
-    "credited": null,
-    "clubs": [
-     "besiktas"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "포토마치 (베식타스)",
-   "source": "fotomac",
-   "at": "2026-11-22T20:15:39.000Z",
-   "viaQuote": false
-  },
-  "headline": "Beşiktaş'ın Avrupa Ligi maçı ne zaman, Hapoel maçı hangi gün?"
  },
  {
   "slug": "porto-sporting-2026-11-20",
@@ -110709,461 +111243,6 @@
    "viaQuote": false
   },
   "headline": "Quadri, por protocolo de conmociones, estará siete días sin hacer deporte"
- },
- {
-  "slug": "porto-paredes-2026-11-12",
-  "mode": "llm",
-  "titleKo": "포르투 대 파레데스 경기 입장권 추가 개방",
-  "createdAt": "2026-11-10T09:47:32.000Z",
-  "updatedAt": "2026-11-10T09:47:32.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [],
-  "sig": [
-   "paredes"
-  ],
-  "articles": [
-   {
-    "id": "a78168e7b880",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-ja-colocou-a-venda-os-bilhetes-para-o-jogo-frente-ao-paredes",
-    "title": "FC Porto já colocou à venda os bilhetes para o jogo frente ao Paredes",
-    "ko": "포르투, 파레데스전 입장권 판매 시작",
-    "source": "record",
-    "publishedAt": "2026-11-09T16:30:48.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "d7974f95f40d",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-liberta-mais-bilhetes-para-jogo-com-o-paredes-na-quinta-feira",
-    "title": "FC Porto liberta mais bilhetes para jogo com o Paredes na quinta-feira",
-    "ko": "포르투, 파레데스전 관중 입장권 추가 개방",
-    "source": "record",
-    "publishedAt": "2026-11-10T09:47:32.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-09T16:30:48.000Z",
-   "viaQuote": false
-  },
-  "headline": "FC Porto liberta mais bilhetes para jogo com o Paredes na quinta-feira"
- },
- {
-  "slug": "anderlecht-club-brugge-2026-11-08",
-  "mode": "llm",
-  "titleKo": "안더레흐트 대 클럽 브뤼허 경기",
-  "createdAt": "2026-11-07T06:07:24.000Z",
-  "updatedAt": "2026-11-10T09:40:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "club-brugge"
-  ],
-  "players": [
-   "얀 비르길리",
-   "한스 반아케르",
-   "미하일로 츠베트코비치",
-   "한스 반아나켄",
-   "한스 반라켄",
-   "한스 반아캔",
-   "한스 반케",
-   "트레솔디",
-   "한 반 바나켄",
-   "Vermant",
-   "Tsawa",
-   "Potts"
-  ],
-  "sig": [
-   "anderlecht",
-   "louvière",
-   "frank",
-   "boeckx"
-  ],
-  "articles": [
-   {
-    "id": "9001e3ced4b9",
-    "url": "https://www.hln.be/belgisch-voetbal/je-bent-anderlecht-he-niet-la-louviere-analist-frank-boeckx-legt-uit-hoe-en-waarom-paars-wit-zondag-kan-winnen-van-club-brugge~a54188f6/",
-    "title": "“Je bent Anderlecht hè, niet La Louvière”: analist Frank Boeckx legt uit hoe en waarom paars-wit zondag kan winnen van Club Brugge",
-    "ko": "안더레흐트, 주말 클럽 브뤼허 격파 가능성 분석",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:07:24.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "c6920cdd5436",
-    "url": "https://www.hln.be/belgisch-voetbal/tactisch-expert-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
-    "title": "Tactisch expert Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
-    "ko": "안더레흐트 대 클럽 브뤼허, 일요일 맞대결 승부 전망",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:16:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "9e1f50d58b30",
-    "url": "https://www.hln.be/belgisch-voetbal/analist-frank-boeckx-legt-uit-hoe-anderlecht-zondag-kan-winnen-van-club-brugge-je-bent-anderlecht-he-niet-la-louviere~a54188f6/",
-    "title": "Analist Frank Boeckx legt uit hoe Anderlecht zondag kan winnen van Club Brugge: “Je bent Anderlecht hè, niet La Louvière”",
-    "ko": "프랭크 뵈크스, 안더레흐트가 일요일 클럽 브뤼허를 꺾을 방법 분석",
-    "source": "hln",
-    "publishedAt": "2026-11-07T06:16:00.000Z",
-    "credited": "프랭크 뵈크스",
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "e549f80f0357",
-    "url": "https://www.hln.be/jupiler-pro-league/live-club-brugge-zonder-jan-virgili-tegen-anderlecht-jonge-doelman-van-nxt-pijnlijk-in-de-fout-oude-bekende-flips-profiteert-heerlijk~ad78c7c0/",
-    "title": "LIVE. Club Brugge zonder Jan Virgili tegen Anderlecht - Jonge doelman van NXT pijnlijk in de fout, oude bekende Flips profiteert héérlijk",
-    "ko": "클럽 브뤼허, 안더레흐트전 야닌 비르길리 결장 라이브",
-    "source": "hln",
-    "publishedAt": "2026-11-07T17:42:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "2252b372fdf1",
-    "url": "https://www.hln.be/jupiler-pro-league/live-een-nederlaag-in-vorige-vijf-seizoenen-deze-statistiek-moet-anderlecht-vertrouwen-geven-richting-clash-op-jan-breydel~ad78c7c0/",
-    "title": "LIVE. Eén nederlaag in vorige vijf seizoenen: deze statistiek moet Anderlecht vertrouwen geven richting clash op Jan Breydel",
-    "ko": "앤더레흐트, 얀 브레이델에서 클럽 브뤼허와 격돌 앞두고 통계 주목",
-    "source": "hln",
-    "publishedAt": "2026-11-08T09:29:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "eba0582d504e",
-    "url": "https://www.hln.be/jupiler-pro-league/live-veel-wissels-bij-club-brugge-voor-clash-met-anderlecht-tresoldi-en-vermant-samen-in-de-spits-tsawa-vervangt-geschorste-potts~ad78c7c0/",
-    "title": "LIVE. Veel wissels bij Club Brugge voor clash met Anderlecht: Tresoldi en Vermant samen in de spits, Tsawa vervangt geschorste Potts",
-    "ko": "클럽 브뤼허, 안더레흐트전 선발 대폭 교체",
-    "source": "hln",
-    "publishedAt": "2026-11-08T11:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "트레솔디",
-     "Vermant",
-     "Tsawa",
-     "Potts"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "51a874b40097",
-    "url": "https://www.hln.be/jupiler-pro-league/live-veel-wissels-bij-club-brugge-voor-clash-met-anderlecht-tresoldi-en-vermant-samen-in-de-spits-hans-vanaken-speelt-met-speciaal-shirt~ad78c7c0/",
-    "title": "LIVE. Veel wissels bij Club Brugge voor clash met Anderlecht: Tresoldi en Vermant samen in de spits, Hans Vanaken speelt met speciaal shirt",
-    "ko": "클럽 브뤼허, 안더레흐트전 대거 로테이션 가동",
-    "source": "hln",
-    "publishedAt": "2026-11-08T12:10:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "트레솔디",
-     "한 반 바나켄"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "151e18513bd7",
-    "url": "https://www.hln.be/belgisch-voetbal/hij-viel-dramatisch-in-een-buis-bij-anderlecht-club-brugge-krijgt-heel-wat-zessen~ae75fc78/",
-    "title": "“Hij viel dramatisch in”: één buis bij Anderlecht, Club Brugge krijgt heel wat zessen",
-    "ko": "안더레흐트 한 골 차 패배, 클럽 브뤼허 평점 논란",
-    "source": "hln",
-    "publishedAt": "2026-11-08T14:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "c92428064027",
-    "url": "https://www.hln.be/jupiler-pro-league/we-gaan-de-lat-toch-hoger-leggen-dan-dit-hln-voetbalpodcast-geraakt-het-niet-eens-over-doelpunt-van-anderlecht-tegen-club-brugge~a33b5bb3/",
-    "title": "“We gaan de lat toch hoger leggen dan dit?”: HLN Voetbalpodcast geraakt het niet eens over doelpunt van Anderlecht tegen Club Brugge",
-    "ko": "HLN 팟캐스트, 안더레흐트의 클럽 브뤼허전 득점 판정 놓고 의견 엇갈려",
-    "source": "hln",
-    "publishedAt": "2026-11-09T14:15:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Yanko Beeckman",
-    "transfer": null
-   },
-   {
-    "id": "36171943d481",
-    "url": "https://www.hln.be/anderlecht/krijgt-de-topper-nog-een-staartje-anderlecht-riskeert-forfaitnederlaag-na-fout-op-wedstrijdblad~a6299f36/",
-    "title": "Krijgt de topper nog een staartje? Anderlecht riskeert forfaitnederlaag na fout op wedstrijdblad",
-    "ko": "안더레흐트, 기록 실수로 몰수패 위기",
-    "source": "hln",
-    "publishedAt": "2026-11-09T16:14:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kjell Doms",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "프랭크 뵈크스",
-   "at": "2026-11-07T06:07:24.000Z",
-   "viaQuote": true
-  },
-  "headline": "Krijgt de topper nog een staartje? Anderlecht riskeert forfaitnederlaag na fout op wedstrijdblad"
- },
- {
-  "slug": "genk-manager-future",
-  "mode": "llm",
-  "titleKo": "헹크 감독 토르업 경질",
-  "createdAt": "2026-11-10T09:27:00.000Z",
-  "updatedAt": "2026-11-10T09:27:00.000Z",
-  "category": "manager",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "racing",
-   "genk",
-   "jess",
-   "thorup"
-  ],
-  "articles": [
-   {
-    "id": "c80e7b8bcf67",
-    "url": "https://www.hln.be/racing-genk/nu-is-het-jullie-beurt-om-te-praten-een-week-in-het-spoor-van-racing-genk-waar-de-druk-toeneemt~abb18fbb/",
-    "title": "“Nu is het jullie beurt om te praten”: een week in het spoor van Racing Genk, waar de druk toeneemt",
-    "ko": "헹크, 압박 커지는 한 주 조명",
-    "source": "hln",
-    "publishedAt": "2026-11-08T09:10:55.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Bob Faesen",
-    "transfer": null
-   },
-   {
-    "id": "5e4a9970fb49",
-    "url": "https://www.hln.be/jupiler-pro-league/ook-keuze-voor-organisatie-levert-racing-genk-geen-punten-op-druk-op-jess-thorup-neemt-toe~afe53cbd/",
-    "title": "Ook keuze voor organisatie levert Racing Genk geen punten op, druk op Jess Thorup neemt toe",
-    "ko": "레이싱 헹크, 조직 개편에도 승점 실패…토르업 감독 압박 커져",
-    "source": "hln",
-    "publishedAt": "2026-11-08T20:56:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "03fc36fea4ba",
-    "url": "https://www.hln.be/racing-genk/na-erg-teleurstellende-resultaten-racing-genk-neemt-afscheid-van-jess-thorup~acfc1709/",
-    "title": "Na erg teleurstellende resultaten: Racing Genk neemt afscheid van Jess Thorup",
-    "ko": "기대에 못 미친 성적…헹크 제스 토르업과 결별",
-    "source": "hln",
-    "publishedAt": "2026-11-10T09:27:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "cca3bb9bb81d",
-    "url": "https://www.hln.be/racing-genk/racing-genk-neemt-afscheid-van-jess-thorup-na-teleurstellende-resultaten-niet-het-niveau-dat-de-club-van-zichzelf-verwacht~acfc1709/",
-    "title": "Racing Genk neemt afscheid van Jess Thorup na teleurstellende resultaten: “Niet het niveau dat de club van zichzelf verwacht”",
-    "ko": "헹크, 토르업과 결별…“클럽이 스스로 기대하는 수준 아니다”",
-    "source": "hln",
-    "publishedAt": "2026-11-10T09:27:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 3,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-08T09:10:55.000Z",
-   "viaQuote": false
-  },
-  "headline": "Na erg teleurstellende resultaten: Racing Genk neemt afscheid van Jess Thorup"
- },
- {
-  "slug": "porto-affairs-madureira-expulsion",
-  "mode": "llm",
-  "titleKo": "포르투 마두레이라 제명 여부 논란",
-  "createdAt": "2026-11-10T09:02:41.000Z",
-  "updatedAt": "2026-11-10T09:02:41.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "porto"
-  ],
-  "players": [],
-  "sig": [
-   "assembleia",
-   "geral",
-   "fernando",
-   "madureira"
-  ],
-  "articles": [
-   {
-    "id": "139d14f6bed4",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-convoca-assembleia-geral-ainda-sem-decidir-expulsao-de-fernando-madureira",
-    "title": "FC Porto convoca Assembleia Geral ainda sem decidir expulsão de Fernando Madureira",
-    "ko": "포르투, 페르난두 마두레이라 퇴출 여부 결정 전 총회 소집",
-    "source": "record",
-    "publishedAt": "2026-11-10T09:02:41.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-10T09:02:41.000Z",
-   "viaQuote": false
-  },
-  "headline": "FC Porto convoca Assembleia Geral ainda sem decidir expulsão de Fernando Madureira"
  },
  {
   "slug": "dalot-man-utd-relationship",
