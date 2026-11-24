@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T19:44:47.600Z",
+ "updatedAt": "2026-11-24T20:35:34.676Z",
  "hot": [
   "yoro-liverpool-discipline",
   "can-2025-affairs-tas-verdict",
-  "arsenal-dortmund-2026-11-24",
   "man-city-napoli-2026-11-26",
-  "infantino-fifa-affairs-investor-deal"
+  "aston-villa-galatasaray-2026-11-25",
+  "arsenal-dortmund-2026-11-24"
  ],
  "days": [
   "2026-10-18",
@@ -48,8 +48,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 81,
-   "added": 0,
+   "items": 79,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -59,7 +59,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -82,8 +82,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 13,
+   "items": 50,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,25 +95,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 5,
-   "authorRate": 78
+   "authorRate": 74
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -149,7 +149,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 19,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -178,26 +178,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 7,
+   "items": 8,
    "added": 3,
-   "authorRate": 71
+   "authorRate": 63
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
-   "added": 3,
+   "items": 10,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -287,6 +287,10 @@
    "count": 20
   },
   {
+   "name": "레니 요로",
+   "count": 20
+  },
+  {
    "name": "윌 랭크셔",
    "count": 18
   },
@@ -317,19 +321,15 @@
   {
    "name": "트루빈",
    "count": 17
-  },
-  {
-   "name": "루카 윌리엄스-바넷",
-   "count": 17
   }
  ],
  "issueHealth": {
-  "recentIssues": 225,
-  "singleArticleRate": 40,
+  "recentIssues": 220,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 83
+    "count": 81
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
@@ -337,15 +337,11 @@
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 45
+    "count": 48
    },
    {
     "slug": "barcelona-villarreal-2026-11-22",
     "count": 25
-   },
-   {
-    "slug": "doue-injury",
-    "count": 22
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
@@ -356,6 +352,10 @@
     "count": 21
    },
    {
+    "slug": "doue-injury",
+    "count": 20
+   },
+   {
     "slug": "brentford-everton-2026-11-22",
     "count": 19
    },
@@ -364,15 +364,15 @@
     "count": 19
    },
    {
-    "slug": "david-raya-injury",
+    "slug": "aston-villa-galatasaray-2026-11-25",
     "count": 17
    },
    {
-    "slug": "chelsea-manager-future",
+    "slug": "david-raya-injury",
     "count": 16
    },
    {
-    "slug": "newcastle-arsenal-2026-11-22",
+    "slug": "chelsea-manager-future",
     "count": 16
    }
   ]
@@ -428,7 +428,7 @@
     },
     {
      "ko": "파울루 퐁세카",
-     "count": 2
+     "count": 1
     }
    ]
   },
@@ -513,20 +513,6 @@
    ]
   },
   {
-   "en": "Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 5
-    },
-    {
-     "ko": "윌리엄스바넷",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -594,6 +580,20 @@
     },
     {
      "ko": "트레솔디",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Williams-Barnett",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "윌리엄스-바넷",
+     "count": 4
+    },
+    {
+     "ko": "윌리엄스바넷",
      "count": 1
     }
    ]
@@ -792,24 +792,6 @@
     },
     {
      "ko": "회이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Timmy Simons",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "티미 시먼스",
-     "count": 1
-    },
-    {
-     "ko": "팀 시몬스",
-     "count": 1
-    },
-    {
-     "ko": "타미 시몬스",
      "count": 1
     }
    ]
@@ -1059,6 +1041,20 @@
    ]
   },
   {
+   "en": "Timmy Simons",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "티미 시먼스",
+     "count": 1
+    },
+    {
+     "ko": "팀 시몬스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Wörle",
    "dictionary": null,
    "variants": [
@@ -1157,15 +1153,15 @@
    ]
   },
   {
-   "en": "Pellegrini",
+   "en": "Cramer",
    "dictionary": null,
    "variants": [
     {
-     "ko": "페예그리니",
+     "ko": "크라머",
      "count": 1
     },
     {
-     "ko": "펠레그리니",
+     "ko": "크레이머",
      "count": 1
     }
    ]
@@ -1277,8 +1273,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 275,
-   "llm": 275
+   "collected": 319,
+   "llm": 319
   }
  },
  "llmErrors": []
