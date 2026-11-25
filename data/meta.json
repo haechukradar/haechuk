@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T00:32:15.178Z",
+ "updatedAt": "2026-11-25T02:02:21.436Z",
  "hot": [
   "real-madrid-psv-2026-11-25",
   "arsenal-dortmund-2026-11-24",
@@ -49,7 +49,7 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -59,19 +59,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 21,
+   "added": 9,
+   "authorRate": 90
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,13 +95,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 76
   },
   "fblondon": {
@@ -149,7 +149,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
@@ -179,7 +179,7 @@
   "sun": {
    "ok": true,
    "items": 18,
-   "added": 1,
+   "added": 0,
    "authorRate": 94
   },
   "star": {
@@ -196,7 +196,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 1,
+   "items": 0,
    "added": 0,
    "authorRate": 0
   }
@@ -256,7 +256,7 @@
   },
   {
    "name": "요로",
-   "count": 31
+   "count": 32
   },
   {
    "name": "이스테방",
@@ -337,11 +337,11 @@
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 52
+    "count": 53
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 38
+    "count": 40
    },
    {
     "slug": "barcelona-villarreal-2026-11-22",
@@ -1277,8 +1277,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 495,
-   "llm": 495
+   "collected": 510,
+   "llm": 510
   }
  },
  "llmErrors": []
