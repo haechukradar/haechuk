@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-25T04:17:48.158Z",
+ "updatedAt": "2026-11-25T05:31:29.645Z",
  "hot": [
   "yoro-liverpool-discipline",
+  "can-2025-affairs-tas-verdict",
   "arsenal-dortmund-2026-11-24",
   "real-madrid-psv-2026-11-25",
-  "man-city-napoli-2026-11-26",
-  "aston-villa-galatasaray-2026-11-25"
+  "losc-bayern-2026-11-25"
  ],
  "days": [
   "2026-10-18",
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 8,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,13 +95,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 76
   },
   "fblondon": {
@@ -113,20 +113,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
-   "authorRate": 88
+   "added": 2,
+   "authorRate": 90
   },
   "waz": {
    "ok": true,
@@ -143,7 +143,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
@@ -155,13 +155,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -215,12 +215,12 @@
    "count": 57
   },
   {
-   "name": "루카쿠",
+   "name": "잭 그릴리시",
    "count": 44
   },
   {
-   "name": "잭 그릴리시",
-   "count": 43
+   "name": "루카쿠",
+   "count": 44
   },
   {
    "name": "오워노",
@@ -324,16 +324,16 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 218,
-  "singleArticleRate": 43,
+  "recentIssues": 216,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 80
+    "count": 79
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 75
+    "count": 73
    },
    {
     "slug": "yoro-liverpool-discipline",
@@ -348,12 +348,12 @@
     "count": 25
    },
    {
-    "slug": "man-city-napoli-2026-11-26",
-    "count": 22
+    "slug": "can-2025-affairs-tas-verdict",
+    "count": 23
    },
    {
-    "slug": "can-2025-affairs-tas-verdict",
-    "count": 22
+    "slug": "man-city-napoli-2026-11-26",
+    "count": 23
    },
    {
     "slug": "real-madrid-psv-2026-11-25",
@@ -373,7 +373,7 @@
    },
    {
     "slug": "doue-injury",
-    "count": 17
+    "count": 16
    },
    {
     "slug": "david-raya-injury",
@@ -410,7 +410,7 @@
    "variants": [
     {
      "ko": "모예스",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "데이비드 모예스",
@@ -1277,8 +1277,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 519,
-   "llm": 519
+   "collected": 547,
+   "llm": 547
   }
  },
  "llmErrors": []

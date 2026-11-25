@@ -1,17 +1,1576 @@
 [
  {
+  "slug": "losc-bayern-2026-11-25",
+  "mode": "llm",
+  "titleKo": "릴 대 바이에른 챔피언스리그 경기 전망",
+  "createdAt": "2026-11-23T17:11:05.000Z",
+  "updatedAt": "2026-11-25T05:30:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "psg",
+   "bayern"
+  ],
+  "players": [
+   "우에다 아야세",
+   "해리 케인",
+   "마이클 올리세",
+   "무시알라",
+   "다요 우파메카노",
+   "루이스 디아스"
+  ],
+  "sig": [
+   "ligue",
+   "ayase",
+   "ueda",
+   "losc"
+  ],
+  "articles": [
+   {
+    "id": "df64020b2a98",
+    "url": "https://www.lequipe.fr/Football/Actualites/Pour-le-choc-face-au-bayern-munich-en-ligue-des-champions-mercredi-un-retour-d-ayase-ueda-en-pointe-avec-le-losc/1745647#at_medium=RSS_feeds",
+    "title": "Pour le choc face au Bayern Munich en Ligue des champions mercredi, un retour d'Ayase Ueda en pointe avec le LOSC ?",
+    "ko": "릴, 수요일 바이에른전 앞두고 우에다 아야세 최전방 복귀 여부 주목",
+    "source": "lequipe",
+    "publishedAt": "2026-11-23T17:11:05.000Z",
+    "credited": null,
+    "clubs": [
+     "psg"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "우에다 아야세"
+    ],
+    "playerTags": [],
+    "author": "Nathan Gourdol",
+    "transfer": null
+   },
+   {
+    "id": "8134c85cc5c3",
+    "url": "https://www.tz.de/sport/fc-bayern/taktik-experte-verraet-wie-der-fc-bayern-dem-kane-ausfall-trotzt-94605712.html",
+    "title": "Kollektiv statt Kane – der neue Bayern-Plan gegen Lille",
+    "ko": "케인 빠진 바이에른, 릴전 집단 전술로 대응",
+    "source": "tz",
+    "publishedAt": "2026-11-24T12:35:13.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "해리 케인"
+    ],
+    "playerTags": [
+     "harry-kane"
+    ],
+    "author": "Hanna Raif",
+    "transfer": null
+   },
+   {
+    "id": "9adb9fa06169",
+    "url": "https://www.kicker.de/olise-fehlt-bayern-im-abschlusstraining-und-wohl-auch-in-lille-1274540/artikel#omrss",
+    "title": "Olise fehlt Bayern im Abschlusstraining - und wohl auch in Lille",
+    "ko": "올리세, 바이에른 훈련 불참…릴전 결장 가능성",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T12:35:17.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "마이클 올리세"
+    ],
+    "playerTags": [
+     "michael-olise"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1deff360d287",
+    "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-entraineur-de-lille-a-propos-d-un-bayern-munich-affaibli-en-ligue-des-champions-c-est-dangereux-de-parler-comme-ca/1745792#at_medium=RSS_feeds",
+    "title": "Davide Ancelotti, entraîneur de Lille, à propos d'un Bayern Munich affaibli en Ligue des champions : « C'est dangereux de parler comme ça... »",
+    "ko": "릴 감독 안첼로티, 약체화된 바이에른 두고 '위험한 발언' 경계",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T13:31:21.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hervé Penot",
+    "transfer": null
+   },
+   {
+    "id": "4e3e9b1ed0fa",
+    "url": "https://www.tz.de/sport/fc-bayern/bayern-aufstellung-gegen-lille-kompanys-musiala-dilemma-zr-94606076.html",
+    "title": "Bayern-Aufstellung gegen Lille: Kompany steht vor Musiala-Dilemma",
+    "ko": "콤파니, 릴전 선발 고민…무시알라 기용 딜레마",
+    "source": "tz",
+    "publishedAt": "2026-11-24T14:40:39.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "무시알라"
+    ],
+    "playerTags": [
+     "jamal-musiala"
+    ],
+    "author": "Philipp Kuserau",
+    "transfer": null
+   },
+   {
+    "id": "ac95e816f32c",
+    "url": "https://www.kicker.de/fc-bayern-fliegt-ohne-olise-nach-lille-youngster-trio-um-16-jaehrigen-torhueter-dabei-1274540/artikel#omrss",
+    "title": "FC Bayern fliegt ohne Olise nach Lille - Youngster-Trio um 16-jährigen Torhüter dabei",
+    "ko": "바이에른, 올리세 빠진 채 릴 원정 출발…유망주 3인방 동행",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T15:00:05.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "마이클 올리세"
+    ],
+    "playerTags": [
+     "michael-olise"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "68396fca1a01",
+    "url": "https://www.lequipe.fr/Football/Actualites/-c-est-comme-un-derby-de-retour-dans-le-nord-pour-affronter-lille-avec-le-bayern-onze-ans-apres-son-passage-a-valenciennes-dayot-upamecano-s-attend-a-un-gros-match/1745917#at_medium=RSS_feeds",
+    "title": "« C'est comme un derby » : De retour dans le Nord pour affronter Lille avec le Bayern, onze ans après son passage à Valenciennes, Dayot Upamecano s'attend à un gros match",
+    "ko": "우파메카노, 릴전 앞두고 \"더비 같다\"",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T19:49:30.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "다요 우파메카노"
+    ],
+    "playerTags": [],
+    "author": "Hervé Penot",
+    "transfer": null
+   },
+   {
+    "id": "321c2314ceca",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-bayern-munich-vincent-kompany-avant-lille-bayern-munich-on-a-envie-de-relever-ce-defi/20246256#at_medium=RSS_feeds",
+    "title": "Kompany avant Lille-Bayern Munich : « On a envie de relever ce défi »",
+    "ko": "콤파니, 릴전 앞두고 바이에른 도전 의지 강조",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T20:14:00.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e7b40f53e314",
+    "url": "https://colombia.as.com/futbol/colombianos-por-el-mundo/luis-diaz-viaja-con-bayern-a-lille-y-esta-listo-para-reaparecer-en-ucl-f202611-n/",
+    "title": "Luis Díaz viaja con Bayern a Lille y está listo para reaparecer en UCL",
+    "ko": "루이스 디아스, 바이에른과 릴 원정 동행…UCL 복귀 임박",
+    "source": "as",
+    "publishedAt": "2026-11-24T22:31:37.000Z",
+    "credited": null,
+    "clubs": [
+     "bayern"
+    ],
+    "category": "injury",
+    "stage": null,
+    "players": [
+     "루이스 디아스"
+    ],
+    "playerTags": [
+     "luis-diaz"
+    ],
+    "author": "As.com As.com",
+    "transfer": null
+   },
+   {
+    "id": "99a5b002e422",
+    "url": "https://www.kicker.de/wer-uebertraegt-lille-osc-gegen-fc-bayern-muenchen-heute-live-im-tv-und-stream-1274234/artikel#omrss",
+    "title": "Wer überträgt Lille OSC gegen FC Bayern München heute live im TV und Stream?",
+    "ko": "릴 대 바이에른 경기 TV·스트리밍 중계 안내",
+    "source": "kicker",
+    "publishedAt": "2026-11-25T05:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg",
+     "bayern"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 4,
+  "score": 2.96,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "harry-kane",
+   "michael-olise",
+   "jamal-musiala",
+   "luis-diaz"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-23T17:11:05.000Z",
+   "viaQuote": false
+  },
+  "headline": "Wer überträgt Lille OSC gegen FC Bayern München heute live im TV und Stream?"
+ },
+ {
+  "slug": "manuel-baum-augsburg-discipline",
+  "mode": "llm",
+  "titleKo": "바움 아우크스부르크 감독 퇴장 징계 논란",
+  "createdAt": "2026-11-22T20:34:20.000Z",
+  "updatedAt": "2026-11-25T05:23:57.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [
+   "augsburg",
+   "mainz"
+  ],
+  "players": [],
+  "sig": [
+   "fca",
+   "trainer",
+   "manuel",
+   "baum",
+   "rot"
+  ],
+  "articles": [
+   {
+    "id": "d2ca943e8377",
+    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/platzverweis-in-augsburg-warum-der-schiedsrichter-fca-trainer-manuel-baum-regelkonform-rot-zeigte-115744782",
+    "title": "Warum FCA-Trainer Manuel Baum gegen Mainz Rot sah",
+    "ko": "바움 감독, 마인츠전 퇴장 이유 해명",
+    "source": "augsburger",
+    "publishedAt": "2026-11-22T20:34:20.000Z",
+    "credited": null,
+    "clubs": [
+     "augsburg",
+     "mainz"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Robert Götz",
+    "transfer": null
+   },
+   {
+    "id": "ae97d4120620",
+    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/fca-sieg-gegen-mainz-welche-folgen-die-rote-karte-fuer-trainer-manuel-baum-hat-115744628",
+    "title": "So wichtig war der FCA-Sieg gegen Mainz – und diese Folgen hat die Rote Karte für Baum",
+    "ko": "아우크스부르크, 마인츠 격파 후 바움 퇴장 여파",
+    "source": "augsburger",
+    "publishedAt": "2026-11-23T12:10:19.000Z",
+    "credited": null,
+    "clubs": [
+     "augsburg",
+     "mainz"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Florian Eisele",
+    "transfer": null
+   },
+   {
+    "id": "77e0d14e748a",
+    "url": "https://www.augsburger-allgemeine.de/sport/nach-roter-karte-dfb-sportgericht-faellt-urteil-gegen-fca-trainer-manuel-baum-115756125",
+    "title": "Nach Roter Karte: So lange muss FCA-Trainer Manuel Baum zuschauen",
+    "ko": "레드카드 받은 바움 감독, 경기 벤치 밖 관람 기간 확인",
+    "source": "augsburger",
+    "publishedAt": "2026-11-24T10:39:26.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Johannes Graf",
+    "transfer": null
+   },
+   {
+    "id": "61986c6321f2",
+    "url": "https://www.kicker.de/ein-spiel-sperre-baum-fehlt-dem-fca-in-hoffenheim-1274557/artikel#omrss",
+    "title": "Ein Spiel Sperre: Baum fehlt dem FCA in Hoffenheim",
+    "ko": "바움, 호펜하임전 1경기 출장정지로 결장",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T11:06:06.000Z",
+    "credited": null,
+    "clubs": [
+     "augsburg"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f3851ba66638",
+    "url": "https://www.kicker.de/der-eiswuerfel-pinkler-der-baum-die-entscheidungen-erschwert-1274484/artikel#omrss",
+    "title": "Der Eiswürfel-Pinkler, der Baum die Entscheidungen erschwert",
+    "ko": "물 한 잔 같은 엉뚱한 행동이 판정을 어렵게 만든 바움",
+    "source": "kicker",
+    "publishedAt": "2026-11-25T05:23:57.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 2,
+  "score": 1.96,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "아우크스부르거 알게마이네",
+   "source": "augsburger",
+   "at": "2026-11-22T20:34:20.000Z",
+   "viaQuote": false
+  },
+  "headline": "Der Eiswürfel-Pinkler, der Baum die Entscheidungen erschwert",
+  "aliases": [
+   "baum-augsburg-discipline"
+  ]
+ },
+ {
+  "slug": "can-2025-affairs-tas-verdict",
+  "mode": "llm",
+  "titleKo": "CAN 2025 TAS 판정 앞둔 모로코 연맹 사건",
+  "createdAt": "2026-11-24T11:30:46.000Z",
+  "updatedAt": "2026-11-25T05:12:32.000Z",
+  "category": "other",
+  "stage": null,
+  "clubs": [],
+  "players": [],
+  "sig": [
+   "tas",
+   "fédération"
+  ],
+  "articles": [
+   {
+    "id": "e1f695da8fa1",
+    "url": "https://www.lequipe.fr/Football/Actualites/Can-2025-a-quelques-heures-du-verdict-du-tas-la-federation-marocaine-signale-un-nouvel-incident/1745772#at_medium=RSS_feeds",
+    "title": "CAN 2025 : à quelques heures du verdict du TAS, la Fédération marocaine signale un nouvel « incident »",
+    "ko": "CAN 2025 TAS 판정 앞두고 모로코 연맹 새 사건 알려",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T11:30:46.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "3ba02e0cf23a",
+    "url": "https://www.lequipe.fr/Football/Actualites/Can-2025-le-maroc-deboute-en-appel-par-le-tas-le-senegal-recupere-son-titre/1745812#at_medium=RSS_feeds",
+    "title": "CAN 2025 : le Maroc débouté en appel par le TAS, le Sénégal récupère son titre",
+    "ko": "모로코, CAN 2025 항소 기각…세네갈 우승 복귀",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T14:21:03.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Rédaction",
+    "transfer": null
+   },
+   {
+    "id": "e420aaf2f4a5",
+    "url": "https://www.nytimes.com/athletic/7668257/2026/11/24/senegal-afcon-appeal-cas-morocco/",
+    "title": "Senegal's AFCON title restored after winning CAS appeal against Morocco, CAF",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-24T14:27:01.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "de7878dbe0eb",
+    "url": "https://www.thesun.co.uk/sport/41128129/senegal-afcon-winners-morocco-verdict/",
+    "title": "Senegal given BACK Afcon title after CAS overturn controversial decision to award Morocco trophy",
+    "ko": "CAS, 모로코 트로피 판정 뒤집어 세네갈 아프리카네이션스컵 우승 복귀",
+    "source": "sun",
+    "publishedAt": "2026-11-24T14:28:56.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Lipton",
+    "transfer": null
+   },
+   {
+    "id": "ef58cba6236d",
+    "url": "https://www.mirror.co.uk/sport/football/news/afcon-2025-winner-decided-morocco-37909815",
+    "title": "AFCON 2025 winner decided as Morocco and Senegal learn fate after chaos in final",
+    "ko": "AFCON 2025 우승팀 결정, 모로코와 세네갈 혼란 끝 운명 갈려",
+    "source": "mirror",
+    "publishedAt": "2026-11-24T14:30:08.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jake Stokes",
+    "transfer": null
+   },
+   {
+    "id": "0473cf2ab81d",
+    "url": "https://www.hln.be/africa-cup/einde-van-de-soap-internationaal-sporttribunaal-wijst-senegal-tien-maanden-na-datum-toch-opnieuw-aan-als-winnaar-van-afrika-cup~a2aa9754/",
+    "title": "Einde van de soap: Internationaal Sporttribunaal wijst Senegal tien maanden na datum tóch opnieuw aan als winnaar van Afrika Cup",
+    "ko": "국제스포츠중재재판소, 세네갈 아프리카네이션스컵 우승 재지정",
+    "source": "hln",
+    "publishedAt": "2026-11-24T14:32:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sportredactie",
+    "transfer": null
+   },
+   {
+    "id": "6898e0abebc2",
+    "url": "https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/",
+    "title": "¡Senegal recupera la Copa de África!",
+    "ko": "세네갈, 아프리카네이션스컵 우승 되찾아",
+    "source": "as",
+    "publishedAt": "2026-11-24T14:40:16.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aritz Gabilondo,Pablo M. Fuentenebro",
+    "transfer": null
+   },
+   {
+    "id": "378e8fc5064c",
+    "url": "https://www.dailystar.co.uk/sport/football/breaking-senegal-announced-africa-cup-37910550",
+    "title": "Senegal announced as Africa Cup of Nations winners – 310 days after chaotic final",
+    "ko": "혼란스러운 결승 310일 만에 세네갈 아프리카네이션스컵 우승 발표",
+    "source": "star",
+    "publishedAt": "2026-11-24T14:41:05.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Paul Cockerton",
+    "transfer": null
+   },
+   {
+    "id": "1843829e9d54",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/detalhe/oficial-tas-reverte-decisao-da-caf-e-senegal-e-considerado-vencedor-da-can",
+    "title": "Oficial: TAS reverte decisão da CAF e Senegal é considerado vencedor da CAN",
+    "ko": "TAS, CAF 결정 뒤집고 세네갈 AFCON 우승 인정",
+    "source": "record",
+    "publishedAt": "2026-11-24T14:43:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e31db0ce1550",
+    "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas",
+    "title": "Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling",
+    "ko": "세네갈, CAS 판결로 아프리카네이션스컵 우승 복원",
+    "source": "espn",
+    "publishedAt": "2026-11-24T14:47:28.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Associated Press",
+    "transfer": null
+   },
+   {
+    "id": "bfc0abb5ad6e",
+    "url": "https://www.kicker.de/cas-urteil-senegal-ist-sieger-des-afrika-cups-2025-1274626/artikel#omrss",
+    "title": "CAS-Urteil: Senegal ist Sieger des Afrika Cups 2025",
+    "ko": "CAS 판정, 세네갈을 2025 아프리카컵 우승팀으로 확정",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T14:59:19.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1d74e19f2e76",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+    "ko": "세네갈, 법원 판결로 2025 아프리카네이션스컵 우승 복원",
+    "source": "bbc",
+    "publishedAt": "2026-11-24T15:16:15.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f14610fcf0b9",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-senegal-revient-a-hauteur-de-l-algerie-le-palmares-de-la-coupe-d-afrique-des-nations-apres-le-sacre-des-lions-de-la-teranga-accorde-par-le-tas/1745824#at_medium=RSS_feeds",
+    "title": "Le Sénégal revient à hauteur de l'Algérie : le palmarès de la Coupe d'Afrique des nations après le sacre des Lions de la Teranga accordé par le TAS",
+    "ko": "세네갈, 아프리카네이션스컵 우승 인정받아 알제리와 동률",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T15:18:04.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Vincent Miffon",
+    "transfer": null
+   },
+   {
+    "id": "6f8c0546f5c3",
+    "url": "https://www.lequipe.fr/Football/Actualites/Le-tas-justifie-sa-decision-de-debouter-le-maroc-et-de-donner-le-senegal-vainqueur-de-la-can-2025-l-arbitre-n-a-commis-aucune-erreur-de-droit/1745830#at_medium=RSS_feeds",
+    "title": "Le TAS justifie sa décision de débouter le Maroc et de donner le Sénégal vainqueur de la CAN 2025 : « L'arbitre n'a commis aucune erreur de droit »",
+    "ko": "CAS, 모로코 항소 기각…2025 아프리카네이션스컵 세네갈 우승 유지",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T16:07:06.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "c948a69137f9",
+    "url": "https://www.lequipe.fr/Football/Actualites/La-federation-royale-marocaine-conteste-la-decision-du-tas-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745836#at_medium=RSS_feeds",
+    "title": "La Fédération royale marocaine conteste la décision du TAS de déclarer le Sénégal vainqueur de la CAN 2025",
+    "ko": "모로코 축구연맹, CAS의 세네갈 CAN 2025 우승 결정에 재차 불복",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T16:24:58.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Julie Vimond",
+    "transfer": null
+   },
+   {
+    "id": "a0ec6ddf45a9",
+    "url": "https://www.hln.be/africa-cup/zullen-er-alles-aan-doen-om-dit-aan-te-vechten-marokko-legt-zich-opnieuw-niet-neer-bij-beslissing-van-cas-om-afrika-cup-aan-senegal-toe-te-wijzen~a2aa9754/",
+    "title": "“Zullen er alles aan doen om dit aan te vechten”: Marokko legt zich (opnieuw) niet neer bij beslissing van CAS om Afrika Cup aan Senegal toe te wijzen",
+    "ko": "모로코 연맹, CAS의 아프리카네이션스컵 세네갈 우승 결정에 재차 반발",
+    "source": "hln",
+    "publishedAt": "2026-11-24T16:38:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "eb371bdafeb6",
+    "url": "https://www.hln.be/africa-cup/zullen-er-alles-aan-doen-om-dit-aan-te-vechten-marokko-legt-zich-opnieuw-niet-neer-bij-beslissing-van-tas-om-afrika-cup-aan-senegal-toe-te-wijzen~a2aa9754/",
+    "title": "“Zullen er alles aan doen om dit aan te vechten”: Marokko legt zich (opnieuw) niet neer bij beslissing van TAS om Afrika Cup aan Senegal toe te wijzen",
+    "ko": "모로코, CAN 우승 세네갈 귀속 TAS 결정에 또 불복",
+    "source": "hln",
+    "publishedAt": "2026-11-24T16:38:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "7eadf058ca01",
+    "url": "https://www.kicker.de/marokko-kuendigt-protest-an-alle-moeglichen-rechtsmittel-1274656/artikel#omrss",
+    "title": "Marokko kündigt Protest an: \"Alle möglichen Rechtsmittel\"",
+    "ko": "모로코, CAN 판정에 항고 예고 \"가능한 모든 법적 수단\" 동원",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T16:53:20.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "188c14eb2dca",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/detalhe/senegal-com-profunda-satisfacao-por-tad-confirmar-o-titulo-na-can-2025",
+    "title": "Senegal com \"profunda satisfação\" por TAD confirmar o título na CAN'2025",
+    "ko": "세네갈, CAF의 2025 아프리카네이션스컵 우승 확정 환영",
+    "source": "record",
+    "publishedAt": "2026-11-24T18:05:45.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e81c7c20cd15",
+    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/detalhe/marrocos-vai-esgotar-todas-as-vias-legais-de-recurso-para-contestar-decisao-do-tas",
+    "title": "Marrocos vai esgotar \"todas as vias legais de recurso\" para contestar decisão do TAS",
+    "ko": "모로코, CAN 2025 관련 TAS 판정에 법적 항소 전부 동원 예고",
+    "source": "record",
+    "publishedAt": "2026-11-24T18:44:53.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "9e38165dbcbf",
+    "url": "https://www.lequipe.fr/Football/Article/Mis-k-o-par-le-tas-le-maroc-compte-engager-toutes-les-procedures-legales-necessaires-pour-contester-la-decision-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745913#at_medium=RSS_feeds",
+    "title": "Mis K.-O. par le TAS, le Maroc compte engager « toutes les procédures légales nécessaires » pour contester la décision de déclarer le Sénégal vainqueur de la CAN 2025",
+    "ko": "TAS 패소 모로코, 세네갈 우승 결정 번복 위해 모든 법적 절차 추진",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T19:29:24.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Etienne Moatti",
+    "transfer": null
+   },
+   {
+    "id": "f9678152eb2e",
+    "url": "https://www.lequipe.fr/Football/Actualites/Declares-vainqueurs-de-la-can-2025-par-le-tas-les-joueurs-du-senegal-ont-laisse-exploser-leur-joie-et-appele-a-l-apaisement/1745945#at_medium=RSS_feeds",
+    "title": "Déclarés vainqueurs de la CAN 2025 par le TAS, les joueurs du Sénégal ont laissé exploser leur joie et appelé à l'apaisement",
+    "ko": "CAN 2025 우승 세네갈, TAS 판정 후 기쁨 표출하며 진정 호소",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T22:45:37.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Hervé Penot",
+    "transfer": null
+   },
+   {
+    "id": "5d86f763349c",
+    "url": "https://www.nytimes.com/athletic/7809328/2026/11/25/afcon-senegal-morocco-cas-explainer/",
+    "title": "Explained: How Senegal prevailed at CAS to reclaim their AFCON title, but are Morocco now done?",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-25T05:12:32.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 3,
+  "sourceCount": 11,
+  "score": 3.47,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-24T11:30:46.000Z",
+   "viaQuote": false
+  },
+  "headline": "Explained: How Senegal prevailed at CAS to reclaim their AFCON title, but are Morocco now done?"
+ },
+ {
+  "slug": "man-city-napoli-2026-11-26",
+  "mode": "llm",
+  "titleKo": "맨시티 대 나폴리 챔피언스리그 경기",
+  "createdAt": "2026-11-23T19:12:58.000Z",
+  "updatedAt": "2026-11-25T05:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "man-city",
+   "napoli"
+  ],
+  "players": [
+   "더브라위너",
+   "케빈 더브라위너",
+   "회루네",
+   "노아 랑",
+   "제레미 도쿠",
+   "라얀 셰르키",
+   "셰르키"
+  ],
+  "sig": [
+   "paddy",
+   "power"
+  ],
+  "articles": [
+   {
+    "id": "f0b427a7881e",
+    "url": "https://www.thesun.co.uk/sport/41119963/man-city-mystery-kit-napoli-champions-league/",
+    "title": "Man City to wear mystery different kit in Champions League clash with Napoli as club tease major new collaboration",
+    "ko": "맨시티, 나폴리전 특별 유니폼 준비 공개",
+    "source": "sun",
+    "publishedAt": "2026-11-23T19:12:58.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Kostas Lianos",
+    "transfer": null
+   },
+   {
+    "id": "32b9edf3a5a0",
+    "url": "https://www.thesun.co.uk/sport/41115070/man-city-napoli-predictions-bets/",
+    "title": "Man City vs Napoli: Champions League predictions, preview and free bets",
+    "ko": "맨시티 대 나폴리 챔피언스리그 예측, 프리뷰, 무료 베팅",
+    "source": "sun",
+    "publishedAt": "2026-11-24T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city",
+     "napoli"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "73f4069d163a",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-manchester-city-naples-en-ligue-des-champions/1745613#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Manchester City - Naples en Ligue des champions ?",
+    "ko": "맨시티 대 나폴리 챔피언스리그 중계 시간·채널은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T07:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "988ded7fed03",
+    "url": "https://www.thesun.co.uk/sport/41118882/man-city-vs-napoli-tip-free-bets-paddy-power/",
+    "title": "Man City vs Napoli: Our 7/1 bet builder tip, plus get £50 in free bets | Paddy Power",
+    "ko": "맨시티 대 나폴리 베팅 추천",
+    "source": "sun",
+    "publishedAt": "2026-11-24T08:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Craig Mahood",
+    "transfer": null
+   },
+   {
+    "id": "1c4cd344025d",
+    "url": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674",
+    "title": "Cherki salvages draw with Napoli but Man City frustrate",
+    "ko": "셰르키 동점골로 나폴리와 무승부…맨시티 답답한 경기 끝",
+    "source": "sky",
+    "publishedAt": "2026-11-24T12:09:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라얀 셰르키"
+    ],
+    "playerTags": [
+     "rayan-cherki"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "049f5b4fae63",
+    "url": "https://www.skysports.com/football/manchester-city-vs-napoli/live/577674",
+    "title": "Man City vs Napoli team news as De Bruyne starts LIVE!",
+    "ko": "맨시티-나폴리 선발 라인업 발표, 더브라위너 선발 출전",
+    "source": "sky",
+    "publishedAt": "2026-11-24T12:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "더브라위너"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "e0e69a2aea71",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-vs-napoli-live-34960529",
+    "title": "Man City vs Napoli LIVE early team news and how to watch Champions League tie",
+    "ko": "맨시티 대 나폴리 전 초반 선발 소식과 챔피언스리그 중계",
+    "source": "men",
+    "publishedAt": "2026-11-24T16:56:43.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city",
+     "napoli"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Simon Bajkowski, Alex James",
+    "transfer": null
+   },
+   {
+    "id": "3cd1a4e26550",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-napoli-channel-stream-34954360",
+    "title": "How to watch Man City vs Napoli – TV channel, live stream and kick-off time",
+    "ko": "맨시티 대 나폴리 경기 중계 채널·생중계·킥오프 시간",
+    "source": "men",
+    "publishedAt": "2026-11-24T17:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city",
+     "napoli"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Aaron Morris",
+    "transfer": null
+   },
+   {
+    "id": "641c5ac0963a",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-wearing-different-kit-34961180",
+    "title": "Why Man City are wearing an orange kit vs Napoli in Champions League",
+    "ko": "맨시티, 나폴리전 오렌지색 유니폼 착용 이유 주목",
+    "source": "men",
+    "publishedAt": "2026-11-24T18:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Simon Bajkowski",
+    "transfer": null
+   },
+   {
+    "id": "8fdf73cd5c2a",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/man-city-napoles-em-direto",
+    "title": "Man. City-Nápoles, em direto",
+    "ko": "맨시티 대 나폴리 경기 생중계",
+    "source": "record",
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ba11711e2c8c",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-city-orange-kit-napoli-37911675",
+    "title": "Why are Man City wearing orange vs Napoli as home kit ditched for Champions League tie",
+    "ko": "맨시티, 나폴리전 홈 주황 유니폼 대신 다른 색 착용 이유는",
+    "source": "mirror",
+    "publishedAt": "2026-11-24T19:15:14.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Jordan Seward",
+    "transfer": null
+   },
+   {
+    "id": "1845d70eb06f",
+    "url": "https://as.com/futbol/champions/manchester-city-napoles-en-directo-champions-league-en-vivo-hoy-f202611-d/",
+    "title": "Manchester City - Nápoles, en directo: Champions League, en vivo hoy",
+    "ko": "맨시티 대 나폴리, 챔피언스리그 라이브 중계",
+    "source": "as",
+    "publishedAt": "2026-11-24T19:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Juan Lopesino",
+    "transfer": null
+   },
+   {
+    "id": "71858532e894",
+    "url": "https://www.thesun.co.uk/sport/41123794/man-city-wearing-special-orange-kit-napoli-champions-league/",
+    "title": "Why are Man City wearing a special orange kit against Napoli in the Champions League?",
+    "ko": "맨시티, 나폴리전 특별 오렌지 유니폼 착용 이유는?",
+    "source": "sun",
+    "publishedAt": "2026-11-24T20:15:14.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "5324733cc3c6",
+    "url": "https://www.hln.be/champions-league/live-kevin-de-bruyne-versnelt-het-spel-en-dat-levert-kans-op-voor-napoli-maar-politano-speelt-het-slecht-uit~a015fdfb/",
+    "title": "LIVE. Kevin De Bruyne versnelt het spel en dat levert kans op voor Napoli, maar Politano speelt het slecht uit",
+    "ko": "더브라위너 공격 전개 활발, 나폴리 찬스 창출",
+    "source": "hln",
+    "publishedAt": "2026-11-24T20:24:00.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "케빈 더브라위너"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "f1a26dda1eaa",
+    "url": "https://www.kicker.de/hojlund-setzt-sich-ueberragend-durch-neapels-fuehrung-bei-mancity-1274723/video#omrss",
+    "title": "Hojlund setzt sich überragend durch: Neapels Führung bei ManCity",
+    "ko": "회루네, 맨시티 상대 나폴리 리드 이끌어",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T21:18:43.000Z",
+    "credited": null,
+    "clubs": [
+     "napoli",
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "회루네"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "768c4abcaae1",
+    "url": "https://www.hln.be/champions-league/live-staande-ovatie-voor-kevin-de-bruyne-bij-wissel-meteen-daarna-trapt-noa-lang-de-1-2-binnen-voor-napoli~a015fdfb/",
+    "title": "LIVE. Staande ovatie voor Kevin De Bruyne bij wissel, meteen daarna trapt Noa Lang de 1-2 binnen voor Napoli!",
+    "ko": "드 브라위너 교체 때 기립박수…노아 랑 득점으로 나폴리 2-1",
+    "source": "hln",
+    "publishedAt": "2026-11-24T21:25:00.000Z",
+    "credited": null,
+    "clubs": [
+     "napoli"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "케빈 더브라위너",
+     "노아 랑"
+    ],
+    "playerTags": [
+     "kevin-de-bruyne"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "ee439c0a8811",
+    "url": "https://www.hln.be/champions-league/na-onder-meer-een-assist-van-jeremy-doku-kevin-de-bruyne-pakt-met-napoli-punt-op-bezoek-bij-ex-club-manchester-city~a015fdfb/",
+    "title": "Na onder meer een assist van Jeremy Doku: Kevin De Bruyne pakt met Napoli punt op bezoek bij ex-club Manchester City",
+    "ko": "드 브라위너, 맨시티 상대 나폴리와 무승부 기여",
+    "source": "hln",
+    "publishedAt": "2026-11-24T21:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city",
+     "napoli"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "케빈 더브라위너",
+     "제레미 도쿠"
+    ],
+    "playerTags": [
+     "jeremy-doku",
+     "kevin-de-bruyne"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "5662f63aae0f",
+    "url": "https://www.thesun.co.uk/sport/41138398/man-city-draw-napoli-rayan-cherki-champions-league-hojlund/",
+    "title": "Man City 2 Napoli 2: Champions League clash ends in huge controversy as City stars rage at ref for ‘ending game early’",
+    "ko": "맨시티 2-2 나폴리…경기 조기 종료 판정에 선수들 격분",
+    "source": "sun",
+    "publishedAt": "2026-11-24T21:50:29.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Martin Blackburn, Oli Gamp",
+    "transfer": null
+   },
+   {
+    "id": "3d2eeeee2456",
+    "url": "https://www.lequipe.fr/Football/Actualites/Auteur-de-l-egalisation-tardive-contre-naples-en-ligue-des-champions-rayan-cherki-evite-la-sortie-de-route-a-manchester-city/1745938#at_medium=RSS_feeds",
+    "title": "Auteur de l'égalisation tardive contre Naples en Ligue des champions, Rayan Cherki évite la sortie de route à Manchester City",
+    "ko": "셰르키, 나폴리전 동점골로 맨시티 구제",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T21:52:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "라얀 셰르키"
+    ],
+    "playerTags": [
+     "rayan-cherki"
+    ],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "718880363b52",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-player-ratings-vs-34961342",
+    "title": "Man City player ratings vs Napoli with four 4/10s but Jeremy Doku impresses",
+    "ko": "맨시티 나폴리전 선수 평점, 도쿠만 돋보여",
+    "source": "men",
+    "publishedAt": "2026-11-24T22:00:52.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "제레미 도쿠"
+    ],
+    "playerTags": [
+     "jeremy-doku"
+    ],
+    "author": "Simon Bajkowski",
+    "transfer": null
+   },
+   {
+    "id": "19dfcc8d7629",
+    "url": "https://www.kicker.de/cherki-spaet-zur-stelle-neapel-verspielt-zwei-fuehrungen-bei-city-1274757/video#omrss",
+    "title": "Cherki spät zur Stelle: Neapel verspielt zwei Führungen bei City",
+    "ko": "나폴리, 맨시티 상대로 두 번 앞서고도 실점…셰르키 늦은 골",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T22:50:28.000Z",
+    "credited": null,
+    "clubs": [
+     "napoli",
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "셰르키"
+    ],
+    "playerTags": [
+     "rayan-cherki"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "a19c5ebbb3c7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Rayan-cherki-sauveur-face-a-naples-n-a-pas-cache-sa-frustration-apres-le-nul-de-manchester-city-on-doit-faire-plus/1745955#at_medium=RSS_feeds",
+    "title": "Rayan Cherki, sauveur face à Naples, n'a pas caché sa frustration après le nul de Manchester City : « On doit faire plus »",
+    "ko": "셰르키, 나폴리전 구원 활약 후 맨시티 무승부에 불만 토로",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T23:17:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "셰르키"
+    ],
+    "playerTags": [
+     "rayan-cherki"
+    ],
+    "author": "Arthur Verdelet",
+    "transfer": null
+   },
+   {
+    "id": "e2f15f6a65b2",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-furious-reaction-after-34961287",
+    "title": "Man City furious reaction after Napoli draw is predictable, late and unnecessary",
+    "ko": "맨시티, 나폴리전 무승부 뒤 강한 불만 표출",
+    "source": "men",
+    "publishedAt": "2026-11-25T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Simon Bajkowski",
+    "transfer": null
+   }
+  ],
+  "recentSources": 8,
+  "sourceCount": 9,
+  "score": 2.46,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "rayan-cherki",
+   "kevin-de-bruyne",
+   "jeremy-doku"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "The Sun",
+   "source": "sun",
+   "at": "2026-11-23T19:12:58.000Z",
+   "viaQuote": false
+  },
+  "headline": "Man City furious reaction after Napoli draw is predictable, late and unnecessary"
+ },
+ {
+  "slug": "man-utd-sporting-2026-11-26",
+  "mode": "llm",
+  "titleKo": "맨유 대 스포르팅 챔피언스리그 경기",
+  "createdAt": "2026-11-24T12:01:30.000Z",
+  "updatedAt": "2026-11-25T05:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "man-utd"
+  ],
+  "players": [],
+  "sig": [
+   "sporting",
+   "lisbon",
+   "mauricio",
+   "pochettino"
+  ],
+  "articles": [
+   {
+    "id": "6ef2d1a6a786",
+    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sporting-lisbon-squad-37909593",
+    "title": "Man Utd without two players for Sporting Lisbon but Mauricio Pochettino handed one injury boost",
+    "ko": "맨유, 스포르팅전 2명 결장…포체티노 부상 희소식 하나",
+    "source": "mirror",
+    "publishedAt": "2026-11-24T12:01:30.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Felix Keith",
+    "transfer": null
+   },
+   {
+    "id": "1792eafbd69d",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/em-direto-siga-a-conferencia-de-antevisao-de-paulo-fonseca-ao-jogo-com-o-manchester-united",
+    "title": "Em direto: siga a conferência de antevisão de Paulo Fonseca ao jogo com o Manchester United",
+    "ko": "포르투갈 감독 폰세카, 맨유전 앞둔 기자회견 생중계",
+    "source": "record",
+    "publishedAt": "2026-11-24T15:11:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "264c5d0f7472",
+    "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/pochettino-preparado-para-jogo-muito-dificil-com-o-sporting-nao-somos-uma-equipa-fragil",
+    "title": "Pochettino preparado para jogo \"muito difícil\" com o Sporting: «Não somos uma equipa frágil»",
+    "ko": "포체티노, 스포르팅전 '매우 어려운 경기' 준비…'우리는 약한 팀 아니다'",
+    "source": "record",
+    "publishedAt": "2026-11-24T20:32:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "6a9c7236eae5",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/analise-de-rui-malheiro-ao-man-united-o-guia-completo-para-conhecer-o-adversario-do-sporting",
+    "title": "Análise de Rui Malheiro ao Man. United: o guia completo para conhecer o adversário do Sporting",
+    "ko": "맨유 상대 스포르팅 경기 대비 루이 말레이루 분석 가이드",
+    "source": "record",
+    "publishedAt": "2026-11-24T20:39:23.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "1342ba602f72",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34952360",
+    "title": "How Manchester United should line up vs Sporting Lisbon in Champions League fixture",
+    "ko": "맨유 대 스포르팅 챔피언스리그, 맨유 예상 라인업 정리",
+    "source": "men",
+    "publishedAt": "2026-11-25T05:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-utd"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tyrone Marshall, Steven Railston",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 3,
+  "score": 2.25,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "Mirror",
+   "source": "mirror",
+   "at": "2026-11-24T12:01:30.000Z",
+   "viaQuote": false
+  },
+  "headline": "How Manchester United should line up vs Sporting Lisbon in Champions League fixture"
+ },
+ {
+  "slug": "psg-roma-2026-11-25",
+  "mode": "llm",
+  "titleKo": "PSG 대 로마 챔피언스리그 경기 앞둔 발언",
+  "createdAt": "2026-11-24T10:00:00.000Z",
+  "updatedAt": "2026-11-25T04:55:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "psg",
+   "roma"
+  ],
+  "players": [
+   "비티냐"
+  ],
+  "sig": [
+   "florenzi",
+   "rome",
+   "ligue",
+   "gasperini",
+   "luis",
+   "enrique"
+  ],
+  "articles": [
+   {
+    "id": "3a718facc170",
+    "url": "https://www.lequipe.fr/Football/Article/Alessandro-florenzi-ancien-du-psg-et-de-l-as-rome-avant-le-match-de-ligue-des-champions-entre-les-deux-equipes-gasperini-est-un-peu-le-luis-enrique-de-la-roma/1745662#at_medium=RSS_feeds",
+    "title": "Alessandro Florenzi, ancien du PSG et de l'AS Rome avant le match de Ligue des champions entre les deux équipes mercredi : « Gasperini est un peu le Luis Enrique de la Roma »",
+    "ko": "플로렌치, 로마 가스페리니 감독은 '루이스 엔리케 같다'고 평가",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T10:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg",
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Mélisande Gomez",
+    "transfer": null
+   },
+   {
+    "id": "5568148bf9df",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-as-rome-gian-piero-gasperini-avant-psg-as-rome-on-espere-realiser-une-belle-performance/20246257#at_medium=RSS_feeds",
+    "title": "Gasperini avant PSG-AS Rome : « On espère réaliser une belle performance »",
+    "ko": "가스페리니, PSG-로마 앞두고 좋은 경기 기대",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T20:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg",
+     "roma"
+    ],
+    "category": "manager",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "63c4ea324595",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-as-rome-dybala-avant-psg-as-rome-vitinha-est-un-joueur-d-une-qualite-exceptionnelle/20246270#at_medium=RSS_feeds",
+    "title": "Dybala avant PSG-AS Rome : « Vitinha est un joueur d’une qualité exceptionnelle »",
+    "ko": "딜라 'PSG-로마 앞둬, 비티냐는 탁월한 자질의 선수'",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T21:49:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg",
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "비티냐"
+    ],
+    "playerTags": [
+     "vitinha"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "99154b4e2288",
+    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-as-rome-gasperini-avant-psg-as-rome-le-travail-de-luis-enrique-est-extraordinaire/20246269#at_medium=RSS_feeds",
+    "title": "Gasperini avant PSG-AS Rome : « Le travail de Luis Enrique est extraordinaire »",
+    "ko": "가스페리니 'PSG-로마 앞둬…루이스 엔리케 작업 대단해'",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T22:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg",
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "2a43eeaf8d00",
+    "url": "https://www.lequipe.fr/Football/Article/Tactique-luis-enrique-psg-face-a-gasperini-as-rome-l-annonce-d-un-match-de-mouvements-permanents/1745927#at_medium=RSS_feeds",
+    "title": "Luis Enrique (PSG) face à Gasperini (AS Rome), l'annonce d'un match de mouvements permanents",
+    "ko": "루이스 엔리케 대 가스페리니, 끊임없는 움직임의 매치업 예고",
+    "source": "lequipe",
+    "publishedAt": "2026-11-25T04:55:00.000Z",
+    "credited": null,
+    "clubs": [
+     "psg",
+     "roma"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Dan Perez",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.42,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "vitinha"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-24T10:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Luis Enrique (PSG) face à Gasperini (AS Rome), l'annonce d'un match de mouvements permanents"
+ },
+ {
   "slug": "arsenal-man-city-2026-11-29",
   "mode": "llm",
   "titleKo": "아스널 대 맨시티 경기 전망",
   "createdAt": "2026-11-25T04:00:00.000Z",
-  "updatedAt": "2026-11-25T04:00:00.000Z",
+  "updatedAt": "2026-11-25T04:30:00.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
    "man-city",
    "arsenal"
   ],
-  "players": [],
+  "players": [
+   "엘링 홀란"
+  ],
   "sig": [
    "enzo",
    "maresca"
@@ -35,15 +1594,40 @@
     "playerTags": [],
     "author": "Simon Bajkowski",
     "transfer": null
+   },
+   {
+    "id": "a0117f6f6dca",
+    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/erling-haaland-makes-stark-man-34961760",
+    "title": "Erling Haaland makes stark Man City admission and sends message ahead of Arsenal",
+    "ko": "홀란, 맨시티에 대한 솔직한 속내 밝히고 아스널전 앞두고 메시지",
+    "source": "men",
+    "publishedAt": "2026-11-25T04:30:00.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city",
+     "arsenal"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "엘링 홀란"
+    ],
+    "playerTags": [
+     "erling-haaland"
+    ],
+    "author": "Alex James",
+    "transfer": null
    }
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.9,
+  "score": 1.54,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
-  "playerTags": [],
+  "playerTags": [
+   "erling-haaland"
+  ],
   "transfer": null,
   "firstReport": {
    "name": "Manchester Evening News",
@@ -51,7 +1635,7 @@
    "at": "2026-11-25T04:00:00.000Z",
    "viaQuote": false
   },
-  "headline": "'The stats are for us' - Enzo Maresca calm ahead of Man City trip to Arsenal"
+  "headline": "Erling Haaland makes stark Man City admission and sends message ahead of Arsenal"
  },
  {
   "slug": "aursnes-injury",
@@ -90,7 +1674,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.74,
+  "score": 1.41,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -947,7 +2531,7 @@
   ],
   "recentSources": 10,
   "sourceCount": 10,
-  "score": 3.95,
+  "score": 3.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2085,9 +3669,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 8,
+  "recentSources": 7,
   "sourceCount": 14,
-  "score": 4.11,
+  "score": 3.57,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -2323,7 +3907,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.65,
+  "score": 1.33,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2794,7 +4378,7 @@
   ],
   "recentSources": 7,
   "sourceCount": 7,
-  "score": 3.51,
+  "score": 2.97,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3098,7 +4682,7 @@
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 1.24,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3189,7 +4773,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.88,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3202,494 +4786,6 @@
    "viaQuote": false
   },
   "headline": "Os casos do Feyenoord-FC Porto"
- },
- {
-  "slug": "man-city-napoli-2026-11-26",
-  "mode": "llm",
-  "titleKo": "맨시티 대 나폴리 챔피언스리그 경기",
-  "createdAt": "2026-11-23T19:12:58.000Z",
-  "updatedAt": "2026-11-24T23:17:44.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "man-city",
-   "napoli"
-  ],
-  "players": [
-   "더브라위너",
-   "케빈 더브라위너",
-   "회루네",
-   "노아 랑",
-   "제레미 도쿠",
-   "라얀 셰르키",
-   "셰르키"
-  ],
-  "sig": [
-   "paddy",
-   "power"
-  ],
-  "articles": [
-   {
-    "id": "f0b427a7881e",
-    "url": "https://www.thesun.co.uk/sport/41119963/man-city-mystery-kit-napoli-champions-league/",
-    "title": "Man City to wear mystery different kit in Champions League clash with Napoli as club tease major new collaboration",
-    "ko": "맨시티, 나폴리전 특별 유니폼 준비 공개",
-    "source": "sun",
-    "publishedAt": "2026-11-23T19:12:58.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Kostas Lianos",
-    "transfer": null
-   },
-   {
-    "id": "32b9edf3a5a0",
-    "url": "https://www.thesun.co.uk/sport/41115070/man-city-napoli-predictions-bets/",
-    "title": "Man City vs Napoli: Champions League predictions, preview and free bets",
-    "ko": "맨시티 대 나폴리 챔피언스리그 예측, 프리뷰, 무료 베팅",
-    "source": "sun",
-    "publishedAt": "2026-11-24T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city",
-     "napoli"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "73f4069d163a",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-manchester-city-naples-en-ligue-des-champions/1745613#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Manchester City - Naples en Ligue des champions ?",
-    "ko": "맨시티 대 나폴리 챔피언스리그 중계 시간·채널은?",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T07:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "988ded7fed03",
-    "url": "https://www.thesun.co.uk/sport/41118882/man-city-vs-napoli-tip-free-bets-paddy-power/",
-    "title": "Man City vs Napoli: Our 7/1 bet builder tip, plus get £50 in free bets | Paddy Power",
-    "ko": "맨시티 대 나폴리 베팅 추천",
-    "source": "sun",
-    "publishedAt": "2026-11-24T08:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Craig Mahood",
-    "transfer": null
-   },
-   {
-    "id": "1c4cd344025d",
-    "url": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674",
-    "title": "Cherki salvages draw with Napoli but Man City frustrate",
-    "ko": "셰르키 동점골로 나폴리와 무승부…맨시티 답답한 경기 끝",
-    "source": "sky",
-    "publishedAt": "2026-11-24T12:09:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라얀 셰르키"
-    ],
-    "playerTags": [
-     "rayan-cherki"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "049f5b4fae63",
-    "url": "https://www.skysports.com/football/manchester-city-vs-napoli/live/577674",
-    "title": "Man City vs Napoli team news as De Bruyne starts LIVE!",
-    "ko": "맨시티-나폴리 선발 라인업 발표, 더브라위너 선발 출전",
-    "source": "sky",
-    "publishedAt": "2026-11-24T12:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "더브라위너"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e0e69a2aea71",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-vs-napoli-live-34960529",
-    "title": "Man City vs Napoli LIVE early team news and how to watch Champions League tie",
-    "ko": "맨시티 대 나폴리 전 초반 선발 소식과 챔피언스리그 중계",
-    "source": "men",
-    "publishedAt": "2026-11-24T16:56:43.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city",
-     "napoli"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Simon Bajkowski, Alex James",
-    "transfer": null
-   },
-   {
-    "id": "3cd1a4e26550",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-napoli-channel-stream-34954360",
-    "title": "How to watch Man City vs Napoli – TV channel, live stream and kick-off time",
-    "ko": "맨시티 대 나폴리 경기 중계 채널·생중계·킥오프 시간",
-    "source": "men",
-    "publishedAt": "2026-11-24T17:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city",
-     "napoli"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aaron Morris",
-    "transfer": null
-   },
-   {
-    "id": "641c5ac0963a",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-wearing-different-kit-34961180",
-    "title": "Why Man City are wearing an orange kit vs Napoli in Champions League",
-    "ko": "맨시티, 나폴리전 오렌지색 유니폼 착용 이유 주목",
-    "source": "men",
-    "publishedAt": "2026-11-24T18:30:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Simon Bajkowski",
-    "transfer": null
-   },
-   {
-    "id": "8fdf73cd5c2a",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/man-city-napoles-em-direto",
-    "title": "Man. City-Nápoles, em direto",
-    "ko": "맨시티 대 나폴리 경기 생중계",
-    "source": "record",
-    "publishedAt": "2026-11-24T19:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ba11711e2c8c",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-city-orange-kit-napoli-37911675",
-    "title": "Why are Man City wearing orange vs Napoli as home kit ditched for Champions League tie",
-    "ko": "맨시티, 나폴리전 홈 주황 유니폼 대신 다른 색 착용 이유는",
-    "source": "mirror",
-    "publishedAt": "2026-11-24T19:15:14.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jordan Seward",
-    "transfer": null
-   },
-   {
-    "id": "1845d70eb06f",
-    "url": "https://as.com/futbol/champions/manchester-city-napoles-en-directo-champions-league-en-vivo-hoy-f202611-d/",
-    "title": "Manchester City - Nápoles, en directo: Champions League, en vivo hoy",
-    "ko": "맨시티 대 나폴리, 챔피언스리그 라이브 중계",
-    "source": "as",
-    "publishedAt": "2026-11-24T19:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Juan Lopesino",
-    "transfer": null
-   },
-   {
-    "id": "71858532e894",
-    "url": "https://www.thesun.co.uk/sport/41123794/man-city-wearing-special-orange-kit-napoli-champions-league/",
-    "title": "Why are Man City wearing a special orange kit against Napoli in the Champions League?",
-    "ko": "맨시티, 나폴리전 특별 오렌지 유니폼 착용 이유는?",
-    "source": "sun",
-    "publishedAt": "2026-11-24T20:15:14.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "5324733cc3c6",
-    "url": "https://www.hln.be/champions-league/live-kevin-de-bruyne-versnelt-het-spel-en-dat-levert-kans-op-voor-napoli-maar-politano-speelt-het-slecht-uit~a015fdfb/",
-    "title": "LIVE. Kevin De Bruyne versnelt het spel en dat levert kans op voor Napoli, maar Politano speelt het slecht uit",
-    "ko": "더브라위너 공격 전개 활발, 나폴리 찬스 창출",
-    "source": "hln",
-    "publishedAt": "2026-11-24T20:24:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "케빈 더브라위너"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "f1a26dda1eaa",
-    "url": "https://www.kicker.de/hojlund-setzt-sich-ueberragend-durch-neapels-fuehrung-bei-mancity-1274723/video#omrss",
-    "title": "Hojlund setzt sich überragend durch: Neapels Führung bei ManCity",
-    "ko": "회루네, 맨시티 상대 나폴리 리드 이끌어",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T21:18:43.000Z",
-    "credited": null,
-    "clubs": [
-     "napoli",
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "회루네"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "768c4abcaae1",
-    "url": "https://www.hln.be/champions-league/live-staande-ovatie-voor-kevin-de-bruyne-bij-wissel-meteen-daarna-trapt-noa-lang-de-1-2-binnen-voor-napoli~a015fdfb/",
-    "title": "LIVE. Staande ovatie voor Kevin De Bruyne bij wissel, meteen daarna trapt Noa Lang de 1-2 binnen voor Napoli!",
-    "ko": "드 브라위너 교체 때 기립박수…노아 랑 득점으로 나폴리 2-1",
-    "source": "hln",
-    "publishedAt": "2026-11-24T21:25:00.000Z",
-    "credited": null,
-    "clubs": [
-     "napoli"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "케빈 더브라위너",
-     "노아 랑"
-    ],
-    "playerTags": [
-     "kevin-de-bruyne"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "ee439c0a8811",
-    "url": "https://www.hln.be/champions-league/na-onder-meer-een-assist-van-jeremy-doku-kevin-de-bruyne-pakt-met-napoli-punt-op-bezoek-bij-ex-club-manchester-city~a015fdfb/",
-    "title": "Na onder meer een assist van Jeremy Doku: Kevin De Bruyne pakt met Napoli punt op bezoek bij ex-club Manchester City",
-    "ko": "드 브라위너, 맨시티 상대 나폴리와 무승부 기여",
-    "source": "hln",
-    "publishedAt": "2026-11-24T21:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city",
-     "napoli"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "케빈 더브라위너",
-     "제레미 도쿠"
-    ],
-    "playerTags": [
-     "jeremy-doku",
-     "kevin-de-bruyne"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "5662f63aae0f",
-    "url": "https://www.thesun.co.uk/sport/41138398/man-city-draw-napoli-rayan-cherki-champions-league-hojlund/",
-    "title": "Man City 2 Napoli 2: Champions League clash ends in huge controversy as City stars rage at ref for ‘ending game early’",
-    "ko": "맨시티 2-2 나폴리…경기 조기 종료 판정에 선수들 격분",
-    "source": "sun",
-    "publishedAt": "2026-11-24T21:50:29.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Blackburn, Oli Gamp",
-    "transfer": null
-   },
-   {
-    "id": "3d2eeeee2456",
-    "url": "https://www.lequipe.fr/Football/Actualites/Auteur-de-l-egalisation-tardive-contre-naples-en-ligue-des-champions-rayan-cherki-evite-la-sortie-de-route-a-manchester-city/1745938#at_medium=RSS_feeds",
-    "title": "Auteur de l'égalisation tardive contre Naples en Ligue des champions, Rayan Cherki évite la sortie de route à Manchester City",
-    "ko": "셰르키, 나폴리전 동점골로 맨시티 구제",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T21:52:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "라얀 셰르키"
-    ],
-    "playerTags": [
-     "rayan-cherki"
-    ],
-    "author": "Arthur Verdelet",
-    "transfer": null
-   },
-   {
-    "id": "718880363b52",
-    "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-player-ratings-vs-34961342",
-    "title": "Man City player ratings vs Napoli with four 4/10s but Jeremy Doku impresses",
-    "ko": "맨시티 나폴리전 선수 평점, 도쿠만 돋보여",
-    "source": "men",
-    "publishedAt": "2026-11-24T22:00:52.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "제레미 도쿠"
-    ],
-    "playerTags": [
-     "jeremy-doku"
-    ],
-    "author": "Simon Bajkowski",
-    "transfer": null
-   },
-   {
-    "id": "19dfcc8d7629",
-    "url": "https://www.kicker.de/cherki-spaet-zur-stelle-neapel-verspielt-zwei-fuehrungen-bei-city-1274757/video#omrss",
-    "title": "Cherki spät zur Stelle: Neapel verspielt zwei Führungen bei City",
-    "ko": "나폴리, 맨시티 상대로 두 번 앞서고도 실점…셰르키 늦은 골",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T22:50:28.000Z",
-    "credited": null,
-    "clubs": [
-     "napoli",
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "셰르키"
-    ],
-    "playerTags": [
-     "rayan-cherki"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "a19c5ebbb3c7",
-    "url": "https://www.lequipe.fr/Football/Actualites/Rayan-cherki-sauveur-face-a-naples-n-a-pas-cache-sa-frustration-apres-le-nul-de-manchester-city-on-doit-faire-plus/1745955#at_medium=RSS_feeds",
-    "title": "Rayan Cherki, sauveur face à Naples, n'a pas caché sa frustration après le nul de Manchester City : « On doit faire plus »",
-    "ko": "셰르키, 나폴리전 구원 활약 후 맨시티 무승부에 불만 토로",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T23:17:44.000Z",
-    "credited": null,
-    "clubs": [
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "셰르키"
-    ],
-    "playerTags": [
-     "rayan-cherki"
-    ],
-    "author": "Arthur Verdelet",
-    "transfer": null
-   }
-  ],
-  "recentSources": 8,
-  "sourceCount": 9,
-  "score": 2.96,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "rayan-cherki",
-   "kevin-de-bruyne",
-   "jeremy-doku"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "The Sun",
-   "source": "sun",
-   "at": "2026-11-23T19:12:58.000Z",
-   "viaQuote": false
-  },
-  "headline": "Rayan Cherki, sauveur face à Naples, n'a pas caché sa frustration après le nul de Manchester City : « On doit faire plus »"
  },
  {
   "slug": "como-aek-2026-11-26",
@@ -3763,7 +4859,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.25,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3824,7 +4920,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.8,
+  "score": 0.65,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4070,7 +5166,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.16,
+  "score": 0.39,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4160,7 +5256,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.8,
+  "score": 0.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -4173,513 +5269,6 @@
    "viaQuote": false
   },
   "headline": "Posible once del Atlético contra el Viking en Champions hoy"
- },
- {
-  "slug": "psg-roma-2026-11-25",
-  "mode": "llm",
-  "titleKo": "PSG 대 로마 챔피언스리그 경기 앞둔 발언",
-  "createdAt": "2026-11-24T10:00:00.000Z",
-  "updatedAt": "2026-11-24T22:50:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "psg",
-   "roma"
-  ],
-  "players": [
-   "비티냐"
-  ],
-  "sig": [
-   "florenzi",
-   "rome",
-   "ligue",
-   "gasperini",
-   "luis",
-   "enrique"
-  ],
-  "articles": [
-   {
-    "id": "3a718facc170",
-    "url": "https://www.lequipe.fr/Football/Article/Alessandro-florenzi-ancien-du-psg-et-de-l-as-rome-avant-le-match-de-ligue-des-champions-entre-les-deux-equipes-gasperini-est-un-peu-le-luis-enrique-de-la-roma/1745662#at_medium=RSS_feeds",
-    "title": "Alessandro Florenzi, ancien du PSG et de l'AS Rome avant le match de Ligue des champions entre les deux équipes mercredi : « Gasperini est un peu le Luis Enrique de la Roma »",
-    "ko": "플로렌치, 로마 가스페리니 감독은 '루이스 엔리케 같다'고 평가",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T10:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "psg",
-     "roma"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Mélisande Gomez",
-    "transfer": null
-   },
-   {
-    "id": "5568148bf9df",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-as-rome-gian-piero-gasperini-avant-psg-as-rome-on-espere-realiser-une-belle-performance/20246257#at_medium=RSS_feeds",
-    "title": "Gasperini avant PSG-AS Rome : « On espère réaliser une belle performance »",
-    "ko": "가스페리니, PSG-로마 앞두고 좋은 경기 기대",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T20:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "psg",
-     "roma"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "63c4ea324595",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-as-rome-dybala-avant-psg-as-rome-vitinha-est-un-joueur-d-une-qualite-exceptionnelle/20246270#at_medium=RSS_feeds",
-    "title": "Dybala avant PSG-AS Rome : « Vitinha est un joueur d’une qualité exceptionnelle »",
-    "ko": "딜라 'PSG-로마 앞둬, 비티냐는 탁월한 자질의 선수'",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T21:49:00.000Z",
-    "credited": null,
-    "clubs": [
-     "psg",
-     "roma"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "비티냐"
-    ],
-    "playerTags": [
-     "vitinha"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "99154b4e2288",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-as-rome-gasperini-avant-psg-as-rome-le-travail-de-luis-enrique-est-extraordinaire/20246269#at_medium=RSS_feeds",
-    "title": "Gasperini avant PSG-AS Rome : « Le travail de Luis Enrique est extraordinaire »",
-    "ko": "가스페리니 'PSG-로마 앞둬…루이스 엔리케 작업 대단해'",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T22:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "psg",
-     "roma"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.53,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "vitinha"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-24T10:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Gasperini avant PSG-AS Rome : « Le travail de Luis Enrique est extraordinaire »"
- },
- {
-  "slug": "can-2025-affairs-tas-verdict",
-  "mode": "llm",
-  "titleKo": "CAN 2025 TAS 판정 앞둔 모로코 연맹 사건",
-  "createdAt": "2026-11-24T11:30:46.000Z",
-  "updatedAt": "2026-11-24T22:45:37.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [],
-  "players": [],
-  "sig": [
-   "tas",
-   "fédération"
-  ],
-  "articles": [
-   {
-    "id": "e1f695da8fa1",
-    "url": "https://www.lequipe.fr/Football/Actualites/Can-2025-a-quelques-heures-du-verdict-du-tas-la-federation-marocaine-signale-un-nouvel-incident/1745772#at_medium=RSS_feeds",
-    "title": "CAN 2025 : à quelques heures du verdict du TAS, la Fédération marocaine signale un nouvel « incident »",
-    "ko": "CAN 2025 TAS 판정 앞두고 모로코 연맹 새 사건 알려",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T11:30:46.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "3ba02e0cf23a",
-    "url": "https://www.lequipe.fr/Football/Actualites/Can-2025-le-maroc-deboute-en-appel-par-le-tas-le-senegal-recupere-son-titre/1745812#at_medium=RSS_feeds",
-    "title": "CAN 2025 : le Maroc débouté en appel par le TAS, le Sénégal récupère son titre",
-    "ko": "모로코, CAN 2025 항소 기각…세네갈 우승 복귀",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T14:21:03.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Rédaction",
-    "transfer": null
-   },
-   {
-    "id": "e420aaf2f4a5",
-    "url": "https://www.nytimes.com/athletic/7668257/2026/11/24/senegal-afcon-appeal-cas-morocco/",
-    "title": "Senegal's AFCON title restored after winning CAS appeal against Morocco, CAF",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-24T14:27:01.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "de7878dbe0eb",
-    "url": "https://www.thesun.co.uk/sport/41128129/senegal-afcon-winners-morocco-verdict/",
-    "title": "Senegal given BACK Afcon title after CAS overturn controversial decision to award Morocco trophy",
-    "ko": "CAS, 모로코 트로피 판정 뒤집어 세네갈 아프리카네이션스컵 우승 복귀",
-    "source": "sun",
-    "publishedAt": "2026-11-24T14:28:56.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Martin Lipton",
-    "transfer": null
-   },
-   {
-    "id": "ef58cba6236d",
-    "url": "https://www.mirror.co.uk/sport/football/news/afcon-2025-winner-decided-morocco-37909815",
-    "title": "AFCON 2025 winner decided as Morocco and Senegal learn fate after chaos in final",
-    "ko": "AFCON 2025 우승팀 결정, 모로코와 세네갈 혼란 끝 운명 갈려",
-    "source": "mirror",
-    "publishedAt": "2026-11-24T14:30:08.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Jake Stokes",
-    "transfer": null
-   },
-   {
-    "id": "0473cf2ab81d",
-    "url": "https://www.hln.be/africa-cup/einde-van-de-soap-internationaal-sporttribunaal-wijst-senegal-tien-maanden-na-datum-toch-opnieuw-aan-als-winnaar-van-afrika-cup~a2aa9754/",
-    "title": "Einde van de soap: Internationaal Sporttribunaal wijst Senegal tien maanden na datum tóch opnieuw aan als winnaar van Afrika Cup",
-    "ko": "국제스포츠중재재판소, 세네갈 아프리카네이션스컵 우승 재지정",
-    "source": "hln",
-    "publishedAt": "2026-11-24T14:32:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sportredactie",
-    "transfer": null
-   },
-   {
-    "id": "6898e0abebc2",
-    "url": "https://as.com/futbol/internacional/insolito-senegal-recupera-la-copa-de-africa-f202611-n/",
-    "title": "¡Senegal recupera la Copa de África!",
-    "ko": "세네갈, 아프리카네이션스컵 우승 되찾아",
-    "source": "as",
-    "publishedAt": "2026-11-24T14:40:16.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Aritz Gabilondo,Pablo M. Fuentenebro",
-    "transfer": null
-   },
-   {
-    "id": "378e8fc5064c",
-    "url": "https://www.dailystar.co.uk/sport/football/breaking-senegal-announced-africa-cup-37910550",
-    "title": "Senegal announced as Africa Cup of Nations winners – 310 days after chaotic final",
-    "ko": "혼란스러운 결승 310일 만에 세네갈 아프리카네이션스컵 우승 발표",
-    "source": "star",
-    "publishedAt": "2026-11-24T14:41:05.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Paul Cockerton",
-    "transfer": null
-   },
-   {
-    "id": "1843829e9d54",
-    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/detalhe/oficial-tas-reverte-decisao-da-caf-e-senegal-e-considerado-vencedor-da-can",
-    "title": "Oficial: TAS reverte decisão da CAF e Senegal é considerado vencedor da CAN",
-    "ko": "TAS, CAF 결정 뒤집고 세네갈 AFCON 우승 인정",
-    "source": "record",
-    "publishedAt": "2026-11-24T14:43:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e31db0ce1550",
-    "url": "https://www.espn.com/soccer/story/_/id/50582074/senegal-africa-cup-nations-morocco-cas",
-    "title": "Senegal reinstated as Africa Cup of Nations winners over Morocco by CAS ruling",
-    "ko": "세네갈, CAS 판결로 아프리카네이션스컵 우승 복원",
-    "source": "espn",
-    "publishedAt": "2026-11-24T14:47:28.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Associated Press",
-    "transfer": null
-   },
-   {
-    "id": "bfc0abb5ad6e",
-    "url": "https://www.kicker.de/cas-urteil-senegal-ist-sieger-des-afrika-cups-2025-1274626/artikel#omrss",
-    "title": "CAS-Urteil: Senegal ist Sieger des Afrika Cups 2025",
-    "ko": "CAS 판정, 세네갈을 2025 아프리카컵 우승팀으로 확정",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T14:59:19.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "1d74e19f2e76",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-    "ko": "세네갈, 법원 판결로 2025 아프리카네이션스컵 우승 복원",
-    "source": "bbc",
-    "publishedAt": "2026-11-24T15:16:15.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "f14610fcf0b9",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-senegal-revient-a-hauteur-de-l-algerie-le-palmares-de-la-coupe-d-afrique-des-nations-apres-le-sacre-des-lions-de-la-teranga-accorde-par-le-tas/1745824#at_medium=RSS_feeds",
-    "title": "Le Sénégal revient à hauteur de l'Algérie : le palmarès de la Coupe d'Afrique des nations après le sacre des Lions de la Teranga accordé par le TAS",
-    "ko": "세네갈, 아프리카네이션스컵 우승 인정받아 알제리와 동률",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T15:18:04.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Vincent Miffon",
-    "transfer": null
-   },
-   {
-    "id": "6f8c0546f5c3",
-    "url": "https://www.lequipe.fr/Football/Actualites/Le-tas-justifie-sa-decision-de-debouter-le-maroc-et-de-donner-le-senegal-vainqueur-de-la-can-2025-l-arbitre-n-a-commis-aucune-erreur-de-droit/1745830#at_medium=RSS_feeds",
-    "title": "Le TAS justifie sa décision de débouter le Maroc et de donner le Sénégal vainqueur de la CAN 2025 : « L'arbitre n'a commis aucune erreur de droit »",
-    "ko": "CAS, 모로코 항소 기각…2025 아프리카네이션스컵 세네갈 우승 유지",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T16:07:06.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Arthur Verdelet",
-    "transfer": null
-   },
-   {
-    "id": "c948a69137f9",
-    "url": "https://www.lequipe.fr/Football/Actualites/La-federation-royale-marocaine-conteste-la-decision-du-tas-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745836#at_medium=RSS_feeds",
-    "title": "La Fédération royale marocaine conteste la décision du TAS de déclarer le Sénégal vainqueur de la CAN 2025",
-    "ko": "모로코 축구연맹, CAS의 세네갈 CAN 2025 우승 결정에 재차 불복",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T16:24:58.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Julie Vimond",
-    "transfer": null
-   },
-   {
-    "id": "a0ec6ddf45a9",
-    "url": "https://www.hln.be/africa-cup/zullen-er-alles-aan-doen-om-dit-aan-te-vechten-marokko-legt-zich-opnieuw-niet-neer-bij-beslissing-van-cas-om-afrika-cup-aan-senegal-toe-te-wijzen~a2aa9754/",
-    "title": "“Zullen er alles aan doen om dit aan te vechten”: Marokko legt zich (opnieuw) niet neer bij beslissing van CAS om Afrika Cup aan Senegal toe te wijzen",
-    "ko": "모로코 연맹, CAS의 아프리카네이션스컵 세네갈 우승 결정에 재차 반발",
-    "source": "hln",
-    "publishedAt": "2026-11-24T16:38:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "eb371bdafeb6",
-    "url": "https://www.hln.be/africa-cup/zullen-er-alles-aan-doen-om-dit-aan-te-vechten-marokko-legt-zich-opnieuw-niet-neer-bij-beslissing-van-tas-om-afrika-cup-aan-senegal-toe-te-wijzen~a2aa9754/",
-    "title": "“Zullen er alles aan doen om dit aan te vechten”: Marokko legt zich (opnieuw) niet neer bij beslissing van TAS om Afrika Cup aan Senegal toe te wijzen",
-    "ko": "모로코, CAN 우승 세네갈 귀속 TAS 결정에 또 불복",
-    "source": "hln",
-    "publishedAt": "2026-11-24T16:38:00.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "7eadf058ca01",
-    "url": "https://www.kicker.de/marokko-kuendigt-protest-an-alle-moeglichen-rechtsmittel-1274656/artikel#omrss",
-    "title": "Marokko kündigt Protest an: \"Alle möglichen Rechtsmittel\"",
-    "ko": "모로코, CAN 판정에 항고 예고 \"가능한 모든 법적 수단\" 동원",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T16:53:20.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "188c14eb2dca",
-    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/detalhe/senegal-com-profunda-satisfacao-por-tad-confirmar-o-titulo-na-can-2025",
-    "title": "Senegal com \"profunda satisfação\" por TAD confirmar o título na CAN'2025",
-    "ko": "세네갈, CAF의 2025 아프리카네이션스컵 우승 확정 환영",
-    "source": "record",
-    "publishedAt": "2026-11-24T18:05:45.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e81c7c20cd15",
-    "url": "https://www.record.pt/internacional/competicoes-de-selecoes/can/detalhe/marrocos-vai-esgotar-todas-as-vias-legais-de-recurso-para-contestar-decisao-do-tas",
-    "title": "Marrocos vai esgotar \"todas as vias legais de recurso\" para contestar decisão do TAS",
-    "ko": "모로코, CAN 2025 관련 TAS 판정에 법적 항소 전부 동원 예고",
-    "source": "record",
-    "publishedAt": "2026-11-24T18:44:53.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "9e38165dbcbf",
-    "url": "https://www.lequipe.fr/Football/Article/Mis-k-o-par-le-tas-le-maroc-compte-engager-toutes-les-procedures-legales-necessaires-pour-contester-la-decision-de-declarer-le-senegal-vainqueur-de-la-can-2025/1745913#at_medium=RSS_feeds",
-    "title": "Mis K.-O. par le TAS, le Maroc compte engager « toutes les procédures légales nécessaires » pour contester la décision de déclarer le Sénégal vainqueur de la CAN 2025",
-    "ko": "TAS 패소 모로코, 세네갈 우승 결정 번복 위해 모든 법적 절차 추진",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T19:29:24.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Etienne Moatti",
-    "transfer": null
-   },
-   {
-    "id": "f9678152eb2e",
-    "url": "https://www.lequipe.fr/Football/Actualites/Declares-vainqueurs-de-la-can-2025-par-le-tas-les-joueurs-du-senegal-ont-laisse-exploser-leur-joie-et-appele-a-l-apaisement/1745945#at_medium=RSS_feeds",
-    "title": "Déclarés vainqueurs de la CAN 2025 par le TAS, les joueurs du Sénégal ont laissé exploser leur joie et appelé à l'apaisement",
-    "ko": "CAN 2025 우승 세네갈, TAS 판정 후 기쁨 표출하며 진정 호소",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T22:45:37.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Hervé Penot",
-    "transfer": null
-   }
-  ],
-  "recentSources": 4,
-  "sourceCount": 11,
-  "score": 1.03,
-  "topTier": 1,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-24T11:30:46.000Z",
-   "viaQuote": false
-  },
-  "headline": "Senegal reinstated as Afcon 2025 winners by court ruling"
  },
  {
   "slug": "nusa-psg-transfer",
@@ -4755,7 +5344,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.75,
+  "score": 0.61,
   "topTier": 2,
   "stageHistory": [
    {
@@ -4780,241 +5369,6 @@
    "viaQuote": false
   },
   "headline": "Nusa es medio Leipzig"
- },
- {
-  "slug": "losc-bayern-2026-11-25",
-  "mode": "llm",
-  "titleKo": "릴 대 바이에른 챔피언스리그 경기 전망",
-  "createdAt": "2026-11-23T17:11:05.000Z",
-  "updatedAt": "2026-11-24T22:31:37.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "psg",
-   "bayern"
-  ],
-  "players": [
-   "우에다 아야세",
-   "해리 케인",
-   "마이클 올리세",
-   "무시알라",
-   "다요 우파메카노",
-   "루이스 디아스"
-  ],
-  "sig": [
-   "ligue",
-   "ayase",
-   "ueda",
-   "losc"
-  ],
-  "articles": [
-   {
-    "id": "df64020b2a98",
-    "url": "https://www.lequipe.fr/Football/Actualites/Pour-le-choc-face-au-bayern-munich-en-ligue-des-champions-mercredi-un-retour-d-ayase-ueda-en-pointe-avec-le-losc/1745647#at_medium=RSS_feeds",
-    "title": "Pour le choc face au Bayern Munich en Ligue des champions mercredi, un retour d'Ayase Ueda en pointe avec le LOSC ?",
-    "ko": "릴, 수요일 바이에른전 앞두고 우에다 아야세 최전방 복귀 여부 주목",
-    "source": "lequipe",
-    "publishedAt": "2026-11-23T17:11:05.000Z",
-    "credited": null,
-    "clubs": [
-     "psg"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "우에다 아야세"
-    ],
-    "playerTags": [],
-    "author": "Nathan Gourdol",
-    "transfer": null
-   },
-   {
-    "id": "8134c85cc5c3",
-    "url": "https://www.tz.de/sport/fc-bayern/taktik-experte-verraet-wie-der-fc-bayern-dem-kane-ausfall-trotzt-94605712.html",
-    "title": "Kollektiv statt Kane – der neue Bayern-Plan gegen Lille",
-    "ko": "케인 빠진 바이에른, 릴전 집단 전술로 대응",
-    "source": "tz",
-    "publishedAt": "2026-11-24T12:35:13.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "해리 케인"
-    ],
-    "playerTags": [
-     "harry-kane"
-    ],
-    "author": "Hanna Raif",
-    "transfer": null
-   },
-   {
-    "id": "9adb9fa06169",
-    "url": "https://www.kicker.de/olise-fehlt-bayern-im-abschlusstraining-und-wohl-auch-in-lille-1274540/artikel#omrss",
-    "title": "Olise fehlt Bayern im Abschlusstraining - und wohl auch in Lille",
-    "ko": "올리세, 바이에른 훈련 불참…릴전 결장 가능성",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T12:35:17.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "마이클 올리세"
-    ],
-    "playerTags": [
-     "michael-olise"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "1deff360d287",
-    "url": "https://www.lequipe.fr/Football/Actualites/Davide-ancelotti-entraineur-de-lille-a-propos-d-un-bayern-munich-affaibli-en-ligue-des-champions-c-est-dangereux-de-parler-comme-ca/1745792#at_medium=RSS_feeds",
-    "title": "Davide Ancelotti, entraîneur de Lille, à propos d'un Bayern Munich affaibli en Ligue des champions : « C'est dangereux de parler comme ça... »",
-    "ko": "릴 감독 안첼로티, 약체화된 바이에른 두고 '위험한 발언' 경계",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T13:31:21.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Hervé Penot",
-    "transfer": null
-   },
-   {
-    "id": "4e3e9b1ed0fa",
-    "url": "https://www.tz.de/sport/fc-bayern/bayern-aufstellung-gegen-lille-kompanys-musiala-dilemma-zr-94606076.html",
-    "title": "Bayern-Aufstellung gegen Lille: Kompany steht vor Musiala-Dilemma",
-    "ko": "콤파니, 릴전 선발 고민…무시알라 기용 딜레마",
-    "source": "tz",
-    "publishedAt": "2026-11-24T14:40:39.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "무시알라"
-    ],
-    "playerTags": [
-     "jamal-musiala"
-    ],
-    "author": "Philipp Kuserau",
-    "transfer": null
-   },
-   {
-    "id": "ac95e816f32c",
-    "url": "https://www.kicker.de/fc-bayern-fliegt-ohne-olise-nach-lille-youngster-trio-um-16-jaehrigen-torhueter-dabei-1274540/artikel#omrss",
-    "title": "FC Bayern fliegt ohne Olise nach Lille - Youngster-Trio um 16-jährigen Torhüter dabei",
-    "ko": "바이에른, 올리세 빠진 채 릴 원정 출발…유망주 3인방 동행",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T15:00:05.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "마이클 올리세"
-    ],
-    "playerTags": [
-     "michael-olise"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "68396fca1a01",
-    "url": "https://www.lequipe.fr/Football/Actualites/-c-est-comme-un-derby-de-retour-dans-le-nord-pour-affronter-lille-avec-le-bayern-onze-ans-apres-son-passage-a-valenciennes-dayot-upamecano-s-attend-a-un-gros-match/1745917#at_medium=RSS_feeds",
-    "title": "« C'est comme un derby » : De retour dans le Nord pour affronter Lille avec le Bayern, onze ans après son passage à Valenciennes, Dayot Upamecano s'attend à un gros match",
-    "ko": "우파메카노, 릴전 앞두고 \"더비 같다\"",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T19:49:30.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "다요 우파메카노"
-    ],
-    "playerTags": [],
-    "author": "Hervé Penot",
-    "transfer": null
-   },
-   {
-    "id": "321c2314ceca",
-    "url": "https://www.lequipe.fr/Football/Video/Ligue-des-champions-bayern-munich-vincent-kompany-avant-lille-bayern-munich-on-a-envie-de-relever-ce-defi/20246256#at_medium=RSS_feeds",
-    "title": "Kompany avant Lille-Bayern Munich : « On a envie de relever ce défi »",
-    "ko": "콤파니, 릴전 앞두고 바이에른 도전 의지 강조",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T20:14:00.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "e7b40f53e314",
-    "url": "https://colombia.as.com/futbol/colombianos-por-el-mundo/luis-diaz-viaja-con-bayern-a-lille-y-esta-listo-para-reaparecer-en-ucl-f202611-n/",
-    "title": "Luis Díaz viaja con Bayern a Lille y está listo para reaparecer en UCL",
-    "ko": "루이스 디아스, 바이에른과 릴 원정 동행…UCL 복귀 임박",
-    "source": "as",
-    "publishedAt": "2026-11-24T22:31:37.000Z",
-    "credited": null,
-    "clubs": [
-     "bayern"
-    ],
-    "category": "injury",
-    "stage": null,
-    "players": [
-     "루이스 디아스"
-    ],
-    "playerTags": [
-     "luis-diaz"
-    ],
-    "author": "As.com As.com",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 4,
-  "score": 1.2,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "harry-kane",
-   "michael-olise",
-   "jamal-musiala",
-   "luis-diaz"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-23T17:11:05.000Z",
-   "viaQuote": false
-  },
-  "headline": "Luis Díaz viaja con Bayern a Lille y está listo para reaparecer en UCL"
  },
  {
   "slug": "aston-villa-galatasaray-2026-11-25",
@@ -5407,7 +5761,7 @@
   ],
   "recentSources": 9,
   "sourceCount": 10,
-  "score": 2.54,
+  "score": 2.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5469,7 +5823,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -5521,7 +5875,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.64,
+  "score": 0.52,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5770,7 +6124,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5868,7 +6222,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.05,
+  "score": 0.84,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5978,7 +6332,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.53,
+  "score": 0.43,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -6039,7 +6393,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.29,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -6215,7 +6569,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.6,
+  "score": 0.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15151,9 +15505,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 3,
   "sourceCount": 17,
-  "score": 0.73,
+  "score": 0.54,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -15220,7 +15574,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.57,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [
    {
@@ -15311,7 +15665,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.72,
+  "score": 0.58,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15373,7 +15727,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.17,
+  "score": 0.13,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15398,114 +15752,6 @@
    "viaQuote": false
   },
   "headline": "Man Utd target Collins - Wednesday's gossip"
- },
- {
-  "slug": "man-utd-sporting-2026-11-26",
-  "mode": "llm",
-  "titleKo": "맨유 대 스포르팅 챔피언스리그 경기",
-  "createdAt": "2026-11-24T12:01:30.000Z",
-  "updatedAt": "2026-11-24T20:39:23.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "man-utd"
-  ],
-  "players": [],
-  "sig": [
-   "sporting",
-   "lisbon",
-   "mauricio",
-   "pochettino"
-  ],
-  "articles": [
-   {
-    "id": "6ef2d1a6a786",
-    "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sporting-lisbon-squad-37909593",
-    "title": "Man Utd without two players for Sporting Lisbon but Mauricio Pochettino handed one injury boost",
-    "ko": "맨유, 스포르팅전 2명 결장…포체티노 부상 희소식 하나",
-    "source": "mirror",
-    "publishedAt": "2026-11-24T12:01:30.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Felix Keith",
-    "transfer": null
-   },
-   {
-    "id": "1792eafbd69d",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/em-direto-siga-a-conferencia-de-antevisao-de-paulo-fonseca-ao-jogo-com-o-manchester-united",
-    "title": "Em direto: siga a conferência de antevisão de Paulo Fonseca ao jogo com o Manchester United",
-    "ko": "포르투갈 감독 폰세카, 맨유전 앞둔 기자회견 생중계",
-    "source": "record",
-    "publishedAt": "2026-11-24T15:11:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "264c5d0f7472",
-    "url": "https://www.record.pt/internacional/paises/inglaterra/man--united/detalhe/pochettino-preparado-para-jogo-muito-dificil-com-o-sporting-nao-somos-uma-equipa-fragil",
-    "title": "Pochettino preparado para jogo \"muito difícil\" com o Sporting: «Não somos uma equipa frágil»",
-    "ko": "포체티노, 스포르팅전 '매우 어려운 경기' 준비…'우리는 약한 팀 아니다'",
-    "source": "record",
-    "publishedAt": "2026-11-24T20:32:00.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "6a9c7236eae5",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/analise-de-rui-malheiro-ao-man-united-o-guia-completo-para-conhecer-o-adversario-do-sporting",
-    "title": "Análise de Rui Malheiro ao Man. United: o guia completo para conhecer o adversário do Sporting",
-    "ko": "맨유 상대 스포르팅 경기 대비 루이 말레이루 분석 가이드",
-    "source": "record",
-    "publishedAt": "2026-11-24T20:39:23.000Z",
-    "credited": null,
-    "clubs": [
-     "man-utd"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 2,
-  "score": 0.52,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "Mirror",
-   "source": "mirror",
-   "at": "2026-11-24T12:01:30.000Z",
-   "viaQuote": false
-  },
-  "headline": "Análise de Rui Malheiro ao Man. United: o guia completo para conhecer o adversário do Sporting"
  },
  {
   "slug": "fabio-silva-dortmund-transfer",
@@ -15563,7 +15809,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.15,
+  "score": 0.12,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15642,7 +15888,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.47,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16253,7 +16499,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.43,
+  "score": 0.35,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16454,7 +16700,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.42,
+  "score": 0.34,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16504,7 +16750,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.63,
+  "score": 0.51,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17158,9 +17404,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.69,
+  "score": 0.33,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17312,7 +17558,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.4,
+  "score": 0.32,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17379,7 +17625,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -17484,7 +17730,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 4,
-  "score": 0.12,
+  "score": 0.09,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17544,7 +17790,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.39,
+  "score": 0.31,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17625,7 +17871,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.37,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17678,7 +17924,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.11,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -17733,7 +17979,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17847,7 +18093,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.34,
+  "score": 0.28,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17908,7 +18154,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.34,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -19273,7 +19519,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.28,
+  "score": 0.27,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -19654,7 +19900,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -20069,9 +20315,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 8,
-  "score": 0.31,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -20157,9 +20403,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20304,9 +20550,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 5,
-  "score": 0.08,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20499,9 +20745,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 5,
-  "score": 0.39,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -25369,119 +25615,6 @@
    "viaQuote": false
   },
   "headline": "El Ceuta todavía late"
- },
- {
-  "slug": "manuel-baum-augsburg-discipline",
-  "mode": "llm",
-  "titleKo": "바움 아우크스부르크 감독 퇴장 징계 논란",
-  "createdAt": "2026-11-22T20:34:20.000Z",
-  "updatedAt": "2026-11-24T11:06:06.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "augsburg",
-   "mainz"
-  ],
-  "players": [],
-  "sig": [
-   "fca",
-   "trainer",
-   "manuel",
-   "baum",
-   "rot"
-  ],
-  "articles": [
-   {
-    "id": "d2ca943e8377",
-    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/platzverweis-in-augsburg-warum-der-schiedsrichter-fca-trainer-manuel-baum-regelkonform-rot-zeigte-115744782",
-    "title": "Warum FCA-Trainer Manuel Baum gegen Mainz Rot sah",
-    "ko": "바움 감독, 마인츠전 퇴장 이유 해명",
-    "source": "augsburger",
-    "publishedAt": "2026-11-22T20:34:20.000Z",
-    "credited": null,
-    "clubs": [
-     "augsburg",
-     "mainz"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Robert Götz",
-    "transfer": null
-   },
-   {
-    "id": "ae97d4120620",
-    "url": "https://www.augsburger-allgemeine.de/sport/fc-augsburg/fca-sieg-gegen-mainz-welche-folgen-die-rote-karte-fuer-trainer-manuel-baum-hat-115744628",
-    "title": "So wichtig war der FCA-Sieg gegen Mainz – und diese Folgen hat die Rote Karte für Baum",
-    "ko": "아우크스부르크, 마인츠 격파 후 바움 퇴장 여파",
-    "source": "augsburger",
-    "publishedAt": "2026-11-23T12:10:19.000Z",
-    "credited": null,
-    "clubs": [
-     "augsburg",
-     "mainz"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Florian Eisele",
-    "transfer": null
-   },
-   {
-    "id": "77e0d14e748a",
-    "url": "https://www.augsburger-allgemeine.de/sport/nach-roter-karte-dfb-sportgericht-faellt-urteil-gegen-fca-trainer-manuel-baum-115756125",
-    "title": "Nach Roter Karte: So lange muss FCA-Trainer Manuel Baum zuschauen",
-    "ko": "레드카드 받은 바움 감독, 경기 벤치 밖 관람 기간 확인",
-    "source": "augsburger",
-    "publishedAt": "2026-11-24T10:39:26.000Z",
-    "credited": null,
-    "clubs": [],
-    "category": "manager",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Johannes Graf",
-    "transfer": null
-   },
-   {
-    "id": "61986c6321f2",
-    "url": "https://www.kicker.de/ein-spiel-sperre-baum-fehlt-dem-fca-in-hoffenheim-1274557/artikel#omrss",
-    "title": "Ein Spiel Sperre: Baum fehlt dem FCA in Hoffenheim",
-    "ko": "바움, 호펜하임전 1경기 출장정지로 결장",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T11:06:06.000Z",
-    "credited": null,
-    "clubs": [
-     "augsburg"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 2,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "아우크스부르거 알게마이네",
-   "source": "augsburger",
-   "at": "2026-11-22T20:34:20.000Z",
-   "viaQuote": false
-  },
-  "headline": "Ein Spiel Sperre: Baum fehlt dem FCA in Hoffenheim",
-  "aliases": [
-   "baum-augsburg-discipline"
-  ]
  },
  {
   "slug": "sporting-man-utd-2026-11-26",
