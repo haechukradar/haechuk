@@ -4,7 +4,7 @@
   "mode": "llm",
   "titleKo": "페예노르트 대 포르투 경기",
   "createdAt": "2026-11-24T13:59:00.000Z",
-  "updatedAt": "2026-11-24T23:12:43.000Z",
+  "updatedAt": "2026-11-25T00:06:24.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -175,11 +175,47 @@
     "playerTags": [],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "4b62e1f4f2d1",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/a-cronica-do-feyenoord-fc-porto-0-1-agua-pelo-pescoco-ainda-deixa-sorrir",
+    "title": "A crónica do Feyenoord-FC Porto, 0-1: água pelo pescoço ainda deixa sorrir",
+    "ko": "페예노르트 대 포르투 0-1, 포르투 원정 승리 리뷰",
+    "source": "record",
+    "publishedAt": "2026-11-24T23:54:20.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "cf9c02ba2cbf",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/as-notas-dos-jogadores-do-fc-porto-diante-do-feyenoord-muralha-gigante-foi-a-prova-de-bala",
+    "title": "As notas dos jogadores do FC Porto diante do Feyenoord: muralha gigante foi à prova de bala",
+    "ko": "포르투 선수 평점 정리, 페예노르트전 수비 활약",
+    "source": "record",
+    "publishedAt": "2026-11-25T00:06:24.000Z",
+    "credited": null,
+    "clubs": [
+     "porto"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
    }
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 3.29,
+  "score": 2.76,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -193,14 +229,488 @@
    "at": "2026-11-24T13:59:00.000Z",
    "viaQuote": false
   },
-  "headline": "Golo madrugador, Diogo Costa a brilhar e susto no final: o resumo do Feyenoord-FC Porto"
+  "headline": "As notas dos jogadores do FC Porto diante do Feyenoord: muralha gigante foi à prova de bala"
+ },
+ {
+  "slug": "real-madrid-psv-2026-11-25",
+  "mode": "llm",
+  "titleKo": "레알 마드리드 대 PSV 챔피언스리그 경기",
+  "createdAt": "2026-11-24T07:00:00.000Z",
+  "updatedAt": "2026-11-24T23:57:46.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "real-madrid",
+   "leipzig",
+   "man-city",
+   "arsenal",
+   "dortmund"
+  ],
+  "players": [
+   "아르다 귈",
+   "페데리코 발베르데",
+   "킬리안 음바페",
+   "티보 쿠르투아",
+   "주드 벨링엄",
+   "벨링엄"
+  ],
+  "sig": [
+   "psv",
+   "eindhoven",
+   "ligue"
+  ],
+  "articles": [
+   {
+    "id": "90c05c025b97",
+    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-real-madrid-psv-eindhoven-en-ligue-des-champions/1745537#at_medium=RSS_feeds",
+    "title": "À quelle heure et sur quelle chaîne voir Real Madrid - PSV Eindhoven en Ligue des champions ?",
+    "ko": "레알 마드리드 대 PSV 챔피언스리그 경기, 시간과 중계 채널은?",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T07:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Lucas Pérès",
+    "transfer": null
+   },
+   {
+    "id": "c71f73acebe8",
+    "url": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
+    "title": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
+    "ko": "레알 마드리드 대 PSV, 챔피언스리그 리그 페이즈 경기 전망",
+    "source": "as",
+    "publishedAt": "2026-11-24T12:45:01.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Daniel López,Joel Guerrero",
+    "transfer": null
+   },
+   {
+    "id": "9d9dfc7768a8",
+    "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-madrid-vs-psv-de-la-youth-legue-f202611-v/",
+    "title": "Resumen y goles del Real Madrid vs. PSV de la Youth Legue",
+    "ko": "레알 마드리드 대 PSV 유스리그 경기 요약과 골",
+    "source": "as",
+    "publishedAt": "2026-11-24T16:57:05.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Real Madrid TV",
+    "transfer": null
+   },
+   {
+    "id": "047189dfc516",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/real-madrid-psv-eindhoven-em-direto",
+    "title": "Real Madrid-PSV Eindhoven, em direto",
+    "ko": "레알 마드리드 대 PSV 라이브",
+    "source": "record",
+    "publishedAt": "2026-11-24T18:50:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "bbebb5e53529",
+    "url": "https://as.com/futbol/champions/polemica-reacciones-analisis-y-comentarios-del-real-madrid-psv-en-directo-champions-league-f202611-d/",
+    "title": "Polémica, reacciones, análisis y comentarios del Real Madrid - PSV, en directo: Champions League",
+    "ko": "레알 마드리드 대 PSV 경기 논란과 반응 정리",
+    "source": "as",
+    "publishedAt": "2026-11-24T19:35:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Marcos Verdasco",
+    "transfer": null
+   },
+   {
+    "id": "b8ebefdb81b7",
+    "url": "https://www.kicker.de/gueler-mit-der-hacke-valverde-schliesst-reals-geniale-kombination-ab-1274721/video#omrss",
+    "title": "Güler mit der Hacke: Valverde schließt Reals geniale Kombination ab",
+    "ko": "귈 뒤꿈치 패스, 발베르데 마무리…레알 득점 연결",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T21:13:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "아르다 귈",
+     "페데리코 발베르데"
+    ],
+    "playerTags": [
+     "federico-valverde"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fdf94ae0b40c",
+    "url": "https://www.hln.be/champions-league/multilive-plots-gaat-het-snel-kylian-mbappe-schiet-thibaut-courtois-en-co-op-3-1~abc7a0ad/",
+    "title": "MULTILIVE. Plots gaat het snel: Kylian Mbappé schiet Thibaut Courtois en co op 3-1",
+    "ko": "음바페, 쿠르투아 앞에서 득점…레알 3-1",
+    "source": "hln",
+    "publishedAt": "2026-11-24T21:19:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "킬리안 음바페",
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "kylian-mbappe",
+     "thibaut-courtois"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "bed9ffea08f9",
+    "url": "https://www.kicker.de/was-macht-bellingham-da-ein-kunststueck-zur-real-fuehrung-1274728/video#omrss",
+    "title": "Was macht Bellingham da? Ein Kunststück zur Real-Führung",
+    "ko": "벨링엄의 묘기, 레알 리드 만들어",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T21:24:45.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ec23356bcc5d",
+    "url": "https://www.kicker.de/live-nach-dem-schoenen-ausgleich-grosses-pech-fuer-bellingham-1274309/artikel#omrss",
+    "title": "LIVE! Nach dem schönen Ausgleich: Großes Pech für Bellingham",
+    "ko": "벨링엄 동점 이후 불운…레알 경기 중계",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T21:25:56.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "7810b87deedd",
+    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/trivelada-a-lembrar-quaresma-o-golaco-de-jude-bellingham-diante-do-psv",
+    "title": "Trivelada a lembrar Quaresma: o golaço de Jude Bellingham diante do PSV",
+    "ko": "벨링엄, PSV전 환상적인 골 조명",
+    "source": "record",
+    "publishedAt": "2026-11-24T21:26:17.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "f5d85761cd4c",
+    "url": "https://www.kicker.de/jetzt-darf-auch-mbapp-real-ueberrumpelt-psv-1274729/video#omrss",
+    "title": "Jetzt darf auch Mbappé: Real überrumpelt PSV",
+    "ko": "음바페도 득점…레알, PSV 상대로 역전",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T21:26:51.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "305791949910",
+    "url": "https://www.kicker.de/live-feinste-fussballkunst-von-bellingham-rb-faengt-sich-den-anschluss-city-meldet-sich-zurueck-1274330/artikel#omrss",
+    "title": "LIVE! Feinste Fußballkunst von Bellingham - RB fängt sich den Anschluss - City meldet sich zurück",
+    "ko": "벨링엄 환상 드리블, 레알 득점…RB 라이프치히 추격",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T21:30:20.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "leipzig",
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "81cae11220e2",
+    "url": "https://www.hln.be/champions-league/thibaut-courtois-en-real-madrid-walsen-dankzij-sterke-tweede-helft-over-psv-arsenal-en-dortmund-houden-elkaar-in-evenwicht~abc7a0ad/",
+    "title": "Thibaut Courtois en Real Madrid walsen dankzij sterke tweede helft over PSV - Arsenal en Dortmund houden elkaar in evenwicht",
+    "ko": "쿠르투아 선방 빛난 레알, PSV 꺾어…아스널·도르트문트는 무승부",
+    "source": "hln",
+    "publishedAt": "2026-11-24T21:51:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid",
+     "arsenal",
+     "dortmund"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Imar Vandenabeele, Joren Van Nieuwenborgh",
+    "transfer": null
+   },
+   {
+    "id": "c3ae34fc03db",
+    "url": "https://as.com/futbol/primera/hasta-que-bellingham-hizo-magia-f202611-n/",
+    "title": "Hasta que Bellingham hizo magia",
+    "ko": "벨링엄의 마법 같은 활약이 승부를 가름",
+    "source": "as",
+    "publishedAt": "2026-11-24T21:52:42.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": "Luis Nieto",
+    "transfer": null
+   },
+   {
+    "id": "cd9171001a07",
+    "url": "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-de-jude-bellingham-et-un-double-de-kylian-mbappe-le-real-madrid-fait-exploser-le-psv-en-seconde-periode-pour-poursuivre-son-sans-faute-en-ligue-des-champions/1745941#at_medium=RSS_feeds",
+    "title": "Avec un bijou de Jude Bellingham et un doublé de Kylian Mbappé, le Real Madrid fait exploser le PSV en seconde période pour poursuivre son sans-faute",
+    "ko": "벨링엄 원더골·음바페 멀티골…레알, PSV 제압하고 무패 행진",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T21:57:28.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "주드 벨링엄",
+     "킬리안 음바페"
+    ],
+    "playerTags": [
+     "kylian-mbappe",
+     "jude-bellingham"
+    ],
+    "author": "Damien Degorre",
+    "transfer": null
+   },
+   {
+    "id": "a409ee8e508f",
+    "url": "https://www.nytimes.com/athletic/7803366/2026/11/24/real-madrid-5-psv-1-briefing-bellingham-goal/",
+    "title": "Real Madrid 5 PSV 1: Magnificent Bellingham sparks comeback and scores remarkable volley",
+    "ko": null,
+    "source": "athletic",
+    "publishedAt": "2026-11-24T21:57:35.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "ddd4c4a8596a",
+    "url": "https://www.hln.be/champions-league/ik-hoop-dat-ik-er-binnenkort-nog-eens-eentje-pak-thibaut-courtois-krijgt-penalty-tegen-maar-wint-met-real-wel-vlot-van-psv~abc7a0ad/",
+    "title": "“Ik hoop dat ik er binnenkort nog eens eentje pak...”: Thibaut Courtois krijgt penalty tegen, maar wint met Real wel vlot van PSV",
+    "ko": "쿠르투아 PK 허용에도 레알, PSV 상대 여유 승리",
+    "source": "hln",
+    "publishedAt": "2026-11-24T22:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "티보 쿠르투아"
+    ],
+    "playerTags": [
+     "thibaut-courtois"
+    ],
+    "author": "Imar Vandenabeele, Joren Van Nieuwenborgh",
+    "transfer": null
+   },
+   {
+    "id": "71fdc80dd27d",
+    "url": "https://www.kicker.de/bellinghams-kunst-volley-vergoldet-schuetzenfest-real-zerlegt-psv-1274756/video#omrss",
+    "title": "Bellinghams Kunst-Volley vergoldet Schützenfest: Real zerlegt PSV",
+    "ko": "벨링엄의 발리 골 앞세운 레알, PSV 대파",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T22:49:33.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fc83e0b605fa",
+    "url": "https://www.thesun.co.uk/sport/41139931/jude-bellingham-real-madrid-psv-champions-league/",
+    "title": "Jude Bellingham scores ‘pure filth’ volley after juggling ball as fans brand Real Madrid star ‘alien’ for goal vs PSV",
+    "ko": "벨링엄, 저거노트 발리로 PSV전 득점…팬들 '외계인' 찬사",
+    "source": "sun",
+    "publishedAt": "2026-11-24T22:50:27.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "벨링엄"
+    ],
+    "playerTags": [
+     "jude-bellingham"
+    ],
+    "author": "Rahman Osman",
+    "transfer": null
+   },
+   {
+    "id": "9423e06556eb",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/a-cronica-do-real-madrid-psv-5-1-remontada-com-dedo-de-mourinho",
+    "title": "A crónica do Real Madrid-PSV, 5-1: 'remontada' com dedo de Mourinho",
+    "ko": "레알 마드리드, PSV 상대 5-1 역전승 경기 리뷰",
+    "source": "record",
+    "publishedAt": "2026-11-24T23:57:46.000Z",
+    "credited": null,
+    "clubs": [
+     "real-madrid"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   }
+  ],
+  "recentSources": 7,
+  "sourceCount": 7,
+  "score": 6.46,
+  "topTier": 1,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [
+   "federico-valverde",
+   "kylian-mbappe",
+   "thibaut-courtois",
+   "jude-bellingham"
+  ],
+  "transfer": null,
+  "firstReport": {
+   "name": "레퀴프",
+   "source": "lequipe",
+   "at": "2026-11-24T07:00:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Real Madrid 5 PSV 1: Magnificent Bellingham sparks comeback and scores remarkable volley"
  },
  {
   "slug": "lens-leipzig-2026-11-25",
   "mode": "llm",
   "titleKo": "렝스 대 라이프치히 챔피언스리그 경기 앞둔 감독 발언",
   "createdAt": "2026-11-23T17:08:36.000Z",
-  "updatedAt": "2026-11-24T23:07:15.000Z",
+  "updatedAt": "2026-11-24T23:42:52.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -442,11 +952,45 @@
     "playerTags": [],
     "author": "Bernard Lions",
     "transfer": null
+   },
+   {
+    "id": "374a4c76b295",
+    "url": "https://www.kicker.de/wackelige-angelegenheit-leipzig-erst-furios-dann-ohne-zugriff-1274766/video#omrss",
+    "title": "\"Wackelige Angelegenheit\": Leipzig erst furios, dann ohne Zugriff",
+    "ko": "라이프치히, 초반 맹공 후 흔들리며 경기 장악력 잃어",
+    "source": "kicker",
+    "publishedAt": "2026-11-24T23:31:53.000Z",
+    "credited": null,
+    "clubs": [
+     "leipzig"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": null,
+    "transfer": null
+   },
+   {
+    "id": "fd7b91301baa",
+    "url": "https://www.lequipe.fr/Football/Article/Pour-lens-une-nouvelle-fois-battu-en-ligue-des-champions-a-leipzig-ca-sent-la-fin/1745958#at_medium=RSS_feeds",
+    "title": "Lens était lancé vers une nouvelle humiliation avant une rébellion qui ne change rien à son destin en Ligue des champions",
+    "ko": "렝스, 챔피언스리그서 반란 뒤에도 운명 변화 없어",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T23:42:52.000Z",
+    "credited": null,
+    "clubs": [],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Régis Testelin",
+    "transfer": null
    }
   ],
   "recentSources": 3,
   "sourceCount": 3,
-  "score": 2.83,
+  "score": 2.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -460,71 +1004,74 @@
    "at": "2026-11-23T17:08:36.000Z",
    "viaQuote": false
   },
-  "headline": "Les notes de RB Leipzig-Lens : Nusa remuant, Baidoo inquiétant"
+  "headline": "Lens était lancé vers une nouvelle humiliation avant une rébellion qui ne change rien à son destin en Ligue des champions"
  },
  {
-  "slug": "como-aek-2026-11-26",
+  "slug": "porto-feyenoord-pyrotechnics-incident",
   "mode": "llm",
-  "titleKo": "코모 대 AEK 아테네 경기 프리뷰",
-  "createdAt": "2026-11-23T19:13:09.000Z",
-  "updatedAt": "2026-11-24T23:02:03.000Z",
-  "category": "match",
+  "titleKo": "포르투 로테르담 폭죽 사태 징계 우려",
+  "createdAt": "2026-11-22T22:06:00.000Z",
+  "updatedAt": "2026-11-24T23:33:34.000Z",
+  "category": "other",
   "stage": null,
-  "clubs": [],
-  "players": [
-   "더빅스"
+  "clubs": [
+   "porto",
+   "liverpool"
   ],
+  "players": [],
   "sig": [
-   "como",
-   "aek",
-   "não",
-   "douvikas"
+   "roterdão"
   ],
   "articles": [
    {
-    "id": "c3e77bbcec70",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/antevisao-do-como-aek-nao-ha-pai-para-douvikas",
-    "title": "Antevisão do Como-AEK: Não há pai para Douvikas",
-    "ko": "코모-AEK 아테네 경기 프리뷰, 더빅스 공백",
+    "id": "e4b6e3a9efe6",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/sad-do-fc-porto-avisa-que-pirotecnia-em-roterdao-pode-levar-a-proibicao-de-venda-de-bilhetes-na-champions",
+    "title": "SAD do FC Porto avisa que pirotecnia em Roterdão pode levar à proibição de venda de bilhetes na Champions",
+    "ko": "포르투 SAD, 로테르담 폭죽 사태로 챔피언스리그 티켓 판매 금지 우려",
     "source": "record",
-    "publishedAt": "2026-11-23T19:13:09.000Z",
+    "publishedAt": "2026-11-22T22:06:00.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "더빅스"
+    "clubs": [
+     "porto"
     ],
+    "category": "other",
+    "stage": null,
+    "players": [],
     "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "614baa8cf2f1",
-    "url": "https://as.com/futbol/champions/como-aek-en-directo-champions-league-hoy-en-vivo-f202611-d/",
-    "title": "Como - AEK, en directo: Champions League hoy en vivo",
-    "ko": "코모 대 AEK 아테네, 챔피언스리그 라이브 중계",
-    "source": "as",
-    "publishedAt": "2026-11-24T19:40:00.000Z",
+    "id": "07cbb38434af",
+    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/adeptos-do-fc-porto-tambem-nao-podem-usar-pirotecnia-em-liverpool-para-estarem-em-linz-na-ultima-jornada-da-champions",
+    "title": "Adeptos do FC Porto também não podem usar pirotecnia em Liverpool para estarem em Linz na última jornada da Champions",
+    "ko": "포르투 팬, 리버풀 원정 폭죽 금지 속 린츠행 주목",
+    "source": "record",
+    "publishedAt": "2026-11-23T18:39:02.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "match",
+    "clubs": [
+     "porto",
+     "liverpool"
+    ],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
-    "author": "Pablo Carretero",
+    "author": null,
     "transfer": null
    },
    {
-    "id": "ffc3aedc4747",
-    "url": "https://www.kicker.de/ein-kracher-tor-reicht-como-holt-den-vierten-cl-sieg-1274760/video#omrss",
-    "title": "Ein Kracher-Tor reicht: Como holt den vierten CL-Sieg",
-    "ko": "코모, 강력한 한 골로 챔피언스리그 네 번째 승리",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T23:02:03.000Z",
+    "id": "7316597ff8e8",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/20261124-233334-os-casos-do-feyenoord-fc-porto",
+    "title": "Os casos do Feyenoord-FC Porto",
+    "ko": "페예노르트-포르투 경기 관련 사건들 정리",
+    "source": "record",
+    "publishedAt": "2026-11-24T23:33:34.000Z",
     "credited": null,
-    "clubs": [],
-    "category": "match",
+    "clubs": [
+     "porto"
+    ],
+    "category": "other",
     "stage": null,
     "players": [],
     "playerTags": [],
@@ -532,9 +1079,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
-  "sourceCount": 3,
-  "score": 2.86,
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.69,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -543,414 +1090,17 @@
   "firstReport": {
    "name": "헤코르드",
    "source": "record",
-   "at": "2026-11-23T19:13:09.000Z",
+   "at": "2026-11-22T22:06:00.000Z",
    "viaQuote": false
   },
-  "headline": "Ein Kracher-Tor reicht: Como holt den vierten CL-Sieg"
- },
- {
-  "slug": "scott-chelsea-transfer",
-  "mode": "llm",
-  "titleKo": "첼시 본머스 스콧 1월 영입 추진",
-  "createdAt": "2026-11-24T23:02:00.000Z",
-  "updatedAt": "2026-11-24T23:02:00.000Z",
-  "category": "transfer",
-  "stage": "interest",
-  "clubs": [
-   "chelsea",
-   "bournemouth"
-  ],
-  "players": [
-   "스콧"
-  ],
-  "sig": [
-   "scott"
-  ],
-  "articles": [
-   {
-    "id": "e0c430747291",
-    "url": "https://www.skysports.com/football/news/12040/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
-    "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
-    "ko": "첼시, 1월 본머스의 스콧 영입 추진 예정 보도",
-    "source": "sky",
-    "publishedAt": "2026-11-24T23:02:00.000Z",
-    "credited": null,
-    "clubs": [
-     "chelsea",
-     "bournemouth"
-    ],
-    "category": "transfer",
-    "stage": "interest",
-    "players": [
-     "스콧"
-    ],
-    "playerTags": [],
-    "author": null,
-    "transfer": {
-     "player": "스콧",
-     "from": "본머스",
-     "to": "첼시"
-    }
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 1.84,
-  "topTier": 2,
-  "stageHistory": [
-   {
-    "id": "e0c430747291",
-    "at": "2026-11-24T23:02:00.000Z",
-    "source": "sky",
-    "from": null,
-    "to": "interest"
-   }
-  ],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": {
-   "player": "스콧",
-   "from": "본머스",
-   "to": "첼시"
-  },
-  "firstReport": {
-   "name": "Sky Sports",
-   "source": "sky",
-   "at": "2026-11-24T23:02:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Papers: Chelsea will push to sign Bournemouth's Scott in January"
- },
- {
-  "slug": "club-brugge-liverpool-2026-11-26",
-  "mode": "llm",
-  "titleKo": "클럽 브뤼허 대 리버풀 역사적 맞대결",
-  "createdAt": "2026-11-22T11:00:00.000Z",
-  "updatedAt": "2026-11-24T23:00:00.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "club-brugge",
-   "liverpool"
-  ],
-  "players": [
-   "프레디 포츠",
-   "비르츠",
-   "버질 얀 원"
-  ],
-  "sig": [
-   "europese"
-  ],
-  "articles": [
-   {
-    "id": "56aee9281044",
-    "url": "https://www.hln.be/club-brugge/vanaf-nu-denken-we-aan-liverpool-club-brugge-maakt-zich-op-voor-historische-clash-met-europese-rivaal-uit-de-jaren-70~a77c7e28/",
-    "title": "“Vanaf nu denken we aan Liverpool”: Club Brugge maakt zich op voor historische clash met Europese rivaal uit de jaren 70",
-    "ko": "클럽 브뤼허, 70년대 유럽 라이벌과 역사적 맞대결 준비",
-    "source": "hln",
-    "publishedAt": "2026-11-22T11:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "36bc19b910d0",
-    "url": "https://www.hln.be/club-brugge/marc-degryse-kijkt-uit-naar-champions-league-duel-tussen-club-brugge-en-liverpool-dit-wordt-groter-dan-tegen-real-madrid-man-city-of-barcelona~a6348e23/",
-    "title": "Marc Degryse kijkt uit naar Champions League-duel tussen Club Brugge en Liverpool:“Dit wordt groter dan tegen Real Madrid, Man City, of Barcelona”",
-    "ko": "디그레이스 '클럽 브뤼허-리버풀, 레알·맨시티·바르셀로나전보다 클 것'",
-    "source": "hln",
-    "publishedAt": "2026-11-23T06:07:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephan Keygnaert",
-    "transfer": null
-   },
-   {
-    "id": "02495d225995",
-    "url": "https://www.hln.be/club-brugge/dit-wordt-groter-dan-tegen-real-man-city-of-barcelona-en-of-marc-degryse-uitkijkt-naar-het-champions-league-duel-tussen-club-en-liverpool~a6348e23/",
-    "title": "“Dit wordt groter dan tegen Real, Man City, of Barcelona”: en of Marc Degryse uitkijkt naar het Champions League-duel tussen Club en Liverpool",
-    "ko": "클럽 브뤼허-리버풀 챔피언스리그 맞대결, 데그라이스 '역대급 경기' 전망",
-    "source": "hln",
-    "publishedAt": "2026-11-23T06:07:18.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Stephan Keygnaert",
-    "transfer": null
-   },
-   {
-    "id": "c5004abf4394",
-    "url": "https://www.hln.be/champions-league/honderden-vips-op-de-wachtlijst-telefoons-die-roodgloeiend-staan-en-zelfs-een-museum-brugge-loopt-storm-voor-historische-clash-met-liverpool~a2ee9d70/",
-    "title": "Honderden vips op de wachtlijst, telefoons die roodgloeiend staan en zelfs een museum: Brugge loopt storm voor historische clash met Liverpool",
-    "ko": "브뤼허, 리버풀과 역사적 맞대결 준비 열기",
-    "source": "hln",
-    "publishedAt": "2026-11-23T09:10:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Tomas Taecke",
-    "transfer": null
-   },
-   {
-    "id": "5adbdd1fd7e6",
-    "url": "https://www.hln.be/club-brugge/club-brugge-traint-laatste-keer-voor-clash-met-liverpool-om-14u-spreken-coach-ivan-leko-en-middenvelder-freddie-potts-met-pers~a77c7e28/",
-    "title": "Club Brugge traint laatste keer voor clash met Liverpool, om 14u spreken coach Ivan Leko en middenvelder Freddie Potts met pers",
-    "ko": "클럽 브뤼허, 리버풀전 앞두고 마지막 훈련 진행",
-    "source": "hln",
-    "publishedAt": "2026-11-24T10:14:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "프레디 포츠"
-    ],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "631a48f3bde9",
-    "url": "https://www.hln.be/club-brugge/met-club-brugge-iconen-julien-cools-en-georges-leekens-terug-naar-wembley-waar-ze-in-1978-europese-finale-verloren-van-liverpool-pas-nu-is-de-ontgoocheling-weg~a32e95b0/",
-    "title": "Met Club Brugge-iconen Julien Cools en Georges Leekens terug naar Wembley, waar ze in 1978 Europese finale verloren van Liverpool: “Pas nú is de ontgoocheling weg”",
-    "ko": "브뤼허 전설들, 1978 웸블리 결승 패배 회상",
-    "source": "hln",
-    "publishedAt": "2026-11-24T10:37:40.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "817d5b1955e1",
-    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-22-man-squad-club-34958589",
-    "title": "Liverpool 22-man squad for Club Brugge confirmed as two stars missing and two more not ready yet",
-    "ko": "리버풀, 클럽 브뤼허전 22인 명단 발표…두 명 결장",
-    "source": "lecho",
-    "publishedAt": "2026-11-24T12:55:52.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Ian Doyle",
-    "transfer": null
-   },
-   {
-    "id": "5d2826c01b33",
-    "url": "https://www.hln.be/champions-league/willen-er-alles-aan-doen-om-geschiedenis-te-schrijven-ivan-leko-en-club-brugge-dromen-van-nieuwe-stunt-tegen-liverpool~a53d3a7b/",
-    "title": "“Willen er alles aan doen om geschiedenis te schrijven”: Ivan Leko en Club Brugge dromen van nieuwe stunt tegen Liverpool",
-    "ko": "레코 브뤼허, 리버풀 상대로 또 한 번의 역사 노려",
-    "source": "hln",
-    "publishedAt": "2026-11-24T13:54:02.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "230f9c34817e",
-    "url": "https://www.hln.be/club-brugge/jan-virgili-na-liesblessure-weer-in-de-kern-bij-club-we-mogen-ze-niet-onderschatten-liverpool-middenvelder-florian-wirtz-is-op-zijn-hoede-voor-club-brugge~a77c7e28/",
-    "title": "Jan Virgili na liesblessure weer in de kern bij Club - “We mogen ze niet onderschatten”: Liverpool-middenvelder Florian Wirtz is op zijn hoede voor Club Brugge",
-    "ko": "버질 연상되는 이 제목은 원문 제목 기준 아님",
-    "source": "hln",
-    "publishedAt": "2026-11-24T16:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "liverpool",
-     "club-brugge"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "비르츠",
-     "버질 얀 원"
-    ],
-    "playerTags": [
-     "florian-wirtz"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "78e5601474e3",
-    "url": "https://www.hln.be/club-brugge/kiest-ivan-leko-voor-dezelfde-basiself-als-vorig-weekend-dit-zijn-de-vermoedelijke-opstellingen-van-club-brugge-en-liverpool~a77c7e28/",
-    "title": "Kiest Ivan Leko voor dezelfde basiself als vorig weekend? Dit zijn de vermoedelijke opstellingen van Club Brugge en Liverpool",
-    "ko": "클럽 브뤼허-리버풀 선발 라인업 예상",
-    "source": "hln",
-    "publishedAt": "2026-11-24T23:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "club-brugge",
-     "liverpool"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Redactie",
-    "transfer": null
-   }
-  ],
-  "recentSources": 2,
-  "sourceCount": 2,
-  "score": 0.55,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [
-   "florian-wirtz"
-  ],
-  "transfer": null,
-  "firstReport": {
-   "name": "HLN",
-   "source": "hln",
-   "at": "2026-11-22T11:00:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Liverpool 22-man squad for Club Brugge confirmed as two stars missing and two more not ready yet"
- },
- {
-  "slug": "atletico-viking-2026-11-25",
-  "mode": "llm",
-  "titleKo": "아틀레티코 대 바이킹 챔피언스리그 경기",
-  "createdAt": "2026-11-24T12:17:04.000Z",
-  "updatedAt": "2026-11-24T22:59:17.000Z",
-  "category": "match",
-  "stage": null,
-  "clubs": [
-   "atletico"
-  ],
-  "players": [],
-  "sig": [
-   "simeone",
-   "viking"
-  ],
-  "articles": [
-   {
-    "id": "f78155246873",
-    "url": "https://as.com/futbol/videos/sigue-en-directo-la-rueda-de-simeone-previa-al-partido-ante-el-viking-de-champions-league-f202611-v/",
-    "title": "Sigue en directo la rueda de Simeone previa al partido ante el Viking de Champions League",
-    "ko": "시메오네, 바이킹전 앞둔 기자회견 생중계",
-    "source": "as",
-    "publishedAt": "2026-11-24T12:17:04.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AStv",
-    "transfer": null
-   },
-   {
-    "id": "c7dd7e10490c",
-    "url": "https://as.com/futbol/simeone-mi-siguiente-record-ganar-al-viking-f202611-n/",
-    "title": "Simeone: “¿Mi siguiente récord? Ganar al Viking”",
-    "ko": "시메오네 \"다음 기록은? 바이킹전 승리\"",
-    "source": "as",
-    "publishedAt": "2026-11-24T13:10:37.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Sergio Picos",
-    "transfer": null
-   },
-   {
-    "id": "23a332ba70e7",
-    "url": "https://as.com/futbol/champions/posible-once-del-atletico-contra-el-viking-en-champions-hoy-f202611-n/",
-    "title": "Posible once del Atlético contra el Viking en Champions hoy",
-    "ko": "아틀레티코 대 바이킹 챔피언스리그 예상 선발 라인업",
-    "source": "as",
-    "publishedAt": "2026-11-24T22:59:17.000Z",
-    "credited": null,
-    "clubs": [
-     "atletico"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "AS Atlético",
-    "transfer": null
-   }
-  ],
-  "recentSources": 1,
-  "sourceCount": 1,
-  "score": 0.29,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "AS",
-   "source": "as",
-   "at": "2026-11-24T12:17:04.000Z",
-   "viaQuote": false
-  },
-  "headline": "Posible once del Atlético contra el Viking en Champions hoy"
+  "headline": "Os casos do Feyenoord-FC Porto"
  },
  {
   "slug": "man-city-napoli-2026-11-26",
   "mode": "llm",
   "titleKo": "맨시티 대 나폴리 챔피언스리그 경기",
   "createdAt": "2026-11-23T19:12:58.000Z",
-  "updatedAt": "2026-11-24T22:50:28.000Z",
+  "updatedAt": "2026-11-24T23:17:44.000Z",
   "category": "match",
   "stage": null,
   "clubs": [
@@ -1389,11 +1539,33 @@
     ],
     "author": null,
     "transfer": null
+   },
+   {
+    "id": "a19c5ebbb3c7",
+    "url": "https://www.lequipe.fr/Football/Actualites/Rayan-cherki-sauveur-face-a-naples-n-a-pas-cache-sa-frustration-apres-le-nul-de-manchester-city-on-doit-faire-plus/1745955#at_medium=RSS_feeds",
+    "title": "Rayan Cherki, sauveur face à Naples, n'a pas caché sa frustration après le nul de Manchester City : « On doit faire plus »",
+    "ko": "셰르키, 나폴리전 구원 활약 후 맨시티 무승부에 불만 토로",
+    "source": "lequipe",
+    "publishedAt": "2026-11-24T23:17:44.000Z",
+    "credited": null,
+    "clubs": [
+     "man-city"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "셰르키"
+    ],
+    "playerTags": [
+     "rayan-cherki"
+    ],
+    "author": "Arthur Verdelet",
+    "transfer": null
    }
   ],
   "recentSources": 9,
   "sourceCount": 9,
-  "score": 7.04,
+  "score": 5.75,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -1409,463 +1581,490 @@
    "at": "2026-11-23T19:12:58.000Z",
    "viaQuote": false
   },
-  "headline": "Cherki spät zur Stelle: Neapel verspielt zwei Führungen bei City"
+  "headline": "Rayan Cherki, sauveur face à Naples, n'a pas caché sa frustration après le nul de Manchester City : « On doit faire plus »"
  },
  {
-  "slug": "real-madrid-psv-2026-11-25",
+  "slug": "como-aek-2026-11-26",
   "mode": "llm",
-  "titleKo": "레알 마드리드 대 PSV 챔피언스리그 경기",
-  "createdAt": "2026-11-24T07:00:00.000Z",
-  "updatedAt": "2026-11-24T22:50:27.000Z",
+  "titleKo": "코모 대 AEK 아테네 경기 프리뷰",
+  "createdAt": "2026-11-23T19:13:09.000Z",
+  "updatedAt": "2026-11-24T23:02:03.000Z",
   "category": "match",
   "stage": null,
-  "clubs": [
-   "real-madrid",
-   "leipzig",
-   "man-city",
-   "arsenal",
-   "dortmund"
-  ],
+  "clubs": [],
   "players": [
-   "아르다 귈",
-   "페데리코 발베르데",
-   "킬리안 음바페",
-   "티보 쿠르투아",
-   "주드 벨링엄",
-   "벨링엄"
+   "더빅스"
   ],
   "sig": [
-   "psv",
-   "eindhoven",
-   "ligue"
+   "como",
+   "aek",
+   "não",
+   "douvikas"
   ],
   "articles": [
    {
-    "id": "90c05c025b97",
-    "url": "https://www.lequipe.fr/Football/Actualites/A-quelle-heure-et-sur-quelle-chaine-voir-real-madrid-psv-eindhoven-en-ligue-des-champions/1745537#at_medium=RSS_feeds",
-    "title": "À quelle heure et sur quelle chaîne voir Real Madrid - PSV Eindhoven en Ligue des champions ?",
-    "ko": "레알 마드리드 대 PSV 챔피언스리그 경기, 시간과 중계 채널은?",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T07:00:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Lucas Pérès",
-    "transfer": null
-   },
-   {
-    "id": "c71f73acebe8",
-    "url": "https://as.com/futbol/champions/real-madrid-psv-hoy-en-directo-partido-de-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202611-d/",
-    "title": "Real Madrid - PSV hoy, en directo: partido de fase liga de Champions League, última hora en el Bernabéu",
-    "ko": "레알 마드리드 대 PSV, 챔피언스리그 리그 페이즈 경기 전망",
-    "source": "as",
-    "publishedAt": "2026-11-24T12:45:01.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Daniel López,Joel Guerrero",
-    "transfer": null
-   },
-   {
-    "id": "9d9dfc7768a8",
-    "url": "https://as.com/futbol/videos/resumen-y-goles-del-real-madrid-vs-psv-de-la-youth-legue-f202611-v/",
-    "title": "Resumen y goles del Real Madrid vs. PSV de la Youth Legue",
-    "ko": "레알 마드리드 대 PSV 유스리그 경기 요약과 골",
-    "source": "as",
-    "publishedAt": "2026-11-24T16:57:05.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Real Madrid TV",
-    "transfer": null
-   },
-   {
-    "id": "047189dfc516",
-    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/real-madrid-psv-eindhoven-em-direto",
-    "title": "Real Madrid-PSV Eindhoven, em direto",
-    "ko": "레알 마드리드 대 PSV 라이브",
+    "id": "c3e77bbcec70",
+    "url": "https://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/antevisao-do-como-aek-nao-ha-pai-para-douvikas",
+    "title": "Antevisão do Como-AEK: Não há pai para Douvikas",
+    "ko": "코모-AEK 아테네 경기 프리뷰, 더빅스 공백",
     "source": "record",
-    "publishedAt": "2026-11-24T18:50:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "bbebb5e53529",
-    "url": "https://as.com/futbol/champions/polemica-reacciones-analisis-y-comentarios-del-real-madrid-psv-en-directo-champions-league-f202611-d/",
-    "title": "Polémica, reacciones, análisis y comentarios del Real Madrid - PSV, en directo: Champions League",
-    "ko": "레알 마드리드 대 PSV 경기 논란과 반응 정리",
-    "source": "as",
-    "publishedAt": "2026-11-24T19:35:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": "Marcos Verdasco",
-    "transfer": null
-   },
-   {
-    "id": "b8ebefdb81b7",
-    "url": "https://www.kicker.de/gueler-mit-der-hacke-valverde-schliesst-reals-geniale-kombination-ab-1274721/video#omrss",
-    "title": "Güler mit der Hacke: Valverde schließt Reals geniale Kombination ab",
-    "ko": "귈 뒤꿈치 패스, 발베르데 마무리…레알 득점 연결",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T21:13:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "아르다 귈",
-     "페데리코 발베르데"
-    ],
-    "playerTags": [
-     "federico-valverde"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fdf94ae0b40c",
-    "url": "https://www.hln.be/champions-league/multilive-plots-gaat-het-snel-kylian-mbappe-schiet-thibaut-courtois-en-co-op-3-1~abc7a0ad/",
-    "title": "MULTILIVE. Plots gaat het snel: Kylian Mbappé schiet Thibaut Courtois en co op 3-1",
-    "ko": "음바페, 쿠르투아 앞에서 득점…레알 3-1",
-    "source": "hln",
-    "publishedAt": "2026-11-24T21:19:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "킬리안 음바페",
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "kylian-mbappe",
-     "thibaut-courtois"
-    ],
-    "author": "Redactie",
-    "transfer": null
-   },
-   {
-    "id": "bed9ffea08f9",
-    "url": "https://www.kicker.de/was-macht-bellingham-da-ein-kunststueck-zur-real-fuehrung-1274728/video#omrss",
-    "title": "Was macht Bellingham da? Ein Kunststück zur Real-Führung",
-    "ko": "벨링엄의 묘기, 레알 리드 만들어",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T21:24:45.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ec23356bcc5d",
-    "url": "https://www.kicker.de/live-nach-dem-schoenen-ausgleich-grosses-pech-fuer-bellingham-1274309/artikel#omrss",
-    "title": "LIVE! Nach dem schönen Ausgleich: Großes Pech für Bellingham",
-    "ko": "벨링엄 동점 이후 불운…레알 경기 중계",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T21:25:56.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "7810b87deedd",
-    "url": "https://www.record.pt/internacional/paises/espanha/real-madrid/detalhe/trivelada-a-lembrar-quaresma-o-golaco-de-jude-bellingham-diante-do-psv",
-    "title": "Trivelada a lembrar Quaresma: o golaço de Jude Bellingham diante do PSV",
-    "ko": "벨링엄, PSV전 환상적인 골 조명",
-    "source": "record",
-    "publishedAt": "2026-11-24T21:26:17.000Z",
+    "publishedAt": "2026-11-23T19:13:09.000Z",
     "credited": null,
     "clubs": [],
     "category": "match",
     "stage": null,
     "players": [
-     "주드 벨링엄"
+     "더빅스"
     ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
+    "playerTags": [],
     "author": null,
     "transfer": null
    },
    {
-    "id": "f5d85761cd4c",
-    "url": "https://www.kicker.de/jetzt-darf-auch-mbapp-real-ueberrumpelt-psv-1274729/video#omrss",
-    "title": "Jetzt darf auch Mbappé: Real überrumpelt PSV",
-    "ko": "음바페도 득점…레알, PSV 상대로 역전",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T21:26:51.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "305791949910",
-    "url": "https://www.kicker.de/live-feinste-fussballkunst-von-bellingham-rb-faengt-sich-den-anschluss-city-meldet-sich-zurueck-1274330/artikel#omrss",
-    "title": "LIVE! Feinste Fußballkunst von Bellingham - RB fängt sich den Anschluss - City meldet sich zurück",
-    "ko": "벨링엄 환상 드리블, 레알 득점…RB 라이프치히 추격",
-    "source": "kicker",
-    "publishedAt": "2026-11-24T21:30:20.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "leipzig",
-     "man-city"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "81cae11220e2",
-    "url": "https://www.hln.be/champions-league/thibaut-courtois-en-real-madrid-walsen-dankzij-sterke-tweede-helft-over-psv-arsenal-en-dortmund-houden-elkaar-in-evenwicht~abc7a0ad/",
-    "title": "Thibaut Courtois en Real Madrid walsen dankzij sterke tweede helft over PSV - Arsenal en Dortmund houden elkaar in evenwicht",
-    "ko": "쿠르투아 선방 빛난 레알, PSV 꺾어…아스널·도르트문트는 무승부",
-    "source": "hln",
-    "publishedAt": "2026-11-24T21:51:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid",
-     "arsenal",
-     "dortmund"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Imar Vandenabeele, Joren Van Nieuwenborgh",
-    "transfer": null
-   },
-   {
-    "id": "c3ae34fc03db",
-    "url": "https://as.com/futbol/primera/hasta-que-bellingham-hizo-magia-f202611-n/",
-    "title": "Hasta que Bellingham hizo magia",
-    "ko": "벨링엄의 마법 같은 활약이 승부를 가름",
+    "id": "614baa8cf2f1",
+    "url": "https://as.com/futbol/champions/como-aek-en-directo-champions-league-hoy-en-vivo-f202611-d/",
+    "title": "Como - AEK, en directo: Champions League hoy en vivo",
+    "ko": "코모 대 AEK 아테네, 챔피언스리그 라이브 중계",
     "source": "as",
-    "publishedAt": "2026-11-24T21:52:42.000Z",
+    "publishedAt": "2026-11-24T19:40:00.000Z",
     "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
+    "clubs": [],
     "category": "match",
     "stage": null,
-    "players": [
-     "주드 벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": "Luis Nieto",
+    "players": [],
+    "playerTags": [],
+    "author": "Pablo Carretero",
     "transfer": null
    },
    {
-    "id": "cd9171001a07",
-    "url": "https://www.lequipe.fr/Football/Actualites/Avec-un-bijou-de-jude-bellingham-et-un-double-de-kylian-mbappe-le-real-madrid-fait-exploser-le-psv-en-seconde-periode-pour-poursuivre-son-sans-faute-en-ligue-des-champions/1745941#at_medium=RSS_feeds",
-    "title": "Avec un bijou de Jude Bellingham et un doublé de Kylian Mbappé, le Real Madrid fait exploser le PSV en seconde période pour poursuivre son sans-faute",
-    "ko": "벨링엄 원더골·음바페 멀티골…레알, PSV 제압하고 무패 행진",
-    "source": "lequipe",
-    "publishedAt": "2026-11-24T21:57:28.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "주드 벨링엄",
-     "킬리안 음바페"
-    ],
-    "playerTags": [
-     "kylian-mbappe",
-     "jude-bellingham"
-    ],
-    "author": "Damien Degorre",
-    "transfer": null
-   },
-   {
-    "id": "a409ee8e508f",
-    "url": "https://www.nytimes.com/athletic/7803366/2026/11/24/real-madrid-5-psv-1-briefing-bellingham-goal/",
-    "title": "Real Madrid 5 PSV 1: Magnificent Bellingham sparks comeback and scores remarkable volley",
-    "ko": null,
-    "source": "athletic",
-    "publishedAt": "2026-11-24T21:57:35.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "ddd4c4a8596a",
-    "url": "https://www.hln.be/champions-league/ik-hoop-dat-ik-er-binnenkort-nog-eens-eentje-pak-thibaut-courtois-krijgt-penalty-tegen-maar-wint-met-real-wel-vlot-van-psv~abc7a0ad/",
-    "title": "“Ik hoop dat ik er binnenkort nog eens eentje pak...”: Thibaut Courtois krijgt penalty tegen, maar wint met Real wel vlot van PSV",
-    "ko": "쿠르투아 PK 허용에도 레알, PSV 상대 여유 승리",
-    "source": "hln",
-    "publishedAt": "2026-11-24T22:40:00.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "티보 쿠르투아"
-    ],
-    "playerTags": [
-     "thibaut-courtois"
-    ],
-    "author": "Imar Vandenabeele, Joren Van Nieuwenborgh",
-    "transfer": null
-   },
-   {
-    "id": "71fdc80dd27d",
-    "url": "https://www.kicker.de/bellinghams-kunst-volley-vergoldet-schuetzenfest-real-zerlegt-psv-1274756/video#omrss",
-    "title": "Bellinghams Kunst-Volley vergoldet Schützenfest: Real zerlegt PSV",
-    "ko": "벨링엄의 발리 골 앞세운 레알, PSV 대파",
+    "id": "ffc3aedc4747",
+    "url": "https://www.kicker.de/ein-kracher-tor-reicht-como-holt-den-vierten-cl-sieg-1274760/video#omrss",
+    "title": "Ein Kracher-Tor reicht: Como holt den vierten CL-Sieg",
+    "ko": "코모, 강력한 한 골로 챔피언스리그 네 번째 승리",
     "source": "kicker",
-    "publishedAt": "2026-11-24T22:49:33.000Z",
+    "publishedAt": "2026-11-24T23:02:03.000Z",
     "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
+    "clubs": [],
     "category": "match",
     "stage": null,
-    "players": [
-     "벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
+    "players": [],
+    "playerTags": [],
     "author": null,
-    "transfer": null
-   },
-   {
-    "id": "fc83e0b605fa",
-    "url": "https://www.thesun.co.uk/sport/41139931/jude-bellingham-real-madrid-psv-champions-league/",
-    "title": "Jude Bellingham scores ‘pure filth’ volley after juggling ball as fans brand Real Madrid star ‘alien’ for goal vs PSV",
-    "ko": "벨링엄, 저거노트 발리로 PSV전 득점…팬들 '외계인' 찬사",
-    "source": "sun",
-    "publishedAt": "2026-11-24T22:50:27.000Z",
-    "credited": null,
-    "clubs": [
-     "real-madrid"
-    ],
-    "category": "match",
-    "stage": null,
-    "players": [
-     "벨링엄"
-    ],
-    "playerTags": [
-     "jude-bellingham"
-    ],
-    "author": "Rahman Osman",
     "transfer": null
    }
   ],
-  "recentSources": 7,
-  "sourceCount": 7,
-  "score": 7.7,
-  "topTier": 1,
+  "recentSources": 2,
+  "sourceCount": 3,
+  "score": 2.4,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "헤코르드",
+   "source": "record",
+   "at": "2026-11-23T19:13:09.000Z",
+   "viaQuote": false
+  },
+  "headline": "Ein Kracher-Tor reicht: Como holt den vierten CL-Sieg"
+ },
+ {
+  "slug": "scott-chelsea-transfer",
+  "mode": "llm",
+  "titleKo": "첼시 본머스 스콧 1월 영입 추진",
+  "createdAt": "2026-11-24T23:02:00.000Z",
+  "updatedAt": "2026-11-24T23:02:00.000Z",
+  "category": "transfer",
+  "stage": "interest",
+  "clubs": [
+   "chelsea",
+   "bournemouth"
+  ],
+  "players": [
+   "스콧"
+  ],
+  "sig": [
+   "scott"
+  ],
+  "articles": [
+   {
+    "id": "e0c430747291",
+    "url": "https://www.skysports.com/football/news/12040/13616238/chelsea-transfer-news-blues-will-push-to-sign-bournemouth-midfielder-alex-scott-in-january-paper-talk",
+    "title": "Papers: Chelsea will push to sign Bournemouth's Scott in January",
+    "ko": "첼시, 1월 본머스의 스콧 영입 추진 예정 보도",
+    "source": "sky",
+    "publishedAt": "2026-11-24T23:02:00.000Z",
+    "credited": null,
+    "clubs": [
+     "chelsea",
+     "bournemouth"
+    ],
+    "category": "transfer",
+    "stage": "interest",
+    "players": [
+     "스콧"
+    ],
+    "playerTags": [],
+    "author": null,
+    "transfer": {
+     "player": "스콧",
+     "from": "본머스",
+     "to": "첼시"
+    }
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 1.54,
+  "topTier": 2,
+  "stageHistory": [
+   {
+    "id": "e0c430747291",
+    "at": "2026-11-24T23:02:00.000Z",
+    "source": "sky",
+    "from": null,
+    "to": "interest"
+   }
+  ],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": {
+   "player": "스콧",
+   "from": "본머스",
+   "to": "첼시"
+  },
+  "firstReport": {
+   "name": "Sky Sports",
+   "source": "sky",
+   "at": "2026-11-24T23:02:00.000Z",
+   "viaQuote": false
+  },
+  "headline": "Papers: Chelsea will push to sign Bournemouth's Scott in January"
+ },
+ {
+  "slug": "club-brugge-liverpool-2026-11-26",
+  "mode": "llm",
+  "titleKo": "클럽 브뤼허 대 리버풀 역사적 맞대결",
+  "createdAt": "2026-11-22T11:00:00.000Z",
+  "updatedAt": "2026-11-24T23:00:00.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "club-brugge",
+   "liverpool"
+  ],
+  "players": [
+   "프레디 포츠",
+   "비르츠",
+   "버질 얀 원"
+  ],
+  "sig": [
+   "europese"
+  ],
+  "articles": [
+   {
+    "id": "56aee9281044",
+    "url": "https://www.hln.be/club-brugge/vanaf-nu-denken-we-aan-liverpool-club-brugge-maakt-zich-op-voor-historische-clash-met-europese-rivaal-uit-de-jaren-70~a77c7e28/",
+    "title": "“Vanaf nu denken we aan Liverpool”: Club Brugge maakt zich op voor historische clash met Europese rivaal uit de jaren 70",
+    "ko": "클럽 브뤼허, 70년대 유럽 라이벌과 역사적 맞대결 준비",
+    "source": "hln",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "36bc19b910d0",
+    "url": "https://www.hln.be/club-brugge/marc-degryse-kijkt-uit-naar-champions-league-duel-tussen-club-brugge-en-liverpool-dit-wordt-groter-dan-tegen-real-madrid-man-city-of-barcelona~a6348e23/",
+    "title": "Marc Degryse kijkt uit naar Champions League-duel tussen Club Brugge en Liverpool:“Dit wordt groter dan tegen Real Madrid, Man City, of Barcelona”",
+    "ko": "디그레이스 '클럽 브뤼허-리버풀, 레알·맨시티·바르셀로나전보다 클 것'",
+    "source": "hln",
+    "publishedAt": "2026-11-23T06:07:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stephan Keygnaert",
+    "transfer": null
+   },
+   {
+    "id": "02495d225995",
+    "url": "https://www.hln.be/club-brugge/dit-wordt-groter-dan-tegen-real-man-city-of-barcelona-en-of-marc-degryse-uitkijkt-naar-het-champions-league-duel-tussen-club-en-liverpool~a6348e23/",
+    "title": "“Dit wordt groter dan tegen Real, Man City, of Barcelona”: en of Marc Degryse uitkijkt naar het Champions League-duel tussen Club en Liverpool",
+    "ko": "클럽 브뤼허-리버풀 챔피언스리그 맞대결, 데그라이스 '역대급 경기' 전망",
+    "source": "hln",
+    "publishedAt": "2026-11-23T06:07:18.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Stephan Keygnaert",
+    "transfer": null
+   },
+   {
+    "id": "c5004abf4394",
+    "url": "https://www.hln.be/champions-league/honderden-vips-op-de-wachtlijst-telefoons-die-roodgloeiend-staan-en-zelfs-een-museum-brugge-loopt-storm-voor-historische-clash-met-liverpool~a2ee9d70/",
+    "title": "Honderden vips op de wachtlijst, telefoons die roodgloeiend staan en zelfs een museum: Brugge loopt storm voor historische clash met Liverpool",
+    "ko": "브뤼허, 리버풀과 역사적 맞대결 준비 열기",
+    "source": "hln",
+    "publishedAt": "2026-11-23T09:10:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Tomas Taecke",
+    "transfer": null
+   },
+   {
+    "id": "5adbdd1fd7e6",
+    "url": "https://www.hln.be/club-brugge/club-brugge-traint-laatste-keer-voor-clash-met-liverpool-om-14u-spreken-coach-ivan-leko-en-middenvelder-freddie-potts-met-pers~a77c7e28/",
+    "title": "Club Brugge traint laatste keer voor clash met Liverpool, om 14u spreken coach Ivan Leko en middenvelder Freddie Potts met pers",
+    "ko": "클럽 브뤼허, 리버풀전 앞두고 마지막 훈련 진행",
+    "source": "hln",
+    "publishedAt": "2026-11-24T10:14:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "프레디 포츠"
+    ],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "631a48f3bde9",
+    "url": "https://www.hln.be/club-brugge/met-club-brugge-iconen-julien-cools-en-georges-leekens-terug-naar-wembley-waar-ze-in-1978-europese-finale-verloren-van-liverpool-pas-nu-is-de-ontgoocheling-weg~a32e95b0/",
+    "title": "Met Club Brugge-iconen Julien Cools en Georges Leekens terug naar Wembley, waar ze in 1978 Europese finale verloren van Liverpool: “Pas nú is de ontgoocheling weg”",
+    "ko": "브뤼허 전설들, 1978 웸블리 결승 패배 회상",
+    "source": "hln",
+    "publishedAt": "2026-11-24T10:37:40.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "other",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "817d5b1955e1",
+    "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-22-man-squad-club-34958589",
+    "title": "Liverpool 22-man squad for Club Brugge confirmed as two stars missing and two more not ready yet",
+    "ko": "리버풀, 클럽 브뤼허전 22인 명단 발표…두 명 결장",
+    "source": "lecho",
+    "publishedAt": "2026-11-24T12:55:52.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Ian Doyle",
+    "transfer": null
+   },
+   {
+    "id": "5d2826c01b33",
+    "url": "https://www.hln.be/champions-league/willen-er-alles-aan-doen-om-geschiedenis-te-schrijven-ivan-leko-en-club-brugge-dromen-van-nieuwe-stunt-tegen-liverpool~a53d3a7b/",
+    "title": "“Willen er alles aan doen om geschiedenis te schrijven”: Ivan Leko en Club Brugge dromen van nieuwe stunt tegen Liverpool",
+    "ko": "레코 브뤼허, 리버풀 상대로 또 한 번의 역사 노려",
+    "source": "hln",
+    "publishedAt": "2026-11-24T13:54:02.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "230f9c34817e",
+    "url": "https://www.hln.be/club-brugge/jan-virgili-na-liesblessure-weer-in-de-kern-bij-club-we-mogen-ze-niet-onderschatten-liverpool-middenvelder-florian-wirtz-is-op-zijn-hoede-voor-club-brugge~a77c7e28/",
+    "title": "Jan Virgili na liesblessure weer in de kern bij Club - “We mogen ze niet onderschatten”: Liverpool-middenvelder Florian Wirtz is op zijn hoede voor Club Brugge",
+    "ko": "버질 연상되는 이 제목은 원문 제목 기준 아님",
+    "source": "hln",
+    "publishedAt": "2026-11-24T16:40:00.000Z",
+    "credited": null,
+    "clubs": [
+     "liverpool",
+     "club-brugge"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [
+     "비르츠",
+     "버질 얀 원"
+    ],
+    "playerTags": [
+     "florian-wirtz"
+    ],
+    "author": "Redactie",
+    "transfer": null
+   },
+   {
+    "id": "78e5601474e3",
+    "url": "https://www.hln.be/club-brugge/kiest-ivan-leko-voor-dezelfde-basiself-als-vorig-weekend-dit-zijn-de-vermoedelijke-opstellingen-van-club-brugge-en-liverpool~a77c7e28/",
+    "title": "Kiest Ivan Leko voor dezelfde basiself als vorig weekend? Dit zijn de vermoedelijke opstellingen van Club Brugge en Liverpool",
+    "ko": "클럽 브뤼허-리버풀 선발 라인업 예상",
+    "source": "hln",
+    "publishedAt": "2026-11-24T23:00:00.000Z",
+    "credited": null,
+    "clubs": [
+     "club-brugge",
+     "liverpool"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Redactie",
+    "transfer": null
+   }
+  ],
+  "recentSources": 2,
+  "sourceCount": 2,
+  "score": 0.46,
+  "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
   "playerTags": [
-   "federico-valverde",
-   "kylian-mbappe",
-   "thibaut-courtois",
-   "jude-bellingham"
+   "florian-wirtz"
   ],
   "transfer": null,
   "firstReport": {
-   "name": "레퀴프",
-   "source": "lequipe",
-   "at": "2026-11-24T07:00:00.000Z",
+   "name": "HLN",
+   "source": "hln",
+   "at": "2026-11-22T11:00:00.000Z",
    "viaQuote": false
   },
-  "headline": "Real Madrid 5 PSV 1: Magnificent Bellingham sparks comeback and scores remarkable volley"
+  "headline": "Liverpool 22-man squad for Club Brugge confirmed as two stars missing and two more not ready yet"
+ },
+ {
+  "slug": "atletico-viking-2026-11-25",
+  "mode": "llm",
+  "titleKo": "아틀레티코 대 바이킹 챔피언스리그 경기",
+  "createdAt": "2026-11-24T12:17:04.000Z",
+  "updatedAt": "2026-11-24T22:59:17.000Z",
+  "category": "match",
+  "stage": null,
+  "clubs": [
+   "atletico"
+  ],
+  "players": [],
+  "sig": [
+   "simeone",
+   "viking"
+  ],
+  "articles": [
+   {
+    "id": "f78155246873",
+    "url": "https://as.com/futbol/videos/sigue-en-directo-la-rueda-de-simeone-previa-al-partido-ante-el-viking-de-champions-league-f202611-v/",
+    "title": "Sigue en directo la rueda de Simeone previa al partido ante el Viking de Champions League",
+    "ko": "시메오네, 바이킹전 앞둔 기자회견 생중계",
+    "source": "as",
+    "publishedAt": "2026-11-24T12:17:04.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AStv",
+    "transfer": null
+   },
+   {
+    "id": "c7dd7e10490c",
+    "url": "https://as.com/futbol/simeone-mi-siguiente-record-ganar-al-viking-f202611-n/",
+    "title": "Simeone: “¿Mi siguiente récord? Ganar al Viking”",
+    "ko": "시메오네 \"다음 기록은? 바이킹전 승리\"",
+    "source": "as",
+    "publishedAt": "2026-11-24T13:10:37.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "Sergio Picos",
+    "transfer": null
+   },
+   {
+    "id": "23a332ba70e7",
+    "url": "https://as.com/futbol/champions/posible-once-del-atletico-contra-el-viking-en-champions-hoy-f202611-n/",
+    "title": "Posible once del Atlético contra el Viking en Champions hoy",
+    "ko": "아틀레티코 대 바이킹 챔피언스리그 예상 선발 라인업",
+    "source": "as",
+    "publishedAt": "2026-11-24T22:59:17.000Z",
+    "credited": null,
+    "clubs": [
+     "atletico"
+    ],
+    "category": "match",
+    "stage": null,
+    "players": [],
+    "playerTags": [],
+    "author": "AS Atlético",
+    "transfer": null
+   }
+  ],
+  "recentSources": 1,
+  "sourceCount": 1,
+  "score": 0.28,
+  "topTier": 2,
+  "stageHistory": [],
+  "stageChange": null,
+  "playerTags": [],
+  "transfer": null,
+  "firstReport": {
+   "name": "AS",
+   "source": "as",
+   "at": "2026-11-24T12:17:04.000Z",
+   "viaQuote": false
+  },
+  "headline": "Posible once del Atlético contra el Viking en Champions hoy"
  },
  {
   "slug": "psg-roma-2026-11-25",
@@ -1974,7 +2173,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.2,
+  "score": 1.01,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -2793,7 +2992,7 @@
   ],
   "recentSources": 10,
   "sourceCount": 10,
-  "score": 6.81,
+  "score": 5.79,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3182,7 +3381,7 @@
   ],
   "recentSources": 11,
   "sourceCount": 11,
-  "score": 4.14,
+  "score": 3.48,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -3270,7 +3469,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 1.72,
+  "score": 1.45,
   "topTier": 2,
   "stageHistory": [
    {
@@ -3512,7 +3711,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 4,
-  "score": 2.64,
+  "score": 2.21,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -3922,7 +4121,7 @@
   ],
   "recentSources": 9,
   "sourceCount": 10,
-  "score": 5.34,
+  "score": 4.48,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5041,7 +5240,7 @@
   ],
   "recentSources": 10,
   "sourceCount": 14,
-  "score": 4.68,
+  "score": 3.93,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -5106,7 +5305,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -5158,7 +5357,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.46,
+  "score": 1.22,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5407,7 +5606,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.77,
+  "score": 0.64,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5505,7 +5704,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 2.39,
+  "score": 2,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5615,7 +5814,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 1.21,
+  "score": 1.02,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -5676,7 +5875,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.82,
+  "score": 0.69,
   "topTier": 3,
   "stageHistory": [],
   "stageChange": null,
@@ -5852,7 +6051,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.37,
+  "score": 1.15,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -14790,7 +14989,7 @@
   ],
   "recentSources": 5,
   "sourceCount": 17,
-  "score": 1.03,
+  "score": 1.05,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -14857,7 +15056,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.31,
+  "score": 1.1,
   "topTier": 2,
   "stageHistory": [
    {
@@ -14948,7 +15147,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 1.64,
+  "score": 1.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15010,7 +15209,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.38,
+  "score": 0.32,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15128,9 +15327,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.55,
+  "score": 0.4,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15200,7 +15399,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 4,
   "stageHistory": [
    {
@@ -15279,7 +15478,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.32,
+  "score": 0.27,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -15890,7 +16089,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 9,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16091,7 +16290,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.96,
+  "score": 0.81,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -16141,7 +16340,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 1.44,
+  "score": 1.21,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16797,7 +16996,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 7,
-  "score": 1.69,
+  "score": 1.63,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -16949,7 +17148,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.92,
+  "score": 0.77,
   "topTier": 2,
   "stageHistory": [
    {
@@ -17016,7 +17215,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.27,
+  "score": 0.23,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -17119,9 +17318,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 4,
+  "recentSources": 3,
   "sourceCount": 4,
-  "score": 1.45,
+  "score": 0.9,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17190,7 +17389,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.84,
+  "score": 0.71,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17243,7 +17442,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.25,
+  "score": 0.21,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -17298,7 +17497,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.79,
+  "score": 0.66,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -17412,7 +17611,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 1.69,
+  "score": 1.41,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -17473,7 +17672,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.77,
+  "score": 0.65,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -18838,7 +19037,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 6,
-  "score": 0.27,
+  "score": 0.54,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -19219,7 +19418,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 11,
-  "score": 0.15,
+  "score": 0.13,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -19636,7 +19835,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 8,
-  "score": 0.54,
+  "score": 0.45,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -19724,7 +19923,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.21,
+  "score": 0.18,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -19871,7 +20070,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 5,
-  "score": 0.19,
+  "score": 0.16,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20066,7 +20265,7 @@
   ],
   "recentSources": 4,
   "sourceCount": 5,
-  "score": 2.08,
+  "score": 1.75,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -20252,7 +20451,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 3,
-  "score": 0.28,
+  "score": 0.23,
   "topTier": 2,
   "stageHistory": [
    {
@@ -20336,7 +20535,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.54,
+  "score": 0.46,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20405,7 +20604,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.54,
+  "score": 0.45,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20466,7 +20665,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.84,
+  "score": 0.7,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -20519,7 +20718,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.45,
+  "score": 0.38,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -22679,7 +22878,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 15,
-  "score": 0.35,
+  "score": 0.29,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -22760,7 +22959,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.44,
+  "score": 0.37,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -22862,7 +23061,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.12,
+  "score": 0.1,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -22927,7 +23126,7 @@
   ],
   "recentSources": 2,
   "sourceCount": 2,
-  "score": 0.23,
+  "score": 0.19,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -23048,9 +23247,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 5,
+  "recentSources": 2,
   "sourceCount": 5,
-  "score": 1.21,
+  "score": 0.38,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -23139,7 +23338,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.36,
+  "score": 0.3,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -23225,7 +23424,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.1,
+  "score": 0.09,
   "topTier": 4,
   "stageHistory": [
    {
@@ -23305,7 +23504,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -23374,7 +23573,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -23446,7 +23645,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 1,
-  "score": 0.1,
+  "score": 0.08,
   "topTier": 4,
   "stageHistory": [
    {
@@ -23845,9 +24044,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 2,
+  "recentSources": 1,
   "sourceCount": 7,
-  "score": 0.37,
+  "score": 0.08,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -24111,7 +24310,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 2,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -24237,7 +24436,7 @@
   ],
   "recentSources": 1,
   "sourceCount": 3,
-  "score": 0.09,
+  "score": 0.08,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -24306,9 +24505,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.29,
+  "score": 0,
   "topTier": 2,
   "stageHistory": [],
   "stageChange": null,
@@ -24366,9 +24565,9 @@
     }
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.09,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [
    {
@@ -24423,9 +24622,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 1,
-  "score": 0.08,
+  "score": 0,
   "topTier": 4,
   "stageHistory": [],
   "stageChange": null,
@@ -24669,9 +24868,9 @@
     "transfer": null
    }
   ],
-  "recentSources": 1,
+  "recentSources": 0,
   "sourceCount": 4,
-  "score": 0.28,
+  "score": 0,
   "topTier": 1,
   "stageHistory": [],
   "stageChange": null,
@@ -29570,77 +29769,6 @@
    "viaQuote": false
   },
   "headline": "Unionistas destituye a Javi Medina"
- },
- {
-  "slug": "porto-feyenoord-pyrotechnics-incident",
-  "mode": "llm",
-  "titleKo": "포르투 로테르담 폭죽 사태 징계 우려",
-  "createdAt": "2026-11-22T22:06:00.000Z",
-  "updatedAt": "2026-11-23T18:39:02.000Z",
-  "category": "other",
-  "stage": null,
-  "clubs": [
-   "porto",
-   "liverpool"
-  ],
-  "players": [],
-  "sig": [
-   "roterdão"
-  ],
-  "articles": [
-   {
-    "id": "e4b6e3a9efe6",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/sad-do-fc-porto-avisa-que-pirotecnia-em-roterdao-pode-levar-a-proibicao-de-venda-de-bilhetes-na-champions",
-    "title": "SAD do FC Porto avisa que pirotecnia em Roterdão pode levar à proibição de venda de bilhetes na Champions",
-    "ko": "포르투 SAD, 로테르담 폭죽 사태로 챔피언스리그 티켓 판매 금지 우려",
-    "source": "record",
-    "publishedAt": "2026-11-22T22:06:00.000Z",
-    "credited": null,
-    "clubs": [
-     "porto"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   },
-   {
-    "id": "07cbb38434af",
-    "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/adeptos-do-fc-porto-tambem-nao-podem-usar-pirotecnia-em-liverpool-para-estarem-em-linz-na-ultima-jornada-da-champions",
-    "title": "Adeptos do FC Porto também não podem usar pirotecnia em Liverpool para estarem em Linz na última jornada da Champions",
-    "ko": "포르투 팬, 리버풀 원정 폭죽 금지 속 린츠행 주목",
-    "source": "record",
-    "publishedAt": "2026-11-23T18:39:02.000Z",
-    "credited": null,
-    "clubs": [
-     "porto",
-     "liverpool"
-    ],
-    "category": "other",
-    "stage": null,
-    "players": [],
-    "playerTags": [],
-    "author": null,
-    "transfer": null
-   }
-  ],
-  "recentSources": 0,
-  "sourceCount": 1,
-  "score": 0,
-  "topTier": 2,
-  "stageHistory": [],
-  "stageChange": null,
-  "playerTags": [],
-  "transfer": null,
-  "firstReport": {
-   "name": "헤코르드",
-   "source": "record",
-   "at": "2026-11-22T22:06:00.000Z",
-   "viaQuote": false
-  },
-  "headline": "Adeptos do FC Porto também não podem usar pirotecnia em Liverpool para estarem em Linz na última jornada da Champions"
  },
  {
   "slug": "psg-roma-incident",

@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-24T23:31:38.170Z",
+ "updatedAt": "2026-11-25T00:32:15.178Z",
  "hot": [
   "real-madrid-psv-2026-11-25",
-  "man-city-napoli-2026-11-26",
   "arsenal-dortmund-2026-11-24",
+  "man-city-napoli-2026-11-26",
   "aston-villa-galatasaray-2026-11-25",
   "yoro-liverpool-discipline"
  ],
@@ -49,7 +49,7 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 2,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -59,7 +59,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,25 +95,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
-   "authorRate": 72
+   "added": 3,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -149,7 +149,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -161,12 +161,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 20,
+   "items": 15,
    "added": 0,
    "authorRate": 100
   },
@@ -178,8 +178,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 17,
-   "added": 3,
+   "items": 18,
+   "added": 1,
    "authorRate": 94
   },
   "star": {
@@ -191,12 +191,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -212,7 +212,7 @@
   },
   {
    "name": "프레스티아니",
-   "count": 56
+   "count": 57
   },
   {
    "name": "루카쿠",
@@ -324,8 +324,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 217,
-  "singleArticleRate": 41,
+  "recentIssues": 215,
+  "singleArticleRate": 42,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -348,20 +348,20 @@
     "count": 25
    },
    {
+    "slug": "man-city-napoli-2026-11-26",
+    "count": 22
+   },
+   {
     "slug": "can-2025-affairs-tas-verdict",
     "count": 22
    },
    {
-    "slug": "man-city-napoli-2026-11-26",
-    "count": 21
+    "slug": "real-madrid-psv-2026-11-25",
+    "count": 20
    },
    {
     "slug": "aston-villa-galatasaray-2026-11-25",
     "count": 20
-   },
-   {
-    "slug": "real-madrid-psv-2026-11-25",
-    "count": 19
    },
    {
     "slug": "brentford-everton-2026-11-22",
@@ -666,20 +666,6 @@
     },
     {
      "ko": "스테판 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 3
-    },
-    {
-     "ko": "윌리엄스바넷",
      "count": 1
     }
    ]
@@ -1169,6 +1155,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Glazers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "글레이저",
+     "count": 1
+    },
+    {
+     "ko": "글레이저 가문",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1277,8 +1277,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 465,
-   "llm": 465
+   "collected": 495,
+   "llm": 495
   }
  },
  "llmErrors": []
