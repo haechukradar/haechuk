@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-25T16:36:15.114Z",
+ "updatedAt": "2026-11-25T17:29:29.108Z",
  "hot": [
   "sterling-discipline",
+  "sabah-barcelona-2026-11-25",
   "musiala-bayern-discipline",
-  "man-city-affairs-charges",
-  "kane-injury",
-  "pochettino-man-utd-manager-future"
+  "newcastle-affairs-ownership-sale",
+  "man-city-affairs-charges"
  ],
  "days": [
   "2026-10-18",
@@ -49,8 +49,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 66,
-   "added": 1,
+   "items": 68,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -60,19 +60,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 23,
-   "added": 12,
-   "authorRate": 91
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -84,7 +84,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 16,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,25 +96,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
-   "authorRate": 72
+   "added": 1,
+   "authorRate": 70
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -126,7 +126,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 3,
+   "added": 2,
    "authorRate": 93
   },
   "waz": {
@@ -138,31 +138,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 12,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -174,30 +174,30 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 5,
-   "authorRate": 97
+   "items": 28,
+   "added": 3,
+   "authorRate": 89
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
+   "items": 7,
    "added": 2,
    "authorRate": 0
   }
@@ -292,6 +292,10 @@
    "count": 20
   },
   {
+   "name": "마누엘 노이어",
+   "count": 19
+  },
+  {
    "name": "윌 랭크셔",
    "count": 18
   },
@@ -301,10 +305,6 @@
   },
   {
    "name": "지단",
-   "count": 18
-  },
-  {
-   "name": "마누엘 노이어",
    "count": 18
   },
   {
@@ -325,20 +325,20 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 209,
+  "recentIssues": 204,
   "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 68
+    "count": 62
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 60
+    "count": 58
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 54
+    "count": 51
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
@@ -393,7 +393,7 @@
    "variants": [
     {
      "ko": "게리 네빌",
-     "count": 9
+     "count": 8
     },
     {
      "ko": "개리 네빌",
@@ -401,7 +401,7 @@
     },
     {
      "ko": "네빌",
-     "count": 3
+     "count": 2
     }
    ]
   },
@@ -472,20 +472,6 @@
    ]
   },
   {
-   "en": "Poch",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포체티노",
-     "count": 6
-    },
-    {
-     "ko": "포체",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -536,6 +522,20 @@
    ]
   },
   {
+   "en": "Poch",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포체티노",
+     "count": 5
+    },
+    {
+     "ko": "포체",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Dimas",
    "dictionary": null,
    "variants": [
@@ -545,6 +545,20 @@
     },
     {
      "ko": "딤마스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Durán",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "두란",
+     "count": 3
+    },
+    {
+     "ko": "듀란",
      "count": 1
     }
    ]
@@ -560,10 +574,6 @@
     {
      "ko": "토마스 배리",
      "count": 1
-    },
-    {
-     "ko": "티에르노 바리",
-     "count": 1
     }
    ]
   },
@@ -573,24 +583,10 @@
    "variants": [
     {
      "ko": "곤살루 하무스",
-     "count": 4
-    },
-    {
-     "ko": "곤살루 하모스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Durán",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "두란",
      "count": 3
     },
     {
-     "ko": "듀란",
+     "ko": "곤살루 하모스",
      "count": 1
     }
    ]
@@ -723,20 +719,6 @@
     },
     {
      "ko": "마르크 드그리즈",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tzolakis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "졸라키스",
-     "count": 2
-    },
-    {
-     "ko": "촐라키스",
      "count": 1
     }
    ]
@@ -1038,6 +1020,20 @@
    ]
   },
   {
+   "en": "Jhon Durán",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주안 두란",
+     "count": 1
+    },
+    {
+     "ko": "존 두란",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Zirkzee",
    "dictionary": null,
    "variants": [
@@ -1047,20 +1043,6 @@
     },
     {
      "ko": "지르클제",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "McBurnie",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥버니",
-     "count": 1
-    },
-    {
-     "ko": "맥번",
      "count": 1
     }
    ]
@@ -1089,34 +1071,6 @@
     },
     {
      "ko": "페티트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Zabiri",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "자비리",
-     "count": 1
-    },
-    {
-     "ko": "사바리",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vasco Seabra",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스쿠 세아브라",
-     "count": 1
-    },
-    {
-     "ko": "바스코 세브라",
      "count": 1
     }
    ]
@@ -1159,6 +1113,48 @@
     },
     {
      "ko": "크레이그 파운",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Simon Mignolet",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "시몬 미뇰레",
+     "count": 1
+    },
+    {
+     "ko": "시몽 미뇰레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lewis-Potter",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루이스포터",
+     "count": 1
+    },
+    {
+     "ko": "루이스 포터",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Cyril Hanouna",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "시릴 하나우나",
+     "count": 1
+    },
+    {
+     "ko": "시릴 아누나",
      "count": 1
     }
    ]
@@ -1274,8 +1270,8 @@
    "llm": 884
   },
   "2026-11-26": {
-   "collected": 118,
-   "llm": 118
+   "collected": 153,
+   "llm": 153
   }
  },
  "llmErrors": []
