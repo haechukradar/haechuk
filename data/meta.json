@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-25T15:24:30.869Z",
+ "updatedAt": "2026-11-25T16:36:15.114Z",
  "hot": [
   "sterling-discipline",
   "musiala-bayern-discipline",
-  "pochettino-man-utd-manager-future",
-  "real-madrid-barcelona-affairs-negreira",
-  "kane-injury"
+  "man-city-affairs-charges",
+  "kane-injury",
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -49,8 +49,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 67,
-   "added": 0,
+   "items": 66,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -60,19 +60,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 23,
+   "added": 12,
+   "authorRate": 91
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -84,7 +84,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 16,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,19 +96,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 9,
-   "authorRate": 78
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -120,13 +120,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 3,
    "authorRate": 93
   },
   "waz": {
@@ -144,13 +144,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,7 +162,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -174,25 +174,25 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
-   "authorRate": 100
+   "added": 5,
+   "authorRate": 97
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 4,
    "authorRate": 100
   },
   "fbinsider": {
@@ -277,7 +277,7 @@
   },
   {
    "name": "레니 요로",
-   "count": 22
+   "count": 23
   },
   {
    "name": "트레솔디",
@@ -304,6 +304,10 @@
    "count": 18
   },
   {
+   "name": "마누엘 노이어",
+   "count": 18
+  },
+  {
    "name": "무드리크",
    "count": 18
   },
@@ -318,31 +322,27 @@
   {
    "name": "데 미겔",
    "count": 17
-  },
-  {
-   "name": "구스타보 바렐라",
-   "count": 17
   }
  ],
  "issueHealth": {
-  "recentIssues": 208,
-  "singleArticleRate": 41,
+  "recentIssues": 209,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 74
+    "count": 68
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 61
+    "count": 60
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 53
+    "count": 54
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 45
+    "count": 46
    },
    {
     "slug": "can-2025-affairs-tas-verdict",
@@ -406,20 +406,6 @@
    ]
   },
   {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 9
-    },
-    {
-     "ko": "구스타부 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
@@ -433,6 +419,20 @@
     },
     {
      "ko": "캐러거",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gustavo Varela",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구스타보 바렐라",
+     "count": 8
+    },
+    {
+     "ko": "구스타부 바렐라",
      "count": 1
     }
    ]
@@ -582,24 +582,6 @@
    ]
   },
   {
-   "en": "McBurnie",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "맥번",
-     "count": 2
-    },
-    {
-     "ko": "맥번리",
-     "count": 2
-    },
-    {
-     "ko": "맥버니",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Durán",
    "dictionary": null,
    "variants": [
@@ -610,20 +592,6 @@
     {
      "ko": "듀란",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Tzolakis",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "졸라키스",
-     "count": 2
-    },
-    {
-     "ko": "촐라키스",
-     "count": 2
     }
    ]
   },
@@ -641,60 +609,6 @@
     },
     {
      "ko": "마티야스 더 리흐트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "De Ligt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "드 리흐트",
-     "count": 2
-    },
-    {
-     "ko": "더 리흐트",
-     "count": 1
-    },
-    {
-     "ko": "데 리흐트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Senne Lammens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "센 라멘스",
-     "count": 1
-    },
-    {
-     "ko": "셴 라먼스",
-     "count": 1
-    },
-    {
-     "ko": "senne lammens",
-     "count": 1
-    },
-    {
-     "ko": "람멘스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Zabiri",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "자비리",
-     "count": 3
-    },
-    {
-     "ko": "사바리",
      "count": 1
     }
    ]
@@ -731,6 +645,20 @@
     },
     {
      "ko": "호일룬",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diogo Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오구 코스타",
+     "count": 3
+    },
+    {
+     "ko": "디오고 코스타",
      "count": 1
     }
    ]
@@ -800,6 +728,20 @@
    ]
   },
   {
+   "en": "Tzolakis",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "졸라키스",
+     "count": 2
+    },
+    {
+     "ko": "촐라키스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Charles De Ketelaere",
    "dictionary": null,
    "variants": [
@@ -828,15 +770,37 @@
    ]
   },
   {
-   "en": "Njinmah",
+   "en": "De Ligt",
    "dictionary": null,
    "variants": [
     {
-     "ko": "은진마",
-     "count": 2
+     "ko": "더 리흐트",
+     "count": 1
     },
     {
-     "ko": "은점바",
+     "ko": "드 리흐트",
+     "count": 1
+    },
+    {
+     "ko": "데 리흐트",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Senne Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "센 라멘스",
+     "count": 1
+    },
+    {
+     "ko": "셴 라먼스",
+     "count": 1
+    },
+    {
+     "ko": "람멘스",
      "count": 1
     }
    ]
@@ -901,20 +865,6 @@
     },
     {
      "ko": "에므레 모르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오구 코스타",
-     "count": 2
-    },
-    {
-     "ko": "디오고 코스타",
      "count": 1
     }
    ]
@@ -1004,6 +954,20 @@
    ]
   },
   {
+   "en": "Thioune",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "틸레만",
+     "count": 1
+    },
+    {
+     "ko": "티우네",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Nick Woltemade",
    "dictionary": null,
    "variants": [
@@ -1088,6 +1052,20 @@
    ]
   },
   {
+   "en": "McBurnie",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥버니",
+     "count": 1
+    },
+    {
+     "ko": "맥번",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Pierre-Émile Höjbjerg",
    "dictionary": null,
    "variants": [
@@ -1116,6 +1094,20 @@
    ]
   },
   {
+   "en": "Zabiri",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "자비리",
+     "count": 1
+    },
+    {
+     "ko": "사바리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vasco Seabra",
    "dictionary": null,
    "variants": [
@@ -1130,34 +1122,6 @@
    ]
   },
   {
-   "en": "Oli McBurnie",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오리 맥번리",
-     "count": 1
-    },
-    {
-     "ko": "올리 맥버니",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nmecha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "은마하",
-     "count": 1
-    },
-    {
-     "ko": "은메차",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Philippe Diallo",
    "dictionary": null,
    "variants": [
@@ -1167,6 +1131,34 @@
     },
     {
      "ko": "필리프 디알로",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Jesús Owono",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오워노",
+     "count": 1
+    },
+    {
+     "ko": "헤수스 오우오노",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Craig Pawson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "크레이그 포슨",
+     "count": 1
+    },
+    {
+     "ko": "크레이그 파운",
      "count": 1
     }
    ]
@@ -1282,8 +1274,8 @@
    "llm": 884
   },
   "2026-11-26": {
-   "collected": 34,
-   "llm": 34
+   "collected": 118,
+   "llm": 118
   }
  },
  "llmErrors": []
