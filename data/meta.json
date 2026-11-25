@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-25T05:31:29.645Z",
+ "updatedAt": "2026-11-25T06:39:44.647Z",
  "hot": [
-  "yoro-liverpool-discipline",
-  "can-2025-affairs-tas-verdict",
   "arsenal-dortmund-2026-11-24",
+  "can-2025-affairs-tas-verdict",
+  "yoro-liverpool-discipline",
   "real-madrid-psv-2026-11-25",
   "losc-bayern-2026-11-25"
  ],
@@ -49,7 +49,7 @@
   "bbc": {
    "ok": true,
    "items": 68,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -59,7 +59,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -71,7 +71,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 8,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -83,7 +83,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 3,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -95,7 +95,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
@@ -107,13 +107,13 @@
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -143,25 +143,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -173,14 +173,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 18,
-   "added": 0,
-   "authorRate": 94
+   "items": 19,
+   "added": 1,
+   "authorRate": 95
   },
   "star": {
    "ok": true,
@@ -191,7 +191,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
@@ -303,6 +303,10 @@
    "count": 18
   },
   {
+   "name": "토마스 뮐러",
+   "count": 17
+  },
+  {
    "name": "로멜루 루카쿠",
    "count": 17
   },
@@ -317,23 +321,19 @@
   {
    "name": "수비멘디",
    "count": 17
-  },
-  {
-   "name": "트루빈",
-   "count": 17
   }
  ],
  "issueHealth": {
-  "recentIssues": 216,
+  "recentIssues": 213,
   "singleArticleRate": 42,
   "broad": [
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 79
+    "count": 77
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 73
+    "count": 72
    },
    {
     "slug": "yoro-liverpool-discipline",
@@ -372,16 +372,16 @@
     "count": 19
    },
    {
-    "slug": "doue-injury",
-    "count": 16
-   },
-   {
     "slug": "david-raya-injury",
     "count": 16
    },
    {
     "slug": "chelsea-manager-future",
     "count": 16
+   },
+   {
+    "slug": "doue-injury",
+    "count": 15
    }
   ]
  },
@@ -759,20 +759,6 @@
    ]
   },
   {
-   "en": "André Villas-Boas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "빌라스 보아스",
-     "count": 2
-    },
-    {
-     "ko": "빌라스보아스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Sascha Mölders",
    "dictionary": null,
    "variants": [
@@ -1059,6 +1045,20 @@
    ]
   },
   {
+   "en": "André Villas-Boas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "빌라스 보아스",
+     "count": 1
+    },
+    {
+     "ko": "빌라스보아스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Paulinho",
    "dictionary": null,
    "variants": [
@@ -1087,20 +1087,6 @@
    ]
   },
   {
-   "en": "Dries Mertens",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "드리스 메르턴스",
-     "count": 1
-    },
-    {
-     "ko": "드리스 메르텐스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Cramer",
    "dictionary": null,
    "variants": [
@@ -1124,6 +1110,20 @@
     },
     {
      "ko": "저스틴 데번니",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lamine",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "라민 야말",
+     "count": 1
+    },
+    {
+     "ko": "라민",
      "count": 1
     }
    ]
@@ -1277,8 +1277,8 @@
    "llm": 756
   },
   "2026-11-25": {
-   "collected": 547,
-   "llm": 547
+   "collected": 587,
+   "llm": 587
   }
  },
  "llmErrors": []
