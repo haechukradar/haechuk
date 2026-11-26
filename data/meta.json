@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T03:51:37.837Z",
+ "updatedAt": "2026-11-26T04:58:23.675Z",
  "hot": [
   "sporting-man-utd-2026-11-26",
   "club-brugge-liverpool-2026-11-26",
   "losc-bayern-2026-11-25",
   "psg-roma-2026-11-25",
-  "sabah-barcelona-2026-11-25"
+  "pochettino-man-utd-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -102,7 +102,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 84
   },
   "fblondon": {
@@ -114,7 +114,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -126,7 +126,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 2,
    "authorRate": 93
   },
   "waz": {
@@ -150,13 +150,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "hln": {
@@ -326,11 +326,11 @@
  ],
  "issueHealth": {
   "recentIssues": 187,
-  "singleArticleRate": 36,
+  "singleArticleRate": 35,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 56
+    "count": 57
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
@@ -378,7 +378,7 @@
    },
    {
     "slug": "liverpool-man-utd-2026-11-22",
-    "count": 18
+    "count": 17
    },
    {
     "slug": "chelsea-manager-future",
@@ -395,20 +395,6 @@
   ]
  },
  "nameReport": [
-  {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 8
-    },
-    {
-     "ko": "구스타부 바렐라",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Senne Lammens",
    "dictionary": null,
@@ -431,6 +417,24 @@
     },
     {
      "ko": "세네 람멘스",
+     "count": 1
+    },
+    {
+     "ko": "센 람멘스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gustavo Varela",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구스타보 바렐라",
+     "count": 8
+    },
+    {
+     "ko": "구스타부 바렐라",
      "count": 1
     }
    ]
@@ -520,20 +524,6 @@
    ]
   },
   {
-   "en": "Farioli",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "파리올리",
-     "count": 5
-    },
-    {
-     "ko": "파리오리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Poch",
    "dictionary": null,
    "variants": [
@@ -584,6 +574,20 @@
    ]
   },
   {
+   "en": "Farioli",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "파리올리",
+     "count": 4
+    },
+    {
+     "ko": "파리오리",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
@@ -624,6 +628,20 @@
    ]
   },
   {
+   "en": "Diogo Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오구 코스타",
+     "count": 4
+    },
+    {
+     "ko": "디오고 코스타",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
@@ -647,20 +665,6 @@
     },
     {
      "ko": "디오구 스펜서",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오구 코스타",
-     "count": 3
-    },
-    {
-     "ko": "디오고 코스타",
      "count": 1
     }
    ]
@@ -1128,6 +1132,20 @@
    ]
   },
   {
+   "en": "Ousmane Diomande",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "오스만 디오만데",
+     "count": 1
+    },
+    {
+     "ko": "우스만 디오만데",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "McInnes",
    "dictionary": null,
    "variants": [
@@ -1165,20 +1183,6 @@
     },
     {
      "ko": "조아킨 세이스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Güler",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "귈러",
-     "count": 1
-    },
-    {
-     "ko": "귈",
      "count": 1
     }
    ]
@@ -1294,8 +1298,8 @@
    "llm": 884
   },
   "2026-11-26": {
-   "collected": 524,
-   "llm": 524
+   "collected": 541,
+   "llm": 541
   }
  },
  "llmErrors": []
