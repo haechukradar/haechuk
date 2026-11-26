@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T18:33:01.662Z",
+ "updatedAt": "2026-11-26T19:46:47.372Z",
  "hot": [
-  "lammens-man-utd-discipline",
+  "besiktas-hapoel-2026-11-22",
   "joshua-kimmich-bayern-affairs-criticism",
-  "fifa-affairs-cyber-attack",
-  "fofana-chelsea-relationship",
-  "neuer-affairs-divorce-rumors"
+  "lammens-man-utd-discipline",
+  "neuer-affairs-divorce-rumors",
+  "fifa-affairs-cyber-attack"
  ],
  "days": [
   "2026-10-18",
@@ -61,7 +61,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 12,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,13 +97,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 12,
    "authorRate": 78
   },
   "fblondon": {
@@ -121,13 +121,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 93
   },
   "waz": {
@@ -149,37 +149,39 @@
    "authorRate": 100
   },
   "record": {
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 20,
+   "added": 17,
+   "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 10,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 2,
+   "items": 29,
+   "added": 4,
    "authorRate": 93
   },
   "star": {
@@ -191,13 +193,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 8,
-   "added": 2,
+   "items": 10,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -231,15 +233,15 @@
    "count": 39
   },
   {
+   "name": "노이어",
+   "count": 39
+  },
+  {
    "name": "베르나르두 실바",
    "count": 39
   },
   {
    "name": "웨인 루니",
-   "count": 38
-  },
-  {
-   "name": "노이어",
    "count": 38
   },
   {
@@ -271,12 +273,12 @@
    "count": 26
   },
   {
-   "name": "레니 요로",
+   "name": "마누엘 노이어",
    "count": 25
   },
   {
-   "name": "마누엘 노이어",
-   "count": 24
+   "name": "레니 요로",
+   "count": 25
   },
   {
    "name": "티에르노 배리",
@@ -324,8 +326,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 178,
-  "singleArticleRate": 34,
+  "recentIssues": 183,
+  "singleArticleRate": 36,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -336,11 +338,11 @@
     "count": 45
    },
    {
-    "slug": "pochettino-man-utd-manager-future",
-    "count": 42
+    "slug": "club-brugge-liverpool-2026-11-26",
+    "count": 43
    },
    {
-    "slug": "club-brugge-liverpool-2026-11-26",
+    "slug": "pochettino-man-utd-manager-future",
     "count": 42
    },
    {
@@ -357,11 +359,15 @@
    },
    {
     "slug": "man-city-napoli-2026-11-26",
-    "count": 26
+    "count": 25
    },
    {
     "slug": "real-madrid-psv-2026-11-25",
     "count": 24
+   },
+   {
+    "slug": "besiktas-hapoel-2026-11-22",
+    "count": 23
    },
    {
     "slug": "psg-roma-2026-11-25",
@@ -392,7 +398,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 15
+     "count": 14
     },
     {
      "ko": "모리뉴",
@@ -1309,8 +1315,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 172,
-   "llm": 172
+   "collected": 246,
+   "llm": 246
   }
  },
  "llmErrors": []
