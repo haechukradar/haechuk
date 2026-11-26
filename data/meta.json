@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-26T08:38:51.969Z",
+ "updatedAt": "2026-11-26T09:47:56.254Z",
  "hot": [
-  "pochettino-man-utd-manager-future",
-  "besiktas-hapoel-2026-11-22",
   "joshua-kimmich-bayern-affairs-criticism",
   "sporting-man-utd-2026-11-26",
+  "pochettino-man-utd-manager-future",
+  "besiktas-hapoel-2026-11-22",
   "club-brugge-liverpool-2026-11-26"
  ],
  "days": [
@@ -50,7 +50,7 @@
   "bbc": {
    "ok": true,
    "items": 75,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -60,7 +60,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -84,7 +84,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,14 +96,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 8,
-   "authorRate": 82
+   "added": 5,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -114,19 +114,19 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 95
   },
   "waz": {
@@ -150,7 +150,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 12,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,13 +162,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 15,
-   "added": 0,
+   "items": 16,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
@@ -179,26 +179,26 @@
   },
   "sun": {
    "ok": true,
-   "items": 23,
-   "added": 1,
+   "items": 25,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 3,
+   "items": 10,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -325,28 +325,28 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 183,
+  "recentIssues": 181,
   "singleArticleRate": 34,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 61
+    "count": 67
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 49
+    "count": 48
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
     "count": 47
    },
    {
-    "slug": "club-brugge-liverpool-2026-11-26",
+    "slug": "yoro-liverpool-discipline",
     "count": 42
    },
    {
-    "slug": "yoro-liverpool-discipline",
-    "count": 42
+    "slug": "club-brugge-liverpool-2026-11-26",
+    "count": 41
    },
    {
     "slug": "can-2025-affairs-tas-verdict",
@@ -374,7 +374,7 @@
    },
    {
     "slug": "brentford-everton-2026-11-22",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "lens-leipzig-2026-11-25",
@@ -382,10 +382,6 @@
    },
    {
     "slug": "sabah-barcelona-2026-11-25",
-    "count": 15
-   },
-   {
-    "slug": "liverpool-man-utd-2026-11-22",
     "count": 15
    },
    {
@@ -426,6 +422,10 @@
     {
      "ko": "세네 람멘스",
      "count": 1
+    },
+    {
+     "ko": "라멘스",
+     "count": 1
     }
    ]
   },
@@ -439,6 +439,32 @@
     },
     {
      "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Lammens",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "램멘스",
+     "count": 3
+    },
+    {
+     "ko": "라멘스",
+     "count": 2
+    },
+    {
+     "ko": "란스",
+     "count": 2
+    },
+    {
+     "ko": "램메스",
+     "count": 1
+    },
+    {
+     "ko": "람멘스",
      "count": 1
     }
    ]
@@ -478,6 +504,20 @@
    ]
   },
   {
+   "en": "Poch",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "포체티노",
+     "count": 6
+    },
+    {
+     "ko": "포체",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
@@ -491,34 +531,6 @@
     },
     {
      "ko": "캐러거",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 3
-    }
-   ]
-  },
-  {
-   "en": "Poch",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포체티노",
-     "count": 5
-    },
-    {
-     "ko": "포체",
      "count": 1
     }
    ]
@@ -538,24 +550,16 @@
    ]
   },
   {
-   "en": "Lammens",
+   "en": "Marco Silva",
    "dictionary": null,
    "variants": [
     {
-     "ko": "램멘스",
+     "ko": "마르코 실바",
      "count": 3
     },
     {
-     "ko": "램메스",
-     "count": 1
-    },
-    {
-     "ko": "람멘스",
-     "count": 1
-    },
-    {
-     "ko": "라멘스",
-     "count": 1
+     "ko": "마르쿠 실바",
+     "count": 3
     }
    ]
   },
@@ -890,20 +894,6 @@
    ]
   },
   {
-   "en": "Lamine",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "라민 야말",
-     "count": 1
-    },
-    {
-     "ko": "라민",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Philippe Diallo",
    "dictionary": null,
    "variants": [
@@ -1182,6 +1172,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Petit",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페티트",
+     "count": 1
+    },
+    {
+     "ko": "페티",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1294,8 +1298,8 @@
    "llm": 884
   },
   "2026-11-26": {
-   "collected": 660,
-   "llm": 660
+   "collected": 700,
+   "llm": 700
   }
  },
  "llmErrors": []
