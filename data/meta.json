@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T15:32:14.093Z",
+ "updatedAt": "2026-11-26T16:44:24.016Z",
  "hot": [
+  "joshua-kimmich-bayern-affairs-criticism",
   "fifa-affairs-cyber-attack",
-  "lammens-man-utd-discipline",
-  "man-city-affairs-charges",
-  "pochettino-man-utd-manager-future",
-  "joshua-kimmich-bayern-affairs-criticism"
+  "sporting-man-utd-2026-11-26",
+  "musiala-bayern-discipline",
+  "lammens-man-utd-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -51,7 +51,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -61,14 +61,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 27,
+   "added": 16,
+   "authorRate": 96
   },
   "athletic": {
    "ok": true,
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 9,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,14 +97,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 7,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 72
+   "added": 4,
+   "authorRate": 76
   },
   "fblondon": {
    "ok": true,
@@ -115,7 +115,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -139,31 +139,31 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -193,13 +193,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
-   "added": 2,
+   "items": 10,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -317,17 +317,17 @@
    "count": 18
   },
   {
-   "name": "지단",
+   "name": "구스타보 바렐라",
    "count": 18
   },
   {
-   "name": "무드리크",
+   "name": "지단",
    "count": 18
   }
  ],
  "issueHealth": {
-  "recentIssues": 174,
-  "singleArticleRate": 34,
+  "recentIssues": 177,
+  "singleArticleRate": 36,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -335,11 +335,11 @@
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 46
+    "count": 45
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 45
+    "count": 43
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -387,10 +387,6 @@
    },
    {
     "slug": "sabah-barcelona-2026-11-25",
-    "count": 15
-   },
-   {
-    "slug": "musiala-bayern-transfer",
     "count": 15
    }
   ]
@@ -488,7 +484,7 @@
    "variants": [
     {
      "ko": "구스타보 바렐라",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "구스타부 바렐라",
@@ -502,7 +498,7 @@
    "variants": [
     {
      "ko": "다비드 라야",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "데이비드 라야",
@@ -565,6 +561,24 @@
    ]
   },
   {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제이미 캐러거",
+     "count": 3
+    },
+    {
+     "ko": "캐러거",
+     "count": 2
+    },
+    {
+     "ko": "제이미 카라거",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Costa",
    "dictionary": null,
    "variants": [
@@ -593,19 +607,19 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
+   "en": "Keith Wyness",
    "dictionary": null,
    "variants": [
     {
-     "ko": "제이미 캐러거",
-     "count": 3
+     "ko": "키스 위니스",
+     "count": 2
     },
     {
-     "ko": "제이미 카라거",
-     "count": 1
+     "ko": "키스 와이니스",
+     "count": 2
     },
     {
-     "ko": "캐러거",
+     "ko": "키스 와이네스",
      "count": 1
     }
    ]
@@ -647,20 +661,6 @@
     {
      "ko": "디오구 스펜서",
      "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 위니스",
-     "count": 2
-    },
-    {
-     "ko": "키스 와이니스",
-     "count": 2
     }
    ]
   },
@@ -807,15 +807,19 @@
    ]
   },
   {
-   "en": "Emre Mor",
+   "en": "Jonas De Roeck",
    "dictionary": null,
    "variants": [
     {
-     "ko": "엠레 모르",
-     "count": 2
+     "ko": "조나스 더 로엑",
+     "count": 1
     },
     {
-     "ko": "에므레 모르",
+     "ko": "조나스 데 뢰크",
+     "count": 1
+    },
+    {
+     "ko": "욘스 데 로크",
      "count": 1
     }
    ]
@@ -848,6 +852,24 @@
     },
     {
      "ko": "페르민 로페스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Ayden Heaven",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에이든 헤이븐",
+     "count": 1
+    },
+    {
+     "ko": "아이던 헤븐",
+     "count": 1
+    },
+    {
+     "ko": "에이든 헤븐",
      "count": 1
     }
    ]
@@ -1053,29 +1075,15 @@
    ]
   },
   {
-   "en": "McInnes",
+   "en": "Owono",
    "dictionary": null,
    "variants": [
     {
-     "ko": "매키니스",
+     "ko": "오웅오노",
      "count": 1
     },
     {
-     "ko": "맥이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Karl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "칼",
-     "count": 1
-    },
-    {
-     "ko": "카를",
+     "ko": "오와노",
      "count": 1
     }
    ]
@@ -1118,20 +1126,6 @@
     },
     {
      "ko": "귈",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jonas De Roeck",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조나스 더 로엑",
-     "count": 1
-    },
-    {
-     "ko": "조나스 데 뢰크",
      "count": 1
     }
    ]
@@ -1188,6 +1182,20 @@
     },
     {
      "ko": "루이 말헤이루",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gary Neville",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "개리 네빌",
+     "count": 1
+    },
+    {
+     "ko": "게리 네빌",
      "count": 1
     }
    ]
@@ -1307,8 +1315,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 40,
-   "llm": 40
+   "collected": 106,
+   "llm": 106
   }
  },
  "llmErrors": []
