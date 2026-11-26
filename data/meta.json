@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T00:16:32.060Z",
+ "updatedAt": "2026-11-26T01:51:59.395Z",
  "hot": [
   "sporting-man-utd-2026-11-26",
   "club-brugge-liverpool-2026-11-26",
@@ -49,7 +49,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 72,
+   "items": 73,
    "added": 2,
    "authorRate": 0
   },
@@ -60,7 +60,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -96,13 +96,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 10,
+   "added": 0,
    "authorRate": 84
   },
   "fblondon": {
@@ -114,13 +114,13 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -150,7 +150,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 13,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -162,13 +162,13 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
    "items": 15,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -179,8 +179,8 @@
   },
   "sun": {
    "ok": true,
-   "items": 20,
-   "added": 2,
+   "items": 21,
+   "added": 1,
    "authorRate": 100
   },
   "star": {
@@ -192,12 +192,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 2,
    "added": 0,
    "authorRate": 0
   }
@@ -330,7 +330,7 @@
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 54
+    "count": 56
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
@@ -338,7 +338,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 45
+    "count": 46
    },
    {
     "slug": "yoro-liverpool-discipline",
@@ -373,12 +373,12 @@
     "count": 20
    },
    {
-    "slug": "liverpool-man-utd-2026-11-22",
+    "slug": "brentford-everton-2026-11-22",
     "count": 19
    },
    {
-    "slug": "brentford-everton-2026-11-22",
-    "count": 19
+    "slug": "liverpool-man-utd-2026-11-22",
+    "count": 18
    },
    {
     "slug": "chelsea-manager-future",
@@ -418,11 +418,11 @@
      "count": 3
     },
     {
-     "ko": "셴 람멘스",
+     "ko": "세네 라먼스",
      "count": 2
     },
     {
-     "ko": "세네 라먼스",
+     "ko": "셴 람멘스",
      "count": 2
     },
     {
@@ -472,20 +472,6 @@
    ]
   },
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 4
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 4
-    }
-   ]
-  },
-  {
    "en": "Ethan Nwaneri",
    "dictionary": null,
    "variants": [
@@ -516,6 +502,20 @@
     {
      "ko": "에단 네와네리",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 4
+    },
+    {
+     "ko": "마르쿠 실바",
+     "count": 3
     }
    ]
   },
@@ -570,15 +570,15 @@
      "count": 3
     },
     {
+     "ko": "램메스",
+     "count": 1
+    },
+    {
      "ko": "람멘스",
      "count": 1
     },
     {
      "ko": "라멘스",
-     "count": 1
-    },
-    {
-     "ko": "램메스",
      "count": 1
     }
    ]
@@ -1294,8 +1294,8 @@
    "llm": 884
   },
   "2026-11-26": {
-   "collected": 508,
-   "llm": 508
+   "collected": 515,
+   "llm": 515
   }
  },
  "llmErrors": []
