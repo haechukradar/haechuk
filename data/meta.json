@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T20:45:48.946Z",
+ "updatedAt": "2026-11-26T21:44:58.747Z",
  "hot": [
   "besiktas-hapoel-2026-11-22",
+  "besiktas-affairs-discrimination-statement",
+  "fofana-chelsea-relationship",
   "joshua-kimmich-bayern-affairs-criticism",
-  "lammens-man-utd-discipline",
-  "neuer-affairs-divorce-rumors",
-  "hearts-monaco-2026-11-26"
+  "lammens-man-utd-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -50,8 +50,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 2,
+   "items": 75,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -61,7 +61,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,7 +97,7 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
@@ -151,13 +151,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 18,
+   "added": 16,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 7,
    "authorRate": 0
   },
   "hln": {
@@ -187,19 +187,19 @@
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   }
  },
@@ -301,11 +301,11 @@
    "count": 20
   },
   {
-   "name": "누사",
-   "count": 19
+   "name": "트루빈",
+   "count": 20
   },
   {
-   "name": "트루빈",
+   "name": "누사",
    "count": 19
   },
   {
@@ -343,7 +343,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 40
+    "count": 39
    },
    {
     "slug": "can-2025-affairs-tas-verdict",
@@ -354,16 +354,16 @@
     "count": 31
    },
    {
+    "slug": "besiktas-hapoel-2026-11-22",
+    "count": 28
+   },
+   {
     "slug": "yoro-liverpool-discipline",
     "count": 28
    },
    {
     "slug": "man-city-napoli-2026-11-26",
     "count": 25
-   },
-   {
-    "slug": "besiktas-hapoel-2026-11-22",
-    "count": 24
    },
    {
     "slug": "real-madrid-psv-2026-11-25",
@@ -449,6 +449,20 @@
    ]
   },
   {
+   "en": "Marco Silva",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "마르코 실바",
+     "count": 8
+    },
+    {
+     "ko": "마르쿠 실바",
+     "count": 5
+    }
+   ]
+  },
+  {
    "en": "Lammens",
    "dictionary": null,
    "variants": [
@@ -479,26 +493,12 @@
    ]
   },
   {
-   "en": "Marco Silva",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마르코 실바",
-     "count": 5
-    },
-    {
-     "ko": "마르쿠 실바",
-     "count": 5
-    }
-   ]
-  },
-  {
    "en": "Gustavo Varela",
    "dictionary": null,
    "variants": [
     {
      "ko": "구스타보 바렐라",
-     "count": 7
+     "count": 6
     },
     {
      "ko": "구스타부 바렐라",
@@ -725,6 +725,24 @@
    ]
   },
   {
+   "en": "Ruben Amorim",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "루벤 아모림",
+     "count": 1
+    },
+    {
+     "ko": "아모림",
+     "count": 1
+    },
+    {
+     "ko": "아모링",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
@@ -752,24 +770,6 @@
     },
     {
      "ko": "누노 메스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Janelt",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "야넬트",
-     "count": 1
-    },
-    {
-     "ko": "얀텔",
-     "count": 1
-    },
-    {
-     "ko": "재닐트",
      "count": 1
     }
    ]
@@ -1055,6 +1055,20 @@
    ]
   },
   {
+   "en": "Janelt",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "야넬트",
+     "count": 1
+    },
+    {
+     "ko": "얀텔",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Simon Mignolet",
    "dictionary": null,
    "variants": [
@@ -1064,20 +1078,6 @@
     },
     {
      "ko": "시몽 미뇰레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Lewis-Potter",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이스포터",
-     "count": 1
-    },
-    {
-     "ko": "루이스 포터",
      "count": 1
     }
    ]
@@ -1323,8 +1323,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 291,
-   "llm": 291
+   "collected": 338,
+   "llm": 338
   }
  },
  "llmErrors": []
