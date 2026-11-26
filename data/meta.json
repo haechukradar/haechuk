@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T17:39:22.116Z",
+ "updatedAt": "2026-11-26T18:33:01.662Z",
  "hot": [
   "lammens-man-utd-discipline",
   "joshua-kimmich-bayern-affairs-criticism",
   "fifa-affairs-cyber-attack",
-  "sporting-man-utd-2026-11-26",
-  "musiala-bayern-discipline"
+  "fofana-chelsea-relationship",
+  "neuer-affairs-divorce-rumors"
  ],
  "days": [
   "2026-10-18",
@@ -50,8 +50,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 3,
+   "items": 76,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -73,7 +73,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,19 +97,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 3,
    "authorRate": 78
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -121,14 +121,14 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 95
+   "added": 1,
+   "authorRate": 93
   },
   "waz": {
    "ok": true,
@@ -145,14 +145,12 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
-   "ok": true,
-   "items": 20,
-   "added": 10,
-   "authorRate": 0
+   "ok": false,
+   "error": "fetch failed"
   },
   "fotomac": {
    "ok": true,
@@ -163,12 +161,12 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 19,
+   "items": 20,
    "added": 1,
    "authorRate": 100
   },
@@ -181,7 +179,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 2,
    "authorRate": 93
   },
   "star": {
@@ -193,13 +191,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 1,
+   "items": 8,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -277,15 +275,15 @@
    "count": 25
   },
   {
+   "name": "마누엘 노이어",
+   "count": 24
+  },
+  {
    "name": "티에르노 배리",
    "count": 23
   },
   {
    "name": "반 다이크",
-   "count": 22
-  },
-  {
-   "name": "마누엘 노이어",
    "count": 22
   },
   {
@@ -326,8 +324,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 179,
-  "singleArticleRate": 35,
+  "recentIssues": 178,
+  "singleArticleRate": 34,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -339,7 +337,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 43
+    "count": 42
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -355,7 +353,7 @@
    },
    {
     "slug": "yoro-liverpool-discipline",
-    "count": 29
+    "count": 28
    },
    {
     "slug": "man-city-napoli-2026-11-26",
@@ -372,10 +370,6 @@
    {
     "slug": "aston-villa-galatasaray-2026-11-25",
     "count": 21
-   },
-   {
-    "slug": "brentford-everton-2026-11-22",
-    "count": 16
    },
    {
     "slug": "sterling-discipline",
@@ -398,7 +392,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 16
+     "count": 15
     },
     {
      "ko": "모리뉴",
@@ -1315,8 +1309,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 147,
-   "llm": 147
+   "collected": 172,
+   "llm": 172
   }
  },
  "llmErrors": []
