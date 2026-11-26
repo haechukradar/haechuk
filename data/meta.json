@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T14:28:16.100Z",
+ "updatedAt": "2026-11-26T15:32:14.093Z",
  "hot": [
   "fifa-affairs-cyber-attack",
+  "lammens-man-utd-discipline",
   "man-city-affairs-charges",
   "pochettino-man-utd-manager-future",
-  "joshua-kimmich-bayern-affairs-criticism",
-  "sporting-man-utd-2026-11-26"
+  "joshua-kimmich-bayern-affairs-criticism"
  ],
  "days": [
   "2026-10-18",
@@ -44,7 +44,8 @@
   "2026-11-23",
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "feeds": {
   "bbc": {
@@ -84,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 12,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -96,31 +97,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 9,
-   "authorRate": 74
+   "added": 3,
+   "authorRate": 72
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -138,25 +139,25 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -168,7 +169,7 @@
   "stoke": {
    "ok": true,
    "items": 18,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
@@ -180,7 +181,7 @@
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 93
   },
   "star": {
@@ -197,7 +198,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 12,
+   "items": 11,
    "added": 2,
    "authorRate": 0
   }
@@ -325,7 +326,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 175,
+  "recentIssues": 174,
   "singleArticleRate": 34,
   "broad": [
    {
@@ -334,7 +335,7 @@
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 47
+    "count": 46
    },
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -370,7 +371,7 @@
    },
    {
     "slug": "aston-villa-galatasaray-2026-11-25",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "brentford-everton-2026-11-22",
@@ -401,7 +402,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 17
+     "count": 15
     },
     {
      "ko": "모리뉴",
@@ -418,12 +419,16 @@
      "count": 3
     },
     {
+     "ko": "셴 람멘스",
+     "count": 3
+    },
+    {
      "ko": "세네 라먼스",
      "count": 2
     },
     {
-     "ko": "셴 람멘스",
-     "count": 2
+     "ko": "래먼스",
+     "count": 1
     },
     {
      "ko": "세네 라멘스",
@@ -444,24 +449,6 @@
     {
      "ko": "세네 람멘스",
      "count": 1
-    },
-    {
-     "ko": "래먼스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "David Raya",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "다비드 라야",
-     "count": 10
-    },
-    {
-     "ko": "데이비드 라야",
-     "count": 1
     }
    ]
   },
@@ -469,6 +456,10 @@
    "en": "Lammens",
    "dictionary": null,
    "variants": [
+    {
+     "ko": "라멘스",
+     "count": 3
+    },
     {
      "ko": "램멘스",
      "count": 3
@@ -478,8 +469,8 @@
      "count": 2
     },
     {
-     "ko": "라멘스",
-     "count": 2
+     "ko": "래먼스",
+     "count": 1
     },
     {
      "ko": "램메스",
@@ -487,10 +478,6 @@
     },
     {
      "ko": "람멘스",
-     "count": 1
-    },
-    {
-     "ko": "래먼스",
      "count": 1
     }
    ]
@@ -505,6 +492,20 @@
     },
     {
      "ko": "구스타부 바렐라",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Raya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "다비드 라야",
+     "count": 7
+    },
+    {
+     "ko": "데이비드 라야",
      "count": 1
     }
    ]
@@ -538,19 +539,41 @@
    ]
   },
   {
-   "en": "Jamie Carragher",
+   "en": "Ethan Nwaneri",
    "dictionary": null,
    "variants": [
     {
-     "ko": "제이미 캐러거",
-     "count": 4
+     "ko": "에단 네와네리",
+     "count": 2
     },
     {
-     "ko": "제이미 카라거",
+     "ko": "에단 은와네리",
      "count": 1
     },
     {
-     "ko": "캐러거",
+     "ko": "네와네리",
+     "count": 1
+    },
+    {
+     "ko": "에단 은와니리",
+     "count": 1
+    },
+    {
+     "ko": "에승 네와니",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diogo Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오구 코스타",
+     "count": 5
+    },
+    {
+     "ko": "디오고 코스타",
      "count": 1
     }
    ]
@@ -570,27 +593,19 @@
    ]
   },
   {
-   "en": "Ethan Nwaneri",
+   "en": "Jamie Carragher",
    "dictionary": null,
    "variants": [
     {
-     "ko": "에단 은와네리",
+     "ko": "제이미 캐러거",
+     "count": 3
+    },
+    {
+     "ko": "제이미 카라거",
      "count": 1
     },
     {
-     "ko": "네와네리",
-     "count": 1
-    },
-    {
-     "ko": "에단 은와니리",
-     "count": 1
-    },
-    {
-     "ko": "에승 네와니",
-     "count": 1
-    },
-    {
-     "ko": "에단 네와네리",
+     "ko": "캐러거",
      "count": 1
     }
    ]
@@ -617,20 +632,6 @@
     },
     {
      "ko": "라스무스 회이룬트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오구 코스타",
-     "count": 4
-    },
-    {
-     "ko": "디오고 코스타",
      "count": 1
     }
    ]
@@ -702,20 +703,6 @@
     {
      "ko": "가브리 벡가",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Matte Smets",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "마테 스메츠",
-     "count": 2
-    },
-    {
-     "ko": "매테 스메츠",
-     "count": 1
     }
    ]
   },
@@ -1094,6 +1081,20 @@
    ]
   },
   {
+   "en": "Matte Smets",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "매테 스메츠",
+     "count": 1
+    },
+    {
+     "ko": "마테 스메츠",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Joaquin Seys",
    "dictionary": null,
    "variants": [
@@ -1304,6 +1305,10 @@
   "2026-11-26": {
    "collected": 914,
    "llm": 914
+  },
+  "2026-11-27": {
+   "collected": 40,
+   "llm": 40
   }
  },
  "llmErrors": []
