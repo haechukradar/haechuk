@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T19:46:47.372Z",
+ "updatedAt": "2026-11-26T20:45:48.946Z",
  "hot": [
   "besiktas-hapoel-2026-11-22",
   "joshua-kimmich-bayern-affairs-criticism",
   "lammens-man-utd-discipline",
   "neuer-affairs-divorce-rumors",
-  "fifa-affairs-cyber-attack"
+  "hearts-monaco-2026-11-26"
  ],
  "days": [
   "2026-10-18",
@@ -61,7 +61,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 12,
+   "added": 7,
    "authorRate": 100
   },
   "gazzetta": {
@@ -103,13 +103,13 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 12,
-   "authorRate": 78
+   "added": 3,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -121,7 +121,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -151,19 +151,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 17,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 10,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -175,13 +175,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 4,
+   "added": 2,
    "authorRate": 93
   },
   "star": {
@@ -199,7 +199,7 @@
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -326,7 +326,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 183,
+  "recentIssues": 185,
   "singleArticleRate": 36,
   "broad": [
    {
@@ -335,7 +335,7 @@
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 45
+    "count": 44
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -343,7 +343,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 42
+    "count": 40
    },
    {
     "slug": "can-2025-affairs-tas-verdict",
@@ -362,12 +362,12 @@
     "count": 25
    },
    {
-    "slug": "real-madrid-psv-2026-11-25",
+    "slug": "besiktas-hapoel-2026-11-22",
     "count": 24
    },
    {
-    "slug": "besiktas-hapoel-2026-11-22",
-    "count": 23
+    "slug": "real-madrid-psv-2026-11-25",
+    "count": 24
    },
    {
     "slug": "psg-roma-2026-11-25",
@@ -375,7 +375,7 @@
    },
    {
     "slug": "aston-villa-galatasaray-2026-11-25",
-    "count": 21
+    "count": 19
    },
    {
     "slug": "sterling-discipline",
@@ -479,20 +479,6 @@
    ]
   },
   {
-   "en": "Gustavo Varela",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "구스타보 바렐라",
-     "count": 9
-    },
-    {
-     "ko": "구스타부 바렐라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Marco Silva",
    "dictionary": null,
    "variants": [
@@ -502,7 +488,21 @@
     },
     {
      "ko": "마르쿠 실바",
-     "count": 3
+     "count": 5
+    }
+   ]
+  },
+  {
+   "en": "Gustavo Varela",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "구스타보 바렐라",
+     "count": 7
+    },
+    {
+     "ko": "구스타부 바렐라",
+     "count": 1
     }
    ]
   },
@@ -829,6 +829,24 @@
    ]
   },
   {
+   "en": "João Gião",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조앙 지앙",
+     "count": 1
+    },
+    {
+     "ko": "주앙 지앙",
+     "count": 1
+    },
+    {
+     "ko": "조앙 지아앙",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Fermín",
    "dictionary": null,
    "variants": [
@@ -856,6 +874,24 @@
     },
     {
      "ko": "아이던 헤븐",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Maxi Araújo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "막시 아라우호",
+     "count": 1
+    },
+    {
+     "ko": "마이 아라우호",
+     "count": 1
+    },
+    {
+     "ko": "마시 아라우주",
      "count": 1
     }
    ]
@@ -1047,20 +1083,6 @@
    ]
   },
   {
-   "en": "Cyril Hanouna",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "시릴 하나우나",
-     "count": 1
-    },
-    {
-     "ko": "시릴 아누나",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -1112,20 +1134,6 @@
     },
     {
      "ko": "귈",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "João Gião",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조앙 지앙",
-     "count": 1
-    },
-    {
-     "ko": "주앙 지앙",
      "count": 1
     }
    ]
@@ -1315,8 +1323,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 246,
-   "llm": 246
+   "collected": 291,
+   "llm": 291
   }
  },
  "llmErrors": []
