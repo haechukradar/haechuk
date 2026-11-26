@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-26T22:39:41.717Z",
+ "updatedAt": "2026-11-26T23:37:15.090Z",
  "hot": [
   "bournemouth-celta-vigo-2026-11-26",
   "besiktas-hapoel-2026-11-22",
+  "hearts-monaco-2026-11-26",
   "besiktas-affairs-discrimination-statement",
-  "fofana-chelsea-relationship",
-  "joshua-kimmich-bayern-affairs-criticism"
+  "fofana-chelsea-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -50,8 +50,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 74,
-   "added": 2,
+   "items": 68,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -61,7 +61,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 5,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,14 +97,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 82
+   "added": 6,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
@@ -115,7 +115,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -151,19 +151,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 15,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "stoke": {
@@ -175,13 +175,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 2,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
@@ -198,7 +198,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 6,
    "added": 0,
    "authorRate": 0
   }
@@ -326,7 +326,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 184,
+  "recentIssues": 183,
   "singleArticleRate": 36,
   "broad": [
    {
@@ -339,11 +339,11 @@
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 43
+    "count": 42
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 39
+    "count": 38
    },
    {
     "slug": "can-2025-affairs-tas-verdict",
@@ -497,6 +497,24 @@
    ]
   },
   {
+   "en": "Jamie Carragher",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "제이미 캐러거",
+     "count": 4
+    },
+    {
+     "ko": "캐러거",
+     "count": 2
+    },
+    {
+     "ko": "제이미 카라거",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "David Raya",
    "dictionary": null,
    "variants": [
@@ -520,24 +538,6 @@
     },
     {
      "ko": "딤마스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jamie Carragher",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "제이미 캐러거",
-     "count": 3
-    },
-    {
-     "ko": "캐러거",
-     "count": 2
-    },
-    {
-     "ko": "제이미 카라거",
      "count": 1
     }
    ]
@@ -784,24 +784,6 @@
     },
     {
      "ko": "누노 메스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vincent Mannaert",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "뱅상 마나에르트",
-     "count": 1
-    },
-    {
-     "ko": "빈센트 만네르트",
-     "count": 1
-    },
-    {
-     "ko": "빈센트 만나에르트",
      "count": 1
     }
    ]
@@ -1101,6 +1083,20 @@
    ]
   },
   {
+   "en": "Franclim Carvalho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프랭클림 카르발류",
+     "count": 1
+    },
+    {
+     "ko": "프란클림 카르발류",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Matte Smets",
    "dictionary": null,
    "variants": [
@@ -1327,8 +1323,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 371,
-   "llm": 371
+   "collected": 406,
+   "llm": 406
   }
  },
  "llmErrors": []
