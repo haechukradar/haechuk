@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-26T23:37:15.090Z",
+ "updatedAt": "2026-11-27T00:39:07.274Z",
  "hot": [
-  "bournemouth-celta-vigo-2026-11-26",
-  "besiktas-hapoel-2026-11-22",
   "hearts-monaco-2026-11-26",
   "besiktas-affairs-discrimination-statement",
+  "bournemouth-celta-vigo-2026-11-26",
+  "besiktas-hapoel-2026-11-22",
   "fofana-chelsea-relationship"
  ],
  "days": [
@@ -50,8 +50,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 0,
+   "items": 70,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -61,7 +61,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -73,7 +73,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -97,13 +97,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 2,
    "authorRate": 80
   },
   "fblondon": {
@@ -151,7 +151,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 15,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
@@ -163,25 +163,25 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 20,
+   "items": 18,
    "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 29,
-   "added": 1,
+   "added": 0,
    "authorRate": 93
   },
   "star": {
@@ -198,7 +198,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -327,7 +327,7 @@
  ],
  "issueHealth": {
   "recentIssues": 183,
-  "singleArticleRate": 36,
+  "singleArticleRate": 35,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -637,6 +637,20 @@
    ]
   },
   {
+   "en": "Durán",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "듀란",
+     "count": 3
+    },
+    {
+     "ko": "두란",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Diogo Spencer",
    "dictionary": null,
    "variants": [
@@ -720,20 +734,6 @@
     },
     {
      "ko": "덩컨 퍼거슨",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Durán",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "듀란",
-     "count": 2
-    },
-    {
-     "ko": "두란",
      "count": 1
     }
    ]
@@ -1323,8 +1323,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 406,
-   "llm": 406
+   "collected": 420,
+   "llm": 420
   }
  },
  "llmErrors": []
