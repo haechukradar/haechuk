@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T22:49:12.867Z",
+ "updatedAt": "2026-11-27T23:44:53.847Z",
  "hot": [
+  "chelsea-manager-future",
   "nottingham-forest-chelsea-2026-11-27",
   "chelsea-nottingham-forest-2026-11-27",
-  "chelsea-manager-future",
   "fofana-chelsea-relationship",
-  "arsenal-women-manager-future"
+  "gladbach-moyha-2026-11-27"
  ],
  "days": [
   "2026-10-18",
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 3,
+   "items": 76,
+   "added": 5,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 6,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,31 +98,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 7,
-   "authorRate": 88
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -146,12 +146,14 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true,
+   "items": 20,
+   "added": 9,
+   "authorRate": 0
   },
   "fotomac": {
    "ok": true,
@@ -162,7 +164,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -180,7 +182,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 6,
+   "added": 1,
    "authorRate": 93
   },
   "star": {
@@ -192,12 +194,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -320,12 +322,12 @@
    "count": 19
   },
   {
-   "name": "토마스 뮐러",
+   "name": "포파나",
    "count": 18
   }
  ],
  "issueHealth": {
-  "recentIssues": 206,
+  "recentIssues": 205,
   "singleArticleRate": 42,
   "broad": [
    {
@@ -334,7 +336,7 @@
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 39
+    "count": 38
    },
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -365,11 +367,11 @@
     "count": 21
    },
    {
-    "slug": "psg-roma-2026-11-25",
-    "count": 20
+    "slug": "joshua-kimmich-bayern-affairs-criticism",
+    "count": 19
    },
    {
-    "slug": "joshua-kimmich-bayern-affairs-criticism",
+    "slug": "psg-roma-2026-11-25",
     "count": 19
    },
    {
@@ -379,20 +381,6 @@
   ]
  },
  "nameReport": [
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 16
-    },
-    {
-     "ko": "모리뉴",
-     "count": 1
-    }
-   ]
-  },
   {
    "en": "Senne Lammens",
    "dictionary": null,
@@ -435,6 +423,20 @@
     },
     {
      "ko": "램멘스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 13
+    },
+    {
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -534,46 +536,6 @@
    ]
   },
   {
-   "en": "Rasmus Hojlund",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호이룬드",
-     "count": 1
-    },
-    {
-     "ko": "회이룬",
-     "count": 1
-    },
-    {
-     "ko": "회이룬트",
-     "count": 1
-    },
-    {
-     "ko": "호일룬",
-     "count": 1
-    },
-    {
-     "ko": "라스무스 회이룬트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Costa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오구 코스타",
-     "count": 4
-    },
-    {
-     "ko": "디오고 코스타",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Glasner",
    "dictionary": null,
    "variants": [
@@ -583,7 +545,7 @@
     },
     {
      "ko": "글래스너",
-     "count": 1
+     "count": 2
     }
    ]
   },
@@ -606,11 +568,11 @@
    "dictionary": null,
    "variants": [
     {
-     "ko": "기브스-화이트",
+     "ko": "깁스-화이트",
      "count": 2
     },
     {
-     "ko": "깁스-화이트",
+     "ko": "기브스-화이트",
      "count": 2
     },
     {
@@ -634,6 +596,28 @@
    ]
   },
   {
+   "en": "Rasmus Hojlund",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호이룬드",
+     "count": 1
+    },
+    {
+     "ko": "회이룬",
+     "count": 1
+    },
+    {
+     "ko": "회이룬트",
+     "count": 1
+    },
+    {
+     "ko": "라스무스 회이룬트",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "João Gião",
    "dictionary": null,
    "variants": [
@@ -647,6 +631,20 @@
     },
     {
      "ko": "조앙 지아앙",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Diogo Costa",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오구 코스타",
+     "count": 3
+    },
+    {
+     "ko": "디오고 코스타",
      "count": 1
     }
    ]
@@ -914,6 +912,20 @@
    ]
   },
   {
+   "en": "Mohya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "모히아",
+     "count": 2
+    },
+    {
+     "ko": "모이하",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Kahraman",
    "dictionary": null,
    "variants": [
@@ -923,6 +935,20 @@
     },
     {
      "ko": "카라만",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Igor Jesus",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "이고르 헤수스",
+     "count": 2
+    },
+    {
+     "ko": "이고르 제수스",
      "count": 1
     }
    ]
@@ -1150,34 +1176,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Höjbjerg",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회야베르",
-     "count": 1
-    },
-    {
-     "ko": "회이비에르",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Yann Sommer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "좀머",
-     "count": 1
-    },
-    {
-     "ko": "얀 조머",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1298,8 +1296,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 339,
-   "llm": 339
+   "collected": 369,
+   "llm": 369
   }
  },
  "llmErrors": []
