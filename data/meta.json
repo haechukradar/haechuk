@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T18:47:16.574Z",
+ "updatedAt": "2026-11-27T19:51:45.876Z",
  "hot": [
   "arsenal-women-manager-future",
+  "europe-stadium-clashes-incident",
   "savio-tottenham-injury",
   "bruno-fernandes-contract-20261127",
-  "musiala-bayern-injury",
-  "arsenal-man-city-2026-11-29"
+  "musiala-bayern-injury"
  ],
  "days": [
   "2026-10-18",
@@ -51,7 +51,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
+   "items": 69,
    "added": 0,
    "authorRate": 0
   },
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 8,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,14 +98,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 88
+   "added": 2,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -122,7 +122,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
@@ -152,19 +152,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 16,
+   "added": 18,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -176,14 +176,14 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 30,
-   "added": 1,
-   "authorRate": 90
+   "items": 28,
+   "added": 0,
+   "authorRate": 89
   },
   "star": {
    "ok": true,
@@ -194,13 +194,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
-   "added": 1,
+   "items": 10,
+   "added": 5,
    "authorRate": 0
   }
  },
@@ -318,17 +318,17 @@
    "count": 19
   },
   {
-   "name": "토마스 뮐러",
-   "count": 18
+   "name": "무드리크",
+   "count": 19
   },
   {
-   "name": "그라벤베르흐",
+   "name": "토마스 뮐러",
    "count": 18
   }
  ],
  "issueHealth": {
-  "recentIssues": 198,
-  "singleArticleRate": 39,
+  "recentIssues": 203,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -343,20 +343,16 @@
     "count": 32
    },
    {
-    "slug": "arsenal-dortmund-2026-11-24",
-    "count": 30
-   },
-   {
     "slug": "besiktas-hapoel-2026-11-22",
     "count": 28
    },
    {
-    "slug": "losc-bayern-2026-11-25",
+    "slug": "arsenal-dortmund-2026-11-24",
     "count": 26
    },
    {
-    "slug": "musiala-bayern-discipline",
-    "count": 22
+    "slug": "losc-bayern-2026-11-25",
+    "count": 25
    },
    {
     "slug": "psg-roma-2026-11-25",
@@ -367,11 +363,11 @@
     "count": 21
    },
    {
-    "slug": "marseille-levski-2026-11-26",
+    "slug": "musiala-bayern-discipline",
     "count": 21
    },
    {
-    "slug": "real-madrid-psv-2026-11-25",
+    "slug": "marseille-levski-2026-11-26",
     "count": 21
    },
    {
@@ -383,8 +379,8 @@
     "count": 19
    },
    {
-    "slug": "man-city-napoli-2026-11-26",
-    "count": 17
+    "slug": "real-madrid-psv-2026-11-25",
+    "count": 19
    },
    {
     "slug": "sterling-discipline",
@@ -446,6 +442,10 @@
     {
      "ko": "세네 람멘스",
      "count": 1
+    },
+    {
+     "ko": "램멘스",
+     "count": 1
     }
    ]
   },
@@ -498,29 +498,29 @@
    ]
   },
   {
-   "en": "David Raya",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "다비드 라야",
-     "count": 7
-    },
-    {
-     "ko": "데이비드 라야",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Juary",
    "dictionary": null,
    "variants": [
     {
      "ko": "주아리",
-     "count": 6
+     "count": 7
     },
     {
      "ko": "후아리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "David Raya",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "다비드 라야",
+     "count": 6
+    },
+    {
+     "ko": "데이비드 라야",
      "count": 1
     }
    ]
@@ -828,38 +828,6 @@
    ]
   },
   {
-   "en": "Petit",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페티",
-     "count": 2
-    },
-    {
-     "ko": "페티트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ayden Heaven",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에이든 헤이븐",
-     "count": 1
-    },
-    {
-     "ko": "에이든 헤븐",
-     "count": 1
-    },
-    {
-     "ko": "아이던 헤븐",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Freigang",
    "dictionary": null,
    "variants": [
@@ -1120,20 +1088,6 @@
    ]
   },
   {
-   "en": "Palhinha",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "팔리냐",
-     "count": 1
-    },
-    {
-     "ko": "팔린냐",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Stegemann",
    "dictionary": null,
    "variants": [
@@ -1162,6 +1116,20 @@
    ]
   },
   {
+   "en": "Ayden Heaven",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에이든 헤븐",
+     "count": 1
+    },
+    {
+     "ko": "아이던 헤븐",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Chevalier",
    "dictionary": null,
    "variants": [
@@ -1185,6 +1153,34 @@
     },
     {
      "ko": "시몬 마르친야크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sir Alex Ferguson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퍼거슨",
+     "count": 1
+    },
+    {
+     "ko": "알렉스 퍼거슨 경",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "André",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "앙드레",
+     "count": 1
+    },
+    {
+     "ko": "안드레",
      "count": 1
     }
    ]
@@ -1308,8 +1304,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 189,
-   "llm": 189
+   "collected": 226,
+   "llm": 226
   }
  },
  "llmErrors": []
