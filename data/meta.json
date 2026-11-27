@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T17:51:34.530Z",
+ "updatedAt": "2026-11-27T18:47:16.574Z",
  "hot": [
   "arsenal-women-manager-future",
+  "savio-tottenham-injury",
   "bruno-fernandes-contract-20261127",
   "musiala-bayern-injury",
-  "arsenal-man-city-2026-11-29",
-  "musiala-bayern-discipline"
+  "arsenal-man-city-2026-11-29"
  ],
  "days": [
   "2026-10-18",
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 77,
-   "added": 1,
+   "items": 76,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 2,
+   "added": 8,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +98,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 4,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
-   "authorRate": 86
+   "added": 4,
+   "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -122,13 +122,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -146,7 +146,7 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
@@ -170,19 +170,19 @@
   "stoke": {
    "ok": true,
    "items": 22,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 2,
+   "added": 1,
    "authorRate": 90
   },
   "star": {
@@ -194,13 +194,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 6,
-   "added": 2,
+   "items": 7,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -322,13 +322,13 @@
    "count": 18
   },
   {
-   "name": "윌 랭크셔",
+   "name": "그라벤베르흐",
    "count": 18
   }
  ],
  "issueHealth": {
-  "recentIssues": 200,
-  "singleArticleRate": 40,
+  "recentIssues": 198,
+  "singleArticleRate": 39,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -340,11 +340,11 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 34
+    "count": 32
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 31
+    "count": 30
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -384,14 +384,10 @@
    },
    {
     "slug": "man-city-napoli-2026-11-26",
-    "count": 18
+    "count": 17
    },
    {
     "slug": "sterling-discipline",
-    "count": 15
-   },
-   {
-    "slug": "can-2025-affairs-tas-verdict",
     "count": 15
    }
   ]
@@ -507,10 +503,38 @@
    "variants": [
     {
      "ko": "다비드 라야",
-     "count": 8
+     "count": 7
     },
     {
      "ko": "데이비드 라야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Juary",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주아리",
+     "count": 6
+    },
+    {
+     "ko": "후아리",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 5
+    },
+    {
+     "ko": "스테판 보슨",
      "count": 1
     }
    ]
@@ -539,20 +563,6 @@
     },
     {
      "ko": "포체",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 4
-    },
-    {
-     "ko": "스테판 보슨",
      "count": 1
     }
    ]
@@ -607,6 +617,24 @@
     },
     {
      "ko": "슬레거스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "João Gião",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주앙 지앙",
+     "count": 2
+    },
+    {
+     "ko": "조앙 지앙",
+     "count": 1
+    },
+    {
+     "ko": "조앙 지아앙",
      "count": 1
     }
    ]
@@ -672,6 +700,20 @@
     {
      "ko": "가브리 벡가",
      "count": 2
+    }
+   ]
+  },
+  {
+   "en": "Nuno Mendes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "누노 멘데스",
+     "count": 3
+    },
+    {
+     "ko": "누노 메스",
+     "count": 1
     }
    ]
   },
@@ -772,24 +814,6 @@
    ]
   },
   {
-   "en": "João Gião",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조앙 지앙",
-     "count": 1
-    },
-    {
-     "ko": "주앙 지앙",
-     "count": 1
-    },
-    {
-     "ko": "조앙 지아앙",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "McInnes",
    "dictionary": null,
    "variants": [
@@ -799,20 +823,6 @@
     },
     {
      "ko": "맥이너스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gary Neville",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "개리 네빌",
-     "count": 2
-    },
-    {
-     "ko": "게리 네빌",
      "count": 1
     }
    ]
@@ -859,20 +869,6 @@
     },
     {
      "ko": "프레이강",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nuno Mendes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "누노 멘데스",
-     "count": 2
-    },
-    {
-     "ko": "누노 메스",
      "count": 1
     }
    ]
@@ -1054,6 +1050,20 @@
    ]
   },
   {
+   "en": "Gakpo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "가크포",
+     "count": 1
+    },
+    {
+     "ko": "각포",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gimenez",
    "dictionary": null,
    "variants": [
@@ -1119,20 +1129,6 @@
     },
     {
      "ko": "팔린냐",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Cody Gakpo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "코디 각포",
-     "count": 1
-    },
-    {
-     "ko": "가크포",
      "count": 1
     }
    ]
@@ -1312,8 +1308,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 147,
-   "llm": 147
+   "collected": 189,
+   "llm": 189
   }
  },
  "llmErrors": []
