@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T03:09:06.537Z",
+ "updatedAt": "2026-11-27T04:17:47.912Z",
  "hot": [
   "hearts-monaco-2026-11-26",
   "besiktas-affairs-discrimination-statement",
@@ -61,7 +61,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -151,13 +151,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 1,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 5,
    "authorRate": 0
   },
   "hln": {
@@ -326,12 +326,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 184,
+  "recentIssues": 183,
   "singleArticleRate": 35,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 66
+    "count": 65
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -529,20 +529,6 @@
    ]
   },
   {
-   "en": "Dimas",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디마스",
-     "count": 5
-    },
-    {
-     "ko": "딤마스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Diogo Costa",
    "dictionary": null,
    "variants": [
@@ -566,6 +552,20 @@
     },
     {
      "ko": "포체",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Dimas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디마스",
+     "count": 4
+    },
+    {
+     "ko": "딤마스",
      "count": 1
     }
    ]
@@ -1323,8 +1323,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 428,
-   "llm": 428
+   "collected": 434,
+   "llm": 434
   }
  },
  "llmErrors": []
