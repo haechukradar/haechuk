@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T21:48:04.558Z",
+ "updatedAt": "2026-11-27T22:49:12.867Z",
  "hot": [
-  "fofana-chelsea-relationship",
   "nottingham-forest-chelsea-2026-11-27",
-  "arsenal-women-manager-future",
-  "savio-tottenham-injury",
-  "europe-stadium-clashes-incident"
+  "chelsea-nottingham-forest-2026-11-27",
+  "chelsea-manager-future",
+  "fofana-chelsea-relationship",
+  "arsenal-women-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -51,7 +51,7 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 72,
+   "items": 75,
    "added": 3,
    "authorRate": 0
   },
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 7,
    "authorRate": 0
   },
   "espn": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 6,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,37 +98,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 7,
    "authorRate": 88
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -146,14 +146,12 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "record": {
-   "ok": true,
-   "items": 20,
-   "added": 6,
-   "authorRate": 0
+   "ok": false,
+   "error": "fetch failed"
   },
   "fotomac": {
    "ok": true,
@@ -182,7 +180,7 @@
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 2,
+   "added": 6,
    "authorRate": 93
   },
   "star": {
@@ -199,8 +197,8 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
-   "added": 1,
+   "items": 7,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -239,7 +237,7 @@
   },
   {
    "name": "다비드 라야",
-   "count": 40
+   "count": 41
   },
   {
    "name": "맥스 다우먼",
@@ -327,7 +325,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 204,
+  "recentIssues": 206,
   "singleArticleRate": 42,
   "broad": [
    {
@@ -340,7 +338,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 32
+    "count": 33
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -348,11 +346,11 @@
    },
    {
     "slug": "losc-bayern-2026-11-25",
-    "count": 24
+    "count": 23
    },
    {
-    "slug": "arsenal-dortmund-2026-11-24",
-    "count": 24
+    "slug": "arsenal-man-city-2026-11-29",
+    "count": 22
    },
    {
     "slug": "man-city-affairs-charges",
@@ -363,16 +361,12 @@
     "count": 22
    },
    {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 21
-   },
-   {
     "slug": "marseille-levski-2026-11-26",
     "count": 21
    },
    {
     "slug": "psg-roma-2026-11-25",
-    "count": 21
+    "count": 20
    },
    {
     "slug": "joshua-kimmich-bayern-affairs-criticism",
@@ -391,7 +385,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 18
+     "count": 16
     },
     {
      "ko": "모리뉴",
@@ -540,20 +534,6 @@
    ]
   },
   {
-   "en": "Poch",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "포체티노",
-     "count": 5
-    },
-    {
-     "ko": "포체",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Rasmus Hojlund",
    "dictionary": null,
    "variants": [
@@ -594,6 +574,20 @@
    ]
   },
   {
+   "en": "Glasner",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "글라스너",
+     "count": 4
+    },
+    {
+     "ko": "글래스너",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Victor Munoz",
    "dictionary": null,
    "variants": [
@@ -603,6 +597,24 @@
     },
     {
      "ko": "비토르 무뇨스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Gibbs-White",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "기브스-화이트",
+     "count": 2
+    },
+    {
+     "ko": "깁스-화이트",
+     "count": 2
+    },
+    {
+     "ko": "기브스화이트",
      "count": 1
     }
    ]
@@ -676,20 +688,6 @@
    ]
   },
   {
-   "en": "Glasner",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "글라스너",
-     "count": 3
-    },
-    {
-     "ko": "글래스너",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gabri Veiga",
    "dictionary": null,
    "variants": [
@@ -746,6 +744,20 @@
    ]
   },
   {
+   "en": "Honorat",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호나트",
+     "count": 3
+    },
+    {
+     "ko": "호니어",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Matte Smets",
    "dictionary": null,
    "variants": [
@@ -791,24 +803,6 @@
     },
     {
      "ko": "욘스 데 로크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Florian Thauvin",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "토뱅",
-     "count": 1
-    },
-    {
-     "ko": "플로탕",
-     "count": 1
-    },
-    {
-     "ko": "플로리앙 토뱅",
      "count": 1
     }
    ]
@@ -934,6 +928,20 @@
    ]
   },
   {
+   "en": "Franck Haise",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프랑크 아이즈",
+     "count": 2
+    },
+    {
+     "ko": "프랭크 아이즈",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -1041,20 +1049,6 @@
     },
     {
      "ko": "각포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gimenez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "김센",
-     "count": 1
-    },
-    {
-     "ko": "히메네스",
      "count": 1
     }
    ]
@@ -1304,8 +1298,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 296,
-   "llm": 296
+   "collected": 339,
+   "llm": 339
   }
  },
  "llmErrors": []
