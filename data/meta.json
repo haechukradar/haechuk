@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T14:46:22.623Z",
+ "updatedAt": "2026-11-27T15:52:06.490Z",
  "hot": [
-  "bruno-fernandes-contract-20261127",
   "arsenal-man-city-2026-11-29",
+  "bruno-fernandes-contract-20261127",
+  "arsenal-women-manager-future",
   "musiala-bayern-discipline",
-  "marseille-levski-2026-11-26",
-  "neuer-affairs-social-media-backlash"
+  "marseille-affairs-levski-incidents"
  ],
  "days": [
   "2026-10-18",
@@ -45,13 +45,14 @@
   "2026-11-24",
   "2026-11-25",
   "2026-11-26",
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
    "items": 75,
-   "added": 4,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -61,19 +62,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 27,
+   "added": 10,
+   "authorRate": 93
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -85,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 10,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,38 +98,38 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 84
+   "added": 7,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 5,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 2,
-   "authorRate": 90
+   "added": 1,
+   "authorRate": 88
   },
   "waz": {
    "ok": true,
@@ -139,7 +140,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -151,55 +152,55 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 20,
-   "added": 0,
+   "items": 21,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 29,
-   "added": 4,
+   "items": 30,
+   "added": 5,
    "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 13,
-   "added": 5,
+   "items": 11,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -237,11 +238,11 @@
    "count": 40
   },
   {
-   "name": "맥스 다우먼",
-   "count": 39
+   "name": "다비드 라야",
+   "count": 40
   },
   {
-   "name": "다비드 라야",
+   "name": "맥스 다우먼",
    "count": 39
   },
   {
@@ -285,15 +286,19 @@
    "count": 23
   },
   {
+   "name": "니코 파스",
+   "count": 23
+  },
+  {
    "name": "반 다이크",
    "count": 22
   },
   {
-   "name": "니코 파스",
-   "count": 22
+   "name": "트레솔디",
+   "count": 21
   },
   {
-   "name": "트레솔디",
+   "name": "루카 윌리엄스-바넷",
    "count": 21
   },
   {
@@ -302,10 +307,6 @@
   },
   {
    "name": "트루빈",
-   "count": 20
-  },
-  {
-   "name": "루카 윌리엄스-바넷",
    "count": 20
   },
   {
@@ -326,12 +327,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 192,
-  "singleArticleRate": 38,
+  "recentIssues": 197,
+  "singleArticleRate": 37,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 62
+    "count": 61
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -339,7 +340,7 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 34
+    "count": 36
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
@@ -351,15 +352,11 @@
    },
    {
     "slug": "losc-bayern-2026-11-25",
-    "count": 27
-   },
-   {
-    "slug": "yoro-liverpool-discipline",
     "count": 26
    },
    {
-    "slug": "can-2025-affairs-tas-verdict",
-    "count": 24
+    "slug": "musiala-bayern-discipline",
+    "count": 22
    },
    {
     "slug": "psg-roma-2026-11-25",
@@ -374,28 +371,32 @@
     "count": 21
    },
    {
-    "slug": "musiala-bayern-discipline",
-    "count": 21
+    "slug": "arsenal-man-city-2026-11-29",
+    "count": 20
+   },
+   {
+    "slug": "yoro-liverpool-discipline",
+    "count": 20
    },
    {
     "slug": "man-city-napoli-2026-11-26",
     "count": 20
    },
    {
+    "slug": "can-2025-affairs-tas-verdict",
+    "count": 20
+   },
+   {
+    "slug": "joshua-kimmich-bayern-affairs-criticism",
+    "count": 19
+   },
+   {
     "slug": "man-city-affairs-charges",
     "count": 19
    },
    {
-    "slug": "joshua-kimmich-bayern-affairs-criticism",
-    "count": 18
-   },
-   {
     "slug": "aston-villa-galatasaray-2026-11-25",
     "count": 17
-   },
-   {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 16
    },
    {
     "slug": "sterling-discipline",
@@ -410,7 +411,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 15
+     "count": 17
     },
     {
      "ko": "모리뉴",
@@ -510,7 +511,7 @@
    "variants": [
     {
      "ko": "다비드 라야",
-     "count": 7
+     "count": 8
     },
     {
      "ko": "데이비드 라야",
@@ -587,6 +588,20 @@
    ]
   },
   {
+   "en": "Victor Munoz",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "빅토르 무뇨스",
+     "count": 4
+    },
+    {
+     "ko": "비토르 무뇨스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vasco Seabra",
    "dictionary": null,
    "variants": [
@@ -599,11 +614,11 @@
      "count": 1
     },
     {
-     "ko": "바스쿠 세브라",
+     "ko": "바스쿠 시브라",
      "count": 1
     },
     {
-     "ko": "바스쿠 시브라",
+     "ko": "바스쿠 세브라",
      "count": 1
     }
    ]
@@ -637,20 +652,6 @@
    ]
   },
   {
-   "en": "Victor Munoz",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "빅토르 무뇨스",
-     "count": 3
-    },
-    {
-     "ko": "비토르 무뇨스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Borja Sainz",
    "dictionary": null,
    "variants": [
@@ -674,6 +675,20 @@
     },
     {
      "ko": "잉바르 요나손",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Slegers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "슬레허스",
+     "count": 3
+    },
+    {
+     "ko": "슬레거스",
      "count": 1
     }
    ]
@@ -834,24 +849,6 @@
     },
     {
      "ko": "윌리엄스바넷",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Maxi Araújo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "막시 아라우호",
-     "count": 1
-    },
-    {
-     "ko": "마이 아라우호",
-     "count": 1
-    },
-    {
-     "ko": "마시 아라우주",
      "count": 1
     }
    ]
@@ -1159,29 +1156,15 @@
    ]
   },
   {
-   "en": "Eberl",
+   "en": "Maxi Araujo",
    "dictionary": null,
    "variants": [
     {
-     "ko": "에베를",
+     "ko": "마이 아라우호",
      "count": 1
     },
     {
-     "ko": "에벌",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Antonio Rudiger",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니오 뤼디거",
-     "count": 1
-    },
-    {
-     "ko": "안토니우 뤼디거",
+     "ko": "마시 아라우주",
      "count": 1
     }
    ]
@@ -1196,6 +1179,20 @@
     },
     {
      "ko": "쉬발리에",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Szymon Marciniak",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "시몬 마르치니아크",
+     "count": 1
+    },
+    {
+     "ko": "시몬 마르친야크",
      "count": 1
     }
    ]
@@ -1317,6 +1314,10 @@
   "2026-11-27": {
    "collected": 821,
    "llm": 821
+  },
+  "2026-11-28": {
+   "collected": 65,
+   "llm": 65
   }
  },
  "llmErrors": []
