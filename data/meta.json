@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T19:51:45.876Z",
+ "updatedAt": "2026-11-27T20:47:12.649Z",
  "hot": [
   "arsenal-women-manager-future",
+  "nottingham-forest-chelsea-2026-11-27",
   "europe-stadium-clashes-incident",
   "savio-tottenham-injury",
-  "bruno-fernandes-contract-20261127",
-  "musiala-bayern-injury"
+  "bruno-fernandes-contract-20261127"
  ],
  "days": [
   "2026-10-18",
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
@@ -85,8 +85,8 @@
   },
   "as": {
    "ok": true,
-   "items": 51,
-   "added": 1,
+   "items": 50,
+   "added": 4,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +98,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 5,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "men": {
@@ -146,13 +146,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 18,
+   "added": 13,
    "authorRate": 0
   },
   "fotomac": {
@@ -164,7 +164,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -176,13 +176,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 0,
+   "added": 3,
    "authorRate": 89
   },
   "star": {
@@ -194,13 +194,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -327,12 +327,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 203,
+  "recentIssues": 204,
   "singleArticleRate": 41,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 61
+    "count": 59
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -347,16 +347,12 @@
     "count": 28
    },
    {
-    "slug": "arsenal-dortmund-2026-11-24",
-    "count": 26
-   },
-   {
     "slug": "losc-bayern-2026-11-25",
-    "count": 25
+    "count": 24
    },
    {
-    "slug": "psg-roma-2026-11-25",
-    "count": 22
+    "slug": "arsenal-dortmund-2026-11-24",
+    "count": 24
    },
    {
     "slug": "man-city-affairs-charges",
@@ -368,6 +364,10 @@
    },
    {
     "slug": "marseille-levski-2026-11-26",
+    "count": 21
+   },
+   {
+    "slug": "psg-roma-2026-11-25",
     "count": 21
    },
    {
@@ -498,20 +498,6 @@
    ]
   },
   {
-   "en": "Juary",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "주아리",
-     "count": 7
-    },
-    {
-     "ko": "후아리",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "David Raya",
    "dictionary": null,
    "variants": [
@@ -521,6 +507,24 @@
     },
     {
      "ko": "데이비드 라야",
+     "count": 1
+    },
+    {
+     "ko": "라야",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Juary",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "주아리",
+     "count": 7
+    },
+    {
+     "ko": "후아리",
      "count": 1
     }
    ]
@@ -1018,6 +1022,20 @@
    ]
   },
   {
+   "en": "Ethan Mbappe",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에탄 음바페",
+     "count": 1
+    },
+    {
+     "ko": "에탕 음바페",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Gakpo",
    "dictionary": null,
    "variants": [
@@ -1055,34 +1073,6 @@
     },
     {
      "ko": "페르민 로페스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rui Malheiro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "루이 말레이루",
-     "count": 1
-    },
-    {
-     "ko": "루이 말헤이루",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Dolores Aveiro",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "돌로레스 아베이루",
-     "count": 1
-    },
-    {
-     "ko": "도로레스 아베이루",
      "count": 1
     }
    ]
@@ -1181,6 +1171,20 @@
     },
     {
      "ko": "안드레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Van der Gaag",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 데르 가흐",
+     "count": 1
+    },
+    {
+     "ko": "반 데르 가그",
      "count": 1
     }
    ]
@@ -1304,8 +1308,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 226,
-   "llm": 226
+   "collected": 264,
+   "llm": 264
   }
  },
  "llmErrors": []
