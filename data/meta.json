@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T16:57:27.004Z",
+ "updatedAt": "2026-11-27T17:51:34.530Z",
  "hot": [
   "arsenal-women-manager-future",
-  "arsenal-man-city-2026-11-29",
   "bruno-fernandes-contract-20261127",
-  "musiala-bayern-discipline",
-  "marseille-affairs-levski-incidents"
+  "musiala-bayern-injury",
+  "arsenal-man-city-2026-11-29",
+  "musiala-bayern-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 2,
+   "items": 77,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "espn": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,14 +98,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 3,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 82
+   "added": 7,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -122,13 +122,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
+   "added": 1,
    "authorRate": 88
   },
   "waz": {
@@ -146,43 +146,43 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 10,
+   "added": 16,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
    "ok": true,
-   "items": 21,
-   "added": 0,
+   "items": 22,
+   "added": 1,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 2,
    "authorRate": 90
   },
   "star": {
@@ -194,12 +194,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 7,
+   "items": 6,
    "added": 2,
    "authorRate": 0
   }
@@ -235,7 +235,7 @@
   },
   {
    "name": "베르나르두 실바",
-   "count": 40
+   "count": 41
   },
   {
    "name": "다비드 라야",
@@ -279,14 +279,14 @@
   },
   {
    "name": "레니 요로",
-   "count": 25
-  },
-  {
-   "name": "티에르노 배리",
-   "count": 23
+   "count": 26
   },
   {
    "name": "니코 파스",
+   "count": 24
+  },
+  {
+   "name": "티에르노 배리",
    "count": 23
   },
   {
@@ -298,6 +298,10 @@
    "count": 21
   },
   {
+   "name": "트루빈",
+   "count": 21
+  },
+  {
    "name": "루카 윌리엄스-바넷",
    "count": 21
   },
@@ -306,15 +310,11 @@
    "count": 20
   },
   {
-   "name": "트루빈",
+   "name": "지단",
    "count": 20
   },
   {
    "name": "누사",
-   "count": 19
-  },
-  {
-   "name": "지단",
    "count": 19
   },
   {
@@ -340,11 +340,11 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 35
+    "count": 34
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 33
+    "count": 31
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -363,16 +363,16 @@
     "count": 22
    },
    {
+    "slug": "man-city-affairs-charges",
+    "count": 21
+   },
+   {
     "slug": "marseille-levski-2026-11-26",
     "count": 21
    },
    {
     "slug": "real-madrid-psv-2026-11-25",
     "count": 21
-   },
-   {
-    "slug": "man-city-affairs-charges",
-    "count": 20
    },
    {
     "slug": "arsenal-man-city-2026-11-29",
@@ -384,11 +384,7 @@
    },
    {
     "slug": "man-city-napoli-2026-11-26",
-    "count": 19
-   },
-   {
-    "slug": "yoro-liverpool-discipline",
-    "count": 17
+    "count": 18
    },
    {
     "slug": "sterling-discipline",
@@ -407,7 +403,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 17
+     "count": 18
     },
     {
      "ko": "모리뉴",
@@ -468,6 +464,10 @@
     {
      "ko": "마르쿠 실바",
      "count": 5
+    },
+    {
+     "ko": "마르코 시우바",
+     "count": 1
     }
    ]
   },
@@ -544,6 +544,20 @@
    ]
   },
   {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 4
+    },
+    {
+     "ko": "스테판 보슨",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rasmus Hojlund",
    "dictionary": null,
    "variants": [
@@ -565,20 +579,6 @@
     },
     {
      "ko": "라스무스 회이룬트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 4
-    },
-    {
-     "ko": "키스 와이네스",
      "count": 1
     }
    ]
@@ -607,6 +607,20 @@
     },
     {
      "ko": "슬레거스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 3
+    },
+    {
+     "ko": "키스 와이네스",
      "count": 1
     }
    ]
@@ -1012,6 +1026,20 @@
    ]
   },
   {
+   "en": "Jorge Simão",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "조르즈 시마웅",
+     "count": 1
+    },
+    {
+     "ko": "조르지 시망",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Fresneda",
    "dictionary": null,
    "variants": [
@@ -1110,15 +1138,15 @@
    ]
   },
   {
-   "en": "Timber",
+   "en": "Stefan Stegemann",
    "dictionary": null,
    "variants": [
     {
-     "ko": "팀버",
+     "ko": "슈테판 슈테게만",
      "count": 1
     },
     {
-     "ko": "티임버",
+     "ko": "슈테판 슈테겐만",
      "count": 1
     }
    ]
@@ -1161,34 +1189,6 @@
     },
     {
      "ko": "시몬 마르친야크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sir Alex Ferguson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퍼거슨",
-     "count": 1
-    },
-    {
-     "ko": "알렉스 퍼거슨 경",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Van der Gaag",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "반 데르 가흐",
-     "count": 1
-    },
-    {
-     "ko": "반 데르 가그",
      "count": 1
     }
    ]
@@ -1312,8 +1312,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 106,
-   "llm": 106
+   "collected": 147,
+   "llm": 147
   }
  },
  "llmErrors": []
