@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-27T15:52:06.490Z",
+ "updatedAt": "2026-11-27T16:57:27.004Z",
  "hot": [
+  "arsenal-women-manager-future",
   "arsenal-man-city-2026-11-29",
   "bruno-fernandes-contract-20261127",
-  "arsenal-women-manager-future",
   "musiala-bayern-discipline",
   "marseille-affairs-levski-incidents"
  ],
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 75,
-   "added": 1,
+   "items": 76,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -62,14 +62,14 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 27,
-   "added": 10,
-   "authorRate": 93
+   "items": 0,
+   "added": 0,
+   "authorRate": 0
   },
   "athletic": {
    "ok": true,
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 51,
-   "added": 10,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,37 +98,37 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 8,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 3,
    "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 88
   },
   "waz": {
@@ -140,19 +140,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 10,
    "authorRate": 0
   },
   "fotomac": {
@@ -170,36 +170,36 @@
   "stoke": {
    "ok": true,
    "items": 21,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 30,
-   "added": 5,
+   "added": 3,
    "authorRate": 90
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 11,
+   "items": 7,
    "added": 2,
    "authorRate": 0
   }
@@ -327,8 +327,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 197,
-  "singleArticleRate": 37,
+  "recentIssues": 200,
+  "singleArticleRate": 40,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -336,15 +336,15 @@
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 40
+    "count": 39
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 36
+    "count": 35
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 34
+    "count": 33
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -363,27 +363,19 @@
     "count": 22
    },
    {
-    "slug": "real-madrid-psv-2026-11-25",
-    "count": 22
-   },
-   {
     "slug": "marseille-levski-2026-11-26",
     "count": 21
    },
    {
+    "slug": "real-madrid-psv-2026-11-25",
+    "count": 21
+   },
+   {
+    "slug": "man-city-affairs-charges",
+    "count": 20
+   },
+   {
     "slug": "arsenal-man-city-2026-11-29",
-    "count": 20
-   },
-   {
-    "slug": "yoro-liverpool-discipline",
-    "count": 20
-   },
-   {
-    "slug": "man-city-napoli-2026-11-26",
-    "count": 20
-   },
-   {
-    "slug": "can-2025-affairs-tas-verdict",
     "count": 20
    },
    {
@@ -391,15 +383,19 @@
     "count": 19
    },
    {
-    "slug": "man-city-affairs-charges",
+    "slug": "man-city-napoli-2026-11-26",
     "count": 19
    },
    {
-    "slug": "aston-villa-galatasaray-2026-11-25",
+    "slug": "yoro-liverpool-discipline",
     "count": 17
    },
    {
     "slug": "sterling-discipline",
+    "count": 15
+   },
+   {
+    "slug": "can-2025-affairs-tas-verdict",
     "count": 15
    }
   ]
@@ -602,6 +598,20 @@
    ]
   },
   {
+   "en": "Slegers",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "슬레허스",
+     "count": 4
+    },
+    {
+     "ko": "슬레거스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Vasco Seabra",
    "dictionary": null,
    "variants": [
@@ -680,15 +690,19 @@
    ]
   },
   {
-   "en": "Slegers",
+   "en": "Matte Smets",
    "dictionary": null,
    "variants": [
     {
-     "ko": "슬레허스",
-     "count": 3
+     "ko": "매테 스메츠",
+     "count": 1
     },
     {
-     "ko": "슬레거스",
+     "ko": "마테 스메츠",
+     "count": 1
+    },
+    {
+     "ko": "매튜 스메츠",
      "count": 1
     }
    ]
@@ -776,20 +790,6 @@
    ]
   },
   {
-   "en": "Fermín",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르민",
-     "count": 2
-    },
-    {
-     "ko": "페르민 로페스",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gary Neville",
    "dictionary": null,
    "variants": [
@@ -799,6 +799,20 @@
     },
     {
      "ko": "게리 네빌",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Petit",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페티",
+     "count": 2
+    },
+    {
+     "ko": "페티트",
      "count": 1
     }
    ]
@@ -817,38 +831,6 @@
     },
     {
      "ko": "아이던 헤븐",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Cody Gakpo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "코디 각포",
-     "count": 1
-    },
-    {
-     "ko": "각포",
-     "count": 1
-    },
-    {
-     "ko": "가크포",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Williams-Barnett",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "윌리엄스-바넷",
-     "count": 2
-    },
-    {
-     "ko": "윌리엄스바넷",
      "count": 1
     }
    ]
@@ -988,20 +970,6 @@
    ]
   },
   {
-   "en": "Matte Smets",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "매테 스메츠",
-     "count": 1
-    },
-    {
-     "ko": "마테 스메츠",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
@@ -1072,6 +1040,20 @@
    ]
   },
   {
+   "en": "Fermín",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르민",
+     "count": 1
+    },
+    {
+     "ko": "페르민 로페스",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Rui Malheiro",
    "dictionary": null,
    "variants": [
@@ -1100,20 +1082,6 @@
    ]
   },
   {
-   "en": "Petit",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페티트",
-     "count": 1
-    },
-    {
-     "ko": "페티",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Palhinha",
    "dictionary": null,
    "variants": [
@@ -1128,6 +1096,20 @@
    ]
   },
   {
+   "en": "Cody Gakpo",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "코디 각포",
+     "count": 1
+    },
+    {
+     "ko": "가크포",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Timber",
    "dictionary": null,
    "variants": [
@@ -1137,20 +1119,6 @@
     },
     {
      "ko": "티임버",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jan Virgili",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "얀 비르길리",
-     "count": 1
-    },
-    {
-     "ko": "잔 버질리",
      "count": 1
     }
    ]
@@ -1193,6 +1161,34 @@
     },
     {
      "ko": "시몬 마르친야크",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Sir Alex Ferguson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퍼거슨",
+     "count": 1
+    },
+    {
+     "ko": "알렉스 퍼거슨 경",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Van der Gaag",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "반 데르 가흐",
+     "count": 1
+    },
+    {
+     "ko": "반 데르 가그",
      "count": 1
     }
    ]
@@ -1316,8 +1312,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 65,
-   "llm": 65
+   "collected": 106,
+   "llm": 106
   }
  },
  "llmErrors": []
