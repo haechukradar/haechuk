@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T05:34:08.987Z",
+ "updatedAt": "2026-11-27T06:42:13.335Z",
  "hot": [
   "arsenal-man-city-2026-11-29",
+  "marseille-levski-2026-11-26",
   "besiktas-affairs-discrimination-statement",
   "hearts-monaco-2026-11-26",
-  "bournemouth-celta-vigo-2026-11-26",
-  "besiktas-hapoel-2026-11-22"
+  "bournemouth-celta-vigo-2026-11-26"
  ],
  "days": [
   "2026-10-18",
@@ -51,7 +51,7 @@
   "bbc": {
    "ok": true,
    "items": 70,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -61,19 +61,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
    "items": 25,
-   "added": 5,
+   "added": 0,
    "authorRate": 96
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 2,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -85,7 +85,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 12,
    "authorRate": 100
   },
   "gazzetta": {
@@ -97,14 +97,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 82
+   "added": 6,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -115,7 +115,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
@@ -127,7 +127,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 93
   },
   "waz": {
@@ -145,19 +145,19 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 2,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -193,7 +193,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -326,7 +326,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 184,
+  "recentIssues": 187,
   "singleArticleRate": 35,
   "broad": [
    {
@@ -339,7 +339,7 @@
    },
    {
     "slug": "arsenal-dortmund-2026-11-24",
-    "count": 40
+    "count": 38
    },
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -351,7 +351,7 @@
    },
    {
     "slug": "losc-bayern-2026-11-25",
-    "count": 31
+    "count": 32
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -601,15 +601,15 @@
    ]
   },
   {
-   "en": "Dimas",
+   "en": "Duncan Ferguson",
    "dictionary": null,
    "variants": [
     {
-     "ko": "디마스",
+     "ko": "던컨 퍼거슨",
      "count": 3
     },
     {
-     "ko": "딤마스",
+     "ko": "덩컨 퍼거슨",
      "count": 1
     }
    ]
@@ -642,20 +642,6 @@
     },
     {
      "ko": "두란",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Diogo Spencer",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "디오고 스펜서",
-     "count": 3
-    },
-    {
-     "ko": "디오구 스펜서",
      "count": 1
     }
    ]
@@ -703,6 +689,34 @@
    ]
   },
   {
+   "en": "Dimas",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디마스",
+     "count": 2
+    },
+    {
+     "ko": "딤마스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Davide Ancelotti",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "다비데 안첼로티",
+     "count": 2
+    },
+    {
+     "ko": "다비드 안첼로티",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Matthijs de Ligt",
    "dictionary": null,
    "variants": [
@@ -716,20 +730,6 @@
     },
     {
      "ko": "더 리흐트",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Duncan Ferguson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "던컨 퍼거슨",
-     "count": 2
-    },
-    {
-     "ko": "덩컨 퍼거슨",
      "count": 1
     }
    ]
@@ -753,6 +753,20 @@
    ]
   },
   {
+   "en": "Diogo Spencer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디오고 스펜서",
+     "count": 2
+    },
+    {
+     "ko": "디오구 스펜서",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Antonio Nusa",
    "dictionary": null,
    "variants": [
@@ -762,24 +776,6 @@
     },
     {
      "ko": "안토니 누사",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Nuno Mendes",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "누누 멘데스",
-     "count": 1
-    },
-    {
-     "ko": "누노 멘데스",
-     "count": 1
-    },
-    {
-     "ko": "누노 메스",
      "count": 1
     }
    ]
@@ -1037,20 +1033,6 @@
    ]
   },
   {
-   "en": "Nick Woltemade",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "니크 볼테마데",
-     "count": 1
-    },
-    {
-     "ko": "닉 볼테마데",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Owono",
    "dictionary": null,
    "variants": [
@@ -1203,6 +1185,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Palhinha",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "팔리냐",
+     "count": 1
+    },
+    {
+     "ko": "팔린냐",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1319,8 +1315,8 @@
    "llm": 914
   },
   "2026-11-27": {
-   "collected": 459,
-   "llm": 459
+   "collected": 488,
+   "llm": 488
   }
  },
  "llmErrors": []
