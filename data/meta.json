@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-27T23:44:53.847Z",
+ "updatedAt": "2026-11-28T00:38:44.246Z",
  "hot": [
   "chelsea-manager-future",
   "nottingham-forest-chelsea-2026-11-27",
   "chelsea-nottingham-forest-2026-11-27",
-  "fofana-chelsea-relationship",
-  "gladbach-moyha-2026-11-27"
+  "levante-santander-2026-11-27",
+  "fofana-chelsea-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -52,7 +52,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 5,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -62,19 +62,19 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 2,
    "authorRate": 0
   },
   "espn": {
    "ok": true,
-   "items": 0,
-   "added": 0,
-   "authorRate": 0
+   "items": 23,
+   "added": 2,
+   "authorRate": 91
   },
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "marca": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +98,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 7,
+   "added": 5,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -146,13 +146,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -169,7 +169,7 @@
   },
   "stoke": {
    "ok": true,
-   "items": 22,
+   "items": 19,
    "added": 0,
    "authorRate": 100
   },
@@ -199,7 +199,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
+   "items": 1,
    "added": 0,
    "authorRate": 0
   }
@@ -314,16 +314,16 @@
    "count": 20
   },
   {
+   "name": "포파나",
+   "count": 19
+  },
+  {
    "name": "누사",
    "count": 19
   },
   {
    "name": "무드리크",
    "count": 19
-  },
-  {
-   "name": "포파나",
-   "count": 18
   }
  ],
  "issueHealth": {
@@ -347,12 +347,12 @@
     "count": 28
    },
    {
-    "slug": "losc-bayern-2026-11-25",
+    "slug": "arsenal-man-city-2026-11-29",
     "count": 23
    },
    {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 22
+    "slug": "losc-bayern-2026-11-25",
+    "count": 23
    },
    {
     "slug": "man-city-affairs-charges",
@@ -433,7 +433,7 @@
    "variants": [
     {
      "ko": "무리뉴",
-     "count": 13
+     "count": 12
     },
     {
      "ko": "모리뉴",
@@ -591,28 +591,6 @@
     },
     {
      "ko": "슬레거스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Rasmus Hojlund",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "호이룬드",
-     "count": 1
-    },
-    {
-     "ko": "회이룬",
-     "count": 1
-    },
-    {
-     "ko": "회이룬트",
-     "count": 1
-    },
-    {
-     "ko": "라스무스 회이룬트",
      "count": 1
     }
    ]
@@ -783,6 +761,24 @@
     },
     {
      "ko": "다비데 안첼로티",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Rasmus Hojlund",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "호이룬드",
+     "count": 1
+    },
+    {
+     "ko": "회이룬",
+     "count": 1
+    },
+    {
+     "ko": "라스무스 회이룬트",
      "count": 1
     }
    ]
@@ -1296,8 +1292,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 369,
-   "llm": 369
+   "collected": 384,
+   "llm": 384
   }
  },
  "llmErrors": []
