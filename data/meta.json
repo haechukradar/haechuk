@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T09:04:23.058Z",
+ "updatedAt": "2026-11-28T09:59:41.132Z",
  "hot": [
   "inter-miami-columbus-2026-11-28",
   "fofana-chelsea-relationship",
   "southampton-middlesbrough-2026-11-26",
-  "chelsea-nottingham-forest-2026-11-27",
-  "chelsea-manager-future"
+  "man-utd-brentford-2026-11-29",
+  "arsenal-man-city-2026-11-29"
  ],
  "days": [
   "2026-10-18",
@@ -52,7 +52,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -85,8 +85,8 @@
   },
   "as": {
    "ok": true,
-   "items": 50,
-   "added": 10,
+   "items": 48,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -104,25 +104,25 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 1,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -146,25 +146,25 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 3,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -194,12 +194,12 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 9,
+   "items": 12,
    "added": 3,
    "authorRate": 0
   }
@@ -223,7 +223,7 @@
   },
   {
    "name": "잭 그릴리시",
-   "count": 44
+   "count": 45
   },
   {
    "name": "다비드 라야",
@@ -282,12 +282,12 @@
    "count": 26
   },
   {
-   "name": "니코 파스",
+   "name": "티에르노 배리",
    "count": 24
   },
   {
-   "name": "티에르노 배리",
-   "count": 23
+   "name": "니코 파스",
+   "count": 24
   },
   {
    "name": "반 다이크",
@@ -318,17 +318,17 @@
    "count": 20
   },
   {
-   "name": "누사",
+   "name": "주앙 펠릭스",
    "count": 19
   },
   {
-   "name": "무드리크",
+   "name": "누사",
    "count": 19
   }
  ],
  "issueHealth": {
   "recentIssues": 209,
-  "singleArticleRate": 42,
+  "singleArticleRate": 43,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -340,19 +340,23 @@
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 30
+    "count": 28
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
     "count": 25
    },
    {
-    "slug": "musiala-bayern-discipline",
-    "count": 23
-   },
-   {
     "slug": "man-city-affairs-charges",
     "count": 22
+   },
+   {
+    "slug": "arsenal-man-city-2026-11-29",
+    "count": 21
+   },
+   {
+    "slug": "musiala-bayern-discipline",
+    "count": 21
    },
    {
     "slug": "marseille-levski-2026-11-26",
@@ -361,10 +365,6 @@
    {
     "slug": "losc-bayern-2026-11-25",
     "count": 21
-   },
-   {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 20
    },
    {
     "slug": "joshua-kimmich-bayern-affairs-criticism",
@@ -693,24 +693,6 @@
     },
     {
      "ko": "다비데 안첼로티",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jonas De Roeck",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조나스 더 로엑",
-     "count": 1
-    },
-    {
-     "ko": "조나스 데 뢰크",
-     "count": 1
-    },
-    {
-     "ko": "욘스 데 로크",
      "count": 1
     }
    ]
@@ -1164,6 +1146,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 제네시오",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1284,8 +1280,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 524,
-   "llm": 524
+   "collected": 541,
+   "llm": 541
   }
  },
  "llmErrors": []
