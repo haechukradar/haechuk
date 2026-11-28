@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T12:36:08.348Z",
+ "updatedAt": "2026-11-28T13:48:58.529Z",
  "hot": [
   "southampton-middlesbrough-2026-11-26",
   "inter-miami-columbus-2026-11-28",
   "fofana-chelsea-relationship",
   "chelsea-manager-future",
-  "pitch-invader-incident"
+  "hamburg-bayern-2026-11-28"
  ],
  "days": [
   "2026-10-18",
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 74,
-   "added": 1,
+   "items": 73,
+   "added": 2,
    "authorRate": 0
   },
   "guardian": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 49,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,25 +98,25 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 9,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 4,
    "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 4,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "lecho": {
@@ -128,8 +128,8 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 85
+   "added": 1,
+   "authorRate": 83
   },
   "waz": {
    "ok": true,
@@ -140,19 +140,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -164,7 +164,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -176,31 +176,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 21,
-   "added": 1,
-   "authorRate": 86
+   "items": 22,
+   "added": 6,
+   "authorRate": 77
   },
   "star": {
-   "ok": true,
-   "items": 25,
-   "added": 1,
-   "authorRate": 100
-  },
-  "mirror": {
    "ok": true,
    "items": 25,
    "added": 0,
    "authorRate": 100
   },
+  "mirror": {
+   "ok": true,
+   "items": 25,
+   "added": 1,
+   "authorRate": 100
+  },
   "fbinsider": {
    "ok": true,
    "items": 10,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -327,7 +327,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 206,
+  "recentIssues": 203,
   "singleArticleRate": 41,
   "broad": [
    {
@@ -336,11 +336,11 @@
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 33
+    "count": 32
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 27
+    "count": 26
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -368,7 +368,7 @@
    },
    {
     "slug": "fofana-chelsea-relationship",
-    "count": 15
+    "count": 16
    },
    {
     "slug": "musiala-bayern-discipline",
@@ -642,6 +642,28 @@
    ]
   },
   {
+   "en": "Bruno Genesio",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브뤼노 주네시오",
+     "count": 1
+    },
+    {
+     "ko": "브루노 제네시오",
+     "count": 1
+    },
+    {
+     "ko": "주네시오",
+     "count": 1
+    },
+    {
+     "ko": "제네시오",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Borja Sainz",
    "dictionary": null,
    "variants": [
@@ -910,34 +932,6 @@
    ]
   },
   {
-   "en": "Owono",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "오웅오노",
-     "count": 1
-    },
-    {
-     "ko": "오와노",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Franclim Carvalho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프랭클림 카르발류",
-     "count": 1
-    },
-    {
-     "ko": "프란클림 카르발류",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Stegemann",
    "dictionary": null,
    "variants": [
@@ -1092,20 +1086,6 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "브뤼노 주네시오",
-     "count": 1
-    },
-    {
-     "ko": "브루노 제네시오",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Freund",
    "dictionary": null,
    "variants": [
@@ -1157,6 +1137,34 @@
     },
     {
      "ko": "엔데르 외젠",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Fermin Lopez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르민 로페스",
+     "count": 1
+    },
+    {
+     "ko": "페르민",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Affengruber",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "아펜그루버",
+     "count": 1
+    },
+    {
+     "ko": "아펭그루버",
      "count": 1
     }
    ]
@@ -1280,8 +1288,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 633,
-   "llm": 633
+   "collected": 668,
+   "llm": 668
   }
  },
  "llmErrors": []
