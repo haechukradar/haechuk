@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-28T11:41:39.054Z",
+ "updatedAt": "2026-11-28T12:36:08.348Z",
  "hot": [
-  "fofana-chelsea-relationship",
   "southampton-middlesbrough-2026-11-26",
   "inter-miami-columbus-2026-11-28",
+  "fofana-chelsea-relationship",
   "chelsea-manager-future",
   "pitch-invader-incident"
  ],
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 76,
-   "added": 0,
+   "items": 74,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 1,
+   "added": 3,
    "authorRate": 0
   },
   "espn": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 49,
-   "added": 14,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,31 +98,31 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 86
+   "added": 3,
+   "authorRate": 80
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 4,
    "authorRate": 100
   },
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
@@ -140,19 +140,19 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 6,
    "authorRate": 0
   },
   "fotomac": {
@@ -176,19 +176,19 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 28,
-   "added": 3,
-   "authorRate": 93
+   "items": 21,
+   "added": 1,
+   "authorRate": 86
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "mirror": {
@@ -199,7 +199,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 16,
+   "items": 10,
    "added": 1,
    "authorRate": 0
   }
@@ -286,19 +286,19 @@
    "count": 24
   },
   {
+   "name": "주앙 펠릭스",
+   "count": 24
+  },
+  {
    "name": "니코 파스",
    "count": 24
   },
   {
-   "name": "반 다이크",
-   "count": 22
-  },
-  {
-   "name": "주앙 펠릭스",
-   "count": 22
-  },
-  {
    "name": "루카 윌리엄스-바넷",
+   "count": 23
+  },
+  {
+   "name": "반 다이크",
    "count": 22
   },
   {
@@ -328,19 +328,19 @@
  ],
  "issueHealth": {
   "recentIssues": 206,
-  "singleArticleRate": 42,
+  "singleArticleRate": 41,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 56
+    "count": 54
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 35
+    "count": 33
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 28
+    "count": 27
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -348,11 +348,11 @@
    },
    {
     "slug": "arsenal-man-city-2026-11-29",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "man-city-affairs-charges",
-    "count": 22
+    "count": 21
    },
    {
     "slug": "marseille-levski-2026-11-26",
@@ -367,11 +367,11 @@
     "count": 19
    },
    {
-    "slug": "musiala-bayern-discipline",
-    "count": 16
+    "slug": "fofana-chelsea-relationship",
+    "count": 15
    },
    {
-    "slug": "fofana-chelsea-relationship",
+    "slug": "musiala-bayern-discipline",
     "count": 15
    },
    {
@@ -437,7 +437,7 @@
    "variants": [
     {
      "ko": "마르코 실바",
-     "count": 8
+     "count": 9
     },
     {
      "ko": "마르쿠 실바",
@@ -445,20 +445,6 @@
     },
     {
      "ko": "마르코 시우바",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 10
-    },
-    {
-     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -489,6 +475,20 @@
     },
     {
      "ko": "람멘스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 9
+    },
+    {
+     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -526,26 +526,12 @@
    ]
   },
   {
-   "en": "Stefan Borson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "스테판 보르손",
-     "count": 5
-    },
-    {
-     "ko": "스테판 보슨",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Glasner",
    "dictionary": null,
    "variants": [
     {
      "ko": "글라스너",
-     "count": 3
+     "count": 4
     },
     {
      "ko": "글래스너",
@@ -563,6 +549,20 @@
     },
     {
      "ko": "비토르 무뇨스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Stefan Borson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "스테판 보르손",
+     "count": 4
+    },
+    {
+     "ko": "스테판 보슨",
      "count": 1
     }
    ]
@@ -596,6 +596,20 @@
     {
      "ko": "슬레거스",
      "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Blessin",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "블레신",
+     "count": 2
+    },
+    {
+     "ko": "블레싱",
+     "count": 2
     }
    ]
   },
@@ -694,20 +708,6 @@
     {
      "ko": "이고르 제수스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Blessin",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "블레신",
-     "count": 2
-    },
-    {
-     "ko": "블레싱",
-     "count": 1
     }
    ]
   },
@@ -938,20 +938,6 @@
    ]
   },
   {
-   "en": "Matte Smets",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "매테 스메츠",
-     "count": 1
-    },
-    {
-     "ko": "매튜 스메츠",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Stegemann",
    "dictionary": null,
    "variants": [
@@ -1160,6 +1146,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Önder Özen",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "외데르 외첸",
+     "count": 1
+    },
+    {
+     "ko": "엔데르 외젠",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1280,8 +1280,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 599,
-   "llm": 599
+   "collected": 633,
+   "llm": 633
   }
  },
  "llmErrors": []
