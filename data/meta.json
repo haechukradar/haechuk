@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T08:12:17.323Z",
+ "updatedAt": "2026-11-28T09:04:23.058Z",
  "hot": [
   "inter-miami-columbus-2026-11-28",
+  "fofana-chelsea-relationship",
   "southampton-middlesbrough-2026-11-26",
   "chelsea-nottingham-forest-2026-11-27",
-  "man-utd-brentford-2026-11-29",
-  "fofana-chelsea-relationship"
+  "chelsea-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -52,7 +52,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 4,
+   "added": 3,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -74,7 +74,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -86,7 +86,7 @@
   "as": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 10,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +98,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 3,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -122,13 +122,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -152,19 +152,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 3,
+   "added": 1,
    "authorRate": 100
   },
   "stoke": {
@@ -176,13 +176,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 3,
+   "added": 1,
    "authorRate": 96
   },
   "star": {
@@ -194,13 +194,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 5,
-   "added": 5,
+   "items": 9,
+   "added": 3,
    "authorRate": 0
   }
  },
@@ -327,7 +327,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
+  "recentIssues": 209,
   "singleArticleRate": 42,
   "broad": [
    {
@@ -344,19 +344,15 @@
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
-    "count": 27
+    "count": 25
+   },
+   {
+    "slug": "musiala-bayern-discipline",
+    "count": 23
    },
    {
     "slug": "man-city-affairs-charges",
     "count": 22
-   },
-   {
-    "slug": "musiala-bayern-discipline",
-    "count": 22
-   },
-   {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 21
    },
    {
     "slug": "marseille-levski-2026-11-26",
@@ -365,6 +361,10 @@
    {
     "slug": "losc-bayern-2026-11-25",
     "count": 21
+   },
+   {
+    "slug": "arsenal-man-city-2026-11-29",
+    "count": 20
    },
    {
     "slug": "joshua-kimmich-bayern-affairs-criticism",
@@ -1284,8 +1284,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 490,
-   "llm": 490
+   "collected": 524,
+   "llm": 524
   }
  },
  "llmErrors": []
