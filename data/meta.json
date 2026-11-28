@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T13:48:58.529Z",
+ "updatedAt": "2026-11-28T14:40:08.770Z",
  "hot": [
+  "man-utd-brentford-2026-11-29",
   "southampton-middlesbrough-2026-11-26",
   "inter-miami-columbus-2026-11-28",
   "fofana-chelsea-relationship",
-  "chelsea-manager-future",
-  "hamburg-bayern-2026-11-28"
+  "chelsea-manager-future"
  ],
  "days": [
   "2026-10-18",
@@ -51,8 +51,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 73,
-   "added": 2,
+   "items": 68,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 3,
+   "added": 8,
    "authorRate": 0
   },
   "espn": {
@@ -98,19 +98,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 4,
-   "authorRate": 80
+   "added": 3,
+   "authorRate": 82
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "men": {
@@ -122,13 +122,13 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 83
   },
   "waz": {
@@ -152,19 +152,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 4,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 4,
    "authorRate": 100
   },
   "stoke": {
@@ -176,31 +176,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 22,
-   "added": 6,
-   "authorRate": 77
+   "items": 2,
+   "added": 2,
+   "authorRate": 50
   },
   "star": {
-   "ok": true,
-   "items": 25,
-   "added": 0,
-   "authorRate": 100
-  },
-  "mirror": {
    "ok": true,
    "items": 25,
    "added": 1,
    "authorRate": 100
   },
+  "mirror": {
+   "ok": true,
+   "items": 25,
+   "added": 2,
+   "authorRate": 100
+  },
   "fbinsider": {
    "ok": true,
-   "items": 10,
-   "added": 0,
+   "items": 4,
+   "added": 2,
    "authorRate": 0
   }
  },
@@ -279,14 +279,14 @@
   },
   {
    "name": "레니 요로",
-   "count": 26
-  },
-  {
-   "name": "티에르노 배리",
-   "count": 24
+   "count": 27
   },
   {
    "name": "주앙 펠릭스",
+   "count": 25
+  },
+  {
+   "name": "티에르노 배리",
    "count": 24
   },
   {
@@ -327,7 +327,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 203,
+  "recentIssues": 206,
   "singleArticleRate": 41,
   "broad": [
    {
@@ -336,7 +336,7 @@
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 32
+    "count": 31
    },
    {
     "slug": "pochettino-man-utd-manager-future",
@@ -348,15 +348,15 @@
    },
    {
     "slug": "arsenal-man-city-2026-11-29",
-    "count": 21
-   },
-   {
-    "slug": "man-city-affairs-charges",
-    "count": 21
+    "count": 22
    },
    {
     "slug": "marseille-levski-2026-11-26",
     "count": 21
+   },
+   {
+    "slug": "man-city-affairs-charges",
+    "count": 20
    },
    {
     "slug": "losc-bayern-2026-11-25",
@@ -367,8 +367,16 @@
     "count": 19
    },
    {
+    "slug": "man-utd-brentford-2026-11-29",
+    "count": 17
+   },
+   {
     "slug": "fofana-chelsea-relationship",
-    "count": 16
+    "count": 17
+   },
+   {
+    "slug": "chelsea-manager-future",
+    "count": 15
    },
    {
     "slug": "musiala-bayern-discipline",
@@ -427,6 +435,10 @@
     },
     {
      "ko": "램멘스",
+     "count": 1
+    },
+    {
+     "ko": "셴 램멘스",
      "count": 1
     }
    ]
@@ -734,6 +746,20 @@
    ]
   },
   {
+   "en": "Franck Haise",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "프랭크 아이즈",
+     "count": 2
+    },
+    {
+     "ko": "프랑크 아이즈",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Freigang",
    "dictionary": null,
    "variants": [
@@ -918,20 +944,6 @@
    ]
   },
   {
-   "en": "Franck Haise",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프랑크 아이즈",
-     "count": 2
-    },
-    {
-     "ko": "프랭크 아이즈",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Stegemann",
    "dictionary": null,
    "variants": [
@@ -988,6 +1000,20 @@
    ]
   },
   {
+   "en": "Nick Woltemade",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "닉 볼테마데",
+     "count": 1
+    },
+    {
+     "ko": "니크 볼테마데",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "André",
    "dictionary": null,
    "variants": [
@@ -997,6 +1023,20 @@
     },
     {
      "ko": "안드레",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Eberl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에벌",
+     "count": 1
+    },
+    {
+     "ko": "에베를",
      "count": 1
     }
    ]
@@ -1140,34 +1180,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Fermin Lopez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르민 로페스",
-     "count": 1
-    },
-    {
-     "ko": "페르민",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Affengruber",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "아펜그루버",
-     "count": 1
-    },
-    {
-     "ko": "아펭그루버",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1288,8 +1300,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 668,
-   "llm": 668
+   "collected": 707,
+   "llm": 707
   }
  },
  "llmErrors": []
