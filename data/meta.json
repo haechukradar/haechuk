@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T15:28:31.184Z",
+ "updatedAt": "2026-11-28T16:22:11.451Z",
  "hot": [
   "man-utd-brentford-2026-11-29",
+  "musiala-bayern-injury",
   "southampton-middlesbrough-2026-11-26",
   "fofana-chelsea-relationship",
-  "inter-miami-columbus-2026-11-28",
-  "chelsea-manager-future"
+  "kimmich-tackle-discipline"
  ],
  "days": [
   "2026-10-18",
@@ -63,7 +63,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 5,
    "authorRate": 0
   },
   "espn": {
@@ -86,8 +86,8 @@
   },
   "as": {
    "ok": true,
-   "items": 49,
-   "added": 1,
+   "items": 48,
+   "added": 17,
    "authorRate": 100
   },
   "gazzetta": {
@@ -105,8 +105,8 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 1,
-   "authorRate": 84
+   "added": 3,
+   "authorRate": 86
   },
   "fblondon": {
    "ok": true,
@@ -117,20 +117,20 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 1,
    "authorRate": 100
   },
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 0,
-   "authorRate": 83
+   "added": 1,
+   "authorRate": 80
   },
   "waz": {
    "ok": true,
@@ -147,13 +147,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 9,
    "authorRate": 0
   },
   "fotomac": {
@@ -182,14 +182,14 @@
   },
   "sun": {
    "ok": true,
-   "items": 2,
-   "added": 1,
+   "items": 4,
+   "added": 3,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "mirror": {
@@ -200,7 +200,7 @@
   },
   "fbinsider": {
    "ok": true,
-   "items": 3,
+   "items": 4,
    "added": 0,
    "authorRate": 0
   }
@@ -284,7 +284,7 @@
   },
   {
    "name": "주앙 펠릭스",
-   "count": 25
+   "count": 26
   },
   {
    "name": "티에르노 배리",
@@ -323,13 +323,13 @@
    "count": 20
   },
   {
-   "name": "누사",
-   "count": 19
+   "name": "웨슬리 포파나",
+   "count": 20
   }
  ],
  "issueHealth": {
-  "recentIssues": 224,
-  "singleArticleRate": 45,
+  "recentIssues": 229,
+  "singleArticleRate": 46,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -356,31 +356,27 @@
     "count": 21
    },
    {
+    "slug": "man-utd-brentford-2026-11-29",
+    "count": 19
+   },
+   {
     "slug": "man-city-affairs-charges",
-    "count": 20
+    "count": 19
    },
    {
     "slug": "joshua-kimmich-bayern-affairs-criticism",
     "count": 19
    },
    {
-    "slug": "losc-bayern-2026-11-25",
-    "count": 19
-   },
-   {
-    "slug": "man-utd-brentford-2026-11-29",
-    "count": 17
-   },
-   {
     "slug": "fofana-chelsea-relationship",
-    "count": 17
+    "count": 18
+   },
+   {
+    "slug": "losc-bayern-2026-11-25",
+    "count": 18
    },
    {
     "slug": "chelsea-manager-future",
-    "count": 15
-   },
-   {
-    "slug": "musiala-bayern-discipline",
     "count": 15
    },
    {
@@ -817,6 +813,20 @@
    ]
   },
   {
+   "en": "Eberl",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "에벌",
+     "count": 2
+    },
+    {
+     "ko": "에베를",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sommer",
    "dictionary": null,
    "variants": [
@@ -1015,6 +1025,20 @@
    ]
   },
   {
+   "en": "Seedorf",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "세도르프",
+     "count": 1
+    },
+    {
+     "ko": "세들프",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "André",
    "dictionary": null,
    "variants": [
@@ -1024,20 +1048,6 @@
     },
     {
      "ko": "안드레",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Eberl",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에벌",
-     "count": 1
-    },
-    {
-     "ko": "에베를",
      "count": 1
     }
    ]
@@ -1167,20 +1177,6 @@
      "count": 1
     }
    ]
-  },
-  {
-   "en": "Fermin Lopez",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "페르민 로페스",
-     "count": 1
-    },
-    {
-     "ko": "페르민",
-     "count": 1
-    }
-   ]
   }
  ],
  "daily": {
@@ -1305,8 +1301,8 @@
    "llm": 707
   },
   "2026-11-29": {
-   "collected": 35,
-   "llm": 35
+   "collected": 91,
+   "llm": 91
   }
  },
  "llmErrors": []
