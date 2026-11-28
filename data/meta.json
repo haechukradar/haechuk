@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-28T14:40:08.770Z",
+ "updatedAt": "2026-11-28T15:28:31.184Z",
  "hot": [
   "man-utd-brentford-2026-11-29",
   "southampton-middlesbrough-2026-11-26",
-  "inter-miami-columbus-2026-11-28",
   "fofana-chelsea-relationship",
+  "inter-miami-columbus-2026-11-28",
   "chelsea-manager-future"
  ],
  "days": [
@@ -46,13 +46,14 @@
   "2026-11-25",
   "2026-11-26",
   "2026-11-27",
-  "2026-11-28"
+  "2026-11-28",
+  "2026-11-29"
  ],
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 68,
-   "added": 1,
+   "items": 63,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +63,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 8,
+   "added": 6,
    "authorRate": 0
   },
   "espn": {
@@ -86,7 +87,7 @@
   "as": {
    "ok": true,
    "items": 49,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,14 +99,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 11,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
-   "authorRate": 82
+   "added": 1,
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -152,19 +153,19 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 7,
+   "added": 8,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 4,
+   "added": 3,
    "authorRate": 100
   },
   "stoke": {
@@ -182,25 +183,25 @@
   "sun": {
    "ok": true,
    "items": 2,
-   "added": 2,
-   "authorRate": 50
+   "added": 1,
+   "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
-   "added": 2,
+   "items": 3,
+   "added": 0,
    "authorRate": 0
   }
  },
@@ -327,8 +328,8 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 206,
-  "singleArticleRate": 41,
+  "recentIssues": 224,
+  "singleArticleRate": 45,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
@@ -336,11 +337,11 @@
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 31
+    "count": 30
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 26
+    "count": 25
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
@@ -359,11 +360,11 @@
     "count": 20
    },
    {
-    "slug": "losc-bayern-2026-11-25",
-    "count": 20
+    "slug": "joshua-kimmich-bayern-affairs-criticism",
+    "count": 19
    },
    {
-    "slug": "joshua-kimmich-bayern-affairs-criticism",
+    "slug": "losc-bayern-2026-11-25",
     "count": 19
    },
    {
@@ -414,6 +415,10 @@
      "count": 2
     },
     {
+     "ko": "램멘스",
+     "count": 2
+    },
+    {
      "ko": "래먼스",
      "count": 1
     },
@@ -431,10 +436,6 @@
     },
     {
      "ko": "세네 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "램멘스",
      "count": 1
     },
     {
@@ -654,23 +655,19 @@
    ]
   },
   {
-   "en": "Bruno Genesio",
+   "en": "João Gião",
    "dictionary": null,
    "variants": [
     {
-     "ko": "브뤼노 주네시오",
+     "ko": "주앙 지앙",
+     "count": 2
+    },
+    {
+     "ko": "조앙 지아앙",
      "count": 1
     },
     {
-     "ko": "브루노 제네시오",
-     "count": 1
-    },
-    {
-     "ko": "주네시오",
-     "count": 1
-    },
-    {
-     "ko": "제네시오",
+     "ko": "조앙 지앙",
      "count": 1
     }
    ]
@@ -838,15 +835,19 @@
    ]
   },
   {
-   "en": "João Gião",
+   "en": "Bruno Genesio",
    "dictionary": null,
    "variants": [
     {
-     "ko": "주앙 지앙",
-     "count": 2
+     "ko": "브뤼노 주네시오",
+     "count": 1
     },
     {
-     "ko": "조앙 지아앙",
+     "ko": "주네시오",
+     "count": 1
+    },
+    {
+     "ko": "제네시오",
      "count": 1
     }
    ]
@@ -1056,20 +1057,6 @@
    ]
   },
   {
-   "en": "Höjbjerg",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "회야베르",
-     "count": 1
-    },
-    {
-     "ko": "회이비에르",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Yann Sommer",
    "dictionary": null,
    "variants": [
@@ -1177,6 +1164,20 @@
     },
     {
      "ko": "엔데르 외젠",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Fermin Lopez",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "페르민 로페스",
+     "count": 1
+    },
+    {
+     "ko": "페르민",
      "count": 1
     }
    ]
@@ -1302,6 +1303,10 @@
   "2026-11-28": {
    "collected": 707,
    "llm": 707
+  },
+  "2026-11-29": {
+   "collected": 35,
+   "llm": 35
   }
  },
  "llmErrors": []
