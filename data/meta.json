@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T10:51:53.975Z",
+ "updatedAt": "2026-11-28T11:41:39.054Z",
  "hot": [
+  "fofana-chelsea-relationship",
   "southampton-middlesbrough-2026-11-26",
   "inter-miami-columbus-2026-11-28",
-  "fofana-chelsea-relationship",
-  "pitch-invader-incident",
-  "man-utd-brentford-2026-11-29"
+  "chelsea-manager-future",
+  "pitch-invader-incident"
  ],
  "days": [
   "2026-10-18",
@@ -52,7 +52,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "guardian": {
@@ -62,7 +62,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "espn": {
@@ -74,7 +74,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -85,8 +85,8 @@
   },
   "as": {
    "ok": true,
-   "items": 48,
-   "added": 1,
+   "items": 49,
+   "added": 14,
    "authorRate": 100
   },
   "gazzetta": {
@@ -98,19 +98,19 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 6,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 1,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "men": {
@@ -128,7 +128,7 @@
   "tz": {
    "ok": true,
    "items": 40,
-   "added": 1,
+   "added": 0,
    "authorRate": 85
   },
   "waz": {
@@ -152,7 +152,7 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 6,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
@@ -164,7 +164,7 @@
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 1,
+   "added": 0,
    "authorRate": 100
   },
   "stoke": {
@@ -176,13 +176,13 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
    "items": 28,
-   "added": 1,
+   "added": 3,
    "authorRate": 93
   },
   "star": {
@@ -194,13 +194,13 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 15,
-   "added": 3,
+   "items": 16,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -294,11 +294,15 @@
    "count": 22
   },
   {
+   "name": "주앙 펠릭스",
+   "count": 22
+  },
+  {
    "name": "루카 윌리엄스-바넷",
    "count": 22
   },
   {
-   "name": "주앙 펠릭스",
+   "name": "포파나",
    "count": 21
   },
   {
@@ -308,10 +312,6 @@
   {
    "name": "트루빈",
    "count": 21
-  },
-  {
-   "name": "포파나",
-   "count": 20
   },
   {
    "name": "로멜루 루카쿠",
@@ -347,12 +347,12 @@
     "count": 25
    },
    {
-    "slug": "man-city-affairs-charges",
+    "slug": "arsenal-man-city-2026-11-29",
     "count": 22
    },
    {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 21
+    "slug": "man-city-affairs-charges",
+    "count": 22
    },
    {
     "slug": "marseille-levski-2026-11-26",
@@ -368,18 +368,18 @@
    },
    {
     "slug": "musiala-bayern-discipline",
-    "count": 18
+    "count": 16
    },
    {
-    "slug": "psg-roma-2026-11-25",
-    "count": 16
+    "slug": "fofana-chelsea-relationship",
+    "count": 15
    },
    {
     "slug": "viktoria-plzen-benfica-2026-11-26",
     "count": 15
    },
    {
-    "slug": "sterling-discipline",
+    "slug": "psg-roma-2026-11-25",
     "count": 15
    }
   ]
@@ -450,6 +450,20 @@
    ]
   },
   {
+   "en": "Mourinho",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "무리뉴",
+     "count": 10
+    },
+    {
+     "ko": "모리뉴",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Lammens",
    "dictionary": null,
    "variants": [
@@ -475,20 +489,6 @@
     },
     {
      "ko": "람멘스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Mourinho",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "무리뉴",
-     "count": 9
-    },
-    {
-     "ko": "모리뉴",
      "count": 1
     }
    ]
@@ -642,6 +642,20 @@
    ]
   },
   {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    },
+    {
+     "ko": "키스 와이네스",
+     "count": 2
+    }
+   ]
+  },
+  {
    "en": "Ingvar Jonsson",
    "dictionary": null,
    "variants": [
@@ -680,20 +694,6 @@
     {
      "ko": "이고르 제수스",
      "count": 2
-    }
-   ]
-  },
-  {
-   "en": "Davide Ancelotti",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "다비드 안첼로티",
-     "count": 2
-    },
-    {
-     "ko": "다비데 안첼로티",
-     "count": 1
     }
    ]
   },
@@ -859,20 +859,6 @@
     },
     {
      "ko": "모이하",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 2
-    },
-    {
-     "ko": "키스 와이네스",
      "count": 1
     }
    ]
@@ -1160,6 +1146,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Maître Diagne",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "디뉴 변호사",
+     "count": 1
+    },
+    {
+     "ko": "디아녜",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1280,8 +1280,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 566,
-   "llm": 566
+   "collected": 599,
+   "llm": 599
   }
  },
  "llmErrors": []
