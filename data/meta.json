@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T16:22:11.451Z",
+ "updatedAt": "2026-11-28T17:16:28.660Z",
  "hot": [
+  "hamburg-bayern-2026-11-28",
   "man-utd-brentford-2026-11-29",
   "musiala-bayern-injury",
-  "southampton-middlesbrough-2026-11-26",
-  "fofana-chelsea-relationship",
-  "kimmich-tackle-discipline"
+  "kimmich-tackle-discipline",
+  "southampton-middlesbrough-2026-11-26"
  ],
  "days": [
   "2026-10-18",
@@ -52,8 +52,8 @@
  "feeds": {
   "bbc": {
    "ok": true,
-   "items": 63,
-   "added": 0,
+   "items": 60,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -63,7 +63,7 @@
   "sky": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "espn": {
@@ -86,8 +86,8 @@
   },
   "as": {
    "ok": true,
-   "items": 48,
-   "added": 17,
+   "items": 49,
+   "added": 3,
    "authorRate": 100
   },
   "gazzetta": {
@@ -99,14 +99,14 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 11,
+   "added": 10,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
    "added": 3,
-   "authorRate": 86
+   "authorRate": 84
   },
   "fblondon": {
    "ok": true,
@@ -117,7 +117,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 1,
+   "added": 3,
    "authorRate": 100
   },
   "lecho": {
@@ -147,13 +147,13 @@
   "rp": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 0,
    "authorRate": 100
   },
   "record": {
    "ok": true,
    "items": 20,
-   "added": 9,
+   "added": 7,
    "authorRate": 0
   },
   "fotomac": {
@@ -177,31 +177,31 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
    "ok": true,
-   "items": 4,
-   "added": 3,
+   "items": 10,
+   "added": 6,
    "authorRate": 100
   },
   "star": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
    "ok": true,
-   "items": 4,
-   "added": 0,
+   "items": 3,
+   "added": 1,
    "authorRate": 0
   }
  },
@@ -271,20 +271,20 @@
    "count": 28
   },
   {
+   "name": "레니 요로",
+   "count": 28
+  },
+  {
+   "name": "주앙 펠릭스",
+   "count": 27
+  },
+  {
    "name": "루이스 홀",
    "count": 27
   },
   {
    "name": "알리송",
    "count": 27
-  },
-  {
-   "name": "레니 요로",
-   "count": 27
-  },
-  {
-   "name": "주앙 펠릭스",
-   "count": 26
   },
   {
    "name": "티에르노 배리",
@@ -328,12 +328,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 229,
-  "singleArticleRate": 46,
+  "recentIssues": 228,
+  "singleArticleRate": 44,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 54
+    "count": 52
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -348,16 +348,16 @@
     "count": 25
    },
    {
+    "slug": "man-utd-brentford-2026-11-29",
+    "count": 24
+   },
+   {
     "slug": "arsenal-man-city-2026-11-29",
     "count": 22
    },
    {
     "slug": "marseille-levski-2026-11-26",
     "count": 21
-   },
-   {
-    "slug": "man-utd-brentford-2026-11-29",
-    "count": 19
    },
    {
     "slug": "man-city-affairs-charges",
@@ -399,6 +399,10 @@
      "count": 4
     },
     {
+     "ko": "램멘스",
+     "count": 3
+    },
+    {
      "ko": "라멘스",
      "count": 2
     },
@@ -411,7 +415,7 @@
      "count": 2
     },
     {
-     "ko": "램멘스",
+     "ko": "셴 램멘스",
      "count": 2
     },
     {
@@ -432,10 +436,6 @@
     },
     {
      "ko": "세네 람멘스",
-     "count": 1
-    },
-    {
-     "ko": "셴 램멘스",
      "count": 1
     }
    ]
@@ -762,20 +762,6 @@
     },
     {
      "ko": "프레이강",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ayden Heaven",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에이든 헤븐",
-     "count": 2
-    },
-    {
-     "ko": "아이던 헤븐",
      "count": 1
     }
    ]
@@ -1177,6 +1163,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "McInnes",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "맥이네스",
+     "count": 1
+    },
+    {
+     "ko": "맥이너스",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1301,8 +1301,8 @@
    "llm": 707
   },
   "2026-11-29": {
-   "collected": 91,
-   "llm": 91
+   "collected": 138,
+   "llm": 138
   }
  },
  "llmErrors": []
