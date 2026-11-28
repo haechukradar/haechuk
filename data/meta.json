@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T04:52:48.059Z",
+ "updatedAt": "2026-11-28T05:50:58.279Z",
  "hot": [
-  "chelsea-manager-future",
-  "nottingham-forest-chelsea-2026-11-27",
   "chelsea-nottingham-forest-2026-11-27",
-  "levante-santander-2026-11-27",
-  "fofana-chelsea-relationship"
+  "chelsea-manager-future",
+  "psg-lorient-2026-11-28",
+  "nottingham-forest-chelsea-2026-11-27",
+  "levante-santander-2026-11-27"
  ],
  "days": [
   "2026-10-18",
@@ -74,7 +74,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 1,
+   "added": 4,
    "authorRate": 0
   },
   "marca": {
@@ -98,13 +98,13 @@
   "kicker": {
    "ok": true,
    "items": 20,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 2,
+   "added": 3,
    "authorRate": 86
   },
   "fblondon": {
@@ -122,7 +122,7 @@
   "lecho": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "tz": {
@@ -152,13 +152,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 5,
+   "added": 4,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 0,
    "authorRate": 0
   },
   "hln": {
@@ -194,7 +194,7 @@
   "mirror": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "fbinsider": {
@@ -327,12 +327,12 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 210,
+  "recentIssues": 211,
   "singleArticleRate": 43,
   "broad": [
    {
     "slug": "sporting-man-utd-2026-11-26",
-    "count": 59
+    "count": 58
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
@@ -347,15 +347,15 @@
     "count": 28
    },
    {
-    "slug": "losc-bayern-2026-11-25",
-    "count": 23
-   },
-   {
     "slug": "man-city-affairs-charges",
     "count": 22
    },
    {
     "slug": "musiala-bayern-discipline",
+    "count": 22
+   },
+   {
+    "slug": "losc-bayern-2026-11-25",
     "count": 22
    },
    {
@@ -372,7 +372,7 @@
    },
    {
     "slug": "psg-roma-2026-11-25",
-    "count": 19
+    "count": 18
    },
    {
     "slug": "viktoria-plzen-benfica-2026-11-26",
@@ -545,7 +545,7 @@
    "variants": [
     {
      "ko": "글라스너",
-     "count": 4
+     "count": 3
     },
     {
      "ko": "글래스너",
@@ -1028,48 +1028,6 @@
    ]
   },
   {
-   "en": "Fresneda",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "프레스나다",
-     "count": 1
-    },
-    {
-     "ko": "프레스네다",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Ethan Mbappe",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "에탄 음바페",
-     "count": 1
-    },
-    {
-     "ko": "에탕 음바페",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Gakpo",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "가크포",
-     "count": 1
-    },
-    {
-     "ko": "각포",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Stefan Stegemann",
    "dictionary": null,
    "variants": [
@@ -1177,6 +1135,48 @@
     },
     {
      "ko": "회이비에르",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Yann Sommer",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "좀머",
+     "count": 1
+    },
+    {
+     "ko": "얀 조머",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Bruno",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "브루노",
+     "count": 1
+    },
+    {
+     "ko": "브루노 페르난데스",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Quansah",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "쿠완사",
+     "count": 1
+    },
+    {
+     "ko": "콰산",
      "count": 1
     }
    ]
@@ -1300,8 +1300,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 408,
-   "llm": 408
+   "collected": 425,
+   "llm": 425
   }
  },
  "llmErrors": []
