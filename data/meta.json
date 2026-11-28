@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-28T05:50:58.279Z",
+ "updatedAt": "2026-11-28T06:57:03.188Z",
  "hot": [
   "chelsea-nottingham-forest-2026-11-27",
   "chelsea-manager-future",
-  "psg-lorient-2026-11-28",
   "nottingham-forest-chelsea-2026-11-27",
-  "levante-santander-2026-11-27"
+  "levante-santander-2026-11-27",
+  "fofana-chelsea-relationship"
  ],
  "days": [
   "2026-10-18",
@@ -52,7 +52,7 @@
   "bbc": {
    "ok": true,
    "items": 76,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "guardian": {
@@ -74,7 +74,7 @@
   "athletic": {
    "ok": true,
    "items": 100,
-   "added": 4,
+   "added": 0,
    "authorRate": 0
   },
   "marca": {
@@ -104,13 +104,13 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 3,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "men": {
@@ -140,7 +140,7 @@
   "augsburger": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 96
   },
   "rp": {
@@ -158,13 +158,13 @@
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 1,
    "authorRate": 0
   },
   "hln": {
    "ok": true,
    "items": 30,
-   "added": 0,
+   "added": 6,
    "authorRate": 100
   },
   "stoke": {
@@ -176,7 +176,7 @@
   "chronicle": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 1,
    "authorRate": 100
   },
   "sun": {
@@ -210,11 +210,11 @@
    "count": 83
   },
   {
-   "name": "JJ 가브리엘",
-   "count": 63
+   "name": "프레스티아니",
+   "count": 64
   },
   {
-   "name": "프레스티아니",
+   "name": "JJ 가브리엘",
    "count": 63
   },
   {
@@ -226,6 +226,10 @@
    "count": 44
   },
   {
+   "name": "다비드 라야",
+   "count": 42
+  },
+  {
    "name": "오워노",
    "count": 41
   },
@@ -235,10 +239,6 @@
   },
   {
    "name": "베르나르두 실바",
-   "count": 41
-  },
-  {
-   "name": "다비드 라야",
    "count": 41
   },
   {
@@ -327,7 +327,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 211,
+  "recentIssues": 214,
   "singleArticleRate": 43,
   "broad": [
    {
@@ -336,15 +336,15 @@
    },
    {
     "slug": "club-brugge-liverpool-2026-11-26",
-    "count": 38
+    "count": 37
    },
    {
     "slug": "pochettino-man-utd-manager-future",
-    "count": 33
+    "count": 31
    },
    {
     "slug": "besiktas-hapoel-2026-11-22",
-    "count": 28
+    "count": 27
    },
    {
     "slug": "man-city-affairs-charges",
@@ -632,42 +632,6 @@
    ]
   },
   {
-   "en": "Keith Wyness",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "키스 와이니스",
-     "count": 3
-    },
-    {
-     "ko": "키스 와이네스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Vasco Seabra",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "바스코 세브라",
-     "count": 1
-    },
-    {
-     "ko": "바스코 세아브라",
-     "count": 1
-    },
-    {
-     "ko": "바스쿠 시브라",
-     "count": 1
-    },
-    {
-     "ko": "바스쿠 세브라",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Gabri Veiga",
    "dictionary": null,
    "variants": [
@@ -733,24 +697,6 @@
     },
     {
      "ko": "호니어",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Matte Smets",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "매테 스메츠",
-     "count": 1
-    },
-    {
-     "ko": "마테 스메츠",
-     "count": 1
-    },
-    {
-     "ko": "매튜 스메츠",
      "count": 1
     }
    ]
@@ -834,6 +780,38 @@
    ]
   },
   {
+   "en": "Sir Alex Ferguson",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "퍼거슨",
+     "count": 2
+    },
+    {
+     "ko": "알렉스 퍼거슨 경",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Vasco Seabra",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "바스코 세아브라",
+     "count": 1
+    },
+    {
+     "ko": "바스쿠 시브라",
+     "count": 1
+    },
+    {
+     "ko": "바스쿠 세브라",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Sommer",
    "dictionary": null,
    "variants": [
@@ -907,6 +885,20 @@
     },
     {
      "ko": "모이하",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keith Wyness",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "키스 와이니스",
+     "count": 2
+    },
+    {
+     "ko": "키스 와이네스",
      "count": 1
     }
    ]
@@ -1000,6 +992,20 @@
    ]
   },
   {
+   "en": "Matte Smets",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "매테 스메츠",
+     "count": 1
+    },
+    {
+     "ko": "매튜 스메츠",
+     "count": 1
+    }
+   ]
+  },
+  {
    "en": "Joaquin Seys",
    "dictionary": null,
    "variants": [
@@ -1009,20 +1015,6 @@
     },
     {
      "ko": "조아킨 세이스",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Jorge Simão",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "조르즈 시마웅",
-     "count": 1
-    },
-    {
-     "ko": "조르지 시망",
      "count": 1
     }
    ]
@@ -1079,20 +1071,6 @@
     },
     {
      "ko": "시몬 마르친야크",
-     "count": 1
-    }
-   ]
-  },
-  {
-   "en": "Sir Alex Ferguson",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "퍼거슨",
-     "count": 1
-    },
-    {
-     "ko": "알렉스 퍼거슨 경",
      "count": 1
     }
    ]
@@ -1177,6 +1155,20 @@
     },
     {
      "ko": "콰산",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "en": "Keyliane Abdallah",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "킬리안 아브달라",
+     "count": 1
+    },
+    {
+     "ko": "케리리안 압달라",
      "count": 1
     }
    ]
@@ -1300,8 +1292,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 425,
-   "llm": 425
+   "collected": 448,
+   "llm": 448
   }
  },
  "llmErrors": []
