@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T03:48:27.726Z",
+ "updatedAt": "2026-11-28T04:52:48.059Z",
  "hot": [
   "chelsea-manager-future",
   "nottingham-forest-chelsea-2026-11-27",
@@ -104,7 +104,7 @@
   "lequipe": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 2,
    "authorRate": 86
   },
   "fblondon": {
@@ -116,7 +116,7 @@
   "men": {
    "ok": true,
    "items": 25,
-   "added": 0,
+   "added": 2,
    "authorRate": 100
   },
   "lecho": {
@@ -152,13 +152,13 @@
   "record": {
    "ok": true,
    "items": 20,
-   "added": 2,
+   "added": 5,
    "authorRate": 0
   },
   "fotomac": {
    "ok": true,
    "items": 50,
-   "added": 0,
+   "added": 3,
    "authorRate": 0
   },
   "hln": {
@@ -327,7 +327,7 @@
   }
  ],
  "issueHealth": {
-  "recentIssues": 208,
+  "recentIssues": 210,
   "singleArticleRate": 43,
   "broad": [
    {
@@ -347,10 +347,6 @@
     "count": 28
    },
    {
-    "slug": "arsenal-man-city-2026-11-29",
-    "count": 23
-   },
-   {
     "slug": "losc-bayern-2026-11-25",
     "count": 23
    },
@@ -363,6 +359,10 @@
     "count": 22
    },
    {
+    "slug": "arsenal-man-city-2026-11-29",
+    "count": 21
+   },
+   {
     "slug": "marseille-levski-2026-11-26",
     "count": 21
    },
@@ -373,6 +373,10 @@
    {
     "slug": "psg-roma-2026-11-25",
     "count": 19
+   },
+   {
+    "slug": "viktoria-plzen-benfica-2026-11-26",
+    "count": 15
    },
    {
     "slug": "sterling-discipline",
@@ -996,20 +1000,6 @@
    ]
   },
   {
-   "en": "Antonio Nusa",
-   "dictionary": null,
-   "variants": [
-    {
-     "ko": "안토니 누사",
-     "count": 1
-    },
-    {
-     "ko": "안토니오 누사",
-     "count": 1
-    }
-   ]
-  },
-  {
    "en": "Joaquin Seys",
    "dictionary": null,
    "variants": [
@@ -1176,6 +1166,20 @@
      "count": 1
     }
    ]
+  },
+  {
+   "en": "Höjbjerg",
+   "dictionary": null,
+   "variants": [
+    {
+     "ko": "회야베르",
+     "count": 1
+    },
+    {
+     "ko": "회이비에르",
+     "count": 1
+    }
+   ]
   }
  ],
  "daily": {
@@ -1296,8 +1300,8 @@
    "llm": 821
   },
   "2026-11-28": {
-   "collected": 395,
-   "llm": 395
+   "collected": 408,
+   "llm": 408
   }
  },
  "llmErrors": []
